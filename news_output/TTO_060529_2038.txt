@@ -1,0 +1,7 @@
+﻿ Dịch_vụ khôi_phục dữ_liệu thẻ nhớ miễn_phí từ Sony
+Bộ_phận Sony tại châu Âu RME ( Recoring_Media & amp ; Energy ) giới_thiệu đến người dùng dịch_vụ cứu dữ_liệu trên thẻ nhớ ( Memory_Stick_Data_Rescue_Service ) . Dịch_vụ hỗ_trợ khôi_phục lại những tập_tin hình_ảnh và dữ_liệu được lưu_trữ trên Memory_Stick , đã bị mất hoặc xóa . Hơn_nữa , tin tốt_lành từ nhà_sản_xuất là dịch_vụ Memory_Stick_File_Rescue tương_thích với tất_cả thẻ nhớ Sony_Memory_Stick được sản_xuất từ năm … 1998 .
+Tuy_vậy , người dùng cũng phải lưu_ý rằng dữ_liệu không_thể cứu được hoàn_toàn 100% và quan_trọng nhất_là không được chép đè dữ_liệu lên thẻ nhớ .
+Công_cụ trực_tuyến này rất đơn_giản để sử_dụng và bạn phải đăng_ký để có_thể dùng , sau đó , điền số serial và model trên thẻ Memory_Stick của mình rồi tải phần_mềm tương_thích về máy .
+Các định_dạng mà dịch_vụ này có_thể khôi_phục được là : . JPG ( Định_dạng DCF ) , . MPEG1 và . MP4 ( MS Video_File_Format ) … kể_cả những tập_tin định_dạng văn_bản như Word và Powerpoint .
+Dịch_vụ này hoàn_toàn miễn_phí và người dùng có_thể tải về phần_mềm miễn_phí tại đây .
+TUYẾT_PHẤN

@@ -1,0 +1,8 @@
+﻿ Microsoft_Excel bị “ rách ” lần thứ 3
+Chỉ trong một tuần đã có 3 lỗi xuất_hiện trong chương_trình bảng tính của Microsoft . Người dùng Excel lại có thêm lý_do nữa để lo_lắng về tính an_toàn trong ứng_dụng văn_phòng nổi_tiếng này .
+Theo cảnh_báo đăng trên trang Securitytracker.com , hacker tấn_công người dùng bằng cách chạy một phần_mềm không hợp_pháp trên máy_tính nạn_nhân và lừa người dùng mở file Excel nguy_hiểm .
+Những kẻ_gian lợi_dụng công_nghệ Flash của Adobe_System , được dùng để tạo đồ_họa và ảnh động trong bản Excel . “ Khi người dùng mục_tiêu mở file bảng tính thì mã Flash nguy_hiểm sẽ tự_động thực_thi mà không cần người dùng tương_tác ” , bản cảnh_báo cho_biết .
+Juha-Matti Laurio , nhà_nghiên_cứu an_ninh độc_lập ở Helsinki , nhận_xét lỗi tấn_công lần này rất đáng lo_ngại vì mã khai_thác có_thể được thực_thi mà không cần người dùng can_thiệp nhiều . “ Thực_tế , nhúng mã nguy_hiểm vào bảng tính không phải chiêu tấn_công phổ_biến nhưng , vấn_đề là đáng lo_ngại nhất_là nếu mở file độc thì ngay lập tính sẽ dính virus ” , ông này nói .
+Nhóm an_ninh của Microsoft thực_sự rất bận_rộn trong mấy tuần qua . Thứ 3 tuần trước , hãng phần_mềm đã vá một lỗi nghiêm_trọng trong phần_mềm Word ; và trong tuần này , Microsoft lại bị “ dội ” thêm 3 lỗ_hổng Excel .
+Hiện_tại , Microsoft chưa có ý_kiến phản_hồi về cảnh_báo trên website Securitytracker.com .
+N . H_Theo PCWorld

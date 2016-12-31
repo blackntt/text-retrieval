@@ -1,0 +1,12 @@
+﻿ Trang_phục thông_minh 2005
+Là ý_tưởng của nhà_thiết_kế thời_trang người Đan_Mạch_Alex_Soza . Áo đo được nhiệt_độ bên ngoài để xác_định nhiệt_độ cần_thiết giữ cho cơ_thể ấm_áp hay thoải_mái . Trời trở lạnh , nhiều gió , chiếc áo sẽ phồng lên nhận không_khí vào , trở_thành một lớp cách_nhiệt lý_tưởng .
+Khi trời nóng , chiếc áo sẽ xẹp xuống chỉ còn dày 2mm , cho_phép thân_nhiệt tỏa ra . Nó không thấm nước và hoạt_động với một pin nhỏ 6V . Thêm vào đó , trên tay_áo có cài bộ cảm_biến giúp người mặc có_thể điều_chỉnh nhiệt_độ ưng_ý hơn .
+Áo_khoác lơ_lửng
+Một ý_tưởng độc_đáo khác của Soza là áo_khoác tự treo . Bạn có_thể cởi áo_khoác ra , bỏ đi và nó sẽ lơ_lửng trong không_khí . Tác_giả chưa giải_thích bí_quyết của ông , nhưng một_số chuyên_gia đoán rằng chẳng có cuộc cách_mạng vật_lý nào cả : chiếc áo_khoác của Soza chỉ bơm đầy khí heli !
+Bộ khung ngoài - quần_áo mạnh cho phái_yếu Quần_áo mạnh cho phái_yếu
+Đối_với những phụ_nữ yếu_ớt , Soza thiết_kế loại trang_phục làm họ mạnh hơn . Phụ_nữ có_thể khoác các bộ trang_phục này để xoay_xở khi phải thay lốp ôtô hay mang túi_xách không sợ bị giật !
+Giày thông_minh
+Là ý_tưởng thiết_kế của Đại_học Công_nghệ Massachusetts . Chiếc giày sẽ tự xác_định chủ_nhân đang trong tình_trạng nào ( đi bộ , đứng yên , chạy ... ) bằng bộ cảm_biến trong đế giày .
+Từ đó , nó điều_khiển máy_bơm nhỏ dưới đế bơm vào hay thải bớt không_khí ra làm cho đế giày tạo cảm_giác thoải_mái cho người sử_dụng .
+Ngoài_ra , bộ_nhớ cài trong giày sẽ ghi_nhận chuyển_động của chủ_nhân , kể_cả tốc_độ và mạch . Tại nhà , chủ_nhân có_thể xem trên màn_hình để tính vận_tốc , đoạn đường đã đi và số calori đã tiêu_thụ . Chưa hết , những chiếc giày thông_minh còn có_thể trao_đổi , nhận_biết nhau trên đường_phố và cho địa_chỉ điện_tử chủ_nhân của nó . Giá một_đôi giày này từ 500-1.000 USD !
+T . DANH ( Theo T3 , KP )

@@ -1,0 +1,23 @@
+﻿ Gợi_ý giúp thí_sinh ôn thi môn Hóa
+- Các câu_hỏi giáo_khoa ( sử_dụng tính_chất vật_lý , tính_chất hoá_học ; điều_chế để trả_lời những câu_hỏi : viết phản_ứng ; nhận_biết ; tách chất ; sơ_đồ điều_chế ; nêu các hiện_tượng thí_nghiệm , … ) .
+- Các bài_toán ( Chủ_yếu định_lượng , xác_định công_thức ) .
+Như_vậy thí_sinh cũng nhắm vào hai yêu_cầu trên để chuẩn_bị .
+Trong quá_trình ôn_tập thí_sinh cần lưu_ý :
+Những nội_dung thuộc về giáo_khoa phải nắm một_cách chắc_chắn và đầy_đủ để trả_lời thật ngắn_gọn , đúng với yêu_cầu đáp_án và đặc_biệt không được để sai_sót xảy_ra dù là rất nhỏ ( ví_dụ các điều_kiện phản_ứng , … ) .
+Khi giải toán phải chú_ý đến hai yếu_tố quan_trọng : tốc_độ và chính_xác . Do_đó việc chuẩn_bị ở nhà phải thật chu_đáo , cụ_thể :
+- Phải được thấy đủ các dạng toán .
+- Phải có phương_pháp giải cụ_thể cho từng dạng .
+- Phải tự giải lại nhiều lần cho_đến khi thấy các thao_tác tính_toán được nhuần_nhuyễn !
+- Đối_với nội_dung sử_dụng giải câu_hỏi giáo_khoa : chỉ cần xem kỹ các nội_dung trọng_tâm trong bộ sách_giáo_khoa hoá_học ( hiển_nhiên phải xem các nội_dung của các lớp : 10 , 11 , 12 ) ; Chú_ý các nguyên_tố quan_trọng ( Ví_dụ ở PN_VIIA : Xem kỹ các phản_ứng của Cl , Br . PNVIA : S , O ; PNVA : N , P ; PNIA : Na , K ; PNIIA : Mg , Ca , Ba . Kim_loại khác : Al , Fe ) .
+- Đối_với nội_dung sử_dụng giải toán : Phải nắm vững các công_thức định_lượng , công_thức viết phản_ứng ( hiển_nhiên phải_biết cân_bằng phản_ứng ) ; Các nguyên_tắc ; Các qui_luật hoá_học ; Các định_luật ( Định_luật_bảo_toàn_khối_lượng , bảo_toàn điện_tích , định_luật thành_phần không đổi ) .
+Nhận_xét đề thi Tuyển_sinh ĐH môn Hóa_học , khối A , năm 2005 :
+& gt ; & gt ; Tham_khảo đề tuyển_sinh hóa_học 2005 & gt ; & gt ; Tham_khảo bài giải tuyển_sinh hóa_học 2005
+- Về nội_dung : Đề thi phân_bố đều khắp chương_trình ; theo đúng chủ_trương của Bộ Giáo_Dục ( không có câu nằm ngoài chương_trình ; không cho quá lắt_léo ; không đánh_đố thí_sinh ; mức_độ phân_hoá cao ) ; Tuy_nhiên với thí_sinh chuẩn_bị chưa tốt hay chỉ nghe các bài giảng trong sách_giáo_khoa thôi_thì sẽ gặp nhiều khó_khăn !
+- Câu I , ý 2 : Thực_tế là khó đối_với thí_sinh ( ít có thí_sinh lấy điểm tối_đa ý này , do thí_sinh không nắm nguyên_tắc giải loại này ! )
+- Câu II : Chỉ cần thuộc bài là có_thể lấy_được điểm tối_đa ( nhưng đa_số thí_sinh hay để sai_sót trong quá_trình viết phản_ứng ) .
+- Ý_tưởng của tác_giả cho Câu III , ý 2 rất hay , nhưng rất tiếc các giá_trị đề cho chưa hợp_lý ; đáp_án chưa thuyết_phục ( Câu này điều_chỉnh lại 2 sai_sót trên thì chỉ có các thí_sinh khá giỏi mới có_thể lấy_được điểm tối_đa ! ) .
+- Câu IV , ý 2 : Mặc_dù đơn_giản nhưng khó_chịu đối_với thí_sinh ( Cho_nên đa_số thí_sinh đặt sai công_thức tổng_quát của D ) .
+- Câu V , ý 1 : là câu rất cơ_bản , nằm trong tầm kiểm_soát của thí_sinh
+- Câu V , ý 2 : Là câu có mức_độ đòi_hỏi cao , nhưng đáp_án và thang điểm câu này chưa hợp_lý !
+- Câu VI : là câu khó đối_với nhiều thí_sinh ( Thực_tế rất ít thí_sinh giải hoàn_chỉnh câu này ! )
+NGUYỄN_TẤN_TRUNG ( Trung_tâm Luyện thi chất_lượng cao Vĩnh_Viễn )

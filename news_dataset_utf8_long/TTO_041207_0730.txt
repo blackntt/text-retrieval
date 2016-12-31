@@ -1,0 +1,9 @@
+﻿Anh: hầu hết máy tính đều bị nhiễm spyware
+
+Bình quân một máy PC có chứa đến 20 đoạn mã liên quan đến các phần mềm gián điệp bao gồm mã của đủ loại phần mềm vô hại hoặc nguy hiểm (có chức năng theo dõi hoạt động của hệ thống hay cài trojan …). 
+Công ty bảo mật Webroot Software đã tiến hành cuộc nghiên cứu này trên 10.000 máy tính của 4.100 công ty tại Anh. 
+Đa số các phần mềm gián điệp này đều tỏ ra vô hại, chủ yếu là các adware có tác dụng kích hoạt quảng cáo, lây lan quảng cáo hoặc gửi dữ liệu quảng cáo đi đến những máy tính khác. Nhưng 5% trong tổng số các phần mềm gián điệp có tác dụng giám sát hệ thống tức có thể theo dõi hoạt động của nguời dùng đang online và khoảng 5,5% có tác dụng cấy Trojans vào máy tính. 
+Các loại Trojan này có thể sử dụng để cài đặt các “cổng hậu” trong máy tính, cho phép kẻ tấn công truy cập được vào máy tính để tung spam, ăn cắp thông tin nhạy cảm của doanh nghiệp, hoặc tấn công bằng kỹ thuật từ chối dịch vụ … 
+Trong bản thông báo chính thức của mình, Richard Stiennon phó chủ tịch của Webroot cho biết: "Tất cả mọi thông tin về công ty, khách hàng, tiền lương, sản phẩm, mã nguồn … đều là mục tiêu của spyware".
+
+HOÀNG HẢI (Theo ZDNet)

@@ -1,0 +1,28 @@
+﻿ ĐH Đà_Nẵng công_bố điểm trúng_tuyển NV3
+Theo đó , đây là mức điểm đối_với học_sinh phổ_thông - khu_vực 3 . Mỗi đối_tượng ưu_tiên cách nhau 1 điểm , mỗi khu_vực ưu_tiên cách nhau 0.5 điểm .
+Đây là điểm trúng_tuyển với tổng điểm của 3 môn thi ( không có môn điểm 0 ) , kể_cả hệ_số ( nếu có ) , cộng điểm thưởng và điểm ưu_tiên theo khu_vực và đối_tượng .
+Mức điểm của Trường ĐH Ngoại_ngữ của ngành Cử_nhân tiếng Nga đúng với số điểm dự_kiến là 16.5 , ngành Cử_nhân tiếng Pháp cao hơn 2 điểm .
+Trong khi đó , điểm trúng_tuyển ngành Cử_nhân Địa_lý của Trường ĐH Sư_phạm lên đến 19 điểm , vượt điểm_chuẩn dự_kiến 4 điểm ; còn ngành Cử_nhân Sinh - Môi_trường có điểm trúng_tuyển NV3 là 18 điểm , cao hơn dự_kiến 2 điểm .
+Mã ngành
+Ngành đào_tạo
+Khối thi
+Điểm trúng_tuyển
+TRƯỜNG_ĐẠI_HỌC_SƯ_PHẠM ( ký_hiệu DDS )
+106
+Cử_nhân Địa_lý
+A
+19.0
+302
+Cử_nhân Sinh - Môi_trường
+B
+18.0
+TRƯỜNG_ĐẠI_HỌC_NGOẠI_NGỮ ( ký_hiệu DDF )
+752
+Cử_nhân tiếng Nga
+D1 , D2
+16.5
+753
+Cử_nhân tiếng Pháp
+D3
+18.5
+QUỐC_DŨNG

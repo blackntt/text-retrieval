@@ -1,0 +1,5 @@
+﻿ĐTDĐ dùng cho cả hai mạng Cityphone và GSM
+
+Máy UT 818 cho phép thực hiện cuộc gọi theo chế độ ưu tiên. Chẳng hạn khi bạn cài đặt mạng Cityphone trước thì máy sẽ tiến hành gọi bằng Cityphone trước; khi không gọi được (do ngoài tầm phủ sóng) sẽ chuyển qua gọi bằng mạng GSM. Máy UT 818 có thể nhận đồng thời 2 số (cả Cityphone và GSM). Trong trường hợp 2 cuộc gọi đến trong cùng một thời điểm, người dùng có thể lựa chọn cuộc gọi đến để nghe hoặc nghe cả 2 bằng việc giữ một cuộc lại. Giá bán dự kiến khoảng 4.800.000đ/chiếc.
+
+Theo SGGP

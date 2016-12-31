@@ -1,0 +1,3 @@
+﻿ Thêm_Trojan mới đòi tiền chuộc
+Hãng bảo_mật Sophos phát_hiện một chương_trình Trojan mới : Arhiveus . a , mã_hóa tất_cả tập_tin trong thư_mục “ My_Documents ” sau khi nó lây_nhiễm vào máy_tính . Khi người sử_dụng tìm cách truy_cập tập_tin trong thư_mục này , một thông_báo xuất_hiện và cảnh_báo về những hậu_quả nếu nạn_nhân tìm cách thông_báo cho các nhà_chức_trách . Thủ_phạm yêu_cầu nạn_nhân mua hàng tại một trong 3 cửa_hàng dược_phẩm trực_tuyến trước khi cung_cấp cho họ một mật_khẩu gồm 30 ký_tự để giải_mã . Đây là chương_trình Trojan thứ 3 thuộc dạng “ phần_mềm đòi tiền chuộc ” xuất_hiện trong năm nay .
+P . A . T ( Theo Tech Web )

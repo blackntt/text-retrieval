@@ -1,0 +1,9 @@
+﻿Apple giới thiệu bản vá 17 lỗi bảo mật
+
+Chiến dịch vá lỗi bảo mật này mang tên “Security Update 2006-001” này xuất hiện chỉ một tuần sau khi các công ty bảo mật lên tiếng cảnh báo về 2 lỗi bảo mật nghiêm trọng xuất hiện trong Mac OS X và trình duyệt Safari. 
+Lỗi bảo mật xuất hiện trong Safari tạo điều kiện cho kẻ tấn công âm thầm đột nhập vào máy Mac bằng cách lừa người dùng chui vào các trang web có gài mã độc. Còn lỗi bảo mật có trong Mac OS X chính là lỗi xuất hiện trong cơ chế nén file ZIP. Lỗi này tạo điều kiện cho một file ZIP chứa đầy mã độc có thể tự động giải nén khi được tung vào máy tính. 
+Các công ty bảo mật đánh giá rằng tốc độ sửa lỗi của Apple trong đợt vá lỗi này quả thật hết sức ấn tượng và có thể lấy để làm gương cho Microsoft, công ty nổi tiếng trễ nải từ vài tuần cho đến vài tháng trong việc vá lỗi bảo mật. 
+Đợt vá lỗi này cũng bao gồm bản vá dành cho một lỗi bảo mật xuất hiện trong trình nhắn tin trực tuyến iChat. Lỗi này tạo điều kiện cho con virus OSX/Leap.a xâm nhập vào hệ điều hành thông qua iChat. OSX/Leap.a là con virus hiếm hoi đầu tiên có khả năng tấn công vào môi trường Mac OS X. 
+Những người đang sử dụng Mac OS X nên lập tức vào đây để tải ngay các bản vá cần thiết về sử dụng.
+
+HOÀNG HẢI (Theo TechWeb News)

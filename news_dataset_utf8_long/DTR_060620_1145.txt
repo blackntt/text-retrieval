@@ -1,0 +1,9 @@
+﻿Bùng nổ lỗi phần mềm của Microsoft
+
+Các công ty bảo mật khuyến cáo về tình hình an ninh rất đáng báo động trong các sản phẩm phần mềm của Microsoft. Chỉ riêng 5 tháng đầu năm 2006, hãng này đã vá 36 lỗ hổng nghiêm trọng trong các phần mềm, tăng 70% so vời cùng kỳ 2005. 
+ 
+Mặc dù vậy, Microsoft lại cho rằng số lượng lỗi nghiêm trọng trong thời gian trên không thể báo hiệu một xu hướng đáng lo ngại. 
+Microsoft còn cho biết thêm, nỗ lực giảm số lỗi phần mềm của hãng đã rất thành công trong một số sản phẩm, như Windows Server 2003 và SQL Server 2005. Gã khổng lồ này cũng bác bỏ suy đoán rằng những cuộc thi tìm lỗi có thưởng do hai hãng iDefense và TippingPoint tổ chức mỗi quý là một nguyên nhân khiến số lỗi của Microsoft tăng nhanh như thế. 
+Công ty bảo mật iDefense cũng đồng tình với Microsoft và cho rằng bây giờ là quá sớm để đưa ra một kết luận về sự bùng nổ lỗi an ninh trong phần mềm Microsoft. 
+TippingPoint và iDefense chỉ là số ít trong số những công ty bảo mật trao giải thưởng cho những cá nhân, tổ chức cung cấp thông tin về những khuyếm khuyết chưa được vá. Có thể xung quanh chúng ta đang tồn tại một thị trường “chợ đen” cung cấp thông tin cho tin tặc để ăn trộm thông tin nhận dạng cá nhân, dữ liệu của các cơ quan tình báo quốc gia. 
+N.H Theo VNuNet

@@ -1,0 +1,26 @@
+﻿Bộ công cụ chẩn đoán lỗi ổ cứng (Phần II)
+
+MaxBlast 3 là tiện ích đơn giản giúp cài đặt các ổ cứng dạng ATA/IDE. MaxBlast 3 tạo cài đặt và nâng cấp dễ dàng cho người dùng không hiểu biết hay chuyên nghiệp theo cùng một cách như nhau là tự động nhận biết, phân vùng và format bất kỳ ổ cứng Maxtor ATA nào. MaxBlast 3 giúp bạn chuẩn bị mọi thứ chỉ trong vài phút. 
+Phiên bản MaxBlast 3 thay thế cho tất cả các phiên bản trước như MaxBlast hay MaxPlast Plus. 
+MaxBlast 3.6 chạy trên hầu hết các phiên bản của HĐH Windows như Windows 95, 98, Me, NT, 2000, Windows XP Home – Professional, hỗ trợ cả 2 định dạng là FAT và NTFS, có khả năng xử lý đến 4 thiết bị ATA trên cùng một hệ thống. Giao diện thân thiện và hỗ trợ cả in ấn. Để sử dụng MaxBlast 3.6 thì bạn phải có ít nhất một ổ cứng Maxtor ATA được lắp đặt. 
+Ngoài ra, MaxBlast 3 cũng có một phiên bản cho HĐH Windows là MaxBlast 3 for Windows. Phiên bản này ngoài chức năng kể trên hỗ trợ cho bất kỳ ổ cứng IDE nào, MaxBlast 3 for Windows còn được sử dụng trên hệ thống đã cài đặt HĐH Windows để copy tất cả dữ liệu sang một ổ cứng mới để sử dụng như một ổ đĩa khởi động hoặc cho việc lưu trữ. 
+Nếu bạn đang cài đặt mới một hệ thống, thì nhà sản xuất khuyến cáo nên sử dụng đĩa mềm khởi động MaxBlast hay CD. 
+- MaxBlast for Windows (English) 
+- MaxBlast for Windows (French) 
+- MaxBlast for Windows (German) 
+Bạn có thể tải về “MaxBlast Bootable ISO CD” dung lượng khỏang 52MB tại đây. Rồi dung một chương trình như UltraISO hay Nero Burning Rom để burn ra CD. 
+- MaxBlast Bootable ISO (English) 
+- MaxBlast Bootable ISO (French) 
+- MaxBlast Bootable ISO (German) 
+B. PowerMax 
+PowerMax là tiện ích được thiết kế để phân tích cho việc đọc/ghi của các ổ đĩa cứng Maxtor và Quantum. Những phần kiểm tra này sẽ quyết định trạng thái của ổ đĩa cứng. Tiện ích PowerMax có thể sử dụng với tất cả những ổ cứng ATA (IDE) với dung lượng lớn hơn hoặc bằng 500MB. Maxtor khuyến cáo người dung thường xuyên sử dụng PowerMax để phát hiện những hư hỏng tiềm tàng của ổ đĩa cứng. 
+Dung lượng gần 1MB, PowerMax bao gồm 3 thứ tiếng (Anh, Pháp Đức) có thể tải về tại đây . 
+C. SCSIMax 
+SCSIMax giúp người dùng phân tích tất cả các ổ đĩa cứng SCSI của Maxtor / Quantum với các chức năng như theo dõi (Self-Monitoring), phân tích và báo cáo. Việc kiểm tra này sẽ giúp bạn biết về tình trạng của ổ cứng trong thời gian ngắn với mức độ chính xác cao. 
+Nếu việc kiểm tra hoàn tất mà không có lỗi, thì vấn đề trục trặc sẽ nằm ở các linh kiện còn lại trong hệ thống. Kiểm tra lại cáp SCSI, đầu cắm và hệ điều hành. Maxtor cũng khuyến cáo người dùng kiểm tra hỏng hóc của ổ đĩa cứng với SCSIMax không chỉ ở bề mặt vật lý như hư hỏng cluster, sector, các phân vùng hoặc định dạng ổ đĩa … mà còn ở sự nhận diện ổ cứng (trường hợp hệ điều hành không nhận diện đươc ổ cứng). 
+SCSIMax sử dụng bộ điều khiển SCSI ASPI để gởi tập lệnh Int13 đến ổ cứng. SCSIMax không phải là tiện ích phá hủy dữ liệu, nhưng nhà sản xuất cũng khuyến cáo nên sao lưu lại tất cả dữ liệu trước khi sử dụng. 
+Chú ý: SCSIMax không sử dụng được cho các hệ thống máy tính Apple và bộ điều khiển SCSI Ultra320. Tiện ích này cũng không hoạt động trên máy tính để bàn sử dụng HĐH Windows. 
+Dung lượng nhỏ gọn (70KB), có thể tải về tại đây . 
+(Còn tiếp)
+
+TRẦN THANH TRỰC

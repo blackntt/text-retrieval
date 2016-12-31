@@ -1,0 +1,20 @@
+﻿Các tiện ích về World Cup 2006
+
+World Cup 2006 đã gần kề, bạn muốn có thông tin nhanh và nhiều nhất về các đội bóng mà mình yêu thích, muốn tìm hiểu thông tin tư liệu về World Cup hay cài đặt các phần mềm lịch thi đấu, theo dõi tỉ số... xin giới thiệu một số tiện ích, website thú vị đáp ứng nhu cầu này 
+Tìm thông tin về World Cup 2006 
+Địa chỉ đầu tiên bạn không thể bỏ qua là trang chính thức về World Cup 2006 của FIFA tại địa chỉ http://fifaworldcup.yahoo.com/06/en/e/. Trang web trình bày đẹp, có giao diện bằng 9 thứ tiếng phổ biến nhất thế giới, cung cấp đầy đủ thông tin, hình ảnh về các đội thi đấu, lịch thi đấu. Bạn cũng có thể tìm hiểu các thành phố nơi diễn ra các trận đấu qua website này. 
+Ngoài thông tin, tại trang web này còn có một số game mini, chương trình trang trí màn hình (screensaver) và hình nền (wallpaper) khá đẹp mắt, được cung cấp miễn phí. 
+Một tiện ích khá hay được trang web này cung cấp là FIFA World Cup toolbar giúp theo dõi nhanh thông tin khi kết nối Internet. Đây thực chất là Yahoo! toolbar được bổ sung tính năng theo dõi thông tin World Cup 2006. Toolbar này sẽ dẫn vào trang chủ Fifaworldcup.com, cho phép cập nhật nhanh thông tin về các đội bóng mà bạn quan tâm, 
+Cần tìm thông tin tư liệu về World Cup, bạn có thể truy cập vào địa chỉ http://www.worldcup-history.com/. Tại đây có thông tin chi tiết về các kỳ World Cup đã diễn ra, được sắp xếp ngay bên trái màn hình rất dễ tìm. 
+Với những ai cần tìm đường thì đã có trang http://googling.phpmagazine.net/worldcupmap/ cung cấp bản đồ chi tiết từ dịch vụ Google Map với 12 sân vận động ở Berlin, Cologne, Dortmund, Gelsenkirchen, Hamburg, Hanover, Frankfurt, Kaiserslautern, Stuttgart, Leipzig, Munich và Nuremberg được đánh dấu sẵn. 
+Các phần mềm tiện ích khác 
+Lịch thi đấu World Cup 2006: Là thứ không thể thiếu với bạn. Hãy vào địa chỉ www.excely.com/worldcup2006.zip để tải về (miễn phí) lịch thi đấu dạng file Excel. Để tiện sử dụng, bạn chọn ngôn ngữ là tiếng Việt và múi giờ là GMT+7:00 để xem lịch thi đấu theo giờ VN. Sau mỗi trận đấu, bạn nhập tỉ số vào, Excel sẽ tự động tính điểm, hiệu số bàn thắng thua của mỗi đội tuyển, tính ra tên các đội thi đấu trong các vòng sau đó. 
+Dành cho ĐTDĐ: Với các nhãn hiệu Nokia, Samsung và Motorola có phần mềm về lịch thi đấu World Cup 2006 do Công ty FPT mobile cung cấp miễn phí. Phần mềm này có các giao diện đẹp, hoàn toàn bằng tiếng Việt, tốc độ truy xuất nhanh. Các chức năng của phần mềm khá phong phú, bao gồm tra cứu theo lịch bảng, lịch ngày thi đấu, lịch đội thi đấu, bảng xếp hạng. Ngoài ra, chương trình còn cung cấp cho người sử dụng những thông tin về các đội tuyển dự World Cup 2006, sơ đồ hình cây tới trận chung kết của các đội tuyển. 
+Điểm đặc biệt của chương trình này là có thể cập nhật tỉ số bằng thao tác hoặc có thể kết nối GPRS vào server wap của FPT để cập nhật tỉ số. Tổng dung lượng file cập nhật khoảng 1 KB do đó không tốn nhiều chi phí GPRS. 
+Phần mềm này được viết trên nền JM2E MIDP 2.0 và được chạy trên tất cả các máy ĐTDĐ có hỗ trợ màn hình màu JAVA MIDP 2.0. Các phiên bản đã được hoàn chỉnh cho các máy Samsung (độ phân giải màn hình 128 x 128, 128 x 160, 176 x 220, 240 x 320), Motorola (176 x 208), Nokia (128 x 128, 128 x 160, 176 x 204). Ngoài ra, các dòng điện thoại không thuộc các độ phân giải trên mà có hỗ trợ JAVA MIDP2.0 đều có thể cài đặt nhưng không hiển thị hết màn hình. 
+Người dùng ĐTDĐ có thể đến các siêu thị điện thoại để cài đặt hay vào website www.fptmobile.com.vn để tải. 
+Với người dùng các loại thiết bị cầm tay dùng hệ điều hành Palm, có thể tìm phần mềm Copa Mundo - Mobile World Cup 2006 tại địa chỉ sau: 
+http://www.getjar.com/products/4943/MobileWorld Cup2006CopaMundo. 
+Phần mềm này hỗ trợ nhiều dòng máy Palm như Palm Zire 21, Palm Zire 31, Palm Zire 71, Tungsten T3, T5, E, C, Zire 72, Treo 600, Treo 650. Copa Mundo cho phép cập nhật dữ liệu tự động khi kết nối Internet với dung lượng file cập nhật chỉ khoảng 1 KB. Dung lượng phần mềm khá nhỏ, chỉ chiếm gần 100 KB bộ nhớ sau khi cài đặt. Ngoài hệ điều hành Palm, Copa Mundo còn hỗ trợ các máy dùng hệ điều hành Symbian hoặc máy hỗ trợ Java MIDP 1.0 và 2.0.
+
+Tường Nghi

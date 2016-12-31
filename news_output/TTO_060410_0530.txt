@@ -1,0 +1,8 @@
+﻿ In hình khổ lớn bằng máy_in nhỏ
+Chương_trình sẽ khéo_léo “ cắt ” tấm ảnh số của bạn ra thành rất nhiều phần nhỏ bằng nhau với kích_thước của mỗi phần bằng đúng khổ giấy A4 . Bạn chỉ việc in ra toàn_bộ những phần này , sau đó ghép lại với nhau cho chính_xác như trò_chơi ghép hình của trẻ_em và dán lên một nơi nào_đó đã chuẩn_bị sẵn , bạn sẽ có một tấm ảnh “ to_đùng ” không thua_kém gì lắm so với các poster quảng_cáo .
+Sau khi chọn ngôn_ngữ cho mình , thường là tiếng Anh , bạn nhấn vào “ Continue ” để vào các bước :
+Nhấn vào “ Browse ” để tìm đến bức ảnh cần in rồi nhấn “ Open ” để hiện ra đường_dẫn đến tấm ảnh rồi nhấn “ Continue ” .
+Chọn khổ giấy của máy_in - & gt ; nếu tấm ảnh là khổ đứng thì chọn “ Portrait ” , nếu là khổ ngang thì chọn “ Landscape ” .
+Ở ô “ sheets ” , bạn thoải_mái lựa_chọn số tờ mà bạn cần “ The_Rasterbator ” cắt ra cho mình . Lưu_ý số tờ càng nhiều thì tấm ảnh của bạn càng lớn và có_thể đến mức khổng_lồ . Nên tính_toán kỹ mặt_bằng dán ảnh trước khi ra_lệnh cho “ The_Rasterbator ” cắt hình . Số tờ tối_đa mà “ The_Rasterbator ” có_thể cắt cho bạn là đến 1.000 tấm , đủ sức tạo nên một bảng quảng_cáo kinh_khủng !
+Bản mới nhất của chương_trình là “ Rasterbator_Standalone 1.2 ” có_thể tải miễn_phí tại http : / / arje.net/files/Rasterbator _ Standalone _ 1.21.zip dưới dạng file nén ZIP có dung_lượng 866 KB . Khi tải về máy xong , bạn chỉ việc bung thư_mục chứa chương_trình vào ổ_cứng và nhấp đúp vào file Rasterbator.exe để chương_trình tự_động chạy , không cần cài_đặt .
+HOÀNG_HẢI

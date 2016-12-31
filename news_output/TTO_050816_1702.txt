@@ -1,0 +1,258 @@
+﻿ ĐH Quốc_gia Hà_Nội công_bố điểm trúng_tuyển
+Theo đó , điểm này dành cho thí_sinh thuộc KV3 và đối_tượng là học_sinh phổ_thông . Hiện ĐH Quốc_gia Hà_Nội còn 752 chỉ_tiêu cho nguyện_vọng 2 , bao_gồm :
+- Khoa_Kinh tế : 21 chỉ_tiêu ngành Kinh_tế chính_trị .
+- ĐH Công_nghệ : 18 chỉ_tiêu cho ngành Vật_lý kỹ_thuật và Cơ_học kỹ_thuật ( mỗi ngành 9 chỉ_tiêu ) .
+- Khoa_Luật : 77 chỉ_tiêu cho ngành Luật_học ( 67 chỉ_tiêu ) và Luật kinh_doanh ( 10 chỉ_tiêu ) .
+- ĐH Khoa_học_tự_nhiên : 285 chỉ_tiêu cho các ngành Toán cơ ( 20 ) , Toán - Tin ứng_dụng ( 50 ) , Công_nghệ hạt_nhân ( 25 ) , Khí_tượng - Thủy_văn - Hải_dương_học ( 45 ) , Địa_lý ( 40 ) , Địa_chính ( 20 ) , Địa_chất ( 45 ) , Địa kỹ_thuật - Địa môi_trường ( 40 ) .
+- ĐH Ngoại_ngữ : 180 chỉ_tiêu cho các ngành Tiếng_Anh ( 60 ) , Tiếng_Nga ( 44 ) , Tiếng_Pháp ( 12 ) , Tiếng_Đức ( 51 ) , Tiếng_Hàn ( 13 ) .
+- ĐH_KHXH& amp ; NV : 171 chỉ_tiêu cho các ngành tâm_lý ( 20 ) , Triết_học ( 20 ) , Văn_học ( 15 ) , Ngôn_ngữ ( 25 ) , Thông_tin - Thư_viện ( 50 ) , Đông phương học ( 10 ) , Quốc_tế học ( 25 ) , Hán nôm ( 6 ) .
+Dưới đây là danh_sách điểm_chuẩn của các trường , khoa trực_thuộc ĐH Quốc_gia Hà_Nội .
+Các trường
+Ngành đào_tạo
+Mã ngành
+Điểm_chuẩn
+NV2 / Chỉ_tiêu
+Khoa_Kinh tế ( QHE )
+Kinh_tế chính_trị
+401
+21 ( A )
+21 / 10
+21 ( D )
+21 / 11
+Kinh_tế đối_ngoại
+402
+24 ( A )
+24 ( D )
+Quản_trị kinh_doanh
+403
+24 ( A )
+23.5 ( D )
+Tài_chính – Ngân_hàng
+404
+24.5 ( A )
+24.5 ( D )
+ĐH Công_nghệ ( QHI )
+Công_nghệ_thông_tin
+105
+25.5 ( A )
+Công_nghệ điện_tử viễn_thông
+109
+26.5 ( A )
+Vật_lý kỹ_thuật
+115
+22.5 ( A )
+22.5 / 9
+Cơ_học kỹ_thuật
+116
+22 ( A )
+22 / 9
+Khoa_Luật ( QHL )
+Luật_học
+505
+21 ( A )
+21 / 47
+19 ( C )
+18 ( D )
+18 / 20
+Luật kinh_doanh
+506
+21.5 ( A )
+21.5 / 10
+21 ( D )
+Khoa_Sư phạm ( QHS )
+Toán_học
+111
+26.5 ( A )
+Vật_lý
+113
+25.5 ( A )
+Hóa_học
+207
+27 ( A )
+Sinh_học
+304
+23 ( A )
+24.5 ( B )
+Ngữ_văn
+611
+21 ( C )
+20 ( D )
+Lịch_sử
+613
+21 ( C )
+21 ( D )
+ĐH Khoa_học_tự_nhiên ( QHT )
+Toán_học
+101
+22.5 ( A )
+Toán cơ
+102
+22.5 ( A )
+23.5 / 20
+Toán – Tin ứng_dụng
+103
+24 ( A )
+24.5 / 50
+Vật_lý
+106
+21.5 ( A )
+Công_nghệ hạt_nhân
+108
+21.5 ( A )
+22 / 25
+Khí_tượng - Thủy_văn - Hải_dương_học
+110
+20 ( A )
+22 / 45
+Hóa_học
+201
+26 ( A )
+Công_nghệ hóa_học
+202
+23 ( A )
+Thổ_nhưỡng
+203
+20 ( A )
+22 ( B )
+Địa_lý
+204
+20 ( A )
+22 / 40
+Địa_chính
+205
+20 ( A )
+22 / 20
+Địa_chất
+206
+20 ( A )
+22 / 45
+Địa kỹ_thuật – Địa môi_trường
+208
+20 ( A )
+22 / 40
+Sinh_học
+301
+25 ( B )
+CN Sinh
+302
+26 ( B )
+Khoa_học môi_trường
+303
+22.5 ( A )
+25 ( B )
+CN Môi_trường
+305
+21 ( A )
+ĐH Ngoại_ngữ ( QHF )
+Tiếng_Anh PD
+701
+26 ( D1 )
+27 / 60
+Tiếng_Anh SP
+27 ( D1 )
+Tiếng_Nga PD
+702
+25 ( D1 )
+26 / 44
+25 ( D2 )
+26 / 44
+Tiếng_Nga SP
+26 ( D1 )
+26 ( D2 )
+Tiếng_Pháp PD
+703
+27 ( D3 )
+27.5 / 12
+Tiếng_Pháp SP
+28 ( D3 )
+Tiếng_Trung PD
+704
+26 ( D1 )
+25 ( D4 )
+Tiếng_Trung SP
+27 ( D1 )
+27.5 ( D4 )
+Tiếng_Đức PD
+705
+25 ( D1 )
+26 / 51
+Tiếng_Đức SP
+27 ( D1 )
+Tiếng_Nhật PD
+706
+26.5 ( D1 )
+Tiếng_Nhật SP
+29 ( D1 )
+Tiếng_Hàn
+707
+25 ( D1 )
+26 / 13
+ĐH_KHXH& amp ; NV ( QHX )
+Tâm_lý
+501
+19 ( C )
+19 / 10
+18.5 ( D )
+18.5 / 10
+Khoa_học quản_lý
+502
+20 ( C )
+19 ( D )
+Xã_hội_học
+503
+20 ( C )
+19 ( D )
+Triết_học
+504
+18 ( C )
+18 / 10
+18 ( D )
+18 / 10
+Văn_học
+601
+20 ( C )
+19 ( D )
+19 / 15
+Ngôn_ngữ
+602
+18 ( C )
+18 ( D )
+18 / 25
+Lịch_sử
+603
+20 ( C )
+20 ( D )
+Báo_chí
+604
+20.5 ( C )
+20 ( D )
+Thông_tin – Thư_viện
+605
+18 ( C )
+18 / 25
+18 ( D )
+18 / 25
+Lưu_trữ và Quản_trị văn_phòng
+606
+20 ( C )
+18.5 ( D )
+Đông phương học
+607
+21 ( C )
+19.5 ( D )
+19.5 / 10
+Quốc_tế học
+608
+19 ( C )
+19 ( D )
+19 / 25
+Du_lịch
+609
+20.5 ( C )
+19 ( D )
+Hán_Nôm
+610
+18 ( C )
+18 ( D )
+18 / 6
+QUỐC_DŨNG

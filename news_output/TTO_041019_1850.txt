@@ -1,0 +1,7 @@
+﻿ Xe sẽ chạy nhanh hơn
+Các loại xe sơmi rơmoóc , xe_kéo rơmoóc , xe_kéo xe lưu_hành trên đường nội_thành , nội_thị được tăng thêm 5 km / h , chạy tối_đa 25 km / h với đường_không có dải_phân_cách , và 30 km / h với đường có dải_phân_cách .
+Trên đường ngoại_thành và đường ngoài đô_thị , xe_tải có tải_trọng dưới 3,5 tấn , xe ô_tô chở người từ 10 đến 30 chỗ ngồi được chạy tối_đa 70 km / h ( tăng thêm 10 km / h ) .
+Xe_tải có tải_trọng từ 3,5 tấn trở_lên , ôtô chở người trên 30 chỗ ngồi , xe mô_tô 2-3 bánh được chạy tối_đa 60 km / h ( tăng thêm 10 km / h ) ; xe_gắn_máy , xe sơmi rơmoóc , xe_kéo rơmoóc , xe_kéo xe khác được chạy tối_đa 50 km / h ( tăng thêm 10 km ) khi lưu_hành trên đường ngoại_thành , ngoài đô_thị .
+Riêng tốc_độ tối_đa của xe_con , xe ôtô chở người đến 9 chỗ khi đi trên đường ngoài đô_thị vẫn giữ nguyên ở mức 70-80 km / h .
+Văn_bản này dựa trên kiến_nghị của Hiệp_hội vận_tải Việt_Nam đã lâu . Theo ông Nguyễn_Mạnh_Hùng , Chủ_tịch Hiệp_hội , quy_định tốc_độ phương_tiện cũ không còn phù_hợp với điều_kiện đường_sá đã cải_tạo và chất_lượng xe ngày_một nâng cao . Vả_lại tai_nạn giao_thông xảy_ra phần_lớn do ý_thức của chủ phương_tiện như tránh vượt sai quy_định , thiếu quan_sát phần đường , chở quá tải_trọng chứ không phụ_thuộc vào tốc_độ chạy xe .
+Theo Vn E

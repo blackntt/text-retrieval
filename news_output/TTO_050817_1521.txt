@@ -1,0 +1,18 @@
+﻿ Điểm_chuẩn ĐH Thương_mại , Thủy_lợi , Xây_dựng HN , Y_Hải_Phòng , Y_tế công_cộng , Phương_Đông , Viện ĐH Mở HN
+- Kinh_tế thương_mại : 21 - Kế_toán : 23.5 - Quản_trị khách_sạn - Du_lịch : 20 - Quản_trị doanh_nghiệp thương_mại : 21.5 - Thương_mại quốc_tế : 20.5 - Marketing thương_mại : 20
+ĐH Thủy_lợi ( phía Bắc và phía Nam )
+- Công_trình thủy_lợi : 24 - Thủy_nông - Cải_tạo đất : 22 - Thủy_văn - Môi_trường : 22 - Công_trình thủy_điện : 22 - Máy xây_dựng và Thiết_bị thủy_lợi : 22 - Tin_học ( Công_nghệ_thông_tin ) : 22 - Kỹ_thuật cơ_sở_hạ_tầng ( Cấp_thoát_nước ) : 23 - Kỹ_thuật xây_dựng công_trình ( Kỹ_thuật bờ biển ) : 22 - Kinh_tế thủy_lợi : 22.5
+Cơ_sở 2 TP.HCM : - Công_trình thủy_lợi : 20 - Thủy_nông - Cải_tạo đất : 16 - Kỹ_thuật cơ_sở_hạ_tầng ( Cấp_thoát_nước ) : 16
+ĐH Xây_dựng Hà_Nội
+- Tất_cả các ngành : 25.5 điểm
+ĐH_Y Hải_Phòng
+- Bác_sĩ đa_khoa : 25.5 - Điều_dưỡng : 20.5
+ĐH_Y tế công_cộng
+- Ngành Y_tế công_cộng : 22.5
+ĐH dân_lập Phương_Đông
+- Công_nghệ Thông_tin : 15 - Kiến_trúc : 20 ( Vẽ_Mỹ thuật có điểm & gt ; = 5 , nhân hệ_số 2 ) - Kỹ_thuật : 15 - Công_nghệ_sinh_học và môi_trường : 15 ( A - B ) - Quản_trị kinh_doanh : 15 ( A - D1 , 2,3,4 ) - Hướng_dẫn du_lịch : 15 - 14 - 14 ( A - C - D ) - Quản_trị văn_phòng : 15 - 14 - 14 ( A - C - D ) - Anh , Pháp , Trung , Đức , Nhật : 18 ( môn Ngoại_ngữ nhân hệ_số 2 , tổng chưa nhân & gt ; = 14 )
+ĐH dân_lập Quản_lý và Kinh_doanh Hà_Nội
+- Khối A , B : 15 - Khối C , D : 14
+Viện ĐH Mở_Hà_Nội
+- Tin_học : 15 - Điện_tử - Thông_tin : 15 - Công_nghệ_sinh_học : 15 - 19 ( A - B ) - Kế_toán : 17.5 - Quản_trị kinh_doanh : 16 - Quản_trị Du_lịch khách_sạn : 19 ( tiếng Anh hệ_số 2 ) - Hướng_dẫn Du_lịch : 19 ( tiếng Anh hệ_số 2 ) - Tiếng_Anh : 19 ( tiếng Anh hệ_số 2 ) - Mỹ_thuật vông nghiệp : 38,5 ( môn Vẽ_Hình họa và bố_cục màu hệ_số 2 ) - Kiến_trúc : 23.5 ( môn Vẽ_Mỹ thuật hệ_số 2 )
+NHÓM_PHÓNG_VIÊN_TTO

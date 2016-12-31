@@ -1,0 +1,61 @@
+﻿ Cách diệt virus SkyNet . P
+1 . Lọc các tiêu_đề của SkyNet . P từ gateway , bao_gồm : “ stolen document , re : hello , mail delivery , private document , re : notify , re : document , re : extended mail system , re : protected mail system , re : question , private document , và postcard ” .
+2 . Tải phần_mềm Bkav phiên_bản Bkav510 hoă ̣ c chương tri ̀ nh cu ̉ a Symantec về một thư_mục trên máy .
+3 . Nếu bạn dùng Windows_Me hoặc XP thì_phải tắt chức_năng System_Restore của hệ_điều_hành đi .
+4 . Khi máy của bạn có cài các chương_trình diệt virus khác như NAV , McAffe thì_phải tạm_thời tắt chức_năng tự_động bảo_vệ ( Auto_Protect ) của các chương_trình đó .
+5 . Chạy_Bkav 510 ( hoă ̣ c cu ̉ a Symantec ) , chọn quét tất_cả các file , tất_cả các ổ_đĩa .
+6 . Sau khi quét xong , cần xóa luôn các khóa mà virus đã tạo ra trong Registry như sau :
+- Chạy_Start / Run , gõ vào lệnh Regedit , bấm OK . - Tìm đến khóa : HKEY_ LOCAL_ MACHINE \ SOFTWARE\ Microsoft \ Windows \ CurrentVersion \ Run . - Trong bảng bên phải của khóa này , xóa giá_trị : “ ICQ_NET” = “ % Windir % \ winlogon.exe - stealth ” . Xóa bằng cách nhấp chuột phải vào khóa , chọn Delete hay bấm phím Delete .
+7 . Bạn nhớ cài bản sửa lỗi cho tương_ứng Internet_Explorer của mình nếu cần_thiết ( Virus lợi_dụng lỗ_hổng của IE 5.01 và IE 5.5 ) tại các link sau :
+Microsoft_Internet_Explorer 5.01
+Microsoft_Internet_Explorer 5.5
+Nhâ ̣ n da ̣ ng virus :
+Khi được kích_hoạt , W32.SkyNet . P làm các công_việc sau :
+1 . Tạo_Mutex " _ - oO ] xX | - S - k - y - N - e - t - | Xx [ Oo - _ " để luôn chỉ có một phiên_bản của virus được chạy trong máy .
+2 . Tạo ra file % Windir % \ userconfig9x.dll ( Đây là file chứa các module chính của virus ) và load file này vào bộ_nhớ .
+3 . Copy chính nó vào thư_mục % Windir % của hệ_điều_hành với tên là FVProtect.exe .
+4 . Tạo ra các file sau trong thư_mục % Windir %
+% Windir % \ base64.tmp % Windir % \ zip1.tmp % Windir % \ zip2.tmp % Windir % \ zip3.tmp % Windir % \ zipped.tmp
+5 . Tạo ra key " Norton_Antivirus AV " = " % Windir % \ FVProtect.exe " trong HKEY_ LOCAL_ MACHINE\ SOFTWARE\ Microsoft \ Windows \ CurrentVersion \ Run để virus được thi_hành mỗi khi khởi_động máy .
+6 . Tìm và xoá các key :
+Explorer system . msgsvr32 winupd.exe direct.exe jijbl service Sentry
+trong HKEY_ LOCAL_ MACHINE\ Software \ Microsoft \ Windows \ CurrentVersion \ Run và các key :
+system . Video
+trong HKEY_ LOCAL_ MACHINE\ SOFTWARE\ Microsoft \ Windows \ CurrentVersion \ RunServices .
+và các key
+Explorer au . exe direct . exe d 3dupdate.exe OLE gouday.exe rate.exe Taskmon_Windows_Services_Host sysmon.exe srate.exe ssate.exe winupd.exe
+trong HKEY_ CURRENT_ USER\ SOFTWARE\ Microsoft \ Windows \ CurrentVersion \ Run
+Xoá các key sau :
+HKEY_ CURRENT_ USER\ SOFTWARE\ Microsoft \ Windows \ CurrentVersion \ Explorer \ PINF_HKEY_ LOCAL_ MACHINE\ SYSTEM\ CurrentControlSet \ Services \ WksPatch HKEY_ CLASSES_ ROOT\ CLSID\ CLSID\ { E6FB5E20-DE35-11CF-9C87-00AA005127ED } \ InProcServer32
+7 . Tìm cách lây qua các mạng ngang_hàng , qua mạng nội_bộ ... bằng cách copy bản_thân nó vào các thư_mục có chứa một trong các chuỗi sau :
+bear donkey download ftp htdocs http icq kazaa lime morpheus mule my shared folder shar shared files upload
+Virus copy bản_thân nó thành các file sau :
+" 1001 Sex and more . rtf.exe " " 3D Studio_Max 6 3dsmax.exe " " ACDSee 10.exe " " Adobe_Photoshop 10 crack.exe " " Adobe_Photoshop 10 full.exe " " Adobe_Premiere 10.exe " " Ahead_Nero 8.exe " " Altkins_Diet . doc.exe " " American_Idol . doc.exe " " Arnold_Schwarzenegger . jpg.exe " " Best_Matrix_Screensaver new.scr " " Britney sex xxx . jpg.exe " " Britney_Spears and Eminem porn . jpg.exe " " Britney_Spears blowjob.jpg.exe " " Britney_Spears cumshot.jpg.exe " " Britney_Spears fuck.jpg.exe " " Britney_Spears full album . mp3.exe " " Britney_Spears porn.jpg.exe " " Britney_Spears_Sexy archive.doc.exe " " Britney_Spears_Song text archive . doc.ex " ... " Britney_Spears . jpg.exe " " Britney_Spears . mp3.exe " " Clone DVD 6.exe " " Cloning.doc.exe " " Cracks & amp ; Warez_Archiv . exe " " Dark_Angels new.pif " " Dictionary_English 2004 - France.doc.ex " ... " DivX 8.0 final.exe " " Doom 3 release 2.exe " " E-Book Archive2.rtf.exe " " Eminem blowjob . jpg.exe " " Eminem full album . mp3.exe " " Eminem_Poster . jpg.exe " " Eminem sex xxx . jpg.exe " " Eminem_Sexy archive.doc.exe " " Eminem_Song text archive . doc.exe " " Eminem_Spears porn.jpg.exe " " Eminem.mp3.exe " " Full album all . mp3.pif " " Gimp 1.8 Full with Key.exe " " Harry_Potter 1-6 book.txt.exe " " Harry_Potter 5.mpg.exe " " Harry_Potter all e . book.doc.exe " " Harry_Potter e book . doc.exe " " Harry_Potter game.exe " " Harry_Potter . doc.exe " " How to hack new . doc.exe " " Internet_Explorer 9 setup.exe " " Kazaa_Lite 4.0 new.exe " " Kazaa new . exe " " Keygen 4 all new . exe " " Learn_Programming 2004.doc.exe " " Lightwave 9 Update.exe " " Magix_Video_Deluxe 5 beta.exe " " Matrix.mpg.exe " " Microsoft_Office 2003 Crack best . exe " " Microsoft_Win XP Crack full . exe " " MS Service_Pack 6.exe " " netsky source code . scr " " Norton_Antivirus 2005 beta.exe " " Opera 11.exe " " Partitionsmagic 10 beta.exe " " Porno_Screensaver britney.scr " " RFC compilation.doc.exe " " Ringtones.doc.exe " " Ringtones.mp3.exe " " Saddam_Hussein . jpg.exe " " Screensaver2.scr " " Serials edition . txt.exe " " Smashing the stack full . rtf.exe " " Star_Office 9.exe " " Teen_Porn 15.jpg.pif " " The_Sims 4 beta.exe " " Ulead_Keygen 2004.exe " " Visual_Studio_Net_Crack all.exe " " Win_Longhorn re.exe " " WinAmp 13 full.exe " " Windows 2000 Sourcecode.doc.exe " " Windows 2003 crack.exe " " Windows XP crack.exe " " WinXP eBook newest.doc.exe " " XXX hardcore pics . jpg.exe "
+8 . Quét toàn_bộ ổ_đĩa và tìm các địa_chỉ email trong các file có phần mở_rộng là :
+. adb . asp . cgi . dbx . dhtm . doc . eml . htm . html . jsp . msg . oft . php . pl . rtf . sht . shtm . tbb . txt . uin . vbs . wab . wsh . xml
+10 . Gửi email có chứa virus tới các địa_chỉ tìm được , các mail này có dấu_hiệu nhận_dạng như sau :
+• Tiêu_đề ( Subject ) :
+là một trong các xâu sau :
+Re : Encrypted_Mail_Re : Extended_Mail_Re : Status_Re : Notify_Re : SMTP Server_Re : Mail_Server_Re : Delivery_Server_Re : Bad_Request_Re : Failure_Re : Thank you for delivery Re : Test_Re : Administration_Re : Message_Error_Re : Error_Re : Extended_Mail_System_Re : Secure SMTP Message_Re : Protected_Mail_Request_Re : Protected_Mail_System_Re : Protected_Mail_Delivery_Re : Secure delivery Re : Delivery_Protection_Re : Mail_Authentification_Mail_Delivery ( failure & lt ; ... & gt ; )
+• Nội_dung :
+Please see the attached file for details Please read the attached file ! Your document is attached . Please read the document . Your file is attached . Your document is attached . Please confirm the document . Please read the important document . See the file . Requested file . Authentication required . Your document is attached to this mail . I have attached your document . I have received your document . The corrected document is attached . Your document . Your details .
+SkyNetP còn gắn thêm các dòng sau vào nội_dung thư :
++ + + Attachment : No_Virus found + + + MessageLabs AntiVirus - www.messagelabs.com
++ + + Attachment : No_Virus found + + + Bitdefender_Anti Virus - www.bitdefender.com
++ + + Attachment : No_Virus found + + + MC-Afee AntiVirus - www.mcafee.com
++ + + Attachment : No_Virus found + + + Kaspersky_Anti Virus - www.kaspersky.com
++ + + Attachment : No_Virus found + + + Panda_Anti Virus - www.pandasoftware.com
++ + + + Attachment : No_Virus found + + + + Norman_Anti Virus - www.norman.com
++ + + + Attachment : No_Virus found + + + + F-Secure AntiVirus - www.f-secure.com
++ + + + Attachment : No_Virus found + + + + Norton_Anti Virus - www.symantec.de
+• File gửi kèm :
+document05 . & lt ; x & gt ; . & lt ; y & gt ; websites03 . & lt ; x & gt ; . & lt ; y & gt ; game _ xxo . & lt ; x & gt ; . & lt ; y & gt ; your _ document . & lt ; x & gt ; . & lt ; y & gt ;
+& lt ; x & gt ; có_thể là 1 trong các dòng sau :
+" txt & lt ; một dãy các dấu cách & gt ; "
+" doc & lt ; một dãy các dấu cách & gt ; "
+& lt ; y & gt ; có_thể là 1 trong các xâu sau :
+. exe . pif . scr . zip
+Thư virus gửi đi tận_dụng lỗi MIME để tự_động thi_hành file đính kèm khi người dùng đọc thư .
+11.Virus sẽ không gửi email tới các địa_chỉ có chứa những xâu sau :
+@ antivi @ avp @ bitdefender @ fbi @ f-pro @ freeav @ f-secur @ kaspersky @ mcafee @ messagel @ microsof @ norman @ norton @ pandasof @ skynet @ sophos @ spam @ symantec @ viruslis abuse @ noreply @ ntivir reports @ spam @
+T . M

@@ -1,0 +1,6 @@
+﻿ Ẩn_danh khi lướt web
+Sau khi cài_đặt và đăng_ký thành_công , Hide IP Platinum sẽ cung_cấp cho bạn một giao_diện ... chẳng có gì , ngoài việc liệt_kê phiên_bản Hide IP Platinum hiện_tại , trang_web của nhà_cung_cấp và số IP máy_tính của bạn cộng với số IP của máy_chủ proxy nếu bạn có sử_dụng .
+Khi hoạt_động , công_cụ này chỉ hiển_thị dưới dạng một quả địa_cầu nhỏ màu xanh đang quay và nằm ở khay đồng_hồ ở góc phải dưới cùng màn_hình . Muốn sử_dụng các tính_năng của nó , bạn cần nhấp chuột phải một lần vào biểu_tượng của Hide IP Platinum để hiện ra menu sử_dụng chính .
+Ngoài tính_năng làm ẩn IP máy_tính tuyệt_hảo , tính_năng được cho là “ độc_chiêu ” nhất của công_cụ này chính là “ Change proxy ” . Nếu bạn muốn thay_đổi proxy đang lướt web hiện_tại thì chỉ việc nhấp vào nút này , Hide IP Platinum sẽ thay_đổi proxy xoành_xoạch , nhanh như chớp , nhảy từ proxy đang ở Mỹ , xuống Colombia , rồi lại vọt qua Trung_Quốc ...
+Hiện_Công ty RegNow đang bán bản Hide IP Platinum 2.5 với giá 35 USD cho người dùng lẻ . Người dùng có_thể vào địa_chỉ http : / / www.soft32.com/download _ 102515.html để tải về bản dùng thử hoặc tìm mua tại các cửa_hàng phần_mềm ở TP.HCM .
+HOÀNG_KIM_ANH

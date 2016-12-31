@@ -1,0 +1,12 @@
+﻿World Cup và những mối lo về bảo mật
+
+SurfControl hãng bảo mật, cung cấp các giải pháp bảo mật cho người dùng cuối hoặc doanh nghiệp vừa cảnh báo đến người dùng cũng như các doanh nghiệp cần cảnh giác với những chiêu thức lừa bịp, cách thức giả danh mới từ Internet nhằm lấy cắp thông tin người dùng trong suốt mùa World Cup 2006 diễn ra tại Đức. 
+SurfControl định rõ mốt số cách thức tấn công dựa trên Internet với sự kiện World Cup 2006 mà người dùng thường ít để ý đến như việc từ vài tuần trước, các email được gởi từ Nam Mỹ như là một email liên hệ khách hàng bình thường từ MasterCard về việc đã thắng giải khuyến mãi là những chiếc vé tham dự World Cup 2006, vé du lịch tới Đức và bao luôn ăn ở tại khách sạn tiện nghi nhất. Đây là cách thức khai thác thông tin chi tiết tài khoản ngân hàng của người dùng. 
+Đối với các doanh nghiệp, SurfControl đưa ra vài lời khuyên để ngăn chặn những nguy cơ bảo mật từ Internet trong những ngày World Cup diễn ra: 
+- Tổ chức 1 nhóm huấn luyện cho nhân viên cách thức cơ bản nhận biết và xử lý những email và website phishing hoặc đính kèm Trojan, spyware. 
+- Tổ quản lý CNTT thường xuyên theo dõi các vấn đề về bảo mật trên web, email của nhân viên, đảm bảo rằng giải pháp bảo mật có thể được chấp hành nghiêm chỉnh. 
+- Đảm bảo bộ lọc web và email của doanh nghiệp được cập nhật đều đặn tất cả những nguy cơ bảo mật mới nhất, có liên quan đến World Cup. Đặc biệt là các hoạt động trên email. 
+“Những công nghệ hiện đại cho phép nhân viên có thể coi trực tuyến những trận banh hay truyền tải dữ liệu số trên internet thật dễ dàng. Tuy nhiên vấn đề lớn mà doanh nghiệp phải đối mặt là sự tác động tiềm tàng từ những website mạo danh World Cup cùng mã nguồn hiểm độc sẽ mang nguy cơ về bảo mật đến máy trạm hay cả hệ thống mạng.” Ross Miller, Giám đốc điều hành của Trustmarque Solutions, đối tác của SurfControl cho biết. 
+Không chỉ doanh nghiệp mà ngay chính bạn, những người dùng Internet hằng ngày, có thể dễ dàng loại bỏ những nguy cơ bảo mật trên. Hãy luôn luôn cảnh giác và đừng bao giờ “bận tâm” đến những email thông báo rằng bạn đã trúng thưởng hàng ngàn hay cả triệu đôla hoặc 1 chuyến du lịch đầy đủ tiện nghi sang trọng ở một nơi nào đó.
+
+THANH TRỰC

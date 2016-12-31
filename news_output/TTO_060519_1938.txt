@@ -1,0 +1,46 @@
+﻿ Bão số 1 : Liên_lạc được với 2 tàu , cứu thêm 12 người
+Ban tác_chiến Bộ_chỉ_huy biên_phòng Đà_Nẵng cho_biết tối 19-5 : hiện còn 11 chiếc tàu đánh_bắt xa bờ của Đà_Nẵng ( chủ_yếu của quận Thanh_Khê ) mất_tích do gặp bão số 1 vẫn chưa liên_lạc được .
+Trong đó , có sáu tàu với 122 lao_động đã xác_định là bị chìm tại toạ_độ 20 độ_vĩ Bắc - 119 độ
+InitializeContextMenu ( ) ;
+var AutosaveOriginal = txtContent.html ;
+function on Autosave ( )
+{ if ( txtContent.html ! = AutosaveOriginal )
+{ AutosaveOriginal = txtContent.html ;
+ifrAutosave.document.frm.hidContent.value = txtContent.html ;
+ifrAutosave.document.frm.submit ( ) ;
+} }
+if ( txtContent.editMode ! = " readonly " )
+{ document.body.onload = onFrmLoad ;
+document.body.onbeforeunload = onFrmUnload ;
+Original = txtContent.html ;
+document.EditArticle.txtForward.onkeypress = onTxtForwardKeypress ;
+document.EditArticle.cmdSubmit.onclick = onCmdSubmitClick ;
+setInterval ( onAutosave , 5 60000 ) ;
+} window . _ _ WebEditor _ GetClipboardData = function ( )
+{ try
+{ with ( _ _ webeditor _ workspace.document )
+{ open ( ) ;
+write ( " " ) ;
+close ( ) ;
+_ _ webeditor _ workspace.document.all.txtTemp.focus ( ) ;
+execCommand ( " SelectAll " ) ;
+execCommand ( " Paste " ) ;
+var s = _ _ webeditor _ workspace.document.all.txtTemp.value ;
+s = s.replace ( / ( \ r \ n ) + / g , " \ r \ n \ r \ n " ) ;
+_ _ webeditor _ workspace.document.all.txtTemp.value = s
+execCommand ( " SelectAll " ) ;
+execCommand ( " Cut " ) ;
+} }
+catch ( exception )
+{ }
+} kinh Đông , cách bờ biển Đà_Nẵng khoảng 1000 hải_lý ; và năm tàu với 90 lao_động mất hẳn liên_lạc .
+Trong số 122 lao_động bị chìm theo tàu đã được lực_lượng cứu_hộ Đài_Loan và tàu đánh_cá Việt_Nam vớt được 60 người còn sống và 24 người đã chết .
+Hiện các tàu đánh_cá Việt_Nam đang đưa những người sống_sót và thi_thể người chết về cảng Đà_Nẵng ; tuy_nhiên , do thời_tiết biển xấu trở_lại , nên phải hơn một ngày nữa tàu mới có_thể cập cảng .
+Liên_tục nhiều ngày qua , người_dân thôn Hà_Bình nháo_nhác - Ảnh : Minh_Phúc_Suốt ngày hôm_qua 19-5 , hàng trăm người_dân ở xã Bình_Minh , huyện Thăng_Bình , Quảng_Nam nháo_nhác chờ tin những người_thân bị mất_tích ngoài biển_khơi do gặp bão số 1 trong khi đi biển .
+Ông Trần_Minh_Hồng , một ngư_dân ở thôn Bình_Tịnh may_mắn thoát nạn cho_biết có hai chiếc tàu câu mực khơi đã bị chìm , trong đó phần_lớn ngư_dân là người xã Bình_Minh . Một chiếc chở 21 ngư_dân đã bị chìm hôm 17-5 tại hải_phận Đài_Loan , chỉ hai người sống_sót . Một chiếc khác chở 23 ngư_dân cũng bị mất_tích tại vùng_biển này .
+Hai ngày qua , bốn chiếc tàu thuộc đoàn tàu đánh_bắt xa bờ Đà_Nẵng đang quần_thảo quanh khu_vực tàu gặp nạn để tìm_kiếm và vớt được xác 14 nạn_nhân . Cũng sáng_qua , thông_tin báo về cho_biết một trong hai chiếc tàu bị mất_tích là tàu QNA 90190 có hơn 20 ngư_dân của xã này , do ông Trần_Xuân_Thâm ( thôn Bình_Tân ) làm tài_công , đã nối được liên_lạc với đất_liền .
+Hàng trăm người_dân tụ_tập xung_quanh chiếc máy_bộ_đàm chờ tin_tức người_thân - Ảnh : Doãn_Hoàng_Trong cơn bão số 1 , tàu này bị gãy lái và đi vào vùng rốn bão nhưng hướng gió thay_đổi đột_ngột nên may_mắn thoát nạn , hiện phương_tiện này đang tấp vào một hòn đảo thuộc Trung_Quốc . Các phương_tiện cứu_hộ đang nỗ_lực tìm_kiếm chiếc còn lại .
+Chiều ngày 19-5 , ông Trần_Tấn , chủ tich UBND xã biển Nghĩa_An , huyện Tư_Nghĩa cho_biết hai chiếc tàu đánh_cá của ngư_dân trong xã bị mất_tích hơn hai ngày qua đã có thông_tin về đất_liền . Tuy_nhiên , 27 lao_động đi trên 3 chiếc tàu khác đã bị chìm hiện vẫn chưa liên_lạc được .
+Cũng theo ông Tấn , từ sau khi bão số 1 làm chìm tàu , 6 chiếc tàu đánh_cá của ngư_dân của xã Nghĩa_An đã cùng_với ngư_dân Quảng_Nam , Đà_Nẵng tổ_chức tìm_kiếm , đến sáng ngày hôm_qua tại tọa_độ 21,2 vĩ_độ bắc và 117 độ_kinh đông đã cứu sống được 12 ngư_dân ; trong đó , có 5 ngư_dân Quảng_Ngãi đang trôi_dạt trên biển và tìm thấy 30 xác_chết của ngư_dân nhưng chưa rõ danh_tính .
+Hiện đội tàu tìm_kiếm ngư_dân mất_tích trên biển đang thiếu xăng_dầu nên khó kéo_dài việc tìm_kiếm trên biển .
+ĐĂNG_NAM - DOÃN_HOÀNG - MINH_PHÚC - V . Q . CẦU

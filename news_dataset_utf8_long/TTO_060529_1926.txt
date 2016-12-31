@@ -1,0 +1,10 @@
+﻿Từ 1-6, triển khai đăng ký thẻ xe buýt qua mạng
+
+Theo Sở GTCC Thành phố Hồ Chí Minh, hành khách có thể thực hiện việc đăng ký thẻ xe buýt tháng qua mạng ( www.sgtcc.hochiminhcity.gov.vn ) theo trình tự: 
+Bước 1 : Hành khách nhấp chọn biểu tượng “Đăng ký thẻ xe buýt qua mạng” tại cột bên phải, sau đó màn hình sẽ hiển thị phiếu đăng ký thẻ xe buýt tháng. 
+Bước 2 , điền đầy đủ thông tin theo yêu cầu trên biểu mẫu và đính kèm theo file hình ảnh bitmap với kích thước 2x3cm và độ phân giải là 200 pixels. 
+Bước 3 , chọn nút “Đăng ký” nằm tại vị trí dưới cuối màn hình để gửi đến cho Sở GTCC và cuối cùng là tự ghi lại các thông tin cá nhân đã đăng ký hoặc tải biểu mẫu “Bản đăng ký làm thẻ đi xe buýt tháng” về máy của mình, in ra và điền đầy đủ thông tin trên biểu mẫu để đối chiếu khi nhận thẻ tại Sở GTCC. 
+Sau 4 ngày đăng ký qua mạng thành công, hành khách mang theo phiếu đăng ký thẻ xe buýt tháng đã in (hoặc phiếu tự ghi lại các thông tin cá nhân đã đăng ký) đến đối chiếu và nhận thẻ tại: Quầy số 7, Phòng tiếp nhận và trả hồ sơ, Sở GTCC, số 63 Lý Tự Trọng, quận 1, TP Hồ Chí Minh (Chi phí làm thẻ xe buýt tháng là 5.000 đồng/ thẻ). 
+Để sử dụng loại thẻ này, hành khách phải mua tem tháng gồm các loại như: Loại tem đi 1 tuyến với giá 72.000 đồng/ tháng; loại tem đi 2 tuyến giá 108.000 đồng/ tháng và loại tem liên tuyến giá 126.000 đồng/ tháng.
+
+Theo TTXVN

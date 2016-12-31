@@ -1,0 +1,21 @@
+﻿ 10 bệnh lây_truyền qua đường tình_dục : Bệnh lậu
+Do vi_khuẩn , Neisseria gonorrhea , song cầu trong tế_bào .
+Chẩn_đoán xác_định bằng nuôi_cấy để phát_hiện nhiễm_khuẩn niệu_đạo và cổ tử_cung hoặc làm phiến đồ nhuộm gram đối_với nam_giới bị nhiễm_khuẩn niệu_đạo có triệu_chứng .
+Thời_gian ủ_bệnh : 4-7 ngày ( đôi_khi chỉ ngắn có 24 giờ và có_khi dài tới 1 tháng ) .
+Triệu_chứng và dấu_hiệu : Nam_giới : khởi_phát đột_ngột ; đái khó ; tiết dịch mủ nhiều ( có_khi phải vuốt từ gốc dương_vật ra mới thấy dịch đục như mủ chảy ra ) . Nam_giới có_thể có một hay hơn một triệu_chứng hoặc chẳng có triệu_chứng gì cả . Phụ_nữ : thường không có triệu_chứng gì nhưng cũng có_thể có tiết dịch niệu_đạo , đái khó , chảy_máu giữa kỳ kinh , ra kinh nhiều , viêm cổ tử_cung có tiết dịch mủ , viêm tiểu khung .
+Chẩn_đoán phân_biệt : nhiễm chlamydia cũng có_thể có những triệu_chứng tương_tự và 2 bệnh thường diễn ra đồng_thời và đều cần được điều_trị .
+Biến_chứng : Với phụ_nữ : có_thai ngoài tử_cung , đau tiểu khung mạn_tính , co hẹp niệu_đạo , nhiễm_khuẩn tuyến Bartholin . Với nam : viêm mào tinh_hoàn , co hẹp niệu_đạo . Nếu_không được điều_trị , có_thể dẫn đến nhiễm_khuẩn toàn_thân lan_toả , tử_vong . Vô_sinh là một biến_chứng ở cả nam và nữ .
+Ảnh_hưởng đến thai_nghén / sơ_sinh : sẩy_thai , đẻ_non , viêm nội trung sản mạc cấp , viêm mắt sơ_sinh .
+Điều_trị :
+Nhiễm_khuẩn lậu đường sinh_sản không có biến_chứng : Ceftriaxone 250 mg , tiêm bắp 1 liều duy_nhất hoặc Spectinomycin 2 gam , tiêm bắp 1 liều duy_nhất hoặc Cefotaxime 1 gam , tiêm bắp 1 liều duy_nhất . 40% vi_khuẩn lậu có kháng với kháng_sinh nhóm quinolone .
+Nhiễm_khuẩn lậu đường sinh_sản khi có_thai : Ceftriaxone 250 mg , tiêm bắp 1 liều duy_nhất hoặc Spectinomycin 2 gam , tiêm bắp 1 liều duy_nhất hoặc Cefotaxime 1 gam , tiêm bắp 1 liều duy_nhất
+Nhiễm_khuẩn lậu lan_toả ( toàn_thân ) : Ceftriaxone 250 mg , tiêm bắp 1 lần mỗi ngày trong 7 ngày hoặc Spectinomycin 2 gam , tiêm bắp 2 lần mỗi ngày trong 3-7 ngày .
+Với viêm nội_tâm mạc , điều_trị tới 6 tuần .
+Viêm kết_mạc do lậu : Ceftriaxone 125 mg , tiêm bắp 1 liều duy_nhất ( với sơ_sinh , 50mg/kg , tiêm bắp ) hoặc Spectinomycin 2 gam , tiêm bắp 1 liều duy_nhất hoặc Azithromycin 2 gam , uống liều duy_nhất . Lưu_ý : 40% vi_khuẩn lậu kháng với quinolone và kháng với nhiều kháng_sinh , đáng chú_ý nhất_là penicillin và tetracycline .
+Ceftriaxone ( Nitrocephin , Rocephin ) là một kháng_sinh rất mạnh thuộc họ cephalosporin được dùng theo đường tiêm bắp . Thuốc để điều_trị nhiều loại nhiễm_khuẩn , gồm lậu , viêm tiểu khung , nhiễm_khuẩn thận và nhiều loại nhiễm_khuẩn khác sau nạo_thai , sinh_đẻ hoặc sẩy_thai .
+Thuốc ở dạng : Lọ tiêm : 250 , 500 mg và 1 gam , 2 gam và 10 gam . Không dùng nếu có dị_ứng với kháng_sinh họ cephalosporin .
+Chú_ý : theo_dõi xem có biểu_hiện dị_ứng . Luôn sẵn_sàng điều_trị dị_ứng và choáng dị_ứng khi tiêm kháng_sinh .
+Những thuốc khác có_thể có tác_dụng :
+Với những nhiễm_khuẩn nghiêm_trọng : amoxilline víi clavulanate potassium ( Augmentin ) ,
+Với lậu , hạ cam hoặc viêm tiểu khung : cefixime , ciprofloxacin , kanamycin , norfloxacin kanamycin , norfloxacin .
+BS_ĐÀO_XUÂN_DŨNG

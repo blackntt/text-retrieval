@@ -1,0 +1,51 @@
+﻿Hệ thống hóa kiến thức môn Hoá học cấp 3
+
+Tuổi Trẻ Online sẽ lần lượt giúp các bạn hệ thống hóa kiến thức các môn thi ĐH. Sau đây là phần kiến thức trọng tâm cần ôn tập về môn Hóa. 
+I. Hóa đại cương - Vô cơ: 
+§1. Kỹ thuật tìm công thức: 
+- Phương pháp tìm công thức dựa trên biểu thức đại số 
+- Phương pháp tìm công thức dựa trên phản ứng hóa học 
+§2. Các bài toán minh hoạ phản ứng: OXIT TÁC DỤNG VỚI AXIT 
+- Gồm 3 công thức viết phản ứng và các ví dụ minh hoạ. 
+§3. Các bài toán minh hoạ phản ứng: KIM LOẠI TÁC DỤNG VỚI AXIT 
+- Gồm 2 công thức viết phản ứng và các ví dụ minh hoạ. 
+§4. Các bài toán minh hoạ phản ứng: MUỐI TÁC DỤNG VỚI AXIT 
+- Gồm 3 công thức viết phản ứng và các ví dụ minh hoạ. 
+§5. Các bài toán minh hoạ phản ứng: MUỐI TÁC DỤNG VỚI KIM LOẠI 
+- Gồm 3 công thức viết phản ứng và các ví dụ minh hoạ. 
+§6. Các bài toán minh hoạ phản ứng: MUỐI TÁC DỤNG VỚI MUỐI 
+- Gồm 3 công thức viết phản ứng và các ví dụ minh hoạ. 
+§7. Bài toán minh hoạ phản ứng: CO 2 ; SO 2 ; P 2 O 5 Phản ứng Với dd Bazơ 
+- Gồm 2 nhóm công thức viết phản ứng và các ví dụ minh hoạ. 
+§8. Bài toán minh hoạ phản ứng: NHIỆT LUYỆN 
+- Gồm 1 công thức viết phản ứng và các ví dụ minh hoạ. 
+§9. Bài toán minh hoạ phản ứng: NHIỆT PHÂN MUỐI 
+Gồm 10 công thức viết phản ứng và các ví dụ minh hoạ. 
+§10. Một số câu hỏi giáo khoa và bài tập minh hoạ các phản phản ứng: 
+(kim loại, oxit, hydroxyt, muối) của các kim loại đặc biệt: Zn; Al; Cr 
+§11. Một số câu hỏi giáo khoa và bài tập minh hoạ: ĐIỆN PHÂN 
+§12. Công thức và câu hỏi giáo khoa minh hoạ: ĐIỀU CHẾ KIM LOẠI 
+§13. Một số câu hỏi giáo khoa và bài tập minh hoạ các phản ứng của 
+các nguyên tố quan trọng : (Cl, Br, I); (S, O); (N, P); (Al, Fe) 
+§14. Một số câu hỏi giáo khoa: 
+- Sơ đồ phản ứng. - Điều chế. - Nhận biết. - Tách chất. 
+§15. Một số câu hỏi giáo khoa: Dung dịch điện li; pH; Phản ứng oxi hoá khử 
+Cấu tạo nguyên tử; liên kết hoá học; chuyển dịch cân bằng. 
+II. Hoá Hữu cơ: 
+1. Các phương pháp tìm công thức phân tử: 
+- phương pháp tìm công thức phân tử khi biết khối lượng phân tử. - phương pháp tìm công thức phân tử khi biết % (theo m) của 1 nguyên tố. - phương pháp tìm công thức phân tử dựa trên biểu thức đại số. - phương pháp tìm công thức phân tử khi biết % (theo m) của tất cả các nguyên tố. - phương pháp tìm công thức phân tử khi biết tỉ lệ%( theo m) hoặc biết tỉ lệ khối lượng của các nguyên tố. - phương pháp biện luận tìm công thức phân tử khi biết công thức nguyên. - phương pháp tìm công thức phân tử dựa trên dữ kiện đốt chất hữu cơ. - phương pháp tìm công thức phân tử dựa trên các phản ưng hoá học. 
+2. Hướng dẫn sử dụng các định luật, các qui tắc, các hiệu ứng điện tử trong hữu cơ: 
+- Định luật bảo toàn khối lượng. - Định luật thành phần không đổi. - Qui tắc cộng - Qui tắc thế. - Qui tắc tách. - Hiệu ứng cảm ứng. - Hiệu ứng liên hợp. - Hiệu ứng siêu liên hợp. 
+3. Phưng pháp viết đồng phân, tên gọi. 
+4. Khảo sát các phản ứng đặc trưng, các phản ứng điều chế của HYDROCACBON: 
+- Ankan (parafin). - Anken (olefin). - Xycloankan. - Ankadien(diolefin). - Ankin. - Dãy đồng đẳng của benzen. 
+5. Khảo sát các phản ứng đặc trưng, các phản ứng điều chế của các hợp chất hữu cơ chứa C,H,O. 
+- Rượu, Ête. - Phenol. - Andehyt, Xêtôn. - Axit, Este. - Gluxit. 
+6. Khảo sát các phản ứng đặc trưng, các phản ứng điều chế của các hợp chất hữu cơ chứa C,H,N: Chủ yếu khảo sát Amin. 
+7. Khảo sát các phản ứng đặc trưng, các phản ứng điều chế của các hợp chất hữu cơ chứa C,H,O, N. 
+- Amino axit. - Este của amino axit. - Muối amoni. - Muối của amin. - Hợp chất nitro. - Các hợp chất có nhóm peptit. 
+8. Các phản ứng tạo Polime. 
+9. Các dẫn xuất halogen. 
+10. Các bài toán: nhận biết, tách chất, điều chế, sơ đồ phản ứng, nêu hiện tượng thí nghiệm
+
+NGUYỄN TẤN TRUNG (Trung tâm Bồi dưỡng văn hóa Vĩnh Viễn)

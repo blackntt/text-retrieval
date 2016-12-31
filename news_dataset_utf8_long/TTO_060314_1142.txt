@@ -1,0 +1,26 @@
+﻿Tìm hiểu về trình xử lý ảnh đơn giản ACDSee
+
+Công cụ biên tập hình ảnh đơn giản nhất, dễ sử dụng nhất cũng như đa năng và phổ biến nhất hiện nay… có thể nói là công cụ ACDSee mà hầu như máy tính nào cũng được cài đặt với tác dụng chủ yếu là để… xem hình. ACDSee cung cấp cho người dùng rất nhiều công cụ biên tập hình ảnh từ thấp đến cao, mà trong bài viết này chúng tôi chỉ có thể trình bày một số tính năng cơ bản nhất. 
+Giao diện quản lý tập tin và thư mục của ACDSee Pro Photo Manager Sau khi cài đặt xong, ACDSee sẽ “chiếm” quyền duyệt hình của mọi công cụ duyệt hình đã từng sử dụng trước đây. Để kích hoạt ACDSee, bạn chỉ cần click vào bất kỳ hình ảnh nào có trong ổ cứng là giao diện của ACDSee sẽ hiện ngay lên cùng hình ảnh đó và sẵn sàng cho bạn biên tập hình ảnh ngay lập tức. Click chuột phải vào bất kỳ chỗ nào trên giao diện hiển thị hình ảnh là hầu như toàn bộ mọi menu chức năng của ACDSee sẽ hiện ra cho người dùng tha hồ lựa chọn để sử dụng lập tức. 
+Ngoài ra trên giao diện, ACDSee đã cung cấp sẵn cho người dùng nhiều phím chức năng chuyên dùng để duyệt hình như chuyển hình, phóng to, thu nhỏ, di chuyển, xoay chiều… Nhưng phần quan trọng nhất của các chức năng biên tập hình ảnh là biểu tượng khay vẽ, chuyên dùng để chỉnh sửa hình ảnh mà chúng tôi sẽ trình bày sau đây. 
+Mục biên tập hình ảnh của ACDSee gồm 14 công cụ chủ yếu sau: 
+1. Exposure: chuyên dùng để chỉnh sửa độ sáng tối của hình ảnh. Các tính năng này chủ yếu nằm trong các thẻ Brightness, Levels, Curses… và rất dễ sử dụng vì đều thể hiện dưới dạng các thanh trượt hoặc “dây kéo”. 
+2. Shadow/Highlight: Tính năng tạo bóng hoặc tô sáng. 
+3. Color: chỉnh các sắc độ màu hoặc phối màu ở nhiều cấp độ. 
+4. Red eye Redution: khử hiện tượng mắt đỏ trong ảnh số. 
+5. Photo Repair: Chức năng chữa “mụn” cho ảnh số. Trên khuôn mặt “thiên thần” của bạn thế nào cũng có một vài vết mụn hoặc sẹo nho nhỏ nào đấy. Photo Repair sẽ copy chỗ da đẹp nhất trên mặt bạn để thay vào cho những chỗ bị mụn, sẹo hoặc tàn nhang. 
+6. Sharpness: chỉ độ sắc nét và độ sâu của mọi chi tiết trên bức ảnh. Những khuôn mặt có quá nhiều nếp nhăn vì tuổi tác có thể sẽ trở nên “trẻ” hơn bằng tính năng này. 
+7. Noise: tính năng xóa đi những lỗi bao phủ bề mặt hình ảnh, chẳng hạn giảm thiểu độ sương, mờ hoặc gió cát khi chụp ngoài môi trường tự nhiên. 
+8. Resize: chỉnh sửa kích thước dài rộng của ảnh. Chỉ cần thay đổi một chiều nào đó của bức ảnh là chiều kia sẽ tự động thay đổi theo tỷ lệ tương ứng. 
+9. Crop: “Cắt” đi một phần nào đó của bức ảnh để sử dụng riêng. 
+10. Rotate: xoay bức ảnh đi theo mọi chiều trên mặt phẳng bằng một chiếc kim đồng hồ. 
+11. Effects: 18 hiệu ứng đặc biệt cho ảnh số. 
+12. Watermark: chức năng ghép bức ảnh này vào bức ảnh khác khá tinh vi nhưng lại rất dễ sử dụng. 
+13. Add Text: thêm văn bản vào bức ảnh. 
+14. Lens Correction: các tính năng chỉnh sửa ảnh gần như chỉnh trong môi trường 3D. Có thể nới rộng hoặc thu hẹp hình ảnh theo một góc nhìn nào đó, ngoài ra nó còn có thể chia hình ảnh ra nhiều phần bằng nhau theo dạng lưới “Grid” và chỉnh nền màu cho ảnh. 
+Trên đây đã trình bày hầu hết các tính năng biên tập ảnh đơn giản của ACDSee, nhưng thực ra ACDSee không những là một ứng dụng biên tập hình ảnh số hữu hiệu, mà nó còn là ứng dụng quản lý tập tin và thư mục hết sức chuyên nghiệp, tốt hơn nhiều so với ứng dụng Windows Explorer. Ngoài ra nó cũng có một cửa sổ chơi multimedia trong giao diện quản lý Windows, chuyên dùng để nghe nhạc hoặc xem phim rất chuyên nghiệp. 
+ACDSee thực ra chỉ là 1 trong 4 ứng dụng khi ta cài đặt bộ công cụ mang tên ACD System. ACD PhotoCanvas là ứng dụng chỉnh sửa ảnh số chuyên nghiệp hơn nhiều so với ACDSee, với nhiều tính năng tương tự như Photoshop; ACD PhotoSlate là ứng dụng chuyên dùng để tạo album ảnh và in ấn vô cùng phong phú; còn ACD Device Detector là ứng dụng chuyên dùng để nhận diện và kết nối đủ loại máy ảnh số với máy tính, với khả năng biên tập ảnh số trực tiếp trong máy ảnh. 
+Với những người dùng bình thường thì mọi tính năng trong bộ ACD Systems là đã “quá dư” để tác động lên mọi loại ảnh số mà không cần đến những công cụ “hoành tráng” cỡ như Photoshop hoặc Corel Draw… 
+Bộ ACDSee mới nhất hiện có mặt trên thị trường là ACDSee Pro Photo Manager, tức ACDSee 8.0.67, đang được công ty ACD Systems bán ra với giá là 50 USD.
+
+THỤY KHANH

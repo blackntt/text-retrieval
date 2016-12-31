@@ -1,0 +1,7 @@
+﻿ Lỗi nguy_hiểm trong 3 sản_phẩm Symantec
+Bên_cạnh đó , các chuyên_gia cũng phát_hiện lỗi ảnh_hưởng tới tất_cả các phiên_bản RealSecure và BlackICE của Internet_Security_Systems , cho_phép hacker chiếm quyền truy_xuất hệ_thống .
+Symantec đang kiểm_tra vấn_đề này và sẽ sớm ban_hành miếng vá .
+Theo thống_kê của hãng bảo_mật Symantec công_bố hôm_qua , các khiếm_khuyết an_ninh hệ_thống trong vòng 6 tháng qua đã chững lại . Nhưng những phần_mềm phá_hoại dưới dạng sâu vẫn tiếp_tục đe_dọa Internet với chiều_hướng đi lên .
+Năm 2003 , tổng_số lỗi được công_bố là 2.636 , chỉ tăng 2% so với 2.587 của năm 2002 ( Số khiếm_khuyết phát_hiện trong thời_gian 2001-2002 tăng tới 81% ) . Xu_hướng này cho thấy công_tác phát_triển phần_mềm đang ngày_một tốt hơn và các lập_trình_viên đã học được cách tránh những sai_sót an_ninh phổ_thông nhất .
+Tuy_nhiên , số_lượng virus máy_tính mới xuất_hiện lại tăng đột_biến với khả_năng lợi_dụng lỗi của phần_mềm để tấn_công vào hệ_thống , trong đó điển_hình là sâu MSBlast , Sobig , Mydoom , Bagle .
+T . M ( Theo Theage )

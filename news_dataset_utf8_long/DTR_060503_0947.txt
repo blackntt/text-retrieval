@@ -1,0 +1,7 @@
+﻿“Cao bồi không gian” ra bản beta mở rộng
+
+Bản thử nghiệm mở rộng (open Beta) của trò chơi trực tuyến "Cao Bồi không gian" sẽ được trung tâm VTC Online Game bắt đầu cung cấp vào ngày 7/5 tới. Thời gian vận hành kéo dài từ 3 - 5 tuần. 
+ Theo nhà cung cấp, với nhiều nâng cấp, bổ sung mới và không hạn chế số lượng thành viên tham gia, phiên bản này hứa hẹn sẽ mang lại nhiều tính năng hấp dẫn. 
+Theo đó, bản Open Beta sắp được cung cấp là bản mới nhất - 0.3.3.7, hiện nay chỉ có ở Việt Nam và Hàn Quốc. Phiên bản mới được Việt hóa tới trên 95%, đánh dấu nhiều thay đổi lớn: bổ sung 7 bản đồ mới, thêm hàng loạt quái vật mới, item mới và thành phố mới. Đặc biệt, tính năng Nation War (Đại chiến) sẽ cho phép mỗi bên tham chiến được bầu ra một thủ lĩnh (President) có toàn quyền điều hành, mở rộng quy mô của cuộc chiến ra toàn hành tinh Phillion. 
+Sau giai đoạn thử nghiệm, tất cả các tài khoản thành viên sẽ được reset (đưa về mức 0). Theo nhà cung cấp, việc reset cơ sở dữ liệu rất cần thiết vì bản Open Beta là cuộc tổng duyệt cuối cùng nên có thể vẫn còn lỗi. Hơn nữa, đây cũng là biện pháp đảm bảo sự công bằng, đưa mọi người chơi trở lại vạch xuất phát để khi trò chơi được chính thức phát hành không có ai là quá mạnh hoặc quá yếu. 
+Để tham gia chơi miễn phí trong giai đoạn Open Beta, người chơi có thể đăng ký ngay từ bây giờ tại: http://caoboi.vtc.vn/reg.asp , hoặc truy cập để xem chi tiết tại các địa chỉ http://caoboi.vtc.vn và http://diendan.vtc.vn . Mạnh Cường

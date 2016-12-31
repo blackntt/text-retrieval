@@ -1,0 +1,5 @@
+﻿ Từ 14-4 , S-Fone tính cước theo block 6 giây + 1
+Cách tính cước này áp_dụng chung cho tất_cả các thuê_bao trả trước và trả sau của S-Fone sử_dụng bất_kỳ gói dịch_vụ nào . Theo đó , mức phí tính theo block 6 giây đầu_tiên của từng gói cước không thay_đổi , kể từ giây thứ_bảy , cước_phí cuộc_gọi của các thuê_bao S-Fone sẽ được tính theo từng giây . . Cuộc_gọi kéo_dài chưa đến 6 giây được làm_tròn thành 1 block 6 giây đầu_tiên . Các giây tiếp_theo được tính theo block 1 giây .
+“ Với phương_thức tính cước theo block 6 giây + 1 , các khách_hàng của S-Fone sẽ chỉ phải trả tiền cho những gì mình nói ” . Ông Đỗ_Văn_Quất , Giám_đốc Kinh_doanh tiếp_thị của S-Fone chia_sẻ .
+Nằm trong chiến_lược đẩy_mạnh phát_triển dịch_vụ và nâng cao chất_lượng hoạt_động chăm_sóc khách_hàng , S-Fone cũng đã và đang khẩn_trương tiến_hành các hoạt_động đầu_tư cho hệ_thống cơ_sở_hạ_tầng mạng_lưới . Theo đó , S-Fone sẽ hoàn_thành phủ_sóng toàn_quốc vào cuối tháng 5 và cung_cấp các dịch_vụ giá_trị gia_tăng đặc_biệt trên nền công_nghệ CDMA 2000 1x-EV-DO vào quý III năm nay .
+H . N .

@@ -1,0 +1,15 @@
+﻿Bill Gates dự đoán gì?
+
+“Tính đột phá” rất có ý nghĩa với Microsoft, bởi vì Micrsoft đã đầu tư tất cả để có được và một khi người sử dụng dùng đến, họ sẽ không tìm được sản phẩm khác thay thế. 
+Các doanh nghiệp cần phải tính toán về sự hữu ích của những sản phẩm mới mà Micrsoft mang lại trên phương diện chất lượng và hiệu quả công việc mà nhân viên họ thực hiện với các sản phẩm mới. Theo tính toán của Micrsoft, lợi nhuận thu được chắc chắn cao hơn nhiều so với sự đầu tư IT. Điều này cũng có nghĩa là người tiêu dùng vẫn phải tiếp tục đỗ tiền mua các sản phẩm Micrsoft. 
+2. Máy tính sẽ thông minh hơn. 
+Hệ thống phần mềm hiện nay vẫn chưa được hoàn chỉnh và ranh giới giữa bạn và chiếc máy đang sử dụng vẫn tồn tại sừng sững như bức tường Vạn Lý Trường Thành của Trung Quốc. Đó là cách thức bạn thao tác trên các file khác với trên e-mail và sổ địa chỉ. Cách thức bạn dùng lời nói để điều khiển chiếc máy, khả năng ghi nhớ của máy về những thói quen khi dùng máy của bạn và ranh giới giữa những thiết bị khác nhau. Chắc chắn bạn phải tốn không ít thời gian mới hiểu được cách làm việc tốt nhất với chúng và phải biết dùng chúng trên những loại máy và thiết bị khác nhau. 
+Những chuẩn phần mềm mới về file của Micrsoft là Win FS trong Windows Longhorn sử dụng công nghệ sử lý, truyền file, e-mail, hình ảnh… với giao diện phong phú hơn, dễ dàng hơn mà không cần để ý bạn đang ở đâu và sử dụng loại máy hay thiết bị nào. Máy tính sẽ thông minh hơn và giải quyết rốt ráo các vấn đề “ranh giới” này. 
+3. Tuân theo ý muốn của người tiêu dùng 
+Bill Gates cho rằng Windows Longhorn, dự kiến có mặt trên thị trường vào năm 2006, thật sự là một tham vọng của Micrsoft, được xem là một bước ngoặc về tiến bộ phần mềm trong vòng 10 năm qua của Micrsoft. “Một khi đã dùng Windows Longhorn mới, người tiêu dùng sẽ không thể quay trở lại với những chuẩn phần mềm hiện có” – ông Bill Gates khẳng định. 
+Nói một cách khác, Micrsoft mang cho người tiêu dùng điều họ muốn và họ phải chấp nhận các chuẩn file mới Win FS trong Windows Longhorn. Điệp khúc đầu tư thêm cho những phần mềm mới của Micrsoft. Ví thế, sẽ khó có hồi kết thúc. 
+4. Danh sách trắng 
+Nếu có phần mềm tiện ích giúp người ta nhận và gửi e-mail nhanh hơn, ắt sẽ có cách để khống chế làn sóng thư rác-spam đổ đến hộp thư cá nhân mỗi ngày. Giải pháp của Bill Gates va Micrsoft là lập “danh sách trắng-white list”- danh sách của những người bạn thường xuyên nhận e-mail nhất và bản thân bạn phải chắc chắn một điều là chỉ mở những e-mail của những người trong danh sách này mà thôi. 
+White list cộng với một phần mềm hỗ trợ giúp canh gác hộp thư được Bill Gates coi là khắc tinh của spam và chuyên loại trừ các vị khách không mời sẽ là chuyện nhỏ.
+
+Theo NLĐ

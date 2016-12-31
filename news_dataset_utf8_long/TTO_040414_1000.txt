@@ -1,0 +1,9 @@
+﻿Tạo nhanh tập tin PDF từ MicroSoft Word
+
+PDF là một định dạng tập tin văn bản phổ biến trên Internet, đặc biệt thường được sử dụng trong các sách điện tử (e-book). Đúng như tên gọi của nó, PDF – Portable Document File - Tập tin văn bản “di động” có kích thước nhỏ hơn rất nhiều so với tập tin dạng .DOC của Word. Đặc biệt hơn nữa là các tập tin PDF có khả năng “nhúng” các font chữ. Nhờ đó, người đọc không còn phải bận tâm đến việc trên máy có cài font chữ có trong văn bản hay không mà vẫn có thể đọc tin nhờ trình đọc PDF phổ biến nhất Adobe Acrobat Reader. 
+Khi đã có văn bản dạng DOC của MicroSoft Word, bạn có thể nhanh chóng tạo ra một tập tin PDF với định dạng y hệt tập tin Word nhờ Word to PDF Converter. Đây là một thư viện liên kết động thành phần phụ thêm của MicroSoft Word (Add in component DLL) cho phép người dùng chuyển đổi các văn bản dạng DOC của Word thành tập tin dạng PDF một cách tự động. Sau khi cài đặt, sẽ có một nút lệnh “Save as PDF” trên thanh công cụ của Word. Bất cứ lúc nào cần chuyển đổi văn bản về dạng PDF, bạn chỉ cần click vào đó, lựa chọn thư mục và tên tập tin cần lưu, công việc chuyển đổi sẽ lập tức hoàn tất! 
+Một số đặc tính chính của Word to PDF Converter: 
+-Hỗ trợ nhúng font, hiệu chỉnh độ phân giải và độ nén văn bản. -Hỗ trợ hầu hết các định dạng PDF phổ biến. -Cho phép hiệu chỉnh cỡ trang, màu trang, và các định dạng khác trong tập tin PDF kết quả. -Giữ nguyên được định dạng văn bản gốc bao gồm, kiểu font, màu chữ, các bảng biểu, liên kết, đánh dấu (bookmark), hình ảnh... 
+Nếu bạn muốn chắc chắn người nhận văn bản của mình đọc được đúng nội dung trình bày như trên máy tính của bạn, bạn có thể chuyển đổi văn bản về dạng PDF với Word to PDF Converter. Hãy vào địa chỉ www.pdf-convert.com và tải về bản dùng thử.
+
+AppLinuz

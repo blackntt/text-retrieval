@@ -1,0 +1,175 @@
+﻿ ĐH Huế công_bố điểm_chuẩn NV2 và xét tuyển NV3
+& gt ; & gt ; Mời bạn BẤM_VÀO_ĐÂY để xem danh_sách trúng_tuyển NV2 vào Trường ĐHDL Hùng_Vương
+& gt ; & gt ; Mời bạn BẤM_VÀO_ĐÂY để xem danh_sách trúng_tuyển NV2 vào Trường ĐH Sư_phạm kỹ_thuật TP.HCM
+& gt ; & gt ; Mời bạn BẤM_VÀO_ĐÂY để xem danh_sách trúng_tuyển NV2 vào Trường ĐH Cần_Thơ
+& gt ; & gt ; Mời bạn BẤM_VÀO_ĐÂY để xem danh_sách trúng_tuyển NV2 vào Trường ĐHDL Văn_Lang
+& gt ; & gt ; Mời bạn BẤM_VÀO_ĐÂY để xem danh_sách trúng_tuyển NV2 vào Trường CĐ Kinh_tế TP.HCM
+Theo đó , đây là mức điểm đối_với học_sinh phổ_thông - khu_vực 3 . Mỗi đối_tượng liền kề cách nhau 1 điểm , mỗi khu_vực liền kề cách nhau 0.5 điểm .
+Ngoài_ra ĐH Huế cũng xét tuyển thêm NV3 các Trường ĐH Khoa_học , ĐH Nông_lâm , ĐH Y . Hồ_sơ xét tuyển gồm : Bản_chính Giấy chứng_nhận kết_quả thi_tuyển sinh ĐH năm 2005 ( số 2 ) do trường thí_sinh dự thi cấp và ghi đầy_đủ vào phần dành cho thí_sinh đăng_ký xét tuyển NV3 . Một phong_bì có dán tem ghi rõ họ tên , địa_chỉ , số điện_thoại ( nếu có ) của thí_sinh .
+Thí_sinh gửi hồ_sơ về : Ban Đào tạo ĐH Huế , số 2 đường Lê_Lợi , TP Huế ( trường chỉ nhận hồ_sơ qua đường Bưu_điện ) .
+Thời_gian nhận hồ_sơ từ ngày 15-9-2005 đến 30-9-2005 ( theo dấu bưu_điện ) . Các hồ_sơ không đúng quy_định sẽ không được xét tuyển . Nguyên_tắc xét tuyển là lấy theo kết_quả thi_tuyển sinh của thí_sinh từ điểm_cao nhất cho_đến khi đạt chỉ_tiêu đào_tạo .
+Điểm_chuẩn NV2
+Mã ngành
+Ngành đào_tạo
+Khối thi
+Điểm NV2
+ĐH_NGOẠI_NGỮ ( DHF )
+702
+SP Tiếng_Nga
+D1 , D2
+15.0
+703
+SP Tiếng_Pháp
+D3
+18.0
+704
+SP Tiếng_Trung
+D1 , D4
+18.0
+751
+Tiếng_Anh
+D1
+18.5
+752
+Tiếng_Nga
+D1 , D2
+15.0
+753
+Tiếng_Pháp
+D3
+17.0
+ĐH_KINH_TẾ ( DHK )
+403
+Kinh_tế chính_trị
+A , D
+21.0
+ĐH_NÔNG_LÂM ( DHL )
+101
+Công_nghiệp và công_trình nông_thôn
+A
+20.0
+ĐH_SƯ_PHẠM ( DHS )
+104
+SP Kỹ_thuật công_nghiệp
+A
+19.0
+501
+SP Tâm_lý giáo_dục
+C
+19.5
+ĐH_KHOA_HỌC ( DHT )
+101
+Toán_học
+A
+18.5
+102
+Tin_học
+A
+20.5
+103
+Vật_lý
+A
+19.5
+202
+Địa_chất
+A
+16.0
+604
+Hán_Nôm
+C
+17.0
+Điểm xét tuyển NV3
+Mã ngành
+Ngành đào_tạo
+Khối thi
+Điểm NV3
+Chỉ_tiêu
+ĐH_KHOA_HỌC ( DHT )
+302
+Địa_lý
+B
+16.0
+15
+303
+Khoa_học môi_trường
+B
+21.5
+31
+304
+Công_nghệ_sinh_học
+B
+22.5
+22
+ĐH_NÔNG_LÂM ( DHL )
+102
+Cơ_khí bảo_quản chế_biến nông_sản thực_phẩm
+A
+15.0
+10
+301
+Trồng_trọt
+B
+15.5
+13
+302
+Bảo_vệ thực_vật
+B
+16.5
+10
+303
+Bảo_quản chế_biến nông_sản
+B
+16.5
+14
+304
+Làm_vườn và sinh_vật_cảnh
+B
+15.0
+26
+305
+Lâm_nghiệp
+B
+16.0
+11
+306
+Chăn_nuôi - Thú_y
+B
+15.5
+11
+308
+Nuôi_trồng thủy_sản
+B
+17.0
+24
+309
+Nông_học
+B
+16.0
+6
+310
+Khuyến_nông và phát_triển nông_thôn
+B
+17.5
+12
+311
+Quản_lý tài_nguyên rừng và môi_trường
+B
+17.5
+12
+ĐH_Y_KHOA ( DHY )
+304
+Điều_dưỡng
+B
+18.0
+7
+305
+Kỹ_thuật y_học
+B
+20.0
+9
+306
+Y_tế công_cộng
+B
+16.0
+12
+QUỐC_DŨNG

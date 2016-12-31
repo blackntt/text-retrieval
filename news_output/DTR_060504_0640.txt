@@ -1,0 +1,17 @@
+﻿ “ Phá bẫy ” đề thi Hoá , Sinh
+Kinh_nghiệm “ phá bẫy ” đề thi đại_học môn Hoá_học và Sinh_học được Dân_trí tổng_hợp từ kinh_nghiệm của các thầy_cô trong tổ Hoá , Sinh trường THPT chuyên Hà_Nội - Amxtecđam .
+Môn_Hoá học :
+- Không học thuộc_lòng đơn_điệu từng bài , cần chú_ý so_sánh và giải_thích . Thí_sinh cần hiểu để học , như phải nắm vững được tính_chất chung của chất_hữu_cơ , chất_vô_cơ . Sau đó biết và hiểu được tính_chất đặc_trưng của từng nhóm chức , từng nhóm , phân nhóm kim_loại . Trong quá_trình học cần có sự so_sánh điểm giống và khác_nhau giữa các nhóm chức , nhóm kim_loại ... để dễ nhớ và hiểu sâu hơn .
+- Phần lý_thuyết chiếm nhiều điểm hơn phần bài_toán ( tỉ_lệ 6-4 ) , mỗi câu lý_thuyết còn có nhiều câu nhỏ độc_lập nên dễ kiếm điểm hơn phần bài_toán ( mỗi bài_toán thường có 2-3 câu , lại lệ_thuộc nhau , không làm được câu 1 thì khó có_thể làm tiếp câu 2 , 3 . Chưa kể trường_hợp phải giải_quyết các phép tính_toán khá phức_tạp ) . Do_vậy khi làm bài thi , thí_sinh cần ưu_tiên làm phần lý_thuyết trước .
+- Chú_ý đến những chuỗi phản_ứng , cách điều_chế , nhận_biết , so_sánh tính_chất hóa_học , cách viết công_thức cấu_tạo đồng_phân ( vị_trí , chức ) ... Về phần bài_tập toán , học_sinh tập_trung một_số dạng toán cơ_bản như : lập công_thức phân_tử có liên_hệ tính_chất hóa_học , xác_định kim_loại , tính thành_phần hỗn_hợp ... ( chủ_yếu trong SGK và bài_tập lớp 12 ) . Đặc_biệt , các em cần viết đúng và đủ phản_ứng , cân_bằng và tính_toán chính_xác .
+Môn_Sinh học :
+- Các câu_hỏi lý_thuyết đối_với môn Sinh thường thiên về dạng các câu_hỏi nhỏ giống như một bài_tập để vận_dụng lý_thuyết vào giải tìm đáp_số . Thí_sinh phải hiểu và nhớ sách_giáo_khoa và phải_biết khái_quát - tổng_kết về chương_trình học của mình , nắm vững các ý chính của từng bài . Điều này sẽ giúp hệ_thống_hóa được các kiến_thức của mình và không thấy mông_lung , rối lên vì nhiều kiến_thức .
+- Chú_ý nắm vững 14 chương của chương_trình giáo_khoa lớp 12 và nắm vững những ví_dụ chứng_minh trong sách_giáo_khoa .
+- Phần bài_tập của môn Sinh thường có hai loại : một loại thuộc khoa_học chính_xác , thí_sinh phải nắm được công_thức mới giải được . Một loại thuộc khoa_học thực_nghiệm . Đối_với loại bài này , thí_sinh phải sử_dụng lí_thuyết đã học để giải_thích kết_quả một thí_nghiệm theo đề_bài ( biện_luận và viết sơ_đồ lai ) .
+Để biện_luận 1 bài_tập lai nên tiến_hành theo 5 bước :
+Xác_định tính trội , tính lặn
+Quy_ước gen
+Xác_định quy_luật di_truyền
+Xác_định kiểu gen bố_mẹ
+Viết sơ_đồ lai ( nếu có hoán_vị gen ta tính tần_số hoán_vị trước khi viết sơ_đồ lai ) .
+Sau khi làm xong , kiểm_tra kiểu hình qua sơ_đồ lai đúng với đề bài_tập thì thí_sinh đó đã biện_luận chính_xác . Nhóm PVGD

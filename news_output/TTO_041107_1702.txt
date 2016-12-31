@@ -1,0 +1,5 @@
+﻿ Siêu máy_tính mới phá kỷ_lục về tốc_độ
+Siêu_vi tính này được chế_tạo cho Phòng_thí_nghiệm Quốc_gia Lawrence_Livermore , một phòng_thí_nghiệm của Bộ Năng lượng Mỹ ( DOE ) . Kết qủa thử_nghiệm của DOE cho thấy Blue_Gen / L có tốc_độ xử_lý 70,72 teraflop ( nghìn tỉ phép_tính / giây ) . Tốc_độ xử_lý của siêu_vi tính hiện_tại của Nhật , Máy_Mô phỏng Trái_đất của hãng NEC , là 35,86 teraflop .
+Blue_Gen / L hiện đang là một nguyên_mẫu và hiện chỉ đạt 1/10 tốc_độ xử_lý đầy_đủ khi hoàn_thành vào năm 2005 . Hiệu_năng tối_đa của nó dự_kiến sẽ đạt 360 terflop . Khi hoàn_thành , Blue_Gen / L sẽ giúp các nhà_khoa_học thực_hiện được những đòi_hỏi về an_tòan , an_ninh và đáng tin_cậy cho kho dự_trữ vũ_khí_hạt_nhân của Mỹ mà không cần thử_nghiệm hạt_nhân dưới lòng đất .
+Ngòai_ra , siêu_vi tính rất quan_trọng trong việc giải_quyết những vấn_đề phức_tạp trong khoa_học và xã_hội . Khả_năng mô_phỏng và xử_lý hết_sức lớn của nó giúp cải_thiện tính chính_xác của dự_báo thời_tiết , giúp thiết_kế xe_hơi hiện_đại hơn , cải_tiến việc chẩn_bệnh cũng_như nghiên_cứu môi_trường .
+Q . HƯƠNG - BBC

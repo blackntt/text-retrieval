@@ -1,0 +1,14 @@
+﻿ VinaPhone chuẩn_bị cung_cấp các dịch_vụ mới
+Đây là dịch_vụ cho_phép truyền_tải dữ_liệu với tốc_độ cao tới 115kbps , gấp 12 lần tốc_độ GSM . Ưu_điểm của công_nghệ này là làm gia_tăng đáng_kể khả_năng truyền dữ_liệu thông_qua việc linh_hoạt tận_dụng tối_đa các kênh truyền dữ_liệu còn trống của mạng , thay_vì chỉ chiếm một kênh như công_nghệ GSM .
+Chính vì_thế , thuê_bao điện_thoại_di_động có_thể vừa nối_mạng Internet liên_tục , vừa gọi điện_thoại như bình_thường . Cước_phí chỉ tính theo lưu_lượng thông_tin nhận được chứ không tính theo thời_gian chiếm kênh như hiện_nay . Có_nghĩa là mặc_dù điện_thoại vẫn đang nối_mạng , nhưng không có dữ_liệu nào được truyền đi thì người sử_dụng cũng không phải trả cước .
+Dịch_vụ này đã được Vinaphone tiến_hành thử_nghiệm từ tháng 9/2003 . Hiện , các thuê_bao VinaPhone ở Hà_Nội , TP.HCM , Đà_Nẵng , Đồng_Nai , Thừa_Thiên_Huế đã có_thể sử_dụng được GPRS . Dự_kiến đến đầu quý 3/2004 , VinaPhone sẽ chính_thức cung_cấp dịch_vụ .
+Dịch_vụ đại_lý điện_tử - VinaE-Load
+Đây là dịch_vụ nạp tiền điện_tử mới nhất của VinaPhone cho_phép hàng nghìn đại_lý VinaPhone có_thể tự_động nạp tiền trực_tiếp vào tài_khoản di_động trả trước VinaCard , VinaDaily , VinaText của khách_hàng mà không cần sử_dụng các thẻ cào thông_thường .
+Bằng cách sử_dụng một loại SIM Card đặc_biệt , các đại_lý VinaE-load có_thể thực_hiện chuyển_tiền từ tài_khoản VinaE-load của mình đến tài_khoản của các thuê_bao VinaCard , VinaDaily , VinaText một_cách đơn_giản và nhanh_chóng .
+Sau khi đại_lý VinaE-load thực_hiện chuyển_tiền , khách_hàng sẽ nhận được tin nhắn SMS thông_báo về số tiền đã được nạp vào tài_khoản trả trước của mình . Khách_hàng cũng có_thể kiểm_tra lại bằng cách gọi số 900 , bấm số 2 để nghe thông_báo về số_dư tài_khoản trả trước . Dự_kiến , dịch_vụ này cũng sẽ được triển_khai vào quý 3/2004 .
+Push to Talk - Một phương_thức đàm_thoại mới
+Dịch_vụ PTT ( Push to Talk ) là một dịch_vụ mới cũng đang được VinaPhone tiến_hành thử_nghiệm . Tương_tự như phương_thức đàm_thoại giữa các máy_bộ_đàm thông_thường , PTT cho_phép kết_nối cuộc_gọi bộ_đàm giữa các nhóm người sử_dụng với nhau . Âm_thanh sẽ được mã_hóa và chuyển giữa các máy di_động dưới dạng gói thông_tin qua đường truyền GPRS .
+Để sử_dụng dịch_vụ PTT , khách_hàng phải có máy di_động có tính_năng " Push to Talk " , đăng_ký và sử_dụng dịch_vụ GPRS . Người sử_dụng có_thể lựa_chọn một hoặc nhóm người quen đã cài_đặt sẵn trong máy và bấm nút PTT để bắt_đầu đàm_thoại .
+PTT là phương_thức liên_lạc không đồng_thời , khi người này nói thì người / nhóm người kia chỉ nghe và ngược_lại . Cuộc_gọi PTT sẽ được kết_nối ngay mà không cần người nhận bấm máy trả_lời . Âm_thanh sẽ được phát ra từ máy di_động thông_qua hệ_thống loa Loudspeaker .
+Dự_kiến , cước đàm_thoại sẽ được tính theo dung_lượng gói âm_thanh truyền qua GPRS ( kbyte ) .
+Theo VDC - GPC

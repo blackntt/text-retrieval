@@ -1,0 +1,9 @@
+﻿Những ứng dụng văn phòng hay nhất
+
+- Microsoft Office có giá cả không hề rẻ chút nào. Tuy nhiên, bộ phần mềm văn phòng mã nguồn mở OpenOffice ( http://www.openoffice.org/ ) có thể là một sự thay thế tốt đáng kinh ngạc với hàng loạt tính năng (mặc dù bạn sẽ phải đăng ký để download). 
+- Nếu bạn thích sử dụng Notepad như một lựa chọn thay thế cho Microsoft Word nhưng vẫn muốn có thêm một số tính năng khác, hãy xem xét Notetab Light ( http://www.pcworld.com/downloads/file_description/0,fid,7710,00.asp ), một phần mềm biên tập văn bản miễn phí có khả năng xử lý các tài liệu cơ bản và file HTML một cách dễ dàng, đơn giản. 
+- Bạn thường xuyên copy văn bản từ các trang web? Nếu vậy, PureText 2 ( http://www.pcworld.com/downloads/file_description/0,fid,22948,00.asp ) xứng đáng để bạn lựa chọn. Phần mềm này loại bỏ định dạng, mã HTML và tất cả những gì bạn không cần khi copy văn bản vào clipboard và dán nó vào tài liệu khác. 
+- Các nhà thiết kế web rất thích 1st Page 2000 ( http://www.pcworld.com/downloads/file_description/0,fid,7622,00.asp ) vì nó là phần mềm biên tập HTML mà bất kỳ ai, từ người mới học tới chuyên gia, đều có thể sử dụng ngay lập tức. Công cụ xây dựng site thú vị này đáng để thử qua, dù trang chủ của nó, Allaire Homesite, không còn nữa. 
+- AceMoney Lite 3.4.4 ( http://www.mechcad.net/products/acemoney/index_lite.shtml ) có khả năng quản lý tài chính cho bạn một cách cực kỳ gọn gàng, thuận tiện. Phần mềm này theo dõi các khoản chi phí, đầu tư và hóa đơn thanh toán của bạn. Ngoài ra nó còn cung cấp một loạt lựa chọn đa dạng các loại báo cáo tài chính.
+
+HOÀNG MINH

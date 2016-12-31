@@ -1,0 +1,9 @@
+﻿ Một SV Việt_Nam có_thể ngồi_tù 33 năm vì lừa_đảo trực_tuyến
+Theo tờ Straits_Times đưa tin hôm_qua ( 3-5 ) , hacker này đã bị buộc vào 4 trong 11 tội sử_dụng máy_tính trái_phép . Hung đã lừa một_số sinh_viên cùng trường bằng cách mời họ vào chơi một trò_chơi trực_tuyến trong đó ẩn chương_trình trojan " bubble.exe " mang tên Perfect_Keylogger .
+Khi những sinh_viên này chơi trò_chơi , phần_mềm ẩn này sẽ được kích_hoạt và tự_động cài_đặt trên máy_tính của nạn_nhân . Nó sẽ ghi lại các phím gõ và tự_động gửi lại cho Hung một file về thông_tin của hai sinh_viên , bao_gồm tài_khỏan ngân_hàng trực_tuyến của Wong_Ming_Liang ( một SV cùng trường Malaysia ) , tài_khỏan và mật_khẩu máy_tính của Lim_Xiao_Jing ( một SV cùng trường Singapore ) .
+Theo điều_tra , vào tháng 11 và 12 năm 2003 , Hung đã sử_dụng tài_khỏan của Lim để truy_cập vào máy_chủ của trường , và rồi sử_dụng tài_khỏan ngân_hàng của Wong để mua hàng_loạt thẻ điện_thoại quốc_tế trả trước và đăng_ký sử_dụng tạp_chí HardwareMAG .
+Phó công_tố Adrian_Yeo cho_biết Hung có_thể phải đối_mặt với mức án khá nặng để làm_gương cho những kẻ khác . Sinh_viên này có_thể phải nộp phạt 35.293 USD và ngồi_tù 33 năm .
+Nhưng người bảo_lãnh , các giáo_viên và sinh_viên cùng trường ( trong đó có cả Wong ) đã gửi đơn lên thẩm_phán Jasvender_Kaur xin giảm án cho Hung . Wong cho_biết hiện_nay Hung đã trả lại đầy_đủ tiền cho anh_ta và xin cho Hung một cơ_hội để làm lại từ đầu .
+Theo luật_sư David_Ng , Hung xuất_thân từ gia_đình có 9 người con , gặp nhiều khó_khăn về tài_chính . Ngoài tiền học_bổng trường cấp , Hung không có sự hỗ_trợ nào về tài_chính . Mẹ_Hung ( 61 tuổi ) cũng đã bay sang Singapore thỉnh_cầu giảm án cho con_trai . Bà đã xin tha_thứ cho những lỗi_lầm của con và nói Hung luôn là một sinh_viên ưu_tú , một người bạn chân_thành và là một người con hiếu_thảo .
+Thẩm_phán Kaur cho_biết phán_quyết cuối_cùng có_thể được đưa ra trong tuần tới .
+T . M ( Theo AFP )

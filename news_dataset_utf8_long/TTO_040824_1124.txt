@@ -1,0 +1,9 @@
+﻿BEA công bố bộ công cụ phát triển ứng dụng mới
+
+Loạt phiên bản phần mềm này được xem là một trong những loạt ứng dụng dành cho máy chủ để cùng chia sẻ các ứng dụng web nổi tiếng nhất của BEA. Bộ phần mềm tích hợp các công cụ phát triển, trợ giúp, chia sẻ và các ứng dụng cơ sở đặc thù của BEA. 
+Tổng giám đốc của BEA, ông Bobby Napiltonia cho biết: "Bộ công cụ ISV hướng đến các phần mềm ứng dụng độc lập dành cho các thiết bị ngoại vi chuyên chạy trên máy chủ của BEA, nó giúp cho các ứng dụng chạy nhanh hơn với giá rẻ hơn. ISV nhắm đến các giải pháp truyền dẫn nhanh mà không quá phụ thuộc vào hệ thống kỹ thuật phần cứng". 
+Gói phần mềm này bao gồm: các phần mềm dành cho nhóm làm việc trên mạng, các công cụ phát triển dành cho hệ thống Java, các thao tác ứng dụng dành cho các hệ thống máy sử dụng mạng Java ảo, mạng Weblogic, một bộ công cụ tạo vị trí cho các cổng giao diện ứng dụng, cổng Weblogic, các ứng dụng điều hành dùng để kết hợp các ứng dụng khác của BEA chạy trên các phần cứng khác nhau. 
+BEA hiện đang cạnh tranh với Oracle, IBM và các nhà phát triển ứng dụng khác trong thị trường dành cho máy chủ sử dụng Java, trong khí đó Microsoft vẫn tiếp tục thúc đẩy dự án .Net Framework dành cho các loại máy chủ khác. 
+Các nhà phát triển phần mềm khác như Hewlett-Packard, Veritas Software, EMC cũng đã công bố các dự án ban đầu sử dụng bộ công cụ phần mềm của BEA.
+
+HOÀNG HẢI (Theo CNet)

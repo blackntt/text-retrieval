@@ -1,0 +1,6 @@
+﻿ Dùng_Icon_Collector_Tool để lấy ... icon
+Nếu bạn không biết phải làm thế_nào trích xuất các biểu_tượng này ra thì phần_mềm Icon_Collector_Tool sẽ giúp bạn thực_hiện việc này một_cách nhanh_chóng . Sau khi chạy chương_trình , bạn vào menu File & gt ; Open_File chọn một tập_tin mà bạn muốn trích xuất biểu_tượng của nó .
+Trong cửa_sổ chính của chương_trình lúc này sẽ hiển_thị toàn_bộ các biểu_tượng chứa trong tập_tin bạn vừa chọn . Bạn chọn một biểu_tượng mà mình thích . Ở khung bên phải sẽ hiển_thị các kích_thước của biểu_tượng bạn đang chọn . Bạn chọn một kích_thước ưng_ý , nhấn chuột phải vào đó , chọn Save_As và chọn nơi lưu lại , đặt tên file ( nhớ gõ luôn đuôi tập_tin là . ICO ) .
+Ngoài_ra nếu_không biết rõ tập_tin nào có chứa biểu_tượng , bạn có_thể dùng chức_năng tìm_kiếm của chương_trình : vào menu File & gt ; Open_Folder và chỉ_định thư_mục cần tìm , chọn định_dạng ( EXE , DLL , ICO ) và nhấn nút Search .
+Icon_Collector_Tool 1.2 là phần_mềm thương_mại của AtoA Software , tương_thích với Windows 95/98/Me/NT/2000/XP/2003 . Có_thể tải bản dùng thử tại http : / / www.atoasoft.com/products/ict.htm ( 680 KB ) hay tìm mua trên các đĩa CD phần_mềm tổng_hợp , hiện có bán ngoài thị_trường .
+NGUYỄN_HỒNG_HẠNH

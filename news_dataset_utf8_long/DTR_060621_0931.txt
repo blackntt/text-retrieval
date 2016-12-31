@@ -1,0 +1,11 @@
+﻿Thêm một lỗi nghiêm trọng trong Microsoft Excel
+
+Chỉ vài ngày sau khi Microsoft khuyến cáo về một lỗ hổng trong bảng tính Excel chưa được vá đang bị tin tặc khai thác thì hôm qua, các công ty bảo mật lại phát hiện thêm một lỗi nữa trong chương trình bảng tính phổ biến này. 
+ “Khiếm khuyết này “tiếp tay” cho tin tặc tấn công hệ thống máy tính khi người dùng mở một đường link URL dài nằm trong chương trình bảng tính của Microsoft”, hãng bảo mật Symantec (Mỹ) cảnh báo với người dùng. 
+Lỗi này có thể khiến chương trình bảng tính Excel bị đánh sập nếu người dùng mở một file nguy hiểm, theo cảnh báo của hãng bảo mật Symantec. Hãng này cho biết, khai thác được lỗ hổng này, tin tặc sẽ chiếm được quyền kiểm soát máy tính. “Hacker cũng có thể tự chạy được một mã tùy ý… nhưng hiện tại vẫn chưa thể khẳng định được đó là loại mã nào”, Symantec nói. 
+Symantec cảnh báo lỗ hổng an ninh này đã tồn tại từ lâu vì Excel không kiểm tra nội dung nhập vào của người dùng trước khi copy vào làm tràn bộ nhớ đệm. Excel 2003, Excel XP và một số phiên bản khác bị tác động do lỗi này. 
+Công ty bảo mật Secunia (Đan Mạch) đánh giá lỗ hổng thứ 2 trong Excel có mức độ “cực kỳ nghiêm trọng”. Mặc dù vậy, Secunia cho biết họ chưa ghi nhận được một cuộc tấn công nào khai thác lỗi này. 
+“Theo điều tra của chúng tôi, tin tặc có thể lợi dụng lỗi này khi người dùng click vào một đường siêu liên kết trong các văn bản Office”, đại diện của Microsoft cho biết. Ông này cũng nói, hãng phần mềm chưa phát hiện ra đợt khai thác nào từ lỗi này. 
+Để lợi dụng một trong hai lỗi của chương trình bảng tính, tin tặc sẽ phải tạo ra một file Excel độc và host file đó lên một website để phát tán qua e-mail, hoặc chúng gửi cho một nạn nhân mục tiêu. 
+Cả hai lỗi đều xuất hiện sau khi Microsoft phát hành bản nâng cấp an ninh tháng 6 vài ngày. Microsoft khuyên người dùng cần thận khi mở các file Excel và hãy chặn những file đáng ngờ trong e-mail đính kèm hoặc có thể thay đổi cấu hình PC để không thể mở bảng tính trong chương trình e-mail Outlook hoặc trên nền web. 
+N.H Theo CNet

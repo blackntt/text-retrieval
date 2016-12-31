@@ -1,0 +1,6 @@
+﻿ Tuyến xe_buýt : Bến_Thành - Bảy_Hiền - Nhiêu_Lộc , Chợ_Lớn - Củ_Chi
+Lộ_trình : bãi đậu xe_buýt đường Lê_Lai - trạm điều_hành Sài_Gòn - Phạm_Hồng_Thái - Trương_Định - đường dọc kênh Nhiêu_Lộc - cầu số 9 - đường dọc kênh Nhiêu_Lộc - Lê_Bình - Hoàng_Văn_Thụ - Xuân_Diệu - Xuân_Hồng - Trường_Chinh - Lý_Thường_Kiệt - Lạc_Long_Quân - Phạm_Phú_Thứ - Đồng_Đen - Bàu_Cát 9 - Hồng_Lạc - Thoại_Ngọc_Hầu ( hương_lộ 2 cũ ) - Nguyễn_Sơn - Văn_Cao - Lê_Thúc_Họach - cư_xá Nhiêu_Lộc ( cạnh trạm đăng_kiểm phương_tiện 50 - 03 V )
+Bến_xe Chợ_Lớn - Củ_Chi ( MS : 94 )
+Thời_gian hoạt_động 3g30 - 20g50 với 438 chuyến/ngày , cự_ly 35km và thời_gian hành_trình là 1 giờ 25 phút . Giờ cao_điểm 4 phút/chuyến và giờ thấp_điểm 20 phút/chuyến . Giá vé 2.000 đồng/người đi dưới 1/2 hành_trình và 4.000 đồng/người đi trên 1/2 hành_trình .
+Lộ_trình : bến_xe Chợ_Lớn - Xóm_Vôi - Hồng_Bàng - Tạ_Uyên - Nguyễn_Chí_Thanh - Lý_Thường_Kiệt - Hoàng_Văn_Thụ - Xuân_Diệu - Xuân_Hồng - Trường_Chinh - quốc_lộ 22 - bến_xe Củ_Chi .
+N . A .

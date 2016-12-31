@@ -1,0 +1,6 @@
+﻿ Thêm một phần_mềm đòi tiền chuộc
+Theo hãng bảo_mật Sophos ( Anh ) , khi được kích_hoạt , Trojan này sẽ làm hiển_thị một_số hình_ảnh , tiếp đó là thông_điệp đòi “ khổ_chủ ” của tài_liệu phải bỏ ra 10,99 USD nếu_không cứ 30 phút nó sẽ lại xóa 1 file .
+“ Ramsom . A được thiết_kế để biến dữ_liệu trên máy_tính bị lây_nhiễm thành con_tin và tìm cách đe_dọa người sử_dụng khiến họ phải nhanh_chóng nộp tiền ” , cố_vấn công_nghệ Graham_Cluley của Sophos cho_biết . “ Phần_mềm này yêu_cầu nạn_nhân thanh_toán thông_qua dịch_vụ chuyển_tiền Western_Union và hứa_hẹn gửi trả mã ‘ giải_độc ’ sau khi tác_giả của nó nhận được tiền ” .
+Tháng trước , một Trojan giống như Ransom . A đã xuất_hiện , mã_hóa file tài_liệu trên máy_tính nạn_nhân và đòi người sử_dụng phải trả 300 USD nếu muốn thông_tin của họ được “ bảo_toàn tính_mạng ” . Một vụ tống_tiền bằng phần_mềm tương_tự cũng đã được ghi_nhận hồi tháng 5 năm_ngoái .
+“ Đây có_thể là sự khởi_đầu cho một xu_hướng tội_phạm mới trên Internet ” , chuyên_gia Cluley nói . “ Người sử_dụng máy_tính cần cảnh_giác cao khi mở file đính kèm e - mail và khi truy_nhập những website không quen_thuộc ” .
+Theo Vn Express

@@ -1,0 +1,10 @@
+﻿ Sinh_viên có_thể học cùng lúc 2 chương_trình
+Theo Quy chế đào_tạo đại_học và cao_đẳng hệ chính_quy do Bộ Giáo dục Đào_tạo ban_hành , có hiệu_lực từ ngày 11/7 tới , sinh_viên có_thể học theo tiến_độ khác với tiến_độ học chung của nhà_trường và có_thể học cùng lúc hai chương_trình .
+Theo quy_chế này , sinh_viên được đăng_ký học thêm một chương_trình thứ_hai tại trường đang học để khi tốt_nghiệp được cấp hai văn_bằng , với điều_kiện sinh_viên này không thuộc diện tạm ngừng học và có điểm trung_bình chung học_tập cả năm từ 7,0 trở_lên .
+Nếu đang học thêm chương_trình hai mà có điểm trung_bình chung học_tập của năm_học đó đạt dưới 6,0 thì sinh_viên sẽ phải dừng học thêm chương_trình thứ_hai ở năm_học tiếp_theo . Khi học chương_trình thứ_hai sinh_viên được bảo_lưu điểm của những học_phần có nội_dung và khối_lượng kiến_thức tương_đương có trong chương_trình thứ nhất .
+Ngoài_ra , sinh_viên chỉ được xét tốt_nghiệp chương_trình thứ_hai nếu có đủ điều_kiện tốt_nghiệp ở chương_trình thứ nhất .
+cũng theo quy_chế này , những sinh_viên có nhu_cầu học chậm so với tiến_độ chung của khoá học có_thể đăng_ký với phòng đào_tạo để xin tạm rút một_số học_phần trong lịch_trình học quy_định .
+Tuy_nhiên , số học_phần đăng_ký tạm rút trong mỗi học_kỳ có tổng khối_lượng không quá 12 đơn_vị_học_trình và chủ_yếu thuộc vào nhóm học_phần không mang tính_chất bắt_buộc đối_với ngành đào_tạo chính .
+Thời_gian cho toàn khoá học đối_với các sinh_viên học theo tiến_độ chậm không được vượt quá thời_gian tối_đa được phép học đối_với sinh_viên học theo tiến_độ bình_thường quy_định .
+Sinh_viên cũng có_thể xin học vượt một_số học_phần so với lịch_trình học quy_định . Việc học vượt chỉ được thực_hiện đối_với những sinh_viên đã học xong năm_học thứ nhất , không thuộc diện tạm ngừng học và có điểm trung_bình chung học_tập cả năm từ 6,5 trở_lên .
+Sinh_viên được học vượt nếu có điểm trung_bình chung học_tập của năm_học vượt từ 6,0 trở xuống sẽ phải dừng học vượt ở năm_học tiếp_theo . Ngoài_ra , thời_gian hoàn_thành khóa học đối_với sinh_viên học vượt không được quá một năm đối_với trình_độ đại_học và không quá một học_kỳ đối_với trình_độ cao_đẳng . Theo TTXVN

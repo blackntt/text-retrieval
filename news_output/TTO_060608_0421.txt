@@ -1,0 +1,6 @@
+﻿ Trận_Đức - Costa_Rica và Ba_Lan - Ecuador đang chờ bạn
+Cách 1 : Người tham_dự soạn tin nhắn WC& lt ; khoảng trắng & gt ; A& lt ; khoảng trắng & gt ; B - C& lt ; khoảng trắng & gt ; D gửi đến 8282 . Trong đó , WC là mã cuộc_thi , A = 1 là trận Đức - Costa_Rica và A = 2 là trận Ba_Lan - Ecuador , B - C là tỉ_số của trận đấu , B và C có_thể là 1 chữ_số hay 2 chữ_số . D là số người cùng ý_kiến . Thời_gian tham_gia dự_đoán của mỗi trận kết_thúc vào phút 80 của trận đấu .
+VD : Bạn tham_gia dự_đoán trận Đức - Costa_Rica có mã trận đấu là 1 , tỉ_số là 2-1 và có 48.045 người dự_đoán đúng thì soạn tin nhắn : WC 1 2-1 48045 gửi đến 8282 .
+Cách 2 : Gọi điện đến số 19001733 và làm theo hướng_dẫn để tham_dự .
+Giải nhất 5 triệu đồng và quà lưu_niệm gồm ( móc khóa hình chú sư_tử Goleo ôm quả bóng Pille , đồng_tiền lưu_niệm mạ vàng có logo báo Tuổi_Trẻ và MyVita và một hộp MyVita ) . Ngoài_ra , còn có ba giải khuyến_khích mỗi giải 500.000 đồng . Ban tổ_chức cũng sẽ trao một giải đặc_biệt trị_giá 10 triệu đồng và quà lưu_niệm cho người tham_gia dự_đoán nhiều lần nhất trong cả mùa giải .
+BTC

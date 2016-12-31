@@ -1,0 +1,8 @@
+﻿ Hãy bỏ_phiếu để Sun chính_thức hỗ_trợ tiếng Việt trong Java
+Một_Request for Enhancements ( RFE Bug_Id 4932968 ) yêu_cầu tích_hợp tiếng Việt vào Java đã được các lập_trình_viên người VN đệ nạp tới Sun . Hãng phần_mềm này đang cân_nhắc quyết_định làm hay không . Trong quá_khứ , Sun đã mấy lần từ_chối yêu_cầu tích_hợp Locale vi _ VN vào Java , bạn có_thể search bằng từ_khóa " Vietnamese " tại đây để thấy những mưu_toan thất_bại đó .
+Nếu_Java hỗ_trợ tiếng Việt tôi sẽ có_thể :
+1.Hỗ trợ multi - language ( đa ngôn_ngữ ) cho chương_trình của tôi viết .
+2 . Với vi _ VN tôi chỉ cần bỏ 1 file chứa tên các nút các menu ở ngoài và đóng_gói nó kèm theo chương_trình là đủ để chương_trình hỗ_trợ tiếng Việt . Dĩ_nhiên tôi phải lập_trình cho người_ta chọn hoặc bạn chọn theo hệ_thống để hiển_thị giao_diện .
+3 . Hiển_thị đơn_vị_tiền_tệ , ngày_tháng theo vùng ( region ) của VN . VN xài " 100.000.000,34 đồng " chứ không phải " 100.000.000,34 USD " . Điều này rất cần_thiết trong các chương_trình tài_chính kế_toán hoặc các chương_trình có nhu_cầu địa_phương hóa .
+4 . Hỗ_trợ cách nhập tiếng Việt theo hệ_thống hoặc do lập_trình_viên xác_định .
+dreamweaver@diendantinhoc.org

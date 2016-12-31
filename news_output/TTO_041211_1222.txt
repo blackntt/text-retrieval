@@ -1,0 +1,33 @@
+﻿ Tem_thư và toán_học
+1 và 2 : Ngành bưu_chính Hi_Lạp phát_hành một con tem giới_thiệu trường_hợp đặc_biệt được nhiều người biết nhất của định_lý Pythagore dưới dạng 3 2 + 4 2 = 5 2 ( hình 1 ) . Ở Suriname , một nước thuộc Nam_Mỹ , người_ta cũng phát_hành một con tem để tôn_vinh định_lý này ( hình 2 ) .
+1
+2
+Hãy tìm xem có những con tem về toán_học nào ở nước ta được phát_hành không ? 3 , 4 , 5 và 6 : Các khối đa_diện đều ( còn gọi_là khối đa_diện Platon ) , các khối đa_diện nửa đều ( còn gọi_là khối đa_diện Archimède ) và một_số khái_niệm dẫn_xuất của chúng lại là đối_tượng miêu_tả của một con tem ở Đức ( hình 3 ) . Cũng tại Đức , chúng_ta có_thể tìm thấy hai con tem minh_họa hai khối đa_diện dạng ngôi_sao do Kepler phát_hiện ( hình 4 ) .
+Nhật_Bản cũng phát_hành con tem minh_họa biến_thể của một đa_diện ngôi_sao nhân_dịp Đại_hội toán_học quốc_tế 1995 ( hình 5 ) . Euler là nhà toán_học có công lớn trong việc phát_hiện khối nhị thập diện đều , nhưng công_thức của ông về quan_hệ giữa số đỉnh , số cạnh và số mặt của khối đa_diện còn nổi_tiếng hơn . Con tem ở hình 6 biểu_diễn một khối thập nhị_diện đều và công_thức Euler : c - k + f = 2 với c , k , f tương_ứng là số đỉnh , số cạnh và số mặt của một khối đa_diện .
+3
+4
+5
+6
+7 và 8 : Năm 1977 , nhân_dịp kỷ_niệm 200 năm ngày_sinh của Carl_Friedrich_Gauss , ngành bưu_chính Đức đã phát_hành một con tem về biểu_diễn số_phức trên mặt_phẳng tọa_độ . Trên con tem ( hình 7 ) , chúng_ta có_thể nhìn thấy bốn số_phức có ghi rõ tọa_độ được biểu_diễn trên bốn góc phần tư khác_nhau của mặt_phẳng tọa_độ . Dĩ_nhiên , tại Ireland , tổ_quốc của Hamilton , ngành bưu_chính không_thể không phát_hành con tem in lại thủ_bút của Hamilton về các hệ_thức quaternion liên_quan đến việc biểu_diễn số_phức ( hình 8 ) .
+7
+8
+9 và 10 : Tại_Haiti và Israel , các hằng_đẳng_thức đáng nhớ lại trở_thành sản_phẩm của ngành bưu_điện . Nếu học_sinh hai nước này thường mua tem để gửi thư , chắc họ sẽ không_thể quên hằng_đẳng_thức ( a + b ) 2 = a 2 + 2ab + b 2 được in trên hai con tem ở hình 9 và hình 10 !
+9
+10
+11 và 12 : Tại một_số nước khác , việc dạy và học toán lại được ưu_tiên ... lên tem hơn . Hình 11 là một con tem của Liên_Xô trước_đây minh_họa một giờ học lượng_giác . Hình 12 là con tem của Cộng_hòa dân_chủ nhân_dân Lào thể_hiện tiết dạy về hệ_thức lượng trong tam_giác_vuông của một thầy_giáo thương_binh nhằm hưởng_ứng Năm quốc_tế những người khuyết_tật .
+11
+12
+13 : Nếu chưa biết đến hình_học Lobatchevski , bạn sẽ không biết con tem Phần_Lan này muốn nói lên điều gì ! Nó biểu_diễn mô_hình mặt_phẳng hyperbol do Poincaré xây_dựng .
+13
+14
+14 , 15 , 16 và 17 : Con tem Áo ở hình 14 biểu_diễn một khung hộp chữ_nhật phải không các bạn ? Nếu bạn đồng_ý thì bạn đã ... nhầm rồi đó ! Nào , bạn hãy làm một mô_hình “ tréo cẳng ngỗng ” như_vậy đi ! Nếu_không , mời bạn ghé_mắt qua các hình 15 , 16 , 17 , một loạt tem của Thụy_Điển có chủ_đề “ nhiệm_vụ bất_khả_thi ” tương_tự , lấy cảm_hứng từ cái cầu_thang .
+15
+16
+18 , 19 và 20 : Năm 1904 , Von_Koch ( ) là người đầu_tiên xây_dựng một đường_cong kín , liên_tục , không có đạo_hàm tại mọi điểm , có chu_vi vô_hạn nhưng lại tạo nên một diện_tích hữu_hạn . Đường_cong này thường được gọi_là nụ tuyết do hình_dáng của nó , thuộc loại đường_cong fractale . Chính đường_cong fractale của Von_Koch đã đặt ra yêu_cầu phải định_nghĩa lại khái_niệm đường_cong do Jordan xây_dựng mà Cantor và Dedekind đã từng đặt nghi_vấn .
+17
+18
+19
+20
+21 Hình 19 là cặp tem Thụy_Điển giới_thiệu đường_cong Von_Koch . Một_số đường_cong fractale khác do Julia ( ) nghiên_cứu đầu thế_kỷ 20 được Israel giới_thiệu trên con tem ở hình 18 . Hình 20 là con tem của Hungary giới_thiệu tập_hợp bộ ba của Cantor và tam_giác Sierpinski ( ) .
+21 : Một đề_tài hấp_dẫn khác được khai_thác ở rất nhiều lĩnh_vực là tỉ_số vàng . Lần này thì Thụy_Sĩ , xứ_sở của các ngân_hàng , đã không bỏ lỡ cơ_hội để thể_hiện tỉ_số tuyệt_vời . Bạn có nhìn rõ các hình chữ vàng trong con tem ở hình 21 không ?
+TRẦN_LƯƠNG_CÔNG_KHANH ( Trung_tâm nghiên_cứu Leibniz , Viện_Tin học và toán_học ứng_dụng Grenoble , Pháp )

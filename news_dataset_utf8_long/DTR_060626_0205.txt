@@ -1,0 +1,14 @@
+﻿Tương lai của điện thoại CDMA bị “đứt gánh”?
+
+Các hãng sản xuất điện thoại rất khó có thể thu được lợi nhuận từ những mẫu điện thoại CDMA giá rẻ. Vấn đề được đặt ra là liệu có triển vọng nào cho điện thoại sử dụng công nghệ này ở các thị trường mới nổi? 
+ “Trên phân đoạn thị trường này, để tăng lợi nhuận từ những điện thoại CDMA thấp cấp là cực kỳ khó khăn”, Kai Oistamo, giám đốc bộ phận kinh doanh điện thoại di động của Nokia, khẳng định. 
+Hôm qua, hãng điện thoại Phần Lan Nokia đã tuyên bố sẽ ngừng sản xuất điện thoại sử dụng công nghệ CDMA vì thủ tục xin giấy phép bản quyền từ Tập đoàn Qualcomm, nhà cung cấp chip độc quyền cho điện thoại này, rất đắt đỏ. Hãng này sẽ vẫn tiếp tục tập trung sản xuất thiết bị cầm tay GSM và điện thoại sử dụng mạng di động cao cấp WCDMA, vốn đang chiếm hơn 70% trong tổng số 2 tỷ thuê bao di động. Con số này sẽ còn tăng gấp đôi trong 5 năm tới, chủ yếu là ở các thị trường mới nổi. 
+Qualcomm hiện chưa có bình luận nào về tuyên bố của Nokia. Trước đây, Tập đoàn cung cấp dịch vụ này đã từng cho biết các quy định về giấy phép của Qualcomm được áp dụng cho tất cả mọi người và cho rằng phí đăng ký chỉ chiếm một phần trăm rất nhỏ trong tổng giá thành của điện thoại. 
+Mặc dù vậy, ở Ấn Độ, một trong những thị trường điện thoại phát triển nhanh nhất trên thế giới, nhà cung cấp dịch vụ CDMA Reliance Communications cũng đã bắt đầu khai thác băng tần GSM. Và, trong vài tháng qua, một số nước ở khu vực Mỹ Latin đã gặp khó khăn về doanh số của dòng điện thoại này. 
+Theo khảo sát của công ty phân tích thị trường Strategy Analytics, Trung Quốc, là thị trường điện thoại lớn nhất thế giới, cũng rơi vào hoản cảnh tương tự, doanh số điện thoại CDMA ở nước này đã giảm đi một nửa. 
+“Đang có nhiều dấu hiệu cho thấy công nghệ CDMA dần bị “ra rìa”, Neil Mawston, nhà phân tích của Strategy Analytics, cho biết. 
+Nguyên nhân một phần là do sự giảm giá liên tục của những điện thoại GSM rẻ nhất, hạ đến 30 USD trước khi tính thuế. Bên cạnh đó điện thoại GSM còn có các “đại gia” hậu thuẫn, như Nokia, Ericsson và Motorola. 
+Những điện thoại sử dụng công nghệ CDMA có giá rẻ nhất dao động khoảng 40 – 50 USD, nhưng những mẫu dạng này không nhiều vì các hãng sản xuất điện thoại CDMA hàng đầu, như LG và Samsung, lại tập trung vào những tính năng cao cấp nên chỉ sản xuất những model “trên trời”, tung ra thị trường Mỹ và Hàn Quốc. 
+Một yếu tố nữa đang đe dọa CDMA là quy định của Qualcomm yêu cầu người dùng phải nộp tiền quyền sở hữu nếu điện thoại được tích hợp chip của Tập đoàn này. 
+Quyết định chấm dứt sản xuất CDMA của Nokia cũng là một nguyên nhân làm “đen tối” tương lai của công nghệ này. 
+Hương Nguyên Theo CNet, Reuters

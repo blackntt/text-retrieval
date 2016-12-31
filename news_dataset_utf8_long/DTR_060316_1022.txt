@@ -1,0 +1,8 @@
+﻿ICANN sẽ thử nghiệm tên miền ngoài tiếng Anh
+
+Tổ chức giám sát tên miền quốc tế ICANN đang lên kế hoạch đến cuối năm nay sẽ thử nghiệm tên miền không sử dụng các ký tự tiếng Anh, tạo sự gần gũi hơn với người dùng Internet là châu Á và ARập Xê-út. 
+ Theo ICANN, việc phát hành các tên miền có hậu tố không phải là tiếng Anh sẽ không làm ảnh hưởng đến hệ thống địa chỉ Internet toàn cầu. Các thư mục địa chỉ Internet chính hiện nay chỉ có 37 ký tự, trong đó có 36 chữ Latin, 10 chứ số và một dấu ngạch nối. 
+ICANN cho biết, bắt buộc những người không biết tiếng Anh sử dụng tên miền hiện nay cũng giống như ép buộc người dùng nói tiếng Anh gõ tên miền tiếng Trung Quốc. ICANN đang chịu áp lực về việc sử dụng các kỹ thuật nào đó để giúp các thư mục tên miền có thể hiểu các ngôn ngữ khác. 
+Trung Quốc đã tự thiết lập hệ thống tên miền “.com” bằng tiếng Hoa, khi gõ địa chỉ domain, sẽ xuất hiện hai website khác nhau: tiếng Anh và tiếng Trung Quốc. 
+Theo ICANN, thậm chí nếu thử nghiệm thành công thì vẫn còn nhiều vấn đề gây khó khăn cho dự án này. Tổ chức này cho biết sớm nhất là sang năm thì hệ thống tên miền không sử dụng tiếng Anh mới được triển khai. 
+S.Hương Theo AP

@@ -1,0 +1,12 @@
+﻿ Cách chọn câu trả_lời đúng
+Đọc kỹ và nhanh các câu_hỏi và các câu trả_lời , chọn ngay câu trả_lời nào người_làm bài thi cho là 100% đúng . Đánh_dấu hỏi vào trước các câu trả_lời chưa chắc là 100% đúng .
+Khi trả_lời xong câu cuối_cùng của phần đó , đọc lại các câu có dấu_hỏi ở trước để khẳng_định một câu trả_lời . Nếu vẫn không khẳng_định được một câu chắc_chắn 100% đúng , thì đoán ( guess ) . Cần để_ý nếu trong phần hướng_dẫn ( directions ) có nói là sẽ trừ điểm các câu trả_lời sai thì không nên đoán .
+Áp_dụng phương_pháp loại_trừ để chọn câu trả_lời đúng . Loại dần các câu trả_lời chắc_chắn là sai , câu trả_lời còn lại là câu đúng .
+Đọc đầy_đủ phần gốc với từng câu trả_lời . Loại dần các câu ghép ( gốc + trả_lời ) nào không đúng ngữ_pháp , sẽ tìm được câu trả_lời đúng .
+Che các câu trả_lời lại , chỉ đọc phần gốc , rồi tự trả_lời . Sau đó xem câu trả_lời nào giống câu trả_lời của mình , thì câu trả_lời đó rất có khả_năng là đúng .
+Trong phần trả_lời có các cụm_từ “ tất_cả các câu trên ” ( All of the above ) , hoặc “ không phải câu nào trong số trên ” ( None of the above ) ở dưới cùng . Hãy đọc tất_cả “ các câu trên ” , nếu chắc_chắn là chỉ 1 câu trong số đó sai thì đừng chọn “ All of the above ” . Nếu chắc_chắn có ít_nhất hai câu đúng trong số đó thì chọn “ All of the above ” . Nếu chắc_chắn có một câu sai trong số đó thì chọn “ None of the above ” .
+Trong phần gốc có các từ phủ_định như “ không có câu nào ” ( none ) , “ không , không phải ” ( not ) , “ không_bao_giờ ” ( never ) , “ cũng không ” ( neither ) , thì_phải hiểu ngay rằng câu trả_lời phải chứa một sự_thật , một chân_lý , một khái_niệm tuyệt_đối và như_vậy các câu trả_lời khác có_thể có nội_dung đúng , nhưng không phải là câu trả_lời đúng nhất cho phần gốc .
+Trong phần gốc có các từ chỉ mức cao nhất , duy_nhất , như “ tất_cả ” ( all ) , “ mọi người ” ( every ) , “ luôn_luôn ” ( always ) , “ chỉ ” ( only ) , thì câu trả_lời đúng phải là một sự_thật , một chân_lý . Nhưng cần nhớ là trong các nội_dung về khoa_học_xã_hội thì không có khái_niệm chân_lý , hay sự tuyệt_đối !
+Trong phần gốc , có các từ chỉ tần_số xảy_ra như “ thông_thường ” ( usually ) , “ thường ” ( often ) , “ thường hay ” ( generally ) , “ có_thể ” ( may ) , “ ít khi ” ( seldom ) , thì cũng có_thể chỉ một sự_thật , một chân_lý .
+Trong câu trả_lời có 4 con_số . Thường thì 1 trong 2 số ở giữa là câu trả_lời đúng . Thường câu trả_lời đầu_tiên là câu không đúng .
+TS Nguyễn_Văn_Mười ( Trường_Đại học Quốc_tế - TPHCM )

@@ -1,0 +1,4 @@
+﻿ Sẽ có thẻ_thanh_tóan cho du_lịch
+Thẻ này vừa có chức_năng của thẻ hội_viên Vietravel ( được hưởng ưu_đãi dài_hạn của Vietravel ) vừa có chức_năng thanh_toán tương_tự như thẻ_thanh_toán quốc_tế ACB Visa_Electron . Thẻ_Vietravel – Visa_Electron có thời_hạn sử_dụng là 3 năm .
+Được biết phí thường_niên của thẻ là 100.000đ/thẻ/năm . Chủ thẻ là khách_hàng của Vietravel sẽ được hưởng một_số ưu_đãi ví_dụ như miễn_phí khi thanh_toán tour cho Vietravel khi gọi điện qua tổng_đài 247 của ACB , tham_gia các chương_trình khuyến_mãi giảm_giá khác do Vietravel tổ_chức ... . .
+L . N .

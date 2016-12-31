@@ -1,0 +1,8 @@
+﻿ Nhân_viên ăn lương theo sản_phẩm , làm ngoài giờ được tính lương thế_nào ?
+Dù công_nhân có hưởng lương theo sản_phẩm hay không , việc tính thời_gian làm ngoài giờ vẫn được áp_dụng theo mức : 1 giờ làm thêm bằng 150% so với 1 giờ làm chính . Riêng sản_phẩm làm đêm thì tính thêm 30 % ( địa_bàn tính_từ Thừa_Thiên_Huế trở vào Nam ) . Giờ đêm được tính_từ 21g đến 5g giờ sáng .
+Như_vậy , nếu công_nhân được hưởng lương theo sản_phẩm , thì lương ngoài giờ sẽ được tính như sau :
+Giá ngày_công , sản_phẩm được thỏa_thuận giữa doanh_nghiệp và người lao_động trong điều_kiện làm_việc bình_thường . Nếu sản_phẩm , ngày_công ấy thực_hiện vào thời_gian làm thêm ( ngoài 8 tiếng hành_chính ) thì tính 150% so với đơn_giá bình_thường . Riêng sản_phẩm vào ban_đêm sẽ được tính 180% so với giá bình_thường .
+Ví_dụ : đơn_giá gia_công một chiếc áo là 1 đồng theo thỏa_thuận nhưng khi làm tăng ca thì tính 1,5 đồng , khi tăng ca vào ban_đêm thì tính 1,8 đồng .
+Nhưng thực_tế , các Công_ty sản_xuất thường chia ca : sáng - chiều - tối ( 8 tiếng / ca ) , công_nhân sẽ được xoay tua cho phù_hợp . Do_đó , nếu thời_gian công_nhân làm_việc rơi vào ban_đêm thì cũng không được tính là giờ làm thêm ( vì đây là giờ làm chính_thức theo tua ) . Trường_hợp này , tùy theo đơn_vị , sẽ trợ_cấp bằng tiền ăn hoặc tiền bồi_dưỡng ca đêm cho nhân_viên .
+Trong những ngày nghỉ theo chế_độ nghỉ_phép 12 ngày và 8 ngày lễ , công_nhân được nghỉ vẫn hưởng 100 % lương .
+N.BAY thực_hiện

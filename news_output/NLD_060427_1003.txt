@@ -1,0 +1,3 @@
+﻿ Phiên_bản thử_nghiệm mới trình_duyệt Internet IE7 của Microsoft
+Hãng phần_mềm Microsoft vừa công_bố phiên_bản thử_nghiệm mới beta 3 của trình_duyệt Internet_Explorer 7 ( IE7 ) . Phiên_bản beta IE7 đã có sẵn trên trang_web của Microsoft từ ngày 24-4 để khách_hàng có_thể tải xuống sử_dụng miễn_phí . Phiên_bản beta 3 này của Microsoft được bổ_sung nhiều tính_năng mới có_thể khắc_phục các lỗi của các trình_duyệt trước_đây từng làm ngừng hoạt_động của trình_duyệt IE7 , đặc_biệt đối_với các website tin_tức và hoạt_động ngân_hàng . Phần hướng_dẫn cụ_thể và chi_tiết hơn để khách_hàng có_thể sử_dụng nhiều chức_năng , xem đồng_thời nhiều trang_web trên cùng một cửa_sổ . Phiên_bản thứ 4 và cũng là phiên_bản cuối_cùng của IE7 dự_kiến được công_bố vào cuối năm nay .
+Theo SGGP

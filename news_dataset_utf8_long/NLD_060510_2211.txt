@@ -1,0 +1,6 @@
+﻿An toàn nơi Internet công cộng
+
+Pass2Go - dung lượng 2,37 MB, do Roboform sản xuất - là một tiện ích miễn phí thiết kế riêng cho ổ nhớ USB.
+Pass2Go ghi nhớ password trong Passcards rồi tự động điền vào ô khi đăng nhập các website, điền thông tin cá nhân vào các form đăng ký trực tuyến nhờ file Identity, tạo sổ địa chỉ, đánh dấu trang web, lưu trữ thông tin đặc biệt quan trọng như số PIN của thẻ ATM trong “két sắt” Safenotes, tạo password khó đoán... Do không cần dùng bàn phím để nhập password nên bạn không lo bị bọn “Keyloggers” tấn công. Bên cạnh đó, thông tin cá nhân lưu trữ trên ổ USB được Pass2Go mã hóa bằng chuẩn AES nên rất an toàn. Tiện ích tương thích với mọi Windows và ai cũng dùng được vì dễ sử dụng, không cần cài đặt, tính bảo mật cao. Địa chỉ download: www.roboform.com/dist/AiRoboForm-Portable.exe .
+
+T.TÙNG

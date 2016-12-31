@@ -1,0 +1,29 @@
+﻿Ổ cứng sẽ sớm đạt 2 terabyte nhờ công nghệ trực giao
+
+Dung lượng ổ cứng cho máy tính để bàn, máy xách tay và thiết bị nghe nhạc đang được mở rộng nhờ công nghệ ghi từ tính trực giao (PRM), cho phép lưu nhiều dữ liệu hơn nhưng vẫn đạt tốc độ cao so với kỹ thuật hiện tại. 
+ Công nghệ ghi theo phương nằm ngang trong các sản phẩm lưu trữ trên thị trường đang bộc lộ những hạn chế về mật độ và các nhà sản xuất đã phải mất nhiều năm để khắc phục vấn đề đó. Một trong những giải pháp được đánh giá cao là công nghệ PRM, cho phép sắp xếp các bit dữ liệu - tương ứng với các phân tử từ hóa - trên bề mặt theo phương thẳng đứng nhằm tăng mật độ thông tin trên mỗi đĩa. Nhờ vậy, người tiêu dùng sẽ có cơ hội sở hữu những sản phẩm dung lượng lớn, giá thành thấp để lưu trữ nội dung đa phương tiện, độ phân giải cao (HD). 
+Toshiba đã phát hành ổ đĩa PRM 1,8 inch 40 GB và 80 GB. Tại thời điểm công bố, máy nghe nhạc MP3 Megabeat của Toshiba là sản phẩm duy nhất được trang bị kỹ thuật ghi trực giao nhưng đã phần nào cho thấy PRM sẽ sớm xuất hiện trong hàng loạt thiết bị điện tử gia dụng và máy tính xách tay. 
+Tiếp đến là công ty Seagate của Mỹ với dòng Momentus 5400.3 2,5 inch, dung lượng 30 GB - 160 GB. Mẫu 160 GB hiện là ổ dành cho notebook có dung lượng lớn nhất trên thị trường. Ngoài lưu nhiều dữ liệu hơn, nó còn tiết kiệm năng lượng, tỏa nhiệt ít và hoạt động êm hơn. Hiện nay nhiều BIOS không nhận ổ cứng trên 137 GB, nhưng những hệ thống hoạt động với Windows XP SP1 trở về sau và Linux đã hỗ trợ ổ 160 GB. 
+Seagate dự đoán rằng ổ đĩa đơn PRM 3,5 inch, 2 terabyte (TB) cho máy để bàn, ổ 2,5 inch, 1 TB cho laptop và ổ 1 inch 50 GB cho máy nghe nhạc MP3 sẽ trở thành hiện thực chỉ trong một thời gian ngắn nữa. 
+Hiện nay, ổ cứng có dung lượng cao nhất trên thị trường (500 GB) đạt mật độ 125 Gb/inch 2 . Trong khi đó, mẫu sản phẩm Toshiba PMR và Seagate Momentus 5400.3 là 133 Gb/inch 2 - mật độ đáng kể so với mức trung bình 100 Gb/inch 2 tại thời điểm này. 
+Theo Seagate, nhờ sự vượt trội về dung lượng, nhiệt lượng và tốc độ hoạt động, công nghệ lưu trữ mới sẽ nhanh chóng được người sử dụng đón nhận. Hơn nữa, những ổ đĩa này vẫn giữ nguyên mức giá 2 USD cho mỗi GB như hiện tại, tức mọi người có thể mua ổ 160 GB với giá 320 USD. 
+Bảng so sánh ổ cứng theo công nghệ PRM và công nghệ ghi chiều ngang của Seagate (cả hai đều có tốc độ 5.400 vòng/phút, 2, 5 inch, bộ đệm 8 MB và giao diện ATA-100): 
+Sản phẩm 
+Công nghệ 
+Copy tệp và thư mục 
+Copy tệp lớn 
+Tìm file 
+Quét virus (Symantec) 
+Seagate Momentus 5400.3 160 GB 
+Ghi trực giao (PRM) 
+290 giây 
+228 giây 
+132 giây 
+108 giây 
+Seagate Momentus 5400.2 120 GB 
+Ghi theo bề ngang 
+340 giây 
+274 giây 
+136 giây 
+119 giây 
+Theo T.N. VnExpress/PCWorld

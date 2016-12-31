@@ -1,0 +1,7 @@
+﻿ Quảng_cáo kiểu mới trên Internet
+Video quảng_cáo trên Internet là kết_quả hợp_tác của Unicast - một liên_hiệp các nhà_phát_triển quảng_cáo trên mạng - và nhà_sản_xuất phần_mềm khổng_lồ Microsoft .
+Đoạn phim sẽ xuất_hiện choán hết màn_hình theo một định_dạng quảng_cáo trên mạng có dung_lượng 2MB , kéo_dài trong 30 giây với hình_ảnh video chất_lượng cao , dù tốc_độ đường truyền cao hay thấp . Định_dạng này dựa trên Windows_Media 9 Series của Microsoft và công_nghệ pre - cached ( lưu_trữ trước ) của Unicast . Đoạn quảng_cáo được tải về dưới chế_độ nền trong khi người dùng truy_cập vào một trang_web và họ có_thể tắt nó đi nếu muốn .
+Các đoạn phim quảng_cáo thử_nghiệm được phát trên những site hàng_đầu trong 6 tuần qua , trong đó có About.com , CBS Sportsline , Gamespot , iVillage và Lycos . Kết_quả cho thấy , người lướt web ít cảm_thấy bực_mình với phim hơn các kiểu quảng_cáo khác trên mạng . Trong một cuộc khảo_sát được thực_hiện trên 3.500 người dùng Internet , chỉ có 28% tuyên_bố khó_chịu với loại_hình quảng_cáo mới .
+Allie_Savarino , quan_chức của hãng Unicast nhận_xét : " Kiểu quảng_cáo bằng hình_ảnh video có đặc_điểm của truyền_hình tác_động tích_cực hơn tới người tiêu_dùng và họ cũng dễ chấp_nhận chúng hơn là những dạng quảng_cáo khác " .
+Tuần trước , Unicast thông_báo , một_số nhà_xuất_bản web hàng_đầu , trong đó có Forbes.com và weather . com , đã đăng_ký sử_dụng loại_hình quảng_cáo mứi này " .
+HỒNG_YẾN ( Theo BBC )

@@ -1,0 +1,6 @@
+﻿Microsoft tung ra bản beta của Virtual Server 2004
+
+Hiện Microsoft vẫn cho rằng thị trường tốt nhất cho dòng sản phẩm này là các đối tượng người dùng muốn thử nghiệm phần mềm, cũng như những công ty muốn đạt được sự ổn định của các ứng dụng kinh doanh vốn chạy trên các nền Windows cũ như WinNT hay Win2000 có thể nâng cấp và hoạt động tốt trên Windows Server 2003. Vì với Virtual Server, họ có thể thử nghiệm trong một môi trường server ảo an toàn, không phải lo ngại việc mất mát dữ liệu khi phần mềm gặp sự cố. 
+Với việc tích hợp khả năng mô phỏng các thế hệ server x86, Virtual Server 2004 có khả năng hỗ trợ nhiều hệ điều hành tương thích với chip của Intel, kể cả Linux. Microsoft dự định sẽ bắt đầu phát hành chính thức phiên bản Virtual Server 2004 vào giữa năm nay.
+
+P.B. (Infoworld)

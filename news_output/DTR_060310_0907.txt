@@ -1,0 +1,11 @@
+﻿ Giải_pháp chống rớt sóng di_động
+Ngay giữa lòng Hà_Nội và các thành_phố lớn , ở những khu_vực như thang_máy , chân cầu_thang , vùng khuất sóng … tình_trạng mất_mạng , rớt sóng vẫn diễn ra . Hôm_qua ( 9/3 ) , công_ty DKD High-tech vừa giới_thiệu một thiết_bị khắc_phục hiện_tượng trên .
+Tại_Hà_Nội , nơi mà các mạng di_động bố_trí trạm BTS dày_đặc thì ngay cả những nhà_cung_cấp dịch_vụ lớn như VinaPhone , MobiFone cũng đều gặp khó_khăn trước tình_trạng thiết_bị_đầu_cuối bị rớt mạng tại các khu cao_tầng , tầng hầm , thang_máy ... Tương_tự , ở TPHCM và các thành_phố lớn khác , đối_với khách_hàng sử_dụng dịch_vụ , cứ vào những vùng này thì tất_cả đều chấp_nhận … mất sóng như một sự mặc_định .
+Ông Nguyễn_Minh_Đức , đại_diện công_ty này , cho_hay : “ Thiết_bị có_thể tương_thích với tất_cả các mạng di_động GSM , CDMA , PHS , thậm_chí cả mạng truyền số_liệu không dây tốc_độ cao Wi-Fi hay Wimax ” .
+Ngoài_ra , theo giới_thiệu của công_ty DKD thì giải_pháp sử_dụng hệ_thống thiết_bị này chỉ có giá_thành bằng 20% - 30% so với các giải_pháp lắp_đặt thêm các trạm thu phát BTS .
+Giải_pháp thứ nhất được Cty này đưa ra : Lắp_đặt các ăngten dạng cột đèn , cây nấm ... gần các khu_vực nhà cao_tầng , hầm_ngầm . Các ăngten này kích_hoạt sóng viễn_thông từ trạm BTS gần nhất tập_trung vào các vùng trọng_điểm đã được xác_định và thiết_lập .
+Giải_pháp thứ 2 : lắp_đặt thiết_bị POI ( Point of Interface ) ngay trong tòa nhà , tầng hầm ... Thiết_bị POI này sẽ thu sóng từ trạm BTS gần nhất rồi tỏa đều ra các tầng trong tòa nhà và tầng hầm .
+So với việc lắp_đặt một trạm BTS thì việc lắp_đặt các thiết_bị truyền_dẫn này đều rất đơn_giản và tiết_kiệm được nhiều chi_phí .
+Hai giải_pháp này đã được thử_nghiệm và mang lại kết_quả rất đáng hài_lòng , hiện_tượng rớt mạng không còn . Nếu được ứng_dụng rộng_rãi thì hiện_tượng rớt sóng tại các vùng trũng , vùng can nhiễu , vị_trí khuất sóng ( thang_máy , hầm_ngầm ) là không còn .
+Công_ty DKD Hight-tech sẽ thử_nghiệm thực_hiện giải_pháp tổng_thể cho 4 tòa nhà thuộc diện khuất sóng tại khu_vực Hà_Nội trong tháng 3 này .
+Bảo_Trung

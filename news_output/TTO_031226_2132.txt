@@ -1,0 +1,29 @@
+﻿ Phần_mềm trợ_giúp luyện thi đại_học
+LTĐH có ba môn :
+- Toán : Bao_gồm kiến_thức , trắc_nghiệm , Mathtool . Phần kiến_thức ôn lại kiến_thức toàn_bộ chương_trình phổ_thông . Phần trắc_nghiệm có hơn 300 câu_hỏi , được chia thành nhiều đề , hoặc sắp_xếp theo từng chủ_đề để người dùng tiện trong việc kiểm_tra kiến_thức .
+- Lý : Macro và trắc_nghiệm . Phần trắc_nghiệm có hơn 300 câu_hỏi trải dài chương_trình từ lớp 11 đến lớp 12 , các bạn có_thể chọn làm theo các đề được đánh_số từ 1 - 20 hoặc chọn các chủ_đề để kiểm_tra .
+- Hóa : Dictionary và trắc_nghiệm . Dictionary là từ_điển hóa_học dùng để tra cấu_tạo , tính_chất hóa_học và lý_tính của các chất hóa_học . Phần trắc_nghiệm với hơn 350 câu_hỏi trải dài chương_trình từ lớp 10 đến lớp 12 , bạn có_thể chọn làm theo các đề được đánh_số từ 1 - 20 hoặc chọn các chủ_đề để kiểm_tra .
+LTĐH còn có công_cụ toán_học Mathtool để người dùng kiểm_chứng lại các bài_toán phức_tạp xem mình đã làm đúng hay chưa . Đây là công_cụ toán_học đầy_đủ , đặc_biệt hữu_hiệu khi dùng để tính các biểu_thức phức_tạp , cách bấm rất dễ_dàng chứ không phức_tạp như khi dùng máy_tính bỏ_túi . Ngoài các chức_năng thông_thường của máy_tính Casio-Fx500A thông_dụng , Mathtool còn vô_số các chức_năng cao_cấp khác và rất cần_thiết đối_với người dùng :
+- Hiển_thị biểu_thức tính_toán theo dạng toán_học .
+- Tính_toán theo biểu_thức .
+- Có_thể vẽ đồ_thị một hàm hoặc nhiều hàm cùng lúc .
+- Người dùng có_thể chọn trục tọa_độ , chọn đơn_vị để vẽ đồ_thị .
+- Gồm đầy_đủ các hàm toán_học .
+- Công_cụ tính lim một biểu_thức , có_thể tính được giá_trị lim của hàm_số bất_kỳ .
+- Tính tích_phân xác_định và đạo_hàm tại một điểm .
+- Đầy_đủ chức_năng giải phương_trình bậc 2 , giải hệ phương_trình bậc một 2 ẩn , 3 ẩn .
+- Chức_năng giải phương_trình tổng_quát fx = 0 , có_thể tìm nghiệm của bất_kỳ phương_trình nào .
+- Dễ_dàng tính các giá_trị của hàm_số theo X .
+Ngoài_ra , còn có Macro là công_cụ vật_lý cho_phép bạn áp_dụng các công_thức vật_lý một_cách nhanh_chóng và tiện_lợi , bạn không phải lo_lắng gì về việc đổi đơn_vị , physical macro sẽ làm_việc đó . Macro có đầy_đủ các công_thức vật_lý , hệ_thống các đơn_vị được chọn_lọc gần với từng công_thức , bao_gồm gần 100 công_thức định sẵn .
+Từ_điển hóa_học : Gồm các chất_vô_cơ trong toàn_bộ chương_trình phổ_thông . Với các đặc_điểm :
+- Hơn 1.000 phương_trình_hóa_học được minh_họa .
+- Đầy_đủ các mục : Lý_tính , cấu_hình , khối_lượng ( nguyên , phân_tử ) , tính_chất hóa_học , điều_chế .
+- Các phương_trình_hóa_học đều áp_dụng kỹ_thuật “ Hightlight_Syntax ” .
+- Tra_cứu nhanh các chất bằng công_thức và tên chất .
+- Hệ_thống tiếng Việt độc_lập , cho_phép gõ tiếng Việt mà không dùng các bộ_gõ khác .
+- Người dùng có_thể sắp_xếp lại các chất trong danh_sách theo thứ_tự bảng_chữ_cái .
+Chương_trình chạy được trên nhiều hệ_điều_hành Windows và DOS . Chỉ cần máy_tính từ 486 trở_lên , bộ_nhớ RAM 4 MB , đĩa_cứng còn trống 8 MB .
+Download LTĐH phiên_bản cho Win32 ( Win95 / 98 / Me / NT / 2000 / XP )
+Phiên_bản cho Dos32 ( không chạy trên WinXP , WinNT , Win2000 )
+Phiên_bản cho Dos16 ( Phiên_bản này hạn_chế một_số chức_năng so với hai phiên_bản trên )
+PV

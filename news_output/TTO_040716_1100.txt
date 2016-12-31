@@ -1,0 +1,8 @@
+﻿ Google trình_làng tính_năng search theo tên
+Đại_diện của hãng cho_biết tính_năng Browse_By_Name được công_bố hôm 14/7 với 12 thứ tiếng , trong đó có_tiếng Pháp , Nga , Đức , Italy , Trung_Quốc và Nhật .
+Đại_diện của hãng cho_biết cho_dù người lướt Web có_thể đánh tên không cụ_thể hay rất cẩn_thận , thanh công_cụ đều tự_động thực_hiện chức_năng tìm_kiếm Google với nội_dung lệnh nhận được . Do_đó , người dùng có_thể lựa_chọn trang Web phù_hợp với mục_đích của mình .
+Với tính_năng trình_duyệt bằng tên của Google , người sử_dụng có_thể đánh tên ( ví_dụ như " Grand_Canyon " ) vào trong cửa_sổ browser Internet_Explorer . Nhờ đó họ có_thể tìm thấy trang_chủ Grand_Canyon mà không cần phải đánh một nội_dung rất cồng_kềnh như http : / / www.nps.gov/grca / để tìm ra địa_chỉ của Website công_viên quốc_gia Mỹ .
+Ví_dụ bạn đánh tên " xe_đạp " vào cửa_sổ trình_duyệt , một bảng kết_quả liên_quan đến xe_đạp sẽ xuất_hiện sau khi bạn click vào nút Search . Theo Google , công_cụ này nhằm mục_đích giúp mọi người tiết_kiệm thời_gian khi dùng trình_duyệt Web .
+Sử_dụng cửa_sổ browser như một thanh tìm_kiếm là cách tương_đối tốt nếu người lướt Web muốn tìm những nội_dung mang tính chung_chung . Tuy_nhiên , những thông_tin cụ_thể luôn_luôn xuất_hiện đầu_tiên . Ví_dụ nhập " apple " ( táo ) vào thanh công_cụ , người lướt Web sẽ nhận được thông_tin về trang_chủ của hãng máy_tính Apple chứ không được cung_cấp thông_tin về loại hoa_quả .
+Thanh công_cụ Google sẽ tự_động nâng_cấp để tích_hợp thêm những tính_năng mới nhằm giúp người dùng không cần phải cài_đặt phiên_bản mới . Tuy_nhiên , đến hôm_nay , không phải tất_cả đều cập_nhật được hết . Phát_ngôn_viên của Google ở London cho_biết , phải mất vài ngày người dùng mới có_thể cập_nhật được tính_năng này .
+Theo VNExpress

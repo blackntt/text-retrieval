@@ -1,0 +1,10 @@
+﻿Công cụ phục hồi dữ liệu
+
+Lỡ xóa dữ liệu quan trọng khi dùng máy tính là chuyện không thể tránh khỏi với bất kỳ ai. Giờ đây, lâm vào hoàn cảnh này bạn không cần đến những phần mềm khổng lồ nữa, chỉ với hai công cụ tý hon là Smart FAT Recovery và Smart NTFS Recovery thì những gì đã bị vô tình xóa đi sẽ được lấy lại nhanh chóng. 
+ Ưu điểm của hai tiện ích này là nhỏ gọn và tốc độ tìm kiếm, phục hồi tập tin đã xóa là cực nhanh. Hai phần mền này được cung cấp miễn phí tại link sau: http://www.smartpctools.com . 
+1. FAT Recovery 
+Sau khi tải về và cài đặt bạn kích hoạt công cụ từ biểu tượng trên màn hình. Giao diện chính của chương trình xuất hiện với 2 mục chính là Browse và Find. 
+Browse : Bên trái cửa sổ là danh sách các ổ đĩa tìm thấy trong hệ thống. Bên phải hiển thị những tập tin đã xóa được tìm thấy trong ổ đĩa tương ứng. Để phục hồi tệp nào bạn chỉ việc bấm vào Restore là xong. 
+Find : Trong trường hợp bạn không thấy tệp tin của mình ở Browse thì lúc này bạn cần đến Find. Bấm chọn Find bạn chỉ cần nhập vào tệp tin mà bạn muốn tìm và Find. Khi tìm thấy tệp cần giữ lại bạn làm lại thao tác giống Browse. 
+2. NTFS Recovery 
+Việc sử dụng tiện ích NTFS Recovery đơn giản hơn. Giao diện chính của chương trình chỉ có một mục chính mà chúng ta quan tâm là Find deleted files. Để bắt đầu quá trình tìm kiếm những tệp tin đã bị xóa, bạn bấm chọn mục này. Cửa sổ mới hiện ra, bạn bấm nút Find để chương trình quét toàn bộ ổ đĩa đã chọn và liệt kê những tệp tin đã bị xóa. Để tìm kiếm chỉ một tệp tin đặc biệt nào đó, bạn nhập tên của nó trong mục File or mash to find, hoặc bấm nút (…) để xác định nó thuộc định dạng nào, sau đó bấm Find để bắt đầu tìm kiếm. Kết quả tìm thấy cũng được liệt kê trong một danh sách và cách thức phục hồi cũng tương tự như phần trước. Hoa Đào

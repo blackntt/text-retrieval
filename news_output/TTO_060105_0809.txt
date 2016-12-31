@@ -1,0 +1,14 @@
+﻿ Bộ công_cụ bảo_mật rất đa_năng của Only PC Tools
+All-in-One gồm 10 ứng_dụng bảo_mật như :
+1 . 1-ACT Anti_Keylogger 2006 : công_cụ chuyên săn_tìm các chương_trình Keylogger chuyên âm_thầm thu_thập dữ_liệu hoạt_động của bàn_phím . Qua thử_nghiệm nhận thấy chương_trình này hoạt_động hết_sức hiệu_quả . Nó có_thể tìm ra hàng_loạt các chương_trình Keylogger ẩn_danh bằng các file liên_kết thư_viện động . DLL mà không hiểu bằng cách nào chui được vào hệ_thống , trong khi máy_tính đã được cài bộ công_cụ Symantec_Antivirus được cập_nhật thường_xuyên . Một điều độc_đáo là chương_trình Anti_Keylogger này cũng phát_hiện được luôn công_cụ 1-ACT Computer_Spy 2006 do do chính Only PC Tools tạo ra .
+2 . 1-ACT AntiPhishing 2006 : chương_trình chống mọi loại e - mail chuyên lừa_gạt để chiếm_đoạt thông_tin tài_chính . Chương_trình này có khả_năng ngăn_cấm người dùng truy_cập vào các thư rác mà nó nghi_ngờ là e - mail lừa_đảo .
+3 . 1-ACT AntiVirus 2006 : chương_trình chống virus nhỏ gọn nhưng hiệu_quả không kém công_cụ của các đại_gia .
+4 . 1-ACT Computer_Spy 2006 : Nói_thẳng ra đây là chương_trình “ siêu gián_điệp ” , chuyên ghi_nhận lại mọi hoạt_động của máy_tính , mọi thông_tin hoạt_động bàn_phím . Nhưng đây là chương_trình gián_điệp hợp_pháp do người dùng trực_tiếp cài_đặt vào máy_tính của mình , có đòi_hỏi mật_khẩu đăng_nhập hệ_thống , giúp cho cha_mẹ có_thể tìm_hiểu được con_cái đã sử_dụng những nội_dung gì khi xài máy_tính .
+5 . 1-ACT Evidence_Remover 2006 : chương_trình xóa mọi dấu_vết của người dùng để lại trên máy_tính , có tính hỗ_trợ bảo_mật rất cao .
+6 . 1-ACT Parental_Advisor 2006 : chương_trình ngăn_ngừa truy_cập vào các trang_web khiêu_dâm . Qua thử_nghiệm thấy chương_trình hoạt_động khá hiệu_quả nhưng vẫn thua_kém chương_trình ngăn_chặn hình_ảnh khiêu_dâm số 1 hiện_nay là i Shield & amp ; ScreenShield .
+7 . 1-ACT Personal_Firewall 2006 : ứng_dụng tạo tường lửa cá_nhân trên máy_tính , hoạt_động rất hiệu_quả với nhiều tùy chọn ngăn_chặn .
+8 . 1-ACT Spyware_Remover 2006 : ứng_dụng ngăn_chặn và diệt phần_mềm gián_điệp hoạt_động hết_sức hiệu_quả , không hề thua_kém công_cụ Microsoft_Anti Spyware . Hầu_hết mọi cookie nguy_hiểm và phần_mềm gián_điệp trong máy_tính đều có_thể bị nó phát_hiện và tiêu_diệt .
+9 . 1-ACT Hard_Dish_Monitor : công_cụ theo_dõi và tối_ưu_hóa ổ_cứng .
+10 . 1-ACT Registry_Cleaner : công_cụ sửa lỗi và tối_ưu_hóa Registry của Windows .
+Người dùng có_thể vào đây để tham_khảo chi_tiết và tải các bản thử_nghiệm về dùng . Only PC Tools hiện đang bán ra_bộ công_cụ bảo_mật “ ONLY_PCT ools All-in-One ” với giá là 49 USD và hiện bộ công_cụ này đã có_mặt tại các cửa_hàng phần_mềm tin_học tại TP Hồ_Chí_Minh .
+HOÀNG_KIM_ANH

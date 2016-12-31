@@ -1,0 +1,7 @@
+﻿ Google tìm_kiếm " xuyên " Desktop
+Hãng tìm_kiếm khổng_lồ Mỹ vừa bổ_sung thêm một_vài tính_năng trong chương_trình tìm_kiếm trên Desktop , gồm khả_năng search đồng_thời trên nhiều máy_tính và gửi thông_tin trực_tiếp đến máy của bạn_bè
+Phiên_bản nâng_cấp Google_Desktop 3 có_thể tùy biến thanh Sidebar và tìm_kiếm đồng_thời trên nhiều máy_tính . Ngoài_ra , công_cụ còn có_thể khóa chức_năng truy_tìm bằng mật_khẩu để ngăn không cho người khác tìm các file quan_trọng trên máy_tính .
+Với phiên_bản beta mới này , người dùng có_thể kéo module Sidebar đến bất_cứ đâu trên màn_hình theo ý thích . Người sử_dụng cũng có_thể gửi các đường link , các thông_tin khác cho bạn_bè bằng e - mail , thông_qua kênh giao_tiếp Gmail_Chat vừa được khai_trương hoặc gửi trực_tiếp đến thanh Sidebar bằng chương_trình Google_Talk .
+Người dùng máy_tính bây_giờ có_thể sử_dụng Google_Desktop để search đồng_thời các thông_tin lưu trên nhiều máy_tính , thậm_chí những PC này không kết_nối Internet . “ Khi một người tìm_kiếm thông_tin trên một máy_tính thì PC thứ_hai cũng tự_động truy_tìm theo yêu_cầu ” .
+Google sẽ xóa tất_cả bản_sao các file từ máy_chủ trogn vòng 30 ngày và mã_hóa dữ_liệu .
+Tìm_kiếm trên Desktop là lĩnh_vực rất “ đắt khách ” nên các công_ty tìm_kiếm đều nỗ_lực xây_dựng các tính_năng mới nhằm “ qua_mặt ” đối_thủ . S.Hương ( theo New_York_Times )

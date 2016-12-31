@@ -1,0 +1,17 @@
+﻿ĐTDĐ - Chiến trường mới của Linux!
+
+Chim cánh cụt được dự báo sẽ gây nên một “cuộc cách mạng” trong lĩnh vực phần mềm dành cho điện thoại di động và các thiết bị cầm tay. 
+ Theo Eirik Chambe-Eng, người sáng lập ra Trolltech - một trong những nền tảng Linux di động phổ biến nhất hiện nay, thì chắc chắn trong thời gian tới, Linux sẽ liên tục xuất hiện trên mặt báo và khuấy đảo thị trường thiết bị di động. 
+“Tôi tin là chúng ta chỉ mới đang ở giai đoạn đầu của cuộc cách mạng”, Eirik phát biểu trước thính giả của cuộc hội thảo Open Source Business . Theo Eirik, “5 C” , tức quyền kiểm soát, khả năng tùy biến, chi phí, cộng đồng và độ phức tạp là 5 động cơ để nhà sản xuất muốn chuyển sang dùng Linux. 
+“Linux giao toàn quyền kiểm soát cho nhà sản xuất”, trong khi Windows Mobile và Symbian - hai đối thủ chính của Linux trên thị trường di động - đều là hệ điều hành độc quyền kèm theo vô số quy định ràng buộc khắc nghiệt. Đó là chưa kể tới việc giá của hai phần mềm này luôn rất đắt. 
+Gót chân Asin 
+Dẫn lại việc Siemens bán đứt bộ phận di động cho BenQ hồi năm ngoái, Eirik cho rằng đây chỉ là một trong vô số trường hợp mà các nhà sản xuất phải bỏ cuộc giữa chừng do quá đau đầu với hệ điều hành độc quyền. “Sự rắc rối và phức tạp của phần mềm đã trở thành gót chân Asin của ngành công nghiệp điện thoại di động ngày nay”. 
+Nhận thức được điều đó, nhiều đại gia đã rục rịch quay sang dùng Linux, mà Nokia có thể coi là gương mặt tiên phong. Model TabletPC 770 của hãng sử dụng hoàn toàn hệ điều hành nguồn mở, không có tính năng điện thoại nhưng trang bị đầy đủ những chức năng văn phòng, quản lý và lướt web. 
+Tuy có nhiều ưu thế về độ linh hoạt so với phần mềm độc quyền, song cũng không thể phủ nhận Linux vẫn tồn tại nhiều thiếu sót. Trước hết, những mẫu Smartphone Linux hiện có gần như bị “cô lập” vì thiếu một môi trường ứng dụng chuẩn hóa. 
+Điều này có nghĩa là các hãng phần mềm thứ ba sẽ không thể viết được những ứng dụng tiện ích dành cho thiết bị Linux giống như với Windows Mobile hay Symbian được. Ngoài ra, cấu hình phần cứng mà Linux đòi hỏi cũng quá cao để có thể phù hợp với những mẫu điện thoại sơ cấp, giá rẻ. 
+Quan tâm nghiêm túc 
+Mặc dù vậy, một liên minh mới đây giữa các nhà sản xuất với mạng di động (gồm cả Vodafone) có thể là bước đi quan trọng trong việc Linux hóa thị trường di động. 
+“Một khi một đại gia như Vodafone cũng bày tỏ sự quan tâm của mình đối với Linux, bạn cần hiểu cơ hội của Linux là có thật, dẫu rằng Vodafone chưa hề tiết lộ họ sẽ ứng dụng hay hỗ trợ Linux như thế nào”, nhà phân tích Tony Cripps nói. 
+Vài tháng trở lại đây, Linux đột nhiên trở nên phổ biến trong dòng điện thoại smartphone của châu Á. Song ông Eirik dự đoán là với con điện thoại nghe nhạc ROKR E2 sắp ra mắt của Motorola, thị trường châu Âu cũng sẽ đón nhận điện thoại Linux nồng nhiệt. 
+Trolltech chính là hãng phát triển nền tảng ứng dụng có tên Qtopia dành cho các thiết bị nhúng. 
+Theo Thiên Ý VietNamNet/CNET

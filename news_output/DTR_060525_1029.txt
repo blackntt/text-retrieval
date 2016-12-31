@@ -1,0 +1,21 @@
+﻿ Tạo file help nhanh_chóng với Power CHM 5.5
+Bạn đã bao_giờ thắc_mắc , các file help hay đi cùng các phần_mềm , được làm như_thế_nào chưa ? Có rất nhiều phần_mềm để tạo ra file help như : Help_Work Shop ( của Microsoft ) , Fast - Help ( của DevHost ) … Với phần_mềm Power CHM thì việc tạo file help của bạn trở_lên vô_cùng đơn_giản .
+Nguyên_tắc tạo file help của chương_trình là gộp các file dưới dạng . html , . htm , . mht và đây chính là các dạng file mà bạn có_thể dàng khởi tạo từ Word , FrontPage hay Dreamweaver .
+Như_vậy bạn chỉ cần soạn sẵn các file chứa nội_dung cần đưa vào file help . Sau khi bạn soạn xong bạn click vào biểu tưởng Add_Title để thêm vào 1 file hoặc biểu_tượng Add_File để thêm vào một tiêu_đề cho một mục .
+Ví_dụ : Mở chương_trình Power CHM và tạo một dự_án mới . Sau đó :
++ Tạo một tiêu_đề là Dan_Tri
++ Vào trang_web : www.dantri.com.vn
++ Click vào File à Save as . . à Chọn_Web_Archive , single file ( . mht ) ( trong mục Save as type ) . à Click_Save .
++ Click vào biểu_tượng thêm file .
++ Chọn file “ Dan_Tri - Dantri _ com _ vn . mht ” vừa save .
+Khi đó được kết_quả như sau ( hình 1 )
+Hình 1
+Bây_giờ muốn hoàn_thành dự_án vừa tạo thành file help , tôi làm các bước sau :
++ Điền đầy_đủ thông_tin vào mục : CHM File_Name , Title , Save_Path
+Chú_ý : bạn có_thể chọn save file vừa khởi tạo vào một thư_mục bất_kì trên ổ_cứng .
++ Click vào biểu_tượng Save the current Project and Create a CHM file , lúc này sẽ hiện ra một cửa_sổ như hình 2 :
+Hình 2
+Nếu_không muốn thay_đổi điều gì click “ Compile ” và chương_trình sẽ khởi tạo file dantri . chm ( file help ) .
+Và cuối_cùng là kết_quả khi chạy file help “ dantri.htm ” ( hình 3 )
+Hình 3
+Dựa vào ví_dụ trên các bạn có_thể tự_tạo cho mình những file help đơn_giản và hiệu_quả . Quốc_Trung

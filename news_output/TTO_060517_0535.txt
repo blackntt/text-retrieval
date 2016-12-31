@@ -1,0 +1,7 @@
+﻿ Màn_hình LCD và plasma khác_nhau như_thế_nào ?
+Kỹ_sư CHU_VĂN_ĐỨC_TUẤN ( phụ_trách sản_phẩm của Sony_Việt_Nam ) :
+- Về cơ_bản , LCD và plasma cùng là những công_nghệ giúp màn hình_phẳng , mỏng . Cụ_thể , màn_hình tinh_thể_lỏng LCD sử_dụng một ánh_sáng nền phát_quang để gửi ánh_sáng qua các phân_tử tinh_thể .
+Ưu_điểm của công_nghệ LCD là tái_hiện màu_sắc tốt , độ sắc nét hoàn_hảo với độ_phân_giải tự_nhiên , màn_hình nhẹ và rất mỏng , tuổi_thọ cao , không hề bị hiệu_ứng cháy màn_hình . Tuy_nhiên màn_hình LCD lại có nhược_điểm là độ_phân_giải không thay_đổi , độ tương_phản kém , khó tạo độ đen sẫm , góc quan_sát của màn_hình cũng có_thể bị hẹp nếu dùng các model cũ .
+Trong khi đó , màn_hình sử_dụng công_nghệ plasma về cơ_bản là một mạng phosphor đỏ , lục và lam được gắn giữa hai lớp thủy_tinh mỏng . Màn_hình plasma có đặc_tính trình_diễn phẳng và kích_thước màn_hình lớn , hình_ảnh rất đẹp .
+Tuy_nhiên mặt_trái của loại màn_hình này là chúng tiêu tốn rất nhiều năng_lượng , tuổi_thọ thấp ( chỉ khoảng 15.000 giờ hoạt_động trong khi màn_hình LCD có đến 60.000 giờ ) . Ngoài_ra , màn_hình plasma đòi_hỏi phải được lắp_đặt một_cách chuyên_nghiệp do đặc_điểm dễ nứt vỡ .
+PV

@@ -1,0 +1,8 @@
+﻿ Ôn_tập nhanh môn Toán cấp 3
+- Bấm vào đây để xem phần 1 : Đại_số
+1 . Tam_thức bậc 2 2 . Bất_đẳng_thức Cauchy 3 . Cấp_số_cộng 4 . Cấp_số_nhân 5 . Phương_trình , bất_phương_trình chứa giá_trị_tuyệt_đối 6 . Phương_trình , bất_phương_trình chứa căn 7 . Phương_trình , bất_phương_trình logarit 8 . Phương_trình , bất_phương_trình mũ 9 . Lũy_thừa 10 . Logarit
+- Bấm vào đây để xem phần 2 : Lượng_giác
+1 . Công_thức lượng_giác 2 . Phương_trình lượng_giác 3 . Hệ_thức lượng trong tam_giác
+- Bấm vào đây để xem phần 3 : Đạo_hàm - Tích_phân & amp ; Hình_học & amp ; Nhị_thức Newton
+1 . Đạo_hàm 2 . Bảng các nguyên hàm 3 . Diện_tích hình_phẳng - Thể_tích vật_thể tròn_xoay 4 . Phương_pháp tọa_độ trong mặt_phẳng 5 . Phương_pháp tọa_độ trong không_gian 6 . Nhị_thức Newton_Các nội_dung trên đây được cung_cấp dưới dạng file PDF . Nếu máy bạn chưa cài_đặt phần_mềm Adobe_Acrobat_Reader để đọc các file PDF này , mời bấm vào đây để tải chương_trình và cài_đặt vào máy .
+H . H - Q . H .

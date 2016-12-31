@@ -1,0 +1,10 @@
+﻿ Tăng_tốc mọi ổ CD-ROM lên … 100X
+Chương_trình sẽ giúp tăng_tốc cho ổ CD-ROM lên mức 100X ( mức cao nhất hiện_nay thường phổ_biến ở các ổ CD-ROM là 56X ) để việc truy_xuất dữ_liệu , thông_tin của bạn trên CD trở_nên nhanh_chóng hơn .
+Dù ổ CD-ROM của bạn hiện có tốc_độ là bao_nhiêu đi_nữa thì chương_trình này cũng sẽ tăng_tốc lên đến mức cao nhất_là 100X bằng cách tạo một vùng nhớ đệm ( cache ) trên ổ_đĩa_cứng để lưu_trữ các dữ_liệu thường truy_cập hay tất_cả các dữ_liệu hay dùng ( bài nhạc , chương_trình , tài_liệu … ) .
+Và khi bạn truy_cập vào ổ CD-ROM thì máy_tính sẽ đọc một phần các dữ_liệu có sẵn trong Cache mà không phải đọc lại từ CD , điều này sẽ giúp tăng tốc_độ cho ổ CD-ROM và giúp ổ CD-ROM được bền lâu hơn .
+Sau khi tải về và tiến_hành cài_đặt xong thì bạn hãy chạy chương_trình và từ cửa_sổ giao_diện chính sẽ có các mục sau :
+- Mục_Statistics : gồm có thống_kê về tình_hình ổ CD-ROM có Cache engine state ( tình_hình bộ_nhớ đệm ) , Cache size ( kích_thước của cache ) , Memory usage ( mức sử_dụng bộ_nhớ ) , Cached CD-ROM drive ( tên ổ CD-ROM được tăng_tốc ) .
+- Mục_Mode : bạn đánh_dấu chọn vào Enable cache engine để kích_hoạt chức_năng lưu_trữ đệm dữ_liệu , dánh dấu chọn tiếp vào Frequently accessed data ( lưu_trữ các dữ_liệu thường truy_cập nhất ) , hoặc có_thể chọn All_Accessed data ( lưu hết tất_cả các dữ_liệu truy_cập ) và bạn có_thể dánh dấu chọn vào Preven cache trashing ( giới_hạn việc lưu_trữ các dữ_liệu không cần_thiết ) một_cách tùy_thích .
+- Mục_Setting : gồm có cached CD-ROM drive ( ổ_đĩa tăng_tốc ) , Size ( kích_thước lưu dữ_liệu trên cache , càng lớn càng tốt , tùy bạn chọn ) , Location ( ổ_đĩa lưu_trữ dữ_liệu cache ) . Và sau_cùng bạn nhấn vào OK để chương_trình thực_hiện thao_tác tăng_tốc cho ổ CD-ROM , bạn sẽ thấy trong Statistics đang diễn ra quá_trình tăng_tốc .
+Chương_trình có dung_lượng nhỏ gọn ( 667KB ) , tương_thích Windows 2000/XP . Tải về miễn_phí tại : http : / / dl.winsite.com/bin/downl ? 1500000035026 .
+CHÁNH_TRUNG

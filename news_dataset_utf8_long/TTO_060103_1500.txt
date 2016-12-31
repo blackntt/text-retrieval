@@ -1,0 +1,41 @@
+﻿Vị giáo sư Úc và thuở hoang sơ của Internet Việt Nam
+
+Xin giới thiệu cuộc trò chuyện với giáo sư (GS) Rob Hurle, 65 tuổi, khoa Nghiên cứu châu Á, Đại học Quốc gia Úc (ANU), nhân vật được xem như một trong những người đặt viên gạch đầu tiên cho Internet Việt Nam. 
+Ý tưởng ngớ ngẩn!? 
+Nguyên cớ nào khiến GS bắt đầu kết nối Internet ở Việt Nam? 
+- Cuối những năm 1980, tại ANU, khi làm việc với một số du học sinh Việt Nam, tôi rất buồn vì khi về nước họ không có cơ hội được sử dụng những chiếc máy vi tính có dung lượng lớn như ở Úc. 
+Tôi nghĩ ra một cách khá thú vị là có thể dùng thử modem để giúp họ truy nhập vào hệ thống máy tính tại Úc. 
+Nghe nói GS đã mang 1 chiếc modem sang Việt Nam? 
+- Câu chuyện này thật ngớ ngẩn. Năm 1991 tôi cùng vợ đi du lịch Việt Nam, nước duy nhất ở Đông Nam Á mà chúng tôi chưa từng đến. Hi vọng có thể giải quyết được khó khăn về máy vi tính của các bạn Việt Nam, tôi đã mang theo 1 chiếc modem. 
+Tôi nói với các cựu du học sinh Úc làm việc tại Hà Nội về ý tưởng có thể dùng điện thoại để truy nhập vào hệ thống máy tính ở Úc. Ngớ ngẩn ở chỗ phí điện thoại gọi từ Việt Nam tới Úc quá cao nên ý tưởng của tôi thất bại. 
+Vậy GS có từ bỏ ý tưởng? 
+- Ấn tượng đặc biệt về các bạn Việt Nam trong chuyến đi trên khiến tôi không từ bỏ quyết tâm. Sau đó, máy tính ở ANU cũng được thay thế bằng những chiếc nhỏ hơn có cấu hình cao hơn với hệ thống UNIX. 
+Tôi đã liên lạc với nhiều người ở Úc, Mỹ và đặc biệt là ông Trần Bá Thái ở Viện Công nghệ thông tin tại Hà Nội (IOIT) để bàn về ý tưởng của mình. 
+Chúng tôi quyết định thực hiện thí nghiệm liên lạc tới Việt Nam. Tôi phải viết một vài phần mềm cho hệ thống UNIX để có thể sử dụng modem liên lạc sang Việt Nam và sau đó cho người ở Việt Nam biết cách truy nhập vào hệ thống UNIX của chúng tôi và vào được Internet. 
+Thí nghiệm thành công. Năm 1992, Viện Công nghệ Thông tin ở Hà Nội có hộp thư điện tử riêng để trao đổi e-mail với tôi. Và có lẽ đó là lần đầu tiên người ở Việt Nam gửi e-mail ra nước ngoài. Tuy nhiên, mỗi khi kết nối chúng tôi thường phải gọi điện thoại từ Úc. 
+Nhận e-mail bằng… xe đạp 
+Xin GS cho biết những tiến triển sau thí nghiệm? 
+- Thí nghiệm của chúng tôi được Cty viễn thông Telstra quan tâm. Tôi cùng một đồng nghiệp ở Đại học Tasmania được Cty này cho sang Hà Nội dự hội thảo vào tháng 9-1993. 
+Tại đây chúng tôi đã gặp các chuyên gia của IOIT và bàn bạc kế hoạch phát triển mạng Internet tại Việt Nam. Nhận thấy nhu cầu trao đổi e-mail ra nước ngoài đặc biệt là các nhà nghiên cứu nên IOIT đã thiết lập một hệ thống riêng để phân phối e-mail cho các cơ quan Nhà nước, trường đại học hoặc các cá nhân có nhu cầu. 
+Việc phân phối e-mail lúc đầu được thực hiện bằng... xe đạp. Nghĩa là e-mail được gửi qua modem từ Úc đến Hà Nội và sau đó sẽ được chuyển tới nơi tiếp nhận bằng... xe đạp. 
+Thời kỳ “e-mail xe đạp” chấm dứt khi nào? 
+- Chúng tôi nhận được một số tiền hỗ trợ của Chính phủ Úc để trả cho phí điện thoại hàng ngày và những thiết bị để bắt đầu xây dựng mạng Internet tại Hà Nội. 
+Bước đầu IOIT kết nối với Đại học Tổng hợp Hà Nội và sau đó là các cơ quan Nhà nước khác như Viện Khảo cổ, Trung tâm Nghiên cứu môi trường, Thư viện Quốc gia... 
+Lập e-mail cho nguyên Thủ tướng Võ Văn Kiệt 
+Vậy buổi đầu Internet Việt Nam có khác ở Úc? 
+- Lúc đầu Internet ở Việt Nam chỉ phục vụ cho các cơ quan Nhà nước, trường đại học...và không nhằm mục đích thương mại. Người dân chưa thể sử dụng rộng rãi được vì giá còn quá đắt và cũng chưa phổ biến. Điều này cũng giống với Internet ở Úc ngày đầu ra đời vào những năm 1980. 
+Các quan chức Việt Nam có quan tâm tới Internet? 
+- Chúng tôi nhận được rất nhiều sự ủng hộ. Năm 1994, chúng tôi còn tới Văn phòng của Thủ tướng Võ Văn Kiệt, cài đặt thiết bị và chương trình cho các máy tính để có thể gửi và nhận e-mail. 
+Chúng tôi còn lập hộp thư điện tử riêng của Thủ tướng Võ Văn Kiệt với tên miền .vn. Ngày 3-4-1994, Thủ tướng Võ Văn Kiệt nhận được e-mail của Thủ tướng Thụy Điển Carl Bildt nói về chuyến thăm chính thức Việt Nam trong vài ngày tới của ông. Thủ tướng Võ Văn Kiệt đã gửi e-mail trả lời Thủ tướng Carl Bildt. 
+Khi nào Internet được thương mại hóa tại Việt Nam? 
+- Tới năm 1995, nhu cầu sử dụng Internet tăng rất nhanh. Chúng tôi cạn tiền (tài trợ từ Chính phủ Úc) nên bắt đầu thu tiền của người Việt Nam sử dụng e-mail. 
+Lúc đầu cũng có sự phản đối, nhưng hầu hết mọi người ủng hộ. Khối lượng thông tin truyền tải từ Việt Nam tăng quá nhanh, cứ 5 tháng lại tăng gấp đôi. 
+Chúng tôi là một nhóm nhỏ ở ANU đảm đương vai trò trung gian nên phải làm việc rất vất vả để đảm bảo hoạt động. 
+Chúng tôi phải liên tục thay modem với công suất nhanh hơn và nhanh hơn nữa nhưng vẫn không thể đáp ứng được nhu cầu Internet từ Việt Nam... Mãi đến năm 1997, Cty Telstra mới thiết lập một đường truyền dữ liệu trực tiếp dành riêng cho Internet từ Việt Nam tới Úc... 
+Xin cảm ơn GS! 
+Vài nét về giáo sư Rob Hurle 
+Sinh năm 1940, sau khi tốt nghiệp đại học, ông Rob trở thành giáo viên sinh học tại các trường trung học bang Victoria (Australia) trong vòng 4 năm. Sau đó ông Rob bắt đầu quan tâm tới máy vi tính và gia nhập CSIRO, được xem như Trung tâm Khoa học tự nhiên Quốc gia Úc. 
+Năm 1987, khi trở thành giáo sư Đại học Quốc gia Úc, ông Rob không chỉ là một chuyên gia công nghệ thông tin mà còn nghiên cứu các lĩnh vực khoa học xã hội và con người. GS Rob có các công trình nghiên cứu về văn học, ngôn ngữ Indonesia, Malaysia. 
+Hiện GS Rob đang nghiên cứu chuyên sâu về lịch sử Việt Nam. Vợ GS Rob, bà Clare, cũng có nhiều duyên nợ với Việt Nam.
+
+Theo Tiền Phong

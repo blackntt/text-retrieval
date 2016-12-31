@@ -1,0 +1,11 @@
+﻿ Tiến_bộ mới trong công_nghệ lưu_trữ ba chiều
+Ccông ty InPhase Technologies ( Mỹ ) vừa lập được một kỷ_lục về mật_độ lưu_trữ khi ghi được một dung_lượng 515 Gb dữ_liệu lên một inch vuông .
+Công_ty này cho_biết họ đã đạt được kỷ_lục này nhờ một ổ_đĩa sử_dụng công_nghệ ghi ba chiều ( holographic ) . Công_nghệ lưu_trữ này hứa_hẹn mang lại khả_năng lưu_trữ cao hơn nhiều so với các phương_tiện lưu_trữ từ_tính truyền_thống .
+Hãng này nói rằng công_nghệ lưu_trữ mới này sẽ giúp chế_tạo ra những chiếc đĩa holographic có_thể lưu_trữ được tới hơn 100 bộ phim độ nét cao .
+InPhase hy_vọng sẽ công_bố ổ_đĩa holographic đầu_tiên vào cuối năm nay với các sản_phẩm có dung_lượng lên tới 1,6 terabyte ( 1 terabyte bằng 1.024 gigabyte ) .
+Công_nghệ lưu_trữ holographic sử_dụng một hình_ảnh ba chiều được tạo ra bởi các tia laser để lưu_trữ thông_tin . Ý_tưởng này đã được đưa ra từ hàng chục năm nay , tuy_nhiên công_nghệ lưu_trữ quang_học này chỉ có_thể khả_thi trong vài năm vừa_qua .
+Giám_đốc công_nghệ Kevin_Curits của InPhase nói rằng các thử_nghiệm trước_đây , được thực_hiện vào tháng 4/2005 , mới chỉ đạt được một mật_độ lưu_trữ khoảng 200Gb trên một inch vuông .
+Nếu so_sánh với các loại đĩa sử_dụng công_nghệ từ_tính , thí_dụ như các tấm đĩa trong các ổ_đĩa_cứng hiện_nay , thì mật_độ lưu_trữ trên các tấm đĩa này chỉ đạt được khoảng 37,5 Gb trên một inch vuông .
+Ông Kevin nói : " Chúng_tôi rất phấn_khởi trước tốc_độ phát_triển này . Những kết_quả mới nhất từ những thử_nghiệm của chúng_tôi về mật_độ dữ_liệu ba chiều đã vượt quá sự mong_đợi " .
+InPhase nói rằng công_nghệ lưu_trữ holographic sẽ giúp lưu_trữ lượng dữ_liệu lớn hơn trên những diện_tích đĩa nhỏ hơn . Thế_hệ ổ_đĩa đầu_tiên của InPhase sẽ có dung_lượng khoảng 300Gb trên một đĩa đơn .
+Ông Wolfgang_Schilichting thuộc hãng IDC nói : " Công_nghệ lưu_trữ mới này sẽ là một công_nghệ có tiềm_năng thay_thế các công_nghệ hiện_nay trong việc đáp_ứng các nhu_cầu về lưu_trữ dữ_liệu " . Theo Nhân dân/BBC

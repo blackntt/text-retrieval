@@ -1,0 +1,5 @@
+﻿ Đồng_hồ_báo_thức chấm_dứt cơn buồn_ngủ nhẹ_nhàng .
+Theo Eric_Shashoua vừa_mới tốt_nghiệp trường đại_học Brown cùng nhiều người bạn cùng sáng_chế , chiếc đồng_hồ của họ có tên gọi “ SleepSmart ” cho_phép người_ta tránh được cảm_giác mệt mõi và khó_chịu khi thức_giấc vì tiếng chuông báo_thức chỉ được kích_hoạt trong pha ngủ nhẹ của chu_kỳ giấc_ngủ , mà theo lý_thuyết sẽ giúp người_ta thức_dậy với một tinh_thần sảng_khoái hơn .
+SleepSmart sẽ ước_lượng chu_kỳ giấc_ngủ của người sử_dụng nó và chờ cho họ bước vào pha ngủ nhẹ nhất để đánh_thức họ mỗi sáng . Để thực_hiện điều này , ngừơi sử_dụng sẽ đội lên đầu một bộ_vi_xử_lý và một dải băng có các điện_cực . Một hệ_thống ghi_nhận các làn_sóng ở não trong suốc chu_kỳ ngủ . Và các thông_tin này được truyền trực_tiếp – không qua dây - đến đồng_hồ_báo_thức . Trước đó , đồng_hồ được lập_trình báo_thức vào giờ giới_hạn mà người sử_dụng muốn được đánh_thức . Đồng_hồ chỉ reo vào cuối pha ngủ nhẹ trước giờ đã định .
+Eric_Shashoua cho_biết nhóm bạn của mình đã thành_lập một công_ty để phát_triển sản_phẩm trên và hi_vọng sẽ tung ra thị_trường vào năm tới .
+T.DANH ( Theo Reuters )

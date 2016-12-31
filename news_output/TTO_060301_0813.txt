@@ -1,0 +1,13 @@
+﻿ Chống gian_lận trong tuyển_sinh ĐH , CĐ 2006 như_thế_nào ?
+Trao_đổi với Tuổi_Trẻ , ông NGÔ_KIM_KHÔI - Phó_Vụ trưởng Vụ ĐH& amp ; SĐH ( Bộ GD - ĐT ) - cho_biết :
+- Năm nay Bộ GD - ĐT sẽ áp_dụng nhiều biện_pháp mới để phòng_chống gian_lận , tiêu_cực . Công_nghệ_thông_tin sẽ được ứng_dụng tối_đa ở tất_cả các khâu của quy_trình thi và xét tuyển .
+Cụ_thể là chương_trình phần_mềm máy_tính sử_dụng cho công_tác tuyển_sinh năm nay đã được nâng_cấp , có khả_năng thực_hiện các biện_pháp kỹ_thuật nhằm hạn_chế hoặc phát_hiện kịp_thời những trường_hợp gian_lận .
+Điểm nổi_bật nhất của chương_trình máy_tính tuyển_sinh năm nay là xây_dựng được phương_thức đánh_số báo_danh chống thi hộ , thi kèm - một trong những hiện_tượng tiêu_cực tinh_vi thường gặp ở khâu thi .
+Theo phương_thức đánh_số báo_danh này , TS vẫn được xếp theo thứ_tự A , B , C ... nhưng những TS có trùng họ tên , ngày_tháng năm sinh , quê_quán sẽ tự_động bị máy_tính điều_chuyển không_thể ngồi gần nhau .
+Các khâu chấm thi , xét tuyển ... , đặc_biệt là khâu “ hậu kiểm ” đối_với những TS đã trúng_tuyển , các trường_hợp gian_lận sẽ được phát_hiện bằng cách nào , thưa ông ?
+- Trong khâu chấm thi , công_đoạn dồn túi bài thi cũng được cải_tiến : phần_mềm máy_tính cho_phép thực_hiện dồn túi bài thi ngẫu_nhiên tối_thiểu từ ba lần trở_lên để tránh hiện_tượng rò_rỉ , lộ số phách hoặc can_thiệp vào những bài thi được gửi_gắm , đánh_dấu ...
+Chương_trình máy_tính tuyển_sinh được nâng_cấp cho_phép kết_nối kết_quả thi_trắc_nghiệm môn ngoại_ngữ với hai môn thi khác ( vẫn thi theo phương_thức tự luận ) ngay trong máy . Theo đúng quy_chế tuyển_sinh mới được sửa_đổi , việc qui tròn tổng điểm ba môn thi cũng được thực_hiện trên máy , ngoài cột tổng điểm sẽ có thêm cột qui tròn nhằm biết TS được quy tròn điểm môn thi nào để tránh nhầm_lẫn , đảm_bảo công_bằng , chính_xác hơn ... .
+Cuối_cùng , chương_trình phần_mềm tuyển_sinh đã được thiết_kế có khả_năng kết_nối với chương_trình dữ_liệu máy_tính của các trường để kiểm_tra kết_quả thi và danh_sách trúng_tuyển , chống tình_trạng làm giả_mạo giấy_báo kết_quả thi như đã từng xảy_ra trong những kỳ thi_tuyển sinh gần đây .
+Qua đối_chiếu , máy_tính sẽ phát_hiện chính_xác những giấy chứng_nhận kết_quả thi đã bị tẩy_xóa hay chỉnh_sửa ... Những trường_hợp cố_tình gian_lận tiêu_chuẩn hưởng ưu_tiên khu_vực , đối_tượng ... cũng sẽ bị phát_hiện .
+Xin cảm_ơn ông !
+THANH_HÀ thực_hiện

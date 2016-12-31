@@ -1,0 +1,258 @@
+﻿ ĐH Huế công_bố điểm_chuẩn 73 ngành đào_tạo
+Mỗi khu_vực cách nhau 0.5 điểm và mỗi nhóm ưu_tiên khác cách nhau 1 điểm . Trường sẽ xét từ điểm_cao trở xuống đến đủ chỉ_tiêu của từng ngành .
+Dưới đây là mức điểm trúng_tuyển vào các trường và khoa của ĐH Huế :
+Ngành đào_tạo
+Khối thi
+Điểm trúng_tuyển
+Khoa_Giáo dục thể_chất ( DHC )
+SP Thể_chất - Giáo_dục quốc_phòng
+T
+23
+Trường ĐH Ngoại_ngữ ( DHF )
+SP Tiếng_Anh
+D1
+17
+SP Tiếng_Nga
+D1
+14
+SP Tiếng_Nga
+D2
+14
+SP Tiếng_Pháp
+D3
+14
+SP Tiếng_Trung
+D1
+14
+SP Tiếng_Trung
+D4
+14
+Tiếng_Anh
+D1
+15
+Tiếng_Nga
+D1
+14
+Tiếng_Nga
+D2
+14
+Tiếng_Pháp
+D3
+14
+Trường ĐH Kinh_tế ( DHK )
+Kinh_tế nông_nghiệp và phát_triển nông_thôn
+A
+15,5
+Kinh_tế nông_nghiệp và phát_triển nông_thôn
+D
+15
+Quản_trị kinh_doanh
+A
+18
+Quản_trị kinh_doanh
+D
+17
+Kinh_tế chính_trị
+A
+15
+Kinh_tế chính_trị
+D
+15
+Kế_toán
+A
+21.5
+Kế_toán
+D
+21
+Tài_chính ngân_hàng
+A
+23.5
+Trường ĐH Nông_lâm ( DHL )
+Công_nghiệp và công_trình nông_thôn
+A
+15
+Cơ_khí bảo_quản chế_biến nông_sản thực_phẩm
+A
+15
+Trồng_trọt
+B
+15.5
+Bảo_vệ thực_vật
+B
+16,5
+Bảo_quản chế_biến nông_sản
+B
+16,5
+Làm_vườn và sinh_vật_cảnh
+B
+15
+Lâm_nghiệp
+B
+16
+Chăn_nuôi - Thú_y
+B
+15,5
+Thú_y
+B
+16.5
+Nuôi_trồng thuỷ_sản
+B
+17
+Nông_học
+B
+16
+Khuyến_nông và phát_triển nông_thôn
+B
+17,5
+Quản_lý tài_nguyên rừng và môi_trường
+B
+17,5
+Quản_lý đất_đai
+A
+15
+Trường ĐH Nghệ_thuật ( DHN )
+Hội_họa
+H
+46
+Điêu_khắc
+H
+29.5
+Sư_phạm hội_họa
+H
+33,5
+Mỹ_thuật ứng_dụng
+H
+33
+Sáng_tác - lý_luận âm_nhạc
+N
+34
+Biểu_diễn âm_nhạc
+N
+25
+Sư_phạm âm_nhạc
+N
+26,5
+Nhã_nhạc
+N
+14
+Trường ĐH Sư_phạm ( DHS )
+SP Toán_học
+A
+23,5
+SP Vật_lý
+A
+18
+SP Kỹ_thuật công_nghiệp
+A
+15
+SP Hóa_học
+A
+24
+SP Hóa_học
+B
+23,5
+SP Sinh_học
+B
+22
+SP Kỹ_thuật nông_lâm
+B
+15,5
+SP Tâm_lý giáo_dục
+C
+15
+SP Giáo_dục chính_trị
+C
+16,5
+SP Ngữ_Văn
+C
+19
+SP Lịch_sử
+C
+19
+SP Địa_lý
+C
+18.5
+SP Giáo_dục tiểu_học
+D1
+14
+SP Mẫu_giáo
+M
+15
+Trường ĐH Khoa_học ( DHT )
+Toán_học
+A
+15
+Tin_học
+A
+15
+Vật_lý
+A
+15
+Kiến_trúc công_trình
+V
+27
+Điện_tử - Viễn_thông
+A
+19,5
+Hóa_học
+A
+17,5
+Địa_chất
+A
+15
+Sinh_học
+B
+16
+Địa_lý
+B
+16
+Khoa_học môi_trường
+B
+21,5
+Công_nghệ_sinh_học
+B
+22,5
+Luật
+C
+16
+Ngữ_Văn
+C
+16
+Lịch_sử
+C
+15
+Triết_học
+C
+15
+Hán_Nôm
+C
+15
+Báo_chí
+C
+16,5
+Công_tác xã_hội
+C
+16
+Trường ĐH_Y khoa ( DHY )
+Bác_sĩ đa_khoa
+B
+23,5
+Bác_sĩ Răng - Hàm - Mặt
+B
+25
+Dược_sĩ
+A
+24,5
+Điều_dưỡng
+B
+18
+Kỹ_thuật y_học
+B
+20
+Y_tế công_cộng
+B
+16
+Bác_sĩ đa_khoa - địa_phương
+B
+15
+QUỐC_DŨNG

@@ -1,0 +1,8 @@
+﻿Same sống động
+
+Đó là cảnh hai diễn viên Thư Kỳ và Triệu Vi thực hiện trong phim So close? Không, đây là một phát minh mới của nhà khoa học Canada Vincent Tao. 
+Vincent, kỹ sư tại Đại học York ở Toronto, đặt tên cho công cụ lập bản đồ và theo dõi của mình là SAME (see anywhere, map anywhere). SAME có thể tạo ra những hình ảnh địa lý sắc nét đến mức có thể đọc được cả nhãn hiệu một chiếc xe hơi đậu trên đường phố. 
+Vincent cho biết SAME hoạt động bằng cách nhập các ảnh chụp Trái đất từ vệ tinh rồi kết hợp chúng với các bộ cảm biến từ xa được sử dụng để giám sát giao thông và thời tiết. Sau đó, thông tin được định dạng lại trên một website có hướng dẫn mục tìm kiếm để người dùng có thể xem những hình ảnh cận cảnh của mặt đất với thời gian trễ rất ít hoặc hầu như bằng không. 
+“Đây là công nghệ truyền phát tức thời trong thời gian thực” - Vincent giải thích. “Nó giống như bản đồ trực tuyến MapQuest hoặc hệ thống dẫn đường trên xe hơi nhưng là 3D”. Theo ông, công nghệ mới này có rất nhiều ứng dụng trong lĩnh vực quốc phòng, cấp cứu và cả giám sát môi trường. Vincent khẳng định SAME sẽ trở nên phổ biến chỉ trong năm tới.
+
+MINH PHI (Theo CNET)

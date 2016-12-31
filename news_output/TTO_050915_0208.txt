@@ -1,0 +1,34 @@
+﻿ Các trường ĐH công_bố điểm_chuẩn NV2 và xét tuyển NV3
+Tuổi_Trẻ_Online xin thông_tin đến các bạn thí_sinh . Đây là điểm_chuẩn dành cho học_sinh phổ_thông - khu_vực 3 . Mỗi đối_tượng ưu_tiên cách nhau 1 điểm , mỗi khu_vực ưu_tiên cách nhau 0.5 điểm .
+Phân_viện Báo_chí và Tuyên_truyền
+Tiến_sĩ Hoàng_Đình_Cúc , Phó_giám_đốc Phân_viện Báo_chí và Tuyên_truyền , cho_biết chỉ_tiêu tuyển NV2 của một_số chuyên_ngành đào_tạo của Học_viện như sau : Triết_học , Chủ_nghĩa_xã_hội khoa_học : 20.5 điểm ; Xã_hội_học , Xây_dựng Đảng và chính_quyền nhà_nước : 21 điểm .
+Học_viện Ngân_hàng Hà_Nội
+Hệ CĐ : xét tuyển 20.5 điểm đối_với thí_sinh đã dự thi vào học_viện ; 21.5 điểm đối_với các thí_sinh dự thi vào trường khác .
+Trường ĐH Thủy_lợi ( tại cơ_sở Hà_Nội )
+Hệ CĐ ngành Công_trình thủy_lợi - thủy_điện : 20 điểm .
+Trường ĐH Thương_mại
+Hệ CĐ ngành Kinh_doanh khách_sạn - du_lịch , Makerting : 17.5 điểm .
+Trường ĐH Quy_Nhơn
+Khối A : các ngành Địa_lý bản_đồ - viễn_thám : 15 điểm ; Tin_học , Vật_lý , Địa_chính . Kinh_tế phát_triển : 17 điểm ; Toán_học : 17.5 điểm ; Hóa_học : 18 điểm ; Quản_trị kinh_doanh , Quản_trị doanh_nghiệp : 18.5 điểm ; Kỹ_thuật điện , Điện_tử - Viễn_thông , Hóa_dầu , Công_nghệ môi_trường , Điện_tử - Tin_học : 19 điểm ; Kế_toán : 19.5 điểm ; Sư_phạm Kỹ_thuật công_nghiệp : 20 điểm .
+Khối B : ngành Sinh_vật : 20 điểm .
+Khối C : các ngành Công_tác xã_hội : 17.5 điểm ; Văn_học , Lịch_sử , Sư_phạm Tâm_lý giáo_dục : 18 điểm ; Sư_phạm Giáo_dục chính_trị : 18.5 điểm .
+Khối D1 : các ngành Tiếng_Anh , Sư_phạm Giáo_dục đặc_biệt : 17 điểm .
+Trường ĐH Đà_Lạt
+Khối A , 16 điểm : các ngành Toán , Tin_học , Lý , Hóa , Quản_trị kinh_doanh , Kế_toán , Kinh_tế nông_lâm . Riêng ngành Công_nghệ_thông_tin là 18 điểm , những thí_sinh đăng_ký ngành này nhưng được 16 điểm trở_lên và dưới 18 điểm được chuyển sang ngành Tin_học .
+Khối D1 : ngành Tiếng_Anh : 15.5 điểm .
+Hệ CĐ , 12 điểm : các ngành Công_nghệ_thông_tin , Công_nghệ sau thu_hoạch .
+Trường ĐHDL Yersin_Đà_Lạt
+Điểm_chuẩn NV2 bằng điểm_sàn của Bộ GD - ĐT , khối A - B : 15 điểm , C - D : 14 điểm . Riêng ngành Kiến_trúc và Quy_hoạch_đô_thị ( khối V ) là 19 điểm ( môn Vẽ nhân hệ_số 2 ) .
+Trường còn gần 100 chỉ_tiêu xét tuyển NV3 với điểm xét tuyển bằng điểm xét tuyển NV2 .
+Trường ĐH Kiến_trúc TP.HCM ( học tại Vĩnh_Long )
+Đối_với thí_sinh có hộ_khẩu thường_trú thuộc 13 tỉnh đồng_bằng sông Cửu_Long : Kiến_trúc công_trình : 18 điểm ; Xây_dựng dân_dụng và công_nghiệp : 21 điểm .
+Đối_với thí_sinh không có hộ_khẩu thường_trú tại đồng_bằng sông Cửu_Long : Kiến_trúc công_trình : 21 điểm ; Xây_dựng dân_dụng và công_nghiệp : 24 điểm .
+Đây là điểm thi chưa nhân hệ_số , trong đó ngành Kiến_trúc công_trình chỉ tuyển thí_sinh thi khối V vào trường và có điểm môn năng_khiếu từ 5 trở_lên .
+Trường ĐH_Y - Dược TP.HCM
+Ngành Cử nhân Y_tế công_cộng : 19 điểm ; Cử_nhân Vật_lý_trị_liệu : 22 điểm ; Cử_nhân Xét_nghiệm : 25 điểm .
+Trường ĐH Giao_thông vận_tải TP.HCM
+Hệ ĐH : các ngành Cơ_giới_hóa xếp_dỡ , Bảo_đảm hàng_hải : 17 điểm ; Điều_khiển tàu_biển : 19 điểm ; Khai_thác máy tàu_thủy , Điện và tự_động tàu_thủy , Máy xây_dựng : 19.5 điểm ; Thiết_kế thân tàu_thủy : 21 điểm ; Kinh_tế xây_dựng : 23 điểm .
+Hệ CĐ : các ngành Điều_khiển tàu_biển , Khai_thác máy tàu_thủy : 12 điểm ; Công_nghệ_thông_tin , Cơ_khí ô_tô : 14.5 điểm ; Kinh_tế vận_tải_biển : 13.5 điểm .
+Trường ĐHDL Bình_Dương
+Điểm_chuẩn NV2 bằng điểm_sàn của Bộ . Trường còn khoảng 500 chỉ_tiêu ĐH và sẽ xét tuyển NV3 , điểm xét tuyển bằng với điểm_sàn .
+NHÓM_PHÓNG_VIÊN_TTO

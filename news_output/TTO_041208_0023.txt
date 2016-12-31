@@ -1,0 +1,8 @@
+﻿ Điều_khiển máy_tính bằng suy_nghĩ
+Các nhà_nghiên_cứu đã thử_nghiệm trên 4 người ( 2 người bị liệt bán_thân và phải sử_dụng xe_lăn ) . 4 người này đã có_thể điều_khiển được con_trỏ trên màn_hình máy_vi_tính bằng cách đội một nón có 64 điện_cực .
+Cơ_chế hoạt_động của chiếc nón có 64 điện_cực như sau : các điện_cực sẽ đọc những xung_điện do não tạo ra . Những xung_điện này sẽ được giải_mã bằng những thuật_toán phức_tạp rồi truyền tới máy_vi_tính .
+Những xung_điện do não tạo ra không đòi_hỏi hoạt_động của bất_cứ dây_thần_kinh hay một cơ nào trong cơ_thể do_đó những người bị đột_quỵ hoặc bị tổn_thương cột_sống đều có_thể sử_dụng máy_vi_tính theo cách này .
+Cả 4 người tình_nguyện tham_gia cuộc thử_nghiệm đều cho thấy rằng thời_gian thực_tập kỹ_thuật này càng lâu thì việc sử_dụng máy_vi_tính càng trở_nên dễ_dàng hơn .
+Những nghiên_cứu trước_đây đã cho thấy rằng khỉ có_thể điều_khiển máy_vi_tính nhờ vào những điện_cực được cấy vào trong não .
+Các nhà_khoa_học cho_biết , thử_nghiệm này giúp giấc_mơ của con_người trong việc điều_khiển xe_lăn và các dụng_cụ điện bằng ý_nghĩ đã tiến thêm một bước dài .
+KINH_LUÂN ( Theo BBC_NEWS )

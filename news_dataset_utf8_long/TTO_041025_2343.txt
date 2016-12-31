@@ -1,0 +1,14 @@
+﻿Bàn cờ đa năng
+
+Bình Phương (trái) và Minh Nhựt với "bàn cờ đa năng" 
+TT - Hiện trong các giải thi đấu cờ vua, hình ảnh mọi người thường thấy là sau mỗi nước đi, mỗi bên phải tự ghi hoặc nhờ một trọng tài ghi chép lại, tính chính xác đôi lúc không bảo đảm. 
+Chỉ có một cách lưu lại thời gian suy nghĩ cho mỗi nước đi là các kỳ thủ phải tự bấm đồng hồ đặc chế (giá khá cao). Trong các trận đấu quan trọng, các thao tác này được thực hiện cùng với sự hỗ trợ của máy tính rất tốn kém. 
+Là một tay mê cờ vua, Nguyễn Bình Phương (lớp DD01 VT02, khoa Điện - Điện tử ĐH Bách khoa TP.HCM) đã nhận ra những điều đó. Phương cứ mãi trăn trở và nghĩ đến việc nghiên cứu chế tạo một bàn cờ vua tự động nhằm khắc phục những hạn chế trên... 
+Phương trao đổi ý tưởng với Võ Minh Nhựt, người bạn cùng lớp đã từng cùng Phương tham gia nhiều sân chơi sáng tạo robot, bắt tay chế tạo “bàn cờ đa năng”. Sau gần hai tháng mày mò, lật nhàu sách luật thi đấu cờ vua, “phá” vài con chip vi xử lý, rồi tính toán thiết kế phần cứng và phần mềm bằng ngôn ngữ lập trình Assembler, lội chợ Nhật Tảo (Q.10) để tìm mua các linh kiện điện tử... cuối cùng “bàn cờ đa năng” cũng hoàn tất. 
+Bàn cờ gồm hệ thống các khối: khối vi điều khiển là thành phần điều khiển trung tâm và có nhiều chức năng: tự động chạy timer (thiết bị bấm giờ), nhận biết sự thay đổi từ bàn cờ cảm biến, xử lý, truyền dữ liệu ra màn hình LCD (tinh thể lỏng) và lưu dữ liệu. 
+Bàn cờ có chức năng cảm biến, nhận ra sự thay đổi vị trí các quân cờ. LCD hiển thị các nước đi gần nhất của các đấu thủ. Khối bàn phím hỗ trợ có nhiệm vụ làm những thao tác phụ mà chương trình không thể đáp ứng được. Khi bắt đầu, chương trình xử lý liên tục quét bàn cờ để phát hiện sự thay đổi vị trí của một quân cờ bất kỳ trên bàn cờ. 
+Khi bắt đầu ván cờ, cần phải nhấc một quân cờ bất kỳ trên bàn cờ lên và đặt xuống ngay vị trí cũ để khởi động việc tính giờ và khởi động bàn cờ. Khi muốn kết thúc ván cờ, ấn công tắc, LCD sẽ hiển thị các trường hợp để ta lựa chọn (tiếp tục ván cờ, nghỉ chơi và chơi ván mới). 
+Phương cho biết: “Nhỏ gọn, chi phí sản xuất thấp (khoảng 200.000 đồng), hi vọng trong tương lai nó có thể ứng dụng trong các giải cờ trong nước cũng như quốc tế”. 
+“Đề tài có khả năng mở rộng thêm phần giao tiếp với máy tính hoặc máy in, như vậy các dữ liệu sẽ được lưu trữ tốt hơn. Tuy nhiên, đây chỉ là thao tác sau trận đấu. Ngoài ra còn có thể áp dụng ý tưởng này trong việc thiết kế bàn cờ đa năng nhiều loại cờ khác”- Minh Nhựt bảo thêm.
+
+TRẦN HUỲNH

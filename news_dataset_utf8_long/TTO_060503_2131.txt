@@ -1,0 +1,9 @@
+﻿Biến ảnh số thành Icon
+
+Cách thức biến một ảnh số thành Icon cũng hết sức đơn giản. Khi kích hoạt “Picture to Icon” thành công, bạn nhấn vào nút “Load Icon” để tìm đến bức ảnh số mà bạn cần và nhấn “Open” để mở ra giao diện biên tập ảnh số thành Icon. 
+Dù ảnh số của bạn có kích thước lớn đến đâu đi chăng nữa thì “Picture to Icon” cũng sẽ dồn bức ảnh của bạn vào một giao diện biên tập có mỗi chiều chỉ tối đa là 240 pixel. Các Icon đúng chuẩn hiện nay đều có dạng hình vuông với mỗi chiều là 32 pixel, tuy nhiên bạn cũng có thể dùng “Picture to Icon” để tạo ra dạng icon có hình chữ nhật bằng cách không đánh dấu vào ô “Width=Height”. 
+Bạn có thể chọn độ sâu màu cho biểu tượng của mình bằng cách vào “Color bit” để chọn độ sâu màu từ 1 bit cho đến 32 bit. Dùng 2 thanh trượt theo chiều dài và rộng để chỉnh kích thước của icon lớn nhỏ tùy theo ý bạn và nhấn vào nút OK để hoàn tất. 
+Biểu tượng vừa tạo xong sẽ được đưa ra menu chính. Nếu bạn vẫn còn muốn chỉnh lại kích thước của Icon thì nhấn vào nút “Resize Icon” hoặc vào “Capture icon để copy Icon mới này vào clipboard hoặc lưu lại dưới dạng file BMP. Để lưu lại Icon này dưới định dạng icon chính hiệu thì bạn nhấn vào nút “Save icon” để “Picture to Icon” lưu nó lại dưới dạng .ICON trong thư mục của bạn để sử dụng sau đó. 
+Công ty Exeicon đang bán ra bản “Picture to Icon” với giá là 29,95 USD. Bạn đọc quan tâm có thể vào đây để tải về bản dùng thử có dung lượng chỉ khoảng 716 KB.
+
+HOÀNG KIM ANH

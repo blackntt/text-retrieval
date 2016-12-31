@@ -1,0 +1,57 @@
+﻿ Chọn mua máy_tính_xách_tay ( Phần I )
+Máy_tính_xách_tay có sức_mạnh tương_đương với máy_để_bàn , trong khi cho_phép người dùng mang theo nó bên người trong các cuộc hành_trình . Với trọng_lượng ngày_càng nhẹ , pin sử_dụng được lâu hơn và sự bổ_sung công_nghệ không dây tích_hợp , laptop ngày_nay dang đưa công_nghệ điện_toán di_động lên một tầm cao mới .
+Các nhà_sản_xuất máy_tính_xách_tay chia sản_phẩm của họ thành 3 dòng chính : Loại thay_thế máy_để_bàn ( Desktop_Replacement ) , dòng xu_thế chủ_đạo ( mainstream ) và loại cực gọn_nhẹ ( ultraportable ) . Ngoài_ra còn một_vài dòng máy nhỏ khác như máy_tính bảng và máy_tính_xách_tay mini .
+Laptop thay máy_để_bàn ( DR )
+Thị_phần của các hãng trên thế_giới 1 . Dell : 26,5% 2 . HP Compaq : 20% 3 . Toshiba : 12,3% 4 . IBM : 9,0% 5 . Apple 5,1% 6 . Sony : 4,8% 7 . Gateway : 3,4% 8 . Fujitsu/Fuji : 1,1% 9 . Acer : 1,1% 10 . eMachines : 0,8% Những hãng khác : 16%
+Giá : Từ 1.500 USD đến 3.000 USD cho máy cao_cấp ; từ 1.000 đến 1.200 USD cho máy thông_dụng .
+Trọng_lượng : 3,2 - 4,5 kg .
+Màn_hình : Từ 15 - 17 inch , có_thể là màn_hình rộng , với độ_phân_giải XGA , SXGA , hoặc UXGA resolution .
+Bàn_phím : Kích_cỡ tiêu_chuẩn , có key pitch ( khoảng_cách từ_tâm một phím tới phím kế_tiếp ) 19 mm , travel ( khoảng_cách giữa 2 phím ) 3 mm .
+Bộ_vi_xử_lý : Phổ_biến là loại có tốc_độ 3.0 GHz , với CPU của máy_để_bàn truyền_thống hoặc loại đã được sửa_đổi cho máy_xách_tay . Cả hai đều có khuynh_hướng tỏa_nhiệt nhiều hơn so với chíp của máy_xách_tay , đòi_hỏi nhiều khoảng_trống để thông gió và đặt quạt làm mát . Một_số máy của dòng này dùng CPU đặc_chế cho máy_tính_xách_tay , như Intel_Pentium M , có tốc_độ xung thấp nhưng năng_lực xử_lý cao , có chế_độ tiết_kiệm điện gắn trong để kéo_dài tuổi_thọ pin . Hãng AMD đưa ra loại CPU 64 bit duy_nhất thường được sử_dụng trong máy DR .
+Ổ_cứng : Từ 30GB - 80GB , tùy từng loại máy . Các máy_tính Media_Center thường đòi_hỏi dung_lượng ổ_cứng lớn hơn để lưu_trữ các file multimedia ( đa_phương_tiện ) .
+Card đồ_hoạ : Thông_thường là card đồ_họa tiêu_chuẩn ATI hoặc n Vidia có chất_lượng trung_bình . Giới chơi game hoặc multimedia có khuynh_hướng chọn loại card hàng_đầu như ATI Mobility_Radeon 9700 hoặc n Vidia_Ge Force FX Go 5700 .
+Pin : Từ 2 - 6 giờ , tùy_thuộc bộ_vi_xử_lý . Dung_lượng pin không quan_trọng lắm với máy DR vì chúng thường được cắm vào ổ điện và ít khi di_chuyển .
+Chuẩn không dây : Các chuẩn tích_hợp 802.11b , 802.11g , hoặc 802.11a / g . 802.11g và 802.11a / g cho tốc_độ kết_nối cao nhất .
+Cổng USB : Ít_nhất là có 2 cổng và càng nhiều cổng càng tốt .
+Cổng_Fire Wire : Có_thể có 1 cổng . Điểm giao_tiếp này rất hữu_dụng với một_số máy_ảnh và hầu_hết máy quay video kỹ_thuật_số .
+Khe cắm card Media : Hiện_diện ngày_càng nhiều trên máy_tính_xách_tay , đặc_biệt là khe cắm thẻ Security_Digital ( SD ) .
+Ổ_đĩa quang : Dòng máy DR thường đi kèm ổ DVD/CD-RW combo . Ổ_đọc và ghi DVD cũng có nhưng thường làm_bạn tốn thêm 100 USD . Nếu bạn thực_sự muốn trang_bị chức_năng này cho máy_tính của mình thì nên chọn đầu_ghi multiburner , xử_lý được cả định_dạng DVD+ R và DVD - R .
+Loa : Các mẫu cao_cấp có_thể có 2 loa và thậm_chí có cả một loa siêu_trầm ( subwoofer ) .
+Dòng máy DR có trọng_lượng lớn nhất trong các loại laptop . Loại được người dùng ưa_chuộng thường có trọng_lượng từ 3,2 kg tới 4,5 kg , được chia làm 2 khuynh_hướng : cao_cấp và thông_dụng .
+Loại máy DR cao_cấp thường có_giá từ 1.500 USD tới 3.000 USD . Chúng thường đi kèm các linh_kiện cấu_hình cao như bộ_vi_xử_lý tốc_độ cao , thường là 3 GHz , và đồ_họa ấn_tượng , màn_hình từ 15 - 17 inch , một_số loại còn có cả màn_hình rộng . Loại máy này cực_kỳ thích_hợp cho xây_dựng và xem các chương_trình đa_phương_tiện . Nếu bạn yêu_thích trò_chơi điện_tử , nhiếp_ảnh hay biên_tập video và không ưu_tiên lắm cho khả_năng cơ_động , loại máy DR cao_cấp là sự lựa_chọn thích_hợp của bạn .
+Nếu bạn không muốn phung_phí 3.000 USD và không cần làm_gì nhiều hơn ngoài chỉnh_sửa ảnh đơn_giản , lướt web và email , một máy DR thông_dụng với giá từ 1.000 tới 1.200 USD là đủ .
+Dòng máy chủ_đạo ( mainstream )
+Giá : Từ 1.200 - 2.500 USD .
+Trọng_lượng : 1,8 - 3,2 kg .
+Màn_hình : 14 - 15 inch , với độ_phân_giải XGA hoặc SXGA+ .
+Bàn_phím : Kích_thước lớn , với key pitch 19 mm và travel 3 mm .
+Bộ_vi_xử_lý : Một chíp Intel , AMD hoặc Pentium M dành cho máy_xách_tay có tốc_độ từ 1.8 - 2.8GHz .
+Ổ_cứng : 40 - 60GB .
+Card đồ_hoạ : Card đồ_họa ATI hoặc n Vidia loại trung_bình khá .
+Pin : Từ 3 - 6 giờ , tuỳ_thuộc vào công_nghệ tiết_kiệm điện_năng của bộ_vi_xử_lý .
+Chuẩn không dây : Các chuẩn tích_hợp 802.11b , 802.11g , hoặc 802.11a / g . Loại " g " và " a / g " có tốc_độ kết_nối cao nhất .
+Cổng USB : Từ 2 chiếc trở_lên .
+Cổng_Fire Wire : Không phải loại tiêu_chuẩn nhưng cũng hữu_ích , đặc_biệt là để sử_dụng máy camcorder kỹ_thuật_số .
+Khe cắm Media_Card : Ngày_càng thông_dụng hơn trên máy_tính_xách_tay , đặc_biệt là khe cắm thẻ SD .
+Ổ_đĩa quang : Thường là ổ combo DVD/CD-RW trong . Tuy_vậy , bạn cũng có_thể chọn mua ổ DVD - R , DVD+ R , hoặc ổ đa định_dạng DVD5RW .
+Dòng máy này thích_hợp với những người phải thường_xuyên đi công_tác . Nó đạt sự cân_bằng giữa gọn_nhẹ và sức_mạnh . Được trang_bị những bộ_vi_xử_lý tiết_kiệm điện_năng như Pentium M và pin có dung_lượng cao , trung_bình khoảng 5 giờ hoạt_động , máy mainstreams vận_hành rất tốt . Khả_năng kết_nối không dây cũng rất quan_trọng . Thường thì chuẩn 802.11b là một lựa_chọn sẵn có , trong khi chuẩn 802.11g đang ngày_một trở_nên phổ_biến .
+Dòng siêu gọn_nhẹ ( Ultraportable )
+Giá : Từ 1.500 - 2.800 USD .
+Trọng_lượng : 1 - 1,8 kg .
+Màn_hình : 12,1 inches , với độ_phân_giải XGA .
+Bàn_phím : key pitch từ 17 - 18.5 mm hoặc loại kích_cỡ thông_thường có key pitch 19 mm và travel 3 mm .
+Bộ_vi_xử_lý : Intel_Pentium M , Transmeta_Efficeon hoặc Crusoe .
+Ổ_cứng : 1,8 - 2,5 inch , dung_lượng từ 20 - 40 GB .
+Card đồ_hoạ : Tích_hợp trên chipset .
+Pin : Có kích_thước nhỏ để giảm trọng_lượng chung , có thời_gian sử_dụng khoảng 2 giờ . Pin bổ_sung sẽ kéo_dài thời_gian sử_dụng lên 4 giờ .
+Chuẩn không dây : Chuẩn tích_hợp 802.11b , 802.11g , hoặc 802.11a / g ; " g " và " a / g " có tốc_độ cao nhất .
+Cổng USB : 1 hoặc 2 .
+Cổng_Fire Wire : Không phải loại tiêu_chuẩn nhưng khá hữu_ích , đặc_biệt là cho máy_quay_phim kỹ_thuật_số .
+Khe cắm thẻ Media : Đang ngày_càng trở_nên phổ_biến hơn , đặc_biệt là khe cắm card SD .
+Ổ_đĩa quang : Tiêu_chuẩn chung là ổ_đĩa ngoài , chẳng_hạn như ổ combo DVD/CD-RW . Một_số model nặng hơn có ổ_đĩa gắn trong . Bạn cũng có_thể lựa_chọn ổ DVD - R , DVD+ R , hay ổ đa định_dạng DVD5RW .
+Ultraportable là dòng máy_tính_xách_tay đầy_đủ tính_năng có kiểu_dáng đẹp nhất , mỏng nhất trên thị_trường . Với trọng_lượng từ 1 - 1,8 kg và giá khá đắt , từ 1.500 - 2.800 USD , loại máy này thích_hợp với các nhà_điều_hành doanh_nghiệp thường phải đi_lại nhiều , cần kiểm_tra email liên_tục , lướt web và đọc tài_liệu chứ ít khi phải tạo ra nội_dung trên máy .
+Nhờ những tiến_bộ trong việc chế_tạo các loại CPU tiêu_thụ ít điện_năng và ổ_cứng nhỏ với dung_lượng lớn , nhiều nhà_kinh_doanh đặt sự tin_cậy vào dòng máy gọn_nhẹ này để thực_hiện các công_việc khi đang ở trên đường đi . Chúng thường có màn_hình 12 inch , và mặc_dù một_số model có bàn_phím nhỏ hơn tiêu_chuẩn , bạn vẫn có_thể tìm được những mẫu_mã có bàn_phím kích_cỡ thông_thường .
+Máy_tính_xách_tay mini và máy_tính bảng chiếm ít thị_phần nhất . Máy mini thông_dụng nhất tại châu Âu và châu Á . Chúng có trọng_lượng dưới 900 gram , với màn_hình 10 inch và bàn_phím thu gọn . Dòng máy này thích_hợp nhất nếu bạn chỉ sử_dụng để đọc tài_liệu và soạn email ngắn .
+Máy_tính bảng chia làm 2 loại : convertible và slate . Loại convertible phổ_biến hơn , trông giống với máy mainstream nhưng có màn_hình xoay được , cho_phép bạn viết lên đó với cây_bút stylus và phần_mềm Microsoft_Windows XP Tablet PC Edition . Loại slate , thông_dụng trong các ngành như bệnh_viện và kinh_doanh bất_động_sản , chỉ gồm một màn_hình và một CPU gắn trong và một bàn_phím rời .
+Còn tiếp
+MINH_PHI - BÌNH_NGUYÊN

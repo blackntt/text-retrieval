@@ -1,0 +1,6 @@
+﻿"Cá tháng tư", cẩn thận với spam!
+
+Phát tán thư rác trong các dịp lễ tết là một thói quen thường thấy nhằm mời mọc khách hàng mua các loại quà tặng. Tuy nhiên, do chẳng có mồi câu thương mại nào trong ngày cá tháng tư, spam dịp này có thể mang nhiều nội dung nguy hại hơn, chẳng hạn virus. 
+Ngoài những biện pháp thường ngày như khóa IP của kẻ gửi spam, kiểm tra e-mail tới từ những địa chỉ không có thực, Barracuda cũng gợi ý các công ty có thể thay đổi trình lọc của mình, thêm vào một số cụm từ lọc liên quan tới ngày 1-4.
+
+Theo Techweb

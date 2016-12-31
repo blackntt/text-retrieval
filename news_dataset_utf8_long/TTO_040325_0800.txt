@@ -1,0 +1,17 @@
+﻿TỰ TẠO SCREENSAVER với Screensaver XP 3.0
+
+Screensaver XP là công cụ làm Screensaver từ hình ảnh, âm thanh và file Video tạo nên nét độc đáo cho các máy tính cá nhân. Phần mềm này sẽ giúp bạn tạo, chỉnh sửa, thay đổi các Screensaver chỉ trong vòng vài phút. Bạn chỉ cần chọn các bức ảnh yêu thích hay các file Video, âm thanh từ ổ đĩa và chỉ với vài động tác kéo ,thả là đã có thể có được một cái Screensaver đẹp mắt rồi. Bạn có thể xem chúng trước khi quyết định có cài đặt hay không, phần mềm hỗ trợ các file ảnh có định dạng GIF,BMP,JPEG, các Flash files, Movie Clips, RealPlayer và MediaPlayer. 
+Các chức năng cài đặt, thay đối nổi bật nhất đó là khả năng cài các thông số cho các file nhạc và trình diễn chúng, thay đổi chiều rộng, cao của bức ảnh, chọn màu nền, bật tắt âm thanh, cho chạy toàn màn hình, cài đặt thời gian trình diễn và cho chạy các dòng chữ trên màn hình. Nó còn hỗ trợ rất nhiều định dạng hình ảnh và âm thanh khác nữa. 
+Rất đơn giản để có được một các Screensaver phải không ? Sau đây là các bước thực hiện tạo một Screensaver: 
+1. Trước tiên bạn phải có các bức ảnh, file âm thanh hay các đoạn Video để làm Screensaver và chúng phải được lưu trữ trên ổ đĩa của máy tính bạn. 
+2. Mở File chọn Open (hay có thể click vào biểu tượng Open trên thanh công cụ) 
+3. Chọn file ảnh , âm thanh, video mà bạn muốn chọn làm Screensaver và nhấn OK. 
+4. Lúc này màn hình phía bên phải là một cái khung to hiển thị hình ảnh (nếu là file ảnh… ), bên dưới là các thông số về file đó như về tên, kích cỡ, định dạng… 
+Bên trái là 2 mục Slides và Music ( nếu file bạn chọn là file Video thì sẽ là Video ). Nếu bạn muốn nghe file nhạc click vào nút Start trong mục Music, nếu muốn trình diễn file ảnh hay Video nhấn vào nút Start trong mục Slides. 
+Bạn có thể vào Properties hay Tools để thay đổi các thông số và hiệu chỉnh cho các files hoặc có thể sử dụng thanh công cụ để tiến hành định dạng cho các file. 
+1. Sau đó bạn Save lại các Screensaver vừa làm. Nếu muốn xem Screensaver vừa làm có ưng ý hay không hay vào View để mở xem. 
+2. Bạn vào File chọn Set as a Screensaver để hòan tất. 
+Như vậy là xong , vậy là bạn đã có được một các Screensaver độc nhất rồi đó. Tuy vậy có một số yêu cầu về hệ thống để có thể thực hiện được việc này đó là yêu cầu về vi xử lí phải là Pentium 1 trở lên, Card Video 65.636 màu – 800 600, 64 MB RAM, Windows 95/98/Me/Nt4.0 SP6/2000/XP, đối với Windows 95/NT 4.0 người dùng cần có IE 4.9 hay Microsoft Comctt 32.DLL version 4.72 hoặc trên. 
+Đây là một Shareware có dung lượng 3.01 MB version 3.0 , nếu thích bạn có mua với giá 30 USD. Tải về dùng thử tại địa chỉ: http://www.consultingnation.com/default.asp .
+
+NGUYỄN CHÁNH TRUNG

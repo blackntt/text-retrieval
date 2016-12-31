@@ -1,0 +1,5 @@
+﻿ Nên cộng lệ_phí sân_bay vào tiền vé
+Số tiền Việt được qui_đổi theo bảng thông_báo là 224.100 đồng , nhưng quầy thu phí bảo tôi đóng 225.000 đồng . Khi đã ngồi trên máy_bay , nhẩm tính lại số tiền lệ_phí đã đóng , tôi nhận thấy con_số làm_tròn của sân_bay hơi bị ... nhiều .
+Nếu chỉ làm_tròn 224.500 đồng thì còn chấp_nhận được , đằng này ... Số tiền chênh_lệch một người là 900 đồng , nếu tất_cả hành_khách đều bị làm_tròn thì 10 người sẽ là 9.000 đồng , 100 người sẽ là 90.000 đồng . Ở sân_bay số người đóng lệ_phí một ngày tới hàng ngàn người , như_vậy ai sẽ là người hưởng số tiền chênh_lệch này ?
+Ở sân_bay Trung_Quốc ( và nhiều sân_bay khác nữa ) , lệ_phí sân_bay được cộng thẳng vào tiền vé máy_bay . Thiết_nghĩ ta nên áp_dụng hình_thức này , vì người đi máy_bay chỉ đóng một lần phí .
+ANH_TRẦN ( P . 7 , Q.Tân Bình , TP.HCM )

@@ -1,0 +1,9 @@
+﻿Trang trí cho trỏ chuột bằng CursorBeauty
+
+CursorBeauty không có giao diện sử dụng chính. Khi kích hoạt thành công nó sẽ hiển thị dưới dạng một biểu tượng nằm ở khay đồng hồ dưới góc phải màn hình. Bạn chỉ cần click chuột phải vào biểu tượng này để sử dụng mọi chức năng của CursorBeauty. 
+Ở chế độ mặc định khi thì CursorBeauty sẽ cho bạn 2 hiệu ứng khá bắt mắt là Magic và Flag. Hiệu ứng Magic sẽ làm cho nhiều viên bi đủ kích thước màu xanh xuất hiện xung quanh con trỏ chuột, từ xa đến gần. Hiệu ứng Flag còn hấp dẫn hơn, con trỏ chuột của bạn sẽ là đầu tàu kéo theo 8 viên bi với đủ sắc màu đi mọi nơi khắp màn hình, và khi đứng yên thì 8 viên bi này sẽ tự động xếp hàng ngang rất nghiêm chỉnh. 
+Magic và Flag là 2 hiệu ứng chính của CursorBeauty, còn các hình ảnh dùng để thay thế hình các viên bi xuất hiện quanh 2 hiệu ứng này thì thật sự là … vô vàn. Để sử dụng các của hình ảnh của CursorBeauty, bạn click chuột phải vào biểu tượng chương trình -&gt; chọn “ChooseImage(.PNG)” -&gt; tìm đến thư mục tên “Image” nằm trong thư mục cài đặt chương trình -&gt; chọn 1 trong 134 hình ảnh do CursorBeauty cung cấp sẵn để sử dụng. 
+Để độc đáo và ấn tượng hơn, bạn nên dùng một hình ảnh độc đáo dạng PNG nào đó do bạn sưu tầm được để thay thế cho các hình PNJ do CursorBeauty và chọn trình diễn ở chế độ “Magic”, đảm bảo mọi người sẽ sửng sốt với hiệu ứng hình ảnh độc đáo này. 
+Tuy là một thứ “đồ chơi” nhưng công ty WebSamba cũng bán ra công cụ này với giá đến 17,95 USD. Người dùng có thể vào đây để tải về bản dùng thử của CursorBeauty 2.20 với dung lượng khoảng 5,48 MB hoặc tìm mua tại các cửa hàng phần mềm.
+
+HOÀNG HẢI

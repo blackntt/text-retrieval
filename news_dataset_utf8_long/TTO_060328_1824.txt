@@ -1,0 +1,27 @@
+﻿Võ Trọng Nghĩa - gió - nước và những công trình
+
+- Được thiết kế dựa trên nguyên lý khí động học, giảm thiểu được việc sử dụng năng lượng, tận dụng tối đa năng lượng trời phú cho Việt Nam chúng ta: năng lượng gió và ánh sáng. 
+Dựa trên một mô phỏng tính toán khí động học của máy tính, công trình sẽ đưa gió vào tất cả các ngóc ngách. Điểm đặc biệt là đây là vùng đất gần sông, có nước nên gió rất nhiều. Đón gió vào, chúng ta đã có một hệ thống điều hòa khá hoàn chỉnh. 
+Công trình này đã được tạp chí kiến trúc nổi tiếng của Nhật JA viết bài trong tháng 3 này. 
+“Đô thị của gió và ánh sáng” (giải đặc biệt cuộc thi "Tôn vinh thành phố"), rồi đến quán cà phê 1131 (được chọn vào trong Tuyển tập những công trình kiến trúc bền vững - hay của châu Á do Hội Kiến trúc sư Nhật Bản bình chọn vừa được phát hành tại Nhật vào hôm 20-6-2005), bây giờ thêm một công trình của gió và nước nữa. Nước, gió là hai yếu tố chính của những công trình thiết kế của anh? 
+- Đúng! Công thức của tôi: wNw tức là Wind and Water - Gió và Nước! Gió và nước sẽ làm hệ thống điều hoà thiên nhiên thay cho máy lạnh. Chúng ta có nguồn lực thiên nhiên vô cùng phong phú, tại sao không tận dụng? 
+Chọn khí động học làm đề án thạc sĩ. Vì sao anh lại chọn cho mình hướng đi không ít chông gai thế? 
+- Đây quả là một sự lựa chọn khó khăn. Nó cũng là bước ngoặt trong cuộc đời. Sinh ra ở vùng đất Quảng Bình đầy gió và nắng, nóng lắm, nhà tôi lại không có điện. Mỗi lúc ngủ trưa, tôi luôn lật qua lật lại để bớt nóng nhưng lật đến đâu thì mồ hôi đến đó. Chỉ có khe cửa - nơi gió lùa vào là mát nhất. Cảm giác của những giấc ngủ trưa hè ngày xưa là khơi nguồn cho những cảm xúc của tôi. 
+Đó là một sự lựa chọn mạo hiểm và tôi đã đánh đố “nếu không tốt nghiệp thạc sĩ được trong hai năm thì trong ba, bốn năm. Tôi phải sử dụng khí động học dù có mất bao lâu đi nữa". Tuy nhiên, tôi đã may mắn khi được đánh giá cao. (Đồ án tốt nghiệp của Nghĩa được đánh giá là xuất sắc nhất - PV). 
+Mô tả chi tiết áp dụng mô hình tính toán CFD (Computional Fluid Dynamics) trong tính toán lưu thông gió cho kiến trúc, nhóm tác giả đã quy hoạch quần thể bằng cách bố trí cho gió từ 3 phía Đông Nam, Tây và Tây Nam Anh có thể kể một số công trình ứng dụng khí động học? 
+- Quán càphê 1131 được thiết kế để đón gió từ hai cánh trên mái nhà úp xuống mặt hồ làm nước bốc hơi, làm lạnh không khí, Đô thị gió và ánh sáng đón nắng và gió vào nhà, công trình 63 Mạc Đĩnh Chi (đang thi công - PV) đưa gió xuống tầng hầm… Tôi đã làm một vòng rồi đấy: lấy gió trong nhà cao tầng, đưa gió vào hầm, vào nhà thấp… Nước mênh mông bao la, gió thì bạt ngàn. Đấy là của trời cho. Cái quan trọng là làm sao để tận dụng chúng thôi. 
+… Và một Võ Trọng Nghĩa mới 
+Anh có dự định sẽ tiếp tục những chuyến đi để tìm bí mật của thiên nhiên như đã từng thực hiện ở Hội An không? 
+- Có chứ! Không phải dự định. Tôi đã kết hợp khí động học và vật liệu tranh, tre, nứa bằng một công trình nhà tầm vông rất lớn. 
+Nhà tầm vông? Giới thiệu cụ thể hơn được không? 
+- Tốt nhất là bạn nên đến đó xem. Có thể mô tả thế này: căn nhà khoảng vài trăm mét vuông, được xây dựng trên diện tích khoảng 1.000 m 2 với khẩu độ 12m bằng tầm vông làm thành một khung rộng lớn và cực kỳ mát mẻ. Tầm vông đã được xứ lý đảm bảo chống mối mọt và có thể sử dụng lâu dài. 
+Phải chăng đây là mở hàng cho một lối đi mới của anh về vật liệu? 
+- Đây không phải là lối đi mới cho tương lai gì cả. Tôi chỉ muốn nói công trình đẹp không phải là đắt tiền. Vấn đề không phải là công trình lớn hay công trình nhỏ, vật liệu gì mà vấn đề là đẹp và làm được gì. 
+Căn nhà tầm vông này cũng là một mốc quan trọng trong sự nghiệp của tôi. Ở Nhật tôi làm nhà gỗ 5 tầng, ở Việt Nam tôi làm nhà tầm vông thật lớn. Để xem thử thế nào. 
+Anh dùng tầm vông để xây một ngôi nhà lớn. Lấy kinh nghiệm gì để đảm bảo độ bền, đẹp? 
+- Ngâm sình, hun khói… những kiến thức cơ bản của nhà nông thôi. Sẽ khai trương vào đầu tháng 4 tại Bình Dương. 
+Đang là nghiên cứu sinh năm 3 tiến sĩ, vừa làm nhà tầm vông, vừa ôm công trình 63 Mạc Đĩnh Chi, rồi tòa soạn báo Sài Gòn Giải Phóng , bây giờ là ĐH Kiến trúc, nghe đâu còn vài dự án khác nữa… làm nhiều thế anh có sợ ảnh hưởng đến học tập à? 
+- Tôi đang học và làm đấy! Tôi rất may mắn là có giáo sư quá hiểu mình. Sau ngôi nhà gỗ 5 tầng ở Nhật, giáo sư cho tôi thoải mái đi. “Nếu cần anh cứ đi, khi nào bảo vệ luận án thì về”. Và tôi rất vui khi giáo sư luôn theo dõi bước chân tôi qua những công trình. 
+...Cuộc trò chuyện đang say sưa thì tôi phải trả cho anh về với những cộng sự người Nhật của anh ở một khu resort ở Côn Đảo...
+
+VI THẢO

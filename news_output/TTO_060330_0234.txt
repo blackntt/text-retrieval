@@ -1,0 +1,4 @@
+﻿ ĐH Kinh_tế TP.HCM : đoạt giải thi học_thuật được cộng điểm thưởng
+Giải nhất được cộng 3 điểm , giải nhì cộng 2 điểm và giải ba cộng 1 điểm . Điểm thưởng được cộng vào một trong những môn_học liên_quan gần nhất đến nội_dung của cuộc_thi do ban lãnh_đạo khoa đề_xuất . Số_lượng sinh_viên được cộng điểm thưởng trong mỗi cuộc_thi không quá 15 người .
+Được biết , chủ_trương của Trường ĐH Kinh_tế TP.HCM là thông_qua các cuộc_thi học_thuật , tạo điều_kiện cho sinh_viên tiếp_cận những vấn_đề của thực_tiễn cuộc_sống ; giúp sinh_viên rèn_luyện những kỹ_năng ứng_xử , thể_hiện năng_lực bản_thân ; khuyến_khích sự ham học_hỏi trong sinh_viên ...
+N . P .

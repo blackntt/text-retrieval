@@ -1,0 +1,51 @@
+﻿ Các trường còn lại công_bố điểm_chuẩn NV2 và danh_sách trúng_tuyển
+& gt ; & gt ; Trúng_tuyển NV2 vào Trường ĐH Kinh_tế ( ĐH Đà_Nẵng )
+& gt ; & gt ; Trúng_tuyển NV2 vào Trường ĐH Sư_phạm ( ĐH Đà_Nẵng )
+& gt ; & gt ; Trúng_tuyển NV2 vào Trường ĐH Ngoại_ngữ ( ĐH Đà_Nẵng )
+& gt ; & gt ; Trúng_tuyển NV2 vào Trường CĐ Công_nghệ ( ĐH Đà_Nẵng )
+& gt ; & gt ; Trúng_tuyển NV2 vào Trường ĐHDL Duy_Tân ( Đà_Nẵng )
+& gt ; & gt ; Trúng_tuyển NV2 vào hệ ĐH Trường ĐH Bách_khoa TP.HCM
+& gt ; & gt ; Trúng_tuyển NV2 vào hệ CĐ Trường ĐH Bách_khoa TP.HCM
+& gt ; & gt ; Trúng_tuyển NV2 vào Trường ĐHDL Hùng_Vương
+& gt ; & gt ; Trúng_tuyển NV2 vào Trường ĐH Sư_phạm kỹ_thuật TP.HCM
+& gt ; & gt ; Trúng_tuyển NV2 vào Trường ĐH Cần_Thơ
+& gt ; & gt ; Trúng_tuyển NV2 vào Trường ĐHDL Văn_Lang
+& gt ; & gt ; Trúng_tuyển NV2 vào Trường CĐ Kinh_tế TP.HCM
+Trường ĐH Lao_động - Xã_hội
+Điểm_chuẩn xét tuyển đối_với hệ ĐH là 23.5 điểm ( khối A ) và 20.5 điểm ( khối C ) .
+Hệ CĐ : 17 điểm ( khối A ) và 19 điểm ( khối C ) .
+Trường ĐH Hải_Phòng
+Khối A : ngành Toán : 19.5 điểm ; Tin_học : 20 điểm .
+Khối B : ngành Nông_học : 18 điểm ; Nuôi_trồng thủy_sản : 19 điểm .
+Khối C : ngành Sư_phạm Tiểu_học : 16.5 điểm .
+Khối D1 , D2 , D4 : ngành Tiếng_Nga : 17 điểm ; Tiếng_Trung : 20 điểm .
+Hệ CĐ : ngành Sư_phạm Sinh - Hóa : 16.5 điểm , Sư_phạm Văn - Đoàn đội : 17 điểm , Sư_phạm Sử - Đoàn đội : 15.5 điểm .
+Trường ĐHDL Quản_lý và Kinh_doanh Hà_Nội
+Khối A , 17 điểm các ngành : Quản_trị kinh_doanh , Kế_toán , Tài_chính - Ngân_hàng , Tin_học .
+Khối D1 , 16 điểm các ngành : Quản_trị kinh_doanh , Kế_toán , Tài_chính - Ngân_hàng , Tiếng_Trung_Quốc , Tiếng_Anh , Việt_Nam học .
+Khối C , 17,5 điểm ngành Việt_Nam học .
+Căn_cứ mức điểm quy_định trường tiến_hành xét từ cao xuống cho đủ 1.200 chỉ_tiêu tuyển NV2 năm 2005 - 2006 .
+Trường ĐH Giao_thông vận_tải ( cơ_sở 2 TP.HCM )
+Công_trình giao_thông công_chính : 21.5 điểm ; Đầu_máy - Toa_xe , Cơ_khí ô_tô : 19.5 điểm .
+Học_viện Công_nghệ Bưu_chính viễn_thông ( cơ_sở phía Bắc và phía Nam )
+Ngành Điện tử - Viễn_thông : 22 điểm ; Công_nghệ_thông_tin : 22 điểm .
+Trường ĐHDL Duy_Tân ( Đà_Nẵng )
+Mức chênh_lệch điểm giữa các khu_vực là 2 , giữa các đối_tượng ưu_tiên là 1 điểm . Riêng ngành Tiếng_Anh có điểm nhận hồ_sơ là 18.5 , trong đó môn tiếng Anh nhân hệ_số 2 .
+Khối A , 15 điểm : các ngành Kỹ_thuật mạng máy_tính ; Công_nghệ_phần_mềm ; Tin_học viễn_thông ; Xây_dựng dân_dụng và công_nghiệp ; Xây_dựng cầu_đường ; Quản_trị kinh_doanh ; Quản_trị kinh_doanh du_lịch và khách_sạn ; Quản_trị kinh_doanh marketing ; Tài_chính doanh_nghiệp ; Ngân_hàng ; Kế_toán kiểm_toán ; Kế_toán doanh_nghiệp ;
+Khối D , 14 điểm : các ngành Kỹ_thuật mạng máy_tính ; Công_nghệ_phần_mềm ; Tin_học viễn_thông ; Quản_trị kinh_doanh ; Quản_trị kinh_doanh du_lịch và khách_sạn ; Quản_trị kinh_doanh marketing ; Tài_chính doanh_nghiệp ; Ngân_hàng ; Kế_toán kiểm_toán ; Kế_toán doanh_nghiệp
+Hệ CĐ , 11 điểm : các ngành Xây_dựng ; Tin_học .
+Trường CĐ Phát_thanh - Truyền_hình 1
+Khối A , 13 điểm : ngành Kỹ_thuật Phát_thanh - Truyền_hình , Công_nghệ_thông_tin .
+Khối C-D1 , 17 điểm : ngành Báo_chí Phát_thanh - Truyền_hình .
+Trường CĐ Công_nghiệp thực_phẩm TP.HCM
+Khối A : ngành Công_nghệ_thông_tin , Kỹ_thuật điện - điện_tử , Cơ_khí , Công_nghệ hóa_học , Kế_toán , Chế_biến thủy_sản , Kỹ_thuật môi_trường , Kỹ_thuật cắt may : 12 điểm ; Công_nghệ thực_phẩm , Công_nghệ_sinh_học : 13 điểm
+Khối B : ngành Kỹ_thuật môi_trường , Kỹ_thuật cắt may : 14 điểm ; Công_nghệ thực_phẩm : 14,5 ; Công_nghệ_sinh_học : 16 điểm .
+Trường CĐ Công_nghệ và Quản_trị Sonadezi
+Khối A : ngành Công_nghệ may , Công_nghệ giày : 12 điểm ; Tài_chánh - Ngân_hàng : 13.5 điểm ; Quản_trị kinh_doanh , Kế_toán : 14 điểm .
+Khối D1 : ngành Công_nghệ may , Công_nghệ giày : 12 điểm ; Tài_chánh - Ngân_hàng , Kế_toán : 13 điểm ; Quản_trị kinh_doanh : 13.5 điểm .
+Những thí_sinh khối A không trúng_tuyển ngành Quản_trị kinh_doanh , Tài_chánh - Ngân_hàng , Kế_toán có điểm thi từ 12 điểm trở_lên có_thể vào học ngành Công_nghệ may hoặc Công_nghệ giày , nếu có nguyện_vọng .
+Trường CĐ Kinh_tế đối_ngoại
+Điểm trúng_tuyển đợt 3 vào trường là 22 ( khối A ) và 17.5 ( khối D ) . Ngày nhập_học đối_với những thí_sinh trúng_tuyển đợt này là ngày 22-9-2005 .
+Trường CĐ Tài_chính kế_toán 4
+Trường hạ điểm_chuẩn trúng_tuyển hệ CĐ xuống còn 23.5 điểm và hệ THCN là 17.5 điểm . Thí_sinh trúng_tuyển CĐ nhập_học ngày 26-9-2005 và THCN nhập_học ngày 27-9-2005 .
+NHÓM_PHÓNG_VIÊN_TTO

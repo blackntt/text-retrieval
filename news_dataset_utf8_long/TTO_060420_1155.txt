@@ -1,0 +1,19 @@
+﻿3 SV Nga đoạt giải nhất cuộc thi lập trình quốc tế 2006
+
+Đây là lần thứ 30 cuộc thi tổ chức hàng năm do Hiệp hội Công nghệ máy tính Mỹ vừa được tổ chức với sự tài trợ chính của hãng chế tạo máy tính IBM hàng đầu Hoa Kỳ. 
+Nhóm 3 SV được giải cao nhất cuộc thi này đến từ Trường Đại học Quốc gia Saratov (Liên bang Nga). Đề thi giống nhau dành cho tất cả mọi thí sinh là hãy giải 10 bài toán lập trình trong thời gian 5 giờ đồng hồ. 
+Dưới đây là tóm lược đề bài của 3 trong số 10 bài toán nói trên để bạn đọc dễ hình dung cuộc thi: 
+1. Viết một chương trình cho máy tính sao cho các bánh răng cưa của một chiếc đồng hồ nối được kim giờ và kim phút trên cơ sở một tốc độ tối đa cho trước và trên một trục có 3 bánh răng cưa. 
+2. Hãy tạo ra một chương trình để nhận biết số lượng tối đa về mức độ cách ly của một mạng nhân sự. 
+3. Hãy phát triển một hệ thống liên kết các nút khác nhau của một mạng tập đoàn theo cách rẻ nhất có thể. 
+Các thí sinh ngồi làm bài trong một phòng rộng trước các màn hình máy tính. Tại khu vực của các nhóm mỗi khi giải xong một bài toán thì thả lên một quả bóng bay có buộc dây để giúp khán giả và ban tổ chức dễ theo dõi. 
+Theo ban tổ chức, thông thường để giải hết được 10 bài toán lập trình này một chuyên gia giỏi cũng phải cần nhiều tháng. Thế mà trong 5 tiếng đồng hồ, 3 SV Đại học Quốc gia Saratov đã giải được 6 trong tổng số 10 bài toán nói trên. 
+Sau khi hết giờ đứng dậy, SV Igor Kukin, 21 tuổi, trong nhóm giải nhất cho biết đề thi rất khó nhưng các em cảm thấy hài lòng khi đã giải được 6/10 bài. 
+Giải thưởng cho nhóm SV đoạt giải nhất cuộc thi này ngoài cúp vô địch, mỗi thành viên trong nhóm được nhận một học bổng trị giá 10.000 USD học tại Mỹ, một máy tính đặc biệt do hãng IBM chế tạo. 
+Ngoài 3 SV Trường Đại học quốc gia Saratov đoạt giải nhất với cúp vô địch, 3 SV khác về nhì được nhận huy chương vàng và mỗi em được lĩnh giải thưởng 3.000 USD tiền mặt. 
+Ba SV này đến từ các trường Đại học Tổng hợp Twente (Hà Lan), Đại học Kỹ thuật quốc gia Altai (Nga), Đại học Tổng hợp Jagiellonian Krakow (Ba Lan). Ba SV đoạt huy chương bạc và giải thưởng 2.100 USD đến từ các trường Học viện Công nghệ Massachusettes (Mỹ), Đại học Quốc gia Saint Petersburg (Nga), Đại học Tổng hợp Jai Tong Thượng Hải (Trung Quốc). 
+Bốn SV đoạt huy chương đồng và giải thưởng 1.050 USD đến từ các trường Đại học Công nghệ Hàng không Ufa (Nga), Đại học Tổng hợp Matxcơva (Nga), Đại học Tổng hợp Waterloo Ontario (Canada), và Đại học Tổng hợp Alberta (Canada). 
+Nhận xét về đề thi năm nay, Giáo sư Bill Poucher, Giám đốc điều hành Ban tổ chức cuộc thi, chuyên gia khoa học máy tính thuộc trường Đại học Tổng hợp Baylor (Hoa Kỳ)- nơi diễn ra cuộc thi- cho rằng mỗi bài toán khó giống như yêu cầu viết một phần mềm trong 10 phút vậy. 
+Đại diện hãng máy tính Mỹ IBM cho biết, hãng sẵn sàng nhận các thí sinh đoạt giải vào làm việc. Cho đến nay IBM đã tuyển mộ được 80 SV đoạt giải trong nhiều năm khác nhau của cuộc thi này.
+
+Theo Tiền phong

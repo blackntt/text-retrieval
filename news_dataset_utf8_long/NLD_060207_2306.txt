@@ -1,0 +1,15 @@
+﻿3 ngành học mới về công nghệ thông tin
+
+Năm 2006, Trường ĐH Khoa học Tự nhiên TPHCM mở thêm 3 ngành học mới: khoa học máy tính, hệ thống thông tin, kỹ thuật phần mềm
+Khoa học máy tính (Computer Science) 
+Mã ngành đào tạo: 52480201. Mã tuyển sinh: 110 khối A. Quy mô đào tạo: Năm 2006 dự kiến tuyển: 100 – 120 sinh viên, về sau tăng lên 200 sinh viên. 
+Mục tiêu đào tạo: Trước tình hình chung của sự phát triển công nghệ thông tin (CNTT) và nhu cầu về đào tạo nguồn nhân lực phục vụ cho sự nghiệp công nghiệp hóa và hiện đại hóa, hòa nhập với thế giới, việc mở ngành khoa học máy tính là một yêu cầu cấp thiết và phù hợp với thực tiễn. 
+Các chuyên ngành: công nghệ tri thức, xử lý hình ảnh và nhận dạng, xử lý ngôn ngữ tự nhiên và an ninh máy tính. Chuyên ngành về công nghệ tri thức là một chuyên ngành chỉ có tại Khoa CNTT của Trường ĐH Khoa học Tự nhiên, mang sắc thái riêng so với các khoa CNTT và ngành khoa học máy tính của các trường khác trong cả nước. 
+Hệ thống thông tin (Information System) 
+Mã ngành đào tạo: 52480401. Mã tuyển sinh: 116 khối A. Quy mô đào tạo: Dự kiến năm 2006 tuyển 100 sinh viên, các năm sau sẽ tăng dần lên đến 200 sinh viên. 
+Mục tiêu đào tạo: Hệ thống thông tin (HTTT) là một chuyên ngành của CNTT mà đối tượng nghiên cứu là các giải pháp tự động hóa các HTTT trong các tổ chức kinh tế - xã hội. Xã hội càng phát triển thì nhu cầu tin học HTTT nhằm nâng cao năng lực quản lý, điều hành tổ chức càng trở nên bức thiết. Chính vì vậy nhu cầu về nguồn nhân lực CNTT – chuyên về tự động hóa các HTTT ngày càng cao. 
+Kỹ thuật phần mềm (Software Engineering) 
+Mã ngành đào tạo: 52480301. Mã tuyển sinh: 114 khối A. Quy mô tuyển sinh năm 2006: Khoảng 100 sinh viên (quy mô đào tạo có thể thay đổi tùy theo tình hình thực tế để đáp ứng nhu cầu thực tiễn về sản xuất và phát triển phần mềm). 
+Mục tiêu đào tạo: Xuất phát từ chủ trương của Nhà nước về phát triển mạnh mẽ công nghệ sản xuất phần mềm; nhu cầu về xuất khẩu và gia công phần mềm; nhu cầu nhân lực để chuyển giao công nghệ phần mềm; nhu cầu về phát triển các phần mềm hỗ trợ các nghiệp vụ, tự động hóa các dịch vụ và hoạt động đa dạng trong thực tế... đòi hỏi cấp thiết phải có đội ngũ lao động trình độ cao trong lĩnh vực công nghệ phần mềm. Bộ môn Công nghệ phần mềm hiện nay thuộc Khoa CNTT đã có nhiều năm kinh nghiệm trong việc đào tạo cử nhân chuyên ngành công nghệ phần mềm.
+
+TS Nguyễn Thị Ngọc Lan (Trưởng Phòng Đào tạo ĐH Khoa học Tự nhiên TPHCM)

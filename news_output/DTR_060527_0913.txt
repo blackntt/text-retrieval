@@ -1,0 +1,8 @@
+﻿ Lỗi nguy_hiểm trong phần_mềm Symantec_Antivirus
+Các phiên_bản diệt virus dành cho doanh_nghiệp của công_ty bảo_mật hàng_đầu thế_giới bị “ dính ” một lỗi nghiêm_trọng , tạo cơ_hội cho tin_tặc phát_tán sâu nguy_hiểm vào hàng triệu máy_tính trên thế_giới .
+Hôm_qua , các chuyên_gia Internet của công_ty bảo_mật e Eye_Digital_Security phát_hiện ra khiếm_khuyết này . Theo họ , lỗ_hổng cho_phép tin_tặc tạo ra một loại sâu có_thể chiếm quyền kiểm_soát máy_tính , chỉnh_sửa , xóa_bỏ , phá_hủy các chương_trình và file quan_trọng mà không cần người dùng click vào một đường link nào cả .
+Các chuyên_gia bảo_mật đánh_giá lỗi này ở mức_độ “ nghiêm_trọng ” . Phát_ngôn_viên của e Eye_Mike_Puterbaugh cho_biết các phiên_bản bị lỗi là Client_Security 3.1 và AntiVirus Corporate 10.1
+Symantec đang điều_tra về lỗ_hổng nhưng chưa đưa ra ý_kiến gì về vấn_đề này . Cũng trong ngày hôm_qua , Symantec cho_biết , lỗi này không ảnh_hưởng đế các phiên_bản dành cho người dùng cá_nhân Norton .
+Các chuyên_gia bảo_mật khuyến_cáo với người dùng về vấn_nạn tội_phạm mạng đang tìm mọi cách tấn_công các hệ_thống vì mục_đích tài_chính chứ không muốn nổi_danh như trước .
+Thực_tế , số virus nguy_hiểm đã chững lại kể từ khi sâu Blaster hoành_hành năm 2003 , tấn_công phần_mềm của Microsoft và phá_hủy hàng trăm_nghìn máy_tính trên khắp thế_giới .
+N.Hương Theo CNet

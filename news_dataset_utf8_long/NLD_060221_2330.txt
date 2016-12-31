@@ -1,0 +1,6 @@
+﻿Quản lý hệ thống cấp nước qua mạng
+
+(NLĐ)-Tổng Công ty Cấp nước Sài Gòn (SAWACO) vừa triển khai chương trình quản lý mạng lưới cấp nước bằng hệ thống thông tin địa lý trên mạng máy tính (SAWAGIS) ở Chi nhánh Cấp nước Nhà Bè.
+Đây là chương trình do Trung tâm Công nghệ Thông tin địa lý (DITAGIS) thực hiện, giúp SAWACO cập nhật đầy đủ các dữ liệu liên quan đến hệ thống cấp nước trên địa bàn TP. Theo đó, chỉ cần nhấp “chuột”, hệ thống mạng máy tính sẽ cung cấp các thông tin liên quan đến các công trình cấp nước như hệ thống đường ống, số hộ dân gắn đồng hồ nước... SAWACO cho biết trong thời gian tới sẽ triển khai chương trình SAWAGIS ở tất cả các chi nhánh cấp nước.
+
+Tr.Thanh

@@ -1,0 +1,9 @@
+﻿Hacker Mỹ “bóc lịch” 5 năm vì tấn công 400.000 PC
+
+Tin tặc lĩnh bản án này đã đột kích vào 400.000 máy tính, trong đó có cả các máy chủ của Bộ Quốc phòng Mỹ, và phát tán phần mềm nguy hiểm, thư rác (spam), làm tê liệt các hệ thống PC, đánh sập nhiều website. 
+ Thẩm phán liên bang Mỹ Gary Klausner ở Los Angeles đã tuyên án “botmaster” tên là Jeanson Ancheta, 20 tuổi, 57 tháng tù. Theo thẩm phán, đây là bản án lâu nhất đối với tội danh phát tán virus máy tính vì ông đánh giá hành động này rất “nghiêm trọng, nguy hiểm và phức tạp”. 
+Ancheta thú nhận đã có âm mưu vi phạm Dự luật lợi dụng gian lận máy tính và Luật chống thư rác spam, gây thiệt hại cho hệ thống máy tính của bộ Quốc phòng Mỹ và cũng nhằm mục đích gian lận trực tuyến từ những máy tính bị nhiễm virus. Đối tượng bị tên này nhắm tới còn có Phòng vũ khí thuộc Trung tâm Hải quân Mỹ ở China Lake (California, Mỹ) và một số máy tính của Cơ quan hệ thống thông tin của Bộ Quốc phòng. 
+Tay hacker trẻ tuổi này biến hệ thống máy tính quân đội thành mạng máy tính ma “bots” và sau đó thực hiện các cuộc phá hoại trên nhiều máy chủ hoặc phát tán số lượng lớn spam. 
+Ancheta cho biết cậu đã nhận được 3.000 USD của khách hàng để giúp họ truy cập vào mạng máy tính gồm 400.000 PC đã bị khống chế. Tin tặc này còn kiếm được 107.000 USD trong các phi vụ phát tán thư quảng cáo (adware). 
+Ancheta nhận bản án 5 năm tù và phải bồi thường 15.000 USD cho Phòng vũ khí của Trung tâm Hải quân Mỹ và Cơ quan hệ thống thông tin quốc phòng. Ngoài ra, tên này cũng phải nộp những vật dụng thực hiện tấn công, gồm 60.000 USD tiền mặt, một xe BMW đời 1993 và máy tính cá nhân. 
+N.Hương Theo AFP

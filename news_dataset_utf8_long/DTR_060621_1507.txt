@@ -1,0 +1,12 @@
+﻿IBM phát triển chip 500 GHz
+
+(Dân trí) – Hai công ty IBM và Georgia Tech đã thử nghiệm thành công một con chip có tốc độ xử lý lên tới 500GHz - một kỷ lục đối với một thiết bị silicon - bằng cách hạ nhiệt độ con chip xuống gần nhiệt độ âm tuyệt đối. 
+ 
+Kết quả thử nghiệm này là một phần trong dự án khám phá giới hạn tốc độ của các con chip sử dụng nguyên liệu Silicon-Germanium (SiGe). Các con chip SiGe là tương tự như các con chip sử dụng nguyên liệu silicon bình thường, chỉ khác một điều là nó thêm nguyên tố Germanium (Ge) giúp tăng khả năng vận hành và giảm mức tiêu thụ năng lượng. 
+Nhưng việc bổ sung thêm nguyên tố Germanium có thể làm tăng giá thành sản xuất và khiến con chip này chỉ có thể được tiêu thụ trên một số ít thị trường. IBM đã đưa ra thị trường hàng trăm con chip SiGe kể từ năm 1998. Tuy nhiên, ngành công nghiệp điện thoại di động vẫn ưa thích các con chip bằng silicon thông thường hơn. 
+"Chúng tôi đã đạt được một kết quả thật tuyệt vời. Nó chứng minh một điều là chúng ta chưa thể chạm đến giới hạn vận hành của nguyên liệu silicon. Đây là kết quả rất đáng khích lệ," Bernie Meyerson - giám đốc bộ phận nghiên cứu vật liệu bán dẫn của IBM - nói. 
+Con chip mới của IBM-Georgia Tech đã đạt được tốc độ tối đa 500GHz, tức là nhanh hơn gấp 100 lần so với các loại chip PC nhanh nhất hiện nay và gấp 250 lần các loại chip ứng dụng trong điện thoại di động. 
+Ở nhiệt độ phòng, con chip của IBM-Georgia Tech vẫn đạt được tốc độ 350GHz, vẫn nhanh hơn rất nhiều tốc độ các loại chip PC nhanh nhất hiện nay. Chip SiGe có thể đạt được tốc độ cao hơn nếu nhiệt độ được hạ thấp hơn nữa. 
+Theo lý thuyết chip SiGe có thể đạt đến tốc độ 1 terahert. 
+Meyerson dự báo tiến bộ mới nhất trong công nghệ sản xuất chip sẽ được ứng dụng trên các sản phẩm thực trong khoảng vài năm tới đây. 
+Hoàng Dũng Theo CNet /AP

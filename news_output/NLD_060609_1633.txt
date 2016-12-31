@@ -1,0 +1,9 @@
+﻿ Vật_liệu mới nhạy_cảm như da người
+Lớp phim sensor phát sáng dưới sức_ép của một đồng xu Mỹ_Các nhà_khoa_học Mỹ đang chế_tạo một sensor xúc_giác có khả_năng đáp_ứng với áp_suất và độ mịn của bề_mặt tương_đương như ngón_tay thật . Đột_phá này tương_lai sẽ mở_đường cho việc tạo ra cánh_tay robot nhạy_cảm như tay người .
+Thiết_bị là sản_phẩm của Vivek_Maheshwari và Ravi_Saraf tại Đại_học Nebraska . Nó là một tấm phim được làm từ các lớp hạt nano bán_dẫn xếp chồng lên nhau , phân_cách bởi các lớp vật_liệu không dẫn_điện khác .
+Khi áp_suất được đặt lên tấm phim , các lớp này bị nén vào nhau , giải_phóng ánh_sáng và một dòng_điện có_thể đo được . Cường_độ ánh_sáng và dòng_điện phát ra phụ_thuộc vào độ mạnh của áp_suất đặt lên .
+Trong một lần trình_diễn , các nhà_nghiên_cứu đặt một đồng xu lên_lớp phim sensor . Đường_nét bộ quần_áo của tổng_thống Lincoln cùng_với ký_tự TY trong chữ " LIBERTY " in trên đồng xu xuất_hiện trên lớp phim , dưới dạng các đốm sáng . Hình_ảnh này đã được camera ghi lại và sau đó nạp vào máy_tính .
+Hầu_hết các robot hiện_nay sử_dụng cái gọi_là sensor xúc_giác hệ nhị_phân , nghĩa_là chỉ có_thể cho_biết nó có chạm vào một vật gì đó hoặc không . Các nhà_nghiên_cứu đã tạo ra những sensor tiên_tiến hơn , nhưng hoặc là chúng quá khó để chế_tạo , hoặc quá mỏng_manh để có_thể chịu_đựng được lực cơ_học trong thực_tế , hoặc quá đắt để sản_xuất trên quy_mô lớn .
+Sensor kiểu mới có tiềm_năng vượt qua được tất_cả các trở_ngại này , chưa kể đến một_số lợi_ích mới .
+Chẳng_hạn , nó có độ_phân_giải không_gian tốt hơn các sensor khác . Nếu những sensor thế_hệ cũ chỉ phân_biệt được vật_thể rộng khoảng 2 milimét , thì sensor mới có_thể phát_hiện ra vật có đường kích chỉ vài chục micromét ( phần nghìn milimét ) . Nhờ những đặc_tính ưu_việt , sensor mới có_thể đặc_biệt hữu_ích trong y_học , nơi nó được dùng trong những ca phẫu_thuật xâm_lấn ở mức vi_mô .
+Theo VNExpress

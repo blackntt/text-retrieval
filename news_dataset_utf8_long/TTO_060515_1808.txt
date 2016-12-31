@@ -1,0 +1,6 @@
+﻿HP giới thiệu phần mềm mới dành cho Linux
+
+Ngoài ra, phần mềm HP Control Tower có thể phối hợp làm việc với phần mềm quản trị hệ thống (HP Systems Insight Manager) một cách hiệu quả để cung cấp khả năng quản lý dòng đời sản phẩm đơn giản đối với các máy chủ phiến mỏng chạy hệ điều hành Linux. 
+Các tính năng quản trị của phần mềm HP Control Tower là rất quan trọng khi thiết lập hạ tầng có khả năng thích nghi, linh hoạt và duy trì vận hành ở chế độ cao. Dự kiến phần mềm HP Control Tower sẽ được tung ra thị trường vào tháng 5 với mức giá là 199 USD.
+
+HOÀNG TRANG

@@ -1,0 +1,5 @@
+﻿Phát hiện gen ức chế tế bào ung thư
+
+Cơ thể con người có 46 nhiễm sắc thể và ở phần đuôi của mỗi nhiễm sắc thể có cấu trúc telomeres. Khi tế bào phân chia, chiều dài của telomeres ngắn đi; cho đến lúc không thể ngắn hơn được nữa, tế bào sẽ không còn khả năng phân chia và tự chết. Tuy nhiên, trong quá trình phân chia của tế bào ung thư, telomeres không ngắn đi nên tế bào vẫn tiếp tục phân chia và khối u ngày càng lan rộng. Nguyên nhân là khác với các tế bào bình thường, loại men telomorases (hTERT) trong tế bào ung thư hoạt động rất mạnh, làm telomeres không những không ngắn đi mà lại dài ra. Theo các nhà khoa học Hàn Quốc, gen MKRN1 có khả năng gây ức chế men telomorases khiến tế bào ung thư bị lão hóa và chết. Phát hiện này có khả năng ứng dụng trong việc điều trị bệnh ung thư cũng như các bệnh liên quan đến lão hóa. Đây là lần đầu tiên trên thế giới các nhà khoa học đưa ra nguyên lý làm lão hóa và triệt tiêu tế bào ung thư, mở ra hi vọng chữa trị cho những bệnh nhân mắc bệnh nan y này và ít gây phản ứng phụ.
+
+Q.HƯƠNG (Theo The Korea Times )

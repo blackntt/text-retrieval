@@ -1,0 +1,18 @@
+﻿ Công_trình lớn của những người nhỏ
+Làm_quen với máy_tính từ năm lên 6 , Đại dường_như có niềm đam_mê mãnh_liệt với các thuật_toán , phần_mềm ... Tám tuổi , cậu đã học xong Turbo_Pascal và Borland_Delphi , 9 tuổi Đại_học qua Microsoft_Access và Visual_Basic .
+Năm lên 10 , cậu làm_quen với môi_trường Web và Adobe_Photoshop . Đến nay , Đại đã “ nghiền ” xong ngôn_ngữ_lập_trình HTML và ASP , ngôn_ngữ kịch_bản JavaScrip .
+Đại đã vận_dụng tất_cả những điều học được để tạo nên website “ thế_giới động_vật ” của mình . Một thành_viên BGK đã phải thốt lên khi chấm sản_phẩm của Đại : “ Chúng_tôi hoàn_toàn bị “ chinh_phục ” bởi đây là một website có dung_lượng đồ_sộ về dữ_liệu , được xây_dựng trên môi_trường ngôn_ngữ_lập_trình rất mạnh thường chỉ dành cho sinh_viên đại_học ” .
+Website được hoàn_thành trong 3 tháng ngắn_ngủi , có đầy_đủ những công_cụ của một site mạnh như : công_cụ tìm_kiếm từ tên các con vật ; thư_viện hình_ảnh về các loài vật trong website ; phần hướng_dẫn sử_dụng ; có_thể kiểm_tra xem con vật đã tồn_tại trong cơ_sở_dữ_liệu hay chưa ...
+Đặc_biệt , duy_nhất site của Đại trong cuộc_thi lần này là có tính_năng có_thể thêm các dữ_liệu vào một_cách đơn_giản .
+Cậu học_sinh lớp 5 trường tiểu_học Bạch_Mai cho_biết , thời_gian tới cậu sẽ nâng_cấp website của mình các phần như : “ Trắc_nghiệm kiến_thức về các con vật ” và “ Âm_thanh các con vật ” để các bạn yêu động_vật có_thể tìm_hiểu kỹ_lưỡng hơn về thế_giới động_vật .
+Trở_thành lập_trình_viên cũng là ước_mơ của Đại . Và “ lập_trình_viên ” nhí này còn đang ấp_ủ một website về “ Thế_giới thực_vật ” .
+Nguyễn_Đức_Lân : Ý_tưởng về website bầu_cử trực_tuyến
+Nguyễn_Đức_Lân_Đây cũng là thí_sinh duy_nhất “ ẵm ” tới 2 giải Nhất của Hội thi phần_mềm sáng_tạo và phần thi chung giải toán bằng Pascal . Sản_phẩm đoạt giải Nhất phần thi Phần_mềm sáng_tạo của thí_sinh đoàn Đà_Nẵng này là website đào_tạo trực_tuyến .
+Điều đáng nói là phần_mềm chỉ được Lân viết trong vòng 2 tháng trước khi diễn ra Hội thi toàn_quốc . Là người rất đam_mê CNTT ngay từ khi còn học lớp 7 , Lân thường_xuyên phải vào mạng tìm_kiếm thông_tin để mày_mò tự học .
+“ Dù có_thể tìm_kiếm được rất nhiều thông_tin nhưng việc lựa_chọn lại rất khó_khăn . Do_vậy em đã nảy ra ý_tưởng viết phần_mềm này để mọi người có_thể dễ_dàng tiếp_cận với những thông_tin cần_thiết không_chỉ trong lĩnh_vực CNTT mà tất_cả những lĩnh_vực khác nữa ” – Lân kể .
+Theo đánh_giá của BGK , phần_mềm có rất nhiều tiện_ích và tác_giả đã có nhiều cải_tiến so với những website đào_tạo trực_tuyến hiện_tại . Để sử_dụng website , chỉ cần sử_dụng account ( tài_khoản ) đăng_nhập là có_thể “ vào ” được lớp hoặc chương_trình mình đang theo học .
+Với rất nhiều tiện_ích , giáo_viên có_thể post ( đưa ) bài giảng đến các lớp_học ảo và kiểm_tra năng_lực học_sinh . Nếu thi đạt học_viên mới có_thể tiếp_tục được “ vào ” học ở những chương_trình cấp cao hơn .
+Rất tiếc , hiện website này mới chỉ có bản trình_diễn ( demo ) chưa có trên mạng Internet . Lân cho_biết sẽ “ kêu_gọi ” sự giúp_đỡ của các thầy và Thành_Đoàn_Đà_Nẵng để mọi người có_thể sử_dụng website miễn_phí trong thời_gian tới .
+Năm_ngoái , cậu học_sinh lớp 11/6 THPT Lê_Quý_Đôn ( Đà_Nẵng ) đã mang website bầu_cử trực_tuyến - sản_phẩm ấp_ủ từ lâu đi dự thi Hội thi Tin_học không chuyên toàn_quốc lần thứ 10 . Tuy_nhiên , do tính bảo_mật chưa cao nên sản_phẩm đã không đoạt giải .
+Song , ban giám_khảo đã đánh_giá cao ý_tưởng độc_đáo này . “ Em sẽ theo_đuổi ý_tưởng này đến_cùng . Hy_vọng khi Nhà_nước có hệ_thống tin_học_hóa hoàn_chỉnh , sản_phẩm của em sẽ hữu_ích ” - Lân nói .
+Theo Tiền_Phong

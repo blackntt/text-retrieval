@@ -1,0 +1,6 @@
+﻿ Mạng di_động trên không
+Tổng_công_ty Hàng_không Việt_Nam ( Việt_Nam_Airline ) được quyền cung_cấp các dịch_vụ viễn_thông trên những máy_bay của hãng . Đó là dịch_vụ viễn_thông di_động vệ_tinh Inmarsat sử_dụng trên máy_bay .
+Phạm_vi cung_cấp và đối_tượng phục_vụ của dịch_vụ này chủ_yếu là hành_khách trong và ngoài nước của Việt_Nam_Airline .
+Bộ Bưu chính Viễn_thông đã duyệt phương_án tính cước cho dịch_vụ gọi điện_thoại trên máy_bay với phút gọi đầu_tiên là 7,9 USD ( 120.000 đồng ) . Những phút gọi kế_tiếp sẽ được tính theo block 6 giây .
+Mức cước di_động này đang bị xem là quá cao so với mặt_bằng thu_nhập chung . Tuy_nhiên , đây là dịch_vụ cao_cấp chỉ dành cho những khách_hàng tầm_cỡ . Các trạm điện_thoại này sẽ được đặt trong khoang hành_khách hạng sang .
+Trong giai_đoạn đầu , Việt_Nam_Airline sẽ thử_nghiệm dịch_vụ điện_thoại trên một_số máy_bay Boeing 777 . Trước đó , hãng Boeing đã đề_nghị hợp_tác với Việt_Nam để khai_thác dịch_vụ truy_cập Internet trên máy_bay . Theo TTNN , So_Hoa

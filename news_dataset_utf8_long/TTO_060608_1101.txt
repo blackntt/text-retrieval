@@ -1,0 +1,39 @@
+﻿Thể lệ các cuộc thi hấp dẫn trên Tuổi Trẻ
+
+Đối tượng tham dự: Tất cả bạn đọc báo Tuổi Trẻ , trừ nhân viên báo Tuổi Trẻ , Công ty dược phẩm SPM và Công ty ABC không được tham dự. 
+Nội dung các cuộc thi: 
+1 - "Ghi bàn cùng Goleo": 
+Dự đoán kết quả toàn bộ 64 trận đấu trong khuôn khổ World Cup 2006. 
+Cách thức tham dự: 
+Cách 1: Người tham dự soạn tin nhắn WC&lt;khoảng trắng&gt;A&lt;khoảng trắng&gt;B-C&lt;khoảng trắng&gt;D gửi đến 8282. Trong đó, WC là mã cuộc thi, A = 1 là trận Đức - Costa Rica và A = 2 là trận Ba Lan - Ecuador, B-C là tỉ số của trận đấu, B và C có thể là 1 chữ số hay 2 chữ số. D là số người cùng ý kiến. Thời gian tham gia dự đoán của mỗi trận kết thúc vào phút 80 của trận đấu. VD: Bạn tham gia dự đoán trận Đức - Costa Rica có mã trận đấu là 1, tỉ số là 2-1 và có 48.045 người dự đoán đúng thì soạn tin nhắn: WC 1 2-1 48045 gửi đến 8282. 
+Cách 2: Gọi điện đến số 19001733 và làm theo hướng dẫn để tham dự. 
++ Số lượng tin nhắn và số lần tham dự không hạn chế. Thông tin về cuộc thi sẽ liên tục được thông báo trên trang Thể thao báo Tuổi Trẻ. BTC không chịu trách nhiệm những thông tin do trục trặc của mạng viễn thông làm cho hệ thống của BTC không nhận được tin nhắn của bạn. Tất cả thuê bao của Vinaphone, MobiFone, Viettel, S-Fone, EVN Telecom đều có thể tham dự cuộc thi này. 
+Giải thưởng và công bố kết quả: 
+- Mỗi đợt dự đoán BTC trao một giải nhất trị giá 5 triệu đồng và quà tặng lưu niệm (gồm móc khóa hình chú sư tử Goleo ôm quả bóng Pille, đồng tiền lưu niệm mạ vàng có logo báo Tuổi Trẻ và MyVita, một hộp MyVita) cho người dự đoán đúng hoặc gần đúng nhất kết quả. Nếu có nhiều người có kết quả gần nhau thì chọn người gửi đến sớm hơn. Ngoài ra sẽ có ba giải khuyến khích mỗi giải 500.000 đồng cho ba người dự đoán có kết quả gần đúng tiếp theo. 
+- BTC cũng sẽ trao một giải đặc biệt trị giá 10 triệu đồng và quà tặng lưu niệm (gồm móc khóa hình chú sư tử Goleo ôm quả bóng Pille, đồng tiền lưu niệm mạ vàng có logo báo Tuổi Trẻ và MyVita, một hộp MyVita) cho người tham gia dự đoán nhiều lần nhất trong cả mùa giải. 
+- Kết quả sẽ được đăng ngay trên báo Tuổi Trẻ phát hành ngày hôm sau và thông báo trực tiếp cho người đoạt giải. 
+2 - Thi viết "World Cup trong mắt tôi" 
+Yêu cầu: Không hạn chế thể loại miễn không quá 200 chữ, và đề tài liên quan đến World Cup. Nếu viết trên giấy, xin chỉ sử dụng một mặt, và ngoài phong bì ghi rõ: Tham gia cuộc thi "World Cup trong mắt tôi", gửi về Ban thể thao báo Tuổi Trẻ, địa chỉ 60A Hoàng Văn Thụ, P.9, Q.Phú Nhuận, TP.HCM. Nếu gửi mail, xin nhớ có dấu và gửi về địa chỉ: thethao@tuoitre.com.vn . 
+Mỗi ngày, sẽ có ít nhất hai bài dự thi được chọn đăng trên báo Tuổi Trẻ ngày và Tin Nhanh "Tuổi Trẻ với World Cup 2006". Những bài viết được chọn đăng sẽ được trả nhuận bút. 
+Thời gian nhận bài: đến hết ngày 10-7. 
+Giải thưởng: Một giải nhất 7 triệu đồng + 1 móc khóa sư tử Goleo mua từ Đức + Một đồng tiền lưu niệm mạ vàng + 1 hộp viên bổ sủi bọt MyVita. Một giải nhì 3 triệu đồng + 1 hộp MyVita. Một giải ba 1 triệu đồng + 1 hộp MyVita. Mười giải khuyến khích, mỗi giải 500.000 đồng + 1 hộp MyVita. 
+3 - Thi ảnh nghiệp dư " Khoảnh khắc World Cup" 
+- Yêu cầu: Không hạn chế việc chụp bằng máy ảnh gì, từ máy cơ cổ điển đến máy ảnh kỹ thuật số lẫn điện thoại di động đều được. 
+Nếu là ảnh số, xin gửi về địa chỉ email: thethao@tuoitre.com.vn . Còn nếu ảnh rửa, khổ ảnh bắt buộc là 10cmx15cm, gửi về Ban thể thao báo Tuổi Trẻ, địa chỉ 60A Hoàng Văn Thụ, P.9, Q.Phú Nhuận, TP.HCM, ngoài phong bì ghi rõ: Tham gia cuộc thi ảnh "Khoảnh khắc World Cup". 
+Mỗi ngày, sẽ có ít nhất hai ảnh dự thi được chọn đăng trên báo Tuổi Trẻ ngày và Tin Nhanh "Tuổi Trẻ với World Cup 2006". Những hình ảnh được chọn đăng sẽ được trả nhuận bút. 
+- Thời gian nhận ảnh: đến hết ngày 10-7. 
+- Giải thưởng: Một giải nhất 7 triệu đồng + 1 móc khóa sư tử Goleo mua từ Đức + Một đồng tiền lưu niệm mạ vàng + 1 hộp viên bổ sủi bọt MyVita. Một giải nhì 3 triệu đồng + 1 hộp MyVita. Một giải ba 1 triệu đồng + 1 hộp MyVita. Mười giải khuyến khích, mỗi giải 500.000 đồng + 1 hộp MyVita. 
+4 - "Cỗ máy giội bom" - trò chơi cắt phiếu 
+Nội dung: Cuộc thi gồm ba đợt với những phần thưởng riêng biệt. Ở đợt 1, người tham dự sẽ phải trả lời hai câu hỏi: Câu hỏi chính: Đội nào ghi nhiều bàn thắng nhất ở vòng đấu bảng? Bao nhiêu bàn? Câu hỏi phụ để xác định giải thưởng: Có bao nhiêu phiếu trả lời đúng? 
+Phiếu hợp lệ là phiếu phải trả lời đủ các câu hỏi. Trong trường hợp nhiều đội có cùng số bàn thắng, người tham dự chỉ cần nêu một đội cũng được xem là trả lời chính xác. 
+Thời gian &amp; địa điểm nhận phiếu: Bắt đầu từ hôm nay đến hết ngày 20-6-2006. Phiếu tham dự gửi về báo Tuổi Trẻ (địa chỉ 60A Hoàng Văn thụ, P.9, Q.PN, TP.HCM), ngoài bì thư ghi rõ "Tham gia cuộc thi Cỗ máy giội bom World Cup '06". 
+Giải thưởng: Một giải nhất 10 triệu đồng + 1 móc khóa sư tử Goleo mua từ Đức + 1 hộp thuốc bổ mắt Galepo Extra. Năm giải khuyến khích, mỗi giải 1 triệu đồng + 1 hộp thuốc bổ mắt Galepo Extra. 
+5. “Cá ảo, thắng thật!” 
+Để tham gia trò chơi, mỗi bạn đọc sẽ đăng ký để được cấp một tài khoản và mật khẩu. BTC sẽ tặng cho mỗi người chơi số “vốn” 1.000 điểm. Với số điểm này, bạn đọc được tham gia ba phần thi khác nhau: 
+1. Đặt cược tỉ số: sẽ có các tỉ số và tỉ lệ cược khác nhau do BTC đưa ra. Người chơi có thể chọn một hoặc nhiều tỉ số để đặt cược. Người chơi có thể tùy ý điều chỉnh tỉ số và tỉ lệ cược của mình trước khi trận đấu diễn ra. Ba người có tổng số điểm tích lũy cao nhất trong tất cả 64 trận đấu sẽ được nhận giải thưởng: Giải nhất: máy tính xách tay công nghệ Duo Core trị giá 20.000.000đ; Giải nhì: máy tính để bàn công nghệ Duo Core trị giá 10.000.000đ; Giải ba: 1 máy nghe nhạc MP3 trị giá 5.000.000đ. 
+2. Dự đoán đội vô địch: Từ đầu giải đến thời điểm ngay trước trận bán kết 1, người chơi được dự đoán đội vô địch trong tổng số 32 đội tuyển tham dự. Người dự đoán đúng nhất, trả lời câu hỏi phụ chính xác nhất sẽ nhận được giải thưởng là máy nghe nhạc MP3 trị giá 5.000.000đ. 
+3. Dự đoán kết quả từng trận đấu: Với 64 trận đấu, bạn đọc được quyền tham gia dự đoán kết quả thắng - hòa hoặc thua. Mỗi trận đấu, người dự đoán đúng và có câu trả lời phụ chính xác nhất sẽ nhận được một ĐTDĐ Samsung X969 trị giá 990.000đ. 
+Để đảm bảo công bằng, một số CMND chỉ được cấp một tài khoản, một người chơi có thể chọn tham gia cả ba hoặc chỉ một trò chơi nói trên. Dự kiến lễ trao giải sẽ diễn ra vào ngày 15-7-2006 tại tòa soạn báo Tuổi Trẻ. 
+T rò chơi do siêu thị điện thoại www.thegioididong.com và Công ty máy tính Nguyễn Hoàng đồng tài trợ. Mời bấm vào đây để xem chi tiết về thể lệ, hướng dẫn và tham gia chơi.
+
+BAN TỔ CHỨC

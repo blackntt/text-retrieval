@@ -1,0 +1,5 @@
+﻿ " Chuột nói " kết_hợp VoIP của Sony
+“ Chuột nói ” của Sony có hình_dạng cũng_như mọi con chuột máy_tính thông_thường khác với một nút cuộn . Tuy_nhiên , khi chuột mở ra thì lại có hình_dạng của một chiếc điện_thoại và người dùng có_thể sử_dụng “ chuột nói ” như_là một chiếc điện_thoại VoIP bình_thường , nút cuộn lúc này sẽ trở_thành phím điều_chỉnh âm_lượng âm_thanh .
+Khi người dùng nhận một cuộc_gọi , sẽ có âm_thanh phát ra trong máy_tính và đèn led trên chuột sẽ phát sáng báo_hiệu . “ Chuột nói ” cũng kèm theo chức_năng loại_bỏ tạp_âm để tăng chất_lượng cuộc_gọi . Sau khi hoàn_tất cuộc_gọi , thì người dùng chỉ việc đóng lại và tiếp_tục sử_dụng chức_năng của một “ chú ” chuột máy_tính thông_thường .
+Nặng 67gr với kích_thước 45.5x23.9x89.2mm ( khi đóng lại ) và độ_phân_giải 800 dpi , kết_nối thông_qua cổng USB/USB 2.0 , chỉ tương_thích với Windows 2000/XP . “ Chuột nói ” sẽ có_mặt tại thị_trường Nhật_Bản với giá 65 USD vào ngày 18-02 với 5 màu là trắng , đỏ , xanh lá cây , xanh dương và đen .
+TUYẾT_PHẤN

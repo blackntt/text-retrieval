@@ -1,0 +1,6 @@
+﻿ BKIS đào_tạo chuyên_viên an_ninh mạng cho VNPT
+Đây là chương_trình đào_tạo chuyên_viên an_ninh mạng có quy_mô lớn nhất mà BKIS đã thực_hiện với các đối_tác là các bộ ngành và cơ_quan chính_phủ trong thời_gian qua .
+Tham_gia khóa học , các chuyên_viên của VNPT được trang_bị những kiến_thức cơ_bản về an_ninh mạng , nghiên_cứu các kỹ_thuật xâm_nhập , tấn_công mà tin_tặc thường sử_dụng và các biện_pháp phòng_chống .
+Các khóa học diễn ra trong 4 tuần tại Hà_Nội , Đà_Nẵng và TP.HCM , từ ngày 13-3 đến 7-4 .
+BKIS hiện là một trong các Trung_tâm an_ninh mạng hàng_đầu Việt_Nam , là đồng sáng_lập và cũng là đại_diện của Việt_Nam trong Hiệp_hội các tổ_chức Cứu_hộ máy_tính của khu_vực Châu Á_Thái_Bình_Dương - APCERT .
+KHIẾT_HƯNG

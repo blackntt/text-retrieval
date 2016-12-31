@@ -1,0 +1,18 @@
+﻿Biến máy tính thành máy trả lời điện thoại tự động
+
+Để sử dụng được PC2AM, bạn phải gắn điện thoại bàn vào modem của máy tính. 
+Sau khi cài đặt PC2AM lên máy tính, đánh dấu vào nút “Run Answering Machine” để PC2AM luôn ở chế độ hoạt động. Ở ô “Number of rings before answering” bạn có thể chọn số lần đổ chuông trước khi trả lời tự động từ 4 cho đến 11 lần. Đánh dấu vào ô “Record the Caller message” để PC2AM tự động ghi âm lại lời nhắn của người gọi đến. 
+Giao diện ghi âm của PC2AM. 
+Dĩ nhiên ngôn ngữ trả lời mặc định của PC2AM luôn là tiếng Anh, nhưng bạn hoàn toàn vẫn có thể sử dụng chính giọng nói (hoặc câu hát) của mình để làm âm thanh trả lời mặc định. Để ghi âm giọng nói của mình trong PC2AM, bạn làm như sau: 
+- Vào giao diện “Answering” -&gt; Click vào biểu tượng trang giấy có dấu cộng màu xanh nằm kế nút Play và Stop để vào giao diện ghi âm “Creat Greeting” -&gt; Đặt tên file âm thanh của bạn vào ô “Greeting name” -&gt; Đánh dấu vào ô “Record From Microphone” -&gt; Cắm Microphone vào card âm thanh sau đó nhấn vào nút Record để bắt đầu quá trình ghi âm giọng nói của mình. Khi nói xong thì nhấn vào nút “Stop”, sau đó nhấn “OK” để hoàn tất. Tên của file ghi âm sẽ được hiển thị trong ô “Greeting to be played” và nó sẽ trở thành âm thanh mặc định của PC2AM. 
+- Nếu không muốn ghi âm giọng nói, bạn có thể bắt PC2AM phát âm các nội dung văn bản. Cách làm như sau: Đặt tên file âm thanh của văn bản vào ô “Greeting name” -&gt; Đánh dấu vào ô “Record with Text to Speech” -&gt; gõ nội dung văn bản vào ô Text -&gt; Nhấn “Say It” để nghe lại và “Record It” để ghi thành âm thanh cho PC2AM. Dĩ nhiên tính năng này chỉ hoạt động được với các văn bản bằng tiếng Anh. 
+Thiết lập chi tiết cho các số điện thoại gọi đến trong giao diện "Contact" 
+Ở trên đã trình bày cách thức thiết lập chế độ trả lời tự động mặc định cho tất cả các cuộc gọi đến. Còn để thiết lập chế độ trả lời tự động cho từng số ĐT thì bạn phải chịu khó vào “Contact” để nhập vào toàn bộ tên tuổi và số ĐT của mọi người quen của mình. 
+Cách làm như sau: Nhấn vào nút “Contact” để vào giao diện nhập dữ liệu phone book -&gt; nhấn vào “Add” -&gt; điền tên, số ĐT… vào các ô cần thiết. PC2AM còn cho phép bạn “Add” vào hình ảnh của bạn bè, người thân của mình ở ô “Contact Picture” -&gt; chọn thẻ “Answering Mode” để chọn kiểu tự động trả lời là mặc định, trả lời đặc biệt, hoặc âm thanh tự ghi. 
+Thẻ “Event” sẽ giúp bạn định dạng đặc thù cho từng số ĐT gọi đến, tức bạn có thể tạo âm thanh trả lời riêng cho từng số ĐT một. 
+Ngoài các âm thanh có sẵn trong PC2AM, bạn cũng có thể lấy âm thanh từ các nguồn khác để làm phong phú hơn cho máy trả lời ĐT của mình. Nhấn vào thẻ “Event” trong “Contact” -&gt; chọn “Specific Event” -&gt; Check vào “Play Sound” -&gt; Nhấn vào biểu tượng chọn âm thanh (dấu cộng màu xanh) sau đó tìm đến định dạng file WAV đã chọn sẵn. 
+Khi có người gọi đến, PC2AM sẽ tự động liệt kê thời gian gọi cũng như số ĐT cụ thể nếu bạn đã nhập số của người gọi vào “Contact”. Nếu người gọi để lại tin nhắn thì PC2AM sẽ thể hiện tin nhắn âm thanh này dưới biểu tượng một bì thư chưa bóc kèm theo thời gian nhắn tin. Bạn chỉ cần chọn tên người gọi và nhấn nút “Play” là tiếng nói người nhắn sẽ phát ra từ loa máy tính. 
+Ngoài các tính năng trên, PC2AM còn cung cấp rất nhiều tính năng khác mà bạn có thể tự tìm hiểu để tăng cường khả năng trả lời tự động của PC2AM lên mức độ rất cao. 
+Công ty Teley đang bán bản "PC 2 Answering Machine 2.0" với giá là 35 USD. Người dùng có thể vào đây để tải về bản dùng thử với dung lượng khoảng 2,16 MB hoặc tìm mua tại các cửa hàng phần mềm.
+
+HOÀNG HẢI

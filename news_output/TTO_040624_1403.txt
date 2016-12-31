@@ -1,0 +1,7 @@
+﻿ Giải_pháp mới giúp kết_nối Internet liên_tục
+" RainConnect " là giải_pháp kết_hợp nhiều loại kết_nối từ nhiều nhà_cung_cấp dịch_vụ Internet giúp cho việc kết_nối luôn thông_suốt với tốc_độ ổn_định và nhanh hơn . Đây là giải_pháp đầu_tiên do BMC triển_khai tại Việt_Nam .
+Hiện_nay , một doanh_nghiệp nếu sử_dụng cùng lúc một đường leased line và một đường ADSL thì không_thể phối_hợp thành một hệ_thống kết_nối chung . Vì_vậy , khi một trong hai đường truyền bị gián_đoạn thì người quản_trị mạng phải chuyển_đổi đường kết_nối . Việc này gây ảnh_hưởng không nhỏ cho doanh_nghiệp , nhất_là các doanh_nghiệp thường_xuyên giao_dịch qua mạng Internet .
+Với giải_pháp " RainConnect " , các đường kết_nối ADSL và leased line ( của nhiều nhà_cung_cấp như VDC , NetSoft , Saigon_Postel , FPT ... ) sẽ được phối_hợp thành một hệ_thống tạo nên một đường truyền tốc_độ cao và ổn_định . Người quản_trị không cần chuyển_đổi mà hệ_thống sẽ tự_động chọn kết_nối nào hoạt_động tốt để truyền dữ_liệu . Hoặc nếu tất_cả các kết_nối đều tốt thì các gói dữ_liệu sẽ được rải đều cho tất_cả các kết_nối làm tốc_độ nhanh hơn .
+Một máy_chủ , nếu cài_đặt giải_pháp " RainConnect " có_thể hỗ_trợ tối_đa 32 kết_nối . Hiện giải_pháp " RainConnect " đang được chào_bán với giá 6.000 USD/một máy_chủ .
+Nếu quan_tâm về giải_pháp này , bạn_đọc có_thể liên_hệ với Công_ty BMC tại địa_chỉ : 26/55 Sư_Vạn_Hạnh , P.12 , Q.10 , TP.HCM - ĐT : 8629218 .
+ĐÔNG_HẢI

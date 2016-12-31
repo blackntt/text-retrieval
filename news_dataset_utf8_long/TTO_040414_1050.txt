@@ -1,0 +1,20 @@
+﻿76 mẹo vặt trong Windows: Bắt đầu thuận lợi (Phần VI)
+
+Trước tiên cài tất cả các ứng dụng của bạn trên máy mới, sau đó chọn Start, All Programs, Accessories, System Tools, Files and Settings Transfer Wizard, và thực hiện theo các chỉ dẫn (xem hình 7). 
+46.(XP) Đừng quên khi có số lượng thư lớn: 
+Nếu bạn chọn Setting only khi chạy Files and Settings Transfer Wizard và sử dụng đĩa mềm để di chuyển các cài đặt. Windows chỉ chuyển các thư trong Outlook Express khi số lượng thư có thể chứa hết trong đĩa. Hãy sử dụng các đĩa có dung lượng lớn hơn sao cho nó có thể chứa tất cả các thư điện tử hiện có trên máy của bạn. 
+47.(All) Sử dụng tất cả các tính năng mà hệ điều hành cung cấp cho bạn: 
+Không phải tất cả các công cụ hay tiện ích nào của Windows mà bạn cần đều được cài đặt trên máy tính. Mở bất kỳ cửa sổ thư mục hoặc Explorer, sau đó nhập vào thanh Address nội dung Control Panel\ Add/Remove Programs (nếu bạn dùng Windows 98, 2000 hoặc Me) hay Control Panel\ Add or Remove Programs nếu dùng Windows XP. Nhấn vào nút Windows Setup hoặc Add.Remove Windows Components, chọn một thành phần, và nhấn nút Details (nếu có). Bạn có thể nhấn vào nút Details thêm lần nữa để thấy thêm một số thành phần con. Chọn các thành phần mà bạn muốn cài đặt. Có thể bạn sẽ được yêu cầu chèn đĩa Windows CD vào trong khay đĩa để cài đặt các thành phần được chọn. 
+48.(2K, ME, XP) Tăng tốc độ cho các ổ đĩa của bạn: 
+Để tạo shortcut thực hiện chức năng làm sạch ổ đĩa của bạn theo cách mà bạn muốn, chọn Start, Run và đánh vào câu lệnh cleanmgr/sageset:, sau đó nhập vào một số từ 0 đến 65535, rồi nhấn Enter (số nhập vào biểu diễn cho chức năng mà bạn muốn chọn. Chọn các cài đặt mà bạn muốn rồi nhấn OK. Để tạo một shortcut thực hiện chức năng Disk Cleanup, nhấn chuột phải trên Desktop hoặc trong một thư mục và chọn New, Shortcut. Trong ô nhập liệu, đánh vào lệnh cleanmgr /sagerun:x (thay x bằng số mà bạn nhập vào ở trên), sau đó thực hiện các hướng dẫn để hoàn thành việc tạo shortcut. 
+49.(2K, ME, XP) Cập nhật tự động: 
+Để tự động thực hiện tiện ích Windows Update trong Windows XP. Nhấn chuột phải vào My Computer, chọn Properties, và nhấn chọn thẻ Automatic Updates. Trong Windows 2000 và XP, chọn Keep my computer up to date. Trong các phiên bản còn lại, chọn một trong tùy chọn được đưa ra (xem hình 8). 
+50. (ME, XP) Bỏ các cập nhật tự động: 
+Windows tạo ra một điểm phục hồi trước khi nó thực hiện việc cập nhật. Xem lại mục 24 để thấy các hướng dẫn bắt đầu System Restore. Trên màn hình Select a Restore Point, chọn ngày cập nhật, chọn điểm phục hồi trước khi có cập nhật này, chọn Next, và thực hiện theo chỉ dẫn. 
+51.(98, 2K) Thêm tiện ích cập nhật: 
+Phiên bản Windows 98 và 2000 trước Service Pack 3 cần tiện ích Windows Critical Update Notification đề kiểm tra các phần đã được cập nhật tự động. Nhấn đúp chuột lên biểu tượng Scheduled Tasks trong khay hệ thống hoặc trong Control Panel. Nếu tiện ích chưa có ở đó, vào trang windowsupdate.microsoft.com, chọn Pick updates to install, sau đó chọn Critical Updates and Service Packs. Tìm và chọn tiện ích này. 
+52. (All) Cập nhật bằng tay: 
+Để làm mới Windows theo cách củ, bạn sẽ tự tìm các miếng vá có sẵn để cập nhật: chọn Start, Windows Update or Start, All Programs, Windows Update và thực hiện các hướng dẫn tại trang Windows Update. 
+Còn nữa
+
+BẢO TOÀN

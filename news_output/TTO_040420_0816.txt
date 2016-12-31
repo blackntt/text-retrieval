@@ -1,0 +1,5 @@
+﻿ Chế_tạo robot quay_phim đầu_tiên tại VN
+Đây là robot dạng chuyên_dụng , đáp_ứng yêu_cầu kỹ_thuật theo công_nghệ “ phim_trường ảo ” ( diễn_viên diễn_xuất được ghi_hình trên nền phông thuần sắc ; phần cảnh thật không có diễn_viên diễn_xuất được ghi_hình ở một nơi khác ) .
+Theo PGS-TS Lê_Hoài_Quốc - chủ_nhiệm bộ_môn kỹ_thuật điều_khiển tự_động khoa cơ_khí ĐH Bách_khoa TP.HCM - robot này có khả_năng tự_động điều_khiển quá_trình quay_phim theo một chương_trình máy_tính được lập_trình trước .
+Bước_đầu robot này đang được cơ_quan thường_trú Đài_truyền_hình VN tại TP.HCM đưa vào thử_nghiệm như một cần_cẩu quay_phim ( boom ) thông_thường , sau đó sẽ xúc_tiến các thử_nghiệm tiếp_theo trong trường_quay .
+QUỐC_THANH

@@ -1,0 +1,7 @@
+﻿ Sắp có chip tiêu tốn chưa đến 1 watt điện_năng
+Tập_đoàn sản_xuất chip số_một thế_giới vừa tuyên_bố trong quý II năm nay sẽ tung ra thị_trường một loại chip lõi kép dành cho máy_tính_xách_tay chỉ tiêu_thụ 0,75 watt điện .
+Phát_biểu tại Triển_lãm Computex tổ_chức hôm_qua ( 6/6 ) tại Đài_Loan , Phó_giám_đốc Intel_Anand_Chandrasekher cho_biết , HP , Dell và một_số công_ty bán_lẻ khác đang phát_triển các dòng máy_tính_xách_tay sử_dụng con chip này .
+Laptop vẫn là thị_trường rất quan_trọng đối_với chip của Intel , theo ông Chandrasekher , ngược_lại với suy_đoán của nhiều người , doanh_số của máy_tính_xách_tay sẽ tăng nhanh hơn các thiết_bị cầm tay khác , như điện_thoại_di_động , máy nghe nhạc i Pod của Apple .
+Ông này cũng nhấn_mạnh , các loại chip tiêu_hao ít điện_năng sẽ là một sự lựa_chọn hoàn_hảo cho các máy_tính cầm tay chạy trên nền máy_tính siêu di_động ( UMPC ) của Microsoft .
+Tuyên_bố này của Intel làm đối_thủ sản_xuất chip Đài_Loan VIA Technologies bất_ngờ . Chip C7 - M giá rẻ , sử_dụng ít điện_năng của VIA cũng đã tiếp_cận đến các thiết_bị cầm tay , như PaceBlade Easy_Book E7 .
+N . H_Theo VNuNet

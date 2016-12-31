@@ -1,0 +1,16 @@
+﻿Danh bạ 4 triệu số cho điện thoại di động
+
+Cũng như các tiện ích trước đây, tiện ích này chỉ có thể chạy được trên các dòng máy dùng hệ điều hành Symbian s60, UIQ. Nhóm làm tiện ích này cho biết, hiện nay sản phẩm chỉ mới hoàn tất giai đoạn 1, tích hợp tất cả số điện thoại có trong danh bạ điện thoại do Tổng công ty Bưu chính viễn thông (VNPT) phát hành. Dự kiến, vào cuối tháng 5-2005, nhóm sẽ hoàn tất việc tự động hiển thị thông tin số gọi đến. 
+Tiện ích này hiện nay được cung cấp miễn phí. Bạn đọc quan tâm có thể liên hệ các siêu thị điện thoại để cài đặt. Tiện ích cho phép bạn chọn lựa các tỉnh thành cần thiết để cài đặt, sau đó gọi điện thoại đến số 08-715 5323 để xin số serial. 
+Hoặc bạn có thể tải về và cài đặt theo hướng dẫn. Nhưng trước tiên để cài đặt danh bạ điện thoại, bạn cần có máy tính và đầu đọc thẻ nhớ. Sau đó khi có đầy đủ đồ nghề, bạn rút thẻ nhớ ra khỏi máy điện thoại và tiến hành cài đặt theo các bước sau: 
+- Đối với dòng máy dùng hệ điều hành Symbian UIQ (Sony Ericsson P900), bạn nhấn vào đây để tải về tiện ích danh bạ , nếu máy chưa cài font tiếng Việt thì nhấn vào đây để tải về bộ font . 
+- Đối với dòng máy dùng hệ điều hành Symbian s60, nhấn vào đây để tải về tiện ích danh bạ và font tiếng Việt . 
+- Đối với dòng máy dùng hệ điều Symbian s7, nhấn vào đây để tải về tiện ích danh bạ và font tiếng Việt . 
+- Riêng dữ liệu số điện thoại, bạn có thể nhấn vào đây để tải về các thành phố lớn: TP.HCM (16MB) , Hà Nội (10MB) , hoặc toàn quốc (khoảng 80MB) . 
+Khi đã tải về đầy đủ, bạn tiến hành cài đặt như sau: 
+- Dòng máy Symbian UIQ, chép 2 file có đuôi .sis (danh bạ và font) cùng với file dữ liệu thành phố, tỉnh mà bạn muốn cài vào thẻ nhớ của máy điện thoại. Sau đó bạn gắn thẻ nhớ vào máy, dùng tiện ích filenanager trên máy di chuyển đến thẻ nhớ có chứa các tập tin vừa chép nhấn install để tiến hành cài đặt. Sau khi cài đặt thành công bạn khởi động lại máy điện thoại. 
+- Đối với dòng máy dùng Symbian s60 hoặc s7 bạn nhấn vào đây để tải về tiện ích giải nén dữ liệu (.sis) thành file .dat. Chép file .dat này vào thư mục system/data/kpd vừa cài đặt. 
+Sau đó bạn kích hoạt biểu tượng danh bạ, tiện ích sẽ yêu cầu bạn nhập key. Bạn cần cung cấp số IMEI hiện trên máy (cho từng loại dữ liệu), nhà cung cấp (Công ty Kobe~) sẽ cho bạn Key để mở khóa. 
+Chúc bạn thành công!
+
+ĐÔNG HẢI

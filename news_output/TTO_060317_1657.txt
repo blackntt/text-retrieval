@@ -1,0 +1,9 @@
+﻿ Phát_hiện protein chủ_chốt ở virus H5N1
+Đây là phát_hiện quan_trọng giúp các nhà_khoa_học giám_sát hiệu_quả sự biến_đổi gen của virus H5N1 và cảnh_báo sớm nguy_cơ virus này có những biến_đổi để lây_nhiễm từ người sang người .
+Trong một nghiên_cứu công_bố trên tạp_chí Khoa_học xuất_bản trên mạng ngày hôm_qua ( 16-3 ) , các nhà_khoa_học tại Viện nghiên_cứu Scripps ( Mỹ ) cho_biết họ đã xác_định được cấu_trúc của protein hemagglutinin . Đây là protein cho_phép virus cúm_gia_cầm xâm_nhập vào các tế_bào chủ , kháng_nguyên đầu_tiên trên bề_mặt virus cúm .
+Các nhà_nghiên_cứu đã chụp hình_ảnh và phân_tích protein này sau khi phân_lập một mẫu virus H5N1 từ một bé trai Việt_Nam tử_vong vì cúm_gia_cầm vào năm 2004 .
+Theo các nhà_nghiên_cứu , protein hemagglutinin bám trên các thụ quan tế_bào khác_nhau ở gia_cầm và dạng cúm ở người , điều này có_thể giải_thích vì_sao đa_số virus cúm_gia_cầm không lây_lan từ người sang người .
+Hiện_nay , chỉ có 3 loại virus cúm_gia_cầm có khả_năng gây ra đại_dịch cúm ở người , đó là H1N1 , H2N2 và H3N2 . Ba loại virus này đã từng gây ra các đại_dịch vào năm 1918 , 1957 và 1968 khiến hàng chục_triệu người trên thế_giới thiệt_mạng sau khi hemagglutinin của chúng trở_nên thích_nghi với cộng_đồng con_người .
+Các nhà_khoa_học đã phát_hiện mặc_dù hemagglutinin của virus H5N1 trông rất giống với hemagglutinin của virus H1N1 , các biến_thể này không tạo ra được loại virus thích_hợp với thụ quan của con_người .
+Tuy_nhiên , các nhà_khoa_học cũng lưu_ý một_số biến_thể này có_thể khiến hemagglutinin của virus H5N1 gắn_kết với các tế_bào biểu mô phổi của con_người , khiến cho nó “ có chỗ_đứng ” trong cộng_đồng con_người .
+T.VY ( Theo Xinhua )

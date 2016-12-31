@@ -1,0 +1,5 @@
+﻿ Intel giới_thiệu thiết_bị điều hợp máy_tính dùng cho dịch_vụ VoIP
+Kết_hợp khả_năng ứng_dụng của máy_tính , tính phổ_biến của điện_thoại và giá_trị của các dịch_vụ VoIP , sản_phẩm này tạo ra những cơ_hội hạ thấp chi_phí điện_thoại , nâng cao hiệu_suất làm_việc , tăng_cường khả_năng cộng_tác và cải_thiện chất_lượng thoại .
+Với bộ điều hợp Intel 600SM PCI Phone_Adapter , người sử_dụng không còn bị bó_buộc vào hệ_thống máy_tính khi sử_dụng các dịch_vụ VoIP , cũng không cần phải mua các thiết_bị phần_cứng hay phần_mềm bổ_sung hay cũng không cần các kiến_thức kỹ_thuật để lắp_đặt và vận_hành VoIP , các hệ_thống máy_tính trở_thành một điểm cuối dễ_dàng kết_nối mạnh cho các cuộc_gọi từ máy_tính hay từ các tổng_đài PSTN sử_dụng một nền_tảng điện_thoại analog chuẩn .
+Bộ điều hợp Intel 600SM PCI Phone_Adapter phù_hợp với các nhà_cung_cấp dịch_vụ VoIP hàng_đầu thế_giới như engin , Packet8 , Skype và yak .
+H . N .

@@ -1,0 +1,8 @@
+﻿Thư rác ảnh dễ “qua mặt” bộ lọc spam
+
+Các chuyên gia spam bắt đầu nhận thấy e-mail chèn ảnh và không chứa bất cứ ký tự nào có thể dễ dàng đánh lừa công cụ bảo mật, vốn chỉ tìm kiếm và chặn lại thông điệp dựa trên những cụm từ đáng nghi. 
+ Thay vì một đoạn giới thiệu quảng cáo, người sử dụng sẽ thấy file ảnh có đuôi .gif hoặc .jpeg với nội dung khuyến khích họ mua dược phẩm hoặc đầu tư cổ phiếu. 
+Theo hãng chuyên cung cấp công cụ chống spam Cloudmark (Mỹ), một nửa số thư rác họ vừa nhận chỉ có hình ảnh. "Chúng tôi chứng kiến hiện tượng này từ hơn một năm trước, nhưng các công ty bảo mật chỉ bắt đầu nhìn nhận nghiêm túc vấn đề trong khoảng 6 tháng gần đây", chuyên gia Adam O'Donnell của Cloudmark cho biết. 
+Công ty IronPort Systems (Mỹ) cũng khẳng định spam ảnh đã tăng vọt từ 1% trong tháng 6/2005 lên 12% tháng này. Tổng số thư rác được gửi đi mỗi ngày cũng tăng 40% từ tháng 4, tương ứng 55 tỷ thông điệp mỗi ngày. 
+Một trong những thủ thuật mà spammer áp dụng để đảm bảo e-mail của họ luôn xuất hiện trong Inbox là liên tục mua tên miền mới. Trong số 35 triệu tên miền được đăng ký tháng 4, có tới 32 triệu domain không được thanh toán và đã hết hạn sau 5 ngày. Mánh khóe này khiến các công ty bảo mật rất khó thiết lập "danh sách đen" địa chỉ e-mail rác. 
+Theo T.N. VnExpress/PC World

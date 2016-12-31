@@ -1,0 +1,8 @@
+﻿Các hãng Nhật hợp tác sản xuất chip 45 nm
+
+Toshiba, NEC, Fujitsu và Renesas Technology đã thỏa thuận chuẩn hóa công nghệ và xây dựng chip theo kỹ thuật 45 nanometer với hy vọng đủ sức cạnh tranh cùng những đối thủ lớn như Intel. 
+Hầu hết các nhà máy chip trên thế giới hiện nay đều sản xuất bộ vi xử lý theo dây chuyền 90 nm. Kích thước vi mạch nhỏ hơn sẽ giúp tăng số bóng bán dẫn và giảm diện tích chip những vẫn đảm bảo được tốc độ truyền dữ liệu nhanh. 
+Chi phí sản xuất theo công nghệ mới cũng thấp hơn và điều này sẽ có lợi cho ngành công nghiệp. Hiện nay, giá thành thiết bị hỗ trợ phát triển và sản xuất chip khá cao do sự phức tạp ngày càng tăng của mạch bán dẫn 
+Đa số các nhà quan sát tán thành ý tưởng hợp tác của bốn hãng sản xuất Nhật Bản nhằm đối đầu với những đối thủ lớn, trong đó có Intel, Samsung và Texas Instruments. Tuy nhiên, một số chuyên gia phân tích lại nghĩ rằng liên minh này rồi sẽ chẳng đi đến đâu. Tờ nhật báo kinh tế Nihon Keizai Shimbun khẳng định kế hoạch trên sẽ đổ vỡ trước khi người ta có thể sinh lợi từ nó.
+
+Theo VNExpress

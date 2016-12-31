@@ -1,0 +1,6 @@
+﻿ Cân bă ̀ ng âm_thanh ca ́ c tâ ̣ p tin Audio
+Tính_năng chính của chương_trình là chuyển_đổi giữa các định_dạng âm_thanh thông_dụng với nhau như : MP3 , Wav , WMA , OGG nhưng chính tính_năng Normalize ( cân_bằng âm_thanh ) mới tạo ra sự khác_biệt với các sản_phẩm cùng loa ̣ i .
+Cách sử_dụng : bạn hãy nhấn nút Add_File và chọn những tập_tin âm_thanh . Sau đó chọn định_dạng cần chuyển_đổi trong phần Output_Format . Cuối_cùng là nhấn vào nút Convert để chương_trình thực_hiện quá_trình chuyển_đổi hoặc nhấn nút Normalize để cân_bằng chất_lượng âm_thanh cần chuyển_đổi .
+Bạn cũng có_thể vào phần Setting để hiệu_chỉnh các thông_số về định_dạng MP3 , WAV , WMA hay OGG tùy theo nhu_cầu sử_dụng của bạn . Hoặc bạn muốn thêm thông_tin về một tập_tin âm_thanh nào_đó thì bạn có_thể nhấn nút Tag_Edit .
+Chương_trình được cung_cấp tại website : http : / / www.cd-to-mp3-converter.com / với dung_lượng khỏang 2,74 MB , tương_thích với các hệ_điều_hành Windows XP .
+GIANG_VŨ_VĂN

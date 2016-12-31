@@ -1,0 +1,11 @@
+﻿ Giấu thông_điệp bí_mật trong file ảnh số , nhạc số !
+Công_cụ Secret_Media sẽ giúp bạn thực_hiện điều này dễ_dàng . Để gài một thông_điệp bí_mật vào file MP3 , bạn thực_hiện như sau :
+- Step 1 : Chọn “ Create ” và nhấn Next .
+- Step 2 : Chọn “ Select_File ” để tìm đến file MP3 hoặc file ảnh số cần dùng để giấu thông_điệp , rồi nhắp đúp hoặc chọn “ Open ” .
+- Step 3 : Nhập vào một password mà bên gửi và bên nhận đã thỏa_thuận trước .
+- Step 4 : Nhập vào thông_điệp bí_mật vào ô soạn_thảo hoặc dán vào thông_điệp đã soạn sẵn . Lưu_ý : Secret_Media chỉ tương_thích với font VNI .
+- Step 5 : Nhấn “ Save ” , chọn cách lưu là “ Graphic_Files ” nếu bạn giấu thông_điệp trong file ảnh số , hoặc “ Audio_Files ” nếu lưu trong file MP3 .
+File MP3 hoặc ảnh số mà bạn đã giấu thông_điệp mật vẫn có_thể “ hát ” hoặc hiện ra bình_thường với chất_lượng không hề thay_đổi . Để giải_mã thông_điệp giấu trong file , máy_tính của bạn bắt_buộc cũng phải cài_đặt chương_trình Secret_Media . Cách mở cũng rất đơn_giản , bạn chỉ cần chọn “ View ” trong Step 1 và thực_hiện mọi thứ chính_xác cho_đến Step 4 là thông_điệp mật sẽ hiện ra trong giao_diện văn_bản của Secret_Media .
+Secret_Media tương_thích với ba định_dạng ảnh số_là JPG , GIF , BMP và tương_thích với ba định_dạng nhạc số_là MP3 , WMA , WAV .
+Hiện_Công ty Direct_Logic_Solutions đang bán ra bản Secret_Media 3.0.0 với giá 30 USD . Người dùng có_thể vào http : / / www2.freedownloadscenter.com/FDM/install.php3 ? url = http : / / www.directlogic.com/download/smsetup.exe & amp ; ref = http : / / www.freedownloadscenter.com/Utilities/File _ Encryption _ Utilities/Secret _ Media _ Download.html & amp ; tit = Secret % 20Media để tải về bản dùng thử . Hoặc có_thể tìm ở các cửa_hàng phần_mềm .
+THỤY_KHANH

@@ -1,0 +1,13 @@
+﻿Khởi động nhanh Adobe Photoshop
+
+Việc mở Photoshop bao giờ cũng là “nỗi muộn phiền” cho người dùng, do phải chờ (có khi kéo dài tới vài phút) để chương trình duyệt và tải lên đầy đủ các tiện ích, những tiện ích mà có khi chẳng bao giờ bạn dùng đến nó. Photoshop SpeedUp sẽ giải quyết vấn đề này. 
+ 
+Chương trình này có dung lượng khoảng 300KB, tương thích với mọi phiên bản của Windows. Bạn có thể tải chương trình tại: http://www.acropdf.com:80/photosu.exe 
+Sau khi tải về bạn click chuột vào file Photosu để chạy nó. Trong cửa sổ Where Adobe Photoshop is Installed , trong mục Install Directory bạn nhập đường dẫn đến thư mục cài đặt chương trình Photoshop của bạn bấn OK. Trong màn hình mới, một loạt các tiện ích của Adobe Photoshop sẽ được liệt kê để bạn tham khảo. Bỏ chọn Do not load Cmap and Base và Do not load Photoshop Preset , hạ thấp dung lượng bộ nhớ mà Adobe Photoshop sẽ dùng khi chạy trong máy của bạn xuống giá trị thấp nhất là 25%. Cuối cùng bấm Optimize/Yes . Chuột phải vào các tùy chọn còn lại và chọn Remove all/yes . 
+Bây giờ bạn thử mở Adobe Photoshop xem sao, chắc chắn bạn thấy hài lòng hơn rất nhiều với tốc độ khởi động nhanh chóng của nó. 
+Nếu bạn thấy chưa hài lòng và bạn đang sử dụng Photoshop CS2 (phiên bản mới nhất), bạn hãy tiếp tục mở nó thêm lần nữa, mỗi lần bạn nhập một đường dẫn trong danh sách dưới đây và thực hiện tương tự như hướng dẫn lúc đầu để tối ưu hóa Adobe Photoshop của bạn. 
+C:\Program files\Adobe\Adobe Bridge 
+C:\Program files\Adobe\Adobe Help Center 
+C:\Program files\Adobe\Adobe Stock Photos 
+C:\Program files\Adobe\Adobe Utilities 
+Sau những bước này Photoshop của bạn sẽ khởi động nhanh hơn lúc nào hết. Chúc các bạn thành công. Hoa Đào

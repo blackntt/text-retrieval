@@ -1,0 +1,3 @@
+﻿ Học_sinh hệ THCN bỏ học nhiều
+( NLĐ ) - Ngày 19-11 , Trường ĐH Bán_công Tôn_Đức_Thắng trao bằng tốt_nghiệp cho 257 học_sinh khóa 2 hệ THCN thuộc 5 ngành : kế_toán , điện công_nghiệp và dân_dụng , điện_tử - viễn_thông , tin_học , thiết_kế đồ_họa . So với đầu_vào của khóa này là 1.091 học_sinh thì tỉ_lệ tốt_nghiệp chỉ đạt 23,56% . Trong đó , ngay sau năm_học thứ nhất , chỉ có 716 học_sinh còn học , đạt tỉ_lệ 65,6% so với đầu_vào . Tỉ_lệ học_sinh hệ THCN bỏ học nhiều là tình_hình chung của các trường ĐH ngoài công_lập có đào_tạo hệ THCN .
+D.Hằng

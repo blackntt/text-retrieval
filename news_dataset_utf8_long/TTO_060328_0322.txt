@@ -1,0 +1,11 @@
+﻿Cẩm nang tuyển sinh trực tuyến của Tuổi Trẻ Online
+
+Bằng cách chọn các thông số về nhóm ngành, hệ đào tạo, khối thi, thành phố... thí sinh sẽ nhận được kết quả về tất cả các ngành học phù hợp với tiêu chí đưa ra tại toàn bộ các trường ĐH, CĐ ở VN. 
+Thí sinh có thể click chọn vào các ngành học này để tham khảo thông tin chi tiết về mã ngành, yêu cầu tuyển sinh, chỉ tiêu tuyển sinh, mục tiêu đào tạo của ngành, định hướng nghề nghiệp sau khi ra trường... 
+Chẳng hạn: một thí sinh có nguyện vọng thi vào ngành công nghệ sinh học nhưng không biết những khoa nào, trường ĐH nào có đào tạo ngành này, điểm chuẩn năm trước của ngành này ra sao, ngành này thi khối gì, ngành này học những gì, học ngành này ra làm gì... sẽ có thể sử dụng phần mềm này để tìm kiếm và lựa chọn nơi học thích hợp nhất cho mình. 
+Đặc biệt, phần mềm có chức năng cho phép người dùng so sánh các ngành với nhau. Cụ thể, thí sinh có thể chọn một số ngành học tại một số trường mà mình quan tâm rồi bấm nút "so sánh". Chương trình sẽ lập bảng so sánh chi tiết các ngành đó để thí sinh có thể tham khảo cho việc chọn lựa của mình. 
+Có thể nói, phần mềm "chọn trường" của Tuổi Trẻ Online thật sự là một cuốn "cẩm nang tuyển sinh online" do có cơ sở dữ liệu phong phú hơn rất nhiều so với nội dung của cẩm nang tuyển sinh do Bộ GD-ĐT phát hành. 
+Sắp tới, Tuổi Trẻ Online sẽ tiếp tục cập nhật vào phần mềm này danh sách các trường trung học chuyên nghiệp và các thông tin mô tả chi tiết liên quan đến đội ngũ giảng viên, mức sinh hoạt phí... của mỗi trường. 
+Bạn đọc quan tâm có thể truy cập phần mềm này tại địa chỉ: www.tuoitre.com.vn/tuyensinh .
+
+HOÀNG HỒNG

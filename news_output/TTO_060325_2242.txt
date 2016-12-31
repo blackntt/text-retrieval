@@ -1,0 +1,12 @@
+﻿ Microsoft chuẩn_bị cho sự thay_đổi IE
+Người dùng trình_duyệt sẽ nhận thấy một_số thay_đổi nhỏ trong trình_duyệt có_thể làm thay_đổi những thói_quen trong việc duyệt web . Đó là do Microsoft đã thay_đổi cách_thức mà trình_duyệt quản_lý những tập_tin hình động như flash và Quicktime . Những thay_đổi này không ngoài mục_đích bảo_mật , giúp cho trình_duyệt an_toàn hơn .
+Ngoài_ra phiên_bản trình_duyệt lần này cũng cập_nhật một_số lỗi về quản_lý ActiveX . Trình_duyệt sẽ bắt_buộc bạn phải click lên một icon xác_nhận khi truy_xuất vào các tập_tin hình động như Flash và Quicktime .
+Và cải_tiến quan trong nhất , ra_đời từ sự hợp_tác giữa Microsoft , Adobe và Apple chính là rất nhiều mã điều_khiển của các chương_trình của Adobe và Apple sẽ không chịu sự kiểm_duyệt của IE . Điều này làm nâng cao tính tiện_dụng và thân_thiện của IE . Tuy_nhiên vẫn ẩn_chứa rất nhiều nguy_cơ bảo_mật mới .
+Một trong những công_tác cũng không kém phần quan_trọng cho quá_trình nâng_cấp , chính là việc hỗ_trợ kỹ_thuật cho các nhà_phát_triển web . Microsoft có truyền_thống làm khá tốt công_việc này .
+Adobe , Apple cũng cho ra_đời các website cung_cấp thông_tin và các hỗ_trợ cần_thiết cho sự thay_đổi này .
+Bạn_đọc quan_tâm có_thể vào các website sau để biết thêm thông_tin :
+IE Update_Active X
+Website hỗ_trợ của Adobe
+Website hỗ_trợ của Apple
+Thông_tin thêm về một_số ActiveX được sửa_chữa từ MSDN
+TRẦN_HUY ( tổng_hợp )

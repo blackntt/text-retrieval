@@ -1,0 +1,7 @@
+﻿Lỗi bảo mật từ FireFox bị khai thác
+
+Hai đoạn mã khai thác lỗi đã được phát tán vào đầu tuần này, làm tăng nguy cơ bảo mật đối với người dùng FireFox. Đoạn mã có thể được dùng để điều khiển máy tính đang sử dụng FireFox 1.5 trên nền Linux hay MacOS X. Nó được phát tán như là một phần của Metasploit Framework , một công cụ khai thác lỗi. 
+“Mã khai thác này được công bố sau khi chúng tôi phát hành bản cập nhật 1.5.0.1 và hầu hết người dùng đã nâng cấp bản vá lỗi ngay sau khi nó được tung ra”, Mike Schroepfer, phó chủ tịch kỹ sư tại Mozilla cho biết. 
+Hãng bảo mật Secunia cũng đã đánh giá lỗi này ở mức độ nguy hiểm rất cao. Mozilla khuyến cáo người dùng nên tải hoặc nâng cấp phiên bản 1.5.0.1 mới nhất đã vá lỗi. Người dùng quan tâm có thể tham khảo các lỗi bảo mật FireFox được công bố trên website của Mozilla.
+
+TUYẾT PHẤN (Theo ZDNet)

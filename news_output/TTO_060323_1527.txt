@@ -1,0 +1,5 @@
+﻿ Website về thời_tiết nguy_hiểm
+Website nhằm phổ_biến đến người_dân những kiến_thức về các hiện_tượng khí_tượng_thủy_văn nguy_hiểm cho cộng_đồng để mọi người nâng cao hiểu_biết đối_phó với thiên_tai .
+Tại website , người truy_cập có_thể tìm được các thông_tin như bản_đồ phân_bố và tần_suất xuất_hiện các hiện_tượng khí_tượng_thủy_văn nguy_hiểm gồm bão , dông , tố , lốc , sương_mù , sương_muối , lũ_lụt , lũ_quét , gió khô nóng , không_khí lạnh …
+Ngoài_ra , trang_web cũng thường_xuyên cập_nhật những tin_tức về tình_hình thời_tiết nguy_hiểm ở các vùng trên cả nước .
+KHIẾT_HƯNG

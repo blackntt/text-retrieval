@@ -1,0 +1,10 @@
+﻿Tấn công bằng IM tăng kỷ lục 500%
+
+Công ty quản lý tin nhắn tích hợp Postini vừa tiết lộ trong tháng 5 vừa qua họ đã ghi nhận số vụ tấn công bằng dịch vụ Instant messenger tăng kỷ lục. Điều này chứng tỏ tin tặc đang tìm cách nắm bắt cơ hội tấn công các mạng IM để chiếm quyền kiểm soát PC người dùng. 
+ 
+Postini đã ghi nhận được rất nhiều virus và sâu IM, như Browaf, Tilebot và Khoobe. Các loại sâu này thâm nhập vào hệ thống máy tính của mục tiêu. 
+Theo công ty này, các doanh nghiệp cần phải bảo đảm mạng IM an toàn hơn để không bị tấn công dễ dàng. Số vụ đột kích bằng IM trong doanh nghiệp đã tăng 138% trong tháng qua. 
+“Thống kê này cho thấy giới hacker đã nhận thấy sự sơ hở của các tổ chức, chưa bảo vệ mạng IM để tránh sự xâm nhập của phần mềm ma (malware). Do đó, những tội phạm mạng này đã lựa chọn IM như là một cách để “tiếp cận” với người dùng”, Andrew Lochart, Phó giám đốc marketing của Postini, cho biết. 
+Tuy nhiên, theo ông Lochart, các cuộc tấn công bằng IM vẫn chỉ bằng một phần rất nhỏ so với xu hướng phát tán virus qua e-mail. Các công ty cần phải cảnh sát cả hai chiêu tấn công này. 
+Postini đã xử lý hơn 25 triệu e-mail trong tháng 5, tăng 13% so với tháng 4, trong đó, có tới 86% chứa nội dung độc hại. 
+S.Hương Theo VNuNet

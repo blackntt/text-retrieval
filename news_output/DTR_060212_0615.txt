@@ -1,0 +1,19 @@
+﻿ Dấu_hiệu PC nhiễm virus
+Virus PC mang đến nhiều tác_hại . Chúng có_thể làm đơ hoặc treo máy , đánh_cắp hoặc phá_huỷ dữ_liệu ... Nói_chung , giống như virus sinh_học , chúng làm cho PC của bạn từ khoẻ trở_thành ốm . Dưới đây là những dấu_hiệu cho_biết PC đang bị virus xâm_nhập .
+Đa_phần những người ngại đi chơi xa sẽ chọn Internet là địa_chỉ du_xuân vào mấy ngày nghỉ Tết . Vì_thế , một cảnh_báo nhỏ nhưng quan_trọng bạn đừng quên : Virus .
+Virus có_thể lây_nhiễm vào máy_tính khi bạn lướt net , mở e - mail , hoặc khi mở một chương_trình mới download nào_đó . Hoặc khi bạn trao_đổi dữ_liệu với người khác thông_qua các phương_tiện lưu_trữ di_động ( đĩa_mềm , CD , Flash_Disk , thẻ nhớ ) , môi_trường mạng máy_tính ... Làm thế_nào để phát_hiện ra sự đột_nhập của chúng ? Những dấu_hiệu bất_thường của hệ_thống sẽ là cơ_sở để bạn đặt ra nghi_vấn , để rồi sau đó chạy các chương_trình chống virus tống_cổ chúng ra , trả lại sự bình_yên cho hệ_thống của bạn .
+- Máy_tính vẫn hoạt_động ngon_lành mấy hôm trước , nhưng hôm_nay Windows cứ hay bị “ rối_loạn ” , làm cho máy_tính cứ bị treo thường_xuyên khi đang sử_dụng .
+- Các chương_trình , game đang sử_dụng bỗng_nhiên bị thoát ra ngoài thật khó hiểu , không một lời báo trước .
+- Windows cứ luôn đưa ra thông_báo các tập_tin hệ_thống nào đấy bị lỗi , hoặc không tìm thấy mặc_dù bạn chẳng hề “ đụng_chạm ” đến chúng .
+- Hệ_thống máy_tính của bạn đang chậm dần , hoạt_động ngày_một ì_ạch .
+- Ổ_cứng của bạn bị đầy lên một_cách nhanh_chóng bất_thường , dù_rằng bạn không hề sao_chép dữ_liệu mới nào hoặc cài_đặt chương_trình mới nào .
+- Ổ_cứng bị lỗi , chạy scan - disk thấy báo quá nhiều bad sector .
+- Một_số chương_trình đang dùng không_thể mở được dù bạn kích_hoạt trực_tiếp file thực_thi ( . exe ) của chương_trình đó .
+- Khi mở bất_kỳ thư_mục nào ( kể_cả thư_mục con của nó ) trong các ổ_đĩa , bạn đều thấy sự hiện_diện của các file Folder.htt và Desktop.ini .
+- Khi đang truy_nhập Internet , tốc_độ duyệt web của trình_duyệt chậm đi rõ_rệt .
+- Modem ( dial-up ) có hiện_tượng quay số lại - khi đó bạn sẽ nghe modem phát ra tiếng rít , đèn LED đỏ ở hộp đấu dây điện_thoại cứ nhấp_nháy liên_tục .
+- Bạn liên_tục bị làm_phiền bởi những trang_web quảng_cáo không lành_mạnh cứ tự_động bật ra ( pop-up ) giữa màn_hình khi đang lướt web . Trang_chủ ( Home_Page ) của trình_duyệt web tự_nhiên bị thay bằng một trang_web không rõ ở đâu ra ? Trang_web tìm_kiếm , trang_web bạn thường_xuyên vào nay lại được chuyển sang một trang_web lạ_hoắc .
+- Trình_duyệt Internet của bạn cũng tự_nhiên có thêm những nút bấm , công_cụ lạ trên Toolbars .
+- Đang truy_cập các website sử_dụng font chữ Việt có dấu bỗng_dưng bạn thấy toàn_bộ font chữ Việt có dấu trên trang_web đều bị biến_dạng kỳ_lạ .
+- Bạn không_thể_nào đăng_nhập được vào chương_trình e - mail thường dùng vì password gõ vào không được chương_trình chấp_nhận ( vô_hiệu ) , dù bạn đã gõ đi gõ lại nhiều lần thật chính_xác và cũng chưa hề tự thay password mới .
+- Bạn đang truy_cập Internet , bỗng hiện lên bảng thông_báo máy_tính sẽ Shut_Down sau 60 giây . Virus W32.Blaster đang hỏi_thăm và đã cư_trú vào máy_tính của bạn rồi đấy . Theo Người_Lao động

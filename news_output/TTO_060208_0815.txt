@@ -1,0 +1,10 @@
+﻿ Giới_thiệu về thi TOEFL trên Internet ( TOEFL iBT )
+Với loại_hình thi mới này , người học được đánh_giá ở cả bốn kỹ_năng , có kỹ_năng ở dạng tích_hợp như kỹ_năng viết được kiểm_tra ngay trong bài thi nghe và đọc . Ngoài_ra , loại_hình mới này còn giúp nhiều thí_sinh có điều_kiện tiếp_cận với nhiều lần thi hơn so với trước_đây . Đây là loại_hình thi tiềm_năng sẽ được áp_dụng nhiều trong tương_lai .
+Thi TOEFL là loại thi tốc_độ đòi_hỏi thí_sinh phải trả_lời trong thời_gian ngắn nhất . Đối_với từng kỹ_năng , có nhiều nội_dung và cách làm bài khác_nhau mà thí_sinh cần phải_biết và chuẩn_bị kỹ_càng . Ngoài_ra , do nội_dung thi từng loại_hình có khác_nhau nên việc thực_tập với từng loại_hình cũng khác_nhau .
+Cách đây 10 năm , ETS ( Educational_Testing_Service ) , cơ_quan độc_lập tư_nhân tổ_chức các kỳ thi trong hệ_thống giáo_dục Mỹ như TOEFL , GRE , GMAT , SAT ... , đưa ra loại_hình thi TOEFL bằng máy_vi_tính ( Computer-based Test hay TOEFL_CBT ) . Đây là dự_án chiến_lược của ETS với hi_vọng từng bước thay_đổi loại_hình thi giấy bút truyền_thống ( Paper-based Test hay PBT ) . Thực_tiễn không diễn ra như mong_muốn do việc tổ_chức thi bằng máy_vi_tính rất công_phu , tốn_kém và nhiều nơi vẫn chưa tiếp_cận vi_tính dễ_dàng .
+Do_vậy , cho_đến nay tồn_tại song_song ba loại_hình thi TOEFL . Vấn_đề là chuyển_đổi điểm như_thế_nào và điểm_chuẩn được thừa_nhận ra_sao trong các trường đại_học Mỹ . Thông_thường lâu_nay điểm TOEFL được chấp_nhận vào học hệ đại_học ở nhiều trường theo PBT truyền_thống là 500 và vào hệ sau_đại_học với ít_nhất từ 550 trở_lên . Mỗi trường đều có qui_định điểm TOEFL khác_nhau khi nhập_học . Ba loại_hình TOEFL kể trên có tổng điểm theo thang như sau :
+- iBT : từ ít_nhất 0 đến cao nhất_là 120 ( tổng_cộng có bốn phần thi ( kỹ_năng ) , mỗi phần từ 0-30 ) .
+- CBT : từ 0 - 300 ( tổng_cộng có ba phần thi ) .
+- PBT : từ 310 – 677 ( tổng_cộng có ba phần thi ) .
+Như_vậy , điểm 500 ( theo PBT ) sẽ tương_ứng với điểm 173 ( CBT ) và điểm 61 ( iBT ) ; và điểm 550 tương_ứng với điểm 213 ( CBT ) và điểm 79-80 ( iBT ) .
+TS_ĐỖ_HUY_THỊNH

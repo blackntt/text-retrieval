@@ -1,0 +1,10 @@
+﻿IPv4 sẽ “cạn kiệt” vào năm 2012
+
+Theo hãng tư vấn Frost & Sullivan, trong vòng 6 năm tới, cộng đồng Internet toàn cầu sẽ chuyển sang sử dụng giao thức Internet phiên bản 6 (IPv6) vì đến thời điểm này, tài nguyên tên miền IPv4 sẽ “cạn kiệt”. 
+ Sự phổ dụng của điện thoại thông minh, truyền hình trực tuyến (IPTV) và các thiết bị kết nối Internet đang làm giao thức Internet hiện tại nhanh chóng hết tài nguyên . Hơn nữa, chuẩn IPv4 hạn chế các dịch vụ nội dung đa phương tiện và liên kết dữ liệu, như địa chỉ IP cho điện thoại, P2P và các cuộc gọi video. Theo Frost &amp; Sullivan, việc chuyển đổi sang giao thức phiên bản 6 là điều tất yếu. 
+Với chuẩn IPv6 di động mới, các công ty viễn thông có thể dễ dàng triển khai các dịch vụ, từ phim ảnh, nhạc chuông cho đến TV. 
+Theo ước tính của công ty nghiên cứu thị trường IDC, đến năm 2012, sẽ có 17 tỷ thiết bị kết nối Internet. “2012 cũng là thời điểm chuẩn IPv4 hết nguồn tài nguyên địa chỉ web. Đến khoảng năm 2015 và 2020 thì điều này chắc chắn xảy ra”, Sam Masud, nhà phân tích cao cấp của Frost &amp; Sullivan, đồng tình. 
+Mặc dù một số công ty đã rậm rịch chuyển sang chuẩn IPv6 nhưng lại gặp nhiều khó khăn về việc chuyển đổi ứng dụng, quản lý mạng, vận hành và kể cả việc đào tạo nhân viên. 
+Theo Cục quản lý và ngân sách Mỹ, đến giữa năm 2008, tất cả các mạng sẽ phải có khả năng nhận và g ửi các gói dữ liệu IPv6. Tuy nhiên, Viện công nghệ và chuẩn mực quốc gia (NIST) dự đoán, chỉ 30% mạng hỗ trợ chuẩn Internet mới này vào năm 2010, và 6 năm nữa mới có 30% người dùng sử dụng mạng này. 
+Mặc dù IPv4 sẽ không biến mất ngay lập tức nhưng các nhà cung cấp Internet cần phải xây dựng các chiến lược nâng cấp. Tất cả các ứng dụng giao tiếp trên IP sẽ phải điều chỉnh để tương thích với IPv6, ông Masud nhấn mạnh. 
+S.Hương Theo TechWeb

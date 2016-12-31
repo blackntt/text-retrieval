@@ -1,0 +1,8 @@
+﻿Laptop 100 USD “hích” thị phần Linux
+
+Theo Nicholas Negroponte, Giám đốc dự án OLPC (Mỗi học sinh một máy xách tay - One Laptop per Child), sản phẩm điện toán dành cho trẻ em ở các nước nghèo này sẽ thúc đẩy sự phổ biến của Linux trên nền desktop tương tự như trong lĩnh vực máy chủ hiện nay. 
+ “Mục đích của dự án là cung cấp laptop cho học sinh ở những khu vực đang phát triển. Nhưng một lợi ích phụ khác là nó sẽ mở rộng sự hiện diện của hệ điều hành nguồn mở trên môi trường desktop với tốc độ khó tin”, Negroponte dự đoán. 
+Ông cũng thừa nhận phiên bản cuối cùng, chính thức có mặt vào giữa năm sau, sẽ có giá khoảng 140 USD: “Dù sao, chúng tôi cũng là một tổ chức phi lợi nhuận. Chúng tôi đã cố gắng đạt mục tiêu 100 USD nhưng có lẽ mức tối thiểu cũng phải là 135 USD”. 
+Negroponte cho biết, OLPC nhận được rất nhiều sự hỗ trợ từ các công ty như Red Hat và AMD, không phải mọi tổ chức trong ngành công nghệ thông tin đều ủng hộ ông: “AMD là đối tác của OLPC, điều đó đồng nghĩa với việc Intel sẽ nhạo báng chúng tôi. Chủ tịch Microsoft Bill Gates cũng chẳng ưa gì dự án này”. 
+Theo Negroponte, thế giới hiện có khoảng hơn 1 tỷ trẻ em, trong đó một nửa sống tại các khu vực xa xôi hẻo lánh và giáo viên ở đó thậm chí không đủ kiến thức dạy học cơ bản. “Trong trường hợp này, tăng cường giáo viên và trường lớp không phải là biện pháp đúng đắn. Người ta sẽ cần tới vài thập kỷ để phát triển nếu giáo dục theo cách đó. Giải pháp nhanh nhất là khuyến khích trẻ em tự tìm tòi và học hỏi”, Negroponte khẳng định. “Những dự án hỗ trợ trẻ em tiếp cận máy tính trước đây đã thất bại do bọn trẻ coi hệ thống PC này là của chung và cảm thấy không được tự do khám phá”. 
+Theo T.N. VnExpress/CNet

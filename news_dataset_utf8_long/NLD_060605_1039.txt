@@ -1,0 +1,10 @@
+﻿38% doanh nghiệp bí mật giám sát e-mail nhân viên
+
+Một cuộc điều tra mới đây cho thấy hơn 1/3 các công ty lớn ở Mỹ và Anh thuê người đọc và phân tích e-mail nhân viên gửi đi nhằm tránh những nguy cơ về rò rỉ thông tin nhạy cảm nội bộ. 
+Cuộc thăm dò do công ty Forrester Research và Proofpoint (Mỹ) tiến hành tại 406 công ty quy mô trên 1.000 nhân viên ở Mỹ và Anh. 
+Thậm chí, 44% công ty trên 20.000 nhân viên tại Mỹ nói họ có những cán bộ chuyên trách cho việc kiểm tra nội dung và các file đính kèm e-mail. 
+Lý giải cho điều này, các công ty được nghiên cứu đều cho rằng công việc kinh doanh của họ bị ảnh hưởng vì bị rò rỉ những thông tin nhạy cảm. Gần 1/3 số công ty tại Mỹ nói rằng họ từng phải đuổi ít nhất 1 nhân viên vì những e-mail tai hại trong vòng 12 tháng qua. 
+Đồng thời, họ quả quyết khoảng 20% thư điện tử ra ngoài công ty có chứa thông tin nhạy cảm về pháp luật, tài chính hay kế hoạch điều chỉnh nội bộ. 
+Steele cho rằng xu hướng thuê nhân viên để kiểm soát nội dung e-mail sẽ ngày càng phổ biến. Tuy nhiên, những người gửi thư lại không hề ý thức được việc này. "Việc giám sát không được công bố rộng rãi", Steele nói. "Nhân viên tưởng rằng họ có thể viết bất cứ điều gì họ muốn và không có ai đọc chúng cả".
+
+Theo VNExpress

@@ -1,0 +1,16 @@
+﻿Các chương trình diệt spyware adware (Phần III)
+
+BulletProofSoft cho ra phiên bản mới BPS Spyware-Adware Remover 9.2.0.1 trong tháng này với khá nhiều tính năng quan trọng được bổ sung, nâng BPS Spyware-Adware Remover lên một bậc cao hơn so với các trình diệt spyware khác. 
+BPS Spyware-Adware Remover có khả năng chống lại các cuộc tấn công, thâm nhập của hacker hay ngăn ngừa sự truy cập trái phép của các chương trình khi sử dụng Internet với Firewall (tường lửa). Firewall sẽ theo dõi và thông báo đến bạn những chương trình yêu cầu được truy cập Internet và tùy theo sự cho phép của bạn. 
+Phishing đang là phương pháp được hacker ưa chuộng để lừa gạt các nạn nhân nhằm lấy thông tin. BPS Spyware-Adware Remover trong phiên bản này cũng đã có một chức năng dành riêng là Anti-Phishing. Chức năng này sẽ cảnh báo khi bạn truy cập vào một vài dạng website mà BPS có khả năng nhận dạng là phishing. Nhưng kinh nghiệm hơn hết vẫn là “luôn luôn nghi ngờ bất cứ đường liên kết nào trong email mà bạn nhận được” và đừng bao giờ kê khai thông tin cá nhân, tài khoản tín dụng … vào form được mở ra từ một liên kết trong email. 
+Những tính năng trên phần nào đưa BPS trở nên chuyên nghiệp hơn nhưng chính yếu vẫn là khả năng dò tìm và nhận biết spyware của BPS để bảo vệ hệ thống: 
+- Startup Shield: theo dõi, quản lý các chương trình tự đưa vào danh sách khởi động với Windows. 
+- IE Hijack Shield: Theo dõi các cấu hình của Internet Explorer nếu bị thay đổi như trang tìm kiếm, cục bộ (local). 
+- IE Homepage Shield: Theo dõi những thay đổi từ trang chủ mặc định của Internet Explorer. 
+- SpyWatch: Theo dõi các hoạt động trên PC trong thời gian thực, quản lý sự thay đổi từ bộ nhớ hay registry. 
+- Popup-Watch: Ngăn ngừa popup từ các website cho Internet Explorer và Netscape. 
+Dễ dàng sử dụng BPS chỉ với một cú click chuột, chạy trên hầu hết các phiên bản của hệ điều hành Windows 95/98/ME/NT/2000/XP. Đầu tiên, bạn cần chọn BPS sẽ tìm kiếm trong bộ nhớ (memory), registry hay các tập tin trên ổ đĩa cứng, sau đó nhấn Scan. Kết quả sẽ được BPS báo cáo và bạn chỉ cần chọn ra những thứ cần dọn dẹp. Với khả năng tìm diệt một số lượng lớn spyware, adware, dialers, Trojan, key logger … và hỗ trợ mười ngôn ngữ khác nhau, BPS Spyware Adware Remover rất cần thiết để bảo vệ hệ thống của bạn. 
+&gt; Các chương trình diệt spyware adware (Phần I) 
+&gt; Các chương trình diệt spyware adware (Phần II)
+
+TRẦN THANH TRỰC

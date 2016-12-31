@@ -1,0 +1,8 @@
+﻿Phát hiện nhiều lỗi bảo mật trên máy Mac
+
+Một nhà nghiên cứu bảo mật độc lập đã thông báo môt đoạn mã có thể khai thác 7 lỗi nghiêm trọng trên hệ điều hành Mac OS X. Apple cho biết sẽ vá lỗi này trong bản nâng cấp tiếp theo. 
+ Tom Ferris, một nhà nghiên cứu độc lập đã tiết lộ một phần mềm có thể sử dụng để làm đổ vỡ các ứng dụng, hay thậm chí chạy các đoạn mã trái phép trên máy Mac bằng cách khai thác các lỗ hổng bảo mật trong trình duyệt Safari, và hệ điều hành Mac OS X. 
+Được coi là an toàn hơn hệ điều hành Windows của Microsoft, Mac OS X đang trở thành tâm điểm của những nhà nghiên cứu như Ferris. Trong tháng giêng, rất nhiều chương trình nguy hiểm nhằm vào máy Macintosh, trong đó có chương trình OSX/Leap, đã được tung lên mạng. 
+Trung tâm Internet của viện nghiên cứu SANS, đã xếp các lỗi do Ferris phát hiện vào hàng “cực kỳ nghiêm trọng,” và cảnh báo rằng hiện vẫn chưa có chương trình sửa lỗi cho phần lớn các mối nguy hiểm này. 
+Ferris đã thu hút được sự chú ý của báo giới năm nay, khi phát hiện một lỗi trong IE 7 bản beta 2 chỉ sau khi phiên bản này được công bố một thời gian ngắn. 
+Đại diện của Apple vẫn chưa đưa ra lời bình luận cho vấn đề này. Theo AI Việt Nam /Infoworld

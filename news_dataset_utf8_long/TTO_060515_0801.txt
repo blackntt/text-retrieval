@@ -1,0 +1,9 @@
+﻿Triển khai công nghệ bảo mật trên hệ thống Cisco
+
+Chương trình sẽ giới thiệu các loại tường lửa, cấu hình và cách thức hoạt động của Cisco PIX Firewall, giới thiệu về dòng sản phẩm VPN Concentrator 3000 và giới thiệu tính năng bảo mật trên các dòng sản phẩm tương đương. 
+Thêm vào đó, người tham dự còn được hướng dẫn các phương thức để bảo mật hệ thống mạng Cisco. 
+Trọng tâm chương trình này nhằm cung cấp cho các bạn trẻ yêu thích CNTT tầm nhìn cao hơn về các thiết bị chuyên dùng trong công nghệ mạng, chuyên ngành mạng và nâng cao trình độ cũng như khả năng ứng dụng công nghệ cao vào xu hướng nghề nghiệp trong tương lai. 
+Bên cạnh đó các bạn trẻ còn có cơ hội được gặp gỡ, giao lưu với các chuyên gia về thiết kế, thực thi hệ thống mạng ngoài thực tế, những kỹ sư về mạng sẽ cung cấp cho học viên những thông tin thú vị về “người thật việc thật” trong quá trình thực thi hệ thống, những khó khăn cũng như những cơ hội nghề nghiệp trong ngành. 
+Đăng ký và nhận thư mời tham dự tại Trung Tâm Đào Tạo Công Nghệ Thông Tin EIS - Vietnam Knowledge Center, 123 Trương Định, Quận 3, TP.HCM ĐT: 9.322.115 - 9.321.042
+
+H.N.

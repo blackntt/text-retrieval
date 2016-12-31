@@ -1,0 +1,15 @@
+﻿ Thiết_kế lại sân vườn nhà với ShowOff Home_Design
+Với chương_trình này , bạn có_thể tha_hồ mà trồng cây_cảnh và kể_cả xây những ngôi nhà gỗ nho_nhỏ trong sân vườn mà không tốn một xu .
+Ngay khi khởi_động , chương_trình sẽ quét tìm xem có camera nào đang được gắn trong máy_tính hay không để kết_nối chúng vào . Trường_hợp ban không có camera nào trong hệ_thống , chỉ việc bấm nút “ Close ” để đóng hộp_thoại cảnh_báo đó lại là xong .
+Ở bước kế_tiếp , thay_vì chờ_đợi để chương_trình tiến_hành download toàn_bộ các chủng_loại cây_cảnh , bạn hãy bấm vào nút “ Skip ” để vào thẳng cửa_sổ với các chức_năng chính .
+Dĩ_nhiên , để bắt_đầu , bạn phải tạo ra một “ dự_án ” mới bằng nút “ Open ” . Menu này cho_phép bạn khởi tạo dự_án bằng nhưng hình_ảnh có sẵn , những hình_ảnh về ngôi nhà do bạn tự chụp , lấy về từ Internet hay sống_động và tương_tác nhất_là hình_ảnh thu được từ webcam . Tuy_nhiên , bạn cần nhớ là bạn chẳng có webcam , nên tốt hơn hết là hãy chọn một hình_ảnh có sẵn .
+Đã có hình_ảnh khu vườn trước mặt , giờ thì bạn hãy bấm vào nút “ Images ” ở góc phải và chọn mục “ categories ” .
+Các loài “ kỳ_hoa_dị_thảo ” được phân thành từng nhóm lớn , sau đó là các nhóm nhỏ theo hình_dạng và chủng_loại , cung như cách sử_dụng . Bạn cứ lần_lượt chọn_lựa theo các cấp_độ từ cao đến thấp .
+Sau_cùng , với nhóm con mà bạn vừa chọn , hình_ảnh và kiểu_dáng thực_sự của các khóm hoa sẽ hiện lên theo dạng liệt_kê hình_ảnh . Bạn có_thể sử_dụng hai nút mủi tên lướt lên xuống và bấm vào hình_ảnh loại hoa mà bạn thích để chọn . Hình_ảnh phóng to của loại hoa đó sẽ đuợc mang ra đặt giữa màn_hình .
+Kích_thước phóng to này chắc_chắn sẽ không phù_hợp với tỉ_lệ chung của ngôi nhà . Bạn hãy sử_dụng hai nút “ resize ” và “ rotate ” ở hai góc ảnh để thu nhỏ hoặc xoay hình_ảnh cho phù_hợp . Thanh công_cụ ở cạnh trái lúc này cũng hiển_thị , cho_phép bạn xử_lý mọi thứ để có_thể gán hình_ảnh đang có theo tỉ_lệ và góc đặt phù_hợp nhất với ngôi nhà .
+Sau khi đã có một hình_ảnh khóm hoa với tỉ_lệ phù_hợp , bạn hãy đặt nó vào vị_trí mong_muốn trong phối_cảnh khu vườn nhà . Nếu muốn đặt các khóm hoa với cùng tỉ_lệ ở các vị_trí liền kề hay cách_biệt , bạn có_thể sử_dụng nút “ make a copy ” nhiều lần và kéo thả chúng ở các vị_trí mới .
+Sau khi hoàn_tất việc trang_trí , bạn hãy sử_dụng nút “ Zoom_In ” để phóng lớn các vị_trí đặt hoa , và xem_lại các chi_tiết xem có phù_hợp với tổng_thể chung hay không . Nút “ Zoom out ” sẽ trả bức ảnh trở_lại kích_thước ban_đầu .
+Nếu bạn sẽ không muốn mất thời_gian để làm lại từ đầu , và bỏ đi những gì mà bạn đã tốn bao công_sức thiết_kế , đừng quên bấm vào nút “ Save ” để lưu lại các thao_tác . Lưu_ý là nếu bạn chọn mở một dự_án có sẵn thì việc sao lưu sẽ ghi đè lên dự_án đang có .
+Và chắc_chắn một tính_năng nữa cũng không_thể thiếu trong chương_trình là khả_năng in_ấn . Bạn chỉ việc bấm chọn nút “ Print ” , nhập vào tên tiêu_đề và bấm nút “ Print ” lần nữa .
+Bản miễn_phí của chương_trình có_thể download tại địa_chỉ http : / / www.download.com/3001-6677 _ 4-10462477.html
+B.CH ÂU

@@ -1,0 +1,12 @@
+﻿Công bố bản đồ gene người chi tiết
+
+H-Invitational (một tổ chức khoa học quốc tế, do giáo sư Takashi Gojobori ở Viện Khoa học và công nghệ tiên tiến Nhật Bản phụ trách) tiến hành tổng hợp các dữ liệu về gene trong những nghiên cứu trước đây đồng thời tiến hành phân tích mọi mặt của 41.118 bộ DNA bổ sung (cDNAs) và các phân tử tổng hợp có nguồn gốc từ ARN tương ứng với mỗi gene trong trình tự. Các chuyên gia đã xác nhận được 21.037 gene chức năng và 5.155 gene ứng cử mới. 
+Phân tích của các chuyên gia ở H- 
+Chuỗi xoắn kép phân tử DNA được liên kết với nhau bằng 4 đơn vị cơ bản: A (Adenine) gắn với T (Thymine); C (Cytosine) gắn với G (Guanine). Sự sắp xếp các chữ cái này tạo thành "mã sống". 
+Có khoảng 2,9 tỷ cặp đơn vị cơ bản trong trình tự gene người, kết tụ thành 24 nhiễm sắc thể riêng biệt. 
+Trong một DNA có khoảng 30.000 gene. Tế bào người sử dụng những gene này như những khuôn mẫu cố định để tạo nên protein. Invitational cũng cho thấy khoảng 4% trình tự gene người đang bị thất lạc và nhiều DNA không hề có chức năng cụ thể. 
+"Bộ di truyền không phải là một chương trình máy tính được thiết kế sẵn, nó luôn tiến hóa theo thời gian. Một số mảnh gene và phân tử ARN không hoạt động. Chúng có thể từng hoạt động, song đang nghỉ ngơi để chờ cơ hội tiến hóa", nhà nghiên cứu Anthony J Brookes, Viện Karolinska, Thuỵ Điển cho biết. 
+Dữ liệu của H-Invitational có chứa các dạng protein khác nhau được đánh mã gene, được gọi là các dạng ghép nối đồng nhất. Đây là dự báo về các protein sẽ ra đời và những vị trí hoạt động của gene trong cơ thể. 
+"Một chuỗi trình tự có thể được sử dụng theo nhiều cách khác nhau để tạo nên các ARN và protein khác nhau. Chúng có thể được biểu diễn dưới dạng vô số tế bào ở những vị trí khác nhau và tại các thời điểm khác nhau. Và đây cũng chính là vấn đề cần được làm sáng tỏ ", Brookes cho biết thêm. "Công trình này được xem là bước tiến quan trọng giúp cho việc giải mã DNA và rất có ý nghĩa hơn trong trong việc tìm hiểu, chăm sóc sức khỏe con người".
+
+THY LÊ (Theo BBC News)

@@ -1,0 +1,3 @@
+﻿ Quản_lý nhà bằng ... môbai
+Theo hãng trên , với những chiếc điện_thoại đời_mới có tích_hợp tính_năng TTS ( Text_To_Speech hay ra_lệnh bằng giọng nói ) và có cài_đặt ZigBee , người sử_dụng có_thể kết_nối không dây với ngôi nhà của họ qua chiếc môbai và thực_hiện các thao_tác điều_khiển các hoạt_động như kiểm_soát hệ_thống đèn , đo nồng_độ khói , phát_hiện khí độc CO , quản_lý hệ_thống an_ninh , giải_trí , kiểm_soát việc tắt / mở PC , đồ_dùng trang_trí , màn cửa_sổ , thiết_bị y_tế ... Môbai của bạn sẽ được kết_nối không dây với bộ Set-Top-Box đặt tại nhà .
+CHÁNH_TRUNG ( Theo Telecoms Korea )

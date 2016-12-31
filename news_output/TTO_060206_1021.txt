@@ -1,0 +1,7 @@
+﻿ Virus hạ gục hệ_thống trao_đổi chứng_khoán Nga
+3 thị_trường_chứng_khoán lớn nhất của Nga đã phải đóng_cửa tạm_thời để khắc_phục sự_cố từ 16 giờ 15 phút đến 17 giờ 20 chiều ngày 2-2 .
+Larisa_Gorbunova , phát_ngôn_viên của Hệ_thống chứng_khoán thương_mại Nga ( RTS ) cho_biết rằng mọi hoạt_động giao_dịch chứng_khoán đã bị ngưng_trệ trong một thời_gian ngắn và công_việc khắc_phục sự_cố diễn ra khá nhanh .
+Hiện vẫn chưa rõ virus máy_tính nào đã lập nên “ kỳ_tích ” này nhưng một_số nguồn tin từ RTS đưa ra cho_biết rằng một kẻ nào_đó đã tung virus thành_công vào một máy_tính vừa kết_nối Internet vừa được kết_nối vào hệ_thống giao_dịch chứng_khoán của Nga . Dmitry_Shatsky , phó_chủ_tịch của RTS cho_biết rằng con virus này từ máy_tính bị lây_nhiễm đã xâm_nhập vào mạng nội_bộ của RTS và gây nghẽn mạch nghiêm_trọng dẫn đến hiện_tượng quá_tải ở các bộ định_tuyến trong mạng của RTS .
+Dmitry_Shatsky trấn_an mọi người rằng không có bất_kỳ một dữ_liệu nào bị rò_rỉ thông_qua cuộc tấn_công của virus trên , và hiện_nay hàng_loạt các biện_pháp bảo_mật mới nhất đã được tăng_cường nhằm ngăn_ngừa tối_đa việc các virus có_thể xâm_nhập thành_công trong tương_lai .
+Gorbunova phân_bua rằng virus xâm_nhập trên đã bị phát_hiện ngay sau khi chui được vào mạng , máy_tính bị lây_nhiễm đã bị cách_ly ngay_lập_tức và mạng máy_tính phải ngưng hoạt_động trong một giờ là thời_gian để các chuyên_gia tái khởi_động cũng_như quét virus toàn_bộ hệ_thống . RTS cho_biết rằng sẽ kết_hợp với cảnh_sát để tiến_hành một cuộc điều_tra quốc_tế về vụ_việc này .
+HOÀNG_HẢI ( Theo ZDNet UK )

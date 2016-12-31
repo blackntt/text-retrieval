@@ -1,0 +1,24 @@
+﻿ " Nghi can " tấn_công tintucvietnam . com lên_tiếng
+Tạm gác lại những câu_hỏi về cuộc_thi Trí_tuệ Việt_Nam ( TTVN ) , về ông Vương_Vũ_Thắng , về i CMS , mục_tiêu chính của bài viết này là đi tìm câu trả_lời cho các câu_hỏi :
+1 . TinTucVietNam bị tấn_công bằng cách nào ?
+2 . Mã nguồn của i CMS đã bị đánh_cắp ?
+3 . iCMS có lấy mã nguồn của các chương_trình nguồn mở ( open-source ) ?
+4 . iCMS có lỗi bảo_mật không ?
+5 . Ai tấn_công TinTucVietNam ?
+Xin lưu_ý : Tất_cả những thông_tin trong bài viết này đều chỉ là suy_đoán chủ_quan của tác_giả để cung_cấp cho người đọc một cái nhìn toàn_cảnh về những gì đã xảy_ra " phía sau hiện_trường " trong ba ngày vừa_qua . Tờ báo và tác_giả không chịu trách_nhiệm về độ xác_thực của các thông_tin này .
+Tác_giả bài viết là mrro , thành_viên của Ban quản_trị HVA , đồng_thời là một thí_sinh của cuộc_thi TTVN 2004 ( với sản_phẩm SMSec ) . Theo thông_tin mà tác_giả nhận được , sau vụ tấn_công , HVA và bản_thân mrro đã trở_thành " nghi can " số_một . Chúng_tôi xin khẳng_định lại một lần nữa , HVA và mrro không tham_gia vào các vụ tấn_công vào hai website TinTucVietNam và VinaComm .
+1 . TinTucVietNam bị tấn_công bằng cách nào ?
+Đây là một câu_hỏi gây khá nhiều tranh_cãi . Nhiều ý_kiến cho rằng do i CMS có lổ hổng bảo_mật . Cũng có ý_kiến cho rằng thật_ra TinTucVietNam chỉ bị tấn_công vào tên_miền . Câu trả_lời chính_xác theo tác_giả là TinTucVietNam và VinaComm chỉ bị tấn_công vào tên_miền , máy_chủ của TinTucVietNam ( và VinaComm ) cho_đến giờ này vẫn không bị xâm_nhập . Tại_sao ?
+Tại_Việt_Nam , hình_ảnh vụ tấn_công chỉ được trông thấy khi đi qua một proxy . Nếu tấn_công trực_tiếp vào hệ_thống máy_chủ của TinTucVietNam và VinaComm thì không cần phải qua proxy mới trông thấy .
+Nếu i CMS có lổ hổng bảo_mật , thì ngay khi TinTucVietNam hoạt_động trở_lại , nó cũng sẽ bị tấn_công lần nữa , và các website khác sử_dụng i CMS khác cũng có_thể sẽ bị tấn_công .
+TinTucVietNam và VinaComm đều sử_dụng dịch_vụ DNS của EveryDNS ( và ZoneEdit ? ) và theo tôi được biết thì EveryDNS và ZoneEdit đều có lổ hổng . Tôi suy_đoán là các domain của TinTucVietNam và VinaComm từ lâu đã nằm trong quyền kiểm_soát của một_vài người và chỉ đến hôm_nay họ mới thực_hiện vụ tấn_công ngoạn_mục này .
+Không_thể kết_luận ai tấn_công TinTucVietNam , bởi lổ hổng của EveryDNS và ZoneEdit đã được lưu_truyền khá lâu trong giới hacker tại Viet_Nam cũng_như trên thế_giới . Sau khi Tintucvietnam.com bị tấn_công , một_số website khác của Việt_Nam cũng không_thể truy_cập , nhưng là do bị tấn_công từ_chối dịch_vụ DOS , một hình_thức quấy_rối sơ_đẳng hơn nhiều so với DNS , và nhiều khả_năng là do một nhóm nào_đó khác thừa_cơ phá_quấy làm càn .
+2 . Mã nguồn của i CMS đã bị đánh_cắp ?
+Câu trả_lời là đúng ! Mã nguồn của i CMS đã bị đánh_cắp . Theo quan_sát của tôi , mã nguồn của i CMS đã bị đánh_cắp từ lâu , nhưng chỉ mới được phát_tán rộng_rãi trên Internet trong mấy ngày gần đây . Bản_thân tôi cũng được cho địa_chỉ để download mã nguồn . Tuy_nhiên , tôi không download bởi_vì i CMS là một chương_trình có bản_quyền , vả_lại mã nguồn đó chẳng đem lại lợi_ích gì cho tôi .
+Nói là mã nguồn cũng không chính_xác lắm , iCMS được viết bằng công_nghệ ASP.NET nên tất_cả những đoạn mã quan_trọng đều đã được dịch sang thư_viện liên_kết động DLL . Tuy_nhiên , có rất nhiều chương_trình cho_phép decompile các thư_viện này , và theo tôi được biết , có khá nhiều người đang khẩn_trương làm_việc đó .
+Những người đánh_cắp i CMS và những người tấn_công TinTucVietNam có_thể là một hoặc cũng có_thể là hai nhóm hoàn_toàn tách_biệt nhau .
+3 . iCMS có sử_dụng mã nguồn của các chương_trình nguổn mở ?
+Hiện chưa_thể kết_luận i CMS có đánh_cắp mã nguồn của các chương_trình open - source hay chưa . Theo tôi được biết , chỉ trong thời_gian ngắn sắp tới , một nhóm lập_trình_viên . NET sẽ công_bố một bài phân_tích chi_tiết , so_sánh mã nguồn của i CMS với các chương_trình open - source . Tôi liên_tục nhận được tin nhắn qua mạng Yahoo ! Messenger nhận_xét rằng i CMS có đến từ 50% - 70% mã nguồn tương_tự với các chương_trình open - source . Một ý_kiến đáng chú_ý khác là i CMS sử_dụng rất nhiều thư_viện DLL thương_mại , câu_hỏi đặt ra là VinaComm có mua bản_quyền các thư_viện này không ?
+4 . iCMS có lỗi bảo_mật không ? Các website sử_dụng i CMS có an_toàn ?
+Kết_luận tấn_công DNS trong phần 1 . có nghĩa_là i CMS hoàn_toàn không có lỗi bảo_mật ? Câu trả_lời là không , iCMS vẫn có lỗi bảo_mật và các website sử_dụng i CMS vẫn có khả_năng bị tấn_công , nhất_là khi mã nguồn của i CMS đã bị phát_tán rộng_rãi trên Internet . Tôi không muốn " vẽ_đường_cho_hươu_chạy " , chỉ lưu_ý là bản_thân i CMS có_thể không có lỗi , tuy_nhiên nền_tảng mà i CMS được xây_dựng trên đó tồn_tại những lổ hổng nguy_hiểm . Kết_hợp với việc có mã nguồn của i CMS trong tay , bất_kỳ người nào cũng có_thể xâm_nhập vào các website sử_dụng i CMS một_cách dễ_dàng .
+mrro ( Dương_Ngọc_Thái - mrro@hvaonline.net ) - Theo VNN

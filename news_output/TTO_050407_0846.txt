@@ -1,0 +1,5 @@
+﻿ Kỹ_sư gốc việt Trương_Trọng_Thi : Cha_đẻ của máy_tính qua_đời
+Ông sinh năm 1936 tại Chợ_Lớn , TP.HCM . Sang_Pháp học từ năm 14 tuổi , sau đó ông trở_thành kỹ_sư vô_tuyến_điện . Năm 1971 , ông lập Công_ty R2E và chính công_ty này là nơi ông cùng các cộng_sự cho ra_đời dòng máy_vi_tính đầu_tiên trên thế_giới Micral ( vào tháng 5-1973 ) mà một bản_mẫu của nó hiện được trưng_bày trong Viện_bảo_tàng máy_tính Boston ( Mỹ ) .
+Ý_tưởng thoạt_đầu của ông về máy_tính vẫn ứng_dụng đến bây_giờ : máy gọn nhỏ , có_thể sản_xuất hàng_loạt với giá phải_chăng cả cho cá_nhân lẫn cho giới công_ty ứng_dụng trong hoạt_động nghề_nghiệp . Loại máy Micral của ông khi ấy đã được đưa vào sử_dụng ngay trong hệ_thống thu phí xa_lộ ở Pháp .
+Công_lao của ông Trương_Trọng_Thi trong ngành máy_tính còn được ghi_nhận ở những ý_tưởng tiên_phong về loại máy_vi_tính tương_thích , về xử_lý và lưu_trữ dữ_liệu , về lưu_trữ dữ_liệu trên đĩa_quang_học ...
+N.QU ÂN ( Theo AFP , Radio_France )

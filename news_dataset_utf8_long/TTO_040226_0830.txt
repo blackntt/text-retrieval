@@ -1,0 +1,8 @@
+﻿Anh: Các công ty mất hàng tỷ bảng Anh vì tội phạm tin học
+
+Theo một thống kê thăm dò do cảnh sát tiến hành tại 201 công ty lớn ở Anh, 83% trong số này đã bị thiệt hại hơn 195 triệu bảng Anh (khoảng 368,6 triệu USD) bởi một dạng tội phạm tin học nào đó trong năm 2003. Giám đốc Viện Tội ác tin học cao Quốc gia (NHTCU) Len Hyunds cho rằng còn quá sớm để đưa ra một con số chính xác về tác động tài chính đối với các công ty Anh. 
+Mục tiêu đầu tiên của tội phạm tin học là tài chính. Trong đó, đa số các công ty bị tội phạm tin học tấn công bằng thủ thuật tương tự như chúng thực hiện với ngành ngân hàng. Theo đó, đối tượng tội phạm tấn công bằng cách gửi các thư điện tử từ một địa chỉ mạng giống như địa chỉ mạng của một ngân hàng nào đó để người nhận tiết lộ các thông tin về thẻ tín dụng hay tài khoản của họ. 
+Cảnh sát cho biết các cuộc tấn công này có nguồn gốc từ các tổ chức tội phạm tin học, đặc biệt ở Đông Âu và châu Á. Loại tội phạm này phát triển song song với ngành thương mại điện tử khiến việc truy tìm những kẻ phạm tội gần như vô vọng. 
+Mặt khác, trong vòng hai năm, không một công ty nào tiết lộ thông tin về các cuộc tấn công tin học này vì sợ gây tác động tiêu cực đến hình ảnh công ty họ, và hơn 1/4 công ty được thăm dò đã không trang bị các giám sát viên an toàn tin học thường xuyên. Trong khi đó, David Aucsmith, chuyên gia về an toàn tin học của Microsoft cảnh báo sẽ có các đợt tấn công mới với mức độ dữ dội hơn nhiều trong thời gian tới ...
+
+N.TRANG (Theo Reuters)

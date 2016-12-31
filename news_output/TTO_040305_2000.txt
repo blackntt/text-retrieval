@@ -1,0 +1,6 @@
+﻿ Windows XP_SP2 có_thể sẽ phá vỡ một_số ứng_dụng
+Theo cảnh_báo của Microsoft , SP2 sẽ tạo ra nhiều thay_đổi đáng_kể đối_với các phần_mềm được thiết_kế nhằm nâng_cấp khả_năng bảo_mật . Những thay_đổi này có_thể làm một_số ứng_dụng không_thể triển_khai được .
+Những phần bị tác_động mạnh nhất_là Giao_thức ra_lệnh từ xa RPCs ( Remote_Procedure_Calls ) , Mô_hình phân_bổ đối_tượng thành_phần DCOM ( Distributed_Component_Object_Model ) , hệ_thống firewall , và tính_năng bảo_vệ ứng_dụng .
+Để giúp các nhà_phát_triển , Microsoft đã nhanh_chóng triển_khai một khoá đào_tạo trực_tuyến , đưa ra các chi_tiết liên_quan khi cài SP2 vào Windows XP , cũng_như các tác_động ảnh_hưởng tới một_số ứng_dụng đang được triển_khai trên hệ_thống . Được biết , đây là lần đầu_tiên Microsoft triển_khai một khoá " đào_tạo " theo kiểu này .
+Hiện các nhà_phát_triển phần_mềm đang nghiên_cứu kỹ thông_tin do Microsoft cung_cấp , nhằm đảm_bảo phần_mềm của họ không xung_đột với SP2 .
+Theo Info World

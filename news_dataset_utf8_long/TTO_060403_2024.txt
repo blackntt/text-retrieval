@@ -1,0 +1,42 @@
+﻿Chương trình ôn thi ĐH - môn Toán
+
+CHƯƠNG I: Phương trình và bất phương trình đa thức: 
+1) Phương trình bậc 1 và bất phương trình bậc 1. 2) Phương trình bậc 2 và phương trình qui về bậc 2. 3) Dấu tam thức bậc 2. 4) So sánh nghiệm tam thức bậc 2. 
+CHƯƠNG II: Hệ phương trình đa thức : 
+1) Hệ đối xứng I, II, đẳng cấp. 2) Hệ có dạng khác và các áp dụng từ phương trình đường thẳng và đường tròn 
+CHƯƠNG III: Phương trình – Hệ phương trình - Bất phương trình chứa căn thức 
+1) Phương trình căn thức: Giải và biện luận. 2) Bất phương trình căn thức: Giải và biện luận. 3) Hệ phương trình căn thức: Giải và biện luận. 
+CHƯƠNG IV: Phương trình – Hệ phương trình – Bất phương trình chứa giá trị tuyệt đối 
+Tương tự như 1, 2, 3 của chương III. 
+CHƯƠNG V: Phương trình mũ – Hệ phương trình – Bất phương trình mũ 
+Tương tự như 1, 2, 3 của chương III. 
+CHƯƠNG VI: Phương trình log – Hệ phương trình – Bất phương trình log 
+Tương tự như 1, 2, 3 của chương III. 
+CHƯƠNG VII: Bất đẳng thức – Giá trị lớn nhất – Giá trị nhỏ nhất. 
+LƯỢNG GIÁC 
+CHƯƠNG I: Các công thức và cung liên kết 
+CHƯƠNG II: Phương trình lượng giác 
+1) Phương trình cơ bản. 2) Phương trình bậc 1 theo sinx và cosx. 3) Phương trình bậc 2 của các hàm số lượng giác. 4) Phương trình chứa Tổng và Tích của sinx và cosx. 5) Phương trình Đẳng cấp. 6) Phương trình lượng giác chứa căn và giá trị tuyệt đối. 7) Phương trình lượng giác không mẫm mực. 
+CHƯƠNG III: Hệ phương trình lượng giác 
+CHƯƠNG IV: Các bài toán trong tam giác 
+1) Định lí hàm sin – hàm cos. 2) Trung tuyến và S của tam giác. 3) Bán kính đường tròn nội và ngoại. 4) Nhận dạng tam giác. 
+KHẢO SÁT HÀM SỐ 
+CHƯƠNG I: Hàm số 
+Miền xác định, miền giá trị, giới hạn và liên tục. Đạo hàm: định nghĩa và công thức. 
+CHƯƠNG II: Ứng dụng của đạo hàm 
+1) Định lí Lagrange và các áp dụng. 2) Đơn điệu và cực trị của hàm số. 3) Giá trị lớn nhất và nhỏ nhất của hàm số. 4) Đường tiệm cận, lồi – lõm, điểm uốn. 5) Khảo sát và vẽ đồ thị các hàm số bậc 3, bậc 4, hữu tỉ , hữu tỉ . 
+CHƯƠNG III: Các chủ đề quan trọng 
+1) Đồ thị của hàm số chứa giá trị tuyệt đối. 2) Tiếp tuyến và sự tiếp xúc. 3) Sự tương giao. Biện luận số nghiệm của một phương trình bằng phương pháp đồ thị. 4) Các điểm đặc biệt – Tập hợp điểm. 5) Tâm đối xứng – Trục đối xứng – Cặp điểm đối xứng. 6) Các bài toán khoảng cách. 
+TÍCH PHÂN 
+1) Nguyên hàm và các công thức 2) Tích phân xác định và công thức NEWTON - LEIBNITZ 3) Các phương pháp tính tích phân - Đổi biến số - Tích phân từng phần 4) Vài dạng tích phân thường gặp - Tích phân hàm hữu tỉ - Tích phân hàm chứa căn thức - Tích phân hàm chứa giá trị tuyệt đối - Tích phân các hàm lượng giác 5) Các bài toán tích phân đặc biệt 6) Diện tích hình phẳng 7) Thể tích khối tròn xoay 
+ĐẠI SỐ TỔ HỢP 
+1) Phép đếm 2) Hoán vị – Tổ hợp – Chỉnh hợp 3) Nhị thức NEWTON 
+HÌNH GIẢI TÍCH 
+CHƯƠNG I:Trong mặt phẳng (Oxy) 
+1) Vectơ và toạ độ 2) Đường thẳng 3) Đường tròn 4) Ellip 5) Hyperbol 6) Parabol 7) Một số tính chất chung của các đường CONIC 
+CHƯƠNG II: Trong không gian (Oxyz) 
+1) Phương pháp toạ độ trong không gian 2) Mặt phẳng 3) Đường thẳng và mặt phẳng - Góc giữa hai đường thẳng - Góc giữa đường thẳng và mặt phẳng - Góc giữa hai mặt phẳng - Các loại khoảng cách - Các loại hình chiếu - Các vị trí tương đối giữa đường thẳng và đường thẳng, đường thẳng và mặt phặng, mặt phẳng và mặt phẳng - Đường vuông góc chung của hai đường thẳng 4) Mặt cầu và đường tròn trong không gian 
+CHƯƠNG III: Các bài toán phối hợp giữa không gian “ cổ điển” và “hiện đại” 
+Nói chung kết hợp hình học 11 và 12.
+
+TTO (Tài liệu được cung cấp bởi Trung tâm Luyện thi chất lượng cao Vĩnh Viễn)

@@ -1,0 +1,73 @@
+﻿ Theo từng bước chân Bill_Gates
+Đúng 9h20 , Bill_Gates xuất_hiện tại cổng chính ĐH Bách_khoa Hà_Nội trên chiếc xe Mecedez với bộ comple đen , cà_vạt tím giản_dị . Tỷ_phú cười tươi , đưa tay vẫy chào_hàng ngàn sinh_viên . Ngay sau bài phát_biểu dài 22 phút , Bill_Gates chuyển sang phần giao_lưu trực_tuyến với sinh_viên .
+Nhấn_Ctrl F5 để xem thông_tin mới nhất
+Giao_lưu Bill_Gates - Sinh_viên Việt_Nam
+10h55 : Bill_Gates đã ra khỏi hội_trường . Nhiều sinh_viên vây kín lấy ông . Hàng ngàn sinh_viên tụ_tập để một lần nhìn thấy Bill_Gates bằng " da_thịt " .
+Buổi giao_lưu đã khép lại lúc 10h45 . Bill_Gates đã mời 10 sinh_viên lên sân_khấu để trao các suất học_bổng trị_giá 1.300 USD . Trong số này , có 2 sinh_viên nữ .
+Chúc_mừng ông tới trường ĐH của chúng_tôi . Từ VN xuất_hiện lần đầu_tiên trong đầu ông khi nào và có ý_nghĩa như_thế_nào đối_với ông ?
+Bill_Gates : Đây là lần đầu_tiên tôi sang VN , nhưng tôi sẽ còn đến VN nữa , để thăm_thú , nghỉ_ngơi ở VN . Tôi sẽ còn phải tới TPHCM và nhiều nơi khác . Tôi mong_chờ ngày đó ! Ngày còn trẻ , tôi biết VN qua cuộc chiến_tranh rất thảm_khốc ở đất_nước này . Bạn hỏi xem , nhiều người Mỹ biết về VN với một ký_ức buồn_bã về cuộc_chiến . Nhưng tôi rất thích_thú khi biết rằng trong vòng 10 năm qua , VN đã phát_triển thay_đổi .
+Tôi đã học_hỏi được một_số điều từ VN . VN đã làm được tốt việc chăm_sóc sức_khoẻ cộng_đồng như tiêm vaccine . Quỹ sức_khoẻ của tôi đã tài_trợ cho Quỹ sức_khoẻ toàn_cầu . Tôi hy_vọng HIV/AIDS không trở_thành vấn_đề nghiêm_trọng ở quốc_gia các bạn .
+Tôi nghĩ rằng , Microsoft có_thể làm được điều gì đó ở đất_nước các bạn và tôi còn nhiều điều học được ở đây .
+Microsoft có tầm nhìn là máy_tính trên mọi văn_phòng , mọi nhà . Vậy ông đã làm_gì để điều này trở_thành hiện_thực ?
+Bill_Gates : Chúng_ta hãy coi Mỹ như một ví_dụ . Trên 80% gia_đình Mỹ có PC , đại_đa_số đều kết_nối băng_thông_rộng . Nhưng thực_ra , vẫn còn có khoảng_cách số tại các nước_đang_phát_triển . Để xóa khoảng_cách này , chúng_ta cần làm :
+Thứ nhất , giảm chi_phí . Phải làm_việc với các đối_tác phần_cứng , phát_hành các Start_Edition và VN là một trong những nước đầu_tiên được phát_hành . Làm thế_nào để chi_phí của mạng giảm mạnh hơn chi_phí phần_cứng . Trong 10 năm tới , sự khác_biệt giữa điện_thoại với PC rất nhòa nhạt . Tính_năng của điện_thoại sẽ mạnh hơn cả PC hiện_nay . Vì_thế , Microsoft đang phát_triển các phần_mềm để tận_dụng phiên_bản này , giúp xem TV , đọc thông_tin , chỉnh_sửa thông_tin ngay trên máy . Đồng_thời , đưa tất_cả những điểm tốt nhất , mạnh nhất của điện_thoại và PC kết_hợp với nhau , giảm giá_thành hơn_nữa . Từ đó , mọi người có_thể chia_sẻ máy_tính với nhau , đĩa lưu_trữ dữ_liệu số . PC sẽ giống như ổ USB hiện_nay : rẻ , tiện_lợi , nhỏ gọn và dễ_dàng chia_sẻ .
+Chúng_tôi cũng đưa ra chương_trình one click dùng phiên_bản đơn_giản nên giá rẻ hơn nhiều , sử_dụng đơn_giản .
+Trần_Văn_Tây , học tại Melbourne Úc : Vai_trò của Toán_học có ý_nghĩa thế_nào trong việc phát_triển Microsoft ?
+Bill_Gates : Kiến_thức về toán không_chỉ phục_vụ cho riêng máy_tính . Kỹ_sư bình_thường cũng phải_biết về toán . Khi tôi còn trẻ , tôi cũng phải học để hiểu về toán . Chúng_tôi đang cố_gắng ứng_dụng toán trong các phần_mềm của chúng_tôi .
+Ở Mỹ , sinh_viên học toán đang giảm đi . Vì_thế chúng_tôi đang thiếu tài_năng trong lĩnh_vực này . Ở nhiều nơi khác , tôi cũng không thấy sự ham_thích toán_học như nó phải có . Tôi nghĩ toán là một cơ_sở nền_tảng của phát_triển thông_tin .
+Tôi là một sinh_viên tàn_tật ở VN , tôi muốn học máy_tính để gắn_kết với thế_giới bên ngoài ? Ông cho_biết tôi có_thể thực_hiện được ước_mơ đó như_thế_nào ?
+Bill_Gates : Chúng_tôi có nhiều nhóm làm_việc phi lợi_nhuận , tôi hiến tặng nhiều máy_tính , cho mọi người . Người tàn_tật cần có bàn_phím đặc_biệt . Chúng_tôi có_thể sáng_tạo ra các phần_mềm để họ sử_dụng đơn_giản . Giúp họ bình_đẳng như mọi người khác .
+Tôi là Hà , SV_ĐH_BK_HN : Ông nghĩ thế_nào khi ông bỏ học giữa_chừng , ông có xin_phép mẹ ?
+Bill_Gates phát_biểu tại Hội_trường giao_lưu .
+Bill_Gates ( Cười rất tươi ) : Lúc đó , tôi còn trẻ , chưa có gia_đình , nói thật tôi chẳng nghi_ngờ những gì mình đã làm . Nhưng tôi thích phần_mềm . Tôi cũng rất thích đến trường để trao_đổi với các bạn học khác . Nhưng tôi bỏ Boston vì không còn ai chia_sẻ với tôi ý_tưởng về phần_mềm .
+Bố_mẹ tôi khi đó lo_lắng , băn_khoăn lắm , bây_giờ họ vẫn còn nói đùa về chuyện đó . Họ nói tôi sai_lầm , nhưng khi đó tôi đã có đủ tuổi để ... lái_xe . Nhiều ngày_sau này , họ nói rằng quyết_định bỏ học là chính_xác đấy . Nhưng tôi khuyên các bạn tiếp_tục học , đừng bỏ như tôi .
+Ông có_thể chia_sẻ kế_hoạch nội_địa_hóa cả MIC vào thị_trường VN ? ( Nguyễn_Thế_Bảo - Kỹ_sư ở Hà_Nội )
+Bill_Gates : Năm_ngoái , chúng_tôi đã có version phần_mềm của Windows bằng tiếng Việt . Bản_thân tiếng Việt nhiều dấu , vì_thế đó là một thách_thức khi xử_lý tiếng Việt . Trong năm nay , chúng_tôi sẽ làm_việc với FPT về phần_mềm Office tiếng Việt , dễ hơn , hoàn_thiện hơn .
+Xin chào ông Bill , tôi học trong lĩnh_vực xã_hội , tôi muốn biết : Bí_quyết thành_công của ông là gì ?
+Bill_Gates : Vâng , tôi đã đều đề_cập hết rồi trong những câu trả_lời trước : Tập_trung vào một lĩnh_vực .
+Tôi may_mắn được tiếp_cận với ngành phần_mềm trong thời_gian đầu . Tôi thay_đổi nó và tự_hào trong lĩnh_vực của mình . Chúng_tôi đã đi theo con đường riêng và hãy chấp_nhận rủi_ro . Chúng_tôi tạo ra sản_phẩm rẻ_tiền với số_lượng rất lớn , đó là máy_tính .
+Nếu quay lại thời sinh_viên của chúng_tôi , ông sẽ chọn nghề nào ? ( Minh )
+Bill_Gates : Phần_mềm là lĩnh_vực vĩ_đại tôi có_thể tham_gia vào đó . Trong 20 năm tới vẫn có_thể tiếp_tục phát_triển . Tất_nhiên đó không phải là lĩnh_vực duy_nhất . 30 năm tới , chúng_tôi sẽ có những lĩnh_vực đột_phá , ngăn_chặn được dịch AIDS và lĩnh_vực khác .
+Tôi đã làm được khá nhiều điều lộn_xộn ở vị_trí của tôi .
+Đỗ_Thanh_Tùng , Đà_Nẵng : Nguyên_tắc mang tính dẫn_dắt công_việc trong cuộc_đời ông ? Loại sách gì ông đọc năm ông 20 tuổi ?
+Bill_Gates : Tôi là người may_mắn . Khi tôi chưa biết đọc , mọi người đọc cho tôi nghe . Họ không cho tôi xem TV nhiều . Gia_đình mua cho tôi nhiều sách . Tôi đọc sách giả_tưởng , khoa_học_viễn_tưởng . Tôi hiểu nhiều về mọi người và thế_giới xung_quanh . Trước khi tôi bước vào ngành Giao_thông Vận_tải , tôi biết tới nhiều người_ở đó qua sách .
+Hồi tôi học đại_học , nhiều bạn cũng lười đọc sách vì họ nghèo .
+Tôi muốn biết về cuộc_đời của người khác . Tôi muốn nhiều người cùng làm_việc với tôi . Hãy học_hỏi , lạc_quan trong cuộc_đời . Ngay CNTT , ý_tưởng điên_khùng trong trường phổ_thông cũng đem lại cho tôi niềm_tin và tạo cho tôi sự phát_triển . Tôi đề_nghị bạn trẻ hãy lạc_quan và luôn_luôn lạc_quan trong_suốt cuộc_đời mình .
+Sinh_viên trèo cả lên cây để xem thần_tượng qua màn_hình lớn .
+“ Ông có 3 lời khuyên nào cho sinh_viên VN không ? ” ( Bình_Minh ở TPHCM )
+Bill_Gates : Đầu_tư trong học_hành . Mọi công_việc đều đòi_hỏi phải có_học , được đào_tạo . Tiếp đó , hãy làm_việc chăm_chỉ , học_hành chăm_chỉ , điều quan_trọng làm cho bản_thân và đất_nước của mình . Ngành máy_tính khiến các bạn có nhiều cơ_hội . Hãy sử_dụng Internet như một công_cụ học_hành . Dù lĩnh_vực nào , hãy sử_dụng máy_tính , Internet ...
+Dương_Khánh_Trương , ĐH Công_nghệ : Ông có kế_hoạch đặc_biệt nào dành cho Microsoft VN không ?
+Bill_Gates : Mục_tiêu của chúng_tôi đến đất_nước các bạn là phát_triển đối_tác và danh_mục đầu_tiên là các trường ĐH . Các SV cần được đào_tạo để có đủ năng_lực và phát_triển , khi chúng_tôi có những phiên_bản mới vủa Windows , các bạn sẽ có được nó .
+Sau buổi này chúng_tôi sẽ tới Bắc_Ninh , xem nông_thôn tiếp_cận với máy_tính thế_nào . Tôi đang nghĩ xem làm thế_nào , giúp đất_nước các bạn có hiệu_quả , tạo ra cơ_hội mới và sử_dụng được CNTT .
+Thành_công sẽ đạt được khi nền kinh_tế phát_triển . Chúng_tôi biết rằng , chúng_tôi đang đầu_tư cho tương_lai ở đây .
+Tôi là Nguyễn_Tiến_Đạt , ở Bách_khoa Hà_Nội . Ông nghĩ gì về tiềm_năng công_nghệ_thông_tin ở VN ?
+Bill_Gates : Nghĩ về CNTT như một phần trong kế_hoạch kinh_tế của mình , ứng_dụng thông_tin trong các lĩnh_vực nông_nghiệp , chế_tạo ...
+Internet cần được phát_triển qua Giáo_dục . Tôi đã nhấn_mạnh điều này trong bài phát_biểu của mình . Tôi đến đây là muốn cảm_nhận xem , kỹ_thuật thông_tin được thực_hiện thế_nào ở đất_nước các bạn . Hy_vọng Việt_Nam sẽ tăng_cường được năng_lực của mình . VN sẽ cung_cấp phần_mềm cho Hoa_Kỳ .
+Tôi là Minh_Thư , tôi vinh_dự là sinh_viên đầu_tiên đặt câu_hỏi với ngài . " Điều gì quan_trọng nhất trong cuộc_đời ông ? "
+Bill_Gates ( cười mỉm ) : Câu_hỏi không dễ trả_lời . May_mắn tôi có ba điều . Đó là gia_đình của tôi . Tôi may_mắn có 3 người con , con_cả đã 9 tuổi . Tôi đã dạy các con đúng hướng .
+Tiếp nữa_là tôi có công_việc ở Microsoft , công_việc thú_vị . Tôi học_hỏi được nhiều điều mới . Trước_đây , Công_ty Microsoft rất nhỏ và rất khác so với bây_giờ . Chúng_tôi ngày_càng tuyển_dụng nhiều người hơn .
+Điều thứ_ba quan_trọng đối_với tôi , trong tương_lai , tôi sẽ có một nền_tảng để xem_xét về tài_sản mà tôi có được . Và tôi sẽ sử_dụng tài_sản của tôi như_thế_nào . Tiền đó sẽ quay lại với thế_giới như_thế_nào .
+Sinh_viên háo_hức đón Bill_Gates .
+10h : Bill_Gates kết_thúc bài phát_biểu kéo_dài 22 phút , chuyển sang phần giao_lưu trực_tuyến với sinh_viên .
+Bill_Gates sinh ngày 28/10/1955 tại Seattle , Mỹ . Ông có 2 người chị_gái . Cha_William H . Gates II , luật_sư ; mẹ Mary gates , giáo_sư đại_học Washington .
+Học tiểu_học ở trường công_lập và tư_thục Lakeside_School , Bill_Gates khám_phá phần_mềm vi_tính từ năm 13 tuổi .
+Năm 1973 , Gates vào trường đại_học Harvard và bỏ trường dở_dang .
+Năm 1975 cùng bạn Paul_Allen bắt_đầu thành_lập Microsoft .
+9h30 : Bill_Gates đã bước vào hội_trường C2 trong tiếng reo_hò không ngớt của hàng ngàn sinh_viên CNTT Việt_Nam . Ngay_lập_tức , ông bắt_đầu bài phát_biểu .
+9h20 : Bill_Gates xuất_hiện trên một chiếc xe Mecedez rất giản_dị tiến thẳng qua cổng chính ĐH Bách_khoa Hà_Nội và đi thẳng vào trong Hội_trường C2 giao_lưu với sinh_viên .
+9h : Ông Nông_Quốc_Tuấn , Bí_thư_thứ_nhất TƯ Đoàn , đã khởi_động cổng tri_thức thánh gióng tại địa_chỉ thanhgiong . net.vn . Trong vòng vài phút nữa , Bill_Gates sẽ có_mặt tại ĐH Bách_khoa để giao_lưu với các bạn SV .
+Cũng trong buổi_sáng ngày hôm_nay , tại hội_trường C2 ĐH Bách_Khoa_Hà_Nội sẽ diễn ra chương_trình “ Ngày hội tuổi_trẻ Việt_Nam với công_nghệ_thông_tin ” song_song với hai nội_dung quan_trọng là khởi_động Dự_án thí_điểm phổ_cập tin_học , nối_mạng tri_thức và Gặp_gỡ giao_lưu với chủ_tịch tập_đoàn Microsoft_Bill_Gates .
+Chúng_tôi đã có cuộc phỏng_vấn nhanh bạn Lại_Đắc_Hải , sinh_viên năm thứ 3 Học_viện Công_nghệ Bưu_chính Viễn_thông : “ Em đã biết thông_tin về chuyến thăm Việt_Nam của Bill_Gates cách đây hơn một tháng . Đây thực_sự là một sự_kiện lớn cho ngành công_nghệ_thông_tin Việt_Nam . Em mong_muốn sau sự_kiện này ngành CNTT Việt_Nam sẽ có thêm nhiều động_lực để phát_triển hơn_nữa . Nếu được hỏi Bill_Gates , chắc_chắn em sẽ hỏi “ Từ đâu mà ông có ý_tưởng thành_lập nên Tập_đoàn Microsoft ? ”
+8h45 : Có một_số nhà_báo nước_ngoài đến Hội_trường C2 Bách_khoa . Đến tham_gia buổi giao_lưu , nhiều sinh_viên còn cầm trong tay các cuốn sách_giáo_khoa về lập_trình và nhiều bài báo có in hình Bill_Gates .
+8h40 : Hội_trường C2 lúc này đã chật kín chỗ ngồi . Những hàng ghế đầu được ưu_tiên dành cho đội_ngũ sinh_viên tình_nguyện . Khách VIP cũng đã có_mặt khá đông và đội_ngũ phóng_viên góp_mặt khoảng 30 người .
+Nhộn_nhịp Hội_trường C2 .
+" Chúng_ta sẽ đón Bill_Gates trong lòng nhiệt_thành hiếu_khách nhưng rất kỷ_luật " , một đại_diện của Ban tổ_chức thuộc trường Đại_học Bách_khoa chia_sẻ . Người này cũng tiết_lộ , khi kết_thúc chương_trình giao_lưu , sẽ không ai được bước ra ngoài trước nhân_vật chính của sự_kiện . Khi_Bill_Gates xuất_hiện , ông sẽ được Thứ_trưởng Bộ Giáo dục và Đào_tạo Trần_Văn_Nhung dẫn ra từ cánh_gà sân_khấu .
+Theo thông_tin mới nhất , lễ ký_kết thỏa_thuận bản_quyền giữa Bộ Tài chính và Microsoft_Việt_Nam sẽ diễn ra tại khách_sạn Hilton vào lúc 11h15 thay_vì 12h15 như dự_kiến .
+8h30 : Tại_Hội trường C2 đang diễn ra chương_trình ca_nhạc của sinh_viên ĐH Bách_Khoa chào_mừng các đại_biểu đến dự buổi giao_lưu ngày hôm_nay . Sân trường ĐH_BK giờ này đã chật kín . Sinh_viên từ khắp_nơi đã đổ về đây để mong được gặp_gỡ Bill_Gates .
+Hội_trường C2 - ĐH_BK ,
+trải thảm_đỏ đón_chào Bill_Gates .
+Theo lịch_trình buổi_sáng nay vào lúc 9h40 phút sáng Bill_Gates sẽ đến giao_lưu với sinh_viên tại ĐH Bách_Khoa_Hà_Nội . Buổi giao_lưu sẽ kéo_dài trong khoảng 80 phút đồng_hồ . Đồng_thời tại buổi giao_lưu ngày hôm_nay Bill_Gates sẽ chính_thức khai_trương đội Sinh_viên tình_nguyện Thánh_Gióng .
+8h10 : Phóng_viên đã gặp_gỡ với bạn Bùi_Vũ_Hà - SV năm thứ 3 K38A3 ĐH Quốc_gia HN - người đã có_mặt rất sớm bên ngoài địa_điểm giao_lưu với Bill_Gates tại ĐH Bách_khoa Hà_Nội . Bùi_Vũ_Hà bày_tỏ mong_muốn được biết liệu trong những năm tới đây Microsoft có dự_định cởi_mở hơn trong vấn_đề bản_quyền phần_mềm cho các nước nghèo như Việt_Nam hay không ? Bạn_Hà cũng mong_muốn được biết là khi đến thăm Việt_Nam_Bill_Gates có_mang theo hay tạo cơ_hội cho sinh_viên Việt_Nam đươc tham_gia các khoá đào_tạo về CNTT hay không ?
+8h00 : Theo ghi_nhận của phóng_viên , không_khí ở cả bên trong và bên ngoài địa_điểm giao_lưu Hội_trường C2 ĐH Bách_khoa đã bắt_đầu nóng lên .
+Quang_cảnh sân trường trước Hội_trường C2 .
+Theo danh_sách của ban tổ_chức , thành_phần tham_gia giao_lưu với Bill_Gates dự_kiến có khoảng 150 sinh_viên của Đại_học công_nghệ , 100 sinh_viên của Đại_học Khoa_học Tự_nhiên , 300 sinh_viên của Đại_học Bách_khoa , 100 sinh_viên của Học_viện Công_nghệ Bưu_chính Viễn_thông , 60 các cơ_quan báo_chí và hơn 60 vị quan_khách . Phía bên trong hội_trường , ban tổ_chức đã chuẩn_bị hai màn_hình lớn để truyền_hình ảnh không_khí ở phía bên ngoài . Bên ngoài hội_trường , ban tổ_chức cũng đã chuẩn_bị 10 máy_tính nối_mạng để cho sinh_viên có_thể đặt câu_hỏi giao_lưu trực_tiếp với Bill_Gates . Bên_cạnh đó , ban tổ_chức cũng đặt 5 màn_hình lớn để truyền trực_tiếp những hình_ảnh từ bên trong hội_trường phục_vụ cho SV bên ngoài hội_trường . Theo Tiền_Phong , Tuổi_Trẻ , Vnmedia

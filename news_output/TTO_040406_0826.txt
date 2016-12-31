@@ -1,0 +1,6 @@
+﻿ Intel thảo_luận với Trung_Quốc về kinh_doanh WLAN
+Phát_biểu với phóng_viên tại Đài_Bắc hôm 5/4 , Intel CEO Craig_Barrett nói : " Chúng_tôi không thay_đổi vị_trí cơ_bản của mình . Chúng_tôi sẽ tiếp_tục bán công_nghệ di_động Centrino cho_đến 1/6 . Hi_vọng chúng_tôi sẽ đạt được những thỏa_thuận về vấn_đề này . "
+" Vấn_đề " ở đây chính là sự cương_quyết của chính_phủ Trung_Quốc khi yêu_cầu các công_ty bán các trang_thiết_bị WLAN tại Trung_Quốc phải theo chuẩn WAPI ( Wired_Authentication and Privacy_Infrastructure ) .
+WAPI được công_bố vào tháng 5 trong nỗ_lực khắc_phục những thiếu_sót liên_quan đến vấn_đề bảo_mật trong chuẩn WLAN cũ . WAPI có hiệu_lực từ 1/12/2003 . Tuy_nhiên chính_phủ Mỹ đã đề_nghị Trung_Quốc dời tới tháng 6/04 mới thực_thi .
+Nhà_sản_xuất chip Wi-Fi Broadcom đồng_tình với Intel về vấn_đề này nhưng Atheros , Linksys và Texas_Instruments nói rằng họ sẽ tuân theo WAPI của Trung_Quốc . Thị_trường Wi-FI hiện đáng_giá đến 3 tỉ USD và riêng ở Trung_Quốc con_số này sẽ đặt đến 520 triệu USD vào năm 2005 . Các nhà_phân_tích dự_đoán Trung_Quốc sẽ là thị_trường chiến_lược và Intel chắc sẽ phải nhượng_bộ .
+ANH_TUẤN ( The_Register )

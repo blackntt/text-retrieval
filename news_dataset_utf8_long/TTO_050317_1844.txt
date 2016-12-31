@@ -1,0 +1,14 @@
+﻿Tự nhắc nhở mình bằng Quick Notes Plus
+
+Xét về bản chất thì Quick Notes Plus hoạt động không khác gì các chương trình nhắc nhở khác như: Break Reminder, xReminder Pro... Tuy nhiên cách thể hiện có khác đi một chút nhằm tạo nét mới gần gũi hơn với người dùng. 
+Việc sử dụng cũng rất đơn giản. Sau khi được cài đặt thì một icon nhỏ sẽ xuất hiện trong vùng Taskbar. Ngay lần khởi động đầu tiên, bạn sẽ được khuyến mãi trước hai mẩu giấy ghi chú. Nếu muốn thêm thì bạn click chuột vào biểu tượng của chương trình. Tiến hành nhập nội dung vào khoảng trống đấy. Rất may mắn Quick Notes Plus có hỗ trợ Font Unicode nên bạn hòan toàn có thể nhập nội dung tiếng Việt vào được. 
+Để thiết lập thêm một số tính năng cho mẩu giấy ghi chú này thì bạn nhấn vào nút tròn ở phía trên bên trái. Một danh sách các tùy chọn sẽ xuất hiện. 
+Set alarm: đặt giờ cho giấy ghi chú. Khi được kích họat sẽ xuất hiện cửa sổ Set Note Alarm. Chọn ngày giờ trong dòng Date &amp; Time. Khi đến giờ được thiết lập thì chương trình sẽ thông báo cho bạn biết. 
+Always On Top: khi được chọn, mẩu giấy ghi chú của bạn sẽ hiển thị lên trên hết tất cả các cửa sổ trên màn hình desktop của máy tính. 
+Color: cho phép bạn chọn màu nền; Skin: cho phép bạn chọn kiểu của mẫu giấy ghi chú. 
+Bạn hoàn tòan có thể chọn Font chữ và các kiểu định dạng cho từng ghi chú trong một mẩu giấy bằng cách nhấn phải chuột vào vùng trống và chọn tác vụ cần thiết lập cho việc trình bày nội dung. 
+Để thay đổi chủ đề (Title) của mẩu giấy thì bạn chỉ việc nhấn đúp chuột vào đó và nhập dữ liệu cần thiết vào. Quick Notes Plus cho phép bạn xóa bỏ một mẫu giấy nào đó trên màn hình rất dễ dàng bằng cách click vào biểu tượng thùng rác ở phía trên bên phải của mẩu giấy ghi chú đấy. Và chọn Yes khi được hỏi đến. 
+Ngoài ra bạn có thể truy cập vào website của Quick Notes Plus để có thể tải về các kiểu mẫu (skin) rất đẹp và hoàn toàn miễn phí. 
+Chương trình được cung cấp tại website: http://www.conceptworld.com với dung lượng khoảng 1,83 MB, tương thích tốt với hệ điều hành Windows. Bản thương mại giá 24.95 USD.
+
+GIANG VŨ VĂN

@@ -1,0 +1,6 @@
+﻿Xuất hiện kiểu tấn công phising mới
+
+Một loại hình tấn công trực tuyến mới (phising) vừa xuất hiện trên mạng Internet, đó là lừa người dùng nhập thông tin về tài khoản, số thẻ tín dụng vào các form có sẵn để mua vé máy bay giá rẻ.
+
+ Cảnh báo của hãng bảo mật trực tuyến Panda Software cho biết, loại hình phising mới tỏ ra khá hiệu quả vì chúng không được gửi qua e-mail - một phương thức phising mà người dùng rất có ý thức cảnh giác, mà chỉ hiện thị địa chỉ trang web (giả mạo) khi được tìm kiếm bằng cách công cụ như Google, Yahoo... 
+Những trang web lừa đảo kiểu này thường yêu cầu khách hàng nhập các thông tin cá nhân, bao gồm cả số thẻ tín dụng. Và khi những thông tin này được gửi đi, thường có một bảng báo lỗi xuất hiện, thông báo giao dịch đã không thành công nhưng thực chất tất cả chúng đã được chuyển tới hòm thư của kẻ lừa đảo. Panda khuyến cáo người dùng Internet chỉ nên tin tưởng vào các trang web thực sự an toàn bằng cách nhập trực tiếp địa chỉ website vào đường dẫn URL; và ngoài ra không nên tin vào bất cứ lời đề nghị hấp dẫn nào trên mạng. Theo VnMedia

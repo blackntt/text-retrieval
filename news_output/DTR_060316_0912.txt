@@ -1,0 +1,9 @@
+﻿ Virus sẽ “ nhảy vào ” chip RFID
+Một nhóm các nhà_nghiên_cứu Hà_Lan vừa khẳng_định rằng công_nghệ chip phát sóng_radio RFID ( Radio_Frequency_Identification ) có_thể tạo điều_kiện cho virus lợi_dụng để ăn_cắp dữ_liệu hàng_hóa , song mối nguy_hiểm này không đáng lo_ngại .
+Nhóm các nhà_nghiên_cứu , thuộc phòng khoa_học máy_tính của tường Đại_học Vrije ở Amsterdam , vừa trình kết_quả nghiên_cứu tại Hội_thảo viễn_thông và điện_toán của Tổ_chức IEEE tổ_chức ở Italy trong tuần này .
+Các nhà_nghiên_cứu lập_luận rất có khả_năng virus sẽ tự “ cài ” vào thẻ RFID mặc_dù những thiết_bị nhỏ nhất này chỉ lưu_trữ rất ít dữ_liệu . Các chuyên_gia đã dùng đầu_đọc RFID trên hệ_thống máy_tính đã bị nhiễm virus để chứng_minh công_nghệ chip phát sóng_radio này có_thể bị kẻ phá_hoại tấn_công .
+“ Khi càng trở_nên phổ_biến , công_nghệ sẽ trở_thành mục_tiêu bị lợi_dụng ” , Greg_Day , nhà_phân_tích an_ninh của công_ty McAfee , cho_biết .
+Theo các nhà_nghiên_cứu này , tin_tặc có_thể thực_hiện các vụ tấn_công , như cài_đặt một thẻ RFID đã bị nhiễm virus vào các sản_phẩm trong siêu_thị và lợi_dụng để ăn_cắp cơ_sở_dữ_liệu hàng_hóa , hoặc cài chip ID nhiễm virus trong tai của con mèo và để chúng trong nhóm động_vật trong siêu_thị nhằm quét toàn_bộ con vật trong đó , sau đó sẽ làm nhiễm virus sang cơ_sở_dữ_liệu của động_vật .
+“ Sự lan_tràn phần_mềm ma RFID có_thể sẽ khiến các công_ty sử_dụng công_nghệ xác_thực bằng tần sóng đau_đầu ” , báo_cáo nhận_định . “ Phần_mềm nguy_hiểm này có_thể tạo cơ_hội cho tin_tặc thực_hiện RFID phishing – lừa người sử_dụng đầu_đọc RFID đọc thẻ RFID đã bị nhiễm virus - hoặc RFID war-driving – tìm_kiếm những đầu_đọc RFID dễ bị lợi_dụng .
+“ Mối nguy_hiểm từ công_nghệ này cho thấy tin_tặc không còn ngây_ngô với kỷ_nguyên RFID nữa ” .
+N.Hương Theo VNuNet

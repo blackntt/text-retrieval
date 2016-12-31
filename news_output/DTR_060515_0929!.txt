@@ -1,0 +1,28 @@
+﻿ Phạm_Hữu_Ngôn - người trở_về từ thung_lũng Silicon
+Bị sốc như “ Hai_Lúa ” lên Sài_Gòn là cảm_xúc của Phạm_Hữu_Ngôn sau khi “ đột_nhập ” vào thung_lũng Silicon . Trở_về sau vòng chung_kết lập_trình ACM/ICPC vừa diễn ra tại thành_phố San_Antonio , Texas ( Mỹ ) , Ngôn đang ấp_ủ tạo ra một thứ “ vũ_khí công_nghệ ” mới ...
+Bạn có_thể cho_biết đôi nét về cuộc_thi lập_trình ACM/ICPC thế_giới ?
+Trước cuộc_thi , Ban tổ_chức có dành cho các thí_sinh một buổi để thử máy_tính , hệ_điều_hành , ngôn_ngữ_lập_trình ... Dạo một vòng trường_thi , tụi mình mới biết chỉ có duy_nhất đội của mình sử_dụng Pascal , tất_cả các đội còn lại đều đã chuyển sang sử_dụng C+ + / Java trên môi_trường mở Eclipse .
+Ban tổ_chức có mời đội vô_địch năm 1982 đến giao_lưu . 3 trong 4 thành_viên của đội này hiện_nay đã là tiến_sĩ , người còn lại là chủ của một doanh_nghiệp lớn .
+Bạn có “ khớp ” khi tham_gia cuộc_thi ?
+Có chứ , mình hơi khớp do lần đầu đi thi với các bạn ở những nước có nền công_nghệ_cao . Mặc_dù đã chuẩn_bị rất kỹ nhưng khi vào phòng thi mình bị bất_ngờ ...
+Bất_ngờ đó là gì ?
+Các đối_thủ được đào_tạo chuyên_sâu trong từng lĩnh_vực . Công_nghệ họ đi trước chúng_ta , họ có nhiều điều_kiện phát_triển hơn . Tài_liệu mà chúng_ta tham_khảo cũng lấy từ các nước phát_triển nên giữa ta và họ còn khoảng_cách khá xa . Công_tác tổ_chức cũng gọn , thật ấm_cúng và thân_thiện .
+Sau lễ khai_mạc , Công_ty IBM ( nhà tài_trợ cuộc_thi ) có một bài thuyết_trình về vai_trò của Innovation ( tính sáng_tạo ) đối_với sự sống_còn của các công_ty . Tiếp đó , họ giới_thiệu sơ qua về những công_nghệ đang “ hot ” hiện_nay : Mã nguồn mở , Tính_toán hiệu_năng cao , Công_nghệ Nano và thế_hệ web 2.0 .
+Bạn có cảm_giác như_thế_nào khi lần đầu_tiên tiếp_xúc với một đất_nước có công_nghệ_thông_tin phát_triển như_vậy ?
+Tôi thật_sự bị sốc như “ Hai_Lúa ” ở quê lên Sài_Gòn . Không biết bao_giờ đất_nước mình mới có được những thành_tựu như họ . Được tiếp_xúc với công_nghệ_cao , tìm_hiểu cách làm , tham_quan các mô_hình , xem họ điều_hành mới thấy mình lạc_hậu . Họ có hạ_tầng công_nghệ tốt , có nhiều điều_kiện kích_thích sự sáng_tạo của nhân_viên nên dễ_dàng phát_triển .
+Do có hạ_tầng IT tốt , họ có_thể nhận được những hợp_đồng sản_xuất hàng triệu con chíp , và chỉ cần một sáng_kiến nhỏ làm giảm giá_thành mỗi con chíp 0,1 USD thì lợi_nhuận lên đến hàng trăm_nghìn USD . Trong khi đó ở Việt_Nam , do hạ_tầng_cơ_sở kém nên không_thể có những đơn đặt_hàng lớn như_thế .
+Từ đó , bạn có suy_nghĩ gì ?
+Phạm_Hữu_Ngôn - SV lớp Kỹ_sư tài_năng , Trường ĐH Bách_khoa TPHCM - từng đoạt giải_thưởng tại Imagine_Cup 2004 ở Brazil do Microsoft khởi_xướng .
+Giải 3 kỳ thi lập_trình quốc_tế ACM/ICPC khu_vực châu Á - Thái_Bình_Dương năm 2005 .
+Giải_thưởng " Quả cầu vàng " CNTT T . Ư_Đoàn năm 2005 .
+Huy_hiệu " Tuổi_trẻ sáng_tạo " của Ban_chấp_hành Trung_ương Đoàn năm 2005 .
+Giải 3 cuộc_thi Nhân_tài đất Việt lĩnh_vực công_nghệ_thông_tin năm 2005 .
+Tôi biết được mình đang ở đâu trong thế_giới công_nghệ và xác_định được mục_tiêu mình phải làm_gì . Trước_đây , tôi làm không định_hướng , tham_gia đủ thứ như : viết phần_mềm , thiết_kế web , học đủ thứ ... nhưng bây_giờ tôi sẽ cố_gắng chuyên_sâu vào kỹ_thuật cụ_thể để hình_thành “ vũ_khí công_nghệ ” . Chỉ có như_vậy mới phát_triển được .
+“ Vũ_khí công_nghệ ” đó là gì ?
+Khi nói đến Microsoft , người_ta nghĩ đến hệ_điều_hành Windows , nói đến Google thì nghĩ đến công_cụ tìm_kiếm , đó là những “ vũ_khí công_nghệ ” . Hiện_giờ tôi phải học chuyên_sâu , tìm_hiểu để tìm ra vũ_khí công_nghệ mới .
+Bạn đã từng phát_biểu : “ Tôi muốn Việt_Nam có tên trên bản_đồ IT thế_giới ” . Vậy bạn đã và đang làm_gì để điều bạn ước_mơ thành hiện_thực ?
+Tôi phát_biểu điều đó cách đây 2 năm . Lúc đó còn trẻ tôi nghĩ điều đó sẽ dễ_dàng thực_hiện . Tôi nghĩ phải có chiến_lược lâu_dài , đòi_hỏi sự góp sức của nhiều người . Nhưng tôi tin rằng trong tương_lai không xa điều đó sẽ được thực_hiện .
+Bằng cách nào mà bạn thâm_nhập được vào thung_lũng Silicon ?
+Được sự giới_thiệu của một người bạn , tôi đã vượt qua hơn 5.000 km từ Boston đến thành_phố San_Jose , California - nơi được mệnh_danh là thủ_phủ của thung_lũng Silicon nổi_tiếng thế_giới , trụ_sở của hàng_loạt các đại_gia : Cisco , Intel , Yahoo , Google ... Tôi cũng đã có cơ_hội tiến sâu vào bên trong tòa nhà của một công_ty lớn chuyên về sản_xuất chip .
+Khoác trên mình chiếc áo xanh của những người thường được gọi_là “ equipment engineer ” ( kỹ_sư linh_kiện ) , tôi chứng_kiến tận_mắt những cỗ máy trị_giá hàng trăm_ngàn đến hàng triệu USD nằm san_sát nhau chuyên để kiểm_tra các con chip trong những môi_trường khắc_nghiệt trước khi có_thể sản_xuất đại_trà với số_lượng lớn .
+Tôi hỏi một nhân_viên trong công_ty về công_việc anh đang làm . Anh_ta nói công_việc của anh rất nhẹ_nhàng ( bởi ở đây đánh_giá khả_năng làm_việc của nhân_viên dựa vào sản_phẩm mà họ làm ra chứ không phải những quy_định như số giờ làm_việc là 8 giờ mỗi ngày ) ... Theo Thiên_Long_Thanh_Niên

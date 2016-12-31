@@ -1,0 +1,10 @@
+﻿71 biểu mẫu trong xây dựng, đất đai, nhà ở
+
+Hiện TTO đã chuyển sang font unicode và tách ra thành từng phần riêng biệt để bạn đọc dễ theo dõi. Tuy nhiên, vẫn còn một số sai sót nhỏ, bạn đọc có thể so sánh với bản chính để chỉnh sửa lại cho phù hợp. 
+1. Quyết định 58 do UBND TP.HCM ban hành. 
+2. 13 biểu mẫu liên quan đến cấp phép xây dựng nhà ở riêng lẻ . 
+3. 14 biểu mẫu liên quan đến thuê nhà, mua nhà thuộc sở hữu nhà nước. 
+4. 23 biểu mẫu liên quan đến thuê đất, giao đất ... 
+5. 21 biểu mẫu về công chứng liên quan đến giao dịch bất động sản thuộc sở hữu tư nhân.
+
+P.V

@@ -1,0 +1,25 @@
+﻿ Virus nguy_hiểm lây_lan qua Yahoo ! Messenger
+Người dùng Yahoo ! Messenger cần lưu_ý , đây là đường link chứa virus , do_vậy không nên chạy bất_cứ tập_tin nào từ địa_chỉ www . xRobots.net . .
+Theo các chuyên_gia CNTT , con virus này do người Việt viết , là một chương_trình để phát_triển mạng botnet ( mạng_lưới kết_nối nhiều máy_tính thông_thường được hacker khai_thác để điều_khiển máy_tính làm những việc không mong_muốn như tấn_công từ_chối dịch_vụ các hệ_thống DOS , DDOS , DRDOS , cài phần_mềm adware , spyware , keylog ) . Virus sẽ làm_chủ máy_tính người dùng , có_thể Format ổ_cứng , xóa , ăn_cắp dữ_liệu , mật_khẩu ... thông_qua file messenger . exe để điều_khiển máy_tính bị nhiễm tấn_công DOS , DDOS hoặc DRDOS vào bất_kỳ hệ_thống mạng nào ...
+Cơ_chế lây_lan của nó có_thể dựa trên lỗi của Yahoo ! Messenger vì trong tin nhắn người nhận không thấy đường link có đuôi là . exe . Khi được cài vào máy_tính , virus là tập_tin messenger . exe nằm ngay trong Windows và sẽ tự_động lây_lan đến người dùng khác qua hệ_thống Yahoo ! Messenger .
+Hiện_tại , tốc_độ lây_lan của nó rất kinh_khủng . Theo dự_đoán của chuyên_gia này , tính đến chiều 10-4 , nó đã lây_nhiễm khoảng 30% máy_tính sử_dụng Yahoo ! Messenger và đang tiếp_tục lây_lan rât nhanh . Vì mức_độ nguy_hiểm của virus , đề_nghị các cơ_quan_chức_năng chặn địa_chỉ www . xRobots.net lại để tránh virus phát_tán thêm .
+Vì virus này do người Việt viết nên tạm_thời các chương_trình quét virus của nước_ngoài như Norton_Anti_Virus không_thể phát_hiện ra .
+Cách_thức khắc_phục :
+Xóa_bỏ file messenger . exe do virus sinh_ra trong thư_mục Windows
+Trước_hết đăng_nhập vào máy với quyền " Administrator "
+1 . Tạm dừng thread messenger . exe ( Windows 2000 trở_lên ) :
+- Nhấn chuột phải vào thanh Task_Bar phía dưới màn_hình , chọn Menu " Task_Manager " hoặc nhấn tổ_hợp phím Ctrl + Alt + Del .
+- Cửa_sổ " Task_Manager " hiện lên , chọn Tab " Processes " , tìm trong cột " Image_Name " dòng nào có " messenger.exe " thì chọn rồi nhấn " End_Process " .
+2 . Xóa file messenger . exe : Có hai cách :
+Xóa trong DOS
+- Vào menu " Start - Run " , gõ lệnh " cmd " rồi Enter .
+- Vào thư_mục chứa Windows , gõ lệnh " c : " rồi Enter ( hoặc d , e tùy ổ_đĩa nào bạn đang cài Windows ) ; sau đó gõ lệnh " cd \ windows " rồi Enter .
+- Loại_bỏ các thuộc_tính bảo_vệ của file chứa Virus : gõ lệnh " attrib - r - h - s messenger . exe " rồi Enter .
+Xóa file : gõ lệnh " del messenger . exe " rồi Enter .
+Xóa trong Windows ( cách này đơn_giản hơn )
+- Nhấn phải chuột vào nút Start , chọn menu " Explore " .
+- Cửa_sổ " Windows_Explorer " hiện ra , hãy chọn trong cây thư_mục ở bên trái ổ_đĩa bạn đang cài Windows rồi nhấp trái chuột vào thư_mục " Windows " hoặc " WINNT " .
+- Hiển_thị những file ẩn : Chọn menu " Tools - Folder_Options " ở phía trên , chọn Tab " View " ; trong mục " Advanced settings " chọn " Show hidden files and folders " và bỏ chọn ở " Hide extensions for known file types " rồi OK .
+- Xóa file : trong nội_dung thư_mục Windows ( hoặc WINNT ) ở bên phải bạn hãy tìm chọn file " messenger.exe " rồi giữ Shift và ấn Delete cùng lúc , chọn YES nếu có hộp_thoại hỏi lại .
+3 . Sau khi diệt xong , người dùng không vào những thông_điệp Yahoo ! Messenger lạ để tránh tiếp_tục bị lây_nhiễm .
+H.NHUNG

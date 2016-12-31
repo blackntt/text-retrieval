@@ -1,0 +1,8 @@
+﻿ VNPT được giảm cước di_động
+Cụ_thể , cước hòa_mạng trả sau tối_đa là 181.818 đồng/máy/lần , cước hoà_mạng trả sau tối_thiểu là 27.272 đồng/máy/lần ( mức hiện_tại : 181.818 đồng/máy/lần ) .
+Cước thông_tin áp_dụng cho thuê_bao trả sau tối_đa là 1.554 đồng/phút , tối_thiểu là 1.227 đồng/phút ( cước hiện_tại : 727 đồng/30 giây ) .
+Đối_với thuê_bao trả trước , mức cước tối_đa không quá 2.727 đồng/phút , tối_thiểu không quá 2.000 đồng/phút ( mức hiện_tại : 1.182đ/30s ) .
+Thuê_bao ngày có mức cước từ 1.909 - 1.382 đồng/phút ( cước hiện_tại : 818đ/30s ) .
+Cùng_với việc ban_hành mức cước mới , Bộ Bưu chính - viễn_thông đã cho_phép VNPT áp_dụng phương_thức tính cước theo đơn_vị tính ( block ) đầu_tiên không thấp hơn 6 giây và đơn_vị tính tiếp_theo không thấp hơn 1 giây .
+Ngoài_ra , trong các ngày lễ , chủ_nhật và từ 23g hôm trước đến 7g sáng hôm_sau các ngày từ thứ_hai đến thứ_bảy , VNPT được áp_dụng mức cước giảm nhưng không vượt quá 30% mức cước quy_định .
+KHIẾT_HƯNG

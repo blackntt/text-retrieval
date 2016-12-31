@@ -1,0 +1,88 @@
+﻿Trắc nghiệm cá tính
+
+Có – Tiếp câu số 2 Không – Sang câu số 8 
+2. Bạn thích vòng đeo cổ hình ngôi sao hơn là hình trái tim. 
+Có – Tiếp câu 3 Không – Sang câu 9 
+3. Bạn không thích thú đối với búp bê hoặc robot. 
+Có – Tiếp câu 4 Không – Sang câu 11 
+4. Bạn có chút hứng thú đối với quần áo theo kiểu truyền thống của người Hoa. 
+Có – Tiếp câu 5 Không – Sang câu 11 
+5. Bạn có quần áo màu đỏ trong tủ quần áo. 
+Có – Tiếp câu 6 Không – Sang câu 12 
+6. Bạn thích nộp đơn xin việc vô những chỗ đòi hỏi có kinh nghiệm. 
+Có – Tiếp câu 7 Không – Sang câu 13 
+7. Bạn được bạn bè yêu mến do là người đáng tin cậy. 
+Có – Mẫu A Không – Mẫu B 
+8. Tóc bạn ngắn. 
+Có – Sang câu 2 Không – Sang câu 15 
+9. Bạn cho rằng màu da của mình không đẹp lắm. 
+Có – Sang câu 3 Không – Sang câu 16 
+10. Bạn thích loài hoa nào dưới đây nhất? 
+Hoa dướng dương – Sang câu 14 Hoa cúc – Sang câu 11 
+11. Bạn là một sinh viên / nhân viên tận tâm, chu đáo. 
+Có – Sang câu 5 Không – Sang câu 17 
+12. Gần đây bạn trở nên không thích các đồ thủ công. 
+Có – Sang câu 6 Không – Sang câu 18 
+13. Bạn là người dễ tính và thân thiện. 
+Có – Sang câu 7 Không – Sang câu 19 
+14. Bạn không hề bận tâm cho dù phải ngủ chung giường với một nhóm người khác giới. 
+Có – Mẫu A Không – Sang câu 20 
+15. Bạn chọn chủ yếu các môn thể thao cho giờ học ngoại khóa. 
+Có – Sang câu 9 Không – Sang câu 21 
+16. Bạn yêu thích Toán và các môn khoa học tự nhiên. 
+Có – Sang câu 10 Không – Sang câu 22 
+17. Bạn thích màu cam hơn màu đỏ. 
+Có – Sang câu 12 Không – Sang câu 24 
+18. Bạn thích khung cảnh miền núi hơn vùng biển. 
+Có – Sang câu 13 Không – Sang câu 25 
+19. Khi có bất cứ ai hơn bạn, bạn cảm thấy “nóng máu” và khó chịu. 
+Có – Sang câu 14 Không – Sang câu 26 
+20. Bạn không ngại cười nói ồn ào nơi công cộng. 
+Có – Mẫu B Không – Mẫu C 
+21. Bạn luôn tự mình dọn phòng riêng. 
+Có – Sang câu 16 Không – Sang câu 28 
+22. Bạn thích coi các kênh truyền hình có liên quan thể thao. 
+Có – Sang câu 23 Không – Sang câu 29 
+23. Bạn cho rằng tình bạn đơn thuần không thể có ở những người khác giới. 
+Có – Sang câu 10 Không – Sang câu 17 
+24. Bạn thích học nấu ăn. 
+Có – Sang câu 18 Không – Sang câu 31 
+25. Bạn rất thích “ngao du” trên mạng Internet. 
+Có – Sang câu 19 Không – Sang câu 32 
+26. Bạn ngưỡng mộ mẫu người nào sau đây nhất. 
+Có dáng thể thao, thẳng thắn và trung thực – Sang câu 20 Chín chắn, trưởng thành – Sang câu 39 
+27. Bạn có thích mặc những bộ đồ được tạo mẫu đặc biệt chỉ dành cho biểu diễn. 
+Có – Mẫu B Không – Mẫu D 
+28. Bạn thích chó hơn mèo. 
+Có – Sang câu 22 Không – Sang câu 34 
+29. Bạn thường xức nước hoa khi đi ra ngoài. 
+Có – Sang câu 30 Không – Sang câu 35 
+30. Bạn thích mặt trăng hơn mặt trời. 
+Có – Sang câu 23 Không – Sang câu 24 
+31. Bạn thường thay đổi kiểu tóc. 
+Có – Sang câu 25 Không – Sang câu 37 
+32. Phục vụ người khác làm bạn bận rộn. 
+Có – Sang câu 26 Không – Sang câu 38 
+33. Tóc bạn thường xuyên rối tung. 
+Có – Mẫu C Không – Sang câu 27 
+34. Bạn ngại việc nấu nướng. 
+Có – Sang câu 29 Không – Sang câu 35 
+35. Bạn có khá nhiều đồ trang trí. 
+Có – Sang câu 36 Không – Sang câu 37 
+36. Bạn thích đi mua sắm trong suốt những ngày nghỉ lễ. 
+Có – Sang câu 37 Không – Sang câu 31 
+37. Bạn sẽ đi (du lịch chẳng hạn) và chụp hình trong tương lai. 
+Có – Sang câu 32 Không – Sang câu 38 
+38. Bạn không cầu kỳ kiểu cách trong việc chọn mặc nội y. 
+Có – Sang câu 39 Không – Sang câu 40 
+39. Bạn không có thích thú với những món đồ thủ công. 
+Có – Sang câu 27 Không – Sang câu 33 
+40. Bạn để ý đến các xu thế thời trang. 
+Có – Mẫu C Không – Mẫu D 
+Giải thích: 
+• Mẫu A : Thoải mái, thân mật. Bạn rất vui vẻ và thân thiện. Mặc dù thỉnh thoảng bạn cũng gặp thất bại nhưng bạn dễ dàng tìm được cách vượt qua và lại cười vui sau đó. Tính cách thân thiện của bạn dễ gây được cảm tình đối với người khác giới nhưng sẽ khiến người phối ngẫu của bạn bất an (!). Những người bạn cùng giới cảm thấy khó hiểu những suy nghĩ ngây thơ của bạn. Nhưng đây lại là điểm mạnh giúp bạn thu hút những người khác giới có cùng cá tính. 
+• Mẫu B: Nghệ sĩ tính. Bạn thích được chăm sóc người khác, đó là lý do vì sao trong mắt mọi người bạn luôn là người anh /chị lớn. Mọi người cảm thấy thú vị và thoải mái khi trò chuyện cùng bạn, điều này giúp bạn lấy được lòng tin từ họ. Và bạn cũng dễ gây được ấn tượng tốt từ những người khác giới giàu tình cảm và trẻ hơn. 
+• Mẫu C: “Baby”. Bạn là mẫu cậu em hay cô em nhỏ trong mắt người khác giới. Bạn phụ thuộc nhiều vào người khác và ít có ý kiến riêng. Trong bốn mẫu, bạn là người ủng hộ hôn nhân nhất. Bạn có năng lực mạnh mẽ để chiếm lĩnh người phối ngẫu. Bạn có khả năng tận dụng mọi cơ hội lôi cuốn sự chú ý của người khác. Ấn tượng đầu tiên bạn gây cho người khác giới là dáng vẻ đồng cảm. Đó là lý do vì sao những người khác sẵn lòng giúp đỡ, che chở cho bạn. 
+• Mẫu D: Lôi cuốn. Trong bốn mẫu, bạn thuộc “týp” sở hữu sức mạnh lôi cuốn nhất. Vẻ cuốn hút tỏa ra từ bạn thật sự giúp bạn có được sự chú ý và khiến bạn trở nên nổi bật dù rằng phần đông là do vẻ đẹp bề ngoài. Vì thế, bạn không nên quá tin vào những lời đường mật, những câu hẹn ước có cánh. Bạn cần chứng tỏ mình bằng trí tuệ mẫn tiệp và khả năng làm việc thật sự hơn là quá trông chờ vào vẻ đẹp bên ngoài do chính bạn cũng đánh giá cao vẻ đẹp nội tâm hơn.
+
+BÙI NGUYỄN QUÝ ANH (Theo Personality Quiz)

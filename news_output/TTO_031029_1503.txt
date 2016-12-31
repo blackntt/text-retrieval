@@ -1,0 +1,6 @@
+﻿ Trend_Micro cung_cấp phần_mềm diệt virus chống spam
+Phương_pháp chống spam sử_dụng kết_hợp giữa việc theo_dõi dấu_hiệu nhận_dạng , quản_lý danh_sách những spammer , những nguồn được tin_cậy và các kỹ_thuật phỏng_đoán thông_minh để xác_định liệu thông_điệp có phải là thư rác hay không . Tính_năng này làm_việc tốt với phần_mềm e - mail sử_dụng giao_thức POP3 cũng_như các dịch_vụ Web mail .
+Tính_năng quét virus của PC-cillin ngăn_chặn các phần_mềm quảng_cáo và phần_mềm gián_điệp tương_tự như ngăn_chặn các loại virus , worm và trojan horse .
+Ngoài_ra , PC-cillin Internet_Security 2004 còn có phần Network_Virus_Emergency_Center gồm có các công_cụ nhận_biết những đặc_điểm chung của những virus lây_lan trên mạng ; tính_năng tường lửa để ngăn_chặn những mối hiểm_họa ; công_cụ quét tìm virus trong các file nén ; tính_năng bảo_vệ tính riêng_tư giúp người sử_dụng tránh khỏi nguy_cơ để lộ thông_tin cá_nhân như số an_sinh xã_hội , số thẻ_tín_dụng …
+Gói phần_mềm PC-cillin Internet_Security 2004 giá 49,55 USD . Nâng_cấp là 24,95 USD . Chương_trình này chạy trên các phiên_bản Windows 98 , Me , 2000 và XP . Ngoài_ra , PC-cillin Internet_Security 2004 cũng hỗ_trợ thiết_bị kỹ_thuật_số cá_nhân chạy hệ_điều_hành Palm , Microsoft_Windows_Mobile ( tên cũ là Pocket PC ) và Epoch .
+THUỲ_MINH ( Theo PCW )

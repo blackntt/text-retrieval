@@ -1,0 +1,9 @@
+﻿Đà Nẵng: xem điểm thi tốt nghiệp trên mạng
+
+Bắt đầu từ ngày 13-6, tất cả các thông tin về điểm thi tốt nghiệp PTTH và tốt nghiệp bổ túc PTTH đã chính thức được công bố trên website http://www.danangpt.vnn.vn/tn2006/ Bạn có thể tra cứu thông tin theo 3 phương thức sau:
+Phương thức 1: Tra cứu thông tin thí sinh dựa vào hội đồng thi và số báo danh. Nhập cả 2 thông tin hội đồng thi và số báo danh - Bấm nút “Xem” để nhận kết quả của thí sinh có thông tin trên. Lưu ý: Chỉ xem được thông tin của một thí sinh. 
+Phương thức 2: Xem kết quả của 1 phòng thi. Nhập cả hai thông tin hội đồng thi và số phòng thi - Bấm nút “Xem” để nhận kết quả chung của 1 phòng thi. Lưu ý: chỉ xem được thông tin một phòng thi. 
+Phương thức 3: Tra cứu tổng hợp. Nhập ít nhất một thông tin để xem kết quả. Trong trường hợp có quá nhiều kết quả chứa thông tin mà bạn nhập thì chương trình tìm không hiển thị kết quả và bạn nên nhập thêm các thông tin khác để nhận được kết quả tối ưu hơn. 
+Số báo danh là số mà hội đồng cung cấp cho từng thí sinh thuộc hội đồng đó và cần phải nhập chính xác. Họ tên thí sinh là tên của bạn. Khi nhập có thể nhập đầy đủ hoặc một phần họ tên thí sinh, ví dụ bạn có tên thí sinh là Nguyễn Văn A, bạn có thể nhập đầy đủ họ tên hoặc nhập một phần họ - Nguyễn hoặc tên A - hoặc Nguyễn Văn - hoặc Văn A. Đối với mục “Trường học”, cần chọn trường học của thí sinh trong hộp hiển thị danh sách các trường. Bạn nên chọn kèm theo với số báo danh hoặc họ tên. Với mục “Ngày tháng năm sinh, cần chọn ngày tháng năm sinh trong các hộp thông tin về ngày, tháng, năm. Với mục “Hội đồng thi” có nghĩa là địa điểm dự thi.
+
+Theo Tuổi Trẻ

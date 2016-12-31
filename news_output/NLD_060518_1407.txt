@@ -1,0 +1,4 @@
+﻿ Liếc mắt điều_khiển máy_vi_tính
+Một cậu học_sinh trung_học ở thành_phố Nam_Kinh ( Trung_Quốc ) vừa phát_minh ra một loại máy_tính có_thể giúp những người sử_dụng nhàn_hạ hơn vì có_thể điều_khiển máy chỉ bằng cách liếc mắt .
+Cậu học_sinh tên Zhou_Chen cho_biết cậu đặt tên cho sản_phẩm của mình là " con chuột bằng mắt " vì người dùng có_thể điều_khiển máy bằng mắt chứ không cần nhắp chuột . Ví_dụ như muốn đến một địa_chỉ trang_web nào_đó đã có sẵn trên màn_hình , người sử_dụng chỉ cần nhìn vào màn_hình và di_chuyển ánh mắt của mình . Loại máy_tính này được cho là một bước_tiến , tạo tiền_đề để chế_tạo robot thông_minh .
+Theo Thanh_Niên

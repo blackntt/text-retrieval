@@ -1,0 +1,9 @@
+﻿ Trojan làm “ gián_điệp ” trên ĐTDĐ
+Công_ty bảo_mật F-Secure vừa khuyến_cáo người dùng về một chương_trình nguy_hiểm tự_động cài_đặt vào điện_thoại Symbian người dùng để kiểm_soát cuộc_gọi và tin nhắn . Chương_trình này phục_vụ mục_đích theo_dõi người bạn_đời hoặc con_cái .
+Con_Trojan_Flexispy . A ghi lại thông_tin về các cuộc_gọi , tin nhắn của nạn_nhân , sau đó gửi dữ_liệu đến một máy_chủ , theo công_ty bảo_mật F-Secure .
+“ Điều đáng nói là Flexispy . A là một con Trojan được một công_ty viết nên với mục_đích thương_mại . Công_ty này khẳng_định Flexispy không phải là Trojan ” , đại_diện F-Secure nói . “ Rõ_ràng , nó là công_cụ hữu_ích để theo_dõi sự không chung_thủy của vợ_chồng ” .
+Tuy_nhiên , ứng_dụng này tự_động cài_đặt và người dùng không hề hay_biết . F-Secure lo_ngại Flexispy . A sẽ bị phần_mềm ma lợi_dụng để thanh_toán cước_phí cuộc_gọi , hoặc bị tin_tặc cài_đặt vào các điện_thoại bật chức_năng Bluetooth .
+Công_ty bảo_mật khuyến_cáo rằng việc sử_dụng chương_trình này có_thể sẽ vi_phạm luật_pháp của nhiều nước . “ Theo_dõi lịch_trình liên_lạc cá_nhân là bất_hợp_pháp ở hầu_hết các nước trên thế_giới ” .
+Website rao bán phần_mềm FlexiSpy phân_bua , việc sử_dụng ứng_dụng này là bất_hợp_pháp nhưng nó có_thể giảm nhẹ_gánh nặng về tâm_lý cho người dùng . “ Sử_dụng thiết_bị theo_dõi , can_thiệp hoặc ghi lại đàm_thoại qua điện_thoại mà không được sự đồng_tình của các bên liên_quan có_thể là phạm_pháp ở nước bạn . Hãy hiểu luật_pháp ở nước mình trước khi mua sản_phẩm của chúng_tôi ” , website FlexiSpy.com rào trước .
+Trojan_Flexispy . A cài_đặt bằng gói chuẩn SIS và khi cài_đặt , ứng_dụng sử_dụng tên “ phone ” . Sau khi đã cài xong , phần_mềm sẽ ở trạng_thái ẩn và khóa file để không bị nạn_nhân gỡ bỏ .
+N.Hương Theo VNuNet

@@ -1,0 +1,89 @@
+﻿ Bản tin dự_báo thời_tiết 3 ngày tết Bính_Tuất
+Với thời_tiết hơi se lạnh và gió hây_hây bà_con phía Bắc sẽ tha_hồ diện những bộ quần_áo đẹp nhất . Còn thời_tiết Sài_Gòn tất_nhiên là cũng được ưu_ái không kém , trời không mưa và hơi se lạnh vào ban_đêm .
+Dự_báo chi_tiết cho ngày mùng 1 tết :
+Thành_phố và thị_xã
+Thời_tiết
+Nhiệt_độ ( độ C )
+Sapa
+Không mưa , trưa và chiều trời nắng
+7 – 17
+Hạ_Long
+Không mưa , trưa và chiều trời nắng , sáng_sớm có sương_mù nhẹ
+13 – 25
+Hà_Nội
+Không mưa , trưa và chiều trời nắng , sáng_sớm có sương_mù nhẹ
+14 – 26
+Vinh
+Không mưa , trưa và chiều trời nắng
+14 – 26
+Huế
+Không mưa
+16 – 26
+Đà_Nẵng
+Không mưa
+17 – 27
+Hoàng_Sa
+Có lúc có mưa_rào
+21 – 25
+Pleiku
+Ngày nắng , đêm không mưa
+15 – 27
+Nha_Trang
+Ngày nắng , đêm không mưa
+20 – 28
+Trường_Sa
+Có mưa
+24 – 28
+Đà_Lạt
+Ngày nắng , đêm không mưa
+13 – 24
+T.P.Hồ Chí_Minh
+Ngày nắng , đêm không mưa
+21 – 33
+Cần_Thơ
+Ngày nắng , đêm không mưa
+21 – 31
+Chi_tiết nhiệt_độ cho mùng 2 và mùng 3 :
+Thành_phố và thị_xã
+Mùng 2
+Mùng 3
+Sapa
+7 – 19
+7 – 17
+Hạ_Long
+14 – 26
+14 – 25
+Hà_Nội
+14 – 26
+15 – 24
+Vinh
+15 – 27
+16 – 27
+Huế
+17 – 27
+19 – 28
+Đà_Nẵng
+19 – 28
+20 – 28
+Hoàng_Sa
+21 – 26
+22 – 27
+Pleiku
+16 – 27
+17 – 28
+Nha_Trang
+21 – 28
+21 – 28
+Trường_Sa
+23 – 28
+24 – 29
+Đà_Lạt
+13 – 24
+14 – 25
+T.P.Hồ Chí_Minh
+22 – 33
+22 – 33
+Cần_Thơ
+21 – 31
+22 – 31
+Q . H

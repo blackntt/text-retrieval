@@ -1,0 +1,29 @@
+﻿Phạm Hữu Ngôn - người trở về từ thung lũng Silicon
+
+Bị sốc như “Hai Lúa” lên Sài Gòn là cảm xúc của Phạm Hữu Ngôn sau khi “đột nhập” vào thung lũng Silicon. Trở về sau vòng chung kết lập trình ACM/ICPC vừa diễn ra tại thành phố San Antonio, Texas (Mỹ), Ngôn đang ấp ủ tạo ra một thứ “vũ khí công nghệ” mới... 
+ Bạn có thể cho biết đôi nét về cuộc thi lập trình ACM/ICPC thế giới? 
+Trước cuộc thi, Ban tổ chức có dành cho các thí sinh một buổi để thử máy tính, hệ điều hành, ngôn ngữ lập trình... Dạo một vòng trường thi, tụi mình mới biết chỉ có duy nhất đội của mình sử dụng Pascal, tất cả các đội còn lại đều đã chuyển sang sử dụng C++/Java trên môi trường mở Eclipse. 
+Ban tổ chức có mời đội vô địch năm 1982 đến giao lưu. 3 trong 4 thành viên của đội này hiện nay đã là tiến sĩ, người còn lại là chủ của một doanh nghiệp lớn. 
+Bạn có “khớp” khi tham gia cuộc thi? 
+Có chứ, mình hơi khớp do lần đầu đi thi với các bạn ở những nước có nền công nghệ cao. Mặc dù đã chuẩn bị rất kỹ nhưng khi vào phòng thi mình bị bất ngờ... 
+Bất ngờ đó là gì? 
+Các đối thủ được đào tạo chuyên sâu trong từng lĩnh vực. Công nghệ họ đi trước chúng ta, họ có nhiều điều kiện phát triển hơn. Tài liệu mà chúng ta tham khảo cũng lấy từ các nước phát triển nên giữa ta và họ còn khoảng cách khá xa. Công tác tổ chức cũng gọn, thật ấm cúng và thân thiện. 
+Sau lễ khai mạc, Công ty IBM (nhà tài trợ cuộc thi) có một bài thuyết trình về vai trò của Innovation (tính sáng tạo) đối với sự sống còn của các công ty. Tiếp đó, họ giới thiệu sơ qua về những công nghệ đang “hot” hiện nay: Mã nguồn mở, Tính toán hiệu năng cao, Công nghệ Nano và thế hệ web 2.0. 
+Bạn có cảm giác như thế nào khi lần đầu tiên tiếp xúc với một đất nước có công nghệ thông tin phát triển như vậy? 
+Tôi thật sự bị sốc như “Hai Lúa” ở quê lên Sài Gòn. Không biết bao giờ đất nước mình mới có được những thành tựu như họ. Được tiếp xúc với công nghệ cao, tìm hiểu cách làm, tham quan các mô hình, xem họ điều hành mới thấy mình lạc hậu. Họ có hạ tầng công nghệ tốt, có nhiều điều kiện kích thích sự sáng tạo của nhân viên nên dễ dàng phát triển. 
+Do có hạ tầng IT tốt, họ có thể nhận được những hợp đồng sản xuất hàng triệu con chíp, và chỉ cần một sáng kiến nhỏ làm giảm giá thành mỗi con chíp 0,1 USD thì lợi nhuận lên đến hàng trăm nghìn USD. Trong khi đó ở Việt Nam , do hạ tầng cơ sở kém nên không thể có những đơn đặt hàng lớn như thế. 
+Từ đó, bạn có suy nghĩ gì? 
+Phạm Hữu Ngôn - SV lớp Kỹ sư tài năng, Trường ĐH Bách khoa TPHCM - từng đoạt giải thưởng tại Imagine Cup 2004 ở Brazil do Microsoft khởi xướng. 
+Giải 3 kỳ thi lập trình quốc tế ACM/ICPC khu vực châu Á - Thái Bình Dương năm 2005. 
+Giải thưởng "Quả cầu vàng" CNTT T.Ư Đoàn năm 2005. 
+Huy hiệu "Tuổi trẻ sáng tạo" của Ban chấp hành Trung ương Đoàn năm 2005. 
+Giải 3 cuộc thi Nhân tài đất Việt lĩnh vực công nghệ thông tin năm 2005. 
+Tôi biết được mình đang ở đâu trong thế giới công nghệ và xác định được mục tiêu mình phải làm gì. Trước đây, tôi làm không định hướng, tham gia đủ thứ như: viết phần mềm, thiết kế web, học đủ thứ... nhưng bây giờ tôi sẽ cố gắng chuyên sâu vào kỹ thuật cụ thể để hình thành “vũ khí công nghệ”. Chỉ có như vậy mới phát triển được. 
+“Vũ khí công nghệ” đó là gì? 
+Khi nói đến Microsoft, người ta nghĩ đến hệ điều hành Windows, nói đến Google thì nghĩ đến công cụ tìm kiếm, đó là những “vũ khí công nghệ”. Hiện giờ tôi phải học chuyên sâu, tìm hiểu để tìm ra vũ khí công nghệ mới. 
+Bạn đã từng phát biểu: “Tôi muốn Việt Nam có tên trên bản đồ IT thế giới”. Vậy bạn đã và đang làm gì để điều bạn ước mơ thành hiện thực? 
+Tôi phát biểu điều đó cách đây 2 năm. Lúc đó còn trẻ tôi nghĩ điều đó sẽ dễ dàng thực hiện. Tôi nghĩ phải có chiến lược lâu dài, đòi hỏi sự góp sức của nhiều người. Nhưng tôi tin rằng trong tương lai không xa điều đó sẽ được thực hiện. 
+Bằng cách nào mà bạn thâm nhập được vào thung lũng Silicon? 
+Được sự giới thiệu của một người bạn, tôi đã vượt qua hơn 5.000 km từ Boston đến thành phố San Jose, California - nơi được mệnh danh là thủ phủ của thung lũng Silicon nổi tiếng thế giới, trụ sở của hàng loạt các đại gia: Cisco, Intel, Yahoo, Google... Tôi cũng đã có cơ hội tiến sâu vào bên trong tòa nhà của một công ty lớn chuyên về sản xuất chip. 
+Khoác trên mình chiếc áo xanh của những người thường được gọi là “equipment engineer” (kỹ sư linh kiện), tôi chứng kiến tận mắt những cỗ máy trị giá hàng trăm ngàn đến hàng triệu USD nằm san sát nhau chuyên để kiểm tra các con chip trong những môi trường khắc nghiệt trước khi có thể sản xuất đại trà với số lượng lớn. 
+Tôi hỏi một nhân viên trong công ty về công việc anh đang làm. Anh ta nói công việc của anh rất nhẹ nhàng (bởi ở đây đánh giá khả năng làm việc của nhân viên dựa vào sản phẩm mà họ làm ra chứ không phải những quy định như số giờ làm việc là 8 giờ mỗi ngày)... Theo Thiên Long Thanh Niên

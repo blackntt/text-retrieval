@@ -1,0 +1,7 @@
+﻿Đồng hồ báo thức chấm dứt cơn buồn ngủ nhẹ nhàng.
+
+Theo Eric Shashoua vừa mới tốt nghiệp trường đại học Brown cùng nhiều người bạn cùng sáng chế, chiếc đồng hồ của họ có tên gọi “SleepSmart” cho phép người ta tránh được cảm giác mệt mõi và khó chịu khi thức giấc vì tiếng chuông báo thức chỉ được kích hoạt trong pha ngủ nhẹ của chu kỳ giấc ngủ, mà theo lý thuyết sẽ giúp người ta thức dậy với một tinh thần sảng khoái hơn. 
+SleepSmart sẽ ước lượng chu kỳ giấc ngủ của người sử dụng nó và chờ cho họ bước vào pha ngủ nhẹ nhất để đánh thức họ mỗi sáng. Để thực hiện điều này, ngừơi sử dụng sẽ đội lên đầu một bộ vi xử lý và một dải băng có các điện cực. Một hệ thống ghi nhận các làn sóng ở não trong suốc chu kỳ ngủ. Và các thông tin này được truyền trực tiếp – không qua dây - đến đồng hồ báo thức. Trước đó, đồng hồ được lập trình báo thức vào giờ giới hạn mà người sử dụng muốn được đánh thức. Đồng hồ chỉ reo vào cuối pha ngủ nhẹ trước giờ đã định. 
+Eric Shashoua cho biết nhóm bạn của mình đã thành lập một công ty để phát triển sản phẩm trên và hi vọng sẽ tung ra thị trường vào năm tới.
+
+T.DANH (Theo Reuters)

@@ -1,0 +1,6 @@
+﻿Google thử nghiệm trang kết quả tìm kiếm nâng cao
+
+Hãng tìm kiếm khổng lồ Mỹ đang thử nghiệm một định dạng trang mới cho các kết quả tìm kiếm web của mình, cho phép người dùng mở rộng đáng kể các chi tiết được cung cấp bên dưới các liên kết tới trang web. 
+ Định dạng mới cho người dùng tùy chọn xem nhiều văn bản hơn so với một hay hai dòng như Google thường cung cấp dưới mỗi liên kết website trả về sau một truy vấn. Một vài kết quả còn bao gồm cả hình ảnh từ trang web, giống kiểu Google thực hiện các dịch vụ tìm kiếm khác, chẳng hạn như Google News. 
+Các kết quả mở rộng có chứa một hộp tìm kiếm cho phép người dùng chạy một truy vấn cụ thể trên trang web đó. Ngoài ra, nó còn đưa ra các liên kết tới các trang khác có chủ đề liên quan tới danh sách kết quả. 
+Trang kết quả thử nghiệm này phù hợp với mô tả về công nghệ bộ máy tìm kiếm mới có tên Orion mà Google mới mua lại từ một sinh viên của đại học New South Wales, Úc. Theo báo cáo, Orion giúp tăng lượng thông tin trên mỗi trang kết quả, giúp họ đưa ra quyết định chính xác liệu có muốn duyệt qua danh sách các site được liệt kê hay không. Theo AI VietNam/InfoWorld

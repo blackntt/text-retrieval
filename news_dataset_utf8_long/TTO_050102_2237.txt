@@ -1,0 +1,8 @@
+﻿Cân bằng âm thanh các tập tin Audio
+
+Tính năng chính của chương trình là chuyển đổi giữa các định dạng âm thanh thông dụng với nhau như: MP3, Wav, WMA, OGG nhưng chính tính năng Normalize (cân bằng âm thanh) mới tạo ra sự khác biệt với các sản phẩm cùng loại. 
+Cách sử dụng: bạn hãy nhấn nút Add File và chọn những tập tin âm thanh. Sau đó chọn định dạng cần chuyển đổi trong phần Output Format. Cuối cùng là nhấn vào nút Convert để chương trình thực hiện quá trình chuyển đổi hoặc nhấn nút Normalize để cân bằng chất lượng âm thanh cần chuyển đổi. 
+Bạn cũng có thể vào phần Setting để hiệu chỉnh các thông số về định dạng MP3, WAV, WMA hay OGG tùy theo nhu cầu sử dụng của bạn. Hoặc bạn muốn thêm thông tin về một tập tin âm thanh nào đó thì bạn có thể nhấn nút Tag Edit. 
+Chương trình được cung cấp tại website: http://www.cd-to-mp3-converter.com/ với dung lượng khỏang 2,74 MB, tương thích với các hệ điều hành Windows XP.
+
+GIANG VŨ VĂN

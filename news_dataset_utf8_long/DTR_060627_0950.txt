@@ -1,0 +1,9 @@
+﻿Laptop dễ bị hỏng phần cứng
+
+Trong khi máy tính xách tay dần trở thành phương tiện làm việc chính của người dùng thì theo khảo sát của Gartner, gần 1/5 laptop bị “đứt gánh” phần cứng trong khi các bộ phận khác của máy đều hoạt động tốt. 
+ Khảo sát của Gartner nhận thấy, có những phần bị hỏng rất đơn giản, như mấu then gắn hai thân của laptop, hay những bộ phận thường xuyên hỏng nhất, trong đó có bo mạch chủ (motherboard) và ổ cứng. 
+Máy tính để bàn cũng có nguy cơ bị hỏng tương tự nhưng thực tế lại rất ít khi xảy ra. Gartner ước tính chỉ 5% trong số PC bán ra năm 2005 – 2006 bị lỗi phần cứng trong 1 năm đầu tiên và 12% bị lỗi trong 4 năm sau đó. Trong khi đó, 15% laptop bị hỏng hóc trong năm đầu tiên sử dụng và 22% bị lỗi phần cứng trong 4 năm sau. 
+Trong những năm gần đây, hỏng màn hình là lỗi phổ biến nhất trong laptop. Tuy nhiên, mọi sự đã thay đổi, bà Leslie Fiering, Phó giám đốc nghiên cứu của Gartner, khẳng định. Các công ty sản xuất laptop đã cải thiện thiết kế, giúp giảm rủi ro bị vỡ màn hình bằng cách bổ sung thêm vật liệu cứng khi sản xuất vỏ máy tính và gờ để lắp mặt màn hình. Các công ty này cũng đồng thời tăng thêm khoảng cách giữa màn hình và bàn phím để không bị va chạm khi đóng máy. 
+Bo mạch chủ đang trở nên phức tạp hơn. Trước đây, các nhân viên IT có thể thay thế riêng rẽ các bộ phận, như card mạng hay modem nhưng bây giờ thì những bộ phận này đều được tích hợp trên bo mạch. Do đó, để sửa từng bộ phận thì phải thay thế toàn bộ motherboard. 
+Mặc dù vậy, các công ty sản xuất máy tính đang cố gắng sản xuất những model bền bỉ hơn, bà Fiering ghi nhận. 
+N.H Theo PCWorld

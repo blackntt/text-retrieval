@@ -1,0 +1,18 @@
+﻿ 76 mẹo vặt trong Windows : Bắt_đầu thuận_lợi ( Phần VI )
+Trước_tiên cài tất_cả các ứng_dụng của bạn trên máy mới , sau đó chọn Start , All_Programs , Accessories , System_Tools , Files and Settings_Transfer_Wizard , và thực_hiện theo các chỉ_dẫn ( xem hình 7 ) .
+46 . ( XP ) Đừng quên khi có số_lượng thư lớn :
+Nếu bạn chọn Setting only khi chạy Files and Settings_Transfer_Wizard và sử_dụng đĩa_mềm để di_chuyển các cài_đặt . Windows chỉ chuyển các thư trong Outlook_Express khi số_lượng thư có_thể chứa hết trong đĩa . Hãy sử_dụng các đĩa có dung_lượng lớn hơn sao cho nó có_thể chứa tất_cả các thư_điện_tử hiện có trên máy của bạn .
+47 . ( All ) Sử_dụng tất_cả các tính_năng mà hệ_điều_hành cung_cấp cho bạn :
+Không phải tất_cả các công_cụ hay tiện_ích nào của Windows mà bạn cần đều được cài_đặt trên máy_tính . Mở bất_kỳ cửa_sổ thư_mục hoặc Explorer , sau đó nhập vào thanh Address nội_dung Control_Panel \ Add/Remove Programs ( nếu bạn dùng Windows 98 , 2000 hoặc Me ) hay Control_Panel \ Add or Remove_Programs nếu dùng Windows XP . Nhấn vào nút Windows_Setup hoặc Add.Remove Windows_Components , chọn một thành_phần , và nhấn nút Details ( nếu có ) . Bạn có_thể nhấn vào nút Details thêm lần nữa để thấy thêm một_số thành_phần con . Chọn các thành_phần mà bạn muốn cài_đặt . Có_thể bạn sẽ được yêu_cầu chèn đĩa Windows CD vào trong khay đĩa để cài_đặt các thành_phần được chọn .
+48 . ( 2K , ME , XP ) Tăng tốc_độ cho các ổ_đĩa của bạn :
+Để tạo shortcut thực_hiện chức_năng làm sạch ổ_đĩa của bạn theo cách mà bạn muốn , chọn Start , Run và đánh vào câu_lệnh cleanmgr / sageset : , sau đó nhập vào một số_từ 0 đến 65535 , rồi nhấn Enter ( số nhập vào biểu_diễn cho chức_năng mà bạn muốn chọn . Chọn các cài_đặt mà bạn muốn rồi nhấn OK . Để tạo một shortcut thực_hiện chức_năng Disk_Cleanup , nhấn chuột phải trên Desktop hoặc trong một thư_mục và chọn New , Shortcut . Trong ô nhập liệu , đánh vào lệnh cleanmgr / sagerun : x ( thay x bằng số mà bạn nhập vào ở trên ) , sau đó thực_hiện các hướng_dẫn để hoàn_thành việc tạo shortcut .
+49 . ( 2K , ME , XP ) Cập_nhật tự_động :
+Để tự_động thực_hiện tiện_ích Windows_Update trong Windows XP . Nhấn chuột phải vào My_Computer , chọn Properties , và nhấn chọn thẻ Automatic_Updates . Trong_Windows 2000 và XP , chọn Keep my computer up to date . Trong các phiên_bản còn lại , chọn một trong tùy chọn được đưa ra ( xem hình 8 ) .
+50 . ( ME , XP ) Bỏ các cập_nhật tự_động :
+Windows tạo ra một điểm phục_hồi trước khi nó thực_hiện việc cập_nhật . Xem_lại mục 24 để thấy các hướng_dẫn bắt_đầu System_Restore . Trên màn_hình Select a Restore_Point , chọn ngày cập_nhật , chọn điểm phục_hồi trước khi có cập_nhật này , chọn Next , và thực_hiện theo chỉ_dẫn .
+51 . ( 98 , 2K ) Thêm tiện_ích cập_nhật :
+Phiên_bản Windows 98 và 2000 trước Service_Pack 3 cần tiện_ích Windows_Critical_Update_Notification đề kiểm_tra các phần đã được cập_nhật tự_động . Nhấn đúp chuột lên biểu_tượng Scheduled_Tasks trong khay hệ_thống hoặc trong Control_Panel . Nếu tiện_ích chưa có ở đó , vào trang windowsupdate . microsoft.com , chọn Pick updates to install , sau đó chọn Critical_Updates and Service_Packs . Tìm và chọn tiện_ích này .
+52 . ( All ) Cập_nhật bằng tay :
+Để làm mới Windows theo cách củ , bạn sẽ tự tìm các miếng vá có sẵn để cập_nhật : chọn Start , Windows_Update or Start , All_Programs , Windows_Update và thực_hiện các hướng_dẫn tại trang Windows_Update .
+Còn nữa
+BẢO_TOÀN

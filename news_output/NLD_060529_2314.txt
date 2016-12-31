@@ -1,0 +1,4 @@
+﻿ Nokia công_bố mã nguồn trình_duyệt cho ĐTDĐ
+Nokia vừa công_bố mã nguồn của trình_duyệt web cho điện_thoại_di_động ( ĐTDĐ ) của hãng trong nỗ_lực khuyến_khích ngành công_nghiệp tiêu_chuẩn_hóa một trình_duyệt web .
+Bất_kỳ nhà_sản_xuất nào cũng có_thể sử_dụng và hiệu_chỉnh mã nguồn nói trên để phục_vụ cho nhu_cầu của họ . Nokia đã thiết_kế trình_duyệt web nói trên cho dòng ĐTDĐ_S6 0 vào năm ngoài , sử_dụng cùng loại mã nguồn mở được Apple_Computer dùng cho trình_duyệt Safari và thêm vào những tính_năng cải_tiến để nó phù_hợp cho việc duyệt web trên điện_thoại .
+Theo PC World

@@ -1,0 +1,11 @@
+﻿Nhật Bản bị rò rỉ 4 triệu dữ liệu cá nhân
+
+Thông tin cá nhân, gồm tên, địa chỉ, số điện thoại của gần 4 triệu khách hàng của nhà cung cấp dịch vụ viễn thông nước này KDDI vừa bị lọt ra ngoài. 
+ 
+KDDI cho biết, tất cả dữ liệu của 3.996.789 thuê bao của họ từ ngày 18/12/2003 bị kẻ gian ăn cắp. Ngoài ra còn có thông tin về giới tính, ngày sinh nhật và địa chỉ e-mail của những khách hàng này. 
+Yoko Watanabe, phát ngôn viên của hãng viễn thông có trụ sở ở Tokyo, cho biết, KDDI phát hiện ra thảm họa này vào ngày 31/5 sau khi nhận được một cuộc điện thoại của một người cho biết đang sở hữu đĩa CD-ROM chứa những thông tin về khách hàng của họ. 
+Cũng trong ngày 31/5, cảnh sát Tokyo đã bắt được 2 người đàn ông bị tình nghi đã ăn trộm 5 triệu – 10 triệu Yen của KDDI. Hai người này thú nhận là thủ phạm ăn trộm 4 triệu thông tin cá nhân của khách hàng KDDI. 
+Trong thời gian gần đây xảy ra nhiều vụ rò rỉ thông tin rất dáng báo động. Một số công ty bị mất dữ liệu cá nhân rất nhiều lần vì virus đột nhập vào máy tính để chạy các chương trình chia sẻ file. Tin tặc giả danh một tổ chức nào đó gửi phiếu thanh toán và gọi điện yêu cầu người dùng trả phí cho những dịch vụ mà họ không dùng. Người dùng thường bị lừa gửi tiền rồi mới phát hiện ra trò gian lận tinh vi này. 
+Thời gian qua, Nhật Bản cũng ghi nhận một số vụ gian lận tương tự. 
+KDDI là hãng cung cấp dịch vụ viễn thông lớn thứ 2 Nhật Bản. Hãng hoạt động trên mạng điện thoại cố định, Internet dial-up, băng thông rộng và cả điện thoại di động. 
+N.H Theo TechWorld

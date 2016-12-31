@@ -1,0 +1,7 @@
+﻿ Bùng_nổ lỗi phần_mềm của Microsoft
+Các công_ty bảo_mật khuyến_cáo về tình_hình an_ninh rất đáng báo_động trong các sản_phẩm phần_mềm của Microsoft . Chỉ riêng 5 tháng đầu năm 2006 , hãng này đã vá 36 lỗ_hổng nghiêm_trọng trong các phần_mềm , tăng 70% so vời cùng kỳ 2005 .
+Mặc_dù vậy , Microsoft lại cho rằng số_lượng lỗi nghiêm_trọng trong thời_gian trên không_thể báo_hiệu một xu_hướng đáng lo_ngại .
+Microsoft còn cho_biết thêm , nỗ_lực giảm số lỗi phần_mềm của hãng đã rất thành_công trong một_số sản_phẩm , như Windows_Server 2003 và SQL Server 2005 . Gã khổng_lồ này cũng bác_bỏ suy_đoán rằng những cuộc_thi tìm lỗi có thưởng do hai hãng i Defense và TippingPoint tổ_chức mỗi quý là một nguyên_nhân khiến số lỗi của Microsoft tăng nhanh như_thế .
+Công_ty bảo_mật i Defense cũng đồng_tình với Microsoft và cho rằng bây_giờ là quá sớm để đưa ra một kết_luận về sự bùng_nổ lỗi an_ninh trong phần_mềm Microsoft .
+TippingPoint và i Defense chỉ là số_ít trong số những công_ty bảo_mật trao giải_thưởng cho những cá_nhân , tổ_chức cung_cấp thông_tin về những khuyếm khuyết chưa được vá . Có_thể xung_quanh chúng_ta đang tồn_tại một thị_trường “ chợ_đen ” cung_cấp thông_tin cho tin_tặc để ăn_trộm thông_tin nhận_dạng cá_nhân , dữ_liệu của các cơ_quan tình_báo quốc_gia .
+N . H_Theo VNuNet

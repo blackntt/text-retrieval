@@ -1,0 +1,12 @@
+﻿ Chuyển_đổi tập_tin media với Video_Converter
+Videora ( phiên_bản mới nhất_là 2.0 ) vốn là một chương_trình thương_mại , cung_cấp công_cụ tải về các video theo giao_thức P2P ( peer to peer ) với tính_năng tự_động tìm_kiếm và tối_ưu_hóa đường truyền .
+Tuy_nhiên , Videora_Converter lại là một bộ công_cụ miễn_phí . Bộ công_cụ này gồm có 4 phần_mềm riêng_lẻ , phục_vụ cho việc chuyển định_dạng các tập_tin trực_tiếp từ i Pod , Xbox 360 , Tivo hoặc Play_Station sang dạng Mpeg4 và chuyển sang máy_tính . Từ đó , bạn có_thể dùng một trong các chương_trình chuyển_đổi khác có trên máy_tính để chuyển sang các định_dạng tập_tin quen_thuộc .
+Chương_trình cũng giúp cho bạn chuyển các tập_tin media ( video , âm_nhạc , hình_ảnh ) từ máy_tính ( ở các định_dạng như avi , mpeg ... ) trực_tiếp sang thiết_bị chơi media cầm tay để sử_dụng . Bạn có_thể quay video một đoạn băng về gia_đình và đem theo nó trên các chuyến đi xa , hay như sưu_tập các bài hát yêu_thích và chuyển nó vào các máy chơi media cầm tay để rồi " rong_ruổi " trên đường_phố với những bài hát mình yêu_thích .
+Giao_diện chương_trình rất đơn_giản và dễ sử_dụng . Bộ chương_trình gồm có 4 công_cụ là :
+Videora i Pod_Converter
+Videora_Ti Vo_Converter
+Videora_Xbox 360 Converter
+PSP Video 9
+dành cho 4 máy chơi media thời_thượng nhất hiện_nay . Bạn có_thể vào các link kèm theo để download về sử_dụng .
+Hy_vọng bạn sẽ có những giờ_phút thú_vị với chiếc máy của mình nhờ vào bộ công_cụ này .
+H& amp ; Q

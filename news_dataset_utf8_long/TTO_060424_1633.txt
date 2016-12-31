@@ -1,0 +1,7 @@
+﻿Gậy thông minh giúp người khiếm thị
+
+Gậy thông minh gồm có hai phần: kỹ thuật rung để phát hiện các chướng ngại vật và thiết bị siêu âm để giúp sử dụng xe buýt. Với các thiết bị dò tìm và cảnh báo bằng xung động, loại gậy mới có thể dò tìm đường ở mức từ đầu gối trở lên và phán đoán các chướng ngại vật trong vòng ba mét, so với những loại gậy trên thị trường chỉ giúp dò tìm đường từ phía trên đầu gối trong vòng một mét. 
+Cùng với hệ thống xác định vô tuyến do người sử dụng kích hoạt, bộ kiểm soát tín hiệu cảnh báo xung động và một loa sử dụng pin, gậy thông minh có thể gửi tần số vô tuyến tới xe buýt để biết số hiệu của xe và phát âm cho người sử dụng biết. Người sử dụng mang tai nghe biết được số xe buýt và đi theo hướng thích hợp để đến cửa xe. 
+Tuy nhiên cần phải có một hộp điện tử nhỏ gắn ở cửa xe búyt để hộp này đáp lại tần số vô tuyến do thiết bị của gậy thông minh phát ra.
+
+Q.HƯƠNG (theo Xinhuanet)

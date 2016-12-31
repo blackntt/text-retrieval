@@ -1,0 +1,18 @@
+﻿Tự động tải hình ảnh trên mạng với GoogleGrab
+
+Bạn muốn tìm kiếm ảnh của diễn viên hay người bạn yêu thích, và thật rắc rối khi bạn cứ phải click save as từng cái ảnh để tải ảnh về, trong khi ảnh nào bạn cũng muốn tải. Phần mềm Google Grab là một giải pháp rất hữu hiệu thay bạn làm công việc đó. 
+ Với thiết kế vô cùng đơn giản và dễ sử dụng, không cần cài đặt chỉ cần click vào là có thể sử dụng được ngay. Chương trình thực sự vô cùng hữu ích với các bạn hay thường xuyên tìm kiếm ảnh trên mạng. 
+Hướng dẫn sử dụng : 
+Nhập thông tin vào 3 ô trống : 
++ Search For : Nhập tên hình ( VD: Beckham ) 
++ Limit Dowloads : Giới hạn số hình tải về ( VD : 100 hình) 
++ Image Preview : 
+- Chọn On : Nếu muốn xem trước hình đang tải về. 
+- Chọn Off : Nếu muốn tải xong rồi mới xem. 
+Sau đó click vào nút Search để bắt đầu download (hình 1) 
+Hình 1 
+Để tạo điều kiện cho việc dễ dàng phân loại khi bạn nhấn vào nút tìm kiếm, chương trình sẽ tự tạo một thư mục ( thư mục mới được tạo nằm trong cùng một thư mục với file chạy GoogleGrab) với tên là chủ đề bạn tìm kiếm. Ví dụ tôi gõ Beckham để tìm kiếm ảnh của cầu thủ Beckham trên mạng thì trong thư mục chứa file chạy GoogleGrab sẽ được tạo thêm một thư mục mới là Beckham và toàn bộ ảnh Beckham tìm kiếm được sẽ được lưu trong thư mục này. (hình 2) 
+Hình 2 
+Chương trình tương thích với hệ điều hành Windows : 98/Me/2000/XP. 
+Các bạn có thể tải chương trình GoogleGrab tại địa chỉ : 
+http://www.sas21.de/apps/googlegrab/ Quốc Trung

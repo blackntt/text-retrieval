@@ -1,0 +1,4 @@
+﻿ Cấm phân_biệt đối_xử trong kết_nối mạng viễn_thông
+Theo qui_định , khi tổ_chức triển_khai thực_hiện kết_nối giữa các mạng VT công_cộng , các doanh_nghiệp có trách_nhiệm đảm_bảo dung_lượng kết_nối theo kế_hoạch đã thỏa_thuận trong hợp_đồng và đảm_bảo không phân_biệt đối_xử giữa kết_nối nội_bộ của doanh_nghiệp và kết_nối liên mạng với doanh_nghiệp khác .
+Các doanh_nghiệp VT có trách_nhiệm qui_hoạch và xây_dựng mạng VT có dự_phòng đảm_bảo đáp_ứng đủ dung_lượng kết_nối các mạng VT công_cộng . Qui_định còn ấn_định thời_hạn và mức phạt trong trường_hợp không thực_thi đúng hợp_đồng giữa các doanh_nghiệp .
+K . HƯNG

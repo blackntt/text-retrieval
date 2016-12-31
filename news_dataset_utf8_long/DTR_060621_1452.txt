@@ -1,0 +1,9 @@
+﻿Sâu phát tán ảnh khỏa thân trong mùa World Cup
+
+Giới tin tặc vừa phát triển một loại sâu e-mail chứa ảnh khỏa thân, lợi dụng cơn sốt trong mùa giải World Cup để lừa những fan hâm mộ môn thể thao vua mở file đính kèm nguy hiểm. 
+ 
+Sâu Sixem-A lây lan bằng cách ngụy trang trong rất nhiều e-mail có các tiêu đề, như “'Naked World Cup game set” (World Cup khỏa thân), “Soccer fans killed five teens” (Cổ động viên của World Cup giết hại 5 thiếu niên), “Crazy soccer fans” (Cổ động viên điên cuồng), để lừa người dùng click vào file đính kèm nguy hiểm đó. 
+Nếu được kích hoạt, sâu Sixem-A sẽ làm tê liệt phần mềm an ninh trên máy tính đã bị nhiễm và sau đó tự phát tán qua các địa chỉ e-mail trong danh sách của người dùng. 
+“Tin tặc tìm cách lợi dụng tâm lý ham mê giải đấu lớn nhất hành tinh này để hoành hành”, Graham Cluley, nhà cố vấn công nghệ của Sophos, nhận định. “Và chúng cũng nhắm tới những người dùng “mê” cảnh “nuy” bên lề World Cup”. 
+Đây không phải là lần đầu tiên hacker “ăn theo” World Cup. Trong giải đấu ở Pháp năm 1998, tin tặc cũng lừa nạn nhân đánh cược đội tuyển chiến thắng, nếu chọn không đúng đội đăng quang vào cuối mùa giải thì virus sẽ tấn công, xóa toàn bộ dữ liệu trong ổ cứng của máy. 
+N.H Theo VNuNet

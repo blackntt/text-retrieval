@@ -1,0 +1,6 @@
+﻿ Microsoft chính_thức tung ra bản SP2
+Theo phát_ngôn_viên của Microsoft , SP2 cung_cấp mảnh vá cho một_số lỗ_hổng bảo_mật của Windows cùng nhiều tính_năng bảo_mật khác .
+Hiện_tại , người sử_dụng có_thể cập_nhật miễn_phí SP2 từ website của Microsoft hoặc tính_năng cập_nhật tự_động của hệ_điều_hành Windows XP . Dự_kiến , trong thời_gian tới SP2 còn được cung_cấp ở 25 ngôn_ngữ khác_nhau .
+" SP2 là bước_tiến quan_trọng trong việc thực_hiện mục_tiêu bảo_mật máy_tính , mạng máy_tính của khách_hàng trước các cuộc tấn_công ngày_càng tinh_vi và phức_tạp " , Chủ_tịch Microsoft_Bill_Gates tuyên_bố .
+Microsoft dự_kiến sẽ phân_phối bản cập_nhật tới khoảng 100 triệu máy_tính_cá_nhân trong vòng 2 tháng tới .
+Theo VDCMedia

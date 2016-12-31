@@ -1,0 +1,5 @@
+﻿ Robot đa_năng
+Đại_học Nam_California ( Mỹ ) đã thiết_kế một loại robot có_thể bò như rắn , uốn cong thành bánh_xe , đi bộ như những đôi chân bình_thường và chạy như xe_tăng .
+Mang tên SuperBot , con robot này được chế_tạo để thích_ứng với mọi địa_hình khác_nhau và đủ linh_hoạt để hoạt_động trong các môi_trường không_thể dự_đoán được .
+" Hôm_nay bạn muốn đào_bới , ngày_mai bạn muốn vận_chuyển đồ_vật , ngày hôm_sau nữa bạn muốn khám_phá các hố sâu ở cực nam mặt_trăng , SuperBot của chúng_tôi có_thể làm được tất_cả những việc này " , Phó_giáo_sư Wei-Min Shen - tham_gia cuộc nghiên_cứu trên - tự_hào cho_biết . Các nhà_khoa_học hy_vọng trong tương_lai , SuperBot sẽ kiếm một chỗ trên tàu_con_thoi để lên thám_hiểm mặt_trăng và sao Hỏa .
+Theo Thanh_Niên

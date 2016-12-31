@@ -1,0 +1,35 @@
+﻿ Sẽ tiếp_tục có cuộc đua giá cước mạng di_động ?
+Ngày_càng có thêm sự lựa_chọn cho người sử_dụng mạng điện_thoại_di_động ( NLĐO ) - Ngày 1-6 , được coi là thời_khắc lịch_sử đối_với người sử_dụng dịch_vụ điện_thoại_di_động ( ĐTDĐ ) VN sau 11 năm chính_thức có dịch_vụ này .
+Với phương_thức tính cước theo block 6 +1 ( block đầu_tiên tính 6 giây , các block tiếp_theo tính trên từng giây ) ở tất_cả 5 mạng : VinaPhone ( 091 ) , MobiFone ( 090 ) , Viettel_Mobile ( 098 ) , Sfone ( 095 ) và Emobile ( 096 ) lần đầu_tiên khách_hàng đã trả tiền với đúng những gì họ sử_dụng .
+Chúng_ta cùng giảm_giá
+Ngoài việc thay_đổi phương_thức tính cước , kể từ 1-6 , hai mạng GSM lớn nhất_là VinaPhone và MobiFone đã bắt_đầu áp_dụng giá cước , mức cước mới . Đối_với dịch_vụ trả sau là 150 đồng / 6 giây đầu_tiên và 25 đồng cho mỗi giây tiếp_theo ; cước hoà_mạng cũng được giảm xuống còn 150.000 đồng/lần . Dịch_vụ trả trước , cước liên_lạc cũng được giảm xuống còn 250 đồng / 6 giây đầu_tiên và 42 đồng cho mỗi giây tiếp_theo . Ngoài_ra , 2 mạng di_động này cũng đưa ra các gói cước trả sau dành cho các khách_hàng dùng nhiều ...
+Từ 1-6 , Viettel_Mobile cũng công_bố việc giảm_giá cước đối_với các dịch_vụ di_động . Theo đó , cước hoà_mạng trả sau chỉ còn 119.000 đồng/lần ; cước liên_lạc ngoài mạng là 139 đồng / 6 giây đầu_tiên và 23 đồng cho mỗi giây tiếp_theo ; cươc nội mạng là 129 đồng / 6 giây đầu_tiên và 21,5 đồng cho mỗi giây tiếp_theo . Đối_với dịch_vụ trả trước , cước liên_lạc ngoài mạng là 219 đồng / 6 giây đầu_tiên và 36,5 đồng cho mỗi giây tiếp_theo ; cước nội mạng là 199 đồng / 6 giây đầu_tiên và 33 đồng cho mỗi giây tiếp_theo .
+Đối_với 2 mạng CDMA , giá cước của S-Fone không có gì thay_đổi và ở mức khá cao so với các mạng GSM : tương_đương với VinaPhone và MobiFone nhưng cao hơn Viettel_Mobile . Cước hoà_mạng trả sau của S-Fone vẫn là 150.000 đồng/lần ; cước liên_lạc là 150 đồng / 6 giây đầu_tiên và 25 đồng cho mỗi giây tiếp_theo ( gói Standard ) . Cước liên_lạc trả trước ( gói Economy ) là 240 đồng / 6 giây đầu_tiên và 40 đồng cho mỗi giây tiếp_theo . . .
+Sẽ xảy_ra cuộc đua giảm_giá mới ?
+Trong cuộc chạy_đua này , xem_ra gã lính mới Emobile là có mức cước hợp_lý nhất vào thời_điểm hiện_nay và được các chuyên_gia đánh_giá có_thể là ngòi_nổ cho cuộc đua giảm_giá di_động tới đây . Cước hoà_mạng trả sau của Emobile là 100.000 đồng/lần ; cước liên_lạc ngoài mạng là 132 đồng / 6 giây đầu_tiên , 22 đồng cho mỗi giấy tiếp_theo ; cước nội mạng là 100 đồng / 6 giây đầu_tiên ; 16,67 đồng cho mỗi giây tiếp_theo . Đối_với dịch_vụ trả trước : cước ngoài mạng là 214,5 đồng / 6 giây đầu_tiên và 35 , 2 đồng cho mỗi giây tiếp_theo ; cước nội mạng là 196,9 đồng / 6 giây đầu_tiên và 31,9 đồng cho mỗi giây tiếp_theo .
+Bên_cạnh đó , cũng theo giới chuyên_môn , với thế mạnh sử_dụng công_nghệ CDMA , với khả_năng cung_cấp nhiều dịch_vụ tiện_ích trên mạng di_động , 096 sẽ là mối lo cho 4 mạng di_động còn lại . Emobile cho_phép truy_cập Internet với tốc_độ cao gấp 4 lần tốc_độ của truy_cập dial up thông_thường , gần tương_đương với tốc_độ truy_cập ADSL mức trung_bình hiện_nay . Với một chiếc máy_tính_xách_tay và một chiếc di_động hoà_mạng Emobile , khách_hàng có_thể đi khắp các tỉnh tại VN để truy_cập Internet tốc_độ cao mà không sợ bị gián_đoạn liên_lạc với giá cước chỉ 198 đồng/phút ( đã bao_gồm cước di_động , cước Internet và thuế VAT ) ” .
+Bảng giá so_sánh cước
+đơn_vị : đồng/phút
+Dịchvụ
+Hoàmạng
+T rảsau
+Trả trước
+ViettelMobile
+119.000
+1.290 ( nộimạng )
+1.390 ( ngoài mạng )
+1.990 ( nội mạng )
+2.190 ( ngoài mạng )
+Vina , Mobi
+150.000
+1.500 ( nội mạng )
+1.500 ( ngoài mạng )
+2.500 ( nội mạng )
+2.500 ( ngoài mạng )
+Emobile
+100.00
+1.000 ( nội mạng )
+1.320 ( nội mạng )
+1.969 ( nội mạng )
+2.145 ( ngoài mạng )
+Bảo_Trân

@@ -1,0 +1,7 @@
+﻿Lỗi bảo mật mới gây hại cho Internet Explorer 6
+
+Michal Zalewski đã thông báo rộng rãi lỗi trình duyệt này cho các công ty bảo mật và tiết lộ rằng đây là một dạng lỗi gây tràn bộ nhớ đệm có thể gây hại nặng nề cho Internet Explorer 6 nói riêng và Windows nói chung. 
+Công ty bảo mật Secunia cũng đã thừa nhận rằng lỗi bảo mật này có thể tạo điều kiện cho hacker lợi dụng để phá hoại máy tính của người dùng, nó ảnh hưởng đến các bản Windows XP Service Pack 2. Secunia cũng an ủi người dùng rằng mức độ nguy hại của lỗi này cũng không đến mức độ nghiêm trọng. 
+Microsoft hiện đang tích cực điều tra về lỗi bảo mật nói trên và cho biết rằng chưa có ai bị thiệt hại gì do lỗi bảo mật này gây ra. Microsoft hứa sẽ cập nhật bản vá của lỗi này trong thông báo bảo mật đưa ra vào cuối tháng 3 này.
+
+HOÀNG HẢI (Theo CNET)

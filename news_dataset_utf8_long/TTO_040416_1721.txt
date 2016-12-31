@@ -1,0 +1,10 @@
+﻿76 mẹo vặt trong Windows: Xem DVD (Phần VIII)
+
+Nếu bạn dùng Windows Media Player 9 để mở DVD, sử dụng biểu tượng full-screen ở góc dưới bên phải của chương trình để phóng to thu nhỏ, hay nhấn Alt-Enter để chuyển qua lại giữa chể độ toàn màn hình hay bình thường. Di chuyển con trỏ chuột ra phía xa của góc màn hình (sau đó giữ chuột đứng yên) để làm ẩn đi hộp điều khiển và hiển thị hình ảnh trên toàn bộ màn hình. Để hiển thị lại hộp điều khiển di chuyển chuột vào trong vùng hiển thị của màn hình. 
+63. Điều khiển tốc độ DVD: 
+Khi mở DVD bằng Windows Media Player 9, nhấn chuột hay kéo thanh trượt để di chuyển tới hay lui trở lại. Nhấn Ctrl-Shift-F để xem nhanh các hình ảnh, Ctrl-Shift-G để tăng tốc độ xem, Ctrl-Shift-S để xem chậm lại. Ctrl-Shift-N để chạy lại với tốc độ bình thường. 
+64. Điều khiển DVD bằng bàn phím: 
+Một số phím điều khiển được dùng khi xem DVD là Ctrl-P để tạm dừng hoặc chạy lại, F10 dùng để tăng và F9 dùng để giảm âm lượng, F8 để tắt tiếng. 
+Còn nữa
+
+BẢO TOÀN

@@ -1,0 +1,54 @@
+﻿Hệ số “chọi” ở các trường ĐH, CĐ phía Nam
+
+Ngày 9-5, Vụ ĐH và Sau ĐH đã thống kê xong hồ sơ đăng ký dự thi vào các trường ĐH, CĐ trong cả nước. Trên cơ sở này, Báo Người Lao Động tính ra hệ số “chọi” để kịp thời cung cấp cho thí sinh.
+ĐH Quốc gia TPHCM 
+- ĐH Bách khoa: chỉ tiêu: 3.500, ĐKDT: 9.826, hệ số “chọi”: 2,81. 
+- ĐH Khoa học Tự nhiên: 3.320, 18.963, 5,71. 
+- ĐH Khoa học Xã hội và Nhân văn: 2.520, 14.830, 5,88. 
+- ĐH Quốc Tế: 770, 1.424, 1,84. 
+- Khoa Kinh tế: 1.450, 7.141, 4,92. 
+ĐH Huế 
+- ĐH Khoa học: 1.350, 12.387, 9,17. 
+- ĐH Kinh tế: 780, 10.215, 13,09. 
+- ĐH Nghệ thuật: 200, 1.785, 8,92. 
+- ĐH Ngoại ngữ: 600, 3.273, 5,45. 
+- ĐH Nông Lâm: 1.100, 9.516, 8,65. 
+- ĐH Sư phạm: 1.150, 14.898, 12,95. 
+- ĐH Y: 600, 6.380, 10,63. 
+- Khoa Giáo dục thể chất: 120, 998, 8,31. 
+ĐH Đà Nẵng: 6.000, 16.534, 7,75. 
+- ĐH Kinh tế: 13.676 
+- ĐH Bách khoa: 11.400. 
+- ĐH Ngoại ngữ: 885, 4.524, 5,11. 
+- ĐH Sư phạm: 1.500, 16.934, 11,28. 
+ĐH An Giang: 2.150, 15.488, 7,20. 
+ĐH Bán công Marketing: 1.594, 6.153, 3,86. 
+ĐH Bán công Tôn Đức Thắng: 2.850, 9.540, 3,34. 
+ĐH Cần Thơ: 5.300, 58.188, 10,97. 
+ĐH Công nghiệp TPHCM: 3.400, 30.354, 8.92. 
+ĐH Đà Lạt: 3.200, 22.472, 7,02. 
+ĐH Giao thông Vận tải TPHCM: 2.110, 11.981, 5,67. 
+ĐH Kiến trúc TPHCM: 1.000, 7.857, 7,85. 
+ĐH Kinh tế TPHCM: 5.000, 41.097, 8,21. 
+ĐH Luật TPHCM: 990, 16.379, 16,56. 
+ĐH Ngân hàng TPHCM: 1.600, 13.006, 8,12. 
+ĐH Nông Lâm TPHCM: 3.660, 48.862, 13,35. 
+ĐH Quy Nhơn: 2.800, 30.587, 10,92. 
+ĐH Sư phạm Đồng Tháp: 2.450, 9.481, 3,86. 
+ĐH Sư phạm Kỹ thuật TPHCM: 3.000, 18.267, 6,08. 
+ĐH Sư phạm TPHCM: 2.100, 24.955, 11,88. 
+ĐH Sư phạm Thể dục Thể thao TPHCM: 550, 2.918, 5,30. 
+ĐH Tây Nguyên: 1.800, 21.271, 11,81. 
+ĐH Tiền Giang: 1.120, 6.124, 5,46. 
+ĐH Thể dục Thể thao 2: 300, 3.952, 13,17. 
+ĐH Thủy sản: 2.450, 12.324, 5,03. 
+ĐH Văn hóa TPHCM: 300, 4.676, 15,58. 
+ĐH Y Dược Cần Thơ: 420, 8.285, 19,72. 
+ĐH Y Dược TPHCM: 1.020, 18.701, 18,33. 
+ĐH Mở - Bán công TPHCM: 3.120, 10.845, 3,47. 
+Trung tâm Đào tạo và Bồi dưỡng Cán bộ Y tế TPHCM: 120, 1.476, 12,3. 
+ĐH Dân lập Kỹ thuật-Công nghệ TPHCM: 1.700, 3.618, 2,12. 
+ĐH Dân lập Lạc Hồng: 1.550, 4.585, 2,95. 
+ĐH Dân lập Ngoại ngữ - Tin học TPHCM: 1.500, 5.630, 3,75. Trường CĐ Bán công Hoa Sen: 1.400, 16.037, 11,45.
+
+Q.A - M.D

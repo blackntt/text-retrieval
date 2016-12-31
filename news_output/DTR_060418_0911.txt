@@ -1,0 +1,7 @@
+﻿ Tăng đột_biến các vụ “ đột_kích ” dùng rootkit
+Các nhà_nghiên_cứu an_ninh của công_ty bảo_mật McAfee nhận thấy , số vụ tấn_công bằng phần_mềm ma và phần_mềm quảng_cáo khai_thác công_nghệ thông_minh rootkit để ẩn_nấp trong chương_trình bảo_mật đã tăng 600% so với 3 năm trước .
+Rất nhiều trường_hợp xảy_ra với sự “ tiếp_tay ” của rootkit và diễn ra tinh_vi hơn rất nhiều . Chỉ riêng t rong quý đầu năm nay , số trường_hợp tấn_công bằng rootkit đã tăng 700% so với cùng kỳ năm_ngoái .
+“ Rõ_ràng các công_nghệ ẩn_nấp , đặc_biệt là rootkit , đang tăng_trưởng với tốc_độ đáng báo_động ” , Stuart_Mc Clure , Phó_giám_đốc quản_lý về các mối đe_dọa toàn_cầu của McAfee . “ Sự phát_triển mạnh_mẽ của malware đang gây khó_khăn , đe_dọa các doanh_nghiệp và người dùng PC” .
+Trước_đây , công_nghệ rootkit khai_thác hệ_thống bằng cách mở cổng hậu , tạo cơ_hội cho hacker dễ_dàng đột_nhập từ xa . Sau_này , công_nghệ còn phát_huy tác_dụng như_là một_cách để ăn_cắp dữ_liệu của người dùng và “ qua_mặt ” phần_mềm an_ninh để không bị phát_hiện và loại_bỏ .
+Vào cuối năm_ngoái , hãng ghi_âm Sony BMG Music_Entertainment đã cài chương_trình rootkit trong đĩa CD của hãng nhằm chống sao_chép bất_hợp_pháp và tránh những lại gây nhiều rủi_ro an_ninh trên máy_tính của người dùng .
+N . H_Theo VNuNet

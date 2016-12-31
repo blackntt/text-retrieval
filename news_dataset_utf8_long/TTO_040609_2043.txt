@@ -1,0 +1,87 @@
+﻿Tổng Quan về J2ME (Phần I)
+
+Hàng loạt các tính năng cao cấp được giới thiệu như chụp hình số, nghe nhạc và đặc biệt nhất là có thể sử dụng các chương trình không phải do nhà sản xuất điện thoại cung cấp. 
+Đây có thể được coi là một cuộc cách mạng trong lĩnh vực di động, nó biến chiếc điện thoại nhỏ bé của bạn thành một chiếc máy tính thu nhỏ, với những chủng loại điện thoại này bạn có thể đọc báo, tiểu thuyết, tra từ điển, bản đồ và nhất là mang thế giới giải trí đến bên cạnh, những bản nhạc hay, những games hay sẽ luôn sẵn sàng mỗi khi bạn cần đến. 
+Đặc biệt hơn, với sự hỗ trợ của nền tảng phần mềm sử dụng cho thiết bị di động, nhà thiết kế còn có thể biến những đồ vật dùng trong gia đình thành những “cỗ máy biết suy nghĩ” như lò vi sóng, hộp điều khiển ti-vi, hệ thống xem DVD, VCD, các máy PDA dùng cho cá nhân và trên xe hơi … 
+Để góp phần cho sự phát triển đó ngoài yếu tố phần cứng thì nền tảng phần mềm là nhân tố quyết định vì chúng ta đã biết, có hàng chục hãng sản xuất điện thoại khác nhau và sử dụng công nghệ khác nhau. 
+Làm sao để các thiết bị phần cứng khác nhau có thể sử dụng chung một nền tảng phần mềm? Đây là nội dung chúng ta sẽ tìm hiểu trong bài viết hôm nay, đó là nền tảng J2ME- Java 2 Platform,Micro Edition. 
+Để có thể hiểu rõ bài viết, độc giả cần phải có kiến thức Java cơ bản 
+a. Lịch sử: J2ME được phát triển từ kiến trúc Java Card, Embeded Java và Personal Java của phiên bản Java 1.1. Đến sự ra đời của Java 2 thì Sun quyết định thay thế Personal Java và đươc gọi với tên mới là Java 2 Micro Edition, hay viết tắt là J2ME. Đúng với tên gọi, J2ME là nền tảng cho các thiết bị có tính chất nhỏ, gọn (Micro có nghĩa là nhỏ trong tiếng Anh). Xem hình bên 
+b. Lý do chọn J2ME: 
+• Java ban đầu được thiết kế dành cho các máy với tài nguyên bộ nhớ hạn chế. 
+• Thị trường của J2ME được mở rộng ra cho nhiều chủng loại thiết bị như: 
+1. Các lọai thẻ cá nhân như Java Card 
+2. Máy điện thoại di động 
+3. Máy PDA (Personal Digital Assistant - thiết bị trợ giúp cá nhân) 
+4. Các hộp điều khiển dành cho tivi, thiết bị giải trí gia dụng … 
+I. Kiến trúc J2ME: phần này sẽ trình bày kiến trúc tổng quát toàn bộ nền tảng Java, để qua đó độc giả có thể thấy rõ hơn chiến lược về Java của Sun 
+A. Giới thiệu các thành phần trong nền tảng J2ME: 
+1. Định nghĩa về Configuration (Cấu hình): là đặc tả định nghĩa một môi trường phần mềm cho một dòng các thiết bị được phân loại bởi tập hợp các đặc tính, ví dụ như: 
+• Kiểu và số lượng bộ nhớ 
+• Kiểu và tốc độ bộ vi xử lý 
+• Kiểu mạng kết nối 
+Do đây là đặc tả nên các nhà sản xuất thiết bị như Samsung, Nokia …bắt buộc phải thực thi đầy đủ các đặc tả do Sun qui định để các lập trình viên có thể dựa vào môi trường lập trình nhất quán và thông qua sự nhất quán này, các ứng dụng được tạo ra có thể mang tính độc lập thiết bị cao nhất có thể. 
+Ví dụ như một lập trình viên viết chương trình game cho điện thoại Samsung thì có thể sửa đổi chương trình của mình một cách tối thiểu nhất để có thể chạy trên điện thọai Nokia. 
+Qua đây ta thấy khẩu hiệu “Write Once, Run Everywhere” của Java đã không còn đúng nữa, nhưng ta cũng phải đánh giá cao sự nổ lực của Sun trong việc tạo ra một môi trường phần mềm chung cho vô số chủng loại thiết bị di động có trên thị trường. 
+Hiện nay Sun đã đưa ra 2 dạng Configuration. 
+2. CLDC (Connected Limited Device Configuration-Cấu hình thiết bị kết nối giới hạn): được thiết kế để nhắm vào thị trường các thiết bị cấp thấp (low-end), các thiết bị này thông thường là máy điện thọai di động và PDA với khoảng 512 KB bộ nhớ. 
+Vì tài nguyên bộ nhớ hạn chế nên CLDC được gắn với Java không dây (Java Wireless ), dạng như cho phép người sử dụng mua và tải về các ứng dụng Java, ví dụ như là Midlet. 
+3. CDC- Connected Device Configuration (Cấu hình thiết bị kết nối): CDC được đưa ra nhắm đến các thiết bị có tính năng mạnh hơn dòng thiết bị thuộc CLDC nhưng vẫn yếu hơn các hệ thống máy để bàn sử dụng J2SE. Những thiết bị này có nhiều bộ nhớ hơn (thông thường là trên 2Mb) và có bộ xử lý mạnh hơn. Các sản phẩm này có thể kể đến như các máy PDA cấp cao, điện thoại web, các thiết bị gia dụng trong gia đình … 
+Cả 2 dạng Cấu hình kể trên đều chứa máy ảo Java (Java Virtual Machine) và tập hợp các lớp (class) Java cơ bản để cung cấp một môi trường cho các ứng dụng J2ME. Tuy nhiên, bạn chú ý rằng đối với các thiết bị cấp thấp, do hạn chế về tài nguyên như bộ nhớ và bộ xử lý nên không thể yêu cầu máy ảo hổ trợ tất cả các tính năng như với máy ảo của J2SE, ví dụ, các thiết bị thuộc CLDC không có phần cứng yêu cầu các phép tính toán dấu phẩy động, nên máy ảo thuộc CLDC không được yêu cầu hỗ trợ kiểu float và double. 
+Bảng so sánh các thông số kỹ thuật của CDC và CLDC 
+Thông số 
+CLDC 
+CDC 
+Ram 
+&gt;=32K, &lt;=512K 
+&gt;=256K 
+Rom 
+&gt;=128k, &lt;=512k 
+&gt;=512k 
+Nguồn Năng Lượng 
+Có giới hạn (nguồn pin) 
+Không giới hạn 
+Network 
+Chậm 
+Nhanh 
+Để dễ hiểu hơn 2 khái niệm CLDC và CDC, mời bạn đọc xem hình bên. 
+B. Định nghĩa về Profile: Profile mở rộng Configuration bằng cách thêm vào các class để bổ trợ các tính năng cho từng thiết bị chuyên biệt. Cả 2 Configuration đều có những profile liên quan và từ những profile này có thể dùng các class lẫn nhau. 
+Đến đây ta có thể nhận thấy do mỗi profile định nghĩa một tập hợp các class khác nhau, nên thường ta không thể chuyển một ứng dụng Java viết cho một profile này và chạy trên một máy hỗ trợ một profile khác. Cũng với lý do đó, bạn không thể lấy một ứng dụng viết trên J2SE hay J2EE và chạy trên các máy hỗ trợ J2ME. Chúng ta sẽ điểm qua các profile tiêu biểu: 
+1. Mobile Information Device Profile (MIDP): profile này sẽ bổ sung các tính năng như hỗ trợ kết nối, các thành phần hỗ trợ giao diện người dùng … vào CLDC. Profile này được thiết kế chủ yếu để nhắm vào điện thọai di động với đặc tính là màn hình hiển thị hạn chế, dung lượng chứa có hạn. Do đó MIDP sẽ cung cấp một giao diện người dùng đơn giản và các tính năng mạng đơn giản dựa trên HTTP. Có thể nói MIDP là profile nổi tiếng nhất bởi vì nó là kiến thức cơ bản cho lập trình Java trên các máy di động (Wireless Java). 
+2. PDA Profile: tương tự MIDP, nhưng với thị trường là các máy PDA với màn hình và bộ nhớ lớn hơn. 
+3. Foundation Profile: cho phép mở rộng các tính năng của CDC với phần lớn các thư viện của bộ Core Java2 1.3. 
+Ngoài ra còn có Personal Basis Profile, Personal Profile, RMI Profile, Game Profile. 
+Trong phạm vi bài viết này, người viết chỉ đặt trọng tâm vào MIDP vì mục tiêu là tạo các chương trình chạy trên điện thọai di động. 
+C. Sơ lược về MIDP: 
+1. Định nghĩa: Đây là Profile được định nghĩa dành riêng cho các thiết bị di động và là thành phần chính trong J2ME. MIDP cung cấp các chức năng cơ bản cho hầu hết các dòng thiêt bị di động phổ biến nhất như các máy điện thoạI di động và các máy PDA. 
+Tuy nhiên MIDP không phải là cây đũa thần cho mọi lập trình viên vì như chúng ta đã biết, MIDP được thiết kế cho các máy di động có cấu hình rất thấp. Trong phần sau tôi sẽ liệt kê qua các tính năng mà MIDP cung cấp và những giới hạn của nó. 
+2. Những chức năng MIDP không thể làm được: 
+- Phép tính dấu phẩy động (floating point): Phép tính này đòi hỏi rất nhiều tài nguyên CPU và phần lớn các CPU cho các thiết bị di động không hỗ trợ phép tính này, do đó MIDP cũng không có. 
+- Bộ nạp class (Class Loader). 
+- Hỗ trợ từ khóa finalize() như trong J2SE: Việc “dọn dẹp“ tài nguyên trước khi nó bị xóa được đẩy về phía các lập trình viên. 
+- Không hỗ trợ JNI. 
+- Hỗ trợ hạn chế thao tác bắt lỗi. 
+- Phần lớn các thư viện API cho Swing và AWT không thể sử dụng được trong MIDP. 
+- Không hỗ trợ các tính năng quản lý file và thư mục: Đây có thể làm bạn ngạc nhiên nhưng thực tế là các thiết bị J2ME không có hỗ trợ các thiết bị lưu trữ thông thường như ổ cứng v.v. 
+Tuy nhiên, điều đó không có nghĩa là bạn phải mất đi mọi dữ liệu quan trọng mỗi khi tắt máy, Sun đã cung cấp một chức năng khác tương đương gọi là Record Management system (RMS) để cung cấp khả năng lưu trữ cho các thiết bị này. 
+3. Những chức năng MIDP cung cấp: 
+- Các lớp và kiểu dữ liệu: Phần lớn các lớp mà các lập trình viên Java quen thuộc vẫn còn được giữ lại ví dụ như các lớp trong gói java.util như Stack, Vector và Hastable cũng như Enumeration. 
+Tuy nhiên, mong bạn đọc chú ý là tôi nhấn mạnh từ “phần lớn” vì bạn không thể dùng Iterator. Trong phần phụ lục, tôi sẽ liệt kê các gói (package) cũng như số lượng của chúng được hỗ trợ trong môi trường J2ME bao gồm CLDC, CDC và MIDP. 
+- Hỗ trợ đối tượng Display: Đúng như tên gọi một chương trình MIDP sẽ hỗ trợ duy nhất một đối tượng Display là đối tượng quản lý việc hiển thị dữ liệu trên màn hình điện thoại. 
+- Hỗ trợ Form và các giao diện người dùng. 
+- Hỗ trợ Timer và Alert. 
+- Cung cấp tính năng Record Management System (RMS) cho việc lưu trữ dữ liệu. 
+Ngoài ra vào tháng 11 năm 2003 Sun đã tung ra MIDP 2.0 với hàng loạt tính năng khác được cung cấp thêm so vớI bản 1.0 (Hiện nay tại Việt Nam đã có những đời điện thoại hỗ trợ MIDP 2.0 ví dụ như Nokia 6600 hay Sony Ericsson P900). Tôi xin trình bày các cải tiến nổi bật so với MIDP 1.0: 
+1. Nâng cấp các tính năng bảo mật như: 
+a. Download qua mạng an toàn hơn qua việc hỗ trợ giao thức HTTPS. 
+b. Kiểm soát việc kết nốI giữa máy di động và server: ví dụ như các chương trình không thể kết nối tới server nếu thiếu sự chấp thuận của ngườI sử dụng. 
+2. Thêm các API hỗ trợ Multimedia. Một trong nhưng cải tiến hấp dẫn nhất của MIDP 2.0 là tập các API media của nó. Các API này là một tập con chỉ hỗ trợ âm thanh của Mobile Media API (MMAPI). 
+3. Mở rộng các tính năng của Form. Nhiều cải tiến đã được đưa vào API javax.microedition.lcdui trong MIDP 2.0, nhưng các thay đổi lớn nhất (ngoài API cho game) là trong Form và Item. 
+4. Hỗ trợ các lập trình viên Game bằng cách tung ra Game API: Có lẽ Sun đã kịp nhận ra thị trường đầy tiềm năng của các thiết bị di động trong lĩnh vực Game. Với MIDP 1.0 thì các lập trình viên phải tự mình viết code để quản lý các hành động của nhân vật cũng như quản lý đồ họa. 
+Việc này sẽ làm tăng kích thước file của sản phẩm cũng như việc xuất hiện các đoạn mã bị lỗi. Được hưởng lợi nhất từ Game API trong MIDP 2.0 không chỉ là các lập trình viên Game mà còn là các lập trình viên cần sử dụng các tính năng đồ họa cao cấp. 
+Ý tưởng cơ bản của Game API là việc giả định rằng một màn hình game là tập hợp các layer (lớp). Ví dụ như: trong một game đua xe thì màn hình nền là một layer, con đường là một layer và chiếc xe được xem như đang nằm trên layer khác. 
+Với Game API nhà phát triển còn được cung cấp các tính năng như quản lý các thao tác bàn phím. 
+5. Hỗ trợ kiểu ảnh RGB: một trong những cải tiến hấp dẫn cho các nhà phát triển MIDP là việc biểu diễn hình ảnh dưới dạng các mảng số nguyên, cho phép MIDlet thao tác với dữ liệu hình ảnh một cách trực tiếp. 
+(Còn tiếp)
+
+NGUYỄN HỮU MAI ( www.JavaVietnam.org )

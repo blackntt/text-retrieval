@@ -1,0 +1,40 @@
+﻿ Chương_trình ôn thi ĐH - môn Toán
+CHƯƠNG I : Phương_trình và bất_phương_trình đa_thức :
+1 ) Phương_trình bậc 1 và bất_phương_trình bậc 1 . 2 ) Phương_trình bậc 2 và phương_trình qui về bậc 2 . 3 ) Dấu tam_thức bậc 2 . 4 ) So_sánh nghiệm tam_thức bậc 2 .
+CHƯƠNG_II : Hệ phương_trình đa_thức :
+1 ) Hệ đối_xứng I , II , đẳng_cấp . 2 ) Hệ có dạng khác và các áp_dụng từ phương_trình đường_thẳng và đường_tròn
+CHƯƠNG_III : Phương_trình – Hệ phương_trình - Bất_phương_trình chứa căn_thức
+1 ) Phương_trình căn_thức : Giải và biện_luận . 2 ) Bất_phương_trình căn_thức : Giải và biện_luận . 3 ) Hệ phương_trình căn_thức : Giải và biện_luận .
+CHƯƠNG_IV : Phương_trình – Hệ phương_trình – Bất_phương_trình chứa giá_trị_tuyệt_đối
+Tương_tự như 1 , 2 , 3 của chương III .
+CHƯƠNG V : Phương_trình mũ – Hệ phương_trình – Bất_phương_trình mũ
+Tương_tự như 1 , 2 , 3 của chương III .
+CHƯƠNG_VI : Phương_trình log – Hệ phương_trình – Bất_phương_trình log
+Tương_tự như 1 , 2 , 3 của chương III .
+CHƯƠNG_VII : Bất_đẳng_thức – Giá_trị lớn nhất – Giá_trị nhỏ nhất .
+LƯỢNG_GIÁC
+CHƯƠNG I : Các công_thức và cung liên_kết
+CHƯƠNG_II : Phương_trình lượng_giác
+1 ) Phương_trình cơ_bản . 2 ) Phương_trình bậc 1 theo sinx và cosx . 3 ) Phương_trình bậc 2 của các hàm_số lượng_giác . 4 ) Phương_trình chứa Tổng và Tích của sinx và cosx . 5 ) Phương_trình Đẳng_cấp . 6 ) Phương_trình lượng_giác chứa căn và giá_trị_tuyệt_đối . 7 ) Phương_trình lượng_giác không mẫm mực .
+CHƯƠNG_III : Hệ phương_trình lượng_giác
+CHƯƠNG_IV : Các bài_toán trong tam_giác
+1 ) Định_lí hàm sin – hàm cos . 2 ) Trung_tuyến và S của tam_giác . 3 ) Bán_kính đường_tròn nội và ngoại . 4 ) Nhận_dạng tam_giác .
+KHẢO_SÁT_HÀM_SỐ
+CHƯƠNG I : Hàm_số
+Miền xác_định , miền giá_trị , giới_hạn và liên_tục . Đạo_hàm : định_nghĩa và công_thức .
+CHƯƠNG_II : Ứng_dụng của đạo_hàm
+1 ) Định_lí Lagrange và các áp_dụng . 2 ) Đơn_điệu và cực_trị của hàm_số . 3 ) Giá_trị lớn nhất và nhỏ nhất của hàm_số . 4 ) Đường_tiệm_cận , lồi – lõm , điểm uốn . 5 ) Khảo_sát và vẽ đồ_thị các hàm_số bậc 3 , bậc 4 , hữu_tỉ , hữu_tỉ .
+CHƯƠNG_III : Các chủ_đề quan_trọng
+1 ) Đồ_thị của hàm_số chứa giá_trị_tuyệt_đối . 2 ) Tiếp_tuyến và sự tiếp_xúc . 3 ) Sự tương_giao . Biện_luận số nghiệm của một phương_trình bằng phương_pháp đồ_thị . 4 ) Các điểm đặc_biệt – Tập_hợp điểm . 5 ) Tâm_đối_xứng – Trục đối_xứng – Cặp điểm đối_xứng . 6 ) Các bài_toán khoảng_cách .
+TÍCH_PHÂN
+1 ) Nguyên hàm và các công_thức 2 ) Tích_phân xác_định và công_thức NEWTON - LEIBNITZ 3 ) Các phương_pháp tính tích_phân - Đổi biến_số - Tích_phân từng phần 4 ) Vài dạng tích_phân thường gặp - Tích_phân hàm hữu_tỉ - Tích_phân hàm_chứa căn_thức - Tích_phân hàm_chứa giá_trị_tuyệt_đối - Tích_phân các hàm_lượng giác 5 ) Các bài_toán tích_phân đặc_biệt 6 ) Diện_tích hình_phẳng 7 ) Thể_tích khối tròn_xoay
+ĐẠI_SỐ_TỔ_HỢP
+1 ) Phép đếm 2 ) Hoán_vị – Tổ_hợp – Chỉnh hợp 3 ) Nhị_thức NEWTON
+HÌNH_GIẢI_TÍCH
+CHƯƠNG I : Trong mặt_phẳng ( Oxy )
+1 ) Vectơ và toạ_độ 2 ) Đường_thẳng 3 ) Đường_tròn 4 ) Ellip 5 ) Hyperbol 6 ) Parabol 7 ) Một_số tính_chất chung của các đường CONIC
+CHƯƠNG_II : Trong không_gian ( Oxyz )
+1 ) Phương_pháp toạ_độ trong không_gian 2 ) Mặt_phẳng 3 ) Đường_thẳng và mặt_phẳng - Góc giữa hai đường_thẳng - Góc giữa đường_thẳng và mặt_phẳng - Góc giữa hai mặt_phẳng - Các loại khoảng_cách - Các loại hình_chiếu - Các vị_trí tương_đối giữa đường_thẳng và đường_thẳng , đường_thẳng và mặt phặng , mặt_phẳng và mặt_phẳng - Đường vuông_góc chung của hai đường_thẳng 4 ) Mặt_cầu và đường_tròn trong không_gian
+CHƯƠNG_III : Các bài_toán phối_hợp giữa không_gian “ cổ_điển ” và “ hiện_đại ”
+Nói_chung kết_hợp hình_học 11 và 12 .
+TTO ( Tài_liệu được cung_cấp bởi Trung_tâm Luyện thi chất_lượng cao Vĩnh_Viễn )

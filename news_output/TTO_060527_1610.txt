@@ -1,0 +1,21 @@
+﻿ Mỹ : tiền_bạc không phải là tiêu_chí hàng_đầu
+Trên cơ_sở đó , tờ tạp_chí “ Money ” và trang_web “ Salary.com ” đã công_bố danh_sách 50 nghề tốt nhất ở Mỹ và thậm_chí còn tìm ra được người làm_công ăn lương hạnh_phúc nhất ở Mỹ .
+Để soạn ra được danh_sách này , các chuyên_gia Mỹ trước_hết xác_định những nghề đòi_hỏi phải có trình_độ từ cử_nhân trở_lên và nhu_cầu về những nghề này sẽ tăng cao trong vòng 10 năm tới ( theo dự_đoán của các chuyên_gia ) .
+Tiếp đó , họ loại_bỏ khỏi danh_sách ban_đầu những nghề nào mà tổng_số người_làm chưa đến 15 nghìn , tiền_lương chưa đến 50 nghìn USD/năm và có tiềm_ẩn nguy_hiểm đối_với tính_mạng và sức_khỏe .
+Cuối_cùng , các chuyên_gia dựa theo một_số tiêu_chí ( chẳng_hạn , mức_độ nặng_nhọc về thể_lực và tâm_lý của công_việc , yêu_cầu cao hay thấp đối_với tính sáng_tạo , tính_chất phức_tạp của quá_trình đào_tạo ... ) và chọn_lựa được 50 nghề tốt nhất ở Mỹ .
+Hóa_ra , những người sống và làm_việc sung_sướng nhất ở Mỹ là những người thuộc các lĩnh_vực máy_vi_tính , y_học và phân_tích . Tuy_nhiên , tiền_bạc không phải là cái chính . Nhiều nghề được trả lương cao nhất lại không được đưa vào danh_sách 10 nghề tốt nhất .
+Thật vậy , nghề được trả lương cao nhất_là nghề bác_sĩ nội_khoa và bác_sĩ phẫu_thuật ( lương trung_bình 247 nghìn USD/năm ) . Nhưng nghề này đòi_hỏi phải học nhiều , phải cạnh_tranh gay_gắt và chịu nhiều stress , vì_vậy chỉ được xếp ở vị_trí thứ 30 .
+Tương_tự như_vậy là nghề luật_sư ( thu_nhập trung_bình 153 nghìn USD/năm , chiếm vị_trí 31 ) và nghề bác_sĩ nha_khoa ( thu_nhập trung_bình 122 nghìn USD/năm , vị_trí 37 ) .
+Tạp_chí “ Money ” còn tìm ra được người làm_công ăn lương hạnh_phúc nhất ở Mỹ . Đó là Mark_Docherman , giám_đốc kỹ_thuật của công_ty “ Electronic_Arts ” là công_ty chuyên sản_xuất trò_chơi điện_tử .
+Dưới đây là danh_sách 10 nghề tốt nhất ở Mỹ :
+1 . Đầu_bảng là nghề kỹ_sư phần_mềm , chuyên_gia lập_trình . Lương trung_bình là 80,5 nghìn USD/năm . Nhưng nếu làm công_việc của một chuyên_gia lập_trình chịu trách_nhiệm cho ra_đời sản_phẩm thì lương có_thể lên tới 6 con_số một năm .
+2 . Đứng thứ_hai là nghề giảng_viên đại_học . Lương trung_bình 81,5 nghìn USD/năm . Những giảng_viên đại_học có uy_tín và giàu kinh_nghiệm có_thể được hưởng mức lương trên_dưới 200 nghìn USD/năm .
+3 . Nghề tư_vấn tài_chính . Lương trung_bình 122 nghìn USD/năm . Nếu là nhà tư_vấn tài_chính chịu trách_nhiệm quản_lý toàn_bộ tài_sản của khách_hàng thì lương có_thể lên tới hơn 200 nghìn USD/năm .
+4 . Chuyên_gia nhân_sự . Lương trung_bình 73,5 nghìn USD/năm . Giám_đốc nhân_sự của công_ty lớn có_thể được 285 nghìn USD/năm .
+5 . Nghề trợ_lý bác_sĩ . Lương trung_bình 75 nghìn USD/năm . Trợ_lý bác_sĩ phẫu_thuật tim có_thể nhận được hơn 100 nghìn USD/năm .
+6 . Nghề chuyên_gia nghiên_cứu thị_trường . Lương trung_bình 82,5 nghìn USD/năm . Nếu là trưởng_phòng marketting thì lương có_thể là hơn 200 nghìn USD/năm .
+7 . Nghề quản_lý công_nghệ_thông_tin . Lương trung_bình 83,5 nghìn USD/năm . Nếu phải quản_lý toàn_bộ hệ_thống tại địa_phương của một công_ty lớn thì mức lương có_thể lên tới hơn 250 nghìn USD/năm .
+8 . Nghề đánh_giá bất_động_sản . Lương trung_bình 66 nghìn USD/năm . Nếu làm_việc trong các công_ty lớn thì lương có_thể lên tới 130 nghìn USD/năm .
+9 . Nghề dược_sĩ . Lương trung_bình 90 nghìn USD/năm . Nếu là dược_sĩ trong mạng_lưới bán_lẻ lớn thì có_thể nhận được mức lương 6 con_số .
+10 . Nghề chuyên_gia tâm_lý . Lương trung_bình 66,5 nghìn USD/năm . Nếu có uy_tín thì mức lương có_thể lên tới 95 nghìn USD/năm .
+Theo Tiền phong

@@ -1,0 +1,67 @@
+﻿ Sổ_tay các tổ_hợp phím “ nóng ”
+Sổ_tay các tổ_hợp phím “ nóng ” 14-02-2006 00:46:29 GMT +7 1 . Các tổ_hợp phím Windows
+- Mở menu Start : nhấn phím Windows .
+- Chuyển_đổi các Tab trên thanh Taskbar : Windows + Tab .
+- Mở hộp_thoại System_Properties : Winndows + Pause/Break .
+- Mở_Windows_Explorer : Windows + E .
+- Thu nhỏ / phục_hồi các cửa_sổ : Windows + D .
+- Thu nhỏ tất_cả các cửa_sổ đang mở : Windows + M .
+- Hủy_bỏ việc thu nhỏ các cửa_sổ đang mở : Shift + Windows + M .
+- Mở hộp_thoại Run : Windows + R .
+- Mở_Find : All files : Windows + F .
+- Mở_Find : Computer : Ctrl + Windows + F .
+2 . Làm_việc với Desktop , My_Computer và Explorer
+- Mở phần trợ_giúp chung ( Help and Support ) : F1 .
+- Đổi tên thư_mục được chọn : F2 .
+- Mở hộp_thoại tìm file trong thư_mục hiện_hành : F3 .
+- Cập_nhật lại nội_dung cửa_sổ My_Computer và Explorer : F5 .
+- Xóa mục được chọn và đưa vào Rycycle_Bin : Del ( Delete ) .
+- Xóa hẳn mục được chọn , không đưa vào Rycycle_Bin : Shift + Del ( Shift + Delete ) .
+- Hiển_thị menu ngữ_cảnh của mục được chọn : Shift + F10 .
+- Hiển_thị hộp_thoại Properties của mục được chọn : Alt + Enter .
+- Mở menu Start : Ctrl + Esc .
+- Chọn một mục_từ menu Start : Ctrl + Esc , ký_tự đầu_tiên ( nếu là phần trên của menu ) hoặc ký_tự gạch chân ( nếu ở phần dưới của menu ) thuộc tên mục được chọn .
+- Mở_Task_Manager : Ctrl + Alt + Del .
+3 . Làm_việc với Windows_Explorer
+- Mở hộp_thoại Goto_Folder : Ctrl + G hoặc F4 .
+- Di_chuyển qua_lại giữa 2 khung và hộp danh_sách folder của cửa_sổ Explorer : F6 .
+- Mở folder “ mẹ đẻ ” của folder hiện_hành : Backspace .
+- Chuyển đến file hoặc folder : Ký_tự đầu của tên file hoặc folder tương_ứng .
+- Mở_rộng tất_cả các nhánh nằm dưới folder hiện_hành : Alt + ( dấu nằm ở bàn_phím số ) .
+- Thu gọn tất_cả các nhánh nằm dưới folder hiện_hành : Alt + - ( dấu - nằm ở bàn_phím số ) .
+4 . Làm_việc với cửa_sổ
+- Chuyển_đổi giữa các cửa_sổ tài_liệu : Ctrl + F6 .
+- Chuyển_đổi giữa các cửa_sổ tài_liệu ( theo chiều ngược_lại ) : Ctrl + Shift + F6 .
+- Thu nhỏ cửa_sổ tài_liệu hiện_hành : Ctrl + F9 .
+- Phóng lớn cửa_sổ tài_liệu hiện_hành : Ctrl + F10 .
+- Thu nhỏ tất_cả các cửa_sổ : Ctrl + Esc , Alt + M .
+- Thay_đổi kích_thước cửa_sổ : Ctrl + F8 , phím mũi_tên , Enter .
+- Phục_hồi kích_thước cửa_sổ tài_liệu hiện_hành : Ctrl + F5 .
+- Đóng_cửa sổ tài_liệu hiện_hành : Ctrl + W .
+- Di_chuyển cửa_sổ : Ctrl + F7 , phím mũi_tên , Enter .
+- Sao_chép cửa_sổ hiện_hành vào vùng_đệm : Alt + Print_Screen .
+- Chép toàn_bộ màn_hình vào vùng_đệm : Print_Screen .
+- Chuyển_đổi giữa các chương_trình và folder đang mở : Alt + Tab .
+- Chuyển_đổi giữa các chương_trình và folder đang mở ( theo chiều ngược_lại ) : Alt + Shift + Tab .
+- Chuyển_đổi giữa các chương_trình đang chạy : Alt + Esc .
+- Chuyển_đổi giữa các chương_trình đang chạy ( theo chiều ngược_lại ) : Alt + Shift + Esc .
+- Mở menu điều_khiển của chương_trình hoặc folder cửa_sổ hiện_hành : Alt + SpaceBar .
+- Mở menu điều_khiển của tài_liệu hiện_hành trong một chương_trình : Alt + - .
+- Đóng chương_trình đang hoạt_động : Alt + F4 .
+5 . Làm_việc với hộp_thoại
+- Mở folder “ mẹ đẻ ” của folder hiện_hành một mức trong hộp_thoại Open hay Save_As : BackSpace .
+- Mở hộp danh_sách , ví_dụ hộp Look_In hay Save_In trong hộp_thoại Open hay Save_As ( nếu có nhiều hộp danh_sách , trước_tiên phải chọn hộp thích_hợp ) : F4 .
+- Cập_nhật lại nội_dung hộp_thoại Open hay Save_As : F5 .
+- Di_chuyển giữa các lựa_chọn : Tab .
+- Di_chuyển giữa các lựa_chọn ( theo chiều ngược_lại ) : Shift + Tab .
+- Di_chuyển giữa các thẻ ( tab ) trong hộp_thoại có nhiều thẻ , chẳng_hạn hộp_thoại Display_Properties của Control_Panel ( Settings \ Control_Panel ) : Ctrl + Tab .
+- Di_chuyển giữa các thẻ theo chiều ngược_lại : Ctrl + Shift + Tab .
+- Di_chuyển trong một danh_sách : Phím mũi_tên .
+- Chọn hoặc bỏ một ô kiểm ( check box ) đã được đánh_dấu : SpaceBar .
+- Chuyển đến một mục trong hộp danh_sách thả xuống : Ký_tự đầu_tiên của tên mục .
+- Chọn một mục ; chọn hay bỏ chọn một ô kiểm : Alt + ký_tự gạch dưới thuộc tên mục hoặc tên ô kiểm .
+- Đóng_hộp danh_sách thả xuống đang được chọn : Esc .
+- Hủy_bỏ lệnh đóng hộp_thoại : Esc . Nguyễn_Nam_Long
+Phản_hồi
+Gửi cho bạn_bè
+In ra giấy C& # 193 ; C_TIN_KH& # 193 ; C_Mua să ́ m trên ma ̣ ng thêm phô ̉ biê ́ n ( 14/02 )

@@ -1,0 +1,6 @@
+﻿Cuộc gọi mấy giây thì bị tính tiền?
+
+- Hiện nay mạng di động Viettel (098) đã thực hiện cách tính cước theo block 6 giây. Về nguyên tắc, cuộc gọi dưới 6 giây được tính một block và giây thứ 7 trở đi lại được tính thành block khác. Hiện tại, mạng này cũng đã áp dụng phương thức tính cước 6 +1 và như thế thì sau giây thứ 6, cuộc gọi của bạn sẽ được tính theo block 1 giây. Bạn đã thực hiện cuộc gọi với thời gian 3 giây, như vậy sẽ bị tính tiền một block là hợp lý. 
+Tôi đang sử dụng máy Motorola V360, mới đây tôi có chép một số hình ảnh vào thẻ nhớ của máy thì xảy ra một số hiện tượng không ổn định. Khi tôi tắt nguồn và mở lại thì màn hình chỉ toàn màu trắng và máy không hoạt động nữa. Khi tôi kết nối với máy tính thì những file đuôi "tai lieu", "dos" xuất hiện mà không thể xóa được. Xin giải đáp giúp tôi về trường hợp này?
+
+(NGUYỄN THỊ HẠNH, TP.HCM )

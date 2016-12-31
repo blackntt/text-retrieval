@@ -1,0 +1,7 @@
+﻿Xuất hiện website tấn công vào lỗi bảo mật Winamp
+
+Lỗi bảo mật nghiêm trọng nằm trong Winamp đã được phát hiện từ đầu tuần qua cho phép kẻ tấn công tung mã độc thoải mái vào hệ thống. Công ty bảo mật Secunia đã xếp lỗi bảo mật này vào hạng “cực kỳ nghiêm trọng”. Vào ngày 3-2, Sunbelt Software đã chính thức phát hiện ra trang web 008k.com cung cấp hàng loạt các file “Playlist” chứa đầy mã độc chuyên dùng để tấn công vào Winamp. Khi tải các file playlist này về máy là nó sẽ tự động cài đặt một phần mềm gián điệp vào hệ thống. 
+Adam Thomas, chuyên gia bảo mật của Sunbelt cho biết rằng ngay sau khi bật lên trình Winamp chưa được sửa lỗi và truy cập và trang web 008k.com thì một file playlist mang tên x.pls lập tức đựơc tải về. Khi bật file x.pls lên chơi thì nó tự động cài một con spyware vào máy người dùng và cho phép kẻ tấn công từ xa tung mã độc vào hệ thống. 
+Các chuyên gia bảo mật khuyến cáo người hâm mộ Winamp nên lập tức nâng cấp trình Winamp mình đang sử dụng lên phiên bản mới nhất là Winamp 5.13 để tránh lỗi bảo mật nói trên. Các Winamp từ 5.12 trở về trước đều bị lỗi bảo mật trên ảnh hưởng ở các cấp độ khác nhau. Website 008k.com đã bị tạm ngưng hoạt động vào cuối ngày thứ sáu 3-2.
+
+HOÀNG HẢI (Theo CNET)

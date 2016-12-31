@@ -1,0 +1,21 @@
+﻿Chủ đầu tư bao giờ cũng có “màu mè”
+
+Thời tiết Tỉ giá ngoại tệ Giá vàng Xổ số kiến thiết Chứng khoán Truyền hình 
+--> 
+function onResponseClick()
+{showDialog('http://www3.tuoitre.com.vn/Tianyon/MailTo.aspx?ArticleID=' + GetPostVariable("ArticleID", null), 350, 420)
+}Chính trị - Xã Hội 
+getTimeString('2006/01/21 04:01:00'); Vụ phó Vụ 1, Thanh tra Chính phủ: 
+Chủ đầu tư bao giờ cũng có “màu mè” 
+TT - Vụ Thanh tra và giải quyết khiếu nại, tố cáo khối kinh tế ngành (Vụ 1) Thanh tra Chính phủ đã từng thanh tra một số công trình mà chủ đầu tư là Ban quản lý các dự án (PMU) 18 - đơn vị do ông Bùi Tiến Dũng làm tổng giám đốc. Một trong số những công trình đó là cầu Hoàng Long (Thanh Hóa). Tuổi Trẻ trao đổi với ông Phạm Văn Đa, vụ phó Vụ 1. 
+Thưa ông, khi thanh tra công trình cầu Hoàng Long, Thanh tra Chính phủ đã phát hiện một số sai phạm của PMU18 ở công trình này? 
+- Vụ việc cách đây vài năm nhưng tôi nhớ hồi đó chúng tôi phát hiện sai phạm chính nằm ở chất lượng hai mố cầu phía nam. Các mố cầu này bị sụt, trượt do khi thi công đắp cao quá và trong quá trình khảo sát địa chất, địa hình họ làm không đến nơi đến chốn dẫn đến việc thiết kế kỹ thuật phải chỉnh sửa nhiều lần, gây ra lãng phí. 
+Lúc đó họ giải thích do địa hình ngày xưa bị bom đạn nhiều nhưng theo tài liệu thì chúng tôi cho rằng việc khảo sát không đầy đủ dẫn tới thiết kế kỹ thuật phải thay đổi. Sai phạm nữa là việc đền bù giải phóng mặt bằng. Trách nhiệm chính thuộc về ban giải phóng mặt bằng tỉnh Thanh Hóa nhưng chủ đầu tư cũng có liên đới. 
+Chúng tôi đã kết luận dự án đó làm thất thoát khoảng 4,5 tỉ đồng và đề nghị xuất toán, không được đưa vào thanh toán mấy tỉ đồng (lâu quá tôi không nhớ chính xác). Ngoài ra, chúng tôi đề nghị Bộ Giao thông vận tải xem xét kiểm điểm, làm rõ trách nhiệm của tổng giám đốc PMU18. Sau đó, lãnh đạo Thanh tra Chính phủ báo cáo Thủ tướng. Còn việc Bộ Giao thông vận tải xử lý thế nào họ phải báo cáo Chính phủ và gửi cho lãnh đạo Thanh tra Chính phủ để biết chứ họ không có nghĩa vụ phải báo cáo Thanh tra Chính phủ. Vì vậy tôi không nắm rõ việc xử lý. 
+Ngoài cầu Hoàng Long, Thanh tra Chính phủ cũng đã thanh tra một số dự án khác do PMU18 làm chủ đầu tư? 
+- Thanh tra Chính phủ cũng đã thanh tra sự cố trụ P8 cầu Đuống mới, dự án giao thông nông thôn 2 và giải quyết khiếu nại, tố cáo đền bù việc giải phóng mặt bằng quốc lộ 18, tất cả đều do PMU18 làm chủ đầu tư. Kết quả thanh tra các dự án này đều thấy có sai phạm, trong đó dự án cầu Đuống mới chủ yếu là sai phạm của nhà thầu nhưng chủ đầu tư phải có trách nhiệm liên đới. 
+Như ông đã biết, dư luận đang đặt nghi vấn về nguồn gốc số tiền ông tổng giám đốc PMU18 đem cá độ. Qua thanh tra các dự án do PMU18 làm chủ đầu tư, ông có nhận được phản ảnh nào về việc lãnh đạo PMU18 rút tiền dự án không? 
+- Chúng tôi không nghe phản ảnh nào nhưng việc rút tiền từ vốn dự án không có nghĩa không làm được. Nếu không có nội bộ tố cáo thì khó phát hiện những trường hợp đó. Nhưng ở góc độ thanh tra, tôi nghĩ rằng nếu đặt câu hỏi nguồn gốc tiền ở đâu thì phải nói rằng thông thường chủ đầu tư bao giờ cũng có “màu mè”. 
+Tất cả (chủ đầu tư - PV) đều thế nhưng thanh tra không thể kết luận được. “Màu mè” chủ yếu ở các nhà thầu, giữa bên B với bên A. Chuyện đấy chỉ các cơ quan điều tra mới làm được chứ chúng tôi không thể bắt được. Giả thiết bên B nói với tôi mà bên A chối thì cũng không phải là chứng cứ kết tội người ta. Những vụ nào mang tính tham nhũng, phải khởi tố thì may ra mới làm được.
+
+K.HƯNG thực hiện

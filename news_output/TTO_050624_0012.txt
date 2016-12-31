@@ -1,0 +1,11 @@
+﻿ Môn hóa : cần ưu_tiên làm lý_thuyết trước
+Phần lý_thuyết chiếm nhiều điểm hơn phần bài_toán ( tỉ_lệ 6-4 ) , mỗi câu lý_thuyết còn có nhiều câu nhỏ độc_lập nên dễ kiếm điểm hơn phần bài_toán ( mỗi bài_toán thường có 2-3 câu , lại lệ_thuộc nhau , không làm được câu 1 thì khó có_thể làm tiếp câu 2 , 3 . Chưa kể trường_hợp phải giải_quyết các phép tính_toán khá phức_tạp ) . Do_vậy khi làm bài thi , thí_sinh cần ưu_tiên làm phần lý_thuyết trước .
+Ở phần bài_toán , đối_với bài_toán hữu_cơ :
+- Cần nắm vững tính_chất hóa_học đặc_trưng cho mỗi loại hợp_chất có nhóm chức . Ví_dụ : rượu ( phản_ứng khử nước ) , anđêhit ( phản_ứng tráng gương và cộng hidrô ) , axit ( phản_ứng trung_hòa , este hóa , hòa_tan muối cacbônat ) , este ( phản_ứng thủy_phân ) ...
+- Câu_hỏi thường gặp là xác_định CTPT chất_hữu_cơ và thành_phần ( % hoặc khối_lượng ) của nó . Khi đặt CTPT tổng_quát chất_hữu_cơ , cần chú_ý đặc_điểm cấu_tạo của nó ( no , chưa no , mạch hở hay vòng , đơn hoặc đa chức ? ) . Đặt CTPT tổng_quát chính_xác mới xác_định đúng CTPT . Cũng_nên sử_dụng CTPT trung_bình cho các hỗn_hợp những chất cùng dãy đồng_đẳng , phép giải toán sẽ gọn và nhanh hơn .
+- Mỗi dữ_kiện của đề_bài sẽ cho ta lập được một phương_trình đại_số . Nếu số ẩn_số bằng với số phương_trình đại_số , ta giải bình_thường , còn nếu số ẩn nhiều hơn số phương_trình lập được thì_phải biện_luận . Chỉ biện_luận với ẩn_số có nghiệm là một số_nguyên ( ví_dụ số nguyên_tử C hay số chức hóa_học ) .
+Bài_toán vô_cơ :
+- Tính_chất quan_trọng của kim_loại : phản_ứng với axit hoặc baz , với muối kim_loại khác , phản_ứng nhiệt kim_loại . Dãy hoạt_động hóa_học kim_loại . Sự khử các ôxit kim_loại trung_bình và yếu .
+- Biết cách vận_dụng định_luật_bảo_toàn_khối_lượng và bảo_toàn điện_tử ( trong các phản_ứng ôxy hóa khử ) , phương_trình trạng_thái khí áp_dụng cho những hỗn_hợp khí với những điều_kiện khác_nhau . Cách tính hiệu_suất phản_ứng .
+- Câu_hỏi thường gặp : xác_định tên kim_loại , CTPT ôxit kim_loại , các dạng phản_ứng nhiệt nhôm ( hiệu_suất đạt 100% hoặc nhỏ hơn ) . Các dạng bài_tập có liên_quan đến hidrôxit lưỡng tính , các bài_tập liên_quan đến sự thay_đổi hóa_trị của sắt và hợp_chất ...
+Th . S_NGUYỄN_HIỀN_HOÀNG ( ĐH Sư_phạm TP.HCM )

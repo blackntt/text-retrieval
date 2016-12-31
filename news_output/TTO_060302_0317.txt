@@ -1,0 +1,244 @@
+﻿ ( Đơn_vị tính : 1.000 đồng / m 2 )
+STT
+Ranh_giới
+Vị_trí
+Khu_vực
+Đơn_giá
+I
+Phường Hòa_Minh
+1
+Ngô_Thì_Nhậm ( đoạn còn lại )
+1
+I
+1,250
+2
+Nguyễn_Khuyến ( đoạn còn lại )
+1
+I
+1,250
+3
+Đường từ nút giao_thông Tô_Hiệu - Ngô_Chân_Lưu đến chợ
+Hòa_Mỹ ra đường Tôn_Đức_Thắng ( phía cầu Đa_Cô )
+1
+I
+1,125
+4
+Khu dân_cư :
+- Đường rộng trên 5 m
+2
+I
+585
+- Đường rộng từ 3,5 m đến dưới 5 m
+3
+I
+500
+- Đường rộng từ 2 m đến dưới 3,5 m
+4
+I
+407
+- Đường rộng dưới 2 m
+5
+I
+300
+II
+Phường Hòa_Khánh_Nam và Phường Hòa_Khánh_Bắc
+1
+Hoàng_Văn_Thái ( đoạn từ cống thoát nước giữa 2 phường
+Hòa_Khánh_Nam và Hòa_Minh đến cuối đường Hoàng_Văn_Thái )
+1
+I
+1,000
+2
+Lạc_Long_Quân ( đoạn chưa nâng_cấp )
+1
+II
+760
+3
+Phạm_Như_Xương ( đoạn từ Đồn_Công an Hòa_Khánh cũ đến
+cuối đường )
+1
+I
+1,375
+4
+Ngô_Sĩ_Liên ( đoạn từ đường_sắt đến cuối đường )
+2
+I
+780
+5
+Âu_Cơ ( đoạn còn lại )
+1
+I
+1,250
+6
+Đường từ ngã ba Nam_Cao - Phạm_Như_Xương đến giáp đường
+Hoàng_Văn_Thái nối dài ( tổ 2 )
+2
+II
+588
+7
+Đường từ Hoàng_Văn_Thái đến giáp Trại nuôi ba_ba
+2
+II
+588
+8
+Đường từ cuối đường Hoàng_Văn_Thái đến Tiểu_đoàn
+đặc_công 409
+2
+II
+588
+9
+Đường từ Phạm_Như_Xương ( gần Trường_Đại học Sư_phạm )
+đến Hoàng_Văn_Thái
+2
+I
+585
+10
+Khu dân_cư Chơn_Tâm , Quang_Thành , Đa_Phước
+- Đường rộng trên 5 m
+2
+I
+585
+- Đường rộng từ 3,5 m đến dưới 5 m
+3
+I
+550
+- Đường rộng từ 2 m đến dưới 3,5 m
+4
+I
+407
+- Đường rộng dưới 2 m
+5
+I
+300
+11
+Khu dân_cư Đà_Sơn , Khánh_Sơn , Thanh_Vinh , Hồng_Phước :
+- Đường rộng trên 5 m
+2
+II
+490
+- Đường rộng từ 3,5 m đến dưới 5 m
+3
+II
+418
+- Đường rộng từ 2 m đến dưới 3,5 m
+4
+II
+336
+- Đường rộng dưới 2 m
+5
+II
+216
+12
+Đường từ Đà_Sơn - Khánh_Sơn : ( Đường_Hoàng_Văn_Thái nối dài
+chưa đặt tên : từ Đà_Sơn đến bãi rác Khánh_Sơn )
+1
+II
+570
+III
+Phường Hòa_Hiệp_Nam
+1
+Đàm_Quang_Trung
+1
+II
+570
+2
+Nguyễn_Bá_Phát
+- Đoạn từ_đường Nguyễn_Lương_Bằng đến Đàm_Quang_Trung
+1
+II
+665
+- Đoạn từ_đường Đàm_Quang_Trung đến cầu Trại
+2
+II
+490
+3
+Đường từ Nguyễn_Lương_Bằng đến khu du_lịch Xuân_Thiều
+1
+II
+760
+4
+Các khu dân_cư :
+- Đường rộng trên 5 m
+2
+II
+490
+- Đường rộng từ 3,5 m đến dưới 5 m
+3
+II
+418
+- Đường rộng từ 2 m đến dưới 3,5 m
+4
+II
+308
+- Đường rộng dưới 2 m
+5
+II
+216
+IV
+Phường Hòa_Hiệp_Bắc
+1
+Nguyễn_Phước_Chu
+1
+II
+760
+2
+Đường từ Nguyễn_Lương_Bằng đến HTXNN 1
+1
+II
+760
+3
+Đường từ Nguyễn_Văn_Cừ đến Trường_Đường sắt II
+2
+I
+585
+4
+Đường từ Nguyễn_Văn_Cừ đến giáp sân_vận_động Kim_Liên
+2
+I
+585
+5
+Đường từ Hoàng_Văn_Thái đến Trung_tâm Bảo_trợ xã_hội thành_phố
+2
+I
+585
+6
+Đường từ ngã ba Đà_Sơn ( cuối đường Hoàng_Văn_Thái ) đi
+Khánh_Sơn ( giáp ngã ba liên tổ 3 , 4 , 5 )
+2
+I
+585
+7
+Đường bê_tông từ Nguyễn_Văn_Cừ đến đường_sắt ( chợ ga Kim_Liên )
+2
+I
+585
+8
+Ngô_Xuân_Thu
+- Đoạn từ Nguyễn_Văn_Cừ đến giáp tường rào phía Tây_Trường
+Trung_học Giao_thông 2
+1
+I
+875
+- Đoạn từ phía Tây_Trường_Trung học Giao_thông 2 đến Khe nước
+1
+II
+760
+9
+Các khu dân_cư :
+- Đường rộng trên 5 m
+2
+II
+490
+- Đường rộng từ 3,5 m đến dưới 5 m
+3
+II
+418
+- Đường rộng từ 2 m đến dưới 3,5 m
+4
+II
+308
+- Đường rộng dưới 2 m
+5
+II
+216
+PV

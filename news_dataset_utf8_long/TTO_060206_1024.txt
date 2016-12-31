@@ -1,0 +1,6 @@
+﻿Lỗi bảo mật nguy hiểm trong Adobe CS2
+
+Lỗi bảo mật ảnh hưởng đến 3 sản phẩm thuộc loại quan trọng nhất của Adobe là Adobe Creative Suite 2, Adobe Photoshop CS2 và Adobe Illustrator CS2. Lỗi này xuất hiện khi các ứng dụng trên chạy ở chế độ chia sẻ hoặc cài đặt cho nhiều người sử dụng đồng thời. 
+Adobe cho biết rằng nếu biết cách khai thác thì lỗi bảo mật nói trên sẽ tạo điều kiện cho kẻ tấn công thay đổi các file chương trình bằng các file mã độc có khả năng ăn cắp hoặc phá hủy các dữ liệu nhạy cảm trong máy tính, thậm chí đoạt quyền điều khiển hệ thống. Adobe khuyến cáo toàn bộ người dùng sử dụng các dòng sản phẩm CS2 trên Windows hoặc Mac OS nên vào đây để cập nhật sửa lỗi ngay lập tức.
+
+HOÀNG KIM ANH (Theo CNET)

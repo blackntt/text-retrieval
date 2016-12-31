@@ -1,0 +1,7 @@
+﻿Xe hơi robot tự động chạy được 322km trong 7 giờ
+
+Xe hơi có tên Sandstorm ( ảnh ) do Đại học Carnegie Mellon chế tạo nhằm chuẩn bị cho cuộc đua xe robot băng qua sa mạc Mojave do Cơ quan các dự án nghiên cứu tiên tiến của Bộ Quốc phòng Mỹ tổ chức. 
+Cuộc đua này được gọi là Grand Challenge (Thách đố lớn) dự kiến diễn ra ngày 8-10 tới. Mục tiêu của cuộc thi này là nhằm khuyến khích việc nghiên cứu các lọai xe robot. Để đọat giải 2 triệu USD tiền mặt, các xe hơi robot tự động phải băng qua sa mạc trong một thời gian hạn định. Trong cuộc đua Grand Challenge đầu tiên hồi năm ngoái, không có robot nào tham gia cuộc thi đến được đích cuối cùng. 
+Trong cuộc thử nghiệm, xe hơi robot Sandstorm chạy trung bình với tốc độ 45km/g và đạt tốc độ tối đa 57km/g. Giáo sư William Whittaker, trưởng nhóm nghiên cứu, nói:”Đó không là gì cả so với xe hơi do người lái, nhưng là một thách đố lớn đối với xe cộ do vi tính điều khiển”.
+
+Q.HƯƠNG-BBC

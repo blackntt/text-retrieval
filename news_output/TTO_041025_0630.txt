@@ -1,0 +1,14 @@
+﻿ Dùng nhiều số điện_thoại trên một SIM
+Nhu_cầu này hiện_nay đang " hot " vì tại Việt_Nam đã có thêm một đơn_vị cung_cấp dịch_vụ với giá rẻ hơn , nhưng bạn vẫn thích giữ lại số cũ .
+Trước khi thực_hiện việc này bạn cần có một bộ đọc sim . Bạn có_thể dễ_dàng tìm thấy thiết_bị này ( do Trung_Quốc sản_xuất ) tại các chợ điện_tử lớn ở TP.HCM . Chỉ với 40 USD là bạn có được một bộ đọc bao_gồm , cáp kết_nối với máy_tính ( cổng USB hoặc COM ) và một SIM trắng chứa được 8 số . Sau khi có đầy_đủ đồ_nghề , bạn có_thể tiến_hành theo các bước sau :
+Cách làm này là một hình_thức nhân_bản số thuê_bao , nên tốt nhất bạn phải tự làm , vì nếu lộ mã Ki và IMSI thì người khác có_thể tạo cho họ một_số điện_thoại của bạn . Do dễ thực_hiện nên bạn cần giữ lại SIM khi sửa máy điện_thoại ở các dịch_vụ Đọc thông_tin trên SIM cũ
+Bạn cần 2 thông_số quan_trọng là Ki và IMSI ( International_Mobile_Subscriber_Identity ) . Việc đọc thông_số IMSI rất dễ_dàng do được lưu trên SIM . Riêng thông_số Ki thì hơi lâu vì Ki là 1 chuỗi số ngẫu_nhiên được mã_hóa theo thuật_toán A3/A8 ) . Sau khi bỏ SIM vào đầu_đọc sẽ có 2 chế_độ thực_hiện việc quét dò_tìm chuỗi Ki trong SIM .
+Nếu chọn chế_độ có tần_số 3.578 , thì thời_gian dò_tìm chuỗi Ki mất từ 4 - 8 tiếng . Nếu chọn tần_số 6Mhz thì mất khoảng 2 - 4 giờ . Khi đã có được 2 thông trên bạn thực_hiện tiếp bước tiếp_theo .
+Chú_ý : Loại SIM mới của mạng Mobifone sẽ tự hủy nếu thực_hiện quá_trình tìm Ki .
+Gán số cho SIM trắng
+Thẻ SIM đi cùng_với bộ đầu_đọc là loại có chỉ ghi được 8 hoặc 12 số . Hiện thị_trường đã có loại ghi được 16 số , có_giá 400.000 đồng . Các SIM trắng đều có_thể lưu được 250 số trong danh_bạ và 99 tin nhắn .
+Việc gán số rất đơn_giản , chỉ cần lắp SIM trắng vào máy điện_thoại nó sẽ xuất_hiện một menu do nhà_sản_xuất SIM đặt tên . Sau đó chọn đặt cấu_hình để chèn thêm số thuê_bao . Bạn sẽ được yêu_cầu nhập mã_số IMSI và Ki , sau đó máy sẽ tự_động gán số PIN cho số thuê_bao . Như_vậy là bạn đã hoàn_tất việc gán một_số thuê_bao . Tương_tự , bạn có_thể gán tiếp các số thuê_bao mà bạn đang có .
+Tự làm SIM bằng chip 16Fxxx và EEPROM 24C256
+Nếu am_hiểu một_chút về kỹ_thuật , bạn cũng có_thể tự_tạo cho mình một SIM trắng bằng cách lắp_ghép các linh_kiện trên . Giá_thành toàn_bộ để tạo được một SIM trắng chỉ khoảng 50.000 đồng . Hạn_chế của cách này là bạn không_thể gắn thẻ SIM tự chế vào máy nhưng có_thể lắp vào điện_thoại bằng cách nối dây vào ổ SIM .
+Loại SIM tự chế cũng có khả_năng gán được 16 số và 250 số trong danh_bạ cũng_như 99 tin nhắn trong EEPROM . Khả_năng này thay_đổi tùy theo version của phần_mềm trong chip 16Fxxx .
+ĐÔNG_HẢI

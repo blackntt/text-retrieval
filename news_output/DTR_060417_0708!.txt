@@ -1,0 +1,5 @@
+﻿ Thông_quan điện_tử tại sân_bay Tân_Sơn_Nhất
+Hôm_nay 17/4 , Cục Hải quan TPHCM bắt_đầu thực_hiện thông_quan điện_tử cho hàng_hóa xuất nhập qua cửa_khẩu sân_bay quốc_tế Tân_Sơn_Nhất .
+Đây là việc kê_khai thủ_tục hải_quan thông_qua mạng máy_tính được kết_nối giữa doanh_nghiệp ( DN ) với Chi_cục Hải_quan điện_tử .
+Nếu hàng_hóa được phân vào luồng xanh thì DN sẽ được thông_quan ngay sau khi tờ khai được hải_quan chấp_nhận và có thông_báo lại . Nếu hàng_hóa đưa vào luồng vàng , DN phải mang hồ_sơ lên Chi_cục Hải_quan điện_tử để kiểm_tra .
+Nếu hàng_hóa đưa vào luồng đỏ thì nhân_viên hải_quan sẽ kiểm_tra thực_tế . Trước_mắt chỉ áp_dụng cho các DN đã đăng_ký tại Chi_cục Hải_quan điện_tử . Theo Mai_Phương_Báo_Thanh niên

@@ -1,0 +1,7 @@
+﻿ Tải_Windows_Vista làm chậm đường truyền Internet
+Hãng phần_mềm khổng_lồ đã hạn_chế số người download phiên_bản thử_nghiệm hệ_điều_hành thế_hệ mới của họ vì sợ quá nhiều người tải sẽ làm chậm đường truyền Internet .
+Microsoft đã khuyến_cáo trong phần Giải_đáp thắc_mắc Q& amp ; A trong website chính_thức của Vista rằng nếu hãng mở_rộng quyền download bản beta 2 thì sẽ ảnh_hưởng đến một_số dịch_vụ trực_tuyến khác .
+“ Nói_thẳng rằng nếu chúng_tôi mở_rộng thêm băng tần thì có_thể sẽ làm sập đường truyền Internet . Người dùng sẽ gặp khó_khăn nếu muốn xem World_Cup trên mạng hay bất_cứ hoạt_động online nào ” , đại_diện của Microsoft nói .
+Microsoft cho_biết họ đã dự_đoán được số người muốn tải bản beta Vista nhưng họ chỉ dám cho_phép số_lượng download trong ngưỡng nhất_định mà Internet có_thể kiểm_soát được .
+Người dùng có_thể tải Vista bằng hai cách : bản 32 bit có dung_lượng 3,5 GB , và bản 64 bit dung_lượng 4,4 GB .
+N . H_Theo VNuNet

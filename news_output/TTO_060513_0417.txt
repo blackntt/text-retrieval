@@ -1,0 +1,18 @@
+﻿ Lịch cúp điện ngày 14-5-2006
+ĐIỆN_LỰC_BÌNH_CHÁNH : Từ 7g - 19g : Khu_công_nghiệp Lê_Minh_Xuân - huyện Bình_Chánh .
+ĐIỆN_LỰC_BÌNH_PHÚ : Từ 7g - 19g : một phần phường 10 , 11 - quận 6 và một phần phường An_Lạc - quận Bình_Tân . Từ 8g - 17g : một phần phường 10 - quận 6 .
+ĐIỆN_LỰC_CHỢ_LỚN : Từ 7g - 19g : một phần phường 13 , 14 , 15 - quận 8 .
+ĐIỆN_LỰC_CỦ_CHI : Từ 7g - 19g : Công_ty Sam_Yang . Từ 7g30 - 18g30 : toàn_bộ Khu_công_nghiệp Tây_Bắc_Củ_Chi .
+ĐIỆN_LỰC_THỦ_THIÊM : Từ 6g - 19g : một phần phường Long_Thạnh_Mỹ , Long_Trường , Trường_Thạnh , Tăng_Nhơn_Phú A - quận 9 .
+Cắt điện để chuyển_tải : Từ 23g30 - 24g : một phần phường Trường_Thạnh , Tăng_Nhơn_Phú A - quận 9 .
+ĐÀ_NẴNG :
+4g-16g30 : Hòa_Thuận_Đông , Hòa_Thuận_Tây , Sân_bay quân_sự , Nam_Dương , Vĩnh_Trung , Thạc_Gián , Tân_Lập , Nguyễn_Tri_Phương , Hàm_Nghi , Hòa_Cường , Núi_Thành , 2/9 , Duy_Tân , Hoàng_Diệu , Chu_Văn_An , Nguyễn_Văn_Linh , Trần_Phú , Bạch_Đằng , Nguyễn_Du , Thuận_Phước và các khu_vực lân_cận .
+4g-5g và 15g30-16g30 : Điện_Biên_Phủ , Nguyễn_Tri_Phương , Sân_bay quốc_tế , đường Phan_Châu_Trinh , Lê_Lợi , Quang_Trung , Phan_Bội_Châu , Lý_Tự_Trọng , Nguyễn_Chí_Thanh , Lê_Đình_Dương , Lê_Hồng_Phong , Trần_Quốc_Toản , Nguyễn_Thị_Minh_Khai , Pasteur , Hải_Phòng , Ngô_Gia_Tự và các khu_vực lân_cận .
+6g30-17g30 : Khu_vực đèo Hải_Vân , Làng phong , Thông_tin duyên_hải , Lặp cao_tần viba , Xăng_dầu hàng_không Liên_Chiểu . 6g-12g30 : Khu dân_cư Việt_Xuân . 6g30-12g30 : Gạch_Quảng_Thắng , Đà_Sơn 3 .
+TT-HU Ế :
+7g30-17g : Nam_Sơn , Cổ_Bi 1,2 , Phong_Sơn , Định_cư Sơn_Bồ , Tây_Sơn 1,2 , Bắc_Sơn , Bơm_Tây_Sơn , Nước_khoáng Thanh_Tân , Vĩnh_Hường , Bến_Cũi , Phổ_Lại , Bơm_Tân_Quang , Phong_Xuân , Bưu_cục Phong_Xuân , Phong_Hòa , Xuân_Lập , Vinh_Phú , Lộc_Lợi , Huỳnh_Liên , Phong_Thu , Hưng_Thái , Huỳnh_Trúc , Tân_Kim_Sơn , Phước_Thọ , Đông_Thái , Phong_Mỹ 3 , Tân_Mỹ 1,2 , Magenite , Hạ_Long , Hòa_Bắc , Bêtông ly_tâm T2 Tứ_Hạ , T3 Tứ_Hạ , Nhang xuất_khẩu , xã Quảng_Lợi . 7g30-8g và 16g-16g30 : Trạm T1 , T2 , T3 , T4 Tứ_Hạ , Văn_phòng Luksvaxi , Nhà_máy nước Tứ_Hạ , Bưu_cục Hương_Trà .
+QUẢNG_NAM :
+6g-16g : Xã Điện_Phương ; xã Cẩm_Nam , Cẩm_Thanh , Cẩm_Hà , phường Sơn_Phong , Phước_Trạch - Phước_Hải , phường Cửa_Đại , Cẩm_Thanh , Cẩm_Phô , Minh_An , Tân_An , Thanh_Hà . 4g30-5g và 14g-16g : Khu_công_nghiệp Điện_Nam - Điện_Ngọc , xã Điện_Nam_Đông , Điện_Nam_Trung , Điện_Dương ; phường Cẩm_An , KS Golden_Sand , Victoria , Cát_Biển , Hội_An 2 , KS Đông_An , Ven_Sông , Nhà_hàng Nam_Long , Phố_Trăng , Bưu_cục Cửa_Đại , Phước_Thịnh , Thép_Huỳnh_Nguyên .
+QUẢNG_NGÃI :
+7g30-15g : Các xã Nghĩa_Kỳ , Nghĩa_Thuận , Nghĩa_Thắng , Nghĩa_Lâm , Nghĩa_Thọ , Nghĩa_Trung - huyện Tư_Nghĩa và toàn_bộ Khu_công_nghiệp Quảng_Phú ( trừ Công_ty Đường ) . Khu dân_cư Gò_Gai - phường Nghĩa_Lộ - TP Quảng_Ngãi . Đường_Quang_Trung đoạn từ Trường cao_đẳng Sư_phạm đến cầu Bầu_Giang . Huyện Sơn_Hà , Sơn_Tây .
+PV

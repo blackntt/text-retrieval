@@ -1,0 +1,10 @@
+﻿Windows AntiSpyware: hứa hẹn nhiều công cụ mạnh
+
+Windows AntiSpyware sẽ giúp Microsoft xâm nhập cực mạnh vào thị trường các loại sản phẩm bảo mật vốn đang phát triển mạnh mẽ, hiện Microsoft đang mạnh mẽ khuyến cáo người dùng Windows tải về dùng thử . 
+Trước đây Windows AntiSpyware còn có tên là Giant AntiSpyware và là một phần mềm miễn phí. Microsoft đã mua lại công ty Giant Company Software có trụ sở tại New York và phát triển lại thành Windows AntiSpyware. Microsoft cũng hứa hẹn sẽ tung ra thêm nhiều công cụ mới có tác dụng phòng chống các phần mềm độc hại vào thời điểm khi Windows AntiSpyware chính thức ra đời. 
+Các công cụ này bao gồm các chương trình có tác dụng ngăn ngừa và xóa bỏ các phần mềm gián điệp, ngăn ngừa sâu – virus và các cuộc xâm nhập, ngăn ngừa các adware chuyên tung quảng cáo … Công cụ này sẽ được Microsoft cập nhật hàng tháng trên trang web của mình. 
+Windows AntiSpyware chạy được trên Windows 2000, XP và Windows Server 2003. Người dùng khi tải về và cài đặt phần mềm này sẽ được Microsoft “ưu ái” cho gia nhập vào mạng SpyNet, đây là một mạng chuyên chống phần mềm gián điệp trải rộng toàn cầu do chính Giant Company Software đã thiết lập trước khi về với Microsoft. 
+Theo các thông tin trên trang web của Microsoft cho biết: chỉ những người dùng mua bản quyền “chân chính” của hệ điều hành Windows mới được “ưu tiên” xài Windows AntiSpyware. 
+Microsoft yêu cầu người muốn tải về dùng thử phải xác nhận tính hợp lệ của phiên bản Windows mà mình đang sử dụng, nhưng những người dùng “không thèm” xác nhận tính hợp pháp của bản Windows mà mình đang xài cũng có thể tải về … thoải mái.
+
+HOÀNG HẢI (Theo PC World)

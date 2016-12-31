@@ -1,0 +1,12 @@
+﻿Google biến máy tính chỉ còn là "bộ nhớ đệm"
+
+Hãng tìm kiếm khổng lồ đang phát triển một dịch vụ mới nhằm cho phép người sử dụng chuyển 100% dữ liệu trong ổ cứng máy tính của họ lên máy chủ Google.
+
+ Thông tin này xuất hiện trong một bản PowerPoint đăng trên trang web của Google ngày 2/7. Nhưng hãng tìm kiếm sau đó đã lập tức thay thế bằng một tài liệu PDF và xóa bỏ chi tiết trên. 
+Tuy nhiên, một số người đã nhanh chân lưu được bản gốc, trong đó có Greg Linden, chủ nhân trang web cá nhân "Geeking with Greg". Bản PowerPoint chứa những đoạn chú thích ngắn gọn về 3 dịch vụ chủ chốt trong kế hoạch lưu trữ toàn bộ "Store 100%" của Google là GDS, Lighthouse và GDrive. 
+GDS chính là Google Desktop Search và bản ghi chú này đề cập đến tính năng Search Across Computers (tìm kiếm giữa các máy tính) mới được ra mắt gần đây. Hai tuần trước, hãng nghiên cứu Gartner cảnh báo doanh nghiệp nên gỡ bỏ hoặc thiết lập chính sách nghiêm ngặt khi sử dụng công cụ tìm kiếm desktop của Google. 
+Còn Lighthouse là một "danh sách truy cập". Có lẽ đây là một ứng dụng bảo mật để xác định những đối tượng nào được phép tiếp cận thông tin trên máy chủ Google. 
+Trong khi đó, GDrive có vẻ là một dịch vụ lưu trữ, hỗ trợ chuyển mọi dữ liệu trong PC của người sử dụng lên Google server. Khi đó, máy tính cá nhân chỉ còn đóng vai trò như các cache (bộ nhớ đệm) tạm thời. 
+Chú thích trong tài liệu Google PowerPoint có đoạn: "Với dung lượng vô hạn, chúng tôi có khả năng chứa mọi file từ e-mail, lịch trình duyệt web, tranh ảnh... và tạo điều kiện để người dùng có thể truy cập và lấy thông tin tại bất cứ đâu, bất cứ khi nào trên mọi thiết bị, mọi nền tảng". 
+Đây không phải ý tưởng quá mới mẻ trên Internet. Box.net, Xdrive, Yahoo... đã cho phép lưu trữ online và truy cập từ xa nhưng Google đang "tân trang" nó thành một dịch vụ hoạt động đầy ấn tượng. "Dịch vụ lưu trữ của Google sẽ rất hấp dẫn bởi hai lý do", Greg Linden giải thích. "Thứ nhất, Google thường cung cấp ứng dụng với quy mô lớn hơn những gì đang tồn tại. Hòm thư Gmail 2 GB là một ví dụ. Thứ hai, GDrive là dự án lớn nhằm lưu toàn bộ dữ liệu trực tuyến, chứ không phải chỉ một phần nhỏ". 
+Theo T.N. VnExpress/InternetNews

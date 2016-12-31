@@ -1,0 +1,13 @@
+﻿Chàng ngốc học lập trình
+
+Vài ngày sau, liên tiếp những email có tiêu đề “Khủng Long Béo” ào ạt gửi về. Tính hiếu kỳ nổi lên, chúng tôi bắt đầu đi tìm Khủng Long Béo. 
+Phép tìm kiếm trong một diễn đàn cho ra năm trang kết quả liên quan đến cụm từ “khunglongbeo”, quẩn quanh chỉ có vài chủ đề về lập trình mà anh chàng là thành viên tích cực: Visual Basic, Java, C++ và... hội những người tuổi cún (sinh năm 1982). 
+Trong đó, phải tính đến một chủ đề nổi đình nổi đám trên diễn đàn là “Mỗi tuần một tuyệt chiêu cho VB60” do chính Khủng Long Béo chịu trách nhiệm “kịch bản và đạo diễn”. Từ ngày 10-5-2003 đến nay, đã có 32.606 thành viên vào xem 361 bài viết trong chủ đề này. 
+...Ngồi trước mặt chúng tôi là một anh chàng ốm tong teo, vác cặp kính cận dày đến 10 điốp, chỉ có thể là “chàng ngốc” chứ chẳng giống một Khủng Long Béo “tài năng và đáng mến cực kỳ” như mọi người giới thiệu. 
+Thế mà cái gã ấy lại ôm đến một tập bản thảo dày cộm của tập sách Chàng ngốc học lập trình , chìa ra và cười hiền lành: “Đủ 300 trang, nhiều hơn tất cả khả năng của Linh đấy!”. 
+Hắn ta tên thật là Nguyễn Hoàng Linh, tuổi con... cún và xuất thân là dân Bảo Lộc, Lâm Đồng. Lý lịch trích ngang của anh chàng này cũng chẳng có gì thú vị lắm: đang là sinh viên ngành toán Trường ĐH Khoa học tự nhiên TP.HCM vào buổi sáng. Buổi trưa là giáo viên ở Trung tâm tin học Lạc Quan, TP.HCM. Buổi chiều tối là sinh viên Trường tin học Aptech. 
+Đến khuya, anh chàng ngồi nhà viết lung tung, có khi là sách, có khi là mấy cái phần mềm con con để đi... bán. Hiện giờ bản thảo đã hoàn tất, hắn lại tiếp tục thức trắng đêm với phần mềm quản lý trường THPT bằng trí tuệ nhân tạo mà “từ hồi đi học tới giờ đã ấp ủ”. 
+Hắn tự nhận mình là ngốc khi chạm ngõ căn nhà chung của các lập trình viên. Và vì ngốc, hắn không thể “nhai” nổi những quyển sách dạy lập trình vốn được viết bằng ngôn ngữ “hơi bị siêu kỹ thuật”. Và vì không đọc được sách của người khác, hắn quyết định tự viết... sách. 300 trang cẩm nang Chàng ngốc học lập trình của tác giả Khủng Long Béo cũng ra đời từ đó. 
+Khủng Long không xinh giai mà già khọm so với tuổi của mình, và lý do của chuyện này rất chi là... kinh: “Khi rảnh thì mình giải trí bằng việc viết phần mềm và tiếp tục nghiên cứu trí tuệ nhân tạo...”. Hắn sống với niềm tin tuyệt đối vào nghề giáo, mê truyện kiếm hiệp, rất khoái nhân vật Kiều Phong trong Thiên long bát bộ và mơ ước lúc nào cũng là một “khủng long béo hiền lành và dễ mến” như bạn bè vẫn gọi.
+
+TRẦN VŨ NGUYÊN

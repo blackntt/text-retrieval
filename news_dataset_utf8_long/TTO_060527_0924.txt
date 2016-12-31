@@ -1,0 +1,9 @@
+﻿Giải phương trình với Viet_Calculator
+
+Ngoài các công cụ tính toán bình thường như cộng, trừ, nhân, căn bậc 2… Viet_Calculator còn tính toán được Sin, Cos, Tang, Pi… cũng như hỗ trợ copy, paste. 
+Tính năng giải các phương trình bậc 1-2-3 được xem là độc đáo và rất hữu dụng đối với giới học sinh phổ thông. Cách sử dụng chương trình rất đơn giản và thân thiện, người dùng chỉ việc đi vào menu “Ứng dụng” -&gt; chọn ứng dụng cần sử dụng -&gt; nhập vào các giá trị a,b,c tương ứng với ô các tham số đã được trình bày khá trực quan -&gt; sau đó nhấn vào nút “Giải” để Viet_Calculator đưa ra kết quả phù hợp. Ở các tính toán phức tạp như giải phương trình bậc 3, tác giả cũng đã đưa ra bảng hướng dẫn phù hợp để người dùng có thể tìm ra nghiệm một cách nhanh nhất. 
+Ngoài các tiện ích tính toán, Viet_Calculator còn đưa ra các tiện ích khá hấp dẫn như chuyển độ C sang độ F và ngược lại; nhập vào năm sinh để tính ra tuổi con gì; xem thông tin chi tiết về máy tính đang dùng. 
+Vì là một bản thử nghiệm nên khi chạy Viet_Calculator vẫn phát sinh một số lỗi và dẫn đến kết quả đôi khi không chính xác như tính bằng tay, nhất là ở các tính toán phức tạp như giải phương trình bậc 2, bậc 3… Khi chạy chương trình vẫn hay phát sinh lỗi, nhất là khi đang dùng Viet_Calculator mà ta lại chuyển qua xài dụng khác, giao diện vẫn còn hơi thô.. 
+Vì là chương trình mã nguồn mở nên toàn bộ mã nguồn của chương trình này cũng đã được tác giả gói kèm theo để mọi người đều có thể tham khảo và sửa chữa. Người dùng có thể vào đây để tải về dùng thử.
+
+THIÊN TRANG

@@ -1,0 +1,6 @@
+﻿ Virus đầu_tiên nhắm vào Windows CE
+Hãng phần_mềm an_ninh BitDefender ( Rumania ) đã phát_hiện ra virus này và khẳng_định khả_năng hoạt_động của nó trên hệ_điều_hành Windows CE dùng trong điện_thoại thông_minh và các thiết_bị liên_lạc di_động khác . Tác_giả của mã tấn_công này , tự_xưng tên Ratter , là thành_viên của nhóm hacker 29A VX từng tạo ra sâu Cabir nói trên .
+“ Giống như Cabir , tác_giả của virus này không có ý_định thiết_kế ra nó để phát_tán vì mục_đích phá_hoại mà chỉ muốn chứng_minh rằng các thiết_bị chạy Windows CE hoàn_toàn có_thể bị lây_nhiễm mã phá_hoại ” , chuyên_gia Viorel_Canja của BitDefender , nói . “ Mã của nó được gửi trước_hết tới các chuyên_gia phòng_chống virus chứ không phải phát_tán lung_tung ra ngoài ” .
+Virus trên Windows CE làm hiển_thị một cửa_sổ thoại , yêu_cầu người sử_dụng thiết_bị cho_phép lây sang file khác . Mặc_dù hiện_nay những loại virus điện_thoại_di_động thực_sự nguy_hiểm chưa xuất_hiện , các công_ty cung_cấp phần_mềm an_ninh vẫn tích_cực chuẩn_bị sản_phẩm phòng_chống những nguy_cơ tiềm_tàng có_thể sớm xảy_ra , nhất_là khi mà xu_thế sử_dụng thiết_bị di_động tích_hợp nhiều tính_năng ngày_càng phổ_biến .
+Gần đây , nhiều nhà_phân_tích bảo_mật còn cho rằng thậm_chí cả điện_thoại VoIP cũng có_thể trở_thành mục_tiêu tiềm_tàng của tin_tặc , song đến nay chưa có vụ bùng_phát nào xảy_ra .
+Theo VNExpress

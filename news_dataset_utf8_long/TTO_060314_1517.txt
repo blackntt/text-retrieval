@@ -1,0 +1,38 @@
+﻿Cài đặt hộp thư cố định trong Outlook Express
+
+Để cài đặt hộp thư trong Outlook Express, các bạn có thể thực hiện các bước sau: 
+- Khởi động OE bằng cách nhấp đúp vào biểu tượng hình bức thư trên màn hình máy tính. Trong giao diện chính của Outlook Express, bạn hãy nhấp vào menu Tools trên đầu màn hình và chọn Account. Khung cửa sổ Internet Account sẽ xuất hiện. Hãy di chuyển con trỏ chọn phần tab Mail sau đó chọn nút Add và chọn Mail. 
+Điền các thông khai báo vào bảng này. - Điền tên bạn vào phần Display name và chọn Next, sau đó điền địa chỉ e-mail của bạn đã đăng ký với VNN vào phần Email Address. 
+- Một cửa sổ khác sẽ xuất hiện và bạn phải điền các thông số vào phần tên server để có thể gửi nhận được thư: 
+My Incoming mail Server is a POP3 server: 
+Incoming mail (POP3): Địa chỉ mail server mà mail client kết nối đến để lấy thư về 
+Outgoing mail (SMTP): Địa chỉ mail server mà mail client kết nối đến để gửi thư đi 
+Bảng liệt kê các thông số đối với hệ thống Mail của VNN 
+Loại Email 
+Incoming Mail 
+Outgoing Mail 
+@hn.vnn.vn 
+mail.hn.vnn.vn 
+smtp.hn.vnn.vn 
+@hcm.vnn.vn 
+mail.hcm.vnn.vn 
+smtp.hcm.vnn.vn 
+@dng.vnn.vn 
+mail.dng.vnn.vn 
+smtp.dng.vnn.vn 
+@vnn.vn 
+mail.vnn.vn 
+hn.vnn.vn 
+@pmail.vnn.vn 
+pmail.vnn.vn 
+pmail.vnn.vn 
+@fmail.vnn.vn 
+fmail.vn.vn 
+fmail.vn.vn 
+@s.vnn.vn 
+s.vnn.vn 
+s.vnn.vn 
+- Sau khi điền xong, bạn tiếp tục nhấn Next một cửa sổ khác sẽ xuất hiện, bạn hãy điền tên truy cập và mật khẩu để kết nối mạng VDC. 
+- Nhấn vào Next, trang Congratulations xuất hiện thông báo bạn đã thành công trong việc tạo một Mail Account mới. Sau đó bạn hãy nhấn vào nút Finish để kết thúc quá trình tạo hộp thư.
+
+HOÀNG KIM ANH

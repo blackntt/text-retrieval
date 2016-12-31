@@ -1,0 +1,11 @@
+﻿Google thử nghiệm dịch vụ không dây
+
+Dịch vụ Google SMS cũng có thể dùng để tính toán, tìm mã vùng hoặc mã bưu điện cũng như nhận được các kết quả truy cứu thông tin từ Google. 
+Người sử dụng điện thoại di động hoặc các thiết bị cầm tay tương thích với dịch vụ nhắn tin ngắn dạng văn bản đều có thể gửi thông tin đến dịch vụ Google SMS và từ đây sẽ có những thông tin tự động phản hồi lại cho người truy tìm. Ví dụ khi bạn nhập vào chữ “pizza” cùng với mã vùng vào dịch vụ tìm kiếm thì Google SMS sẽ liệt kê cho bạn hàng loạt các tiệm bán pizza trong khu vực đó cho bạn. Tương tự như vậy, Google SMS cũng cung cấp danh sách các số điện thoại trong vùng khi người truy tìm chỉ biết được mã vùng, thành phố hay bang. 
+Người dùng cũng có thể sử dụng Google SMS để tìm kiếm thông tin giống như trên máy tính. Để thực hiện điều này, người dùng nên gõ vào một chữ “G” vào sau mỗi mệnh đề tìm kiếm và sẽ nhận được những mẩu tin tóm tắt của kết quả, giúp cho quá trình xác lập thông tin được dễ dàng hơn. 
+Google SMS sử dụng tin nhắn dạng văn bản và không đòi đỏi phải có trình duyệt cho các thiết bị không dây chính vì vậy nó không có chức năng phản hồi toàn bộ danh sách thông tin cùng với các đường kết nối đến các trang web như Google thông thường mà ta vẫn sử dụng trên máy tính. 
+Dịch vụ Google SMS hoàn toàn miễn phí nhưng người dùng vẫn phải trả tiền nhắn tin cho nhà cung cấp dịch vụ. 
+Hiện tại, Google SMS chỉ sử dụng được ở các nhà cung cấp dịch vụ không dây tại Mỹ như AT&amp;T Wireless, Cingular, Nextel, T-Mobile, Verizon and Sprint PCS. 
+Có thể tham khảo thông tin về dịch vụ đang thử nghiệm này tại http://sms.google.com .
+
+HOÀNG HẢI (Theo ITWorld)

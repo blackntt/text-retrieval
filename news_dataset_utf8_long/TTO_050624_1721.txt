@@ -1,0 +1,11 @@
+﻿Tìm thấy quá trình các tế bào thần kinh mới sinh ra thay thế các tế bào chết
+
+Phát hiện này cho thấy các liệu pháp tế bào mầm có thể được dùng để điều trị cho các vùng não bị ảnh hưởng bởi các bệnh suy thoái thần kinh hoặc đột quỵ. 
+Qun-Yong Zhou, phó giáo sư tại Trường ĐH California và nhóm nghiên cứu của mình đã nhận dạng được một protein có vai trò hướng dẫn các tế bào thần kinh mới đến một vùng não đặc biệt. Protein này có tên gọi prokineticin 2 (PK2), được nhận thấy là thực hiện vai trò chính cho sự hòa nhập chức năng thích hợp của các tế bào thần kinh mới trong não. 
+“Một trong các chìa khóa để phát triển các liệu pháp mới nhiều hứa hẹn cho các bệnh suy thoái thần kinh dựa vào các phát hiện của chúng tôi là làm thế nào các tế bào thần kinh mới được hình thành và hòa nhập vào mô não trưởng thành”, Zhou nói. 
+Trong khi tất cả các tế bào thần kinh khởi đầu được sinh ra và phân biệt từ các nguyên bản tế bào mầm của chúng trong quá trình phát triển, não trưởng thành vẫn duy trì ít nhất một số vùng - nơi các tế bào mầm thần kinh tạo ra các tế bào thần kinh mới để thay thế các tế bào già hoặc chết. 
+Zhou và đồng nghiệp đã phát hiện được quá trình PK2 hướng dẫn việc chuyển các tế bào thần kinh mới sinh ra từ các tế bào mầm thần kinh từ vùng tâm thất dưới trong não đi qua mô trưởng thành đến hành khứu giác. PK2 cho phép các tế bào thần kinh mới định vị các khu vực thích hợp của hành khứu giác, cho phép các tế bào này thực hiện chức năng thông thường. 
+PK2 thực hiện nhiệm vụ này bằng cách hoạt động với các cơ quan thụ cảm tế bào tương ứng của nó, là một phần của nhóm cơ quan thụ cảm GPCRs - các protein được tìm thấy trong màng tế bào và đóng vai trò quyết định trong việc truyền các tín hiệu từ vùng ngoài tế bào đến cơ cấu phân tử bên trong tế bào. 
+Từ phát hiện này, các nhà nghiên cứu hy vọng sẽ dùng liệu pháp tế bào mầm để điều trị cho các bệnh nhân Alzheimer, Parkinson hoặc đột quỵ.
+
+TƯỜNG VY (Theo Xinhua)

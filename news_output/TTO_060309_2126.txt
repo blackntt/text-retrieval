@@ -1,0 +1,10 @@
+﻿ Giải cờ_tướng máy quốc_gia đầu_tiên tại Việt_Nam
+Đây là một cuộc_thi nhằm nâng cao khả_năng tư_duy chiến_thuật , sáng_tạo , khả_năng nghiên_cứu của sinh_viên Trường ĐH Công_nghệ nói_riêng , sinh_viên các trường ĐH nói_chung và toàn_thể các đối_tượng quan_tâm đến bộ_môn cờ_tướng .
+BTC mong_muốn Việt_Nam sẽ có một chương_trình cờ_tướng có thứ_hạng trong làng lập_trình thế_giới .
+Điều đặc_biệt là mọi người ( không kể độ tuổi , bằng_cấp , quốc_tịch , nơi ở , giới_tính ) đều có_thể tham_gia giải , có_thể kết_hợp thành một nhóm , không hạn_chế về số_lượng .
+Người ( nhóm ) tham_gia sẽ viết một chương_trình chơi cờ_tướng chạy trên một máy_tính ( gọi ngắn_gọn là hệ_thống chơi cờ Tướng ) . Hệ_thống chơi cờ Tướng của người tham_gia sẽ đấu cờ Tướng với các hệ_thống khác để xếp thứ_tự và tranh các giải . Và mỗi nhóm tác_giả chỉ được phép tối_đa có một chương_trình thi_đấu .
+Không có bất_cứ giới_hạn nào về phần_cứng . Người tham_gia có_thể dùng phần_cứng bất_kỳ ( máy PC để bàn , máy PC xách tay , máy_tính lớn , máy đa nhân , máy MAC , máy có lắp thêm mạch đặc_biệt , máy chuyên_dụng … ) . Khi thi_đấu , cần mang theo máy_tính đến dự giải . Trong trường_hợp máy_tính dự giải là loại máy_tính lớn không_thể mang theo thì được phép điều_hành máy_tính từ xa .
+Hình_thức thi_đấu được BTC đưa ra khá cụ_thể : khi thi_đấu mỗi_một hệ_thống chơi cờ sẽ có một người điều_khiển ( operator ) . Người điều_khiển không nhất_thiết phải là chính tác_giả mà có_thể là người ủy_quyền . Hai chương_trình thi_đấu với nhau sẽ thông_qua hai người điều_khiển và một bàn_cờ thật_sự ở giữa . Người điều_khiển sẽ điều_hành hệ_thống và copy nước cờ do máy đi để đi vào bàn_cờ thật .
+Hai người điều_hành chơi cờ với nhau như đấu_thủ thực_sự nhưng thay_vì tự mình suy_nghĩ thì dùng máy_tính hộ . Việc xác_định thắng / thua và áp_dụng các điều_luật cờ dựa vào tình_trạng thực_tế trên bàn_cờ ( chứ không phải trên máy_tính của người điều_khiển ) . Luật_chơi cờ là bộ_luật Cờ_Tướng do Liên_đoàn Cờ_Việt_Nam ban_hành .
+Giải sẽ được tiến_hành tại Trường ĐH Công_nghệ ( ĐH Quốc_gia Hà_Nội ) . Tổng thời_gian giải dự_kiến là khoảng 7 tháng ( từ tháng 3 đến tháng 9-2006 ) .
+Tin , ảnh : BÙI_NGUYỄN_VIỆT

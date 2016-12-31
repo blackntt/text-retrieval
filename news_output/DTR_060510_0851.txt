@@ -1,0 +1,8 @@
+﻿ Chatter nữ nhận 163 tin nhắn quấy_rối mỗi ngày
+Nghiên_cứu của trường Đại_học Maryland ( Mỹ ) nhận thấy , một người truy_cập vào phòng chat trên Internet nếu dùng nick nữ_giới sẽ có nguy_cơ nhận tin nhắn đe_dọa và quấy_rối tình_dục gấp 25 lần so với những_ai “ thủ vai ” nam_giới hoặc các biệt_danh khó hiểu .
+Theo nghiên_cứu này , trung_bình mỗi ngày các nick chat nữ_tính nhận được 163 tin nhắn quấy_rối , trong khi đó , những người dùng sử_dụng nick nam_giới và biệt_danh khó hiểu chỉ nhận được tương_ứng khoảng 4 – 25 tin như_thế mỗi ngày .
+“ Một_số tin nhắn_gửi đến cho nick của nữ_giới là vô_hại , song cũng có những bức thư có nội_dung đe_dọa hoặc xâm_phạm tình_dục ” , Robert_Meyer , một sinh_viên năm thứ 2 khoa công_nghệ của trường Maryland cho_biết .
+Sinh_viên Meyer và phó_giáo_sư Michel_Cukier đã tạo ra một mạng máy_tính “ bot ” , từ đó đăng_nhập nhiều nick khác_nhau cả nam và nữ .
+Nghiên_cứu cho_hay , mỗi ngày người dùng nhận được nhiều tin nhắn hơn so với bot : với nick là nữ , người nhận được 163 , bot nhận được 100 , với nick là nam_giới thì người nhận được 27 tin còn bots nhận 4 .
+“ Các phụ_huynh nên cảnh_giác các con_em mình về những nguy_cơ này và khuyên chúng nên tạo nick không thể_hiện giới_tính hoặc những tên gọi khó hiểu ” , ông Cukier nói . “ Bọn trẻ cần phải học cách diễn_tả cảm_xúc để không làm tiết_lộ giới_tính của chúng ” .
+N.Hương Theo Information Week

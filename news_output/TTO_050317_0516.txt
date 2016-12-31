@@ -1,0 +1,4 @@
+﻿ Bị thu_hồi đất nếu sau 12 tháng không xây_dựng
+Qui_định này nói rõ sau khi phiên đấu_giá kết_thúc , người trúng đấu_giá phải ký vào biên_bản và cam_kết thực_hiện đúng theo biên_bản . Nếu từ_chối , người trúng đấu_giá sẽ không được hoàn_trả khoản tiền đặt trước ( khoản này nộp vào ngân_sách ) . Hội_đồng đấu_giá sẽ ra văn_bản hủy_bỏ kết_quả trúng đấu_giá .
+Nếu sau 30 ngày người trúng đấu_giá không nộp tiền trúng đấu_giá đợt đầu theo qui_định ( 30% ) , khoản tiền đã nộp ( 10% giá_trị khởi_điểm của gói đấu_giá ) sẽ bị tịch_thu . Người trúng đấu_giá vi_phạm điều_kiện thanh_toán chỉ được nhận lại phần tiền đã thanh_toán sau khi trừ 10% số tiền đã nộp và số tiền phạt tương_ứng .
+Đ . TRANG

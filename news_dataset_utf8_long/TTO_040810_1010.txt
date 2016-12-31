@@ -1,0 +1,8 @@
+﻿Microsoft chính thức tung ra bản SP2
+
+Theo phát ngôn viên của Microsoft, SP2 cung cấp mảnh vá cho một số lỗ hổng bảo mật của Windows cùng nhiều tính năng bảo mật khác. 
+Hiện tại, người sử dụng có thể cập nhật miễn phí SP2 từ website của Microsoft hoặc tính năng cập nhật tự động của hệ điều hành Windows XP. Dự kiến, trong thời gian tới SP2 còn được cung cấp ở 25 ngôn ngữ khác nhau. 
+"SP2 là bước tiến quan trọng trong việc thực hiện mục tiêu bảo mật máy tính, mạng máy tính của khách hàng trước các cuộc tấn công ngày càng tinh vi và phức tạp", Chủ tịch Microsoft Bill Gates tuyên bố. 
+Microsoft dự kiến sẽ phân phối bản cập nhật tới khoảng 100 triệu máy tính cá nhân trong vòng 2 tháng tới.
+
+Theo VDCMedia

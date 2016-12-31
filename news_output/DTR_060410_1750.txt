@@ -1,0 +1,9 @@
+﻿ Virus “ gái xinh nè … ” hoành_hành qua chat
+Chiều 10/4 , hàng nghìn người sử_dụng Internet bị nhiễm một loại virus lạ lây_lan qua Yahoo_Messenger . Virus này lây_lan với tốc_độ nhanh khủng_khiếp trong cộng_đồng online .
+Cơ_chế hoạt_động của loại virus này như sau : Trong_Yahoo_Messenger , khi ai đó click vào tin nhắn “ xem thử cái này đi ” , “ tặng bạn này ” , “ em xinh nè ” … kèm theo một đường link thì lập_tức máy_tính của người đó bị nhiễm virus . Virus này sẽ tự_động gửi tin vào tất_cả contact trong list của người bị nhiễm và từ đó nhân rộng ra rất nhanh .
+Sau khi phát_hiện loại virus này , lập_tức trên cộng_đồng online xuất_hiện những thông_điệp như : “ Virus lây qua YM ! Đề_nghị mọi người không nên mở các đường link dẫn đến các file ảnh “ gaixinh ” , vì link đấy chứa virus . Hãy gửi thông_báo này đến bạn của bạn .
+Cách xử_lý : Trước khi các chuyên_gia tìm ra cơ_chế lây_lan và cách khắc_phục loại virus này , bạn có_thể làm theo hướng_dẫn sau : Các bạn vào C : \ Windows và xóa đi file messenger . exe ; nếu_không xóa được thì chạy Safe_Mode rồi xóa .
+Nếu_không được thì xóa file C : \ Windows \ messenger.exe từ DOS .
+Virus đang hoành_hành trên YM ! Nó tự_động gửi các đường link mời bạn xem ảnh gái xinh , em be , ecard . Đây là các đường link chứa virus , khi bạn mở ra nó sẽ tự_động save vào máy_tính của bạn . Đề_nghị TUYỆT_ĐỐI_KHÔNG_MỞ… ”
+Lập_tức , một_số chuyên_gia an_ninh mạng cũng khuyến_cáo người sử_dụng không chạy bất_cứ file nào từ địa_chỉ www . xRobots . Net . Vì tất_cả trong số này đều là spyware . Theo các chuyên_gia , domain này mới tạo trong hai ngày_nay và loại virus này có tốc_độ lây_lan rất nhanh qua Yahoo_Messenger
+Ngay trong buổi chiều nay chúng_tôi đã liên_lạc với Trung_tâm an_ninh mạng BKIS , ông Nguyễn_Tử_Quảng - Giám_đốc trung_tâm , cho_biết : Đã có một_số người phản_ánh tới trung_tâm về hiện_tượng trên . BKIS đang nghiên_cứu loại virus này và sẽ sớm phát_hiện ra ngay trong ngày . Bảo_Trung

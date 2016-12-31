@@ -1,0 +1,98 @@
+﻿ Cuộc_sống lứa_đôi của bạn ra_sao ?
+Ngay cả với các cặp vợ_chồng lý_tưởng thì những lời khuyên không_bao_giờ thừa . Bạn hãy đọc câu_hỏi dưới đây , trả_lời thành_thực , rồi cộng điểm lại . Kết_quả sẽ cho_biết thực_trạng cuộc_sống hôn_nhân của bạn hiện_nay .
+Câu_hỏi cho người chồng
+1.Bạn có nguyện_vọng thay_đổi cách sống trong gia_đình và làm từ đầu không ?
+a . Có – 10 điểm
+b . Đôi_khi – 5 điểm
+c . Không – 4 điểm
+2.Bạn có cho rằng bà_xã ăn_mặc không đẹp lắm không ?
+a . Có – 8 điểm
+b . Đôi_khi – 2 điểm
+c . Không – 4 điểm
+3.Giấc ngủ của bạn như_thế_nào ?
+a . Xấu – 6 điểm
+b . Không được tốt – 2 điểm
+c . Bình_thường – 3 điểm
+4.Bạn có thích quây_quần mỗi tối ở nhà với vợ_con không ?
+a . Có – 2 điểm
+b . Thỉnh_thoảng – 5 điểm
+c . Không – 10 điểm
+5.Bạn có biết bà_xã thích hoa gì nhất và thích đọc sách gì nhất không ?
+a . Có – 2 điểm
+b . Biết lơ_mơ – 9 điểm
+c . Không biết – 10 điểm
+6.Bạn có thường nhớ về những năm_tháng còn độc_thân không ?
+a . Có – 12 điểm
+b . Đôi_khi – 5 điểm
+c . Không – 6 điểm
+7.Bạn có cho rằng vợ hoặc chồng cần phải tự quyết_định cách tiêu_khiển thời_gian buổi tối của mỗi người không ?
+a . Có – 7 điểm
+b . Đôi_khi – 5 điểm
+c . Không – 4 điểm
+8.Bạn có hay so_sánh vợ mình với những người phụ_nữ khác không ?
+a . Có – 9 điểm
+b . Thỉnh_thoảng – 2 điểm
+c . Không – 1 điểm
+9.Bạn có thích ra ngoài buổi tối để giao_du với bạn_bè không ?
+a . Có – 8 điểm
+b . Thỉnh_thoảng – 2 điểm
+c . Không – 3 điểm
+10.Bạn có thường gây căng_thẳng ở nhà vì những điều bực_mình ở công_sở không ?
+a . Có – 7 điểm
+b . Đôi_khi – 5 điểm
+c . Không – 5 điểm
+Câu trả_lời cho đức lang_quân :
+Trên 75 điểm :
+Bạn không hạnh_phúc lắm trong cuộc_sống gia_đình . Bạn nên cố_gắng quan_tâm đến người bạn_đời hơn_nữa , khi còn chưa muộn .
+Từ 40 - 74 điểm :
+Bạn rất mãn_nguyện với cuộc_sống hôn_nhân của mình .
+Dưới 39 điểm :
+Đôi_khi bạn cũng co những hiểu lầm nho_nhỏ với bà_xã nhưng tựu chung là cuộc hôn_nhân của bạn rất hạnh_phúc .
+Câu_hỏi cho người vợ
+1.Bạn có cho rằng ông_xã rất chăm_chút và dịu_dàng với bạn không ?
+a . Có – 10 điểm
+b . Đôi_khi – 5 điểm
+c . Không – 2 điểm
+2.Bạn có muốn chồng kể chuyện cơ_quan không ?
+a . Có – 4 điểm
+b . Tùy – 2 điểm
+c . Không – 8 điểm
+3.Bạn thường làm căng_thẳng bầu_không_khí trong nhà ?
+a . Đúng – 7 điểm
+b . Thỉnh_thoảng – 1 điểm
+c . Không_bao_giờ – 2 điểm
+4.Sự ngon_miệng thường làm thay_đổi tâm_trạng của bạn ?
+a . Đúng – 10 điểm
+b . Đúng một phần – 3 điểm
+c . Không đúng – 4 điểm
+5.Bạn có cho rằng những người bạn quen có chồng “ ngon ” hơn mình ?
+a . Có – 6 điểm
+b . Đôi_khi – 0 điểm
+c . Không – 2 điểm
+6.Bạn có mặc váy ngủ cả ngày trong nhà vào những ngày nghỉ ?
+a . Có – 9 điểm
+b . Thỉnh_thoảng – 7 điểm
+c . Không – 2 điểm
+7.Sở thích của ông_xã có khiến bạn bực_mình ?
+a . Có – 6 điểm
+b . Đôi_khi – 5 điểm
+c . Không – 5 điểm
+8.Thành công của chồng có làm_bạn vui_sướng ?
+a . Có – 3 điểm
+b . Thỉnh_thoảng – 2 điểm
+c . Không khi nào – 10 điểm
+9.Bạn có cho rằng công_việc của chồng ít quan_trọng hơn là công_việc của bạn ?
+a . Có – 10 điểm
+b . Đôi_khi – 0 điểm
+c . Không – 1 điểm
+10.Bạn có thường bày_tỏ tình_yêu với con_cái hơn chồng không ?
+a . Luôn_luôn – 8 điểm
+b . Thỉnh_thoảng – 2 điểm
+c . Không – 3 điểm
+Câu trả_lời dành cho đấng phu_nhân :
+75 điểm trở_lên :
+Bạn luôn khẳng_định cuộc_sống vợ_chồng quá bất_hạnh . Bạn thường đổ lỗi cho chồng nhưng bạn nên nhớ lại xem có phần sai_sót của mình trong đó không ? Bạn vẫn còn thời_gian để cân_nhắc lại mọi chuyện .
+Từ 40 - 74 điểm :
+Bạn luôn tự dày vò bởi những chuyện không_đâu . Tốt hơn hãy quên chúng đi và lo cho chồng_con nhiều hơn_nữa .
+Dưới 39 điểm :
+Bạn là người vợ tốt , ông_xã không_thể mơ về một người bạn_đời nào khác tốt hơn_nữa . Phương_Minh

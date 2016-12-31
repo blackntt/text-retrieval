@@ -1,0 +1,7 @@
+﻿Trung Quốc chế tạo thành công robot mổ nano
+
+Nano là một đơn vị đo chiều dài bằng 1 phần tỷ mét. Kỹ thuật mổ nano là một công nghệ rất cao trong đó robot sử dụng một con dao mổ nano và thao tác, lắp ráp, chạm khắc trên một diện tích nhỏ được tính bằng đơn vị nano. 
+Các nhà nghiên cứu tại Viện nghiên cứu tự động Thẫm Dương, trực thuộc Viện khoa học hàn lâm Trung Quốc đã thực hiện thành công một ca phẫu thuật sử dụng một kính hiển vi đặc biệt và một màn hình máy tính cho thấy những cử động của cánh tay robot nano (cánh tay này nhỏ hơn đầu kim vài triệu lần). Cánh tay của robot có thể thao tác trên các nguyên tử cực nhỏ như thể chúng ta điều khiển các quân cờ. 
+Các chuyên gia cho rằng robot này sẽ mở đường cho việc chế tạo ra những robot trong tương lai có thể đi vào và sửa chữa tế bào.
+
+Đ.K.L (Theo Crienglish)

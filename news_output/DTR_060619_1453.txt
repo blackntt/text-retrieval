@@ -1,0 +1,8 @@
+﻿ 15% quản_trị mạng không_bao_giờ đổi mật_khẩu
+Phần_lớn các mật_khẩu ( password ) máy_tính_cá_nhân trong các tập_đoàn công_nghệ lớn nhất thế_giới đều được lưu_trữ trong đầu của một , hai nhân_viên IT hoặc ghi trên giấy , theo khảo_sát của công_ty phần_mềm bảo_mật Cyber-Ark .
+Trong 200 chuyên_viên an_ninh IT được phỏng_vấn tại hội_nghị Infosecurity ( Anh ) , 28% cho_biết họ ghi_nhớ mật_khẩu trong đầu và 38% dùng cách ghi lại trên một tờ giấy nào_đó .
+Theo công_ty Cyber-Ark , việc quản_lý password lỏng_lẻo , như để chúng ở những nơi không an_toàn , sẽ gây trở_ngại cho các nỗ_lực nâng cao an_ninh , làm ảnh_hưởng đến hoạt_động kinh_doanh của công_ty .
+“ Trong trường_hợp người chịu trách_nhiệm giữ những mật_khẩu quản_lý quan_trọng không có_mặt ở văn_phòng hoặc những mảnh giấy lưu password bị thất_lạc đâu_đó thì sẽ làm gián_đoạn công_việc , gây thất_thoát tiền_của công_ty ” , khảo_sát của Cyber-Ark nhấn_mạnh .
+Theo Cyber - Ark , một điều đáng lo_ngại hơn là 15% nhân_viên quản_trị mạng không_bao_giờ đổi những mật_khẩu nhạy_cảm , và 1/4 công_ty cho_phép nhân_viên IT sử_dụng những password này mà không cần sự chấp_thuận của cấp trên .
+“ Mật_khẩu là công_cụ rất hữu_ích và cực_kỳ quan_trọng để hạn_chế khả_năng truy_cập vào mạng admin , các hệ_thống hay những ứng_dụng cung_cấp toàn_bộ bí_mật của công_ty nên mọi người cần phải lưu_ý và tự bảo_vệ thông_tin của mình bằng các password ” , khảo_sát nhắc_nhở .
+N . H_Theo VNuNet

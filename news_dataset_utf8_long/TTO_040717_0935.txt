@@ -1,0 +1,8 @@
+﻿Virus đầu tiên nhắm vào Windows CE
+
+Hãng phần mềm an ninh BitDefender (Rumania) đã phát hiện ra virus này và khẳng định khả năng hoạt động của nó trên hệ điều hành Windows CE dùng trong điện thoại thông minh và các thiết bị liên lạc di động khác. Tác giả của mã tấn công này, tự xưng tên Ratter, là thành viên của nhóm hacker 29A VX từng tạo ra sâu Cabir nói trên. 
+“Giống như Cabir, tác giả của virus này không có ý định thiết kế ra nó để phát tán vì mục đích phá hoại mà chỉ muốn chứng minh rằng các thiết bị chạy Windows CE hoàn toàn có thể bị lây nhiễm mã phá hoại”, chuyên gia Viorel Canja của BitDefender, nói. “Mã của nó được gửi trước hết tới các chuyên gia phòng chống virus chứ không phải phát tán lung tung ra ngoài”. 
+Virus trên Windows CE làm hiển thị một cửa sổ thoại, yêu cầu người sử dụng thiết bị cho phép lây sang file khác. Mặc dù hiện nay những loại virus điện thoại di động thực sự nguy hiểm chưa xuất hiện, các công ty cung cấp phần mềm an ninh vẫn tích cực chuẩn bị sản phẩm phòng chống những nguy cơ tiềm tàng có thể sớm xảy ra, nhất là khi mà xu thế sử dụng thiết bị di động tích hợp nhiều tính năng ngày càng phổ biến. 
+Gần đây, nhiều nhà phân tích bảo mật còn cho rằng thậm chí cả điện thoại VoIP cũng có thể trở thành mục tiêu tiềm tàng của tin tặc, song đến nay chưa có vụ bùng phát nào xảy ra.
+
+Theo VNExpress

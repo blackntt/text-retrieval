@@ -1,0 +1,6 @@
+﻿ Bản cập_nhật Firefox cho Mac OS X
+Bản cập_nhật dành cho trình_duyệt Firefox trên hệ_điều_hành Mac OS X , chạy trên nền máy_tính sử_dụng vi_xử_lý ( VXL ) Intel , ngoài việc nâng cao tính ổn_định cho trình_duyệt , cũng sẽ sửa luôn một_số lỗi bảo_mật nghiêm_trọng .
+Phiên_bản mới của trình_duyệt , Firefox 1.5.0.2 , được dán nhãn " ổn_định và bảo_mật " của nhóm Mozilla . Nhóm này đưa ra lời khuyên đến mọi khách_hàng nên cập_nhật phiên_bản này càng sớm càng tốt .
+Phiên_bản này sẽ tự_động được cập_nhật thông_qua Internet đối_với nhưng người sử_dụng Firefox 1.5 . Các bản Firefox trước đó muốn cập_nhật thì_phải truy_cập vào website Mozilla.com .
+Bản_Firefox lần này theo đánh_giá là sẽ chạy nhanh và ổn_định hơn do dựa trên nền_tảng chipsets của Apple cho các máy_tính chạy hệ_điều_hành Mac OS_X trên nền VXL Intel , so với phiên_bản trước_đây vốn dựa trên bộ mã dịch của công_nghệ chuyển mã Rosetta .
+TRẦN_HUY ( Theo Yahoo ! News )

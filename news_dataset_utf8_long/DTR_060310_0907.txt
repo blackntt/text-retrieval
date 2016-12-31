@@ -1,0 +1,12 @@
+﻿Giải pháp chống rớt sóng di động
+
+Ngay giữa lòng Hà Nội và các thành phố lớn, ở những khu vực như thang máy, chân cầu thang, vùng khuất sóng… tình trạng mất mạng, rớt sóng vẫn diễn ra. Hôm qua (9/3), công ty DKD High-tech vừa giới thiệu một thiết bị khắc phục hiện tượng trên. 
+ Tại Hà Nội, nơi mà các mạng di động bố trí trạm BTS dày đặc thì ngay cả những nhà cung cấp dịch vụ lớn như VinaPhone, MobiFone cũng đều gặp khó khăn trước tình trạng thiết bị đầu cuối bị rớt mạng tại các khu cao tầng, tầng hầm, thang máy... Tương tự, ở TPHCM và các thành phố lớn khác, đối với khách hàng sử dụng dịch vụ, cứ vào những vùng này thì tất cả đều chấp nhận… mất sóng như một sự mặc định. 
+Ông Nguyễn Minh Đức, đại diện công ty này, cho hay: “Thiết bị có thể tương thích với tất cả các mạng di động GSM, CDMA, PHS, thậm chí cả mạng truyền số liệu không dây tốc độ cao Wi-Fi hay Wimax”. 
+Ngoài ra, theo giới thiệu của công ty DKD thì giải pháp sử dụng hệ thống thiết bị này chỉ có giá thành bằng 20%-30% so với các giải pháp lắp đặt thêm các trạm thu phát BTS. 
+Giải pháp thứ nhất được Cty này đưa ra: Lắp đặt các ăngten dạng cột đèn, cây nấm ... gần các khu vực nhà cao tầng, hầm ngầm. Các ăngten này kích hoạt sóng viễn thông từ trạm BTS gần nhất tập trung vào các vùng trọng điểm đã được xác định và thiết lập. 
+Giải pháp thứ 2: lắp đặt thiết bị POI (Point of Interface) ngay trong tòa nhà, tầng hầm... Thiết bị POI này sẽ thu sóng từ trạm BTS gần nhất rồi tỏa đều ra các tầng trong tòa nhà và tầng hầm. 
+So với việc lắp đặt một trạm BTS thì việc lắp đặt các thiết bị truyền dẫn này đều rất đơn giản và tiết kiệm được nhiều chi phí. 
+Hai giải pháp này đã được thử nghiệm và mang lại kết quả rất đáng hài lòng, hiện tượng rớt mạng không còn. Nếu được ứng dụng rộng rãi thì hiện tượng rớt sóng tại các vùng trũng, vùng can nhiễu, vị trí khuất sóng (thang máy, hầm ngầm) là không còn. 
+Công ty DKD Hight-tech sẽ thử nghiệm thực hiện giải pháp tổng thể cho 4 tòa nhà thuộc diện khuất sóng tại khu vực Hà Nội trong tháng 3 này. 
+Bảo Trung

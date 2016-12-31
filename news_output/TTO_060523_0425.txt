@@ -1,0 +1,13 @@
+﻿ “ Các tàu ở quá xa bờ phải tự thu_thập thông_tin ”
+Ông Hiên cho_biết : “ Ngày 12-5 , chúng_tôi nhận được thông_báo của TP Đà_Nẵng yêu_cầu thông_tin báo bão xa cơn bão số 1 . Chúng_tôi phát thông_báo nói trên ở chế_độ hai phiên / ngày trên tần_số 8294 ( sáng 7g40 và tối 19g40 - PV ) . Qua_ngày 13-5 , tăng lên bốn phiên / ngày và ngày 14 cũng vậy ” .
+Nhưng trong ngày 15-5 bão đã chuyển_hướng ?
+- Ngày 15-5 chúng_tôi nhận được thông_tin là cơn bão gần , hướng đi vẫn chưa thay_đổi . Đến 17g40 chúng_tôi mới nhận và phát đi bản tin trong đó có đoạn “ Nhiều khả_năng bão sẽ di_chuyển theo hướng bắc tây bắc và bắc ” .
+Vào hồi 5g40 ngày 16-5 , chúng_tôi nhận được tin cơn bão gần với dự_báo “ trong 24 giờ tới bão sẽ di_chuyển theo hướng bắc tây bắc và bắc , mỗi giờ đi được 15-20km ” . Lúc này chúng_tôi vẫn duy_trì lượng phát tám phiên / ngày . Nhưng đến 13g30 chiều cùng ngày chúng_tôi lại nhận được bản tin dự_báo là tin bão xa .
+Vì_vậy theo qui_định của Cục Hàng hải thì chúng_tôi chuyển xuống phát trở_lại bốn phiên / ngày ( tức hai phiên / buổi ) . Đúng 7g40 sáng 18-5 , Đà_Nẵng_Radio phát bản tin cuối_cùng về cơn bão số 1 . Chúng_tôi đã tuân_thủ chế_độ phát tin báo bão mà Cục Hàng hải đã qui_định .
+Nhưng bão xa là xa vùng_biển miền Trung chứ đâu có xa với ngư_dân ở ngoài khơi ?
+- Vâng , bão xa là xa vùng bờ biển VN . Quả_thật là các tàu bị nạn đánh_bắt quá xa bờ nên họ phải tự thu_thập thông_tin thời_tiết từ nhiều nguồn và dựa vào sa_bàn , định_vị hay kinh_nghiệm mà xử_lý để tránh bão , chứ không_thể phụ_thuộc vào mỗi_một nguồn thông_tin của đài .
+Thưa ông , khi ngư_dân đang ở xa thì liệu sóng phát có bắt được không ?
+- Bán_kính phát của Đà_Nẵng_Radio vào_khoảng 1.000km , nghĩa_là ngư_dân có_thể bắt được nhưng với điều_kiện máy ICOM phải tốt . Thế_nhưng tôi cũng đang phân_vân . Trong trường_hợp thời_tiết quá xấu như cơn bão số 1 thì chất_lượng tín_hiệu sẽ không rõ lắm . Có những lúc mưa to thì chỉ cách đài phát 1km đã không nghe được hoặc nghe lạo_xạo .
+Đà_Nẵng_Radio có nhận được tin SOS phát đi từ các tàu_thuyền ngoài khơi không ?
+- Không . Hoàn_toàn không .
+Đ . NAM - V . HÙNG

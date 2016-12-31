@@ -1,0 +1,4 @@
+﻿ TP.HCM : lập bảng thông_tin cho du_khách
+Tại ba địa_điểm này sẽ đặt một màn_hình ( sử_dụng công_nghệ touch screen : điều_khiển trực_tiếp bằng cách tiếp_xúc với màn_hình ) cung_cấp các thông_tin về du_lịch : các địa_điểm du_lịch TP , khu vui_chơi , các chương_trình khuyến_mãi của các công_ty lữ_hành du_lịch , khách_sạn ...
+Theo ông Tân , trước_mắt sẽ sử_dụng tiếng Anh và tiếng Việt trên các màn_hình này và thông_tin sẽ được cập_nhật mỗi tuần một lần . Và sẽ có nhân_viên trực ở mỗi máy để trả_lời những thắc_mắc của du_khách mà máy_tính không giải_đáp được . Dự_kiến kinh_phí cho mỗi màn_hình này khoảng 3.000 USD .
+LÊ_NAM

@@ -1,0 +1,9 @@
+﻿Bảo vệ sự riêng tư với Lock Folder XP
+
+Lock Folder XP là một công cụ bảo mật cho phép bạn “khoá” (che giấu) các tập tin, thư mục hoặc ổ đĩa với mật khẩu cá nhân của bạn. Việc “khoá” các thư mục, tập tin hay ổ đĩa cũng bảo vệ bạn một cách hiệu quả trước sự tấn công từ các chương trình nguy hiểm như Virus, sâu máy tính hay các loại trojans. Đây là cách tốt nhất để đảm bảo rằng không có một ai, dù tình cờ hay cố ý, có thể tiếp cận được các thông tin về tài chính, sức khoẻ, thông tin riêng tư hay thông tin mật của bạn. Sau khi thực hiện “khoá”, các tập tin, thư mục hay ổ đĩa của bạn sẽ “tàng hình”, không ai có thể thấy chúng và tác động, xoá hay thay đổi nội dung thông tin. Đặc biệt Lock Folder XP còn hữu ích cho người dùng máy tính xách tay và phải di chuyển thường xuyên: nếu máy tính của bạn bị mất hoặc bị đánh cắp, sẽ không một ai có thể biết được những thông tin tài chính, tín dụng hoặc mã số tài khoản của bạn. 
+Các đặc tính chủ yếu của Lock Folder XP: 
+- Lock Folder XP cho phép “khoá” tập tin, thư mục và các ổ đĩa. - Tạo mật khẩu bảo vệ cho tập tin, thư mục và các ổ đĩa. - Hạn chế truy cập và che giấu dữ liệu đối với người dùng truy cập vào máy của bạn thông qua mạng nội bộ hoặc Internet. - Mức độ bảo mật cao. - Lock Folder XP không thay đổi cấu trúc dữ liệu, không di chuyển dữ liệu được bảo vệ, không thay đổi các tập tin hệ thống của Windows. Bạn không lo về việc mất các tài liệu trong các tập tin. - Hỗ trợ các loại phân vùng FAT, FAT32 và NTFS. 
+Đây là một công cụ cần thiết cho những ai đang tìm kiếm sự bảo mật cho hệ thống của mình một cách đơn giản nhất với độ tin cậy cao. Tính bảo mật và độ tin cậy cao thể hiện ở chỗ Lock Folder XP thậm chí còn tiếp tục bảo vệ hệ thống của bạn trong trường hợp nó bị một ai đó hay một chương trình nguy hiểm nào đó xoá bỏ. 
+Bạn có thể thử “tự bảo vệ” sự riêng tư và các thông tin quan trọng của mình tại đây .
+
+AppLinuz

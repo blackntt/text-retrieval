@@ -1,0 +1,108 @@
+﻿ Điểm_chuẩn NV2 hệ CĐ Trường ĐH Công_nghiệp TP.HCM
+Đây là điểm trúng_tuyển dành cho học_sinh phổ_thông - khu_vực 3 . Giữa các đối_tượng ưu_tiên được giảm 1 điểm và giữa các khu_vực ưu_tiên được giảm 0.5 điểm .
+Điểm này đã có sự thay_đổi nhiều hơn so với số điểm đã công_bố trước_đây ( tất_cả các ngành 12 điểm ) . Ngành cao_điểm nhất_là Kế_toán với 16.5 điểm ; kế_tiếp là các ngành Hóa_dầu 16 điểm ; Công_nghệ thực_phẩm , Quản_trị kinh_doanh cùng 15.5 điểm … Sau đây là danh_sách cụ_thể các ngành :
+STT
+Ngành đào_tạo
+Mã ngành
+Điểm_chuẩn NV2
+1
+Công_nghệ_phần_mềm
+C65
+14.0
+2
+Mạng máy_tính
+C66
+14.0
+3
+Điện_tử công_nghiệp
+C67
+13.5
+4
+Điện_tử viễn_thông
+C68
+15.0
+5
+Điện_tử máy_tính
+C69
+13.5
+6
+Điện công_nghiệp
+C70
+12.5
+7
+Công_nghệ nhiệt lạnh
+C71
+12.0
+8
+Chế_tạo_máy
+C72
+12.0
+9
+Cơ_điện
+C73
+12.0
+10
+Cơ điện_tử
+C74
+12.0
+11
+Cơ_khí sửa_chữa ô_tô
+C75
+13.0
+12
+Hóa vô_cơ
+C76
+12.0
+13
+Hóa hữu_cơ
+C77
+14.5
+14
+Hóa_dầu
+C78
+16.0
+15
+Hóa phân_tích
+C79
+13.0
+16
+Máy và thiết_bị hóa_chất
+C80
+12.0
+17
+Công_nghệ thực_phẩm
+C81
+15.5
+18
+Công_nghệ môi_trường
+C82
+14.5
+19
+Công_nghệ_sinh_học
+C87
+12.0
+20
+Kế_toán
+C83
+16.5
+21
+Quản_trị kinh_doanh
+C84
+15.5
+22
+Kinh_tế thương_mại
+C88
+11.0
+23
+Thiết_kế thời_trang
+C85
+11.0
+24
+Công_nghệ may
+C86
+13.0
+25
+Anh_văn
+C89
+11.0
+QUỐC_DŨNG

@@ -1,0 +1,4 @@
+﻿ BS Pro_Player : Nhỏ mà đa chức_năng
+Giao_diện có_thể thể_hiện 28 ngôn_ngữ , rất tiếc chưa có_tiếng việt . Tích_hợp khả_năng chụp hình ( capture frame ) , khả_năng chỉnh màu ( color controls ) , khả_năng điều_chỉnh âm_thanh theo y muốn ( Equalizer ) , khả_năng xóa mọi dấu_vết sau khi xem phim ( clear history ) , nhiều phím tắt để đóng , mở , dấu ...
+Nói_chung đây là phần_mềm rất cần cho các bạn sưu_tầm phim từ internet mà file có tên đuôi lạ_hoắc , chỉ cần có BS Pro_Player là xem được hết . Phần_mềm rất dễ dùng , tương_thích với mọi Win , tải về bản dùng thử tại đây .
+TRẦN_MẠNH_HÀ

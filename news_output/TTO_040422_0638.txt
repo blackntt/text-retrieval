@@ -1,0 +1,6 @@
+﻿ Cảnh_báo nạn “ phishing ” lừa_đảo
+MessageLabs cho_biết đến nay đã có hàng chục ngân_hàng , tổ_chức tài_chính , mạng giao_dịch trực_tuyến tiếng_tăm trên thế_giới , thậm_chí cả những website chuyên cảnh_báo về nạn lừa_đảo ăn_cắp thông_tin ... trở_thành mục_tiêu giả_mạo của phishing , trong đó có Nationwide , Barclays , Westpac , Halifax , ANZ , Citibank , HSBC ...
+Hiệp_hội Chống phishing ( APWG ) đang cảnh_báo về một chiêu mới là tội_phạm sử_dụng một thanh địa_chỉ trình_duyệt giả để hướng người dùng tới một website được thiết_lập để ăn_cắp mã PIN của thẻ rút_tiền . Lần này là nhằm vào khách_hàng của Citibank .
+Bức thư_điện_tử do những kẻ lừa_đảo gửi tới nạn_nhân viết : “ Email này được gửi đi từ máy_chủ của Citibank để thẩm_định địa_chỉ email của bạn . Bạn phải hoàn_tất thủ_tục này bằng cách nhấp chuột vào đường link phía dưới và nhập số thẻ ATM/Debit của Citibank và số PIN bạn dùng trên máy rút_tiền ” .
+Khi người dùng nhấn vào đường link trong bức email , trang_web do tin_tặc dựng lên sẽ phát_hiện xem họ đang sử_dụng trình_duyệt gì , để rồi gạt bỏ thanh địa_chỉ thật và tạo ra một thanh giả để thế chỗ . Thanh trình_duyệt giả hiển_thị chính_xác địa_chỉ của hãng đang bị mạo_danh , thay_vì địa_chỉ của trang_web lừa_đảo mà người dùng đang truy_cập .
+T . M . ( Theo News , VNUNET )

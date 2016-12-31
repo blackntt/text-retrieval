@@ -1,0 +1,41 @@
+﻿ Danh_sách trúng_tuyển và điểm_chuẩn NV3 ĐH Quốc_tế TP.HCM
+Theo đó , đây là mức điểm đối_với học_sinh phổ_thông - khu_vực 3 . Mỗi đối_tượng ưu_tiên cách nhau 1 điểm , mỗi khu_vực ưu_tiên cách nhau 0.5 điểm .
+Đây là điểm trúng_tuyển với tổng điểm của 3 môn thi ( không có môn điểm 0 ) , kể_cả hệ_số ( nếu có ) , cộng điểm thưởng và điểm ưu_tiên theo khu_vực và đối_tượng .
+Ngành
+Mã ngành
+Điểm
+Nơi cấp
+Công_nghệ_thông_tin
+( khối A )
+150
+22.0
+ĐH Quốc_tế
+160
+18.5
+ĐH Nottingham
+162
+18.0
+ĐH West_England
+Điện_tử - Viễn_thông
+( khối A )
+151
+21.0
+ĐH Quốc_tế
+161
+18.0
+ĐH Nottingham
+163
+18.0
+ĐH West_England
+Quản_trị kinh_doanh
+( khối A , D1 )
+450
+22.0
+ĐH Quốc_tế
+460
+19.5
+ĐH Nottingham
+461
+19.0
+ĐH West_England
+QUỐC_DŨNG

@@ -1,0 +1,10 @@
+﻿ Thêm một lỗi nghiêm_trọng trong Microsoft_Excel
+Chỉ vài ngày_sau khi Microsoft khuyến_cáo về một lỗ_hổng trong bảng tính Excel chưa được vá đang bị tin_tặc khai_thác thì hôm_qua , các công_ty bảo_mật lại phát_hiện thêm một lỗi nữa trong chương_trình bảng tính phổ_biến này .
+“ Khiếm_khuyết này “ tiếp_tay ” cho tin_tặc tấn_công hệ_thống máy_tính khi người dùng mở một đường link URL dài nằm trong chương_trình bảng tính của Microsoft ” , hãng bảo_mật Symantec ( Mỹ ) cảnh_báo với người dùng .
+Lỗi này có_thể khiến chương_trình bảng tính Excel bị đánh sập nếu người dùng mở một file nguy_hiểm , theo cảnh_báo của hãng bảo_mật Symantec . Hãng này cho_biết , khai_thác được lỗ_hổng này , tin_tặc sẽ chiếm được quyền kiểm_soát máy_tính . “ Hacker cũng có_thể tự chạy được một mã tùy_ý … nhưng hiện_tại vẫn chưa_thể khẳng_định được đó là loại mã nào ” , Symantec nói .
+Symantec cảnh_báo lỗ_hổng an_ninh này đã tồn_tại từ lâu vì Excel không kiểm_tra nội_dung nhập vào của người dùng trước khi copy vào làm tràn bộ_nhớ đệm . Excel 2003 , Excel XP và một_số phiên_bản khác bị tác_động do lỗi này .
+Công_ty bảo_mật Secunia ( Đan_Mạch ) đánh_giá lỗ_hổng thứ 2 trong Excel có mức_độ “ cực_kỳ nghiêm_trọng ” . Mặc_dù vậy , Secunia cho_biết họ chưa ghi_nhận được một cuộc tấn_công nào khai_thác lỗi này .
+“ Theo điều_tra của chúng_tôi , tin_tặc có_thể lợi_dụng lỗi này khi người dùng click vào một đường siêu_liên_kết trong các văn_bản Office ” , đại_diện của Microsoft cho_biết . Ông này cũng nói , hãng phần_mềm chưa phát_hiện ra đợt khai_thác nào từ lỗi này .
+Để lợi_dụng một trong hai lỗi của chương_trình bảng tính , tin_tặc sẽ phải tạo ra một file Excel độc và host file đó lên một website để phát_tán qua e - mail , hoặc chúng gửi cho một nạn_nhân mục_tiêu .
+Cả hai lỗi đều xuất_hiện sau khi Microsoft phát_hành bản nâng_cấp an_ninh tháng 6 vài ngày . Microsoft khuyên người dùng cần thận khi mở các file Excel và hãy chặn những file đáng ngờ trong e - mail đính kèm hoặc có_thể thay_đổi cấu_hình PC để không_thể mở bảng tính trong chương_trình e - mail Outlook hoặc trên nền web .
+N . H_Theo CNet

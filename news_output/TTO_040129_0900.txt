@@ -1,0 +1,6 @@
+﻿ Thị_trường máy_chủ phát_đạt trong năm 2003
+Riêng quý IV vừa_qua , sản_phẩm máy_chủ bán ra trên toàn thế_giới tăng 25% , đạt 1,59 triệu chiếc so với con_số 1,28 triệu của cùng kỳ năm trước . Hãng HP vẫn duy_trì vị_trí dẫn_đầu với 462.000 máy , Dell đứng thứ_hai với 319.000 chiếc , theo sau là IBM 274.000 chiếc và Sun_Microsystems 84.000 chiếc . Bốn công_ty này chiếm khoảng 71% thị_phần máy_chủ toàn_cầu .
+Hầu_hết những loại máy bán_chạy là hàng bình_dân . Trong số 1,59 triệu máy_chủ được bán ra có 1,45 triệu ( 91% ) chạy chip 32-bit của Intel hoặc AMD .
+Ngược_lại với lĩnh_vực máy_chủ , mặc_dù vào mùa mua_sắm số_lượng máy_tính cầm tay bán ra tăng 3,2% nhưng cả năm lại giảm 18% , chỉ đạt khoảng 2 triệu chiếc . Hầu_hết những sản_phẩm bán được là thiết_bị thông_minh .
+Hãng_Palm One hiện vẫn đứng đầu thị_trường với 38% thị_phần trong năm 2003 . HP giành vị_trí thứ_hai với 22% , theo sau là Sony với 14% , Dell 5,9% thị_phần .
+T . M ( Theo ITnews )

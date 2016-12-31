@@ -1,0 +1,5 @@
+﻿ Thử_nghiệm dịch_vụ truy_nhập Internet trên máy_bay
+( NLĐO ) - Bộ Bưu chính viễn_thông ( BCVT ) vừa đồng_ý cho hãng Connexion by Boeing được phép cung_cấp thử_nghiệm dịch_vụ truy_nhập Internet trên máy_bay .
+Các hãng hàng_không gồm Asiana_Airlines , China_Airlines , Lufthansa_German_Airlines , Singapore_Airlines_Limited , Etihad_Airway và Korean_Air là các hãng đã uỷ_quyền cho Connexion by Boeing nộp đơn cho Bộ BCVT được phép sử_dụng hệ_thống Connexion by Boeing để thử_nghiệm cung_cấp dịch_vụ truy_nhập Internet trên máy_bay khi bay qua lãnh_thổ VN từ 30-5-2006 đến 30-5-2007 .
+Các hệ_thống của Connexion by Boeing được phép sử_dụng dải tần_số 914.00 – 14.25 ) GHz đối_với chiều lên và dải tần_số ( 12.20 – 12.24 ) GHz đối_với chiều xuống và phải đảm_bảo việc sử_dụng này không gây can nhiễu đến các hệ_thống thông_tin khác . Hệ_thống của Connexion by Boeing phải có thống số kỹ_thuật tuân_thủ theo các quy_định kỹ_thuật của VN và các tiêu_chuẩn bảo_vệ theo khuyến_nghị của ITU . Connexion by Boeing có trách_nhiệm báo_cáo thử_nghiệm cung_cấp dịch_vụ Internet trên máy_bay theo yêu_cầu của Bộ BCVT .
+T.Dũng

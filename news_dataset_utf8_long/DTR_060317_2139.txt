@@ -1,0 +1,17 @@
+﻿Câu hỏi của SV hâm nóng cuộc thi
+
+Hơn 2.000 sinh viên đại diện cho 15 trường đại học, học viện đào tạo về kỹ thuật tại Hà Nội đã tới giao lưu, tìm hiểu về cuộc thi Nhân tài Đất Việt 2006. Hội trường 10/10, ĐHQG Hà Nội không còn một chỗ trống.
+
+ Buổi giao lưu đầu tiên của cuộc thi NTĐV 2006 đã diễn ra tối 17/3/2006. 
+Khai mạc chương trình, ông Phạm Huy Hoàn - Trưởng ban tổ chức nhấn mạnh hai điểm khác biệt của cuộc thi: Sản phẩm không chỉ dừng lại ở ý tưởng hoặc phần mềm mà phải là những sản phẩm hoàn thiện được mở rộng sang các lĩnh vực phần cứng, phần mềm, giải pháp mạng và tích hợp công nghệ; Lứa tuổi được mở rộng, không hạn chế tuổi tác. 
+Năm nay, sản phẩm được chia thành hai dạng và sẽ có 2 giải Nhất . Đây là điều nhiều bạn sinh viên quan tâm nhất. Có ý kiến hỏi thẳng BTC: “Năm ngoái một giải nhất đã khó tìm, vậy năm nay với 2 giải nhất, BTC có gặp khó khăn?” 
+Ông Nguyễn Long - Chủ tịch hội Tin học Việt Nam cho rằng: BTC và BGK sẽ công tâm tìm ra những người thực sự là nhân tài. Thí sinh cần bộc lộ hết năng lực của chính mình. Ông Long nhấn mạnh, phải trung thực khi dự thi để tránh những vướng mắc đáng tiếc. 
+Một vấn đề khác cũng làm nhiều thí sinh quan tâm, đó là không biết xếp sản phẩm của mình vào loại gì. Một sinh viên ĐH Công nghệ đặt câu hỏi: “Tôi đã có 1 sản phẩm phần mềm chơi cờ tướng trên máy tính. Phần mềm này đã được nhiều người chơi. Như thế, sản phẩm nếu tham gia dự thi sẽ được xếp vào nhóm sản phẩm nào? Đã ứng dụng rộng rãi hay mới chỉ là sản phẩm có tiềm năng?” 
+Thay vì trả lời, ông Nguyễn Long hỏi lại: “Em đã quảng bá sản phẩm của mình bằng những cách nào?”. Trên thực tế, sản phẩm đã ứng dụng rộng rãi, được thể hiện bằng các hợp đồng kinh tế với khách hàng sử dụng sản phẩm. Sản phẩm có tiềm năng ứng dụng là những sản phẩm mới thử nghiệm trên quy mô hẹp. Ông Long khuyên các sinh viên, ngoài việc phát triển sản phẩm thì khâu quảng bá sản phẩm qua nhiều kênh (đặc biệt là Internet) cũng rất quan trọng. 
+Giữa chương trình, cuộc giao lưu thực sự trở nên “có lửa” và gần gũi hơn. Một sinh viên đã lên sân khấu song ca cùng ca sỹ Tùng Dương ca khúc “Quê nhà”, trong tiếng vỗ tay dậy trời của những người có mặt. 
+Năm 2005 cuộc thi đã ra mắt công chúng rất thành công thể hiện ở sự hưởng ứng dự thi của đông đảo thí sinh trong và ngoài nước. 2 nhóm thí sinh đoạt giải 3 trong năm 2005 với sản phẩm: “Hệ thống tổng đài IP ứng dụng cho mạng Doanh nghiệp và điểm bưu điện văn hoá xã” và sản phẩm “Giải pháp thiết bị hiển thị và kiểm soát vận tốc đoàn tàu” cũng đã được BTC mời đến giao lưu cùng sinh viên. 
+Cuối chương trình, Ban tổ chức trao tặng 15 suất học bổng (mỗi suất trị giá 1.000.000 đồng) cho 15 sinh viên đại diện cho 15 trường đại học tại Hà Nội có thành tích xuất sắc trong học tập và đặc biệt đều có điểm chung là yêu thích CNTT. 
+Trong vòng 2 tiếng, cuộc giao lưu đã giúp cho sinh viên Hà Nội hiểu rõ hơn rất nhiều về cuộc thi lớn nhất trong lĩnh vực CNTT-TT này. Sau cuộc giao lưu, BTC sẽ tiếp tục thực hiện các cuộc giao lưu ở những vùng miền khác, để NTĐV thực sự trở thành một sự kiện lớn thường niên trong lĩnh vực CNTT-TT. 
+Bảo Trung 
+Sản phẩm dự thi đầu tiên 
+Ngay trước cuộc giao lưu ở HN, BTC đã nhận được sản phẩm dự thi đầu tiên mang tên “ Giải pháp giám sát và điều khiển hệ thống điện, thiết bị công nghiệp từ xa SCADA ” của một thí sinh gửi ra từ TPHCM.

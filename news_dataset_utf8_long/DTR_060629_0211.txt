@@ -1,0 +1,15 @@
+﻿Bảo mật thông tin với Easy Hide Folders 1.0
+
+Đây là một chương trình bảo vệ file và folder rất nhỏ gọn nhưng cũng rất hiệu quả, với giao diện được thiết kế đơn giản, dễ sử dụng và quản lý ngay cả đối với những người mới làm quen với tin học. 
+ 
+Chương trình hỗ trợ ẩn tất cả các dạng file và folder trong máy tính dù chạy chế độ safe mod hay trên cả hệ thống mạng cũng không hề hiển thị được các file hay folder mà chương trình đã ẩn. Giúp bạn giữ các tài liệu quan trọng một cách dễ dàng và nhanh chóng. Ngoài ra chương trình còn đặc biệt hỗ trợ các file trên định dạng hệ thống NTFS, FAT32, FAT. 
+- Để thêm một thư mục vào danh sách quản lý bạn click Add Drectory , lúc này chương trình hiện ra một cửa sổ mới (hình 1). Bạn click vào Browse và chọn thư mục cần ẩn. 
+Hình 1 
+- Để thêm một file vào danh sách quản lý bạn click Add File và thao tác tương tự như Add Drectory . 
+Trong mục quản lý File và Folder chương trình đưa ra các chức năng: Add Drectory, Add File, Enable Hiding (ẩn file hoặc folder đã chọn), Disable Hiding (bỏ ẩn file hoặc folder đã chọn), Edit (chỉnh sửa đường dẫn file hoặc Folder trong bảng quản lý), Remove (Loại bỏ file hoặc folder ra khỏi danh sách quản lý), Clear List (xóa toàn bộ danh sách các file và folder). 
+Để bảo đảm tính bảo mật cho các tài liệu của bạn, bạn nên click vào File à Define Fassword (hình 2). Bạn gõ password cần tạo rồi ấn Valid để xác nhận. 
+Các bạn chú ý : chương trình này được viết chính bằng ngôn ngữ Pháp, mặc dù chương trình có hỗ trợ tiếng Anh nhưng có một số mục vẫn giữ nguyên gốc tiếng Pháp. 
+Hình 2 
+Chương trình có dung lượng khoảng 2.7 Mb tương thích với hệ điều hành Windows 2000/XP và 2003. 
+Các bạn có thể tải bản dùng thử chương trình tại địa chỉ : 
+http://www.consulog.com/Setup_EasyHideFolders.exe Quốc Trung

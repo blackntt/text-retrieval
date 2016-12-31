@@ -1,0 +1,9 @@
+﻿Robot bảo vệ tuần tra các văn phòng, cửa hàng
+
+Được trang bị các camera và các cảm biến, “robot bảo vệ D1”, được phát triển bởi công ty an ninh Sohgo Security Services của Nhật, được thiết kế để tuần tra theo lộ trình đã được lập trình sẵn và có nhiệm vụ để mắt tới các dấu hiệu bất thường. 
+Robot cao 109cm này sẽ báo động nhanh cho các nhân viên bảo vệ thông qua radio và bằng cách gửi các cảnh quay khi nó phát hiện kẻ xâm nhập, hỏa hoạn, thậm chí là rò rỉ nước. 
+"Những robot như vậy rất cần thiết khi dân số Nhật đang ngày càng già đi. Trong tương lai gần, chắc chắn rằng việc tìm được các nhân viên bảo vệ trẻ và khỏe mạnh sẽ trở nên khó hơn nhiều, và ngành công nghiệp an ninh sẽ cảm thấy chịu gánh nặng”, Sohgo Security nói. 
+Hiện có gần một trong năm người dân Nhật 65 tuổi trở lên và tỷ lệ này được cho là sẽ tăng từ một đến ba vào năm 2040, theo các số liệu của chính phủ. 
+Sohgo Security hiện đang thương lượng với các khách hàng, và sau khi các thử nghiệm ban đầu được hoàn tất, họ hy vọng sẽ bắt đầu đưa hệ thống an ninh với sự hỗ trợ của robot vào hoạt động trong một năm nữa. Giá cả của các robot này hiện chưa được quyết định.
+
+KIM NHUNG (Theo Reuters)

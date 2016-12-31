@@ -1,0 +1,10 @@
+﻿Tối ưu hóa RAM để tăng tốc hệ thống
+
+Sau khi quá trình cài đặt hoàn tất, RAM Idle Pro sẽ tự khởi động. Ngay tại giao diện chính của chương trình, bạn sẽ thấy được biểu đồ dung lượng RAM được sử dụng ở thời điểm hiện tại. 
+Nhấn vào mục Ram Optimizer ở bên trái và di chuyển chuột ở hai mục Target free RAM và Minimum free RAM tương ứng với số lượng RAM cần thiết. Theo mặc định thì RAM Idle Pro sẽ tự động chọn sẵn dung lượng phù hợp với dung lượng bộ nhớ RAM mà bạn đang sở hữu. 
+Sau đó nhấn nút Enable để hiệu lực những thay đổi. Ngay lập tức ở bên dưới vùng Taskbar, icon của chương trình sẽ chuyển sang số lượng RAM mà chương trình giải phóng được. 
+Ngoài ra chương trình còn cung cấp một số tính năng phụ rất đáng chú ý như Windows Tweak. Bạn nên chú ý đến dòng Cache. Theo những gì chương trình hướng dẫn thì tính năng Executive files này cho phép tận dùng những phần thừa của bộ nhớ RAM làm nhiệm vụ bộ nhớ ảo (Virtual memory) trong hệ thống. Vì RAM có tốc độ xỷ lý cực nhanh nên thực hiện tác vụ sẽ nhanh hơn rất nhiều. Tuy nhiên tính năng này chỉ có hiệu lực khi dung lượng bộ nhớ trong máy tính của bạn có từ 256 MB trở lên. 
+RAM Idle Pro còn bổ sung cho bạn tính năng quản lý các chương trình tự khởi động trong hệ điều hành Windows là Startup Manager. Các thao tác không khác gì tính năng System Configuration Utility có sẵn trong Windows nhưng Startup Manager thể hiện các mục kèm theo icon của chương trình giúp bạn biết chính xác hơn về các thành phần đang chạy. 
+Chương trình được cung cấp tại website: http://www.tweaknow.com với dung lượng khoảng 1 MB, tương thích tốt với hệ điều hành Windows. Bản thương mại giá 13.95 USD.
+
+GIANG VŨ VĂN

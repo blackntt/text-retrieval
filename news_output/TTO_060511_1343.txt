@@ -1,0 +1,8 @@
+﻿ Thiết_bị mới kết_hợp chuột và bàn_phím
+Combimouse bao_gồm 2 phần riêng_biệt : một cố_định và một thì có_thể di_chuyển . Phần bên trái ( bộ_phận cố_định ) có cùng chức_năng từ mặt bên trái của hầu_hết các bàn_phím QWERTY thông_thường và kèm theo một con_lăn nhỏ ngay ở dưới . Phần bên phải là phần di_động và hoạt_động với chức_năng giống như chuột máy_tính nhiều hơn , chỉ khác với chuột máy_tính thông_thường là nó có kèm theo những phím bấm mà người dùng thường sử_dụng trên bề_mặt phải của bàn_phím .
+Theo mặc_định Combimouse hoạt_động theo chế_độ bàn_phím . Nhưng khi người dùng chạm lên phần bên phải , trong vùng đựơc gọi_là “ chuyển_đổi liên_hệ ” , nó sẽ tự_động chuyển sang chế_độ chuột máy_tính , cho_phép con_trỏ di_chuyển trên màn_hình , khi đó nút I , O , J , K , L và & lt ; trở thanh nút nhấn của chuột .
+Thông_số kỹ_thuật của Combimouse :
+Kích_thước , Trọng_lượng :
+Phần bên trái : 190x190x25 ( mm ) , 380 gr Phần bên phải : 145x180x25 ( mm ) , 170 gr Độ_phân_giải của chuột : 400 hay 800 cpi Liên_lạc giữa 2 bộ_phận : sóng_vô_tuyến Phần thu sóng_vô_tuyến kết_nối qua USB đến máy_tính Phạm_vi : 10m Năng_lượng : sử_dụng 2 pin AA
+Người dùng có_thể tham_khảo tại đây để biết thêm chi_tiết và xem đoạn quảng_cáo video của Combimouse . Tại_Việt_Nam , người dùng có_thể tham_khảo tại GoGo .
+TUYẾT_PHẤN

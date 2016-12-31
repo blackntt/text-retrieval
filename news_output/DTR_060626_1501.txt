@@ -1,0 +1,7 @@
+﻿ Samsung sẽ trình_làng điện_thoại WiMax đầu_tiên
+Tại_Triển lãm CommunicAsia vừa diễn ra ở Singapore , hãng điện_tử Hàn_Quốc tuyên_bố đầu năm tới sẽ tung ra thị_trường mẫu điện_thoại_di_động hoạt_động trên hai băng tần , kết_hợp mạng di_động WiMax và GSM .
+“ Đây sẽ là model điện_thoại sử_dụng mạng băng_thông di_động trên diện rộng đầu_tiên ” , Hwan_Woo_Chung , Phó_giám_đốc bộ_phận Mobile_Wi Max của Samsung , cho_biết .
+WiMax là công_nghệ không dây cho_phép truyền dữ_liệu tốc_độ cao trong phạm_vi rộng hơn so với mạng Wi-Fi . Phiên_bản WiMax cố_định và di_động đều đang được phát_triển , trong đó , mạng không dây cố_định được xem như_là sự thay_thế cho các kết_nối băng_thông_rộng có dây , như cáp và DSL .
+Công_nghệ WiMax di_động của Samsung có tốc_độ tải lên tới 10,2 Mb/giây trong điều_kiện di_chuyển với vận_tốc 120 km/giờ . Hãng này còn tuyên_bố , đến quý III/2007 , tốc_độ download sẽ được nâng lên nữa , tối_đa gần 40 Mb/giây .
+Tại_Triển lãm CommunicAsia , Samsung đã trình_diễn mạng một máy_tính_xách_tay được trang_bị card PCMCIA WiMax cùng một_số thiết_bị hỗ_trợ cá_nhân PDA được tích_hợp WiMax có_thể lướt web , tải video và chia_sẻ file với người khác . Hiện_tại , Samsung đang phối_hợp với một_số hãng điều_hành dịch_vụ ở một_số nước để thử_nghiệm mạng WiMax di_động . Trong khi đó , ở Hàn_Quốc , một hãng viễn_thông sẽ thương_mại_hóa các dịch_vụ sử_dụng công_nghệ này vào cuối tháng 6 này .
+N . H_Theo_Mac World

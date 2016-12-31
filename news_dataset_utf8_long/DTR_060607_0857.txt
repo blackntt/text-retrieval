@@ -1,0 +1,8 @@
+﻿Sắp có chip tiêu tốn chưa đến 1 watt điện năng
+
+Tập đoàn sản xuất chip số một thế giới vừa tuyên bố trong quý II năm nay sẽ tung ra thị trường một loại chip lõi kép dành cho máy tính xách tay chỉ tiêu thụ 0,75 watt điện. 
+ Phát biểu tại Triển lãm Computex tổ chức hôm qua (6/6) tại Đài Loan, Phó giám đốc Intel Anand Chandrasekher cho biết, HP, Dell và một số công ty bán lẻ khác đang phát triển các dòng máy tính xách tay sử dụng con chip này. 
+Laptop vẫn là thị trường rất quan trọng đối với chip của Intel, theo ông Chandrasekher, ngược lại với suy đoán của nhiều người, doanh số của máy tính xách tay sẽ tăng nhanh hơn các thiết bị cầm tay khác, như điện thoại di động, máy nghe nhạc iPod của Apple. 
+Ông này cũng nhấn mạnh, các loại chip tiêu hao ít điện năng sẽ là một sự lựa chọn hoàn hảo cho các máy tính cầm tay chạy trên nền máy tính siêu di động (UMPC) của Microsoft. 
+Tuyên bố này của Intel làm đối thủ sản xuất chip Đài Loan VIA Technologies bất ngờ. Chip C7-M giá rẻ, sử dụng ít điện năng của VIA cũng đã tiếp cận đến các thiết bị cầm tay, như PaceBlade Easy Book E7. 
+N.H Theo VNuNet

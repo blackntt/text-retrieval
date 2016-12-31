@@ -1,0 +1,9 @@
+﻿ Thủ_phạm bẻ_khóa DVD của Hollywood đòi bồi_thường
+Jon_Lech_Johansen ( trái ) là ác_mộng của các hãng phim Mỹ nhưng là anh_hùng của giới hacker
+TTO - Tay hacker người Na_Uy_Jon_Lech_Johansen , kẻ đã phá mã khóa an_ninh các đĩa phim DVD của Hollywood , yêu_cầu cảnh_sát phải bồi_thường vì anh_ta không phạm_tội danh xâm_phạm tác_quyền mà họ đã cáo_buộc . Luật_sư của Johansen cho rằng đây là điều hợp_lý vì tòa_án đã hai lần xử trắng_án cho anh_ta .
+Johansen , 20 tuổi , được biết đến với tên gọi DVD Jon , cách đây 5 năm đã phát_triển một chương_trình cho_phép xem phim trên máy_tính cài hệ_điều_hành Linux mà không cần phần_mềm xem đĩa DVD . Anh_ta đã đưa mã nguồn này trên Internet năm 1999 và được giới hacker coi như một người_hùng .
+Johansen gặp rắc_rối sau khi cảnh_sát Na_Uy nhận được cáo_giác từ Hiệp_hội Phim_ảnh Mỹ và Hiệp_hội Kiểm_soát sao_chép đĩa DVD , nơi đặt ra mã CSS cho kỹ_nghệ phim_ảnh . Chương_trình của Johansen , với tên gọi DeCSS , là một trong nhiều phần_mềm phá được mã CSS .
+Cảnh_sát kinh_tế Na_Uy đã buộc_tội Johansen theo luật chống xâm_nhập dữ_liệu và đề_nghị kết_án treo , tịch_thu các thiết_bị và phạt tiền hacker này . Tuy_nhiên , tòa_án Na_Uy đã hai lần ra phán_quyết , tuyên_bố không_thể buộc Johansen tội xâm_nhập nội_dung những đĩa DVD mà anh_ta đã mua một_cách hợp_pháp , cũng không_thể trừng_phạt anh_ta vì đã cung_cấp công_cụ để những người khác sử_dụng vào những hành_động phi_pháp .
+Tòa_án quận Oslo xử trắng_án cho Johansen cách đây hơn 1 năm . Cảnh_sát kháng_cáo lên tòa phúc_thẩm Oslo và lại thua kiện trong phiên xử tháng 12/2003 .
+Halvor_Manshaus , luật_sư của Johansen cho_biết , thân_chủ của ông sẽ đòi cảnh_sát kinh_tế Na_Uy bồi_thường 21.800 USD vì vụ_kiện đã trở_thành một gánh nặng cho anh_ta trong_suốt 4 năm qua . Ông nhấn_mạnh : " Những gì chúng_tôi đòi_hỏi được chi_trả là những thiệt_hại về kinh_tế của Johansen , tiền án_phí và một khoản bồi_thường " .
+T . M ( Theo TGM )

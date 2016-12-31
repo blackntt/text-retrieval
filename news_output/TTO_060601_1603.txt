@@ -1,0 +1,6 @@
+﻿ Game online : mỗi ngày chơi không quá 5 tiếng
+Theo thông_tư này , doanh_nghiệp cung_cấp trò_chơi sẽ phải có biện_pháp kỹ_thuật khống_chế mỗi tài_khoản chỉ được chơi không quá 5 tiếng/ngày .
+Cụ_thể , trong 180 phút đầu_tiên , người chơi được tính 100% điểm thưởng , từ phút thứ 181 đến phút thứ 300 được tính 50% điểm thưởng . Từ phút thứ 300 trở đi sẽ không được tính điểm thưởng .
+Thông_tư cũng quy_định doanh_nghiệp cung_cấp trò_chơi không được khởi tạo các tài_sản có giá_trị trong trò_chơi với mục_đích đầu_cơ , mua_bán thu lợi và không được sửa_đổi thông_tin về tài_sản , giá_trị của người chơi , đồng_thời phải áp_dụng các giải_pháp bảo_đảm quyền_lợi của người chơi và giải_quyết tranh_chấp giữa những người chơi .
+Ngoài_ra , người chơi sẽ phải cung_cấp cho doanh_nghiệp các thông_tin cá_nhân như tên , địa_chỉ , số chứng_minh_thư để doanh_nghiệp cung_cấp cho các cơ_quan quản_lý khi được yêu_cầu .
+K . HƯNG

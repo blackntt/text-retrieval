@@ -1,0 +1,5 @@
+﻿ Xe_hơi robot tự_động chạy được 322km trong 7 giờ
+Xe_hơi có tên Sandstorm ( ảnh ) do Đại_học Carnegie_Mellon chế_tạo nhằm chuẩn_bị cho cuộc đua xe robot băng qua sa_mạc Mojave do Cơ_quan các dự_án nghiên_cứu tiên_tiến của Bộ Quốc phòng Mỹ tổ_chức .
+Cuộc đua này được gọi_là Grand_Challenge ( Thách_đố lớn ) dự_kiến diễn ra ngày 8-10 tới . Mục_tiêu của cuộc_thi này là nhằm khuyến_khích việc nghiên_cứu các lọai xe robot . Để đọat giải 2 triệu USD tiền_mặt , các xe_hơi robot tự_động phải băng qua sa_mạc trong một thời_gian hạn_định . Trong cuộc đua Grand_Challenge đầu_tiên hồi năm_ngoái , không có robot nào tham_gia cuộc_thi đến được đích cuối_cùng .
+Trong cuộc thử_nghiệm , xe_hơi robot Sandstorm chạy trung_bình với tốc_độ 45km / g và đạt tốc_độ tối_đa 57km / g . Giáo_sư William_Whittaker , trưởng nhóm nghiên_cứu , nói : ” Đó không là gì cả so với xe_hơi do người lái , nhưng là một thách_đố lớn đối_với xe_cộ do vi_tính điều_khiển ” .
+Q . HƯƠNG - BBC

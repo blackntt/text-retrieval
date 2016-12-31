@@ -1,0 +1,13 @@
+﻿Hé lộ bí mật của siêu Trojan tống tiến
+
+Hãng bảo mật Kaspersky Lab vừa công bố những chi tiết quan trọng liên quan tới loại Trojan tống tiền cực kỳ tinh vi – “Gpcode.ag” mới xuất hiện hồi đầu tháng 6 vừa qua. 
+ Gpcode.ag cũng là một trong số những mô hình Trojan tống tiền điển hình, mã hoá dữ liệu trên PC rồi buộc người dùng phải trả tiền chuộc để đổi lấy khoá giải mã dữ liệu. Tuy nhiên, các chuyên gia của Kaspersky Lab còn phát hiện ra rằng Gpcode.ag sử dụng công nghệ mã hoá RSA 660-bit cực kỳ phức tạp, và đây thực sự là một hồi chuông cảnh báo đối với các hãng bảo mật. 
+Trên thực tế, chỉ mới vài ngày đầu, Gpcode.ae và phiên bản Gpcode.af của nó mới sử dụng mã hoá 260-bit và 330-bit, tuy nhiên càng về sau thì mức độ phức tạp của mã hoá càng tăng lên. 
+Gpcode.ae được phát hiện lần đầu tiên tại Nga hồi đầu tháng 6. Hiện qua theo dõi của Kaspersky, Gpcode.ae đã phát tán qua spam (kèm file đính kèm). Nếu nhấn vào các e-mail nguy hiểm này, một trình cài đặt của Trojan-Downloader.Win32.Small.crb sẽ chạy trên hệ thống và điều khiển máy tính download một bản Gpcode từ website ấn định trước. 
+Khi đã hoạt động trên hệ thống, Gpcode sẽ mã hoá bất cứ dữ liệu nào, hoặc kết hợp 80 loại file khác nhau. Sau đó, Gpcode sẽ tự động xoá chính bản thân chúng để tránh bị phát hiện. 
+Khi mở các tệp tin bị Gpcode mã hoá, máy tính sẽ xuất hiện yêu cầu đòi tiền chuộc: "Some files are coded by RSA method. To buy decoder mail: k47674@mail.ru with subject: REPLY". (Một số file đã bị hoá hoá theo phương pháp RSA. Để mua khoá giải mã, xin liên hệ theo địa chỉ mail: k47674@mail.ru với tiêu đề: REPLY". Tiền chuộc sẽ được gửi tới một tài khoản thuộc cổng web Yandex, một trong những cổng thanh toán trực tuyến của Nga, cũng tương tự như PayPal. 
+Một trong những "cải tiến" quan trọng của phiên bản Gpcode.ag là việc sử dụng khoá mã hoá công cộng (public key). Theo giải thích của Kaspersky trên website của hãng thì mỗi lần độ dài của khoá mã hoá riêng (private key) tăng lên (khi mã hoá dữ liệu) thì sức mạnh xử lý của máy tính càng phải tăng lên gấp bội để giải mã bằng phương pháp "brute force". 
+Về điểm này, phương pháp "brute force" tỏ ra vô dụng vì cần quá nhiều tài nguyên máy tính hoặc thời gian - có thể mất hàng chục năm hoặc hơn - để có thể thành công. 
+Vấn đề chính ở đây là làm thế nào Kaspersky đã phá được vỏ bọc mã hoá của Gpcode, điều mà hãng bảo mật này đã từ chối công bố. 
+Theo tiết lộ của Kaspersky, để phá được vỏ bọc mã hoá 330-bit của Gpcode sẽ cần tới 10 tiếng đồng hồ. Tuy nhiên, hãng này từ chối công bố thời gian phá khoá mã hoá 660-bit và cho rằng đó là bí mật thương mại cần giữ kín. 
+VH Theo IDG News

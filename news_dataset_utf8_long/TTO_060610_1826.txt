@@ -1,0 +1,7 @@
+﻿Cảnh báo lần cuối cho người dùng Windows 98, ME
+
+Microsoft đã từng công bố từ lâu rằng sẽ hoàn toàn “đoạn tuyệt” với Windows 98, Windows 98 Second Edition và Windows Millennium Edition kể từ ngày 11-7-2006 để mọi người dùng và các công ty có thời gian chuyển đổi sang các hệ Windows đời mới hơn. Sau ngày 11-7 tới đây, Microsoft sẽ không hỗ trợ hoặc chịu bất kỳ trách nhiệm gì với giới người dùng còn luyết tiếc các hệ điều hành Windows đã từng vang bóng một thời này. 
+Christopher Budd, một chuyên gia quản lý tại Trung tâm bảo mật của Microsoft nhận định rằng giới người dùng Windows 98, Me và thậm chí là Windows 2000 hiện nay luôn phải đối mặt với rất nhiều hiểm họa bảo mật do các hệ điều hành này gây ra vì từ lâu Microsoft đã không có thời gian để quan tâm đến các hệ điều hành này. Ngoài ra, số người dùng các Windows “cổ lỗ sĩ” này trên thế giới cũng không còn bao nhiêu nên việc Microsoft khai tử hoàn toàn các Windows cũng là điều thỏa đáng và hợp quy luật. 
+Hiện nay giới người dùng Windows 98, Me vẫn còn sử dụng được chức năng “Update” từ mạng của Microsoft, nhưng đến khi chức năng này đã không còn sử dụng được nữa thì xem như 2 hệ điều hành này đã “tắt thở” hoàn toàn. Ngay cả bản Service Pack 1 của Windows XP cũng sẽ bị Microsoft từ bỏ kể từ ngày 10-10 năm nay.
+
+HOÀNG KIM ANH (IDG News)

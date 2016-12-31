@@ -1,0 +1,24 @@
+﻿ Spam , vẫn là vấn_đề " nhức đầu " trong năm 2006
+Dự_đoán một_số xu_thế mới của spam trong năm 2006 hy_vọng sẽ giúp bạn_đọc giảm bớt phần_nào những thiệt_hại không đáng có .
+Spam , cuộc_chiến trường_kỳ
+Các spammer ( những người phát_tán thư rác ) thích_nghi rất nhanh với các biện_pháp phòng_chống . Các quảng_cáo có_thể xuất_phát từ một server ở Thượng_Hải , ở một chiếc máy_tính bình_thường ở Detroit . Tất_cả những biện_pháp của spammer nhằm đánh_lừa và vượt qua sự kiểm_soát của ISP .
+Tuy_nhiên , năm 2005 lại là một năm được đánh_giá là thành_công của công_tác phòng_chống spam . Số_lượng thư ngăn được là khá lớn , khoảng vài chục % , có nơi một_vài ISP thông_báo ngăn được hơn 90% thư rác đến hộp_thư của người dùng .
+Không có cái gì là bất_biến , thế_giới phòng_chống thư rác dự_đoán là sẽ khốc_liệt và đầy cam_go trong năm mới . Những dự_đoán sau nói lên phần_nào xu_thế phát_triển của Spam .
+Phát_triển về số_lượng
+Giới chuyên_môn gọi những máy_tính bị kiểm_soát từ xa và phát_tán thư rác là các máy_tính Zombie ( sống_dở_chết_dở ) . Hiện_nay , chỉ mới xuất_hiện tình_trạng các máy_tính Zombie đơn_lẻ , nhưng năm 2006 hứa_hẹn sẽ có một mạng các máy_tính Zombie . Bằng cách này , các spammer sẽ tiết_kiệm được nhiều chi_phí và ẩn_danh tốt hơn .
+Năm 2004 , có 35% thư rác có nguồn_gốc từ các các Zombie , năm 2005 , con_số này là 60% và dự_đoán năm 2006 chỉ có_thể hơn chứ không_thể kém .
+Giả_mạo Paypal_Những trò lừa_gạt mới
+Phishing là tên dành đặt cho những trò lừa_gạt nhắm vào mục_tiêu là tìm_hiểu các thông_tin cá_nhân phục_vụ cho các mục_đích về tài_chính . Hình_thức thì rất đa_dạng , từ việc giả_danh các website nổi_tiếng như Paypal , E-Bay … đến những kỹ_thuật cao_cấp hơn như spear phishing , là một kỹ_thuật giả_danh những người thân_cận với bạn như những người trong cùng cơ_quan , gia_đình bè_bạn .
+Một_cách khác là gởi những lời yêu_cầu “ đặc_biệt ” , ví_dụ thông_báo cho bạn rằng bạn đã bị lộ thông_tin về tài_khoản , cho bạn liên_kết đến website chứa thông_tin về bạn , bạn lo_lắng và click vào link , thế_là bạn đã bị mắc_lừa . Rất nhiều cách , chủ_yếu đánh vào lòng tham_lam , lòng đam_mê của phần_đông số người sử_dụng Internet .
+Cốt_yếu của các phương_pháp vẫn là lừa bạn click vào một link nào_đó . Nếu_như bạn mắc phải , máy bạn sẽ tự_động tải về những đoan mã , những chương_trình độc_hại , có_thể máy bạn đã gia_nhập vào hàng_ngũ các Zombie .
+Những con đường mới
+Vào đầu tháng_giêng , đã co những virus phát_tán thông_qua những tin nhắn của AIM ( chương_trình tin nhắn trực_tuyến của American_Online ) . Tin nhắn này có nguồn_gốc từ những người mà bạn quen_biết ( nằm trong danh_sách contact ) , với một lời mời bạn xem một hình_ảnh tại website Myspace.com . Chỉ cần click vào link trên , máy sẽ tự_động tải về các chương_trình gián_điệp ( spyware ) , adware ( chương_trình phát_tán quảng_cáo ) ... và spam .
+Lây_lan qua các lỗi bảo_mật của chương_trình nhất_là các chương_trình chạy trên Windows của Microsoft vẫn sẽ tiếp_tục phát_triển , bởi lẽ không có một chương_trình nào_là hoàn_chỉnh thật_sự .
+"
+SplogSpot Bộ_cánh " mới của các Spam
+Thay_đổi còn nhanh hơn tốc_độ của thời_trang . Năm 2005 chứng_kiến nhiều spam lừa_gạt bằng hình_thức như đưa cho bạn thông_tin để có một chiếc i Pod miễn_phí hay đại_loại như_vậy .
+Tuy_nhiên trong năm 2006 , sẽ nhắm vào chủ_yếu là các lời mời đầu_tư về tài_chính và chứng khoáng vì … khó bị phát_hiện giả_mạo hơn .
+Ngày_nay , spam không phải đơn_giản chỉ nằm trong thư_điện_tử mà_còn có cả trong blog , còn gọi_là spam blogs hay splogs , trên các tin nhắn trực_tuyến . Những xu_thế này chính là những cái mới có_thể phát_triển nở_rộ trong năm 2006 . Ngoài_ra , luật phòng_chống spam và các bộ lọc spam ngày_càng chặt_chẽ sẽ khiến cho các spam phải thay_đổi đối_tượng tấn_công . Đó là cả một câu_chuyện dài .
+Vấn_đề Splogs gây rất nhiều thiệt_hại cho các nhà_cung_cấp dịch_vụ blogs . Đã có những website chống splogs như_là SplogSpot and Splog_Reporter , bạn có_thể vào xem để biết thêm chi_tiết .
+Spam vẫn từng phút gây thiệt_hại cho nền kinh_tế Internet . Sẽ không_bao_giờ có đích đến cho công_cuộc chống spam . Tùy vào ý_thức của cư_dân Internet và sức_mạnh công_nghệ , chỉ có_thể hạn_chế phần_nào nó mà thôi …
+TRẦN_HUY ( Theo Yahoo ! News )

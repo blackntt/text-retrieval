@@ -1,0 +1,8 @@
+﻿ Call SMS Blocker 1.2 giúp chặn cuộc_gọi , tin nhắn quấy_rối
+Có_thể nói tình_trạng quấy_rối điện_thoại_di_động hiện_nay khá phổ_biến , gây rất nhiều phiền_toái cho người sử_dụng .
+Đã đến lúc chúng_ta phải tự bảo_vệ mình khỏi những kẻ quấy_rối “ ở_không ” này và công_cụ bạn cần có là Call SMS Blocker 1.2 .
+Đây là chương_trình chặn tin nhắn và các cuộc_gọi không mong_muốn , dành cho các máy PDA sử_dụng hệ_điều_hành Windows_Mobile 2003/2003SE và 2005 .
+Chương_trình có các lựa_chọn khá linh_hoạt cho_phép bạn từ_chối tất_cả những số gọi đến ( Reject all ) , chỉ nhận những cuộc_gọi trong danh_sách ( Accept from lists ) , từ_chối những cuộc_gọi trong danh_sách ( Reject from lists ) , chỉ nhận những cuộc_gọi có trong sổ địa_chỉ ( Accept from contacts ) .
+Sau đó bạn có_thể thiết_lập danh_sách các số điện_thoại mà mình muốn hay không muốn nhận . Ngoài_ra chương_trình cho_phép chặn các số điện_thoại gọi giấu số ( Block hidden numbers ) . Hình_thức chặn cuộc_gọi có_thể là từ_chối ( người nhận gọi đến sẽ nghe tiếng bận máy ) , im_lặng không đổ chuông ( Mute ) , hay trả_lời bằng một tin nhắn định sẵn ( Reply with SMS ) . Tương_tự , bạn có_thể chặn các tin nhắn không mong_muốn để nó không_thể vào được Inbox của bạn .
+Bạn có_thể tải và mua bản_quyền sử_dụng chương_trình Call SMS Blocker 1.2 tại địa_chỉ www . winmobileapps.com/device/pocketpc/csb/csb _ download.aspx . Ngoài_ra bạn cũng có_thể đến các cửa_hàng dịch_vụ điện_thoại_di_động và yêu_cầu họ cài_đặt chương_trình này vào máy cho bạn .
+Theo Tuổi_Trẻ

@@ -1,0 +1,24 @@
+﻿ CHAT ( tiếp_theo )
+Dưới góc_độ người chat thì chat server là một nơi trên net , nơi tập_trung rất nhiều người từ khắp_nơi trên thế_giới đến đó gặp nhau và trò_chuyện . Có vô_số nơi trên net để chat chứ không_chỉ có Yahoo ! , Vietfun ...
+II . Một_số khái_niệm về chat
+1 . Các hệ chat
+- Web chat ( Java chat trên trang_web ) : Chat bằng các trình_duyệt web như Internet_Explorer , Firefox ... Đây là hệ chat đơn_giản nhất , dễ dùng nhất và ít chức_năng nhất .
+- IM ( Instant_Messenger ) : Chat theo định_dạng tin nhắn tức_thời . Đây là dạng chat phổ_biến và được hỗ_trợ nhiều phương_tiện để chat . Bạn có_thể thấy nó ở Yahoo !
+Messenger , ICQ ...
+- IRC ( Internet_Relay_Chat ) : Đây là dạng chat tiếp_sức trên Internet , bạn có_thể chat bằng chương_trình m IRC . Đây là hệ chat có rất đông người tham_dự và có rất nhiều chức_năng .
+2 . Các phương_tiện chat
+- Type chat : Bạn trao_đổi thông_tin qua chữ_viết bằng cách nhập nội_dung từ bàn_phím . Phương_tiện này cho_phép bạn suy_nghĩ kỹ vấn_đề trước khi nói . Rất tiện khi chat với nhiều người cùng lúc . Bạn còn có_thể làm nhiều việc khác như_chơi game , duyệt web , check mail và lâu_lâu chat một_vài câu . Nó cho_phép bạn viết những câu mà bạn không dám mở_miệng ra nói .
+- Voice_chat : Bạn trao_đổi thông_tin qua âm_thanh . Bạn có_thể dùng micro để nói và dùng loa , headphone để nghe bên kia nói .
+- Video chat : Bạn trao_đổi thông_tin qua hình_ảnh chuyển_động và âm_thanh thông_qua webcam . Phương_tiện này cho_phép bạn trò_chuyện thực hơn qua nét_mặt , cách diễn_đạt ...
+3 . Chat server : Tùy đối_tượng mà ta có_thể có những định_nghĩa khác_nhau . Dưới góc_độ người chat thì chat server là một nơi trên net , nơi tập_trung rất nhiều người từ khắp_nơi trên thế_giới đến đó gặp nhau và trò_chuyện . Có vô_số nơi trên net để chat chứ không_chỉ có Yahoo ! , Vietfun ... Nó như một quán cà_phê , quán kem , một câu_lạc_bộ , một góc phố ... ở ngoài đời .
+4 . Chat_Room , Channel ( phòng chat , kênh chat )
+Đó là một nơi trên chat server , nơi người_ta có_thể trò_chuyện về một chủ_đề cụ_thể nào_đó như phòng trò_chuyện về chim cá_cảnh , về căn_bệnh ung_thư , phòng bàn về lập_trình , về nghệ_thuật sống , về thể_thao , phòng dành cho U40 , cho người độc_thân , phòng chat tiếng Việt ...
+Để tìm những phòng theo yêu_cầu , bạn hãy vào những trang tìm_kiếm của Google , Yahoo ! và nhập từ_khóa : “ chủ_đề chatroom ” ( ví_dụ : Để tìm những phòng trò_chuyện về bóng_đá , bạn nhập từ_khóa Football_Chatroom ) .
+5 . Private chat , Public chat ( chat riêng , chat chung )
+Chat riêng là chat ở phòng dành riêng cho 2 người , bạn trò_chuyện riêng với một ai đó .
+Chat chung là chat ở phòng có đông người , tất_cả mọi người trong phòng cùng biết nội_dung trao_đổi với nhau .
+6 . ChanOP ( Channel_Operator ) , Mod ( Moderator ) : Người điều_hành
+Là người có toàn_quyền đối_với phòng chat do họ quản_lý . Họ có_thể mời bạn ra khỏi phòng , ngăn_chặn không cho bạn vào phòng nếu bạn chat với nội_dung không tốt , hay không đúng với tiêu_chí của phòng chat ...
+7 . Nickname : Là tên thân_mật đại_diện cho người chat .
+8 . Avatar : Là một ảnh đại_diện cho một nick khi chat . Nó giúp mọi người mường_tượng ra bạn khi Type chat , Voice_chat và thể_hiện vài tính_cách của bạn khi Video chat .
+9 . Online ( trực_tuyến ) , Offline ( ngoại_tuyến ) : Là trạng_thái báo bạn có đang kết_nối đến chat server hay không . 10 . Visible ( hiện_hình ) , Invisible ( tàng_hình ) : Là trạng_thái để bạn chủ_động cho_hay không cho_phép mọi người thấy bạn đang ở trong phòng chat .

@@ -1,0 +1,8 @@
+﻿ICANN cân nhắc phê chuẩn tên miền .tel
+
+Để giúp người dùng Internet quản lý thông tin cá nhân dễ dàng, như số điện thoại, địa chỉ e-mail, tin nhắn IM, tổ chức quản lý tên miền quốc tế đang cân nhắc đến việc phát hành domain “.tel” trong năm nay do công ty Telnic (Anh) đề xuất. 
+ Người dùng có thể sử dụng website “.tel” để cung cấp thông tin liên lạc mới nhất và thậm chí còn cho phép bạn bè gọi điện hoặc nhắn tin trực tiếp từ site đó. Các doanh nghiệp có thể sử dụng site có tên miền này để xác định vị trí của người tiêu dùng và tự động hướng cuộc gọi của khách hàng tới trung tâm điều hành gần đó. 
+ICANN cũng cho biết tên miền “.tel” sẽ là một nơi để các dịch vụ tìm người trên Internet cập nhật thông tin liên lạc mới nhất của các cá nhân. Và các ứng dụng thoại, thiết bị được cài đặt trên website cũng cung cấp thông tin liên lạc cá nhân. 
+ICANN dự định sẽ xem xét đề xuất này trong ngày 18/4 tới và sẽ đưa ra quyết định chính thức trong tháng tới. 
+Trong vài năm gần đây, ICANN đã phê chuẩn tên miền “.eu” cho Liên Minh châu Âu EU, tên miền “.job” cho các website về nhân sự, “.travel” cho ngành du lịch, “.mobi” cho các dịch vụ di động, và “.cat” cho site về ngôn ngữ Catalan, nâng số tên miền trên toàn cầu lên đến 264. 
+N.Hương Theo AP

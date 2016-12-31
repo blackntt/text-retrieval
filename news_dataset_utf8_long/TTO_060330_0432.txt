@@ -1,0 +1,16 @@
+﻿Học sinh, sinh viên làm thẻ xe buýt tháng qua mạng ra sao?
+
+- Trước mắt, dịch vụ này được áp dụng cho đối tượng là HSSV có nhu cầu về thẻ xe buýt tháng. Theo đó, HSSV có thể đến bất kỳ nơi đâu có mạng Internet đăng ký là làm được thẻ. 
+Cách làm ra sao, thưa ông? 
+- Trước tiên bạn truy cập vào địa chỉ http://www.sgtcc.hochiminhcity.gov.vn 
+Bước 1: Chọn biểu tượng đăng ký thẻ xe buýt tháng qua mạng tại cột bên phải, lúc đó màn hình sẽ hiển thị phiếu đăng ký thẻ xe buýt tháng. 
+Bước 2 : Điền đầy đủ thông tin theo yêu cầu trên biểu mẫu và đính kèm theo file hình ảnh bitmap (bmp) bằng cách bấm vào nút Browse với kích thước 2x3 và độ phân giải là 200 pixels. 
+Bước 3: Sau khi điền đầy đủ thông tin và kèm file ảnh theo yêu cầu của biểu mẫu, chọn và bấm vào nút “đăng ký” nằm tại vị trí dưới cuối màn hình để gửi đến Sở GTCC TP.HCM. Khi đó, màn hình xác nhận đăng ký thành công sẽ xuất hiện. 
+Cần lưu ý: Để có cơ sở khi nhận thẻ, phải tải biểu mẫu đăng ký làm thẻ xe buýt tháng qua mạng về máy tính cá nhân tại dòng chữ liên kết “bạn đăng ký thẻ xe buýt tháng”. Sau đó điền đầy đủ thông tin theo biểu mẫu, in “Bản đăng ký làm thẻ xe buýt tháng” và đưa về nơi học để nhà trường xác nhận. 
+Ông Lê Hải Phong Bốn ngày sau khi đăng ký qua mạng, mang phiếu đăng ký có xác nhận của nhà trường đến văn phòng Sở GTCC TP (63 Lý Tự Trọng, P.Bến Thành, Q.1) để nộp phiếu và chờ ít phút sau là nhận thẻ ngay. 
+Thời hạn sử dụng thẻ và lệ phí bao nhiêu? 
+- HSSV có thể sử dụng thẻ xe buýt tháng cho đến khi không còn học tập ở trường và lệ phí làm thẻ là 5.000 đồng/thẻ. HSSV có thể làm thẻ để đi nhiều tuyến đường khác nhau. 
+Bao giờ tất cả mọi người được đăng ký làm thẻ xe buýt tháng qua mạng? 
+- Dự kiến sau khi thực hiện thí điểm từ một đến hai tháng làm thẻ xe buýt tháng qua mạng đối với HSSV, Sở GTCC TP sẽ đánh giá kết quả và mở rộng cho tất cả mọi người có thể đăng ký làm thẻ xe buýt tháng qua mạng.
+
+NGỌC ẨN thực hiện

@@ -1,0 +1,6 @@
+﻿Phần mềm tăng tốc load phim với StreamDown
+
+Nếu đường truyền tốc độ chậm, khi bạn xem phim trực tuyến, hình ảnh và âm thanh sẽ dễ bị “giựt”.
+Lúc này, cách tốt nhất là download chúng về để xem offline. StreamDown là một trong những công cụ tốt nhất để bạn làm việc này. Để download một bộ phim, bạn chỉ cần copy links của bộ phim đó rồi nhắp chuột vào nút Add. Chương trình CoCSoft StreamDown phiên bản mới nhất 5.8 sẽ tự động đưa links đó vào bộ nhớ. Sau đó, bạn nhấn vào nút OK và chờ một thời gian ngắn là quá trình download hoàn thành. CoCSoft StreamDown tương thích với Win 98/ME/ NT4.0/2000/ XP và hỗ trợ nhiều chuẩn download như HTTP, FTP, MMS, RTSP... Bạn có thể download bản dùng thử - dung lượng 1,6 MB- 15 ngày của chương trình tại địa chỉ stream-down.cocsoft.com/down/StreamDown.zip. Giá bán của bản chính thức là 39 USD.
+
+NHÂN VĂN

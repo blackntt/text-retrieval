@@ -1,0 +1,15 @@
+﻿ Với máy_tính : Đúng hay Sai ?
+Nhiều mẹo nhỏ và những thủ_thuật tưởng rằng mình đã làm đúng nhưng thực_tế lại không phải , hoặc ngược_lại . Hãy chia_sẻ những kinh_nghiệm của bạn với mọi người xung_quanh .
+1 . Tắt máy_tính mỗi đêm để giữ máy ?
+Sai ! Máy_tính của bạn không cần tắt đi mỗi ngày để nó chạy tốt . Nhiều người rất bực_mình khi chờ Windows đóng và cũng không thoải_mái khi phải chờ nó khởi_động lại . Càng nhiều chương_trình và ứng_dụng thì thời_gian này càng lâu . Tại_sao không sử_dụng XPHibernation , chức_năng ngủ_đông của XP bằng cách sau :
+Start/turn off computer / stanby , giữ Sift nhấn Hibernation . Và lúc này máy của bạn đã được ngủ_đông , khi khởi_động nhanh hơn và vẫn giữ được công_việc bạn đang làm dở_dang .
+2 . Lỡ đổ một_chút nước uống vào bàn_phím , tức_là đã tiêu bàn_phím đó ?
+Sai ! Bàn_phím của bạn vẫn tồn_tại trừ khi nước đổ vào quá nhiều . Bạn hãy đặt úp nó xuống một cái khăn và để đó một lát . Sau đó lau lại bàn_phím và làm_việc bình_thường sau đó . Tuy_nhiên với laptop thì không dễ vậy vì chất_lỏng thấm xuống các linh_kiện điện_tử phía dưới , có_thể làm hỏng luôn những linh_kiện này . Đáng tiếc là không có bảo_hành cho trường_hợp này nên bạn cần đề_phòng với laptop hơn .
+3 . Để nam_châm cạnh đĩa_mềm , nội_dung trong đĩa sẽ bị xóa ?
+Đúng ! Đặt nam_châm vào đĩa_mềm thì nội_dung trong đĩa sẽ bị xóa hết .
+4 . Cứ dùng phần_mềm quét virus được cập_nhật để kiểm_tra virus thường_xuyên là an_tâm ?
+Sai ! Nếu bạn có phần mền quét virus đã được cập_nhật , bạn vẫn có_thể bị spyware . Nó chạy ở nền windows và cho máy chậm lại . Hãy tìm các phần_mềm diệt spyware mạnh để điều_trị nó .
+5 . Sẽ không_thể bị spyware nếu có phần_mềm diệt spyware hoạt_động hiệu_quả ?
+Sai ! Vì các phần_mềm diệt spyware có hiệu_quả rất khác_nhau . Theo trắc_nghiệm mới_đây của PC World , các phần_mềm này chỉ diệt được 66% - 90% là_cùng . Nên cài 2 phần_mềm cùng lúc sẽ chắc_ăn hơn .
+6 . Pin của laptop sẽ kém nhanh nếu cứ sạc trước khi nó hết điện ?
+Sai ! Trừ khi bạn đang sở_hữu một máy laptop sản_xuất đã lâu lắm rồi . Ngày_nay mọi laptop đều dùng pin lithiumion nên không cần phải đợi đến hết pin mới được sạc . Hoa_Đào

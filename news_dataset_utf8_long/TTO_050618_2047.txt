@@ -1,0 +1,11 @@
+﻿Sử dụng công nghệ cao để giám sát loài voi
+
+Các nhà khoa học từ khoa địa vật lý tại Trường ĐH Stanford đã sử dụng các cảm biến này để giám sát loài voi châu Phi và các động vật có vú to lớn khác ở công viên quốc gia Etosha, Namibia. 
+Các máy dò âm thanh dưới đất, ban đầu được chế tạo bởi quân đội Mỹ nhằm phát hiện ra di chuyển của nhóm kẻ thù, đã được triển khai để dò và bắt các rung động gây ra khi các loài động vật bước qua một vũng nước. 
+Máy dò âm thanh dưới đất được chế tạo dành cho quân đội Mỹ Sau đó các nhà nghiên cứu phân tích các ghi nhận kỹ thuật số của các tiếng bước chân để tách rời các tín hiệu âm thanh của từng loài khác nhau. Kết quả cho thấy công nghệ này đã hoạt động khá hiệu quả ở việc phân biệt loài voi với các động vật khác như hươu cao cổ, sư tử, linh dương Nam Phi và con người, với tỷ lệ thành công trung bình là 82%. 
+Nhóm các nhà khoa học tại Trường ĐH Stanford tin rằng kỹ thuật này có khả năng thay thế cho phương pháp khảo sát các loài từ trên không và phương pháp đếm các bãi phân hiện đang được sử dụng để thống kê số voi nhằm phục vụ cho công tác bảo tồn và quản lý bảo tồn. 
+Các máy dò âm thanh dưới đất cũng có thể được dùng để cải thiện việc đánh giá số lượng loài voi trong các khu rừng rậm ở Trung Phi, nơi việc khảo sát từ trên không là không thể. 
+“Việc quản lý công tác bảo tồn sẽ được cải thiện bằng phương pháp chính xác hơn để giám sát và ước lượng dân số loài voi hay các động vật có vú khác ở Trung Phi, cũng như tình hình dân số của chúng trong mối tương quan với các loài cùng họ và mối đe dọa từ nạn săn bắn trộm”, nhóm nghiên cứu nói. Phương pháp này cũng có thể được sử dụng để giám sát loài voi trong thời gian dài hơn so với các phương pháp hiện nay. 
+Tuy nhiên, theo các nhà sinh thái học và các nhà bình luận, phương pháp này có những hạn chế như cần nhiều thiết bị cho một diện tích vài kilomet vuông, khó đưa chúng vào khu vực Trung và Tây Phi…
+
+T.VY (Theo BBC)

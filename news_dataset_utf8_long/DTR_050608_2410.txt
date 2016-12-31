@@ -1,0 +1,10 @@
+﻿Thử máu bằng điện thoại di động
+
+Các nhà nghiên cứu Thụy Điển đang phát triển một "phòng thí nghiệm di động" cho phép các thuê bao tiến hành phân tích nhanh chóng và chính xác mẫu máu. 
+ Một chip siêu nhỏ có thể phân tích các mẫu máu và sau đó xác định các trường hợp viêm nhiễm, sự cần thiết dùng kháng sinh và nguy cơ bệnh tim. 
+Được gắn với mobile, chip này sẽ đo số lượng những chất chỉ định sinh học như CRP, Troponin I hoặc T, BNP trong các mẫu máu. Một chiếc bơm siêu nhỏ được mở rộng từ cấu trúc parafin và được tiếp năng lượng từ pin của mobile sẽ đẩy mẫu máu qua cổng vào, bộ lọc và bộ phận phân tích trên chip. 
+Một camera sau đó sẽ đọc những kết quả kiểm tra khi chip phát ra ánh đèn. Quá trình này dựa trên sự phát quang sinh học tương tự như phản ứng hóa học làm cho các con đom đóm phát sáng. Sau một vài phút, kết quả này có thể được gửi tới bác sỹ thông qua hệ thống mạng điện thoại di động hay Internet. Thiết bị duy nhất mà phòng thí nghiệm siêu nhỏ này cần là một chiếc "alô" với một camera số. 
+Có khoảng 5-10 triệu cuộc kiểm tra thành phần CRP trong máu được tiến hành ở riêng Thụy Điển. Các nhà nghiên cứu ở đây dự định sẽ tăng cường chức năng của chip này để tiến hành nhiều cuộc phân tích máu song song. Việc phân tích mẫu máu bằng chip điện tử tiết kiệm thời gian và hiệu quả hơn các cuộc kiểm tra máu thông thường, theo các nhà nghiên cứu. 
+"Chip gắn vào mobile này có khả năng phản ứng với bất kỳ một loại sinh chất nào trong cơ thể, ngay cả các kháng thể." Người quản lý dự án Jonas nhận định, "Trong tương lai, chúng tôi hi vọng có thể tăng số lượng các cuộc kiểm tra mà một con chip có thể tiến hành." 
+Cuộc thử nghiệm được tiến hành với sự hợp tác của các nhà nghiên cứu từ đại học Uppasala, Murdalens và đại học Hospital. 
+"Chip được chế tạo dựa trên nhiều công nghệ khác nhau mà chúng ta đã có, nhưng đã được kết hợp lại." ông Lars Baltzer, trưởng dự án thuộc đại học Uppsala giải thích. Theo Vnmedia

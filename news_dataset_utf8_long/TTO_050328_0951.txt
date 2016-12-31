@@ -1,0 +1,6 @@
+﻿Dùng tin nhắn giúp cai thuốc lá
+
+Đây là chương trình phối hợp giữa cơ quan bảo hiểm y tế với Hãng ĐTDĐ Orange. 
+Nay nó được mở rộng thử nghiệm sang 1.200 người để bên tổ chức có thể có đánh giá khoa học bước đầu. Những người tham gia chương trình phải trên 25 tuổi, đăng ký tự nguyện cai thuốc lá trong chương trình kéo dài 12 tuần lễ này để thường xuyên nhận tin nhắn trên máy di động của mình (số tin sẽ giảm dần về số lượng cho đến ngày cuối chương trình chỉ còn một tin/ngày). Những tin nhắn được truyền đi sẽ đến đúng từng đối tượng nên sẽ có thể là tin khích lệ tinh thần, là lời khuyên nhủ hoặc là thông điệp gây sốc kiểu như "thuốc lá làm đen răng, làm tăng cao răng và làm lung lay răng". Một người đã cai thuốc được bảy tháng theo chương trình này cho biết loại hình này có tác dụng hỗ trợ tốt khi người nghiện thật sự muốn chấm dứt với thuốc lá.
+
+TÚ ANH (Theo AFP)

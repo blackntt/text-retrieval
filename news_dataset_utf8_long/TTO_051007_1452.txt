@@ -1,0 +1,43 @@
+﻿Danh sách trúng tuyển và điểm chuẩn NV3 ĐH Quốc tế TP.HCM
+
+Theo đó, đây là mức điểm đối với học sinh phổ thông - khu vực 3. Mỗi đối tượng ưu tiên cách nhau 1 điểm, mỗi khu vực ưu tiên cách nhau 0.5 điểm. 
+Đây là điểm trúng tuyển với tổng điểm của 3 môn thi (không có môn điểm 0), kể cả hệ số (nếu có), cộng điểm thưởng và điểm ưu tiên theo khu vực và đối tượng. 
+Ngành 
+Mã ngành 
+Điểm 
+Nơi cấp 
+Công nghệ thông tin 
+(khối A) 
+150 
+22.0 
+ĐH Quốc tế 
+160 
+18.5 
+ĐH Nottingham 
+162 
+18.0 
+ĐH West England 
+Điện tử - Viễn thông 
+(khối A) 
+151 
+21.0 
+ĐH Quốc tế 
+161 
+18.0 
+ĐH Nottingham 
+163 
+18.0 
+ĐH West England 
+Quản trị kinh doanh 
+(khối A, D1) 
+450 
+22.0 
+ĐH Quốc tế 
+460 
+19.5 
+ĐH Nottingham 
+461 
+19.0 
+ĐH West England
+
+QUỐC DŨNG

@@ -1,0 +1,9 @@
+﻿ Đức sử_dụng người_máy tuần_tra tại World_Cup
+Lần đầu_tiên trong lịch_sử các kỳ World_Cup , nước chủ nhà Đức đã sử_dụng cả người_máy để thực_hiện các công_việc tuần_tra tại các sân_vận_động trong thời_gian diễn ra sự_kiện thể_thao lớn nhất hành_tinh .
+Công_ty Robowatch ở Berlin , Đức đã nghiên_cứu và chế_tạo ra 2 loại người_máy giám_sát , trong đó một loại tương_tự như kiểu robot do_thám quân_đội Mỹ sử_dụng ở Iraq , để đưa vào sử_dụng tại World_Cup 2006 .
+Các robot này được sử_dụng để tuần_tra tại các bãi đỗ xe ngầm bên trong sân_vận_động Olympics ở thủ_đô Berlin và tại một khu_vực nơi thường diễn ra các cuộc họp_báo , có các nhà tài_trợ và các quan_khách VIP .
+Những con robot được gắn camera hồng_ngoại để phát_hiện những vật hoặc người lạ xâm_nhập trong đêm_tối . Ngoài_ra , chúng cũng được lắp những bộ cảm_biến nhằm phát_hiện các chất phóng_xạ , chất_độc , virus và các loại vũ_khí_hóa_học .
+Robot sẽ truyền các hình_ảnh thu_thập được về trung_tâm xử_lý thông_qua hệ_thống định_vị bằng vệ_tinh . Nếu phát_hiện những gì khả_nghi , lực_lượng an_ninh sẽ tới kiểm_tra .
+“ Đây là lần đầu_tiên loại robot tuần_tra được sử_dụng tại World_Cup . Chúng_tôi vẫn chưa phát_hiện ra_điều gì khả_nghi . An_ninh tại World_Cup lần này rất tốt , ” Benjamin_Stengl , người_phát_ngôn của Robowatch , nói .
+Tuy_nhiên việc sử_dụng các robot tại World_Cup 2006 mới chỉ mang tính thử_nghiệm để có_thể được dùng cho các kỳ World_Cup sau , ông Stengl nói thêm .
+Nguyên_Hưng_Theo AP

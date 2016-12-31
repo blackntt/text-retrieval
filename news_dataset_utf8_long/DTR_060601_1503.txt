@@ -1,0 +1,11 @@
+﻿Spam tiếng Đức phát tán Trojan ăn cắp mật khẩu
+
+Hôm chủ nhật (28/05) đã xuất hiện một loại spam được viết bằng tiếng Đức có cài trojan ăn cắp mật khẩu. Người dùng ngây thơ sẽ bị lừa cài đặt bản nâng cấp chính thức của Microsoft Windows trong file đính kèm. 
+ 
+Phần mềm mục đích xấu đính kèm được công ty phát triển phần mềm diệt virus là Kaspersky Lab đặt tên “Trojan-PSW.Win32.Sinowal.u". Theo kĩ sư nghiên cứu lâu năm của công ty là Roel Schouwenberg thì đây là loại trojan thế hệ mới đang bắt đầu bùng nổ. Loại phần mềm nguy hiểm này đã bị phát hiện lần đầu tiên hồi tháng 12 khi chúng được cài lên các web site mục đích xấu. 
+Schouwenberg cho biết nếu người dùng mở site này ra với một trình duyệt không được cập nhật bản vá thích hợp thì phần mềm này sẽ tự động tiến hành cài đặt và thu thập thông tin tài khoản đăng nhập trên web site của một số ngân hàng châu Âu. Dòng phần mềm xấu Sinowal có thể có xuất xứ từ Nga vì trong đoạn mã xấu có những đoạn viết bằng tiếng Nga. 
+Những thông điệp spam mới nhất lại có địa chỉ e-mail “.de”. Thay vì dựa vào lỗi trình duyệt để tự cài đặt, phiên bản này lại cố gắng lừa người dùng để chính họ phải tiến hành cài đặt nó. Được viết bằng tiếng Đức, spam cho biết có một loại sâu máy tính mới đang lây lan và người nhận nên chạy file đính kèm để bảo vệ hệ thống của mình. 
+Schouwenberg cho rằng tác giả có lẽ đã quyết định gửi một lượng lớn e-mail này đi phòng trường hợp ý định tấn công vào lỗ hổng của trình duyệt không mang lại kết quả như ý muốn. 
+Trojan Sinowal là một loại phần mềm xấu kiểu “người trung gian”. Ngay cả khi người dùng đã thực hiện một giao dịch có bảo mật SSL (Secure Sockets Layer) với ngân hàng thì trojan Sinowal vẫn có thể chèn đoạn mã HTML có nhiệm vụ mở một cửa sổ pop-up yêu cầu nhập tên người dùng và mật khẩu. Sinowal được lập trình nhằm vào website một số ngân hàng nhất định. 
+Schouwenberg khẳng định: “Chúng ta sẽ còn gặp phải loại trojan này nhiều nữa và chúng thực sự gây ra không ít khó khăn”. 
+Loại trojan này có kiểu tấn công độc nhất vì nó gửi thông tin tới máy chủ của tin tặc ngay lập tức thay vì lưu trữ dữ liệu để dành cho các tác vụ truyền tin định kì. Bản thân trojan còn có khả năng kiểm tra tự nâng cấp, cập nhật mình. Theo AI VietNam/InfoWorld

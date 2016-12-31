@@ -1,0 +1,6 @@
+﻿ “ Hệ_thống tra_cứu từ_điển di_động trực_tuyến ”
+Ở nội_dung phần_mềm sáng_tạo , vượt qua sáu phần_mềm khối THPT , phần_mềm “ IM-Dictionnary for Web , Wap , Mobi ” ( Hệ_thống tra_cứu từ_điển di_động trực_tuyến ) của Phan_Hoàng_Huy - HS Trường THPT chuyên Lê_Quý_Đôn - đã đoạt giải nhất ( học_bổng học lập_trình_viên quốc_tế 690 USD của Trung_tâm Công_nghệ_phần_mềm Đà_Nẵng - Softech ) .
+Hai giải nhất phần_mềm sáng_tạo khác được trao cho Đặng_Ngọc_Trung ( HS Trường bán_công năng_khiếu Nhà thiếu_nhi - cấp tiểu_học ) với phần_mềm “ Em yêu lịch_sử ” và Trần_Lê_Bách ( HS Trường THCS Nguyễn_Khuyến ) với phần_mềm “ Read it now ” ( học_bổng 690 USD của Softech ) .
+Giải nhất phần thi chung của khối THPT ( học_bổng 340 USD của Softech ) : Tạ_Tố_Như ( HS Trường_Lê_Quý_Đôn ) .
+Hội thi tin_học trẻ không chuyên 2006 có 306 HS các trường ở TP Đà_Nẵng tham_gia . Báo_Tuổi_Trẻ đã trao thưởng cho sáu giải nhất ( quà tặng và 1 triệu đồng / giải ) .
+V . HÙNG

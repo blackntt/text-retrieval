@@ -1,0 +1,5 @@
+﻿ Xem 750 kênh_truyền_hình trên máy_tính
+Yêu_cầu của chương_trình là bạn phải có đường truyền Internet kết_nối băng_thông_rộng ADSL . Mặc_dù chương_trình chỉ yêu_cầu bạn kết_nối Internet qua modem 56Kbps , nhưng với đường truyền này ở VN không xem được vì bị đứng hình .
+Ngoài_ra bạn phải nâng_cấp phần_mềm RealPlayer hoặc Windows_Media trong máy của bạn lên phiên_bản mới nhất ( sau khi cài_đặt sẽ có đường_dẫn tự_động để bạn click vào nâng_cấp ) . Thêm vào đó máy_vi_tính của bạn phải có cấu_hình tối_thiểu là Pentium III 500 MHz , RAM 128 MB , card màn_hình 65.000 màu cài_đặt ở chế_độ 800x600 , Windows XP hoặc 2003 , Internet_Explorer 6.0 .
+Để xem TV , đơn_giản bạn chỉ cần chọn kênh và nhấp đúp chuột . Nếu bạn “ kết ” đài nào thì nắm kéo thả vào ô Favorite bên_cạnh để lần sau mở cho nhanh . Bạn có_thể tải bản dùng thử 14 ngày tại địa_chỉ : http : / / www.holersoft.net/download.htm
+QUẾ_PHƯỢNG

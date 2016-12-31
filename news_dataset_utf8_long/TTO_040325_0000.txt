@@ -1,0 +1,11 @@
+﻿FREE NOTE 1.0 - Sticker ảo ngay trên màn hình desktop
+
+Lấy ý tưởng từ loại nhãn dính này, công ty MGShareware đã cho ra đời một sản phẩm phần mềm độc đáo và miễn phí được mang tên Free Note. Nó cho phép bạn đặt vô số những sticker ảo ngay trên màn hình desktop. Điều này sẽ giúp bạn quản lý và theo dõi công việc của mình được thuận tiện hơn bao giờ hết. Với FN, mọi sự kiện “trọng đại” của bạn đều được ghi nhận một cách dễ dàng, nhanh chóng và thuận lợi hơn bao giờ hết. 
+Ngay sau khi cài đặt và kích hoạt chương trình, bạn sẽ nhận ra được sự xuất hiện của biểu tượng sticker có màu vàng trên System tray. Hãy nhấp chuột phải vào đấy và thực hiện các thao tác có liên quan sau đây. 
+1. Add new note: Tạo mới một sticker ảo với nội dung và định dạng font/màu sắc được quy định bởi người dùng. 
+2. Resize to content: Tự động tăng giảm kích cỡ của sticker ảo sao cho cân đối với nội dung text của nó. 
+3. Arrange all notes: Tự động sắp xếp mọi sticker hiện hữu trên màn hình desktop. 
+4. Drop note: Tháo gỡ sticker ảo hiện hành ra khỏi màn hình desktop. 
+Với dung lượng nhỏ gọn và rất lý tưởng cho việc download (chỉ 684 KB), tương thích trên các hệ điều hành Windows như 9x/Me/NT/2000/XP, phiên bản miễn phí (freeware) của FN được cung cấp tại địa chỉ http://www.freerip.com/download/freenote.exe .
+
+LÊ NGUYỄN BẢO NGUYÊN

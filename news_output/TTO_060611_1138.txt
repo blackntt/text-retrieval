@@ -1,0 +1,15 @@
+﻿ Những lưu_ý trước khi cài_đặt Windows_Vista_Beta 2
+1 . Máy_tính của bạn nên được trang_bị đầu_ghi đĩa DVD .
+Những người dùng ở Mỹ có_thể đặt mua đĩa DVD chứa Windows_Vista_Beta 2 từ Microsoft với giá là 6 USD kèm theo 4 USD lệ_phí bưu_điện . Nhưng những người_ở ngoài Mỹ chỉ có cách duy_nhất là tải nó về dùng .
+Dung_lượng tải về của các bản Windows_Vista_Beta 2 đều trên 3GB và thời_gian tải về với mạng DSL sẽ mất từ 2 đến 9 giờ . Bạn hoàn_toàn không_thể cài_đặt từ bản Vista tải về còn nằm trên đĩa_cứng mà bắt_buộc phải ghi toàn_bộ nội_dung tải về lên đĩa DVD để sau đó cài_đặt từ đĩa DVD này .
+2 . Sẽ không_thể quay về hệ_điều_hành cũ khi đang cài_đặt Windows_Vista_Beta 2 .
+Microsoft đã đưa ra khuyến_cáo rằng trước khi cài_đặt Windows_Vista_Beta 2 trên bất_kỳ máy_tính nào thì người dùng cũng đều phải sao lưu lại tất_cả mọi dữ_liệu quan_trọng vì quá_trình cài_đặt Vista có_thể làm mất hoàn_toàn dữ_liệu ở phân_vùng đĩa_cứng chứa nó .
+Ngay khi quá_trình cài_đặt Windows_Vista_Beta 2 đã bắt_đầu thì người dùng sẽ không có cách nào quay trở_lại hệ_điều_hành Windows trước đó . Nói cách khác là Windows_Vista_Beta 2 sẽ loại_bỏ hoàn_toàn bộ Windows cũ để thay nó vào . Microsoft khuyến_cáo người dùng nên sử_dụng Norton_Ghost của Symantec để tạo ra bản_sao lưu của Windows cũ trước khi cài_đặt Windows_Vista_Beta 2 để nếu có trục_trặc thì vẫn có_thể đưa máy_tính trở_về tình_trạng như cũ .
+3 . Hãy cẩn_thận về mọi vấn_đề bảo_mật liên_quan đến Windows_Vista_Beta 2 .
+Microsoft đưa ra khuyến_cáo rằng người dùng cần phải cân_nhắc kỹ_lưỡng trước khi cài_đặt và sử_dụng thử Windows_Vista_Beta 2 . Vì đây là bản thử_nghiệm cho_nên Microsoft chỉ có trách_nhiệm giới_hạn đối_với những rắc_rối mà nó gây ra cho người dùng .
+Những rắc_rối này có_thể xảy_ra ở nhiều phương_diện như bất tương_thích với nhiều thiết_bị phần_cứng có sẵn trên máy_tính , cũng_như có_thể xảy_ra xung_đột với các phần_mềm , công_cụ bảo_mật … mà người dùng cài vào sau đó . Người dùng cũng_nên hạn_chế tối_đa việc sử_dụng Windows_Vista_Beta 2 để giao_dịch trực_tuyến , nhất_là ở các thương_vụ giao_dịch điện_tử có số tiền lớn .
+4 . Windows_Vista_Beta 2 sẽ hết hạn sử_dụng vào ngày 1-6-2007 .
+5 . Windows_Vista_Beta 2 sẽ không_thể Update được mọi thứ dành cho bản Windows_Vista chính_thức .
+6 . Khuyến_cáo cho người dùng Windows … lậu .
+Với dân xài Windows lậu thì nên quên hẳn đi việc tải Windows_Vista_Beta 2 về vì Microsoft luôn_luôn kiểm_tra mã_số bản_quyền của bản Windows dùng để tải về . Nhưng nếu ai đó may_mắn có được đĩa DVD Windows_Vista_Beta 2 đã có sẵn mã_số cài_đặt thì quá_trình cài_đặt vẫn diễn ra bình_thường .
+THỤY_KHANH ( Tổng_hợp )

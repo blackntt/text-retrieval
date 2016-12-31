@@ -1,0 +1,62 @@
+﻿ Bài giải tốt_nghiệp THPT môn Sinh và Địa ( 2004 )
+I . Lý_thuyết :
+Đề 1
+Câu 1 : a ) Cơ_chế phát sinh_thể một nhiễm , thể ba nhiễm , thể đa nhiễm .
+- Cơ_chế phát sinh_thể một nhiễm , thể ba nhiễm : Trong quá_trình giảm phân ở tế_bào sinh_dục đực hoặc cái , một cặp nhiễm_sắc_thể không phân_ly sinh_ra giao_tử mang cả hai nhiễm_sắc_thể ( giao_tử n + 1 ) và giao_tử thiếu hẳn nhiễm_sắc_thể đó ( giao_tử n - 1 )
+Khi thụ_tinh : Giao_tử ( n + 1 ) x giao_tử ( n ) — & gt ; hợp_tử 2n + 1 ( thể ba nhiễm ) Giao_tử ( n + 1 ) x giao_tử ( n ) — & gt ; hợp_tử 2n - 1 ( thể một nhiễm ) - Cơ_chế phát sinh_thể đa nhiễm ( ví_dụ 2n + 2 = thể tứ nhiễm ) Trong quá_trình giảm phân , sự không phân_ly của cặp nhiễm_sắc_thể tương_đồng xảy_ra ở tế_bào sinh_dục đực và tế_bào sinh_dục cái nên giao_tử đực và giao_tử cái sinh_ra đều có bộ NST ( n + 1 ) .
+Khi thụ_tinh giao_tử ( n + 1 ) x giao_tử ( n + 1 ) — & gt ; hợp_tử ( 2n + 2 ) phát_triển thành thể tứ nhiễm .
+b ) Số nhiễm_sắc_thể của các thể di bội :
+- Thể một nhiễm 2n - 1 = 24 - 1 = 23 NST - Thể ba nhiễm 2n + 1 = 24 + 1 = 25 NST Thể khuyết nhiễm 2n - 2 = 24 - 2 = 22 NST
+Câu 2 : 1 . Khái_niệm kỹ_thuật di_truyền
+Kỹ_thuật di_truyền là kỹ_thuật thao_tác trên vật_liệu di_truyền dựa vào những hiểu_biết về cấu_trúc hóa_học của axit nuclêic và di_truyền vi_sinh_vật . KTDT được sử_dụng phổ_biến hiện_nay là kỹ_thuật cấy gen .
+2 . Các khâu chính trong kỹ_thuật cấy gen
+Kỹ_thuật cấy gen dùng plasmit làm thể truyền có 3 khâu chủ_yếu :
+a . Tách ADN nhiễm_sắc_thể ra khỏi tế_bào cho và tách plasmit ra khỏi tế_bào vi_khuẩn . b . Cắt và nối đoạn ADN của tế_bào cho vào ADN plasmit ở những điểm xác_định tạo nên ADN plasmit tái tổ_hợp . Các enzym thực_hiện là enzym cắt ( restrictaza ) & amp ; enzim nối ( ligaza ) c . Chuyển ADN plasmit tái tổ_hợp vào tế_bào nhận , tạo điều_kiện cho gen đã ghép được biểu_hiện .
+Tế_bào nhận được dùng phổ_biến là vi_khuẩn đường ruột E . Coli . Tế_bào E . Coli sau 30 phút đã tự nhân đôi . Từ 1 tế_bào E . Coli sau 12 giờ tiến_hành được 24 đợt nhân đôi cho 224 tế_bào ( trên 16 triệu tế_bào ) . Trong các tế_bào đó ADN tái tổ_hợp cũng được nhân lên nhanh_chóng , sản_xuất ra 1 lượng lớn các chất tương_ứng với gen đã ghép vào plasmit .
+Kỹ_thuật cấy gen dùng virút làm thể truyền
+Người_ta dùng ADN của thể ăn khuẩn ( loại virút ký_sinh trong tế_bào vi_khuẩn ) để tiếp_nhận gen của tế_bào cho_rồi chuyển ADN tái tổ_hợp đó vào vi_khuẩn .
+Câu 3 :
+1 . Định_nghĩa loài
+Ở các loài giao_phối , loài là một nhóm quần_thể : - Có những tính_trạng chung về mặt hình_thái , sinh_lý . - Có khu phân_bố xác_định - Trong đó các cá_thể có khả_năng giao_phối tự_do với nhau và được cách_ly sinh_sản với các nhóm quần_thể khác loài .
+2 . Hình_thành loài bằng con đường địa_lý :
+Khu phân_bố của loài thường rất rộng . Các quần_thể của loài bị các chướng_ngại địa_lý ngăn_cách nên tích_lũy các đột_biến và biến_dị tổ_hợp dưới tác_động của CLTN theo những hướng khác_nhau tạo nên các nòi địa_lý rồi các loài mới .
+Ví_dụ loài chim_sẻ ngô phân_hóa thành các nòi : Châu_Âu , Trung_Quốc và Ấn Độ . Nơi tiếp_giáp giữa các nòi đều có dạng lai tự_nhiên , trừ nơi tiếp_giáp giữa nòi châu Âu và nòi Trung_Quốc ở vùng sông Amur thì không có dạng lai tự_nhiên chứng_tỏ có sự chuyển_tiếp từ nòi địa_lý sang loài mới .
+Điều_kiện địa_lý khác_nhau không phải là nguyên_nhân trực_tiếp gây ra những biến_đổi hình_thái trên cơ_thể chim_sẻ .
+Cách_ly địa_lý tạo điều_kiện thúc_đẩy sự phân_hóa trong loài . Trong các khu_vực địa_lý khác_nhau , nhân_tố chính tích_lũy các đột_biến theo những hướng khác_nhau là CLTN .
+Đề 2 :
+Câu 1 :
+a ) Cơ_chế phát_sinh và hậu_quả của đột_biến gen
+Cơ_chế phát_sinh : Các tác_nhân đột_biến làm rối_loạn quá trình_tự nhân đôi của ADN , làm ADN bị đứt_gãy , hoặc nối đoạn bị đứt vào vị_trí mới .
+Hậu_quả của đột_biến gen - Đột_biến xảy_ra trong gen cấu_trúc — & gt ; thay_đổi cấu_trúc m ARN — & gt ; thay_đổi cấu_trúc prôtêin .
+Thay_thế hoặc đảo vị_trí một cặp nuclêotit chỉ làm thay_đổi một bộ ba nên chỉ làm thay_đổi 1 axit_amin .
+Mất hoặc thêm một cặp nuclêotit sẽ làm thay_đổi các bộ ba từ điểm xảy_ra đột_biến đến cuối gen nên làm thay_đổi nhiều axit_amin . Điểm đột_biến càng gần mã mở_đầu thì số axit_amin của phân_tử prôtêin thay_đổi càng nhiều và càng gần mã kết_thúc thì số axit_amin của phân_tử prôtêin thay_đổi càng ít .
+Đột_biến gen cấu_trúc biểu_hiện thành một biến_đổi đột_ngột về một hoặc một_số tính_trạng nào_đó trên một hoặc một số_ít cá_thể .
+Đột_biến gen thường có hại vì làm thay_đổi cấu_trúc các enzym làm xáo_trộn quá_trình trao_đổi chất bình_thường của cơ_thể . Tuy_nhiên đột_biến gen có_thể thay_đổi giá_trị thích_nghi nên nhiều đột_biến gen là trung_tính , và một số_ít là có lợi .
+b ) Đột_biến gen là nguồn nguyên_liệu chủ_yếu của tiến_hóa và chọn giống :
+- Gen khá bền_vững nên khả_năng xảy_ra đột_biến ở mỗi gen rất thấp ( 10-6 đến 10-4 ) . Nhưng mỗi tế_bào trong cơ_thể lại có rất nhiều gen , có_thể xảy_ra đột_biến ở gen này hoặc gen khác nên số_lượng đột_biến gen nói_chung khá phong_phú .
+- Đột_biến gen thường có hại cho cơ_thể vì nó làm thay_đổi cấu_trúc của prôtêin nhưng giá_trị thích_nghi của đột_biến gen có_thể thay_đổi theo môi_trường , theo tổ_hợp gen nên có_thể trở_thành có lợi .
+- So với đột_biến NST thì đột_biến gen phổ_biến hơn và ít ảnh_hưởng nghiêm_trọng đến sức_sống và sự sinh_sản của cơ_thể .
+Câu 2 :
+1 . Lai tế_bào :
+- Khi nuôi_cấy 2 dòng tế_bào xôma khác loài trong cùng một môi_trường , chúng có_thể kết_hợp với nhau thành tế_bào lai , chứa bộ gen của hai dạng bố_mẹ .
+- Để tăng tỉ_lệ kết_hợp giữa 2 tế_bào thành tế_bào lai , người_ta dùng virút Xenđê hoặc loại keo hữu_cơ poliêtilen glicol , hoặc dùng xung_điện cao_áp .
+- Dùng hoocmôn thích_hợp , có_thể kích_thích tế_bào lai phát_triển thành cây lai .
+2 . Triển_vọng của lai tế_bào và ứng_dụng :
+Triển_vọng : Lai tế_bào giúp người_ta có_thể tái tổ_hợp thông_tin di_truyền giữa các loài đứng xa nhau trong bậc_thang phân_loại , điều mà lai xa không thực_hiện được .
+Ứng_dụng : Bằng phương_pháp lai tế_bào người_ta đã tạo cây lai từ 2 loài thuốc_lá , cây lai giữa khoai_tây với cà_chua .
+Câu 3 :
+1 . Quan_niệm hiện_đại về sự hình_thành loài mới .
+- Hình_thành loài mới là một quá_trình lịch_sử , cải_biến thành_phần kiểu gen của quần_thể ban_đầu theo hướng thích_nghi và tạo ra kiểu gen mới cách_ly sinh_sản với quần_thể gốc .
+- Loài mới không xuất_hiện với một đột_biến mà là sự tích_lũy một tổ_hợp nhiều đột_biến . Loài mới không xuất_hiện với 1 cá_thể mà với một quần_thể hay một nhóm quần_thể , tồn_tại phát_triển như một khâu trong hệ_sinh_thái , đứng vững qua thời_gian dưới tác_dụng của CLTN .
+2 . Hình_thành loài bằng con đường sinh_thái :
+Trong cùng một khu phân_bố , hoàn_cảnh sống các quần_thể của loài vẫn có_thể khác_nhau , nên CLTN tác_động vào các quần_thể cũng theo các hướng khác_nhau , tạo nên các nòi sinh_thái rồi loài mới .
+Ví_dụ quần_thể thực_vật sống trong vùng bãi_bồi của sông và quần_thể thực_vật cùng loài sống phía trên bờ sông khác_nhau về thời_điểm ra hoa nên không giao phấn với nhau . Hình_thức này cũng gặp ở động_vật ít di_động xa như thân_mềm .
+II . Bài_toán bắt_buộc :
+a ) Tần_số tương_đối các alen :
+- Tần_số tương_đối của alen A : 0,3 + ( 0,2 : 2 ) = 0,4 - Tần_số tương_đối của alen a : ( 0,2 : 2 ) + 0,5 = 0,6
+b ) Thành_phần kiểu gen của quần_thể ở thế_hệ tiếp_theo .
+Trong quần_thể có sự giao_phối tự_do nên P cũng cho hai loại giao_tử với tỉ_lệ bằng chính tần_số tương_đối của các alen trong quần_thể :
+Tỉ_lệ giao_tử A = 0,4 Tỉ_lệ giao_tử a = 0,6 Sự kết_hợp ngẫu_nhiên giữa hai loại giao_tử : Đực ( 0,4 A + 0,6 a ) x Cái ( 0,4 A + 0,6 a ) Cho quần_thể ở thế_hệ tiếp_theo có cấu_trúc di_truyền như sau : 0,16 AA : 0,48 Aa : 0,36 aa
+c ) Kiểu gen AA và kiểu gen Aa có cùng kiểu hình hoa đỏ .
+Kiểu gen aa có kiểu hình hoa trắng nên tỉ_lệ kiểu hình của quần_thể ban_đầu như sau : 0,3 AA + 0,2 Aa = 0,5 hoa đỏ 0,5 aa = 0,5 hoa trắng Vậy tỉ_lệ kiểu hình của quần_thể ban_đầu là : 50% hoa đỏ : 50% hoa trắng .
+ĐỖ_THÀNH_TRIẾT ( giáo_viên Trường THPT Hoàng_Hoa_Thám , TP.HCM )

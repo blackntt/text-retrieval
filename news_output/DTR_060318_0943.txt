@@ -1,0 +1,7 @@
+﻿ Võ_lâm truyền_kỳ bảo_vệ tài_khoản với mật_khẩu một lần
+Nhằm bảo_vệ người chơi trước nạn trộm_cắp tài_khoản , vật_phẩm trong game , công_ty VinaGame đã đưa ra giải_pháp mật_khẩu sử_dụng 1 lần ( One_Time_Password - OTP ) áp_dụng trên game " Võ_lâm truyền_kỳ " do công_ty cung_cấp .
+Theo thông_báo của VinaGame , công_ty này sẽ phát_hành các thẻ OTP như một dịch_vụ tuỳ chọn . Mỗi tấm thẻ OTP sẽ in sẵn 48 mật_khẩu cấp 1 được tạo ngẫu_nhiên . Người sử_dụng sau khi đăng_ký dịch_vụ trên website sẽ chỉ đăng_nhập game được bằng những mật_khẩu này . Khi thoát khỏi game , mật_khẩu vừa được sử_dụng sẽ tự huỷ sau 1 đến 5 phút do người chơi định sẵn .
+Đại_diện của VinaGame cho_biết dịch_vụ này sẽ vô_hiệu_hoá các phần_mềm trộm_cắp tài_khoản như trojan , key-logger gây ra bởi những mật_khẩu được ghi_nhận đều đã được sử_dụng và đã được tự huỷ . Kẻ_gian không_thể sử_dụng mật_khẩu đó đăng_nhập vào game lấy đồ hoặc đăng_nhập website để thay_đổi thông_tin trong tài_khoản được nữa . Mặt_khác , việc những mật_khẩu được in sẵn trên thẻ hạn_chế được_việc quên mật_khẩu , một tình_trạng không phải hiếm ở các gamer .
+Thẻ OTP cũng tối_ưu được_việc bảo_vệ mật_khẩu cấp 2 bởi khi đăng_ký sử_dụng thẻ này , chức_năng đổi mật_khẩu trên website sẽ tự_động khóa lại . Người chơi không còn phải sử_dụng mật_khẩu cấp 2 để thay_đổi mật_khẩu cấp 1 như trước nên việc bị đánh_cắp mật_khẩu 2 gần_như là không_thể .
+Thẻ mật_khẩu sẽ được bán với giá 10.000 đồng tại các đại_lý phân_phối thẻ của VinaGame .
+Theo B . H . H . Gamethu

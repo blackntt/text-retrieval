@@ -1,0 +1,7 @@
+﻿5 lần xếp hàng cho một lần khám bệnh
+
+Lần thứ hai là để chờ được bác sĩ khám bệnh và cho toa thuốc. Lần thứ ba là để nhập máy vi tính và nhận lại toa thuốc đã được báo giá, trong đó bao gồm tiền công khám, tiền thuốc và tiền các loại xét nghiệm, chụp X-quang (nếu có). Lần thứ tư là để thanh toán viện phí và lần thứ năm là để được nhận thuốc. 
+Trong đó lần xếp hàng thứ nhất là lâu nhất, có người phải ra về vì lý do hết số. Sở dĩ người bệnh phải chờ đợi lâu vì số người đến khám và chữa bệnh quá đông (một phòng khám phải nhận tới 30 -40 bệnh nhân trong một buổi). Mặt khác, việc áp dụng qui trình năm lần xếp hàng như hiện nay cũng là nguyên nhân khiến người bệnh phải chờ đợi lâu. 
+Qua thực tế, chúng tôi đề nghị ngành y tế trang bị cho các bệnh viện máy xếp hàng tự động như một số nơi đã làm. Đề nghị cho người khám chữa bệnh bằng thẻ bảo hiểm y tế được đăng ký khám chữa bệnh ban đầu ở các cơ sở y tế không thuộc khu vực nhà nước nhằm giảm thiểu số người khám chữa bệnh tại các bệnh viện công.
+
+BÙI HIỂN

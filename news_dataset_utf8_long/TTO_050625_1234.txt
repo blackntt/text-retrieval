@@ -1,0 +1,42 @@
+﻿Môn hóa: Để lấy được điểm cao
+
+a) Các vấn đề liên quan đến phản ứng oxy hóa khử: 
+- Quy tắc tính số oxy hóa. 
+- Các mức oxy hóa thường gặp và quy luật biến đổi chúng trên phản ứng của các nguyên tố quan trọng: Cl, Br, I, S, N, Fe, Mn. 
+- Phải biết cân bằng tất cả các phản ứng khi gặp (đặc biệt bằng phương pháp cân bằng điện tử; chú ý các phản ứng của sắt, ôxít sắt, muối sắt). 
+- Phải nắm thật chắc các công thức viết phản ứng gồm: ôxít; kim loại; muối phản ứng với axit; muối phản ứng với muối; kim loại phản ứng với muối; phản ứng nhiệt luyện. 
+b) Các phản ứng của nhóm nguyên tố halogen (Cl, Br, I); S: Chỉ cần đọc để viết được các phản ứng coi như là đủ. 
+c) Cấu tạo nguyên tử - Bảng hệ thống tuần hoàn: 
+- Yêu cầu phải nắm chắc đặc điểm cấu tạo; khái niệm về hạt; mối liên hệ giữa các loại hạt. 
+- Đặc điểm, nguyên tắc xếp nguyên tố; quy luật biến thiên tuần hoàn. 
+- Viết được cấu hình electron; xác định vị trí nguyên tố trên bảng hệ thống tuần hoàn. 
+- Sự tạo thành ion. 
+2. Các vấn đề ở chương trình lớp 11, ở phần này cần xem lại các vấn đề sau: 
+a) Các bài toán về nồng độ dung dịch , độ pH, độ điện ly, hằng số điện ly. 
+b) Nắm chắc bảng tính tan, để xây dựng các phản ứng xảy ra trong dung dịch theo cơ chế trao đổi ion (ví dụ phải nhớ trong dung dịch phản ứng giữa các ion với nhau phải thỏa điều kiện là sinh ra chất kết tủa hay chất bay hơi hoặc chất điện ly yếu). 
+c) Xem lại các quy luật giải toán bằng phương pháp ion: cách viết phương trình phản ứng dạng ion; biết dựa trên phương trình ion giải thích các thí nghiệm mà trên phân tử không giải thích được (ví dụ khi cho Cu vào dung dịch hỗn hợp gồm Cu (NO3)2, HCl thấy có khí NO bay ra hay cho Al vào dung dịch hỗn hợp gồm NaOH, NaNO3, NaNO2, thấy sinh ra hỗn hợp 2 khí có mùi khai;...) 
+d) Các khái niệm axit, bazơ, lưỡng tính, trung tính theo Bronsted: 
+Vì phần này các em thiếu dấu hiệu nhận biết chúng, nên khi gặp các em lúng túng và thường kết luận theo cảm tính, do đó chúng tôi gợi ý nhanh các dấu hiệu nhận biết axit, bazơ, lưỡng tính, trung tính: 
+Các gốc axit của axit mạnh (Cl-, NO-3, SO2-4 ,...) và các gốc bazơ của bazơ mạnh (Na+, Ka+, Ba2+, Ca2+) được xem là trung tính. 
+Các gốc axit của axit yếu (ClO-, NO-2, SO2-3 ,...) được xem là bazơ. 
+Các gốc bazơ của bazơ yếu (NH+4 , Al (H2O)3+) và các gốc axit (có H phân ly thành H+) của axit mạnh được xem là axit. 
+Các gốc axit (có H phân ly thành H+) của axit yếu: lưỡng tính. 
+e) Cách áp dụng các định luật bảo toàn điện tích, định luật bảo toàn khối lượng trong các bài toán dung dịch. 
+f) Xem kỹ các phản ứng của nitơ và hợp chất nitơ; phốt pho (xem sách giáo khoa lớp 11 và các bài tập chương này ở quyển bài tập hóa học lớp 11). 
+g) Các phản ứng của hydrocacbon : 
+- Phản ứng cracking. - Phản ứng đề hydro hóa - Phản ứng hydro hóa.- Phản ứng cộng Br2.- Phản ứng cộng nước của anken, ankin.- Phản ứng của ankin -1 với Ag2O/NH3. - Phản ứng tạo P.E; P.V.C; T.N.T; cao su Buna; cao su. 
+Bu na-S.- Phản ứng của benzen; toluen; styren. 
+3. Các nội dung của chương trình 12: 
+a) Với các hợp chất chứa hữu cơ chứa C,H,O: Chủ yếu xem các phản ứng của rượu; andehyt; axit; este; phenol; gluxit. 
+b) Nhóm nguyên tố C, H, N : Các phản ứng của amin với axit, đặc biệt xem kỹ anilin, chú ý phenylamoniclorua. 
+c) Cuối cùng xem nhóm nguyên tố C, H, O, N gồm các hợp chất quan trọng sau đây: 
+- Axit amin: chủ yếu có phản ứng trung hòa, phản ứng tạo nhóm peptit; phản ứng thủy phân nhóm peptit. 
+- Este của axit amin: có 2 phản ứng chính. 
+- Muối amoni đơn giản (R-COO-NH4) cũng viết 2 phản ứng chính. 
+- Muối của amin đơn giản R-COO-NH3-R’. 
+- Hợp chất Nitro R-(NO2)n: Xem phản ứng điều chế và chỉ có phản ứng tạo amin (phản ứng với [H}). 
+- Các hợp chất đặc biệt: Urê, Caprolactam; tơ nilon - 6,6; tơ caprôn. 
+d) Phần vô cơ: Xem các phản ứng của Al; Fe; Na, K; Mg, Ca. 
+e) Đặc biệt cần để ý thêm phần ăn mòn kim loại; nước cứng; điều chế kim loại; các bài toán áp dụng phản ứng nhiệt luyện, các bài toán kim loại phản ứng với axit; phản ứng với muối.
+
+Theo Người Lao Động

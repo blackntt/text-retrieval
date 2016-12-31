@@ -1,0 +1,9 @@
+﻿ Tự_tạo ảnh Hàn_Quốc
+Ảnh Sticker hay còn gọi_là chụp ảnh kiểu Hàn_Quốc đang rất được các bạn trẻ ưa_thích . Tuy_nhiên không cần đến cửa_hàng để chụp , bạn vẫn có_thể tự làm lấy tại nhà . Hãy tự_tạo cho mình một phong_cách mà người khác không_thể có được bằng phần_mềm Arcsoft_Funhouse .
+Người dùng có_thể download phần_mềm tại trang_web : www.arcsoft.com hoặc mua tại các cửa_hàng phần_mềm .
+Để tạo được một bức ảnh sticker bạn cần qua 4 bước sau :
+1 . Get_Template : Tạo khung nền từ những mẫu có sẵn , hoặc bạn có_thể tự_tạo khung nền từ những bức ảnh bạn có sẵn . Để đưa ảnh này vào chương_trình làm khung ảnh , bạn bấm vào nút New và chọn nút Open để đưa ảnh nền của bạn vào . Vẽ một khung giới_hạn vùng ghép ảnh của bạn sau_này .
+2 . Get photo : Đưa ảnh của bạn vào khung nền đã tạo ở bước 1 . Bạn có_thể chỉnh cho ảnh của mình phù_hợp với khung mà mình vừa vẽ ở bước trước .
+3 . Fine-Tune : Chỉnh_sửa ảnh trong khung . Ở bước này ta có_thể thực_hiện các công_việc như điều_chỉnh kích_thước , di_chuyển ảnh …
+4 . Add_Text : Bước này cho_phép bạn nhập những đoạn text theo ý thích .
+5 . Print_Preview : Cho_phép bạn hiệu chỉnh_trang in trước khi in ảnh của bạn ra giấy . Nếu_không muốn in ra bạn có 2 cách để xử_lý nó . Thứ nhất bạn có_thể lưu lại trong máy_tính , thứ 2 bạn có_thể gửi cho bạn_bè thưởng_thức tác_phẩm của mình qua đường email . Hoa_Đào

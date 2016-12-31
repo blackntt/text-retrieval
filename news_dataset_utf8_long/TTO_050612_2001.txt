@@ -1,0 +1,57 @@
+﻿Thể lệ cuộc thi Viết trò chơi &amp; ứng dụng cho ĐTDĐ
+
+- Tạo 1 sân chơi lành mạnh cho giới trẻ yêu thích công nghệ thông tin. 
+- Phát triển các ứng dụng, trò chơi viết bởi người Việt trên ĐTDĐ. 
+- Tạo cầu nối giữa công nghệ và thị trường. 
+a. Đối tượng dự thi 
+- Là người Việt Nam trong và ngoài nước (bao gồm cả kiều bào Việt Nam ở nước ngoài). 
+- Người dự thi có thể tham gia theo nhóm. 
+- Một người hoặc nhóm thí sinh có thể gửi nhiều trò chơi hoặc ứng dụng. 
+- Hạn nộp bài: 
+Sơ kết: trước ngày 1/9/2005. 
+Chung kết: trước ngày 15/10/2005. 
+b. Sản phẩm dự thi 
+Là trò chơi hoặc ứng dụng hoàn chỉnh, sử dụng được độc lập trên ĐTDĐ và chưa tham dự bất kỳ cuộc thi nào hoặc chưa được thương mại hóa trên thị trường trước thời điểm tham gia cuộc thi “Mobile Games 2005”. 
+- Được viết trên J2ME (MIDP 2.0) và chơi được trên chương trình giả lập ĐTDĐ mà ban tổ chức cung cấp. (SGH- E730). 
+- Toàn bộ giao diện của trò chơi hoặc ứng dụng có thể sử dụng đa ngôn ngữ nhưng bắt buộc phải có tiếng Việt có dấu. 
+- Có dòng chữ: “Việt Nam - Mobile Games 2005” tại màn hình chào. 
+- Nếu trò chơi hoặc ứng dụng phát triển từ mã nguồn mở, phải nói rõ nguồn, giấy phép của mã nguồn mở và các cải tiến so với trò chơi, ứng dụng gốc. Thí sinh phải gửi kèm mã nguồn, nói rõ môi trường chạy của mã này. 
+- Nội dung trò chơi hoặc ứng dụng phù hợp với văn hóa Việt Nam và các qui định của Nhà nước. 
+c. Cách thức tham dự: 
+Bước 1: Hoàn thành bộ hồ sơ gồm (sử dụng font unicode: Times New Roman, 12) 
+- BẢN ĐĂNG KÝ theo mẫu của ban tổ chức. 
+- SẢN PHẨM ghi trong đĩa mềm , CD hoặc E-mail. 
+- MÔ TẢ SẢN PHẨM in trên giấy, E-mail. 
+- DEMO bằng file gif động, kích thước ảnh 176 x 220 pixel. 
+Bước 2: Gửi bộ hồ sơ đến Công ty FPT Mobile 
+- 64 Ngô Quyền, Hà Nội, Tel: 04-9437475; Fax 04-9437357. 
+- 11 Trần Quốc Thảo, Q3, TP.HCM, Tel: 08-9302628; Fax: 08-9302629 
+- Nếu đăng ký qua email: Hoàn thiện BẢN ĐĂNG KÝ, SẢN PHẨM , MÔ TẢ SẢN PHẨM (file pdf), DEMO và gửi tới mobilegames@fpt.com.vn 
+Lưu ý: 
+- Trên phong bì ghi rõ: Dự thi Mobile Games 2005 
+- Tiêu đề email (subject) ghi rõ: Dự thi Mobile Games 2005. 
+- Hồ sơ khi tới nơi sẽ nhận được điện thoại hoặc email thông báo xác nhận của Ban tổ chức. Chúng tôi không chịu trách nhiệm về các thất lạc trên đường đi. 
+- Mẫu đăng ký được in trên các báo hoặc được tải về từ website chính thức của Mobile Games 2005 ( www.samsungmobilegames.com.vn ). 
+- Các hồ sơ dự thi sẽ không được hoàn lại. 
+- Bản demo sẽ được sử dụng trên trang web chính thức để giới thiệu từng game hoặc ứng dụng tới người sử dụng. 
+d. Đánh giá &amp; Trao giải 
+- Các sản phẩm dự thi sẽ được đánh giá theo tiêu chí chấm điểm mà Ban tổ chức đưa ra kèm theo. 
+- Sau 2 tháng phát động, Ban Giám khảo sẽ sơ kết và trao giải giữa kỳ, các trò chơi hoặc ứng dụng được hoặc chưa được giải sơ kết vẫn được quyền tiếp tục nâng cấp để tham dự vòng thi chung kết. 
+- Ban Giám khảo sẽ chọn ra 5 trò chơi và 5 ứng dụng hay nhất để xét trao các giải chung kết của cuộc thi. 
+- Lễ Tổng kết và Trao giải dự kiến được tổ chức vào đầu tháng 11. Thời gian và địa điểm sẽ được công bố sau. 
+- Kết quả cuộc thi sẽ được thông báo công khai trên báo và truyền hình. 
+e. Hội đồng giám khảo 
+- Đại diện Hội tin học, Công ty FPT Mobile, Báo PC World Việt Nam, Báo Tuổi Trẻ, Công ty Samsung Vina, Công ty Thông tin di động, Hiệp hội JavaViệt Nam. 
+- Các chuyên gia công nghệ hàng đầu Việt Nam, đặc biệt trong lĩnh vực công nghệ thông tin. 
+Lưu ý: 
+- Các thí sinh có các ứng dụng &amp; trò chơi tham gia cuộc thi hợp lệ sẽ được BTC tặng ngay 1 Simcard Mobifone trong đó bao gồm: 300.000 VNĐ miễn phí dịch vụ GPRS (trong 1,5 tháng) và 100.000 VNĐ cưới cuộc gọi và SMS. 
+- Ban tổ chức được quyền sử dụng các trò chơi hoặc ứng dụng và các thông tin về tác giả được giải cho các mục đích phi thương mại. 
+- Các trò chơi hoặc ứng dụng dự thi không được dùng vào mục đích thương mại nếu chưa được sự đồng ý của tác giả. 
+- Các thí sinh có trò chơi hoặc ứng dụng lọt vào vòng chung kết có trách nhiệm: 
+Ký cam kết về bản quyền của sản phẩm do chính thí sinh đó chịu trách nhiệm. 
+Bảo vệ sản phẩm, trong đó có phần trình bày về mã nguồn mở và giấy phép của mã nguồn này trước Hội đồng Ban Giám khảo. 
+Các thông tin chính thức của BTC được đăng tải trên website chính thức của cuộc thi - www.samsungmobilegames.com.vn 
+Mọi thắc mắc xin gửi về mobilegames@fpt.com.vn , hoặc mục Hỏi-Đáp trên website chính thức www.samsungmobilegames.com.vn 
+Bản demo các trò chơi hoặc ứng dụng sẽ được cập nhật trên trang web chính thức của cuộc thi hoặc wapsite: http://fptmobile.com.vn/wap
+
+BTC

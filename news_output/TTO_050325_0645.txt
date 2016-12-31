@@ -1,0 +1,5 @@
+﻿ Thế_kỷ 21 - sao còn đọc tốc_độ tàu_hỏa bằng miệng ?
+Trong khi phần kết_nối tốc_độ chỉ để sử_dụng cho hộp_đen khi sự_việc tồi_tệ đã xảy_ra rồi . Tại_sao chúng_ta không thiết_kế một hệ_thống cảnh_báo tốc_độ cho đường_sắt ?
+Về phần nhận_biết địa_điểm tàu , chúng_ta có_thể sử_dụng bộ định vụ qua vệ_tinh ( satellite locator ) và cũng_nên có thêm những cảm_biến hoặc những bản đường đặc_biệt mà camera của máy_vi_tính có_thể đọc được địa_điểm tàu đang đi qua chính_xác hơn . Ngoài_ra , máy_vi_tính sử_dụng trong trường_hợp này phải là loại máy tương_tự như trên máy_bay , không_bao_giờ được phép treo , vì nếu máy_vi_tính treo thì tàu_hỏa gặp họa .
+Là một chuyện gia có kinh_nghiệm về phần_cứng tại Mỹ , theo_dõi những công_nghệ tại VN đang có , tôi tin chắc rằng VN có khả_năng chế_tạo hệ_thống kiểm_soát tốc_độ này vì nếu chúng_ta mua của nước_ngoài thì rất đắt . Nếu ngành đường_sắt cần hỗ_trợ , tôi sẵn_sàng tư_vấn miễn_phí về vấn_đề này .
+Locson @

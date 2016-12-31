@@ -1,0 +1,18 @@
+﻿Để đạt điểm cao môn Toán
+
+Quy tắc vàng khi làm bài là: Từng giây từng phút trong phòng thi và từng 0,25 điểm đều rất quý. 
+
+ Đề thi không quá khó, không quá dễ để phân loại thí sinh (TS), thường có 10 câu, trong đó có 6 câu cơ bản, 3 câu hơi khó một chút và 1 câu khó. Vì vậy, TS cần chú ý vào những kiến thức, dạng bài tập cơ bản. 
+Đặc biệt khi làm bài TS không nên sa đà vào những bài tập quá khó sẽ mất rất nhiều thời gian ; hãy bắt đầu bằng những bài mình có thể làm được; và trong những bài đó lại bắt đầu bằng những bài ngắn nhất để kiếm từng 0,25 điểm một. Quy tắc vàng khi làm bài là: Từng giây từng phút trong phòng thi và từng 0,25 điểm đều rất quý. 
+Yêu cầu của bài làm của TS là: Giải bài tập ngắn nhưng phải đủ và đúng (nhiều TS làm bài 1 điểm, do ẩu chỉ đạt 0,5 điểm). 
+Trong quá trình ôn thi, TS cần luyện tập cho mình những kỹ năng sau: 
+- Trình bày: đặt điều kiện cho bài toán có nghĩa; sau khi giải phải kiểm tra kết quả thu được. 
+- Luyện và học các phương pháp giải cơ bản: giải các dạng phương trình, sử dụng đạo hàm, tìm giá trị lớn nhất, nhỏ nhất... 
+- Sau khi làm nhất thiết phải thử lại các nghiệm xem đúng hay sai. 
+Trong các sách tham khảo đều có các dạng toán cơ bản thí sinh cần học cách giải. Cuốn sách tham khảo đáng tin cậy mà TS cần đọc là “Các phương pháp giải Toán sơ cấp” của Khoa Toán-Cơ-Tin, ĐH Tổng hợp cũ (nay là ĐHKH Tự nhiên, ĐHQG HN) xuất bản. 
+Các nội dung TS cần lưu ý: 
+Đại số: Khảo sát và vẽ đồ thị; giải toán tiếp tuyến; các câu hỏi về cực trị của các dạng đường cong cơ bản phụ thuộc tham số; sử dụng đồ thị; sử dụng đạo hàm giải bài toán cực trị; tìm các nguyên hàm cơ bản; tích phân xác định và tổ hợp; các dạng phương trình, hệ phương trình chứa căn, mũ và lô-ga; bất đẳng thức. 
+Lượng giác: Chứng minh các đẳng thức lượng giác (LG) và các công thức LG trong tam giác; giải các phương trình LG cơ bản. 
+Hình: Hình học giải tích gồm: Đường thẳng , mặt phẳng, đường tròn, mặt cầu, các đường cô-nic; Hình học không gian: Các bài toán song song, vuông góc; các bài toán về tính chất song song, vuông góc trong các khối đa diện (tứ diện, lăng trụ, hộp chữ nhật). 
+Thầy giáo Nguyễn Vũ Lương 
+Chủ nhiệm khối Chuyên Toán-Tin ĐHKH Tự Nhiên, ĐHQG HN Theo Tiền Phong

@@ -1,0 +1,5 @@
+﻿ QUALCOMM gia_tăng sử_dụng chipset UMTS/HSDPA giá rẻ
+Ba mẫu chipset này được thực_hiện trong tháng 5-2006 gồm chipset MSM6245 cho thiết_bị WCDMA/EDGE/GPRS/GSM ( WEDGE ) , chipset MSM6255A cho thiết_bị dòng chính multimedia WEDGE và chipset MSM6260 cho thiết_bị HSDPA đem lại hiệu_quả về mặt chi_phí , đồng_thời hỗ_trợ cho tốc_độ truyền dữ_liệu đến 3,6 Mbps .
+Việc lập mẫu sớm cho dòng giải_pháp tích_hợp này sẽ giúp thực_hiện và phổ_biến thiết_bị UMTS đến thị_trường đại_chúng , thúc_đẩy việc chuyển_đổi người sử_dụng di_động 2G sang 3G và đẩy_mạnh việc đi đầu công_nghệ của các công_ty , bằng cách đưa HSDPA vào những thị_trường chính_thống .
+Alex_Katouzian , Giám_đốc cao_cấp về quản_lý sản_phẩm của QUALCOMM_CDMA Technologies , nói : “ QUALCOMM sẽ giữ nguyên cam_kết bảo_đảm cho sự thành_công cho các đối_tác sản_xuất , bằng cách cung_cấp một thuận_lợi cạnh_tranh về mặt thời_gian đưa ra thị_trường . Điều này rất quan_trọng để thúc_đẩy chuyển_đổi tổng_thể thuê_bao sang 3G . Việc lập mẫu sớm của dòng chipset WCDMA và HSDPA hiệu_quả về mặt chi_phí này chứng_minh cho ưu_điểm liên_tục trong cung_cấp công_nghệ thế_hệ kế_tiếp ” .
+H . N .

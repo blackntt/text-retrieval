@@ -1,0 +1,19 @@
+﻿Thi trắc nghiệm: Cần áp dụng ngay phương pháp hiện đại
+
+Thi trắc nghiệm sẽ thay thế thi viết truyền thống 
+Kể từ năm học tới, môn tiếng Anh sẽ chính thức được đưa vào thi theo phương pháp trắc nghiệm. Tuy nhiên, về cơ bản VN vẫn dự kiến sẽ áp dụng phương pháp trắc nghiệm cổ điển. 
+Trong khi trên thế giới, phương pháp trắc nghiệm hiện đại với lý thuyết đáp ứng câu hỏi (IRT) với công nghệ trắc nghiệm thích ứng nhờ máy tính (CAT) đã được áp dụng rộng rãi, mà thành tựu quan trọng của nó là nâng cao độ chính xác của trắc nghiệm. 
+Lạc hậu 
+Một điểm mốc đáng ghi nhận là vào tháng 7-1996, kỳ thi tuyển ĐH thí điểm bằng phương pháp trắc nghiệm khách quan (TNKQ) đã được tổ chức tại Trường ĐH Đà Lạt. Rất tiếc là từ đó đến nay, các hoạt động liên quan đến khoa học này tiến triển rất chậm, ngay trong các kỳ thi tuyển sinh ĐH với chủ trương "3 chung" của Bộ GD-ĐT cũng chưa hề áp dụng những thành tựu hiện đại của khoa học này, mà một trong những nhược điểm biểu hiện là kết quả phân bố điểm thi lệch rất mạnh và không điều khiển được. 
+Hiện nay vẫn còn nhiều ý kiến khác nhau, áp dụng các kiểu đánh giá khác nhau trong giáo dục và đáng buồn là có ý kiến được đưa ra từ vài nhà giáo dục có tên tuổi nhưng cũng chỉ dựa vào cảm tính, chứ không phải trên những thành tựu hiện đại của khoa học về đo lường. 
+Có thể thấy rõ, khoa học đo lường về giáo dục ở nước ta còn rất lạc hậu, việc áp dụng khoa học này vào thực tiễn hoạt động đánh giá ở nước ta vẫn diễn ra quá chậm chạp.Theo chúng tôi, nguyên nhân chủ yếu là do những người có trách nhiệm trong giáo dục không đủ nhạy cảm để thấy tầm quan trọng của khoa học này và tác động của nó trong giáo dục cũng như trong nhiều lĩnh vực xã hội, để quan tâm tìm hiểu và thúc đẩy sự phát triển của nó. 
+Lựa chọn hiện đại hay cổ điển? 
+Sắp đến, chúng ta sẽ áp dụng khoa học đo lường nào đây, khoa học đo lường cổ điển hay hiện đại cho các kỳ thi quốc gia? Sự chuẩn bị của chúng ta cho đến nay ra sao? Ta có thể và cần phải đi ngay vào áp dụng khoa học hiện đại cho các hoạt động đánh giá, hay dừng lại ở khoa học đo lường cổ điển? 
+Ý kiến của chúng tôi là: Chúng ta có thể và cần phải áp dụng ngay những thành tựu hiện đại của khoa học về đo lường trong giáo dục vào các hoạt động đánh giá, đặc biệt là các kỳ thi quốc gia. Chúng ta cần làm tốt ngay từ đầu, tuy chúng ta tiếp cận với khoa học này khá muộn. Chúng ta có thể, vì đã có những bộ phận đã chuẩn bị và tích lũy từ nhiều năm về khoa học này, rải rác ở các trường ĐH. Vấn đề là các cơ quan chức năng của Nhà nước có muốn tập hợp các chuyên gia đó hay không. 
+Chúng ta cần phải, vì không có lý do gì chúng ta vẫn cứ sử dụng các lý thuyết và công nghệ cổ điển, trong khi đã có sẵn lý thuyết và công nghệ hiện đại. Để triển khai hoạt động đánh giá cho các kỳ thi quốc gia, chỉ cần có một số ít chuyên gia có đủ hiểu biết và có công nghệ, công cụ, còn sự đồng thuận của xã hội thì không khó đạt được - bằng bộ máy tuyên truyền khổng lồ của chúng ta. Chỉ cần các cơ quan có trách nhiệm biết tổ chức và tập hợp. 
+Còn trách nhiệm xây dựng các cơ sở nghiên cứu và đào tạo khoa học về đo lường trong giáo dục một cách bài bản, có lẽ nằm trên vai các trường ĐH lớn trọng điểm của nước ta, trước hết là các trường ĐH sư phạm, mà ĐH Sư phạm Hà Nội phải dẫn đầu. 
+Thi trắc nghiệm sẽ thay thế thi viết truyền thống 
+Trong khoa học đo lường cổ điển, độ khó, độ phân biệt của các câu hỏi (CH) tính được sẽ phụ thuộc vào mẫu thí sinh (TS) được chọn để thử nghiệm và năng lực xác định được của TS phụ thuộc vào đề trắc nghiệm mà TS làm. 
+Với IRT, thành tựu kỳ diệu nhất mà các mô hình toán mang lại là các tham số đặc trưng của CH (liên quan đến độ khó, độ phân biệt, mức độ đoán mò) không phụ thuộc mẫu thử để định cỡ CH (sample-free) và năng lực đo được của TS không phụ thuộc vào bài trắc nghiệm cụ thể (item-free) được lấy từ ngân hàng câu hỏi đã được định cỡ.
+
+GS-TSKH LÂM QUANG THIỆP

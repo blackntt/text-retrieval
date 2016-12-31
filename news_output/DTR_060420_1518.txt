@@ -1,0 +1,9 @@
+﻿ Công_cụ phục_hồi dữ_liệu
+Lỡ xóa dữ_liệu quan_trọng khi dùng máy_tính là chuyện không_thể tránh khỏi với bất_kỳ ai . Giờ_đây , lâm vào hoàn_cảnh này bạn không cần đến những phần_mềm khổng_lồ nữa , chỉ với hai công_cụ tý hon là Smart FAT Recovery và Smart NTFS Recovery thì những gì đã bị vô_tình xóa đi sẽ được lấy lại nhanh_chóng .
+Ưu_điểm của hai tiện_ích này là nhỏ gọn và tốc_độ tìm_kiếm , phục_hồi tập_tin đã xóa là cực nhanh . Hai phần mền này được cung_cấp miễn_phí tại link sau : http : / / www.smartpctools.com .
+1 . FAT Recovery
+Sau khi tải về và cài_đặt bạn kích_hoạt công_cụ từ biểu_tượng trên màn_hình . Giao_diện chính của chương_trình xuất_hiện với 2 mục chính là Browse và Find .
+Browse : Bên trái cửa_sổ là danh_sách các ổ_đĩa tìm thấy trong hệ_thống . Bên phải hiển_thị những tập_tin đã xóa được tìm thấy trong ổ_đĩa tương_ứng . Để phục_hồi tệp nào bạn chỉ việc bấm vào Restore là xong .
+Find : Trong trường_hợp bạn không thấy tệp_tin của mình ở Browse thì lúc này bạn cần đến Find . Bấm chọn Find bạn chỉ cần nhập vào tệp_tin mà bạn muốn tìm và Find . Khi tìm thấy tệp cần giữ lại bạn làm lại thao_tác giống Browse .
+2 . NTFS Recovery
+Việc sử_dụng tiện_ích NTFS Recovery đơn_giản hơn . Giao_diện chính của chương_trình chỉ có một mục chính mà chúng_ta quan_tâm là Find deleted files . Để bắt_đầu quá_trình tìm_kiếm những tệp_tin đã bị xóa , bạn bấm chọn mục này . Cửa_sổ mới hiện ra , bạn bấm nút Find để chương_trình quét toàn_bộ ổ_đĩa đã chọn và liệt_kê những tệp_tin đã bị xóa . Để tìm_kiếm chỉ một tệp_tin đặc_biệt nào_đó , bạn nhập tên của nó trong mục File or mash to find , hoặc bấm nút ( … ) để xác_định nó thuộc định_dạng nào , sau đó bấm Find để bắt_đầu tìm_kiếm . Kết_quả tìm thấy cũng được liệt_kê trong một danh_sách và cách_thức phục_hồi cũng tương_tự như phần trước . Hoa_Đào

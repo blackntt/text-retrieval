@@ -1,0 +1,32 @@
+﻿Netsky “rớt hạng” trong Top virus tháng 6
+
+Lần đầu tiên kể từ năm 2004 virus Netsky.q bị “ẵm” mất vị trí đầu bảng trong danh sách 20 biến thể nguy hiểm nhất trong 30 ngày qua do hãng bảo mật Kaspersky Lab (Nga) bình chọn. Còn Nyxem.e quay trở lại “chiến trường” sau nhiều tháng biến mất. 
+ Virus Netsky.q, là sâu phát tán qua e-mail được phát hiện lần đầu tiên từ năm 2004, và biến thể Netsky.t đã phát tán mạnh mẽ từ đầu năm 2006. Tuy nhiên, trong tháng 6 vừa rồi, cả hai biến thể này lại “rớt hạng” thê thảm, Netsky.q tụt xuống vị trí thứ 15 còn Netsky.t “khiêm tốn” ở thứ tự 20. 
+Kaspersky cho biết rất có thể hai biến thể này sẽ biến mất khỏi danh sách 20 virus nguy hiểm của tháng 7. 
+Một bất ngờ khác nữa trong bảng “tổng sắp” lần này là biến thể Nyxem.e “tái xuất giang hồ”, chiếm 17%, đứng ở vị trí thứ 2 trong số những virus “đáng ghét” nhất. Loại sâu, có kiểu tấn công theo lịch là cứ ngày thứ 3 hàng tháng, Nyxem.e lại xóa các file trên máy tính đã bị nhiễm, đã biến mất trong Top 20 virus nguy hiểm của Kaspersky trong vài tháng qua. 
+”Rất nhiều virus đạt đến đỉnh cao phong độ sau nhiều tháng xuất hiện. Và Nyxem.e là một ví dụ điển hình”, Alexander Gostev, nhà phân tích virus của Kaspersky, nói. 
+Theo Kaspersky, sự tăng đột ngột biến thể Nyxem.e có thể là do các biến thể Netsky “lui về hậu trường”. Nyxem.e đã đẩy sâu LovGate.w lên vị trí thứ 3. 
+20 virus nguy hiểm nhất của tháng 6/2006 (trong ngoặc là tỷ lệ thông báo mà Kaspersky nhận được) 
+1. Mytob.c (29,01%) 
+2. Nyxem.e (16,70%) 
+3. LovGate.w (8,64%) 
+4. NetSky.b (5,55%) 
+5. LovGate.ad (4,02%) 
+6. Mytob.t (2,92%) 
+7. Mytob.q (2,75%) 
+8. Mytob.u (2,07%) 
+9. Mytob.x (1,92%) 
+10. Mytob.a (1,86%) 
+11. NetSky.y (1,76%) 
+12. NetSky.x (1,58%) 
+13. Mytob.v (1,51%) 
+14. Mytob.r (1,42%) 
+15. NetSky.q (1,25%) 
+16. Mytob.w (1,11%) 
+17 NetSky.af (0,92%) 
+18. Mytob.gen (0,88%) 
+19. Mytob.bx (0,83%) 
+20. NetSky.t (0,82%) 
+Các loại khác 12,48% 
+N.H 
+Theo VNuNet

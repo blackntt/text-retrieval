@@ -1,0 +1,10 @@
+﻿Microsoft và Google vẫn cạnh tranh về trình duyệt
+
+Các quan chức cao cấp của Microsoft và Yahoo tuyên bố những lời chỉ trích của Google về việc Microsoft tích hợp công cụ tìm kiếm vào trình duyệt IE 7 là vô lý vì Google cũng đã từng làm những điều tương tự. 
+ Những ý kiến bất bình này có thể sẽ ảnh hưởng tới kết luận cuối cùng của các nhà chức trách châu Âu và Mỹ về sự tranh chấp giữa Microsoft và Google. 
+Theo Google, Microsoft đã cố gắng làm các đối thủ cạnh tranh khó thay thế công cụ tìm kiếm của hãng này bằng công cụ tìm kiếm của họ. Đặc biệt với những người dùng ít kinh nghiệm thì điều đó tương đương với việc một công cụ tìm kiếm khác không thể tích hợp vào trình duyệt IE 7. Thậm chí với những người sử dụng có kinh nghiệm, thì việc phải thực hiện tới bốn bước để chuyển đổi giữa công cụ tìm kiếm của Microsoft và một công cụ tìm kiếm họ tự chọn cũng là một việc hết sức khó khăn. 
+Ông Marissa Meyer, Phó chủ tịch phụ trách các phần mềm tìm kiếm của Google trao đổi với tờ New York Times : “Chúng tôi cho rằng Microsoft không có quyền chọn mặc định công cụ tìm kiếm tích hợp trong trình duyệt, mà nên để người dùng tự chọn”. 
+Hiện tại Yahoo và Microsoft đang trả đũa Google bằng một lời cáo buộc rằng Google cũng có đã có những động thái độc quyền tương tự. 
+Một thành viên của nhóm phát triển kỹ thuật của Yahoo, Jeremy Zawodny, gần đây đã chỉ trích Google ký thoả thuận với hãng Dell để “Google hoá” trình duyệt chuẩn trong một số dòng máy Dell. Ngoài ra, Google cũng là công cụ tìm kiếm mặc định của Firefox và Opera giống như MSN là công cụ mặc định của IE 7. “Google đã trả tiền để có được những vị trí đó”, Zawodny nói. “Và bây giờ họ đang lo lắng vì họ không thể làm những điều tương tự với Internet Explorer.” 
+Ditto Don Dodge, Giám đốc kinh doanh của nhóm các sản phẩm mũi nhọn tại Microsoft, nói: “Google đang lên tiếng chỉ trích Microsoft về những điều họ đã làm với Firefox. Nên nhớ, Google đã thuê những người đứng đầu của Firefox và trả tiền cho Mozilla để có được ảnh hưởng to lớn đối với các trình duyệt đó”. 
+Đại diện của Google đã không đưa ra lời bình luận ngay lập tức. Theo AI VietNam/Eweek

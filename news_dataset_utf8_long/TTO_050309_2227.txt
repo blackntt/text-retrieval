@@ -1,0 +1,7 @@
+﻿Chế tạo thành cộng kính hiển vi cao cấp
+
+SPM là loại kính hiển vi dùng nguyên lí quét một mũi dò nguyên tử trên một bề mặt và có thể quan sát ảnh với độ phóng đại từ hàng nghìn cho đến vài triệu lần đối với mọi chất liệu như kim loại, bán dẫn, sứ, hữu cơ... nên rất cần thiết trong ngành công nghệ nano, sinh học phân tử. 
+Ông Hoài cho biết các nhà khoa học của viện đã triển khai nghiên cứu đề tài từ mười năm nay nhằm chế tạo thiết bị cung cấp cho các phòng thí nghiệm tại VN, đặc biệt là những phòng thí nghiệm công nghệ cao, bởi nếu mua một thiết bị nhập ngoại sẽ phải đầu tư kinh phí hàng trăm nghìn USD, trong khi giá mỗi chiếc SPM do viện chế tạo có giá bán rẻ hơn nhiều lần. 
+Thiết bị SPM do viện chế tạo có thể làm việc trong điều kiện môi trường bình thường tại các phòng thí nghiệm.
+
+KHIẾT HƯNG

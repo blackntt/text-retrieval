@@ -1,0 +1,8 @@
+﻿Làm đẹp cho các bức ảnh chụp từ "Alô"
+
+Sau khi tải về và tiến hành cài đặt xong và chạy nó thì giao diện của chương trình sẽ xuất hiện. Bạn bấm vào nút Open để mở file ảnh cần chỉnh sửa ra và khi đã có ảnh xong rồi thì bạn có thể sang bước thứ hai là chọn các hiệu ứng làm đẹp cho ảnh gồm có: 
+Fine digicam noise : làm mịn ảnh; Phone Camera noise: làm mịn ảnh và giảm các vệt li ti trên ảnh; Harsh Jpeg arfifacts: làm ảnh Jpeg được tối ưu theo chuẩn; Digital zoom artifacts: là làm rõ ảnh chụp khi Zoom; Photo 2x/4x Zoom và Graphic 2x/4x Zoom là phóng to ảnh lên 2/4 lần mà chất lượng đồ họa vẫn giữ nguyên; Final resolution là độ phân giải khi xuất ảnh ra… 
+Tiếp đó bạn nhấn vào Preview để cho chương trình xử lí và cho bạn xem kết quả và nếu đã ưng ý thì bạn nhấn Apply để hoàn tất công việc và nhấn Save để lưu ảnh. 
+Clarific 1.3 có dung lượng 1.6 MB, tương thích Windows 98/ME/NT/2000/XP, tải về dùng thử tại: http://www.snapfiles.com/php/download.php?id=108642 .
+
+CHÁNH TRUNG

@@ -1,0 +1,8 @@
+﻿ Nhân_viên quản_trị mạng cần tiêu_chuẩn gì ?
+Hiện_nay tôi đang là sinh_viên năm cuối ngành CNTT , tôi muốn trở_thành một nhân_viên quản_trị mạng . Xin hỏi tôi phải có những kỹ_năng gì , về kỹ_thuật , cũng_như những kỹ_năng không thuộc về kỹ_thuật .
+Mức lương trung_bình hiện_tại của một nhân_viên quản_trị mạng là bao_nhiêu ? Xin chân_thành cảm_ơn ! ( greenfuture _ n25 ... @ )
+- Trả_lời của ông Huỳnh_Văn_Thôi , Trưởng_phòng Tư_vấn Nhân_sự , Công_ty HR Việt_Nam :
+Để_trở thành một nhân_viên quản_trị mạng , bạn cần phải học qua về mạng , ví_dụ như : mạng nội_bộ ( LAN ) và diện rộng ( WAN ) , hiểu các layer và các protocols , hệ_điều_hành , ngoài_ra bạn cũng cần nắm sơ qua về ngôn_ngữ_lập_trình hệ_thống .
+Bởi_vì với công_việc về quản_trị mạng , nhiệm_vụ của bạn sẽ phải thiết_lập các thông_số mạng , thiết_lập hệ_thống mạng , duy_trì hiệu_suất vận_hành mạng bằng cách theo_dõi , phân_tích và tinh_chỉnh quá_trình vận_hành , tìm và sửa các trục_trặc mạng , thông_báo về các hỏng_hóc với nhà_cung_cấp thiết_bị mạng , giữ an_ninh mạng và bảo_mật thông_tin …
+Và với tính_chất công_việc này , bạn có_thể trau_dồi thêm các kỹ_năng như khả_năng giải_quyết vấn_đề nhanh_chóng , làm_việc có kế_hoạch , biết cách lập chiến_lược , đam_mê kỹ_thuật .
+Mức lương cơ_bản cho một sinh_viên mới ra trường đảm_nhận ở vị_trí này thường từ 2 đến 2,5 triệu VND . Và cơ_hội để nâng cao mức lương này khi bạn đã thực_sự chuyên_sâu ở công_việc quản_trị mạng sẽ khá cao . Theo Tuổi_Trẻ

@@ -1,0 +1,17 @@
+﻿Bảo mật Microsoft tháng 6: Nghiêm trọng lỗi thực thi từ xa
+
+Hôm qua, hãng phần mềm Mỹ phát hành 21 bản bít lỗi phần mềm, trong đó có 2 lỗ hổng nghiêm trọng cho phép kẻ gian chạy mã nguy hiểm trên máy tính nạn nhân. Đây là tháng nâng cấp nhiều bản sửa lỗi nhất từ trước đến nay của Microsoft. 
+ 
+Microsoft tung ra 12 bản nâng cấp định kỳ hàng tháng (vào ngày thứ Ba tuần thứ 2 của tháng). Tám trong số khiếm khuyết được đánh giá là “nghiêm trọng” tác động đến Windows, Internet Explorer, Word, PowerPoint và Exchange Server. 
+“Chưa bao giờ bản nâng cấp của Microsoft phải lên đến số 21 và chưa bao giờ hãng này “dính” 19 lỗ hổng có nguy cơ bị tấn công từ xa”, Amol Sarwate, Giám đốc phòng quản lý khiếm khuyết an ninh của công ty Qualys (Mỹ), nói. 
+Bản tin quan trọng nhất MS06-025 sửa lỗi chạy và truy cập từ xa trên Windows. Tin tặc lợi dụng lỗ hổng này bằng cách khai thác 2 dịch vụ nghe nhìn chạy trên máy host và nắm bắt giao thông trên các cổng thường xuyên được sử dụng, theo Jonathan Bitle, Giám đốc sản phẩm cao cấp của công ty bảo mật Qualys. 
+“Trong khi rất nhiều lỗi thực thi từ xa đều đòi hỏi sự tương tác của người dùng thì những lỗi nghiêm trọng trong Windows không cần đến điều này. Người dùng không click vào mọt đường link hoặc một file đính kèm thì hacker cũng có thể đột nhập vào hệ thống”. 
+Lỗi chạy và truy cập từ xa này ảnh hưởng nghiêm trọng đến những máy tính chạy hệ điều hành Windows 2000, Windows XP SP1, 2 và Windows Server 2003 SP1. 
+Bản tin MS06-029 giải quyết lỗi trong Microsoft Exchange Server chạy chương trình Outlook Web Access. “Nếu người dùng nhận e-mail trong Outlook Web Access và họ chỉ cần mở e-mail trong IE thì cũng đủ để script của lá thư bị thực thi từ xa”, Sarwate cho biết. 
+“Một số khiếm khuyết nghiêm trọng tác động đến trình duyệt IE, ảnh hưởng đến Media Player, ART imaging và JScript”, Chris Andrew, Phó giám đốc công nghệ an ninh của PatchLink, cho biết. “Các công ty cần phải vá toàn bộ máy tính”. 
+4 bản nâng cấp quan trọng bít lỗi cho phép thực thi mã từ xa trong tất cả các phiên bản của Windows. Và Microsoft cũng tung ra một bản nâng cấp tổng thể cho Internet Explorer ( MS06-021 ). Bản tin MS06-024 vá lỗi trong Windows Media Player các phiên bản 7.1, 9, 10. Ngoài ra còn có các bản sửa lỗi cho Microsoft Jscript ( MS06-023 ) và ART image rendering ( MS06-022 ) 
+Một bản tin quan trọng trong Windows MS06-026, liên quan đến các lỗi trong chương trình đồ họa. Lỗi này ảnh hưởng đến Windows 98, Windows 98 Second Edition (SE) và Windows Millennium Edition (ME). 
+2 bản nâng cấp cho Office được đánh giá là nghiêm trọng nhất. Bản tin MS06-027 sửa lỗi trong Word. Lỗi này tác động đến Microsoft Works. Bản tin MS06-028 bít lỗ hổng trong PowerPoint là bản nâng cấp phiên bản được Microsoft tung ra trước đó. 
+Microsoft cũng phát hành 1 bản tin quan trọng MS06-030 , vá lỗi nghiêm trọng trong Server Message Block của Windows, cho phép tin tặc nâng quyền truy cập hệ thống của chúng. 
+Hai bản tin cuối cùng sửa lỗi có nguy cơ “trung bình” trong RPC Mutual Authentication ( MS06-031 ) và TCP/IP ( MS06-032 ) trong Windows. 
+N.H Theo CNet

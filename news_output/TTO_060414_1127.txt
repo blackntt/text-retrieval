@@ -1,0 +1,5 @@
+﻿ Kết_thúc hỗ_trợ Windows 98 , 98SE và ME
+Microsoft cho rằng , các hệ_điều_hành này đã quá lỗi_thời và đương_nhiên , có quá nhiều sơ_hở về bảo_mật ( so với thời_điểm hiện_tại ) gây nguy_hại cho khách_hàng . Đó là lý_do mà Microsoft ngừng hỗ_trợ cho những hệ_điều_hành này và đưa ra lời khuyên khách_hàng nên nâng_cấp lên các hệ_điều_hành cao hơn , như Windows XP chẳng_hạn .
+Windows 98 và Windows ME là những hệ_điều_hành rất ít thấy trong môi_trường doanh_nghiệp bởi_vì độ an_toàn thấp của nó . Theo những khảo_sát của Jupiter_Research , thì chỉ có 16% máy_tính của các hệ_thống doanh_nghiệp sử_dụng Windows 98 và 98 SE , tỷ_lệ này là 6% đối_với Windows ME .
+Đây cũng là một trong những động_thái mà Microsoft chuẩn_bị cho sự ra_đời chính_thức của Windows_Vista . Dự_đoán rất nhiều máy_tính trong hệ doanh_nghiệp hiện đang sử_dụng Windows 98 sẽ đồng_loạt nâng_cấp lên Windows_Vista vì tính an_toàn và thân_thiện của nó .
+TRẦN_HUY ( theo Yahoo ! News )

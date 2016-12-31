@@ -1,0 +1,9 @@
+﻿ Chọn đề_án của Cty_Võ_Trọng_Nghĩa và C+ A
+Đây là một công_trình kiến_trúc được thiết_kế theo hình_thức khí_động_học thân_thiện với môi_trường . Trong đề_án , đặc_trưng của trường ĐH Kiến_trúc được thể_hiện qua các dây_chuyền hoạt_động , dòng chuyển_động của gió và dòng_chảy của con_người ; kết_hợp hài_hòa giữa hai mảng đề_tài : kỹ_thuật xây_dựng và môi_trường tự_nhiên , cụ_thể sử_dụng năng_lượng gió để giảm_thiểu việc sử_dụng máy_điều_hòa . Công_trình cũng coi_trọng việc sử_dụng các kiến_trúc thấp_tầng , các phương_pháp thi_công và các loại vật_liệu sẳn có tại VN để giảm_thiểu giá công_trình ...
+Mô_hình phương_án trường ĐH Kiến_trúc ( mới )
+Một phối_cảnh nhìn từ trên cao
+Cuộc_thi quốc_tế “ Phương_án thiết_kế trường ĐH Kiến_trúc TP.HCM đã nhận được 11 đề_án của các công_ty từ năm nước Pháp , Đức , Nhật , Singapore và VN , ba đề_án được trao giải nhì đã tiếp_tục bước vào vòng thi chọn phương_án xây_dựng . Đề_án được chọn của Công_ty Võ_Trọng_Nghĩa và Công_ty C+ A cũng vừa được tạp_chí kiến_trúc hàng_đầu của Nhật JA chọn giới_thiệu vào tháng 3-2006 .
+Mô_hình trườc ĐH Kiến_trúc mới nằm trong khuôn_viên gần bờ sông Sài_Gòn
+Hình_thể hiện tốc_độ gió dựa vào kết_quả giải_tích bằng máy_tính
+Phối_cảnh một góc phòng chức_năng trong đề_án Trường ĐH Kiến_trúc TP.HCM sẽ dược xây_dựng mới với diện_tích 36,73 ha tại khu dân_cư Phước_Thiện , quận 9 , TP.HCM theo đúng phương_án thiết_kế được chọn .
+Được biết , cuối tháng trước , liên_danh hai công_ty này cũng đã giành được giải A cuộc_thi tuyển_chọn phương_án thiết_kế kiến_trúc Tòa nhà_văn_hóa - nghiệp_vụ Báo_Sài_Gòn_Giải_Phóng ( TP.HCM ) .

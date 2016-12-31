@@ -1,0 +1,7 @@
+﻿BT Group và Yahoo cung cấp dịch vụ thoại IM
+
+Dịch vụ với có tên "BT Communicator with Yahoo Messenger" (Giao tiếp BT với YM), sử dụng công nghệ VoIP (Voice over IP) để truyền các lời thoại qua mạng Internet. Cũng theo BT Group và Yahoo, qua năm tới hai hãng này sẽ tích hợp thêm khả năng video vào dịch vụ mới, cho phép hai người chat với nhau có thể nhìn thấy nhau. 
+Theo đại diện của BT Group, dịch vụ mới của hãng này sẽ giúp người dùng chuyển đổi từ giao tiếp bằng IM sang giao tiếp bằng thoại, cũng như cung cấp những tiện ích và phương pháp giao tiếp mới qua mạng Internet. 
+Hiện công nghệ VoIP đang được xem là "không thể thiếu" cho các cuộc giao tiếp qua mạng Internet. Tính năng này đang được triển khai rộng rãi tại Mỹ, châu Âu và một số nước châu Á có mạng băng rộng.
+
+Theo VDC

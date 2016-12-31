@@ -1,0 +1,10 @@
+﻿Microsoft : "Chat với... TV"
+
+Gã khổng lồ phần mềm vừa đệ đơn xin cấp bằng sáng chế cho một công nghệ thoạt nghe đã thấy thú vị: Biến mọi màn hình TV thành cửa sổ chat. 
+Với hệ thống "Chat TV tương tác đa chế độ", Microsoft đã vẽ ra viễn cảnh về một thế giới kỳ diệu, nơi mà đang xem TV, bạn cũng có thể chọn lựa các đường link hiển thị trên màn hình để truy cập vào nhiều ứng dụng khác nhau. Lấy thí dụ, bạn có thể vào một chat room để bàn tán về chương trình đang trình chiếu. 
+Nói một cách khác, máy tính đã gặp gỡ với truyền hình. 
+Màn hình TV và giao diện chat sẽ xuất hiện thành các khung hình khác nhau trên cùng một màn hình, do đó, bạn sẽ không phải cố chú ý vào cả hai màn hình cùng lúc. 
+Điều thú vị hơn ở bằng sáng chế này là nó hoàn toàn khả thi. Ý tưởng này không quá táo bạo hay cách mạng, và chỉ còn là vấn đề thời gian trước khi Microsoft có thể thổi sức sống vào đó, biến nó thành sản phẩm bằng da bằng thịt. 
+Giới phân tích cho rằng trong tương lai, các phiên bản Windows Media Center sẽ được tích hợp công nghệ này, và khi đó, tất cả chúng ta sẽ được tận hưởng sự tiện ích từ nó. Tuy nhiên, nếu làm không khéo, đây rất có thể cũng là một cơn ác mộng, khi bạn đang xem TV mà ai đó cứ cố chen ngang đòi nói chuyện với bạn. Sẽ bực mình đấy chứ, phải không?
+
+Theo VNN

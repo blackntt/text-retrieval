@@ -1,0 +1,7 @@
+﻿Trojan mới qua mặt bàn phím ảo
+
+Con trojan PWSteal-Bancos-Q được tạo nên nhằm mục đích tấn công vào các tổ chức ngân hàng tài chính online, nhưng hiện trojan PWSteal-Bancos-Q mới chỉ xuất hiện tại Brazil và có tốc độ lây nhiễm không nhanh. Nhưng PC-Tools vẫn cảnh báo rằng sớm muộn gì rồi PWSteal-Bancos-Q và các biến thể của nó cũng sẽ xuất hiện trên toàn cầu. 
+Khả năng độc đáo nhất của trojan PWSteal-Bancos-Q là ghi nhận được các thao tác nhấp chuột của người dùng và sau đó sẽ gửi toàn bộ các thông tin này về cho chủ nhân của nó. Đây được xem là chiêu thức cực kỳ cao tay để qua mặt việc sử dụng các bàn phím ảo mà các tổ chức tài chính trực tuyến đang tích cực áp dụng. Qua việc ghi nhận các vị trí nhấp chuột, những kẻ đã tung trojan có thể đoán được khá chính xác vị trí các ký tự và số mà người dùng đã thao tác trên bàn phím ảo. 
+Sự xuất hiện của kỹ thuật siêu cấp này đã làm cho bức tranh bảo mật toàn cầu ngày càng xám xịt hơn.
+
+HOÀNG HẢI (Theo Symantec, Secunia)

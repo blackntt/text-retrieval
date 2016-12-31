@@ -1,0 +1,59 @@
+﻿ Điểm_chuẩn NV2 các trường ĐH thuộc hàng " top "
+Đây là điểm trúng_tuyển đợt 2 đối_với học_sinh phổ_thông - khu_vực 3 . Mỗi nhóm đối_tượng ưu_tiên cách nhau 1 điểm , mỗi khu_vực cách nhau 0.5 điểm .
+& gt ; & gt ; Trúng_tuyển NV2 vào hệ ĐH Trường ĐH Bách_khoa TP.HCM
+& gt ; & gt ; Trúng_tuyển NV2 vào hệ CĐ Trường ĐH Bách_khoa TP.HCM
+& gt ; & gt ; Trúng_tuyển NV2 vào Trường ĐHDL Hùng_Vương
+& gt ; & gt ; Trúng_tuyển NV2 vào Trường ĐH Sư_phạm kỹ_thuật TP.HCM
+& gt ; & gt ; Trúng_tuyển NV2 vào Trường ĐH Cần_Thơ
+& gt ; & gt ; Trúng_tuyển NV2 vào Trường ĐHDL Văn_Lang
+& gt ; & gt ; Trúng_tuyển NV2 vào Trường CĐ Kinh_tế TP.HCM
+Trường ĐH Khoa_học_tự_nhiên ( ĐH Quốc_gia Hà_Nội )
+Các ngành Khí_tượng - Thủy_văn - Hải_dương_học , Địa_lý , Địa_chất : 22 điểm ; Địa kỹ_thuật - Địa môi_trường : 23 điểm ; Công_nghệ hạt_nhân : 24.5 điểm ; Toán cơ , Địa_chính : 25 điểm ; Toán - Tin ứng_dụng : 26 điểm .
+Trường ĐH Khoa_học_xã_hội & amp ; nhân_văn ( ĐH Quốc_gia Hà_Nội )
+Khối C : ngành Tâm_lý : 20 điểm ; Triết_học : 22 điểm ; Thông_tin - Thư_viện : 20.5 điểm .
+Khối D : ngành Hán_Nôm : 18.5 điểm ; Triết_học , Văn_học , Ngôn_ngữ , Thông_tin - Thư_viện : 19 điểm ; Tâm_lý : 19.5 điểm ; Đông phương học : 20.5 điểm ; Quốc_tế học : 21.5 điểm .
+Trường ĐH Ngoại_ngữ ( ĐH Quốc_gia Hà_Nội )
+Khối D1 : ngành Tiếng_Đức : 26 điểm ; Tiếng_Nga : 26.5 điểm ; Tiếng_Hàn_Quốc : 27.5 điểm ; Tiếng_Anh : 28 điểm .
+Khối D2 : ngành Tiếng_Nga : 26.5 điểm .
+Khối D3 : ngành Tiếng_Pháp : 28 điểm .
+Trường ĐH Công_nghệ ( ĐH Quốc_gia Hà_Nội )
+Ngành Cơ học kỹ_thuật : 25 điểm ; Vật_lý kỹ_thuật : 25.5 điểm .
+Khoa_Kinh tế ( ĐH Quốc_gia Hà_Nội )
+Kinh_tế chính_trị : khối A : 24.5 điểm , khối D : 21 điểm .
+Khoa_Luật ( ĐH Quốc_gia Hà_Nội )
+Khối A , 24.5 điểm : ngành Luật_học , Luật kinh_doanh .
+Khối D , 22.5 điểm : ngành Luật_học .
+Trường ĐH Khoa_học_xã_hội & amp ; nhân_văn ( ĐH Quốc_gia TP.HCM )
+Khối C : ngành Giáo_dục_học : 16 điểm ; Thư_viện - Thông_tin , Lưu_trữ học : 16.5 điểm ; Nhân học : 17.5 điểm ; Địa_lý , Xã_hội_học : 18 điểm ; Lịch_sử : 18.5 điểm ; Ngữ_văn , Triết_học : 19 điểm ; Báo_chí : 19.5 điểm ;
+Khối D1 : ngành Nhân học , Triết_học , Thư_viện - Thông_tin , Giáo_dục_học , Lưu_trữ học : 16 điểm ; Địa_lý , Xã_hội_học , Ngữ_văn Đức : 16.5 điểm ; Ngữ_văn , Song_ngữ Nga - Anh , Ngữ_văn Pháp : 17.5 điểm ; Ngữ_văn Trung : 18.5 điểm ; Đông phương học , Ngữ_văn Anh , Quan_hệ Quốc_tế : 19 điểm .
+Khối D2 , 3,4 : ngành Song_ngữ Nga - Anh : 17 điểm ; Ngữ_văn Pháp , Ngữ_văn Trung : 19 điểm .
+Khoa_Kinh tế ( ĐH Quốc_gia TP.HCM )
+Khối A : ngành Kinh_tế công_cộng : 19.5 điểm ; Kinh_tế_học , Luật kinh_doanh , Luật thương_mại quốc_tế : 21 điểm ; Hệ_thống thông_tin quản_lý : 21.5 điểm .
+Khối D : ngành Kinh_tế công_cộng : 19.5 điểm ; Kinh_tế_học , Luật kinh_doanh , Luật thương_mại quốc_tế : 21 điểm .
+Trường ĐH Bách_khoa ( ĐH Quốc_gia TP.HCM )
+Các ngành Trắc_địa - Địa_chính : 22.5 điểm ; Kỹ_thuật địa_chất : 23 điểm ; Kỹ_thuật hệ_thống công_nghiệp : 24 điểm ; Kỹ_thuật nhiệt : 24.5 điểm ; Công_nghệ vật_liệu : 25.5 điểm .
+Hệ CĐ ngành Bảo_dưỡng công_nghiệp ( C65-QSB ) . Tất_cả thí_sinh đã đăng_ký NV1 hoặc nộp đơn đăng_ký NV2 vào ngành C65-QSB hợp_lệ , có tổng điểm thi từ 15.0 không có bài thi bị điểm không ( chưa trúng_tuyển vào hệ ĐH ) . Số trúng_tuyển diện này 99 thí_sinh .
+Các thí_sinh đã đăng_ký NV2 vào hệ ĐH ( có tổng điểm từ 19.0 ) chưa trúng_tuyển và có đăng_ký NV chuyển ngành vào hệ CĐ Trường ĐH Bách_khoa ngành C65-QSB . Số trúng_tuyển theo diện này là 172 thí_sinh .
+Trường ĐH Quốc_tế ( ĐH Quốc_gia TP.HCM )
+Ngành Công nghệ thông_tin : Chương_trình do Trường ĐH Quốc_tế cấp : 19 điểm ( điểm xét tuyển NV3 : 19 điểm , 25 chỉ_tiêu ) ; Chương_trình liên_kết với Trường ĐH Nottingham : 18.5 điểm ( NV3 : 18.5 điểm , 30 chỉ_tiêu ) ; Chương_trình liên_kết với Trường ĐH West_England : 18 điểm ( NV3 : 18 điểm , 35 chỉ_tiêu ) .
+Ngành Công nghệ sinh_học : Chương_trình do Trường ĐH Quốc_tế cấp : khối A : 20 điểm , khối B : 20.5 điểm ; Chương_trình liên_kết với Trường ĐH Nottingham : khối A : 19 điểm , khối B : 18 điểm .
+Ngành Điện tử - Viễn_thông : Chương_trình do Trường ĐH Quốc_tế cấp : 18.5 điểm ( NV3 : 18.5 điểm , 25 chỉ_tiêu ) ; Chương_trình liên_kết với Trường ĐH Nottingham : 18 điểm ( NV3 : 18 điểm , 30 chỉ_tiêu ) ; Chương_trình liên_kết với Trường ĐH West_England : 18 điểm ( NV3 : 18 điểm , 45 chỉ_tiêu ) .
+Ngành Quản trị kinh_doanh : Chương_trình do Trường ĐH Quốc_tế cấp : 22 điểm ( NV3 : 22 điểm , 40 chỉ_tiêu ) ; Chương_trình liên_kết với Trường ĐH Nottingham : 19.5 điểm ; Chương_trình liên_kết với Trường ĐH West_England : 19 điểm ( NV3 : 19 điểm , 20 chỉ_tiêu ) .
+Học_viện Kỹ_thuật Quân_sự
+Khối A : cả bảy ngành đào_tạo hệ dân_sự : 24 điểm . Trường tuyển chung thí_sinh khối A , vào học sau một năm mới phân ngành .
+Học_viện Kỹ_thuật mật_mã
+Khối A : ngành An_toàn thông_tin : 24 điểm .
+Trường ĐH Điều_dưỡng Nam_Định
+Mức điểm trúng_tuyển NV2 hệ ĐH là 23.5 điểm . Hệ CĐ là 19 điểm .
+Trường ĐH Mỏ - địa_chất
+Khối A : ngành Địa_chất : 24.5 điểm .
+Trường ĐH Hùng_Vương ( Phú_Thọ )
+Khối A : ngành Sư_phạm Kỹ_thuật tổng_hợp : 17 điểm ; Tin_học : 19 điểm ; Quản_trị kinh_doanh : 20 điểm ; Kế_toán doanh_nghiệp : 22.5 điểm ;
+Khối B : ngành Trồng_trọt : 16 điểm ; Nông_lâm kết_hợp : 17 điểm .
+Khối D1 : ngành Sư_phạm tiếng Anh : 25 điểm ( tiếng Anh nhân hệ_số 2 ) .
+Trường ĐHDL Lương_Thế_Vinh
+Khối A , 15 điểm : các ngành Tin_học , Xây_dựng , Cơ_khí , Điện , Nuôi_trồng thủy_sản , Bảo_vệ thực_vật , Thú_y , Kế_toán , Quản_trị kinh_doanh .
+Khối B , 15 điểm : các ngành Nuôi_trồng thủy_sản , Bảo_vệ thực_vật , Thú_y , Kế_toán , Quản_trị kinh_doanh .
+Khối D , 14 điểm : các ngành Nuôi_trồng thủy_sản , Bảo_vệ thực_vật , Thú_y , Kế_toán , Quản_trị kinh_doanh , Tiếng_Anh ( môn Ngoại_ngữ chưa nhân hệ_số ) .
+Hệ CĐ : ngành Kế_toán khối khối A và B : 12 điểm , khối D : 11 điểm ; ngành Xây_dựng : 12 điểm .
+NHÓM_PHÓNG_VIÊN_TTO

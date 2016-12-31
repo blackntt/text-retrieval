@@ -1,0 +1,33 @@
+﻿Nhóm iCMS xin lỗi và đề nghị trả lời phỏng vấn offline
+
+Trả lời chúng tôi về cách giải quyết sau khi iCMS đã thừa nhận sao chép sản phẩm CMSNET, Ban tố chức cuộc thi Trí Tuệ VN (BTC TTVN) cho biết: Việc nhóm thí sinh iCMs sử dụng nền tảng lý thuyết và mã nguồn mẫu mang tên CMSNET trong sản phẩm dự thi TTVN 2003 mà không xin phép hay dẫn chứng tác giả là điều đáng tiếc. BTC TTVN hoan nghênh thái độ tiếp thu phê bình của nhóm iCMS. Ngày 7-12-2004, BTC TTVN sẽ họp để nhóm iCMS giải trình với sự có mặt của đại diện Diễn đàn tin học Việt Nam. Kết quả cuộc họp sẽ được thông báo sau”. 
+Dưới đây là nguyên văn bức thư xin lỗi: 
+Cộng hòa xã hội chủ nghĩa Việt Nam Độc lập - Tự do - Hạnh phúc 
+THƯ GỬI TÒA SOẠN &amp; BẠN ĐỌC 
+Kính gửi quý báo và các bạn quan tâm! 
+Chúng tôi ,nhóm iCMS đoạt giải Nhất Cuộc thi TTVN 2003, gồm 4 thành viên. 
+- Nguyễn Công Kha, Đặng Quang Huy, Nguyễn Thanh Tùng, Nguyễn Anh Tuấn 
+Vừa qua, dư luận đã dấy lên vụ việc iCMS Việt hóa phần mềm của nước ngoài, đem đi thi và đoạt giải Nhất TTVN 2003. Là bên liên quan trực tiếp, chúng tôi nghĩ rằng chúng tôi có trách nhiệm phải trả lời dư luận cũng như các cơ quan ngôn luận về vấn đề này. 
+Sản phẩm “Hệ thống khai thác và quản lý thông tin iCMS” dự thi TTVN 2003 là một giải pháp gồm 3 phần : Module Spider (Khai thác và phân tích thông tin tự động), Module Offline Client (Đọc tin ngoại tuyến), Module CMS (Quản trị nội dung). 
+Module CMS của sản phẩm iCMS đã được xây dựng dựa trên nền tảng lý thuyết và mã nguồn mẫu mang tên CMS.NET kèm theo quyển sách Real World ASP.NET: Building a Content Management System, tác giả Stephen R. G. Fraser, nhà xuất bản Apress , năm 2002. 
+Bắt đầu bằng phần mã nguồn cơ sở này, chúng tôi đã phát triển và tạo thêm nhiều thành phần và tính năng mới trong module thứ 3 là CMS. 
+Là các sinh viên, lập trình viên trẻ, thiếu kinh nghiệm, chúng tôi đã bỏ qua phần copyright ghi trên sách và cho rằng, vì đây là một quyển sách hướng dẫn về lập trình CMS bằng ASP.NET nên chúng tôi có thể sử dụng chương trình mẫu trong đó tùy ý mà không cần phải xin phép hay dẫn chứng/ghi chú gì với tác giả. Đây quả là thiếu sót của chúng tôi vì sự hạn chế về nhận thức của mình. 
+Vào cuối năm 2002, thời điểm chúng tôi sử dụng mã nguồn này để bắt đầu phát triển module CMS, bản CMS.NET trong cuốn sách nói trên chưa được đưa lên Sourceforge.net để trở thành phần mềm nguồn mở được bảo vệ bởi luật mã nguồn mở GNU/GPL. 
+Đến tháng 10/2003 bản CMS.NET mới được đưa lên website trên để trở thành phần mềm mã nguồn mở. Và gần đây khi có sự việc này xảy ra chúng tôi mới biết đến điều này. Chúng tôi đã đọc lại phần Copyright của quyển sách, và nhận thấy rằng phần mã nguồn CMS.NET kèm theo được coi như 1 phần của cuốn sách, muốn sử dụng nó vào bất cứ mục đích gì đều phải xin phép tác giả và nhà xuất bản cuốn sách nói trên. 
+Sau đó chúng tôi có đọc được tác giả trả lời qua email cũng như công bố trên website của ông rằng, nếu chỉ cần gửi email xin phép ông trước thôi, ông sẵn sàng cho sử dụng miễn phí mà chỉ đòi hỏi ghi nhận sự đóng góp của mình. Nhưng do không nhận thức sớm được điều này, chúng tôi đã không gửi email xin phép khi bắt đầu sử dụng mã nguồn nói trên để làm cơ sở phát triển nên module CMS vào cuối năm 2002. 
+Chúng tôi thực sự cảm thấy hết sức hối tiếc về những việc đã xảy ra, hoàn toàn không phải cố ý mà là do sự thiếu hiểu biết và sơ suất của mình. Nhân dịp này cho phép chúng tôi được gửi lời xin lỗi công khai và chính thức tới tác giả Stephen Fraser và xin sẵn sàng nhận và thực hiện mọi yêu cầu và điều kiện của ông liên quan đến việc chúng tôi sử dụng phần mã nguồn trong cuốn sách nói trên. 
+Chúng tôi cũng xin liệt kê các thành phần mã nguồn miễn phí và mã nguồn mở (được bảo vệ bởi GNU/GPL) trong iCMS sau đây : 
+1. Yahe.NET – sử dụng và cải tiến công cụ soạn thảo trực quan (WYSIWYG) trong module CMS. 2. TNTControl – sử dụng trong module Spider và module OfflineClient 3. Embedded Web Browser – sử dụng trong module Spider và module OfflineClient 4. RegExp – sử dụng trong module Spider và module OfflineClient 5. HTMLParser – sử dụng trong module Spider và module OfflineClient 6. CMS.NET – sử dụng như là cơ sở ban đầu để phát triển module CMS 
+Dựa trên những cải tiến và ứng dụng của các thành phần mã nguồn nói trên, cộng thêm với những thành phần tự xây dựng của nhóm,chúng tôi đã tích hợp các phần lại với nhau và xây dựng nên giải pháp iCMS dự thi TTVN 2003. 
+Khi được hỏi về module CMS chúng tôi đã khai báo lại với Ban giám khảo về việc sử dụng mã nguồn trong quyển sách trên, nhưng thiếu sót của chúng tôi là không bổ sung vào tài liệu thuyết minh dự thi TTVN. 
+Tuy nhiên, chúng tôi tin rằng phần nguồn mở trong iCMS chỉ là một phần nhỏ so với những sáng tạo và công sức của chúng tôi mà BGK đã đánh giá. Về thông tin cho rằng iCMS giống với một sản phẩm phần mềm mã nguồn mở khác đến 80%, chúng tôi khẳng định là hoàn toàn sai. 
+Mọi việc liên quan đến giải thưởng của chúng tôi xin tùy thuộc vào Ban giám khảo, Ban tổ chức quyết định. 
+Nhân đây chúng tôi cũng chính thức xin lỗi ông Stephen Fraser 1 lần nữa vì đã không ghi tên cuốn sách của ông trong phần tài liệu tham khảo của tài liệu dự thi. Đây là một việc làm không đúng đắn, rất mong ông lượng thứ cho hành vi này. 
+Chúng tôi cũng gửi lời xin lỗi chân thành tới cộng đồng IT Việt Nam nói chung và các thành viên trên Diendantinhoc.com nói riêng về những lời lẽ và khẳng định không chính xác do chưa hiểu hết vấn đề bản quyền và nhận thức còn non nớt của chúng tôi trong suốt thời gian qua. 
+Chúng tôi cũng xin có lời xin lỗi tới công ty VinaComm do đã không nói rõ về một số thành phần mã nguồn mở trong sản phẩm iCMS khi chuyển giao cho công ty. 
+Nhóm iCMS cũng xin chân thành rút kinh nghiệm về cách ứng xử còn bồng bột và nhiều khẳng định khinh suất của mình trên các diễn đàn trên mạng. 
+Tuy vậy, chúng tôi xin khẳng định rằng, tẩt cả chúng tôi đều không cố ý làm nên điều này và thật lòng mong muốn đóng góp khả năng nhỏ bé của mình phục vụ cho nền CNTT nước nhà. 
+Chúng tôi rất mong quý báo có thể đăng tải nội dung bức thư này như là một lời giải thích chính thức của chúng tôi. 
+Đây sẽ là một bài học quý báu trong cuộc đời, cho chúng tôi nhiều kinh nghiệm về việc cần thận trọng về bản quyền khi sử dụng hoặc tham khảo từ bất kỳ một nguồn nào để tạo ra những sản phẩm mới.
+
+Nhóm iCMS

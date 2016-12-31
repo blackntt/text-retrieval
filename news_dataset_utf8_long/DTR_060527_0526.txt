@@ -1,0 +1,7 @@
+﻿Thêm một virus mới liên quan đến World Cup 2006
+
+Không có gì ngạc nhiên khi giải vô địch bóng đá thế giới luôn là dịp béo bở để hacker lợi dụng phát tán virus. Hãng bảo mật Anh Sophos vừa phát hiện một phần mềm nguy hiểm ẩn sau những hình nền và lịch thi đấu của giải bóng đá thế giới. 
+ Zasran.A chứa những thông điệp tiếng Đức về vé xem các trận đấu với tiêu đề như "Weltmeisterschaft" hoặc "WM-Tickets" cùng một file đính kèm. Khi tệp này được mở, sâu Zasran sẽ được kích hoạt và tự động thâm nhập vào danh mục địa chỉ lưu trong Microsoft Outlook, thay đổi các thiết lập bảo mật và tạo cơ hội cho kẻ tấn công kiểm soát thông tin cá nhân lưu trong máy tính. 
+Đây là phiên bản thứ hai liên quan đến bóng đá xuất hiện trong tháng này. Trước đó, một Trojan đã được phát tán qua thư rác, giả dạng lịch thi đấu World Cup 2006 với nội dung thông điệp "Fussball Weltmeisterschaft 2006 in Deutschland" (Giải vô địch bóng đá thế giới 2006 tại Đức) kèm file "googlebook.exe." 
+Trước kỳ World Cup 1998 tại Pháp, một chương trình nguy hiểm mang tên WM97/ZMK.J đã dụ dỗ người sử dụng đặt cược đội chiến thắng. Nếu không chọn đúng, virus này lập tức được kích hoạt để xóa sạch mọi dữ liệu trong ổ cứng. 
+Theo T.N. VnExpress/TechWorld

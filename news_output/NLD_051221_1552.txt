@@ -1,0 +1,5 @@
+﻿ Game_Online không làm nghẽn Internet
+Đó là khẳng_định của các nhà_cung_cấp hạ_tầng Internet hàng_đầu tại VN hiện_nay như VDC , FPT , Viettel … trong buổi hội_thảo chuyên_đề “ Dịch_vụ trò_chơi trực_tuyến ” được tổ_chức ngày 20 – 12 tại Sở BC-VT TPHCM .
+Các nhà_cung_cấp hạ_tầng Internet khẳng_định vì các game online ( GO ) tại VN hiện_nay có máy_chủ đặt trong nước , mà liên_kết trong nước của tất_cả dịch_vụ Internet tốc_độ cao VN hiện_nay đều được sử_dụng trên một băng_thông rất rộng , đồng_thời dung_lượng của từng người chơi là nhỏ nên không_thể gây tắc_nghẽn Internet .
+Vấn_đề đường truyền của chúng_ta chỉ nằm ở phía các cổng quốc_tế , có_giá thuê quá cao nên các doanh_nghiệp phải giới_hạn cổng thuê_bao quốc_tế để giảm chi_phí . Vì_vậy các DN cho rằng dưới góc_độ kỹ_thuật thì không cần phải hạn_chế số GO được cấp phép . Trước cuộc hội_thảo này , các nhà quản_lý_nhà_nước từng lo_lắng , Internet có_thể bị “ sập ” trước sự phát_triển của GO .
+Theo SGGP

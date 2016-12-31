@@ -1,0 +1,5 @@
+﻿ Thiết_bị phát_hiện chất_nổ cực nhỏ
+R . Graham_Cooks , trưởng nhóm nghiên_cứu thuộc Trường ĐH Purdue cho_biết thiết_bị dựa vào các công_nghệ tiên_tiến này có_thể dùng để đảm_bảo an_ninh tại các khu_vực công_cộng trên khắp thế_giới .
+“ Trong khoảng thời_gian một_hơi thở của con_người , thiết_bị này có_thể “ ngửi ” bề_mặt của một mẩu trên hành_lý và xác_định được liệu có hay không các chất nguy_hiểm bên trong , dựa vào các hóa_chất còn dư mà bàn_tay của kẻ đặt chất_nổ để lại khi chạm vào hành_lý ” , Cooks nói .
+Theo nhóm nghiên_cứu , thiết_bị này rất hữu_ích trong việc khám_xét các hành_lý có dấu_hiệu đáng nghi tại các sân_bay , nhà_ga và các nơi khác đã từng xảy_ra sự_cố trước_đây . Do công_nghệ này có_thể hoạt_động trên nhiều bề_mặt khác như da và quần_áo , nó cũng có_thể giúp xác_định một người nào_đó có_mang hóa_chất bên mình hay không .
+KIM_NHUNG ( Theo Physorg , UPI )

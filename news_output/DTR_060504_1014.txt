@@ -1,0 +1,13 @@
+﻿ Những trang_web dành cho " dân " Toán - Tin
+DSAP là một trang_web chuyên về thuật_toán dành cho những người quan_tâm có_thể chia_sẻ những kiến_thức của mình . Diễn_đàn DSAP đã nhanh_chóng thu_hút được sự cộng_tác của đông_đảo học_sinh - cựu học_sinh các lớp chuyên Toán - Tin khắp_nơi .
+Nội_dung bàn_bạc của các thành_viên DSAP là các thuật_toán cũng_như bài thi quốc_tế được tổ_chức trên mạng trong khoảng thời_gian đó .
+Trang_web có đăng các đề thi được dịch từ các trang_web thi trực_tuyến ( Online_Judge ) nhằm tạo ra một hệ_thống tài_liệu về các bài_tập toán - tin cho người VN , nhất_là cho những bạn chưa có điều_kiện tiếp_cận nhiều với Internet cũng_như chưa có vốn tiếng Anh vững để tự dịch các đề_bài trên mạng . Trang_web này đã tập_trung được hơn 100 bài_tập từ các thành_viên .
+Trong thời_gian từ năm 2003 đến nay , DSAP đã tổ_chức được ba kỳ thi lập_trình trên mạng mang tên VNOPSC lần 1 , lần 2 và lần 3 . Tháng 8/2001 , do yêu_cầu thảo_luận trong từng chủ_đề tăng lên rõ_rệt , DSAP quyết_định hợp_tác với anh Nguyễn_Bá_Thành - admin Diễn_đàn tin_học ( www.diendantinhoc.net , nay có tên VN-Informatics tại địa_chỉ www . diendantinhoc.org ) tạo một sub - forum tại Diễn_đàn tin_học và vẫn hoạt_động tại đó cho_đến nay .
+www.ioicamp.net
+Năm 2004 , Trại huấn_luyện IOICamp đã được các thầy và các cựu học_sinh của khối chuyên toán tin ĐH_KHTN , những người đã từng được nhiều giải quốc_gia , quốc_tế đứng ra thành_lập . Trong khuôn_khổ một đề_tài nghiên_cứu khoa_học trọng_điểm cấp ĐH Quốc_gia Hà_Nội , được nhiều thầy_cô_giáo có uy_tín của các trường ĐH_KHTN , ĐH Công_nghệ , ĐH Sư_phạm , ĐH Bách_khoa Hà_Nội tham_gia đóng_góp về mặt nội_dung , trang_web www . ioicamp.net đã được xây_dựng và đang hoàn_thiện . Hiện_tại www . ioicamp.net đã có hơn 1.000 thành_viên .
+Đây là một hệ_thống vận_hành hoàn_toàn tự_động với ba nội_dung chính :
+1 . Học và kiểm_tra trực_tuyến : Người học có_thể tự kiểm_tra năng_lực bằng cách gửi lời_giải qua mạng Internet , hệ_thống chấm bài tự_động sẽ thông_báo ngay kết_quả cho người học .
+2 . Tổ_chức các cuộc_thi lập_trình trực_tuyến ( Online ) : Trong quá_trình thi , thí_sinh được giải_đáp trực_tuyến các thắc_mắc về đề thi , nếu đề thi có sai_sót , những chỉnh_sửa được thông_báo ngay cho mọi thí_sinh .
+3 . Diễn_đàn : Tại đây mọi thành_viên có_thể trao_đổi với nhau các vấn_đề thuần_túy về học_thuật : một bài_toán hay , một thuật_toán mới ... qua đó học_hỏi nhau được nhiều điều và kết_bạn với nhau .
+Trang_web hiện là nơi giao_lưu của hơn 1.000 thành_viên gồm các học_sinh ở mọi miền đất_nước và cả ở ngoài nước . Cho tới nay , trang_web đã tổ_chức thành_công các kỳ thi lập_trình trực_tuyến đầu_tiên tại VN mang tên Icamp1 , Icamp2 , Icamp3 .
+Theo Nguyễn_Xuân_My_Tuổi trẻ / Đại_học Quốc_gia Hà_Nội

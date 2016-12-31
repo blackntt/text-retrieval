@@ -1,0 +1,11 @@
+﻿ Gỡ bỏ ứng_dụng với " Your_Uninstaller ! 2006 Pro "
+URSoft Software đã “ quyết_tâm ” thay_thế tính_năng “ Remove_Progams ” của Windows bằng công_cụ Your_Uninstaller ! 2006 Pro siêu cấp với nhiều tính_năng cộng thêm dư khả_năng thu_hút người dùng .
+Một_số chương_trình phần_mềm hiện_nay khi cài_đặt có khả_năng qua_mặt được công_cụ “ Add or Remove_Progams ” của Windows bằng cách không cho biểu_tượng của chương_trình hiện lên trong danh_sách liệt_kê , và như_vậy “ Add or Remove_Progams ” sẽ không có khả_năng gỡ bỏ chương_trình trên ra khỏi máy_tính .
+“ Your_Uninstaller ! 2006 Pro ” tỏ ra mạnh_mẽ hơn nhiều so với “ Add or Remove_Progams ” . Nó có khả_năng phát_hiện ra hầu_hết mọi chương_trình đã cài_đặt trên máy_tính và gỡ bỏ hết_sức triệt_để . Ngoài_ra nó còn cung_cấp nhiều công_cụ dọn rác máy_tính và gia_tăng hiệu_năng hoạt_động của máy_tính hiệu_quả đến mức không ngờ .
+Tính_năng “ Search ” giúp người dùng dễ_dàng tìm ra toàn_bộ các chương_trình theo từ_khóa , theo thời_gian cài_đặt , theo dung_lượng hoặc theo thời_gian sử_dụng gần nhất .
+Tính_năng “ AutoFix ” giúp người dùng tự_động xóa_bỏ mọi ứng_dụng bị hư_hỏng trong quá_trình cài_đặt từ nhiều nguyên_do .
+“ Control_Startup_Program ” là tính_năng điều_khiển toàn_bộ trình Starup của Windows , giúp người dùng xóa đi , cho ẩn hoặc không cho chương_trình nào_đó được phép hiện ra trong Startup .
+Tính_năng “ Find/Clean Temporary_File ” sẽ xóa sạch như chùi toàn_bộ các file rác lưu_trữ trong các thư_mục Temporary . Số_lượng file rác này có_thể lên đến hàng vài ngàn file với dung_lượng hàng trăm MB .
+“ Clean_Start_Menu ” và “ Clean IE Context_Menu ” là hai tính_năng giúp người dùng quản_lý hữu_hiệu các menu Start và các nội_dung menu của Internet_Explorer .
+Hiện URSoft Software đang bán ra công_cụ “ Your_Uninstaller ! 2006 Pro ” với giá là 40 USD . Người dùng có_thể vào đây để tải về bản dùng thử có dung_lượng khoảng trên 4MB . Hiện “ Your_Uninstaller ! 2006 Pro ” đã có_mặt tại các cửa_hàng phần_mềm tin_học tại TP Hồ_Chí_Minh .
+HOÀNG_HẢI

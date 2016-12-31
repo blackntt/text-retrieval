@@ -1,0 +1,27 @@
+﻿ Tìm_hiểu về Registry của Windows
+Registry được xem là một “ chìa_khóa tối_thượng ” để xâm_nhập vào Windows và hầu_như chỉ dùng cho giới chuyên_môn cao . Với những người dùng bình_thường thì Registry của Windows gần_như là một “ đám rừng ” gần_như không có lối ra . Chúng_tôi xin tổng_hợp một_số kiến_thức về Registry để bạn tham_khảo .
+1 . Một_vài kiến_thức cơ_bản về Registry :
+Registry là một cơ_sở_dữ_liệu dùng để lưu_trữ mọi thông_số kỹ_thuật của Windows . Nó ghi_nhận tất_cả các thông_tin khi bạn thay_đổi hoặc chỉnh_sửa trong Menu_Settings , Control_Panel v . v
+Trong_Window 95 và Windows 98 thì Registry được lưu lại trong 2 file là : user.dat và system . dat trong thư_mục Windows . Trong_Windows_Me , Registry được lưu trong file Classes.dat trong thư_mục Windows . Trong_Windows 2000 và Windows XP , thì Registry được lưu trong thư_mục “ Windows \ System32 \ Config ” .
+Bạn có_thể chỉnh_sửa Registry của các Windows bằng trình Registry_Editor có sẵn trong Windows bằng cách vào cửa_sổ Run và gõ lệnh “ Regedit ” .
+Registry có cấu_trúc hình cây , tương_tự như cấu_trúc của cây thư_mục với rất nhiều nhánh con tỏa ra tùy theo cấu_trúc ứng_dụng . Thông_thường Registry của Windows có 5 nhánh chính , mỗi nhánh đảm_nhận viện lưu_trữ những thông_tin riêng_biệt . Mỗi nhánh chính tỏa ra rất nhiều nhánh con và những nhánh con này cũng lưu_trữ vô_số thông_tin đặc_thù về mọi thứ có trong Windows .
+HKEY_ CLASSES_ ROOT : Lưu những thông_tin dùng chung cho toàn_bộ hệ_thống .
+HKEY_ CURRENT_ USER : Lưu những thông_tin cho người dùng đang sử_dụng hoặc đăng_nhập vào Windows .
+HKEY_ LOCAL_ MACHINE : Lưu những thông_tin về hệ_thống , phần_cứng , phần_mềm …
+HKEY_ USERS : Lưu những thông_tin của tất_cả các User ( người dùng ) , mỗi user là một nhánh với tên là số ID định_dạng của user đó .
+HKEY_ CURRENT_ CONFIG : Lưu thông_tin về phần_cứng hiện_tại đang dùng .
+Những người dùng thành_thạo Windows muốn hiểu sâu hơn về hệ_thống đều cần tìm_hiểu kỹ về Registry càng nhiều càng tốt vì những lý_do sau :
+- Registry lưu tất_cả các thông_tin về phần_cứng , phần_mềm , những lựa_chọn của người dùng ... . kiểm_soát được nội_dung của Registry là yêu_cầu tất_yếu để bạn sử_dụng máy_tính một_cách khoa_học , hiểu sâu hơn về môi_trường làm vịệc của Windows .
+- Muốn tiến xa hơn trong kỹ_thuật lập_trình trên nền Windows , cách bảo_mật , thậm_chí bẻ_khóa phần_mềm hay đột_nhập vào máy_tính của người khác … thì bạn đều cần phải có hiểu_biết nhất_định về Registry .
+- Hầu_hết các thủ_thuật trong Windows mà các tạp_chí tin_học tên_tuổi đã đăng_tải đều liên_quan mật_thiết đến Registry . Các công_cụ có_thể tác_động vào Windows do giới phần_mềm tạo nên đa_số cũng đều dựa trên cơ_sở “ xâm_nhập ” Registry bằng các công_cụ được thiết_kế thân_thiện và trực_quan hơn .
+2 . Cảnh_báo khi sử_dụng Registry_Editor
+Tất_cả mọi thứ tồn_tại trong hệ_thống Windows đều để lại những " mật_mã " hoặc chìa_khóa cực_kỳ trọng_yếu trong Registry . Việc tác_động vào những mã khóa này có_thể chỉ ảnh_hưởng đến một phần nhỏ nào_đó của Windows , nhưng đôi_khi có tác_động đến toàn_bộ hệ_thống . Khi " trót_dại " chỉnh_sửa sai một_vài " key " tối quan_trọng nào_đó là có_thể làm cho Winsows bị tê_liệt hoặc hư_hỏng hoàn_toàn .
+Khi bạn đã “ dám ” xâm_nhập vào Registry_Editor điều bắt_buộc trước_tiên là bạn phải sao lưu lại Registry của mình bằng cách chạy Registry_Editor - & gt ; File - & gt ; Export và lưu file có đuôi . REG này vào chỗ an_toàn để nếu có chỉnh_sửa sai thì vẫn phục_hồi lại được nguyên_trạng hệ_thống . Khi muốn phục_hồi lại Registry nguyên_thủy thì vào lại Registry_Editor - & gt ; File - & gt ; Import - & gt ; Tìm đến file . REG đã lưu để tiến_hành phục_hồi .
+3 . Một_vài lưu_ý khi chỉnh_sửa Registry
+- Dòng chữ đứng sau các từ : User_Key , Sytem_Key , hoặc Key cho_biết đường_dẫn đến nhánh cần sửa_chữa hoặc tạo mới nếu nó không tồn_tại . Lưu_ý rằng User_Key là để thay_đổi đó có tác_dụng với người đang đăng_nhập ( Logon ) ; System_Key là để thay_đổi đó có tác_dụng với tất_cả người dùng .
+- Dòng_Name là tên của khoá cần tạo , nó là nhánh con bên cửa_sổ bên phải của Registry .
+- Dòng_Type là kiểu dữ_liệu của khoá mới tạo .
+- Dòng_Value là giá_trị của khoá .
+Sau khi đã sao lưu Registry gốc và biết cách phục_hồi , hầu_như bạn đã có_thể thoải_mái “ tung_hoành ” trong Registry . Để_trở thành một “ chuyên_gia Registry ” thực_sự không phải là quá khó_khăn , bạn chỉ cần có một vốn tiếng Anh đủ để đọc và hiểu đúng tất_cả những gì mà Microsoft đã trình_bày bằng tiếng Anh trong Windows .
+Khi đã hiểu hết mọi từ_ngữ trong Registry , bạn có_thể vào “ vọc ” bằng cách chỉnh_sửa lại các thông_số mặc_định bằng các thông_số của mình , sau đó lưu lại Registry , thoát khỏi tài_khoản User đang dùng , đăng_nhập lại vào tài_khoản đã bị chỉnh Registry , truy vào khoản mục đã chỉnh_sửa để xem tác_dụng của nó . Nếu nó quá nhanh , quá chậm hoặc … “ liệt ” hoàn_toàn thì bạn nên vào lại Registry để điều_chỉnh nó về lại thông_số cũ . Nếu_không nhớ nổi những thông_số đã bị chỉnh_sửa thì hãy tiến_hành thì phục_hồi lại Registry nguyên gốc .
+THIÊN_TRANG ( Tổng_hợp )

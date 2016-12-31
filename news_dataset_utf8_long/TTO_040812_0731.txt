@@ -1,0 +1,7 @@
+﻿Bóng đá Anh trên ĐTDĐ
+
+Nội dung của ứng dụng gồm có: xem kết quả trực tuyến, lịch thi đấu cho cả mùa giải 2004-2005, bảng xếp hạng, thông tin về các CLB, bảng thống kê. Ứng dụng chạy được trên hầu hết ĐTDĐ có hỗ trợ Java. 
+Hiện tại DASIS cung cấp cho khán giả hâm mộ VN phiên bản sử dụng miễn phí cho đến hết ngày 31-8-2004. Bạn đọc có thể tải tại trang web Báo Tuổi Trẻ ( www.tuoitre.com.vn ), hoặc tải trực tiếp bằng điện thoại tại wapsite ( www.tuoitre.com.vn/wap ). 
+Người dùng muốn sử dụng phiên bản đầy đủ có thêm tính năng xem tỉ lệ cá cược các trận đấu trong toàn bộ mùa giải 2004-2005 liên hệ Công ty Dasis, 188 Hoàng Diệu, Đà Nẵng, ĐT: 0511-866577. Giá bán sản phẩm dự kiến là 50.000 đồng/máy.
+
+ĐÔNG HẢI

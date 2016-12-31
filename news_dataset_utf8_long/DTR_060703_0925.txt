@@ -1,0 +1,14 @@
+﻿Công nghệ mới tạo malware không thể bị phát hiện
+
+Một chuyên gia về rootkit vừa tạo ra một phần mềm mẫu “Blue Pill” cho công nghệ mới có khả năng tạo ra các malware độc mà 100% không thể bị phát hiện thậm chí cả trên các hệ thống Windows Vista x64. 
+ Joanna Rutkowska, một nhà nghiên cứu về phần mềm nguy hiểm tại hãng bảo mật COSEINC (Singapore) cho biết Blue Pill sử dụng công nghệ ảo hóa SVM/Pacifica của AMD để tạo ra một chương trình có thể nắm quyền điều khiển của hệ điều hành mục tiêu. 
+Rutkowska có kế hoạch sẽ thảo luận về ý tưởng và một phần mềm mẫu hoạt động trên Windows Vista x64 tại hội thảo SyScan ở Singapore vào ngày 21/7 và hội nghị Black Hat Briefings tại Las Vegas vào ngày 3/8. 
+Rutkowska khẳng định buổi thuyết trình sẽ nói về một phương thức tổng quát của cách thêm các đoạn mã nguy hiểm vào nhân của Vista Beta 2 (phiên bản x64) mà không dựa vào bất kỳ một lỗi thực thi nào. 
+Kỹ thuật này có thể vượt qua một cách rất hiệu quả các chính sách chống rootkit quan trọng đã được cải tiến của Windows Vista, một hệ điều hành mà chỉ các phần mềm chạy ở chế độ nhân mới có thể được tải vào các hệ thống x64. 
+Ý tưởng về một rookit trên máy ảo không phải là mới. Các nhà nghiên cứu tại Microsoft Research và đại học Michigan đã tạo ra các rootkit như vậy gọi là “SubVirt”. Rootkit này cũng gần như không thể bị phát hiện bởi các phần mềm bảo mật không thể truy nhập để xác định trạng thái của chúng. 
+Hiện tại Rutkowska đang khẳng định nếu rookit này bị phát hiện thì chứng tỏ công nghệ ảo hóa Pacifica của AMD bị lỗi. 
+Rutkowska cho biết sức mạnh của Blue Pill là dựa trên công nghệ SVM. Bà này chắc rằng nếu có các công cụ phát hiện cho các máy ảo thì Blue Pill sẽ bị “lộ diện”, nhưng điều này cũng có nghĩa là Pacifica bị lỗi. 
+“Ý tưởng của Blue Pill rất đơn giản: các hệ điều hành dễ dàng chấp nhận Blue Pill và nó sẽ được kích hoạt, hoạt động bên trong chương trình điều khiển toàn bộ hệ điều hành mục tiêu sử dụng công nghệ ảo hóa. Tất cả các hoạt động này diễn ra không ảnh hưởng gì tới toàn bộ hệ thống, không cần phải khởi động lại và không có tác động tới hiệu năng.”, bà Rutkowska giải thích. 
+Rutkowska nhấn mạnh rằng công nghệ Blue Pill không dựa trên bất cứ một lỗi nào của hệ điều hành. “Tôi đã tạo ra một mẫu có thể hoạt động trên Vista x64, và chẳng có lý do gì nếu có thể tạo ra các mẫu hoạt động trên các hệ điều hành khác như Linux, BSD hoặc các hệ điều hành có thể chạy trên nền tảng x64”. 
+Blue Pill đang được phát triển chỉ để nghiên cứu tại COSEINC Research và sẽ không được tiết lộ ra ngoài. Tuy nhiên, Rutkowska tuyên bố công ty này đang có kế hoạch tổ chức huấn luyện về công nghệ Blue Pill và các công nghệ khác khi đó mã nguồn sẽ được tiết lộ. 
+Trước đây, Rutkowska đã nghiên cứu về Red Pill , một công nghệ có thể sử dụng để phát hiện xem mã được thực trong môi trường máy ảo hay trong môi trường thực Theo AIVietNam/eWeek

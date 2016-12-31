@@ -1,0 +1,6 @@
+﻿Sử dụng ảnh vệ tinh nghiên cứu môi trường và thiên tai
+
+Theo ông Nguyễn Phi Khứ - Viện Cơ học ứng dụng thuộc Viện Khoa học và công nghệ VN, dự án sẽ triển khai ứng dụng công nghệ dữ liệu ảnh vệ tinh Formosat-2 nhằm nghiên cứu: đánh giá ô nhiễm ven biển do tràn dầu và nguồn thải bẩn từ đất liền; qui hoạch, quản lý rừng ngập mặn và du lịch sinh thái; lập mô hình sóng - dòng chảy và lan truyền ô nhiễm ven bờ biển; quan trắc khí tượng thủy văn biển, giám sát thiên tai ven biển, đặc biệt là vấn đề xói lở bờ biển; đào tạo nhân lực cho các ngành liên quan. 
+Ông Khứ cũng cho biết phạm vi lấy dữ liệu ảnh vệ tinh Formosat-2 là khoảng 24x160km, nằm trong vùng quét của vệ tinh từ Cần Giờ (TP.HCM) đến địa bàn Cần Thơ. Ảnh vệ tinh, trị giá khoảng 3.800 USD/ảnh, sẽ được lấy mỗi ngày, liên tục trong ba năm.
+
+QUỐC THANH

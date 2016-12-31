@@ -1,0 +1,5 @@
+﻿ Cho_phép các hãng hàng_không thử_nghiệm dịch_vụ Internet
+Tuy_nhiên , máy_bay của các hãng hàng_không này phải là những máy_bay đã được Cục Hàng không dân_dụng VN cho_phép hoạt_động trên lãnh_thổ VN .
+Các hệ_thống của CbB được phép sử_dụng dải tần_số 14.00 - 14.25 GHz đối_với chiều từ Trái_đất đến vũ_trụ và dải tần_số 12.20 - 12.45 GHz đối_với chiều từ vũ_trụ xuống Trái_đất , đồng_thời đảm_bảo không gây can nhiễu đến các hệ_thống thông_tin khác .
+Các hãng hàng_không nói trên sẽ không được sử_dụng hệ_thống của CbB khi đỗ tại hoặc khi cất_cánh , hạ_cánh xuống các sân_bay của VN .
+KHIẾT_HƯNG

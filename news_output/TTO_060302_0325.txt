@@ -1,0 +1,35 @@
+﻿ Điều_chỉnh tạm_thời lộ_trình các tuyến buýt ngày 2-3-2006
+1 . Kế_hoạch điều_chỉnh tạm_thời lộ_trình các tuyến xe_buýt tại khu_vực tuyến phố xung_quanh Cung_văn_hóa Hữu_nghị Việt_Xô , như sau :
+a ) Thời_gian điều_chỉnh : Từ khi Công_an thành_phố bắt_đầu phân_luồng giao_thông đến khi kết_thúc phân_luồng giao_thông .
+- Ngày 2-3-2006 , thời_gian dự_kiến bắt_đầu_từ 8g và kết_thúc vào 11g .
+b ) Các tuyến đường_phố bị ảnh_hưởng : Do cấm đường theo kế_hoạch của Công_an thành_phố Hà_Nội bao_gồm Trần_Hưng_Đạo ( từ Phan_Bội_Châu đến Quang_Trung ) ; Trần_Bình_Trọng ( từ Trần_Hưng_Đạo đến Nguyễn_Du ) ; Yết_Kiêu ( từ Trần_Hưng_Đạo đến Nguyễn_Du ) ; Trần_Quốc_Toản ( từ Quang_Trung đến Yết_Kiêu ) ; Nguyễn_Gia_Thiều ( từ Quang_Trung đến Trần_Bình_Trọng ) ; Quán_Sứ ( từ Trần_Hưng_Đạo đến Lý_Thường_Kiệt ) ; đường Lý_Thường_Kiệt ( từ Thợ_Nhuộm đến Phan_Bội_Châu ) ; đường Dã_Tượng và phố Liên_Trì .
+c ) Lộ_trình điều_chỉnh tạm_thời của các tuyến xe_buýt bị ảnh_hưởng :
+- Tuyến 01 . Long_Biên - Hà_Đông :
++ Chiều đi : Long_Biên - … . . - Quán_Sứ - Hai_Bà_Trưng - Lê_Duẩn - ... . . - BX Hà_Đông .
++ Chiều về : BX Hà_Đông - … . . - Khâm_Thiên - Lê_Duẩn - Trần_Nhân_Tông - Quang_Trung - Hai_Bà_Trưng - Quán_Sứ - … . . - Long_Biên .
+- Tuyến 03 . Giáp_Bát - Gia_Lâm :
++ Chiều đi : BX Giáp_Bát - … . . - Lê_Duẩn - Trần_Nhân_Tông - Quang_Trung - Trần_Hưng_Đạo - ... . . - BX Gia_Lâm .
++ Chiều về : BX Gia_Lâm - … . . - Trần_Hưng_Đạo - Quang_Trung - Hai_Bà_Trưng - Lê_Duẩn - … . . - BX Giáp_Bát .
+- Tuyến 06 . Ga_Hà_Nội - Thường_Tín :
++ Chiều đi : Giữ nguyên .
++ Chiều về : BX Thường_Tín - ... . . - Lê_Duẩn - Trần_Nhân_Tông - Quang_Trung_Hai_Bà_Trưng - Lê_Duẩn - Ga_Hà_Nội .
+- Tuyến 09 . Bờ_Hồ - Cầu_Giấy - Bờ_Hồ :
++ Chiều đi : Bờ_Hồ - Cầu_Gỗ - ... . . - Hai_Bà_Trưng – Lê_Duẩn - Khâm_Thiên - ... . . - Bờ_Hồ .
++ Chiều về : Giữ nguyên .
+- Tuyến 11 . Ga_Hà_Nội - ĐH Nông_Nghiệp I :
++ Chiều đi : Ga_Hà_Nội - Lê_Duẩn - Trần_Nhân_Tông - Quang_Trung - Trần_Hưng_Đạo - ... . . - ĐH Nông_Nghiệp I .
++ Chiều về : ĐH Nông_Nghiệp I - … . . - Trần_Hưng_Đạo - Quang_Trung - Hai_Bà_Trưng - Lê_Duẩn - Ga_Hà_Nội .
+- Tuyến 25 . Nam_Thăng_Long - Giáp_Bát :
++ Chiều đi : Giữ nguyên .
++ Chiều về : BX Giáp_Bát - ... . . - Lê_Duẩn - Trần_Nhân_Tông - Quang_Trung - Hai_Bà_Trưng - Quán_Sứ - ... . . - BX Nam_Thăng_Long .
+- Tuyến 30 . Mai_Động - Hoàng_Quốc_Việt :
++ Chiều đi : Mai_Động - ... . . - Trần_Nhân_Tông - Quang_Trung - Hai_Bà_Trưng - Lê_Duẩn - Khâm_Thiên - ... . . - Hoàng_Quốc_Việt .
++ Chiều về : Giữ nguyên .
+- Tuyến 32 . Giáp_Bát - Nhổn :
++ Chiều đi : BX Giáp_Bát - ... . . - Lê_Duẩn – Trần_Nhân_Tông – Quang_Trung - Hai_Bà_Trưng - Quán_Sứ - ... . . - Nhổn .
++ Chiều về : Giữ nguyên .
+- Tuyến 40 . Ga_Hà_Nội - Như_Quỳnh :
++ Chiều đi : Ga_Hà_Nội - Lê_Duẩn - Trần_Nhân_Tông - Quang_Trung - Hai_Bà_Trưng - ... . . - Như_Quỳnh .
++ Chiều về : Như_Quỳnh - … . . - Hai_Bà_Trưng - Lê_Duẩn - Ga_Hà_Nội .
+- Trong thời_gian tạm_thời điều_chỉnh lộ_trình , các xe dừng đón trả khách theo đúng qui_định tại các điểm dừng , nhà chờ xe_buýt trên đoạn tuyến điều_chỉnh .
+PV

@@ -1,0 +1,14 @@
+﻿ Danh_bạ 4 triệu số cho điện_thoại_di_động
+Cũng_như các tiện_ích trước_đây , tiện_ích này chỉ có_thể chạy được trên các dòng máy dùng hệ_điều_hành Symbian s 60 , UIQ . Nhóm làm tiện_ích này cho_biết , hiện_nay sản_phẩm chỉ mới hoàn_tất giai_đoạn 1 , tích_hợp tất_cả số điện_thoại có trong danh_bạ điện_thoại do Tổng_công_ty Bưu_chính viễn_thông ( VNPT ) phát_hành . Dự_kiến , vào cuối tháng 5-2005 , nhóm sẽ hoàn_tất việc tự_động hiển_thị thông_tin số gọi đến .
+Tiện_ích này hiện_nay được cung_cấp miễn_phí . Bạn_đọc quan_tâm có_thể liên_hệ các siêu_thị điện_thoại để cài_đặt . Tiện_ích cho_phép bạn chọn_lựa các tỉnh_thành cần_thiết để cài_đặt , sau đó gọi điện_thoại đến số 08-715 5323 để xin số serial .
+Hoặc bạn có_thể tải về và cài_đặt theo hướng_dẫn . Nhưng trước_tiên để cài_đặt danh_bạ điện_thoại , bạn cần có máy_tính và đầu_đọc thẻ nhớ . Sau đó khi có đầy_đủ đồ_nghề , bạn rút thẻ nhớ ra khỏi máy điện_thoại và tiến_hành cài_đặt theo các bước sau :
+- Đối_với dòng máy dùng hệ_điều_hành Symbian UIQ ( Sony_Ericsson P900 ) , bạn nhấn vào đây để tải về tiện_ích danh_bạ , nếu máy chưa cài font tiếng Việt thì nhấn vào đây để tải về bộ font .
+- Đối_với dòng máy dùng hệ_điều_hành Symbian s 60 , nhấn vào đây để tải về tiện_ích danh_bạ và font tiếng Việt .
+- Đối_với dòng máy dùng hệ điều Symbian s 7 , nhấn vào đây để tải về tiện_ích danh_bạ và font tiếng Việt .
+- Riêng dữ_liệu số điện_thoại , bạn có_thể nhấn vào đây để tải về các thành_phố lớn : TP.HCM ( 16MB ) , Hà_Nội ( 10MB ) , hoặc toàn_quốc ( khoảng 80MB ) .
+Khi đã tải về đầy_đủ , bạn tiến_hành cài_đặt như sau :
+- Dòng máy Symbian UIQ , chép 2 file có đuôi . sis ( danh_bạ và font ) cùng_với file dữ_liệu thành_phố , tỉnh mà bạn muốn cài vào thẻ nhớ của máy điện_thoại . Sau đó bạn gắn thẻ nhớ vào máy , dùng tiện_ích filenanager trên máy di_chuyển đến thẻ nhớ có chứa các tập_tin vừa chép nhấn install để tiến_hành cài_đặt . Sau khi cài_đặt thành_công bạn khởi_động lại máy điện_thoại .
+- Đối_với dòng máy dùng Symbian s 60 hoặc s 7 bạn nhấn vào đây để tải về tiện_ích giải nén dữ_liệu ( . sis ) thành file . dat . Chép file . dat này vào thư_mục system / data/kpd vừa cài_đặt .
+Sau đó bạn kích_hoạt biểu_tượng danh_bạ , tiện_ích sẽ yêu_cầu bạn nhập key . Bạn cần cung_cấp số IMEI hiện trên máy ( cho từng loại dữ_liệu ) , nhà_cung_cấp ( Công_ty Kobe ~ ) sẽ cho bạn Key để mở khóa .
+Chúc bạn thành_công !
+ĐÔNG_HẢI

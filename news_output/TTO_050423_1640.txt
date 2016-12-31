@@ -1,0 +1,993 @@
+﻿ Số_liệu đăng_kí xét tuyển vào lớp 10 TP.HCM ( 2005 - 2006 )
+TRƯỜNG
+Địa_chỉ
+SỐ_LỚP_TUYỂN
+SỐ_HỌC_SINH_TUYỂN
+NGUYỆN_VỌNG
+DL
+BC
+CL
+TS
+DL
+BC
+CL
+TS
+NV1
+NV2
+NV3
+NV4
+TS
+THPT_BC Ten_Lơ_Man
+8 Trần_Hưng_Đạo
+15
+15
+675
+675
+1347
+1979
+3326
+THPT_BC Lương_Thế_Vinh
+131 Cô Bắc
+8
+8
+360
+360
+485
+1016
+1501
+THPT_BC Marie_Curie
+159 Nam_Kỳ_Khởi_Nghĩa
+20
+20
+1000
+1000
+2824
+1745
+4569
+THPT_BC Nguyễn_Thị_Diệu
+12 Trần_Quốc_Toản
+8
+8
+360
+360
+638
+993
+1631
+THPT_BC Trần_Khai_Nguyên
+225 Nguyễn_Tri_Phương
+22
+22
+990
+990
+2858
+2686
+5544
+THPT_BC Trần_Hữu_Trang
+276 Trần_Hưng_Đạo
+5
+5
+250
+250
+576
+1296
+1872
+THPT_BC Nam_Sài_Gòn
+Phường Tân_Phú
+2
+2
+50
+50
+87
+247
+334
+THPT_BC Nguyễn_An_Ninh
+93 Trần_Nhân_Tôn
+15
+15
+675
+675
+872
+1574
+2446
+THPT_BC Diên_Hồng
+553 Nguyễn_Tri_Phương
+7
+7
+315
+315
+419
+1083
+1502
+THPT_BC Sương_Nguyệt_Anh
+249 Hòa_Hảo
+5
+5
+225
+225
+272
+607
+879
+THPT_BC Nam_Kỳ_Khởi_Nghĩa
+46/7 Lò_Siêu
+16
+16
+710
+710
+1234
+2480
+3714
+THPT_BC Hoàng_Hoa_Thám
+6 Hoàng_Hoa_Thám
+13
+13
+585
+585
+1497
+1550
+3047
+THPT_BC Nguyễn_Trung_Trực
+9/168 Đường 26/3
+20
+20
+1000
+1000
+851
+2535
+3386
+THPT_BC Hàn_Thuyên
+188 Lê_Văn_Sĩ
+16
+16
+720
+720
+380
+1367
+1747
+PH/THPT BC Lý_Tự_Trọng
+390 Hoàng_Văn_Thụ
+12
+12
+540
+540
+1030
+1749
+2779
+THPT_BC Nguyễn_Thái_Bình
+913-915 Lý_Thường_Kiệt
+20
+20
+900
+900
+999
+1778
+2777
+THPT Trưng_Vương
+3A Nguyễn_Bỉnh_Khiêm
+16
+16
+0
+720
+720
+1909
+1298
+3207
+THPT Bùi_Thị_Xuân
+73-75 Bùi_Thị_Xuân
+1
+12
+13
+45
+540
+585
+1964
+632
+929
+259
+3784
+THPT Năng_khiếu TDTT
+Điện_Biên_Phủ
+2
+2
+4
+90
+90
+180
+382
+646
+255
+261
+1544
+THPT Chuyên_Trần_Đại_Nghĩa
+53 Nguyễn_Du
+3
+6
+9
+90
+180
+270
+THPT Giồng_Ông_Tố
+Phường Bình_Trưng
+3
+9
+12
+135
+405
+540
+569
+339
+591
+245
+1744
+THPT Thủ_Thiêm
+Phường An_Khánh
+3
+7
+10
+135
+315
+450
+198
+498
+209
+549
+1454
+THPT Lê_Quý_Đôn
+110 Ng_Thị_Minh_Khai
+4
+11
+15
+180
+495
+675
+1039
+417
+978
+454
+2888
+THPT Nguyễn_Thị_Minh_Khai
+275 Điện_Biên_Phủ
+3
+15
+18
+135
+630
+765
+1972
+640
+1212
+258
+4082
+PH/THPT Lê_Thị_Hồng_Gấm
+147 Pasteur P . 6
+4
+8
+12
+180
+360
+540
+1066
+2119
+294
+330
+3809
+THPT Nguyễn_Trãi
+364 Nguyễn_Tất_Thành
+3
+14
+17
+135
+630
+765
+1318
+1102
+1125
+401
+3946
+THPT Nguyễn_Hữu_Thọ
+209 Tôn_Thât_Thuyết
+1
+5
+6
+45
+225
+270
+113
+643
+93
+384
+1233
+THPT Chuyên_Lê_Hồng_Phong
+235 Nguyễn_Văn_Cừ
+5
+20
+25
+250
+750
+1000
+THPT Hùng_Vương
+124 Hùng_Vương
+7
+18
+25
+315
+810
+1125
+3915
+1201
+2068
+902
+8086
+THPT Năng_khiếu
+153 Nguyễn_Chí_Thanh
+2
+7
+9
+70
+200
+270
+TH Thực_Hành ĐHSP
+280 An_Dương_Vương
+1
+3
+4
+40
+120
+160
+379
+216
+256
+97
+948
+THPT Mạc_Đĩnh_Chi
+4 Tân_Hòa_Đông
+11
+14
+25
+495
+630
+1125
+2169
+837
+2360
+817
+6183
+THPT Bình_Phú
+84/47 Lý_Chiêu_Hoàng
+18
+18
+0
+810
+810
+1475
+2499
+3974
+THPT Lê_Thánh_Tôn
+Đường 17 P.Tân Kiểng Q7
+2
+8
+10
+90
+360
+450
+556
+426
+439
+221
+1642
+THPT Ngô_Quyền
+1360 P.Phú Mỹ Q7
+3
+12
+15
+135
+540
+675
+920
+787
+911
+650
+3268
+THPT Tân_Phong
+19F , KP 1 , phường Tân_Phong
+3
+9
+12
+135
+405
+540
+220
+1069
+398
+1098
+2785
+THPT Lương_Văn_Can
+173 Chánh_Hưng
+3
+12
+15
+135
+540
+675
+1485
+1091
+1138
+415
+4129
+THPT Ngô_Gia_Tự
+360E Bến_Bình_Đông
+3
+10
+13
+135
+450
+585
+379
+1172
+571
+801
+2923
+THPT Tạ_Quang_Bửu
+909 Tạ_Quang_Bửu
+18
+18
+0
+810
+810
+699
+1400
+2099
+THPT_TDTT Nguyễn_Thị_Định
+Phường 16
+2
+3
+5
+90
+135
+225
+43
+169
+93
+165
+470
+THPT Nguyễn_Huệ
+Phường Long_Thạnh_Mỹ
+4
+12
+16
+180
+540
+720
+792
+506
+994
+709
+3001
+THPT Phước_Long
+Phường Phước_Long
+3
+9
+12
+135
+405
+540
+424
+635
+715
+1110
+2884
+THPT Long_Trường
+Phường Long_Trường
+4
+11
+15
+180
+495
+675
+139
+971
+235
+1042
+2387
+THPT Nguyễn_Khuyến
+514 Nguyễn_Tri_Phương
+4
+14
+18
+180
+630
+810
+1600
+3989
+850
+590
+7029
+THPT Nguyễn_Du
+21 Đồng nai - CX Bắc_Hải
+3
+12
+15
+135
+540
+675
+1406
+1420
+1278
+579
+4683
+THPT Nguyễn_Hiền
+1/3 Cư_xá Bình_Thới
+4
+11
+15
+180
+495
+675
+2231
+1153
+749
+363
+4496
+THPT Võ_Trường_Toản
+Phường Hiệp_Thành
+18
+18
+0
+810
+810
+937
+679
+1616
+THPT Trường_Chinh
+Phường Đông_Hưng_Thuận
+3
+10
+13
+135
+450
+585
+597
+1778
+929
+1003
+4307
+THPT Thạnh_Lộc
+Phường Thạnh_Lộc
+3
+9
+12
+135
+405
+540
+315
+612
+521
+549
+1997
+THPT Thanh_Đa
+Lô G_Cư xá Thanh_Đa
+3
+9
+12
+135
+405
+540
+800
+1313
+564
+664
+3341
+THPT Võ_Thị_Sáu
+95 Đinh_Tiên_Hoàng
+8
+10
+18
+360
+450
+810
+1339
+1229
+1370
+705
+4643
+THPT Gia_Định
+195/29 Xô_Viết_Nghệ_Tĩnh
+5
+17
+22
+250
+765
+1015
+2042
+789
+1602
+580
+5013
+THPT Phan_Đăng_Lưu
+27 Nguyễn_Văn_Đậu
+4
+12
+16
+180
+540
+720
+1729
+3042
+1038
+2148
+7957
+THPT Gò_Vấp
+90 Nguyễn_Thái_Sơn
+14
+14
+0
+630
+630
+1091
+727
+1818
+THPT Nguyễn_Công_Trứ
+97 Quang_Trung
+6
+18
+24
+270
+810
+1080
+2258
+500
+2551
+525
+5834
+THPT Trần_Hưng_Đạo
+P17 Gò_Vấp
+2
+12
+14
+90
+540
+630
+810
+1952
+606
+889
+4257
+THPT Phú_Nhuận
+37 Đặng_Văn_Ngữ
+4
+13
+17
+180
+585
+765
+1951
+898
+1501
+369
+4719
+THPT Nguyễn_Chí_Thanh
+189/4 Hoàng_Hoa_Thám
+3
+11
+14
+135
+495
+630
+1057
+1687
+667
+827
+4238
+THPT Nguyễn_Thượng_Hiền
+544 CMT8
+17
+17
+0
+765
+765
+1970
+123
+2093
+THPT Nguyễn_Hữu_Huân
+1 Đoàn_Kết
+4
+13
+17
+180
+585
+765
+1147
+80
+1629
+300
+3156
+THPT Thủ_Đức
+45/1 Đặng_Văn_Bi
+2
+14
+16
+630
+630
+1452
+1142
+2594
+THPT Tam_Phú
+Phường Tam_Phú
+10
+10
+450
+450
+777
+1183
+1960
+THPT Hiệp_Bình
+P . Hiệp_Bình_Phước
+10
+10
+100
+450
+550
+94
+507
+751
+785
+2137
+THPT Bình_Chánh
+Xã Bình_Chánh
+4
+14
+18
+180
+630
+810
+681
+485
+765
+442
+2373
+THPT Lê_Minh_Xuân
+Xã Lê_Minh_Xuân
+2
+10
+12
+90
+450
+540
+639
+558
+579
+365
+2141
+THPT Đa_Phước
+Xã Đa_Phước
+3
+11
+14
+135
+495
+630
+345
+439
+337
+441
+1562
+THPT Bình_Khánh
+Xã Bình_Khánh
+17
+17
+0
+765
+765
+858
+2
+860
+THPT Cần_Thạnh
+Xã Cần_Thạnh
+9
+9
+0
+405
+405
+400
+1
+401
+THPT Củ_Chi
+Khu_phố 1 Thị_trấn
+15
+15
+675
+675
+1118
+284
+1402
+THPT Quang_Trung
+Xã Phước_Thạnh
+10
+10
+450
+450
+687
+373
+1060
+THPT An_Nhơn_Tây
+Xã An_Nhơn_Tây
+2
+10
+12
+90
+450
+540
+529
+99
+873
+79
+1580
+THPT Trung_Phú
+Xã Tân_Thạnh_Đông
+3
+12
+15
+135
+540
+675
+1130
+43
+1097
+93
+2363
+THPT Trung_Lập
+Xã Trung_Lập
+10
+10
+0
+450
+450
+298
+751
+1049
+THPT Phú_Hòa
+Xã Phú_Hòa_Đông
+2
+10
+12
+90
+450
+540
+257
+579
+299
+475
+1610
+THPT Tân_Thông_Hội
+Xã Tân_Thông_Hội
+3
+9
+12
+135
+405
+540
+141
+992
+1026
+324
+2483
+THPT Thiếu_Sinh_Quân
+Xã An_Nhơn_Tây
+0
+0
+0
+THPT Nguyễn_Hữu_Cầu
+Xã Trung_Chánh
+3
+11
+14
+135
+495
+630
+925
+97
+1012
+154
+2188
+THPT Lý_Thường_Kiệt
+Xã Thới_Tam
+2
+8
+10
+90
+360
+450
+1333
+438
+1283
+519
+3573
+THPT Bà Điểm
+Xã Bà_Điểm
+3
+9
+12
+135
+405
+540
+1213
+818
+1052
+870
+3953
+THPT Nguyễn_Văn_Cừ
+Xã Xuân_Thới_Thượng
+2
+8
+10
+90
+360
+450
+406
+1049
+463
+1034
+2952
+THPT Nguyễn_Hữu_Tiến
+Xã Đông_Thạnh
+2
+12
+14
+90
+540
+630
+287
+1179
+412
+1207
+3085
+THPT Long_Thới
+Xã Long_Thới
+12
+12
+0
+540
+540
+386
+407
+793
+THPT Tân_Bình
+Đường 27/3 - P14
+4
+14
+18
+180
+630
+810
+1134
+3261
+804
+1249
+6448
+THPT Trần_Phú
+Đường số 37 - P18
+8
+14
+22
+360
+630
+990
+2510
+818
+2426
+720
+6474
+THPT An_Lạc
+Thị_trấn An_Lạc
+7
+7
+14
+315
+315
+630
+762
+991
+918
+872
+3543
+· Cam_Lu
+PV / VietNam Net

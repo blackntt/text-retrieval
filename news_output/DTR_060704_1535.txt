@@ -1,0 +1,22 @@
+﻿ “ Giữ bí_mật ” hình_ảnh trên ĐTDĐ
+Để ghi lại những hình_ảnh đáng nhớ cho riêng mình , chắc_chắn bạn sẽ cần đến ứng_dụng bảo_mật hình_ảnh và còn gì tuyệt_vời hơn khi lưu lại được mốc thời_gian trên những tấm hình đẹp mà bạn đã chụp .
+Xin giới_thiệu với các bạn 2 ứng_dụng hữu_ích cho việc bảo_mật và lưu_giữ thời_gian trên hình_ảnh chụp từ mobile .
+Handy_Photosafe - Bảo_mật hình_ảnh
+Không ai có_thể phủ_nhận sự ưu_việt của tính_năng chụp ảnh trên ĐTDĐ . Nó giúp bạn ghi lại những khoảnh_khắc đáng nhớ . Nhưng nhiều lúc bạn không muốn người khác thấy một_số khoảnh_khắc mà bạn chỉ muốn giữ cho riêng mình .
+Đây chính là ứng_dụng giúp bạn lưu_trữ các hình_ảnh cần bảo_mật và chúng sẽ được bảo_vệ bằng chính mật_mã do bạn tạo ra . Sau khi cài_đặt chương_trình , ngay lần đầu_tiên chạy , ứng_dụng sẽ yêu_cầu bạn nhập mật_mã đã đặt . Bạn nhấn lại một lần mật_mã để xác_nhận ( Confirm ) . Sau đó , vào phần Option để sử_dụng các tính_năng sau :
+- Add from Image : Thêm hình_ảnh cần lưu_trữ vào ứng_dụng . Bạn có_thể lấy từ bộ_nhớ máy ( Phone memory ) hoặc thẻ nhớ ( Memory card ) .
+- Settings : Cài_đặt các hiệu_chỉnh :
++ Pass word : Cài lại mật_mã
++ Auto lock after : Tự_động khoá sau 5 phút , 15 phút và 1 giờ .
+Sau khi chép hình vào trong ứng_dụng , bạn có_thể vào Option để sử_dụng thêm các phần sau :
++ Open : Mở xem hình
++ Return to Image : Trả hình về vị_trí ban_đầu , tức_là không thực_hiện bảo_mật nữa .
++ Delete : Xoá hình
+Phoda - Lưu ngày_tháng trên hình
+Phần_mềm này tiếp_tục hỗ_trợ cho tính_năng chụp hình của mobile . Nguyên_bản , hình_ảnh do ĐTDĐ chụp thường không được ghi_chú lại ngày_tháng chụp . Do_đó , ứng_dụng này sẽ là phương_tiện lưu lại thời_gian để bạn biết tấm ảnh đã được chụp khi nào . Ứng_dụng không_những cho_phép lưu ngày_tháng trực_tiếp trên tấm ảnh mà_còn có_thể lưu trên tên file để không cần xem ảnh , bạn vẫn có_thể nhớ tấm ảnh chụp vào thời_gian nào . Bạn cũng có_thể chọn vị_trí để thể_hiện ngày_tháng trên tấm hình . Sau khi cài_đặt , bạn có_thể thực_hiện như sau :
+Vào_Option , sau đó bạn sẽ thấy các mục sau để hiệu_chỉnh theo ý_muốn :
++ Open image : Mở tấm hình cần xem :
++ Add date to image : Thêm ngày_tháng vào tấm hình ( nếu chưa có ) . Bạn chọn hai vị_trí để hiển_thị ngày_tháng trên hình là : top left ( phía góc trái ) hoặc bottom right ( bên phải phía dưới ) .
+Settings : Cài_đặt các hiệu_chỉnh :
++ Date location : Chọn vị_trí thể_hiện ngày_tháng trên hình . Bạn có hai lựa_chọn như đã nói ở trên .
++ File ảnh image mode : Chọn các chế_độ thể_hiện ngày_tháng . Bạn đánh_dấu vào các chọn_lựa : date in image ( thêm ngày_tháng vào hình ) , date in file ( thêm ngày_tháng vào tên file ) , keep orginal ( giữ nguyên_bản ) . Theo e CHIP Mobile

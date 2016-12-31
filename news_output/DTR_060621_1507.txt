@@ -1,0 +1,10 @@
+﻿ IBM phát_triển chip 500 GHz
+( Dân_trí ) – Hai công_ty IBM và Georgia_Tech đã thử_nghiệm thành_công một con chip có tốc_độ xử_lý lên tới 500GHz - một kỷ_lục đối_với một thiết_bị silicon - bằng cách hạ nhiệt_độ con chip xuống gần nhiệt_độ âm tuyệt_đối .
+Kết_quả thử_nghiệm này là một phần trong dự_án khám_phá giới_hạn tốc_độ của các con chip sử_dụng nguyên_liệu Silicon-Germanium ( SiGe ) . Các con chip SiGe là tương_tự như các con chip sử_dụng nguyên_liệu silicon bình_thường , chỉ khác một điều là nó thêm nguyên_tố Germanium ( Ge ) giúp tăng khả_năng vận_hành và giảm mức tiêu_thụ năng_lượng .
+Nhưng việc bổ_sung thêm nguyên_tố Germanium có_thể làm tăng giá_thành sản_xuất và khiến con chip này chỉ có_thể được tiêu_thụ trên một số_ít thị_trường . IBM đã đưa ra thị_trường hàng trăm con chip SiGe kể từ năm 1998 . Tuy_nhiên , ngành công_nghiệp điện_thoại_di_động vẫn ưa_thích các con chip bằng silicon thông_thường hơn .
+" Chúng_tôi đã đạt được một kết_quả thật tuyệt_vời . Nó chứng_minh một điều là chúng_ta chưa_thể chạm đến giới_hạn vận_hành của nguyên_liệu silicon . Đây là kết_quả rất đáng khích_lệ , " Bernie_Meyerson - giám_đốc bộ_phận nghiên_cứu vật_liệu bán_dẫn của IBM - nói .
+Con chip mới của IBM-Georgia Tech đã đạt được tốc_độ tối_đa 500GHz , tức_là nhanh hơn gấp 100 lần so với các loại chip PC nhanh_nhất hiện_nay và gấp 250 lần các loại chip ứng_dụng trong điện_thoại_di_động .
+Ở nhiệt_độ phòng , con chip của IBM-Georgia Tech vẫn đạt được tốc_độ 350GHz , vẫn nhanh hơn rất nhiều tốc_độ các loại chip PC nhanh_nhất hiện_nay . Chip_Si Ge có_thể đạt được tốc_độ cao hơn nếu nhiệt_độ được hạ thấp hơn_nữa .
+Theo lý_thuyết chip SiGe có_thể đạt đến tốc_độ 1 terahert .
+Meyerson dự_báo tiến_bộ mới nhất trong công_nghệ sản_xuất chip sẽ được ứng_dụng trên các sản_phẩm thực trong khoảng vài năm tới đây .
+Hoàng_Dũng_Theo CNet / AP

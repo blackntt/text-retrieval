@@ -1,0 +1,8 @@
+﻿ Hai ngón_tay robot “ siêu nhỏ ”
+Hai ngón_tay robot được chế_tạo có khối_lượng 16mg , kích_thước mỗi ngón 1mm x 10mm x 0,17 mm .
+Song điều gây ngạc_nhiên không_chỉ là những con_số siêu nhỏ này mà chính là khả_năng mang tải gấp 12 lần trọng_lượng bản_thân của robot với vật_liệu polymer dẫn_điện chế_tạo từ polypyrrolet thay cho các loại động_cơ truyền_thống như điện hoặc thủy_lực trong các hệ_thống robot kích_thước nhỏ . Các ứng_dụng có độ_chính_xác rất cao , từ 1-2 micrometer .
+Kết_quả nghiên_cứu của Nhật_Nam đã được đăng trên tạp_chí khoa_học quốc_tế Sensors & amp ; Actuators . Đại_học Wollongong cũng đã gửi kết_quả này cho hội_nghị khoa_học quốc_tế khác tại Bắc_Kinh sẽ diễn ra_vào tháng 5-2006 .
+Nhật_Nam vốn tốt_nghiệp kỹ_sư hàng_không loại giỏi Trường ĐH Bách_khoa TP.HCM , rồi được ba trường ĐH ở Úc nhận vào học thạc_sĩ .
+Năm 2005 , Nam tốt_nghiệp thạc_sĩ ngành cơ điện_tử hạng giỏi , được cấp học_bổng toàn_phần nghiên_cứu tiến_sĩ ở ĐH Wollongong - ngôi trường có phòng_thí_nghiệm về vật_liệu polymer thuộc loại top_ten của thế_giới . Đó cũng chính là nơi Nam cho ra_đời con robot của mình .
+Nam dự_tính tiếp_tục chế_tạo các bàn_tay robot có nhiều ngón hoặc các ngón_tay có nhiều đốt để thao_tác các vật_thể tốt hơn , sau đó thiết_lập một mô_hình để điều_khiển robot hoàn_toàn tự_động .
+ĐẶNG_TƯƠI

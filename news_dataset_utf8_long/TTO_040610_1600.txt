@@ -1,0 +1,7 @@
+﻿Hướng dẫn cơ bản để phát triển J2ME trên ĐTDĐ
+
+- Phát triển ứng dụng với J2ME , hướng dẫn bạn từng bước cách lập trình cho các thiết bị di động sử dụng bộ công cụ Wireless Toolkit 1.0 của Sun. 
+- Hướng dẫn sử dụng Samsung SDK 1.0 , giúp bạn làm quen với việc kiểm nghiệm các ứng dụng của bạn trên Samsung SDK 1.0 hỗ trợ MIDP 1.0 như X600. 
+- Phát triển ứng dụng J2ME với Samsung JaUmi SDK 2.0 . Đây là bộ công cụ phát triển mới nhất của Samsung, JaUmi 2.0 giúp bạn phát triển và kiểm nghiệm các ứng dụng MIDP 1.0 và 2.0 có sử dụng thêm các tính năng của điện thoại Samsung.
+
+BTC

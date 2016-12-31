@@ -1,0 +1,24 @@
+﻿Trí tuệ Việt Nam: Chấp nhận tỷ lệ mã nguồn mở N%?
+
+Việc dùng mã nguồn mở là tất yếu trong tình hình hiện nay ở các nước đang phát triển. Đó là việc cần phải biết đứng trên vai người khổng lồ. Giới CNTT đã có hẳn quy định về việc dùng mã nguồn mở, trong đó nhấn mạnh sự tôn trọng bản quyền lẫn nhau theo luật mã nguồn mở GPL. 
+Việc các thí sinh dự thi TTVN có dùng mã nguồn mở là việc làm cần khuyến khích. Đó là thế mạnh để đi tắt, đón đầu. Song vấn đề là ở mức độ nào thì chấp nhận được? Tôi nghĩ chưa ai ngăn cản việc sử dụng mã nguồn mở trong các cuộc thi song Ban tổ chức (BTC) cần có quy định rõ và cụ thể hơn. 
+Với tư cách thành viên Ban giám khảo TTVN 2003, tôi khẳng định Ban giám khảo đã làm việc nghiêm túc, độc lập nhau và làm theo quy định của BTC. Cũng tranh cãi nhau kịch liệt và khi chấm giải thì ngay cả BTC cũng bị mời ra ngoài. 
+Năm 2003, BGK đã chấm điểm, loại ra khỏi các giải khi phát hiện một vài thí sinh ở ngay vòng chung kết, tuy có sản phẩm khá ấn tượng song không khai báo về việc dùng mã nguồn mở. BGK đã phát hiện ra website chứa sản phẩm mã nguồn mở đó. Cũng có uỷ viên đề nghị không nhất thiết phải trao giải Nhất. Cuộc thi chọn giải hiện nay là “bó đũa chọn cột cờ” theo cơ cấu giải mà BTC đã quy định (vòng sơ khảo do BTC chủ trì, cụ thể là Công ty FPT). 
+Việc có tước giải hay không khi phát hiện gian lận là việc của BTC. Tương tự trong thi đấu thể thao, hoa hậu, chấm và trao giải theo thành tích thi đấu song một khi người ta phát hiện sử dụng chất kích thích hay gian lận gì đó sau khi trao huy chương vàng thì cũng bị lên án, xử lý. Thậm chí có năm, BGK còn tổ chức chấm công khai (ở Khách sạn Công đoàn), còn khuyến khích các đội bạn, thí sinh khác đặt câu hỏi… 
+Sau sự kiện “đau buồn” này, điểm cần rút kinh nghiệm là: Thí sinh cần trung thực khai báo; cần ghi rõ và đầy đủ tài liệu tham khảo, mã nguồn tham khảo… và tự đánh giá mức độ dùng đến đâu. 
+Với BTC của mọi cuộc thi (không riêng TTVN): 
+- Đề ra những quy định chặt chẽ hơn, kể cả cái quy định nếu phát hiện gian lận (sau khi có giải) thì cần xử lý ra sao. 
+- Chấp nhận tỷ lệ dùng mã nguồn mở bao nhiêu là vừa? Cho đến nay cũng khó mà nói thế nào là N%? 
+- Chấm theo sản phẩm hay chấm theo bản thiết kế sản phẩm? Bên cạnh việc BGK và mọi người cùng xem sản phẩm nó chạy thế nào (chấm theo sản phẩm), cần tiến tới chấm cả bản thiết kế sản phẩm như sinh viên bảo vệ đồ án tốt nghiệp đại học. Muốn làm được điều đó, các thí sinh phải viết báo cáo về quy trình thiết kế chi tiết. Đây còn là mặt yếu của các thí sinh từ nhiều năm nay. 
+Một vài đề xuất: 
+- Nên mở riêng một cuộc thi về ứng dụng phần mềm mã nguồn mở như tôi đã đề nghị tại cuộc họp CLB các phóng viên CNTT hồi giữa năm. Tôi còn đề xuất cuộc thi các luận án tốt nghiệp ngành CNTT nhưng chưa thực hiện được. 
+- Nên mở rộng BGK hoặc thay đổi thành phần BGK, có mời thêm cộng đồng mã nguồn mở. Tổ chức nghe trình bày, chấm công khai, mời cả các đội khác, thí sinh khác đặt câu hỏi… 
+- Nên nghiên cứu lại cách đặt tên các cuộc thi. Các nhà tổ chức muốn đặt những cái tên nó thật … kêu. Nghe kêu càng to thì lại càng dễ tai tiếng vì sản phẩm nó không đúng tầm. 
+Từ năm 1998, tôi đã biên soạn bản hướng dẫn cho sinh viên “Làm, viết và bảo vệ đồ án tốt nghiệp cho sinh viên”, đăng tải tại địa chỉ http://forum.edu.net.vn/ShowPost.aspx?PostID=3463 với ba câu hỏi chính: Làm gì, Làm như thế nào và Kết quả ra sao. Đây mới chính là cái tôi mong muốn: Ngoài việc làm tốt sản phẩm, các thí sinh phải viết tốt tài liệu thiết kế. Việc thuyết minh làm như thế nào là rất quan trọng: thiết kế ra sao, công cụ, mã nguồn, tài liệu và website tham khảo… 
+Sự kiện CNTT này có mặt tích cực của nó về việc sử dụng và khai thác phần mềm mã nguồn mở. Xã hội Việt Nam biết thêm nhiều điều về mã nguồn mở: Về luật lệ sử dụng, về việc cần phải biết khai thác cái kho vàng này (nhất là giới sinh viên CNTT) để đáp ứng nhu cầu phát triển, học tập… mà không quá tốn kém. 
+Tinh thần “thượng võ”: Xã hội ghi nhận công lao góp ý kiến của anh Nguyễn Ngọc Xuân và cộng đồng CNTT, các diễn đàn tin học, các hacker mũ trắng… Tôi có cảm giác là giới CNTT Việt Nam mạnh lên, xích gần với nhau thành một cộng đồng mạnh mẽ. 
+Cần ủng hộ các nhóm sinh viên, các chuyên gia CNTT trẻ lập các website về mã nguồn mở, thí dụ như http://nguonmo.com . 
+Các cơ quan nhà nước cũng cần cẩn trọng hơn để khỏi bị hớ khi mua các sản phẩm thương mại hay khai thác các sản phẩm mã nguồn mở. Cần tiếp tục khuyến khích việc thích nghi sản phẩm với nhu cầu của Việt Nam. Tất nhiên trên tinh thần tôn trọng GPL. 
+QUÁCH TUẤN NGỌC (Giám đốc Trung tâm Tin học, thuộc Bộ Giáo dục - Đào tạo)
+
+Theo VietNamNet

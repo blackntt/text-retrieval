@@ -1,0 +1,6 @@
+﻿Chương trình thí điểm phân ban lớp 10: Học sinh khối A viết văn dở
+
+Tại Trường Nguyễn Thị Minh Khai, các giáo viên đã nêu một số khó khăn, bất cập trong chương trình và sách giáo khoa mới. Cụ thể, bộ môn văn - tiếng Việt là môn cơ sở, khối A học ba tiết/tuần nhưng được tính hệ số 1. Điều này đã khiến HS khối A coi thường bộ môn này và hệ quả là khả năng diễn đạt của nhiều HS rất dở. 
+Các giáo viên còn cho biết chương trình mới yêu cầu HS chủ động, phải soạn bài trước khi lên lớp nhưng với mười mấy môn thì HS không thể soạn nổi nên đối phó bằng cách chép bài soạn của nhau. Ngoài ra trong sách giáo khoa tiếng Anh có một số kiến thức sai nhưng không được đính chính kịp thời.
+
+K.LIÊN

@@ -1,0 +1,13 @@
+﻿Intel công bố chip mới để “dằn mặt” AMD
+
+Tập đoàn Intel vừa giới thiệu dòng vi xử lý mới được quảng cáo là mạnh mẽ và năng suất hơn nhằm tìm lại ánh hào quang đang có phần bị AMD che lấp. 
+ 
+Thừa nhận rằng hãng chip số một thế giới đang phải "oằn mình dưới sức ép cạnh tranh cực lớn", giám đốc công nghệ Justin Ratter của Intel cho biết tại Diễn đàn các nhà phát triển Intel (IDF) ở Sans Francisco (Mỹ), hãng sẽ quay lại với xu hướng chế tạo chip tiết kiệm điện năng trong thời gian tới. 
+Với việc tung ra dòng vi xử lý mới, Intel hy vọng sẽ có thể giành lại thị phần đã mất trong quý III này. Nhiều nhà phân tích cũng chia sẻ quan điểm này với Intel. "Bước tiến của AMD chắc chắn sẽ hẹp lại trong vòng 6 tháng tới, thậm chí còn có thể thụt lùi", Nathan Brookwood, trưởng bộ phận tư vấn bán dẫn của Insight64 cho biết. 
+Sau một thời gian dài chịu cảnh đàn áp của đế chế Intel, AMD đã có được sự bứt phá ngoạn mục trong vài năm trở lại đây, bằng những sáng kiến như nén hai lõi xử lý vào một nền chip duy nhất, cho phép hệ thống điều khiển cùng lúc nhiều nhiệm vụ được hiệu quả hơn. 
+Những phát minh này đã giúp AMD gặt hái được khá nhiều thành công, dẫu rằng Intel vẫn vượt xa AMD trong lĩnh vực PC (tỷ lệ 4:1) và laptop (9:1). 
+Trong khi đó, "loại chip mới sẽ là một bước tiến dài về hiệu suất, mang lại lợi ích cho cả người dùng lẫn chúng tôi - xét từ phương diện cạnh tranh", Pal Gelsinger, Phó chủ tịch cấp cao Bộ phận doanh nghiệp của Intel bình luận về chip mới. "Nhưng kỳ diệu nhất là trong khi hiệu suất tăng lên, mức ngốn điện năng của con chip vẫn giảm được xuống". 
+Việc chế tạo được những con chip tiết kiệm điện năng và hiệu suất mạnh mẽ sẽ giúp các hãng máy tính thiết kế được những sản phẩm "lù lù như xe tăng", siêu hiệu quả song không hề gây ồn. Người dùng sẽ có thể đặt những cỗ máy hoàn hảo này bên trong phòng sinh hoạt gia đình để nghe nhạc, xem video và tận hưởng các nội dung giải trí số. 
+Con chip mới - được Intel đặt tên là Core Microarchitecture - sẽ bắt đầu xuất hiện bên trong máy tính từ cuối năm nay. Phá vỡ truyền thống luôn giới thiệu chip cho máy tính desktop trước tiên, lần này Intel lại chọn xuất phát cùng máy chủ - lĩnh vực mà hãng này đánh mất thị phần nhiều nhất. 
+Con chip máy chủ mới có tên mã là Woodcrest sẽ đạt hiệu suất tăng tới 80% trong khi nguồn điện đòi hỏi ít hơn 35%. Trong khi đó, chip desktop Conroe sẽ tăng hiệu suất lên 40% và giảm mức điện năng tiêu thụ cũng 40%. 
+Theo Thiên Ý VietNamNet/Reuters

@@ -1,0 +1,11 @@
+﻿Mỹ đưa vào sử dụng hệ thống cảnh báo an ninh mạng quốc gia
+
+Theo Giám đốc NCSD Amit Yoran, NCAS là hệ thống cấp quốc gia đầu tiên dành riêng "để xác định, phân tích và đối phó đối với các mối đe doạ lây lan qua đường Internet". 
+Người truy cập Internet khi đã đăng ký tham gia hệ thống sẽ nhận được e-mail cảnh báo về sự xuất hiện những loại sâu như Mydoom, đồng thời được hướng dẫn các phương cách đảm bảo an toàn cho PC. 
+Nhà chức trách Bộ an ninh nội địa Mỹ cho biết, họ hy vọng bước tiến này sẽ góp phần hạn chế và làm chậm lại sự lan rộng của các cuộc tấn công trực tuyến bằng cách thông báo kịp thời cho công chúng biết và ý thức được những điểm yếu cụ thể trong hệ thống có thể bị khai thác. 
+Hệ thống của Bộ an ninh nội địa Mỹ cũng là một kênh chuyển tiếp những cảnh báo từ các công ty an ninh mạng như Symantec. Điểm khác biệt của DHS so với hệ thống cảnh báo khủng bố là nó sẽ không thông báo cấp độ nguy hiểm theo màu sắc. 
+Trước khi NCAS được đưa vào sử dụng, mọi cảnh báo về an ninh mạng đều do các công ty bảo mật, các trung tâm nghiên cứu hoặc chính phủ cung cấp. 
+Thông tin chi tiết cũng như thủ tục đăng ký dịch vụ được đăng tải tại website http://www.us-cert.gov . Cảnh báo được chuyển dưới dạng email và nội dung được phân định thành 2 loại: non-technical dành cho người sử dụng bình thường và technical dành cho người sử dụng có kinh nghiệm hoặc các nhà quản trị. 
+Tuy nhiên, không phải tất cả đều có thái độ vui mừng với sự ra đời dịch vụ cảnh báo, thậm chí nhiều người còn lo ngại đây sẽ trở thành một con mồi mới cho tin tặc gài virus.
+
+Theo TechWeb, Reuters

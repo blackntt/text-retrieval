@@ -1,0 +1,7 @@
+﻿ Lỗi trong Microsoft_Word đã bị hacker khai_thác
+Tin_tặc đã cố thử khống_chế hệ_thống máy_tính thuộc chính_phủ Nhật thông_qua một lỗ_hổng mới trong trình xử_lý_văn_bản của Microsoft . Đồng_thời , hãng bảo_mật Mỹ_Symantec đã nâng mức cảnh_báo lên cấp_độ 2 , tức lỗi này có nguy_cơ gây ra một đợt khai_thác lớn .
+Chương_trình nguy_hiểm ẩn sau một tệp Word đính kèm trong e - mail . Trong trường_hợp ở Nhật , tài_liệu chứa những thông_tin liên_quan đến một điều_khoản với Trung_Quốc . Khi file đó được mở , một phần_mềm mở cổng hậu ( backdoor ) sẽ lập_tức thâm_nhập vào hệ_thống .
+" Backdoor này chỉ ping ( thông_báo ) về sự tồn_tại của một địa_chỉ IP ở châu Á . Tuy_nhiên , các hacker khác có_thể bắt_đầu khai_thác lỗi trên diện rộng với những mục_đích khó lường " , Vincent_Weafer , Giám_đốc bộ phân Symantec_Security_Response , nói .
+Đáng ngại hơn , phần_mềm nguy_hiểm trên có_thể vượt qua tầm kiểm_soát của các bộ lọc spam . Chương_trình diệt virus của Symantec đã không hề phát_hiện ra file Word nào bị nhiễm mã độc .
+Đại_diện của Microsoft khẳng_định họ đang gấp_rút xây_dựng bản cập_nhật cho ứng_dụng Word nhằm khắc_phục vấn_đề trên . Bản vá sẽ được phát_hành vào ngày 13/6 , nhưng nếu cần có_thể được ra_mắt sớm hơn .
+Theo T . N . VnExpress/CNet

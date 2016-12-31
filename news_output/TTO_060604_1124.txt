@@ -1,0 +1,5 @@
+﻿ Mozilla nâng_cấp lần cuối cho dòng Firefox 1.5
+Công_ty bảo_mật Secunia đưa ra khuyến_cáo cấp_thời rằng những người hâm_mộ Firefox nên tải về dùng ngay_lập_tức bản Firefox 1.5.0.4 vì 5 lỗi bảo_mật nói trên đều thuộc dạng “ rất nghiêm_trọng ” , tạo điều_kiện cho kẻ tấn_công xâm_nhập hệ_thống để tung mã độc . Một_số lỗi bảo_mật khác cũng cho_phép kẻ tấn_công tung vào máy_tính các mã lệnh JavaScript độc_hại .
+Trong dịp nâng_cấp cho Firefox lần này , Mozilla cũng đồng_thời tung ra bản vá 8 lỗi bảo_mật cho trình quản_lý e - mail Thunderbird tức phiên_bản Thunderbird đời_mới nhất 1.5.0.4 .
+Đại_diện của Mozilla cho_biết đây là lần nâng_cấp vá lỗi cuối_cùng của dòng trình_duyệt Firefox 1 . x . Người hâm_mộ Firefox và Thunderbird nên ngay_lập_tức vào đây để tải ngay các phiên_bản 1.5.0.4 mới nhất .
+HOÀNG_HẢI ( TechWeb )

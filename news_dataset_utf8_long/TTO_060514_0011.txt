@@ -1,0 +1,6 @@
+﻿Xuất hiện virus liên quan đến bóng đá
+
+Virus Yagnuul-A có hai phần, một nửa lây nhiễm vào các file Excel, nửa còn lại đẩy các file bị lây nhiễm này vào ổ cứng của máy tính để sẵn sàng tấn công mỗi khi người sử dụng mở bất cứ file nào khác. Chúng phá hoại các file Excel và sửa đổi các dữ kiện được lưu trữ trong máy tính. 
+Công ty bảo mật Sophos của Mỹ khuyên các cổ động viên bóng đá và người sử dụng máy tính cần cảnh giác cao trước những thư điện tử hoặc quảng cáo về các liên đoàn bóng đá hoặc những thông tin hướng dẫn về World Cup 2006.
+
+Q.HƯƠNG (Theo Business Wire)

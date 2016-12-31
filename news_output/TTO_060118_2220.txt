@@ -1,0 +1,11 @@
+﻿ System_Cleaner : chổi dọn rác máy_tính hiệu_quả
+Bạn có_thể quét_dọn một_cách thủ_công , tuy_nhiên sẽ không hiệu_quả bằng sử_dụng chương_trình chuyên_dụng . System_Cleaner là chương_trình dọn “ rác ” rất sạch_sẽ , cách sử_dụng đơn_giản .
+Chạy chương_trình , trong cửa_sổ chính , phần khung bên trái bạn chọn mục Clean_My_Computer . Mục_What do you want to scan có các lựa_chọn như :
+- Find and remove junk and obsolete files : Tìm và xóa các file rác trên hệ_thống .
+- Find and remove broken shortcuts : Tìm và xóa các shortcut bị hỏng .
+- Clean directories and cache files : Xóa cache .
+Chọn một mục mà bạn muốn dọn_dẹp . Nhấn_Run_Scan_Now để bắt_đầu quét .
+Sau khi chương_trình quét xong sẽ hiển_thị danh_sách các file rác mà nó tìm được trong khung bên dưới . Bạn chọn phương_thức dọn_dẹp trong phần Please select your preffered method … ( ví_dụ như xóa – Delete only , sao lưu và xóa – Backup & amp ; delete to , nén lại và xóa – Zip & amp ; delete to ) . Để cho an_toàn bạn nên chọn Backup & amp ; delete to . Sau đó nhấn nút Clean_All , chọn Yes để xóa rác .
+Trong trường_hợp chương_trình lỡ xóa nhầm file quan_trọng , bạn có_thể dễ_dàng phục_hồi lại bằng cách chọn Restore_Wizard trong khung bên trái cửa_sổ chương_trình . Sau đó chọn lần xóa rác trước cần phục_hồi và nhấn nút Restore_Selected_Operation .
+System_Cleaner 4.9 tương_thích với Windows 98 / Me / 2000 / XP / 2003 Server . Bạn có_thể tải về bản dùng thử 15 ngày tại địa_chỉ : www.pointstone.com/download ( dung_lượng 1,2 MB ) hoặc tìm mua tại các cửa_hàng bán phần_mềm trên thị_trường
+NGUYỄN_HỒNG_HẠNH

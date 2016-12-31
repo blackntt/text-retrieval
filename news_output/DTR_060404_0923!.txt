@@ -1,0 +1,5 @@
+﻿ Tìm đường trên web
+Trang www . diadiem.com sẽ cho bạn câu trả_lời nhanh_nhất về vị_trí của một địa_chỉ nào_đó tại Hà_Nội hay TPHCM . Không_những thế trang_web này còn chỉ ra lộ_trình ngắn nhất để đến_nơi bạn cần , hoặc giúp tìm_kiếm địa_chỉ một công_ty qua tên gọi , tra_cứu địa_chỉ từ số điện_thoại … rất tiện_lợi .
+Đây là một website hoàn_toàn bằng tiếng Việt , do nhóm Mái Ấm Vina xây_dựng và đã đoạt giải_thưởng “ Trí_tuệ Việt_Nam 2005 khu_vực Đồng_bằng Sông_Cửu_Long ” với những chức_năng chính như : Tìm_kiếm một địa_điểm khi biết địa_chỉ và tên đường ; Tìm_kiếm đường đi giữa hai địa_điểm bất_kỳ ; Lưu_trữ các kết_quả đã tìm để tăng tốc_độ tìm_kiếm ; In kết_quả tìm_kiếm ra giấy ; Thông_tin hướng_dẫn lộ_trình di_chuyển dễ hiểu , rõ_ràng ; Xác_định vị_trí , xem thông_tin nhà_hàng , khách_sạn …
+Trang_web hiện có 3 cách tìm_kiếm : Sử_dụng chức_năng bản_đồ ( bấm chọn mục bản_đồ ) ; Sử_dụng chức_năng Công_ty ( bấm chọn mục công_ty ) ; Sử_dụng chức_năng điện_thoại ( bấm chọn mục điện_thoại ) .
+Hiện_tại website chỉ hỗ_trợ tìm_kiếm trên địa_bàn Hà_Nội và TP Hồ_Chí_Minh . Hoa_Đào

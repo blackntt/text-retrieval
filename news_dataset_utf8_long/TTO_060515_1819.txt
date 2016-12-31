@@ -1,0 +1,10 @@
+﻿VNPT được giảm cước di động
+
+Cụ thể, cước hòa mạng trả sau tối đa là 181.818 đồng/máy/lần, cước hoà mạng trả sau tối thiểu là 27.272 đồng/máy/lần (mức hiện tại: 181.818 đồng/máy/lần). 
+Cước thông tin áp dụng cho thuê bao trả sau tối đa là 1.554 đồng/phút, tối thiểu là 1.227 đồng/phút (cước hiện tại: 727 đồng/30 giây). 
+Đối với thuê bao trả trước, mức cước tối đa không quá 2.727 đồng/phút, tối thiểu không quá 2.000 đồng/phút (mức hiện tại: 1.182đ/30s). 
+Thuê bao ngày có mức cước từ 1.909 - 1.382 đồng/phút (cước hiện tại: 818đ/30s). 
+Cùng với việc ban hành mức cước mới, Bộ Bưu chính - viễn thông đã cho phép VNPT áp dụng phương thức tính cước theo đơn vị tính (block) đầu tiên không thấp hơn 6 giây và đơn vị tính tiếp theo không thấp hơn 1 giây. 
+Ngoài ra, trong các ngày lễ, chủ nhật và từ 23g hôm trước đến 7g sáng hôm sau các ngày từ thứ hai đến thứ bảy, VNPT được áp dụng mức cước giảm nhưng không vượt quá 30% mức cước quy định.
+
+KHIẾT HƯNG

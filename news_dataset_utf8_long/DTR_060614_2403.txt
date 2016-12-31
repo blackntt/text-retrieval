@@ -1,0 +1,13 @@
+﻿Báo động mạng điện thoại di động “ma”
+
+Các công ty diệt virus, trong đó có Microsoft đang cảnh báo người dùng về những hiểm họa từ phần mềm ma malware nhưng, một trong những công ty bảo mật hàng đầu thế giới và các chuyên gia an ninh lại cảnh báo một mối đe dọa tiềm tàng hơn nhắm đến ĐTDĐ. 
+ Mikko Hypponen, Giám đốc nghiên cứu của công ty bảo mật F-Secure (Phần Lan), cho biết điện thoại di động là mảnh đất màu mỡ cho bọn tội phạm mạng, thu lợi hàng triệu USD từ những người dùng ngây thơ. Những kẻ phá hoại này có thể chiếm quyền kiểm soát điện thoại bằng cách sử dụng mạng ma (botnet) mà không cho người dùng biết. Sau đó, chúng sẽ sử dụng những số lưu trong máy để phát tán hàng nghìn tin nhắn SMS rác. Người dùng sẽ bị thiệt hại nặng nề hơn nhiều so với việc sử dụng máy tính để gửi spam. 
+Botnet là mạng máy tính hay điện thoại di động đã bị đột kích mà người dùng không hề hay biết. Botnet có thể tạo ra một mạng gồm hàng nghìn thiết bị ở trên khắp thế giới thuộc quyền kiểm soát của một người. Với sức mạnh như thế, tin tặc có thể thực hiện nhiều hoạt động, trong đó có cả gửi spam. 
+Ông Hypponen cho biết người dùng điện thoại có nguy cơ phải 
+Mikko Hypponen, chuyên gia 
+bẻ mã virus của F-Secure. cam chịu những cước phí thanh toán trên trời vì mạng botnet phá hoại. 
+“Nếu xét về kỹ thuật ăn trộm tiền của virus thì chúng đều giống nhau”, ông này nói. “Phi vụ virus ăn cắp tiền đầu tiên xảy ra cách đây 4 năm dùng chiêu phát tán spam. Và hầu hết thư rác bây giờ đều xuất phát từ mạng máy tính ma do virus chiếm quyền kiểm soát”. 
+Theo ông Hypponen, phần mềm ma lây nhiễm trong điện thoại có thể lan sang các máy khác và gửi tin nhắn SMS tới tất cả các số điện thoại trong danh sách. Hơn nữa, tin tặc có thể tự động cập nhật danh mục điện thoại của người dùng. 
+“Hiện tại mới có hơn 200 loài virus điện thoại. Cách đây 6 tuần, chúng ta mới phát hiện ra con Trojan đầu tiên tấn công điện thoại, tự động gửi tin nhắn tới nhiều số điện thoại thu phí dịch vụ khoảng 5-6 USD, gây thiệt hại đáng kể cho “khổ chủ” khi thanh toán hóa đơn. Nạn nhân sẽ chủ yếu là thuê bao điện thoại ở Nga đang sử dụng các mạng Beeline, MTS và Megafon”, nhà phân tích của F-Secure nói. 
+Trong tương lai, các phần mềm diệt virus dành cho điện thoại là chương trình bắt buộc cài đặt trong máy tính, giống như với máy tính ngày nay. 
+Hương Nguyên Theo The Age

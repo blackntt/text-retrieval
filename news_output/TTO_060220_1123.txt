@@ -1,0 +1,10 @@
+﻿ Sự_cố ở đường truyền_dẫn Bắc - Nam : Vinaphone mất sóng
+Tuy_nhiên , theo thông_tin của các thuê_bao VinaPhone tại khu_vực Hà_Nội , điện_thoại của họ luôn trong trạng_thái dò_tìm mạng , kèm theo thông_báo " limited services " , và không gọi được cho bất_kỳ thuê_bao nào kể_cả tổng_đài . Chúng_tôi đã thử gọi cho một_số quan_chức của Vinaphone tại Hà_Nội nhưng luôn nhận được thông_báo " thuê_bao không liên_lạc được " .
+Tại TP.HCM , bạn_đọc cho chúng_tôi biết , trong_sáng nay thuê_bao VinaPhone luôn báo " error connection " khi gọi đi hoặc nhắn_tin . Đến trưa nay , các cuộc_gọi vẫn không thực_hiện được .
+Chúng_tôi đã liên_lạc với Công_ty Viễn_thông liên tỉnh ( VTN ) và được người trực điều_hành viễn_thông xác_nhận sự_cố này . Đại_diện VTN cho_biết , đây là sự_cố về đường cáp . Do tuyến cáp chính xấu , phải chuyển sang tuyến cáp bảo_vệ và quá_trình chuyển mạch đã gặp sự_cố ở thiết_bị chuyển mạch .
+Sự_cố này tập_trung vào đường truyền của VinaPhone đã làm VinaPhone mất kết_nối . Hiện_nay hệ_thống truyền_dẫn đang bị rối_loạn và bộ_phận kỹ_thuật VTN chưa xác_định được sự_cố xảy_ra ở trạm truyền_dẫn nào trong 37 trạm từ Bắc đến Nam .
+Công_ty Thông_tin di_động ( VMS ) cho_biết sự_cố đã gây ảnh_hưởng đến các thuê_bao trả trước mạng di_động MobiFone tại Trung_tâm 1 ( kể_cả thuê_bao của Trung_tâm 2 đang chuyển vùng tại Trung_tâm 1 ) khiến những thuê_bao này không nạp được tiền vào tài_khoản .
+Các thuê_bao đang sử_dụng số trung_tâm nhắn_tin của Trung_tâm 2 ( +84900000018 hoặc +84900800019 ) cũng có hiện_tượng khó thực_hiện gửi tin nhắn .
+Tính đến 11h30 , theo ông Nguyễn_Mậu_Xuân , phó_giám_đốc VTN , sự_cố vẫn đang được khẩn_trương khắc_phục . Khoảng 12 g trưa nay , phần_lớn các thuê_bao di_động VinaPhone tại Hà_Nội đã kết_nối trở_lại được với tổng_đài .
+Theo Công ty Viễn_thông liên tỉnh ( VTN ) , vào_khoảng 9h30 sáng nay ( 20-2 ) , tuyến đường_trục cáp_quang Bắc_Nam đã gặp sự_cố tại đoạn từ Phước_Sơn ( Quảng_Nam ) đi Kon_Tum gây ảnh_hưởng trực_tiếp tới các mạng điện_thoại có sử_dụng đường truyền này .
+HỒNG_NHUNG - KHIẾT_HƯNG

@@ -1,0 +1,5 @@
+﻿ Singapore : cho SV đặt câu_hỏi bằng tin nhắn
+Nếu có thắc_mắc mà không_thể đứng lên hỏi giảng_viên , SV có_thể soạn tin nhắn rồi gửi đến một_số điện_thoại đặc_biệt . Tin nhắn này sẽ hiện lên màn_hình máy_tính của giảng_viên trong giảng_đường .
+Giảng_viên sẽ trả_lời câu_hỏi ấy ngay trên lớp hoặc trong tiết học sau . Đối_với SV , cách đặt câu_hỏi này rất tiện_ích vì đôi_khi họ không có điều_kiện phát_biểu trong những giảng_đường lớn với gần 500 SV .
+Giáo_sư Yow_Kin_Choong , người phát_minh hệ_thống này , cho_biết sẽ mở_rộng đến các khoa khác trong trường nếu có đủ kinh_phí .
+T.TR ÚC ( Theo Today )

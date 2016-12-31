@@ -1,0 +1,4 @@
+﻿ Điện_thoại tra hồ_sơ hành_chính
+Với hệ_thống trả_lời tự_động nói trên , người_dân có_thể thực_hiện các yêu_cầu mọi lúc mọi nơi trong ngày bằng nhiều phương_tiện phổ_biến như : điện_thoại cố_định , điện_thoại_di_động , nhắn_tin SMS và website của Sở Bưu chính - viễn_thông TP ( www.ict-hcm.gov.vn ) .
+Trong giai_đoạn đầu , hệ_thống này thực_hiện trả_lời tự_động ở các lĩnh_vực : đăng_ký kinh_doanh ( tại Sở Kế hoạch - đầu_tư , các quận huyện ) ; cấp phép lĩnh_vực văn_hóa ; đăng_ký sử_dụng lao_động ; cấp phép xây_dựng và hồ_sơ nhà_đất .
+QUỐC_THANH

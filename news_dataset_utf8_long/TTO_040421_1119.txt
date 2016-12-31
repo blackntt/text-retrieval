@@ -1,0 +1,9 @@
+﻿Một chương trình ẩn rất hay trong Win XP
+
+Bạn có thể vào đó để chạy hay vào Run, nhập tên file đó vào rồi Enter, sẽ hiện ra một giao diện của chương trình PCE như trong hình. Chương trình này có một số chức năng sau đây: 
+- Tạo một ký tự bất kỳ (để làm logo cho riêng mình). 
+- Sao chép, sửa chữa ký tự. 
+- Vẽ một hình đặc biệt để gắn vào bộ font Unicode nào đó đã cài trong Win XP. Như vậy bộ font chữ của bạn sẽ không bao gồm các ký tự thông thường mà còn có các ký tự đặc biệt đó nữa. 
+- Bạn cũng có thể dùng nó để tạo riêng cho mình một bộ font Unicode dành riêng cho bạn hay để tặng ban bè dùng chơi!
+
+Theo LBVMVT

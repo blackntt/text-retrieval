@@ -1,0 +1,4 @@
+﻿ Xuất_hiện virus liên_quan đến bóng_đá
+Virus_Yagnuul - A có hai phần , một_nửa lây_nhiễm vào các file Excel , nửa còn lại đẩy các file bị lây_nhiễm này vào ổ_cứng của máy_tính để sẵn_sàng tấn_công mỗi khi người sử_dụng mở bất_cứ file nào khác . Chúng phá_hoại các file Excel và sửa_đổi các dữ_kiện được lưu_trữ trong máy_tính .
+Công_ty bảo_mật Sophos của Mỹ khuyên các cổ_động_viên bóng_đá và người sử_dụng máy_tính cần cảnh_giác cao trước những thư_điện_tử hoặc quảng_cáo về các liên_đoàn bóng_đá hoặc những thông_tin hướng_dẫn về World_Cup 2006 .
+Q . HƯƠNG ( Theo Business_Wire )

@@ -1,0 +1,5 @@
+﻿ Đĩa_cứng dung_lượng … 10 MB giá bao_nhiêu ?
+Vào tháng 7 năm 1980 , một công_ty máy_tính của Mỹ mang tên Digital_Descant đã đăng một mẩu quảng_cáo bán linh_kiện máy_tính có nội_dung “ cực_kỳ hấp_dẫn ” như sau : ” Chúng_tôi là những chuyên_gia hàng_đầu trong công_nghệ chế_tạo linh_kiện máy_tính . Hiện chúng_tôi đang cung_cấp hệ_thống Standartd BIOS với giá là 150 USD và hệ_thống BIOS cao_cấp hướng người dùng Custom BIOS với giá là 300 USD . Chúng_tôi cũng đang sẵn có loại đĩa_cứng dung_lượng cao đến những 10 Megabyte được tân_trang lại và phân_phối với giá đặc_biệt là 3.495 USD . Loại đĩa_cứng hoàn_hảo mới nguyên Ampex 10 megabyte với công_nghệ mới cũng đang được bán ra với giá là 4.495 USD… ” .
+Như_vậy , nếu quy_đổi giá USD của năm 1980 theo thời_giá USD hiện_nay thì loại đĩa_cứng second hand 10 MB lúc đó đã có_giá đến 8.876 USD , còn loại mới nguyên thì có_giá lên đến 11.415 USD .
+Vào thời_điểm đó , đại_đa_số người dùng máy_tính cũng hầu_như chưa có khái_niệm gì về “ đĩa_cứng ” vì ngay cả loại “ đĩa_mềm ” nguyên_thủy với dung_lượng chỉ vài chục KB lúc đó cũng đã có_giá đến vài chục USD .
+THỤY_KHANH ( TechBlog )

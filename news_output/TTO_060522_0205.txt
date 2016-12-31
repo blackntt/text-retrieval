@@ -1,0 +1,6 @@
+﻿ Vừa chơi vừa luyện … gõ bàn_phím
+Chương_trình sẽ tuần_tự đào_tạo bạn qua bốn bước để trở_thành một “ master ” siêu_đẳng với đôi tay và bàn_phím . Trong bước đầu_tiên chương_trình tích_hợp một_số trò_chơi nhỏ giúp bạn quen dần với thao_tác sử_dụng bàn_phím . Có tổng_cộng 12 bài_tập , với thời_lượng mỗi bài từ 15-25 phút .
+Chức_năng và cũng là bước thứ_hai chuyên_nghiệp hơn . Chương_trình sẽ phân_tích thói_quen sử_dụng bàn_phím thông_qua công_việc hằng ngày của bạn , từ đó sẽ xây_dựng một chương_trình đào_tạo thích_hợp cho bạn . Tuy_nhiên , đây là một chức_năng có tính phí , chỉ có trong phiên_bản chính_thức và rất dễ bị các chương_trình chống virus hiểu lầm là keylogger .
+Bước thứ_ba và bước thứ_tư xây_dựng những chương_trình nhỏ giúp bạn nâng cao tốc_độ gõ bàn_phím và các thao_tác thích_nghi nhanh_chóng với nhiều loại bàn_phím khác_nhau .
+Bạn có_thể tải bản dùng thử miễn_phí tại http : / / downloads-zdnet.com.com/TypingMaster-Pro/3000-2051 _ 2-10527724.html ? tag = zddl.nlppd & amp ; tag = nl.e530 .
+TRẦN_HUY

@@ -1,0 +1,7 @@
+﻿ Robot bảo_vệ tuần_tra các văn_phòng , cửa_hàng
+Được trang_bị các camera và các cảm_biến , “ robot bảo_vệ D1 ” , được phát_triển bởi công_ty an_ninh Sohgo_Security_Services của Nhật , được thiết_kế để tuần_tra theo lộ_trình đã được lập_trình sẵn và có nhiệm_vụ để_mắt tới các dấu_hiệu bất_thường .
+Robot cao 109cm này sẽ báo_động nhanh cho các nhân_viên bảo_vệ thông_qua radio và bằng cách gửi các cảnh quay khi nó phát_hiện kẻ xâm_nhập , hỏa_hoạn , thậm_chí là rò_rỉ nước .
+" Những robot như_vậy rất cần_thiết khi dân_số Nhật đang ngày_càng già đi . Trong tương_lai gần , chắc_chắn rằng việc tìm được các nhân_viên bảo_vệ trẻ và khỏe_mạnh sẽ trở_nên khó hơn nhiều , và ngành công_nghiệp an_ninh sẽ cảm_thấy chịu gánh nặng ” , Sohgo_Security nói .
+Hiện có gần một trong năm người_dân Nhật 65 tuổi trở_lên và tỷ_lệ này được cho là sẽ tăng từ một đến ba vào năm 2040 , theo các số_liệu của chính_phủ .
+Sohgo_Security hiện đang thương_lượng với các khách_hàng , và sau khi các thử_nghiệm ban_đầu được hoàn_tất , họ hy_vọng sẽ bắt_đầu đưa hệ_thống an_ninh với sự hỗ_trợ của robot vào hoạt_động trong một năm nữa . Giá_cả của các robot này hiện chưa được quyết_định .
+KIM_NHUNG ( Theo Reuters )

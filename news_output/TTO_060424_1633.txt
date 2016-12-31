@@ -1,0 +1,5 @@
+﻿ Gậy thông_minh giúp người khiếm_thị
+Gậy thông_minh gồm có hai phần : kỹ_thuật rung để phát_hiện các chướng_ngại_vật và thiết_bị siêu_âm để giúp sử_dụng xe_buýt . Với các thiết_bị dò_tìm và cảnh_báo bằng xung_động , loại gậy mới có_thể dò_tìm đường ở mức từ đầu_gối trở_lên và phán_đoán các chướng_ngại_vật trong vòng ba mét , so với những loại gậy trên thị_trường chỉ giúp dò_tìm đường từ phía trên đầu_gối trong vòng một mét .
+Cùng_với hệ_thống xác_định vô_tuyến do người sử_dụng kích_hoạt , bộ kiểm_soát tín_hiệu cảnh_báo xung_động và một loa sử_dụng pin , gậy thông_minh có_thể gửi tần_số vô_tuyến tới xe_buýt để biết số_hiệu của xe và phát_âm cho người sử_dụng biết . Người sử_dụng mang tai_nghe biết được số xe_buýt và đi theo hướng thích_hợp để đến cửa xe .
+Tuy_nhiên cần phải có một hộp điện_tử nhỏ gắn ở cửa xe_búyt để hộp này đáp lại tần_số vô_tuyến do thiết_bị của gậy thông_minh phát ra .
+Q . HƯƠNG ( theo Xinhuanet )

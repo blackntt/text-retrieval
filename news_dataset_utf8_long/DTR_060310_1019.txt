@@ -1,0 +1,11 @@
+﻿Tấn công từ chối dịch vụ (DoS) tăng mạnh mẽ
+
+Tấn công từ chối dịch vụ (DoS), hành động mà các tin tặc lợi dụng đặc điểm hoặc lỗi an toàn thông tin của một hệ thống dịch vụ nhằm làm ngưng trệ hoặc ngăn cản người dùng truy nhập dịch vụ đó, đã tăng 50% trong 6 tháng qua, gây ảnh hưởng đến nhiều hoạt động trên Internet. 
+ Báo cáo mối đe dọa hai năm một lần của công ty bảo mật Symantec nhận thấy, lừa đảo trực tuyến (phishing) – phát tán e-mail giả mạo để ăn trộm mất khẩu của người dùng - đã tăng 39% trong nửa năm qua. 
+Công ty bảo mật Symantec cũng cho biết tội phạm mạng đang có xu hướng tấn công một cách rất tinh vi, qua mặt sự cảnh giác của mục tiêu. 
+Phần mềm tội phạm (crimeware) tìm cách ăn trộm dữ liệu tài chính của người dùng Internet là một mối đe dọa mới đối với môi trường Net, theo Symatec . Hacker thường sử dụng các kỹ thuật, như mạng ma (bot), các phần mềm robot chạy trên các máy tính của người dùng không khôn ngoan và lặng lẽ ăn trộm các thông tin quan trọng. 
+Symantec còn cho biết, tin tặc lợi dụng những máy tính đã bị nhiễm phần mềm ma để tấn công từ chối dịch vụ DoS – hơn 1.402 vụ mỗi ngày, nhằm ăn cắp tiền. Mỗi ngày hơn 8.000 vụ tấn công phishing xảy ra. 
+“Tin tặc bây giờ không còn sử dụng kỹ thuật script để tấn công vì nó phá hủy toàn bộ hệ thống và gây sự chú ý của nhiều người”, Richard Archdeacon, đại diện của Symantec, giải thích. “Những kẻ đứng sau tội phạm mạng đang sử dụng các biện pháp lặng lẽ và hướng tới nhiều mục tiêu để ăn cắp dữ liệu và các thông tin nhạy cảm khác mà không gây “ồn ào”. 
+Ông này còn cho biết thêm: “Mạng máy tính ma ngày càng nhiều và sự xuất hiện thêm dạng tội phạm “mafia” online càng tăng thêm tính nghiêm trọng của tình trạng gian lận trên Internet”. Trung Quốc là nước có nhiều máy tính nằm trong mạng máy tính ma, tăng 37% trong vòng 6 tháng qua. 
+Các nhà nghiên cứu của Symantec nhận thấy rằng trong tương lai tin tặc sẽ khai thác thông tin tài chính để bán cho bên thứ ba để thực hiện gian lận. 
+S.Hương Theo BBC

@@ -1,0 +1,4 @@
+﻿ Biểu_lộ cảm_xúc bằng âm_thanh
+Nó còn giúp người dùng thiết_lập và chia_sẻ nhạc nền cho cả hai người . Ngoài_ra , bạn cũng có_thể sử_dụng VE để nghe nhạc trên máy_tính , thay_vì phải mở trình đa_phương_tiện Windows_Media_Player . VE hoạt_động tốt với Skype , MSN Messenger , AIM , GTalk , Yahoo ! Messenger và QQ .
+Với dung_lượng chỉ 1,21 MB ( 3,26 MB nếu chọn phiên_bản có sẵn bộ sưu_tập nhạc nền ) , tương_thích trên 2000/XP của Microsoft_Windows , phiên_bản miễn_phí ( freeware ) của VE được cung_cấp tại địa_chỉ http : / / www.voiceemotion.com/downloads.htm .
+BẢO_NGUYÊN

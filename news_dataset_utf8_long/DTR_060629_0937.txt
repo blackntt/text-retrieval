@@ -1,0 +1,8 @@
+﻿Windows Vista “hắt hủi” WinFS
+
+Hãng phần mềm vừa cho biết mặc dù đã từng khẳng định công nghệ quản lý file, ảnh, e-mail và âm nhạc sẽ là một tính năng chủ đạo trong Windows Vista nhưng “không may” WinFS sẽ không được tích hợp trong hệ điều hành sắp ra mắt. 
+ Microsoft đã lập kế hoạch phát hành hệ thống file WinFS không lâu sau khi Windows Vista dự kiến bán ra vào tháng 1/2007. Trong weblog, Quentin Clark, Giám đốc quản lý chương trình của Microsoft, giải thích WinFS sẽ không được phát hành riêng biệt mà thay vào đó, công nghệ sẽ được tích hợp trong cơ sở dữ liệu SQL Server, ActiveX Data Objects và những sản phẩm khác của Microsoft. 
+WinFS được các nhà đầu tư coi là đặc trưng chủ yếu thúc đẩy các nâng cấp Vista khi Microsoft tách riêng các công nghệ năm 2004 để hoàn thiện Vista năm 2006. 
+Joe Wilcox, một nhà phân tích tại trung tâm nghiên cứu của Jupiter phát biểu: “Đây là tính năng chính của Windows Vista. Nó là một phần của hệ điều hành và nó mở ra cơ hội cho các nhà phát triển. Mở rộng nó tới các thứ khác sẽ dẫn đến việc nó không giống như cũ”. 
+WinFS được thiết kế để thay đổi cách các loại số liệu bao gồm các file ảnh, e-mail và âm nhạc, được phân loại để đơn giản hóa việc tìm kiếm các file có liên quan lưu trữ trong các chương trình khác nhau. Một vài trong số các cách phân loại đó cũng có thể sử dụng các chương trình tìm kiếm trên máy tính từ Microsoft và Google. 
+Thành Nam Theo LATimes

@@ -1,0 +1,13 @@
+﻿Tiến bộ mới trong công nghệ lưu trữ ba chiều
+
+Ccông ty InPhase Technologies (Mỹ) vừa lập được một kỷ lục về mật độ lưu trữ khi ghi được một dung lượng 515 Gb dữ liệu lên một inch vuông.
+
+ Công ty này cho biết họ đã đạt được kỷ lục này nhờ một ổ đĩa sử dụng công nghệ ghi ba chiều (holographic). Công nghệ lưu trữ này hứa hẹn mang lại khả năng lưu trữ cao hơn nhiều so với các phương tiện lưu trữ từ tính truyền thống. 
+Hãng này nói rằng công nghệ lưu trữ mới này sẽ giúp chế tạo ra những chiếc đĩa holographic có thể lưu trữ được tới hơn 100 bộ phim độ nét cao. 
+InPhase hy vọng sẽ công bố ổ đĩa holographic đầu tiên vào cuối năm nay với các sản phẩm có dung lượng lên tới 1,6 terabyte (1 terabyte bằng 1.024 gigabyte). 
+Công nghệ lưu trữ holographic sử dụng một hình ảnh ba chiều được tạo ra bởi các tia laser để lưu trữ thông tin. Ý tưởng này đã được đưa ra từ hàng chục năm nay, tuy nhiên công nghệ lưu trữ quang học này chỉ có thể khả thi trong vài năm vừa qua. 
+Giám đốc công nghệ Kevin Curits của InPhase nói rằng các thử nghiệm trước đây, được thực hiện vào tháng 4/2005, mới chỉ đạt được một mật độ lưu trữ khoảng 200Gb trên một inch vuông. 
+Nếu so sánh với các loại đĩa sử dụng công nghệ từ tính, thí dụ như các tấm đĩa trong các ổ đĩa cứng hiện nay, thì mật độ lưu trữ trên các tấm đĩa này chỉ đạt được khoảng 37,5Gb trên một inch vuông. 
+Ông Kevin nói: "Chúng tôi rất phấn khởi trước tốc độ phát triển này. Những kết quả mới nhất từ những thử nghiệm của chúng tôi về mật độ dữ liệu ba chiều đã vượt quá sự mong đợi". 
+InPhase nói rằng công nghệ lưu trữ holographic sẽ giúp lưu trữ lượng dữ liệu lớn hơn trên những diện tích đĩa nhỏ hơn. Thế hệ ổ đĩa đầu tiên của InPhase sẽ có dung lượng khoảng 300Gb trên một đĩa đơn. 
+Ông Wolfgang Schilichting thuộc hãng IDC nói: "Công nghệ lưu trữ mới này sẽ là một công nghệ có tiềm năng thay thế các công nghệ hiện nay trong việc đáp ứng các nhu cầu về lưu trữ dữ liệu". Theo Nhân dân/BBC

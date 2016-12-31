@@ -1,0 +1,7 @@
+﻿ Điểm yếu trong phần_mềm Apache và OpenSSL
+Lỗi_Apache là một trong nhiều vấn_đề đã được thông_báo của phiên_bản 2.0.48 , và cho_phép một tin_tặc mở kết_nối thời_gian ngắn trên một socket ít được sử_dụng . Phần_mềm này sẽ chặn tất_cả những cuộc kết_nối khác cho_đến khi một cuộc kết_nối khác được tiến_hành trên cùng một socket đó .
+Hiện_nay , Apache_Software_Foundation đã công_bố bản cập_nhật cho phần_mềm máy_chủ HTTP để bít lỗi trên và một_số lỗi khác . Người dùng có_thể tải bản 2.0.49 tại đây .
+Các chuyên_gia bảo_mật cũng cảnh_báo về 3 lỗi mới trong phần_mềm OpenSSL được sử_dụng để cung_cấp các thông_tin bảo_mật và mã_hoá cho các ứng_dụng mã nguồn mở . Những khiếm_khuyết này tạo điều_kiện cho tin_tặc khiê ́ n các dịch_vụ HTTPS ( secure HTTP ) mất tác_dụng trên máy_chủ web , và làm treo ứng_dụng sử_dụng OpenSSL .
+Lỗ_hổng tác_động tới các hệ_thống Linux cài phần_mềm OpenSSL , đồng_thời khiến nhiều bộ định_tuyến và thiết_bị mạng liên_quan tới phần_mềm này hoạt_động không ổn_định . Cisco cho_biết thiết_bị tường lửa PIX và một_số bộ định_tuyến của hãng này cũng bị ảnh_hưởng .
+Mô ̣ t loa ̣ t phiên ba ̉ n OpenSSL bi ̣ a ̉ nh hươ ̉ ng la ̀ tư ̀ 0.9.6c đê ́ n 0.9.6k , va ̀ 0.9.7a đê ́ n 0.9.7c . Nhóm_Open SLL Project vừa cho ban_hành 3 miếng vá bảo_mật để bịt lỗ_hổng cho OpenSSL . Thông_tin chi tiê ́ t ngươ ̀ i du ̀ ng co ́ thê ̉ tham kha ̉ o ta ̣ i đi ̣ a chi ̉ : http : / / www.openssl.org/source / .
+T . M ( Theo e Week )

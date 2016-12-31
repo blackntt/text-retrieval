@@ -1,0 +1,5 @@
+﻿ Số_lượng gene người chỉ bằng con côn_trùng nhỏ
+Vào năm 2001 , một nhóm các nhà_khoa_học cho_biết con_người có khoảng 30.000-40.000 gene , trong khi công_bố này cho_biết , con_người chỉ có khoảng 20.000-25.000 gene . So_sánh với C elegan - một loài côn_trùng có khoảng 19.500 gene hoặc một loài thực_vật được các nhà_nghiên_cứu ưa_thích - cây Arabidopsis cũng có khoảng 27.000 gene . Nhưng cơ_thể con_người phức_tạp hơn nhiều so với gene của loài động_vật và thực_vật kể trên .
+Các nhà_khoa_học đã nghiên_cứu về số_lượng gene của con_người trong một thời_gian dài . Một_số người cho rằng con_người có khoảng 100.000 gene , nhưng thực_tế , nó lại ở mức thấp nhất khi nghiên_cứu này được công_bố .
+Giải_thích điều này , Eric_Lander thuộc viện nghiên_cứu Broad ở Cambridge cho rằng : có_thể nhiều chuỗi DNA đã được các nhà_khoa_học tính là gene , nhưng thực thế nó chỉ là bản_sao không chức_năng của một gene thật và đôi_khi những gene giống gene chính được đếm thành 2 gene .
+Đ . TÂM ( Theo AFP )

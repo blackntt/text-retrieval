@@ -1,0 +1,9 @@
+﻿Công cụ chơi nhạc MP3, ghi âm cho ĐTDĐ
+
+Có giao diện hiển thị rất dễ hiểu và cung cung cấp đầy đủ các thông tin, thông số, chức năng cho phép bạn thao tác dễ dàng hơn, có thể chơi Playback với chất lượng cao, chuyển đổi giữa các Track với nhau rất dễ dàng, thay đổi Volume bằng bánh xe Jog Dial… việc cài đặt cũng rất dễ dàng, không chiếm nhiều dung lượng hệ thống và có thể chạy từ trên thẻ nhớ. 
+Ở chức năng chơi nhạc bạn có thể đặt các danh sách bài hát, lập các chỉ mục, hỗ trợ các file MP3, WAV, M3U, khả năng điều chỉnh các mức âm lượng ở 3 Band, 4 kiểu Playback, có thể đồng bộ với Winamp. Giao diện hiển thị khi chơi rất rõ ràng, cung cấp các nút chức năng Play, Pause, Stop… cùng các thông tin về file nhạc. 
+Công cụ ghi âm rất hay, bạn có thể ghi âm không giới hạn chỉ phụ thuộc vào bộ nhớ của máy bạn, file ghi âm được định dạng MP3, WAV có dung lượng nhỏ gọn, chỉ cần kích hoạt chức năng Voice (VAS) nhấn Start và quá trình ghi âm sẽ bắt đầu. 
+Đặc biệt hơn phần mềm còn tích hợp công cụ quản lý file giúp bạn dễ dàng tiếp cận với các file nhạc, công cụ quản lý, sửa đổi thẻ ID3 của file MP3, hỗ trợ đọc thông tin từ thẻ nhớ SD/MMC/CF, tự động cài đặt các thông số về file nhạc theo cách mà bạn chọn. 
+Phần mềm có dung lượng nhỏ gọn (195 KB), tương thích các SmartPhone Symbian UIQ. Tải về dùng thử tại đây .
+
+CHÁNH TRUNG

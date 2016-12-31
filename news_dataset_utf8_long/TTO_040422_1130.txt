@@ -1,0 +1,12 @@
+﻿Tuổi Trẻ Online đã tích hợp bộ gõ tiếng Việt
+
+Để sử dụng bộ gõ bạn đọc chỉ cần chọn kiểu đánh tiếng Việt là VNI hoặc Telex trong thẻ chọn kế bên box tìm kiếm. Chức năng này còn có hiệu lực đối với box phản hồi. 
+Cách chọn kiểu đánh tiếng Việt trên mục tìm kiếm 
+Sau khi chọn chỉ cần gõ tiếng Việt 
+Cách chọn kiểu đánh tiếng Việt trên muc phản hồi 
+Gõ tiếng Việt trên mục phản hồi 
+Riêng trên box gửi tới, thẻ chọn kiểu gõ tiếng Việt sẽ nằm bên dưới như hình sau: 
+Trong mục gửi tới thì chọn kiểu gõ tiếng Việt bên dưới box 
+Bộ gõ được tích hợp dành cho các máy tính chưa có bộ gõ tiếng Việt, trường hợp máy tính của bạn đã có bộ gõ tiếng Việt thì không cần sử dụng bộ gõ này.
+
+ĐÔNG HẢI

@@ -1,0 +1,9 @@
+﻿Võ lâm truyền kỳ bảo vệ tài khoản với mật khẩu một lần
+
+Nhằm bảo vệ người chơi trước nạn trộm cắp tài khoản, vật phẩm trong game, công ty VinaGame đã đưa ra giải pháp mật khẩu sử dụng 1 lần (One Time Password - OTP) áp dụng trên game "Võ lâm truyền kỳ" do công ty cung cấp.
+
+ Theo thông báo của VinaGame, công ty này sẽ phát hành các thẻ OTP như một dịch vụ tuỳ chọn. Mỗi tấm thẻ OTP sẽ in sẵn 48 mật khẩu cấp 1 được tạo ngẫu nhiên. Người sử dụng sau khi đăng ký dịch vụ trên website sẽ chỉ đăng nhập game được bằng những mật khẩu này. Khi thoát khỏi game, mật khẩu vừa được sử dụng sẽ tự huỷ sau 1 đến 5 phút do người chơi định sẵn. 
+Đại diện của VinaGame cho biết dịch vụ này sẽ vô hiệu hoá các phần mềm trộm cắp tài khoản như trojan, key-logger gây ra bởi những mật khẩu được ghi nhận đều đã được sử dụng và đã được tự huỷ. Kẻ gian không thể sử dụng mật khẩu đó đăng nhập vào game lấy đồ hoặc đăng nhập website để thay đổi thông tin trong tài khoản được nữa. Mặt khác, việc những mật khẩu được in sẵn trên thẻ hạn chế được việc quên mật khẩu, một tình trạng không phải hiếm ở các gamer. 
+Thẻ OTP cũng tối ưu được việc bảo vệ mật khẩu cấp 2 bởi khi đăng ký sử dụng thẻ này, chức năng đổi mật khẩu trên website sẽ tự động khóa lại. Người chơi không còn phải sử dụng mật khẩu cấp 2 để thay đổi mật khẩu cấp 1 như trước nên việc bị đánh cắp mật khẩu 2 gần như là không thể. 
+Thẻ mật khẩu sẽ được bán với giá 10.000 đồng tại các đại lý phân phối thẻ của VinaGame. 
+Theo B.H.H. Gamethu

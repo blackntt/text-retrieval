@@ -1,0 +1,17 @@
+﻿Bắt bệnh cho di động cũ
+
+Chiếc điện thoại bạn vẫn thường tự hào tuy "cổ lỗ" nhưng vẫn "thách đố" thời gian bỗng dưng trở chứng. Nếu đã có kinh nghiệm sử dụng, bạn sẽ biết mình cần phải mua mới hay có thể sử lại để dùng tiếp. 
+ Thường xuyên mất sóng 
+Đây là bệnh không tránh khỏi của các điện thoại đời cũ (chủ yếu là điện thoại màn hình trắng đen, ít tính năng số, không camera, không Wap...). Nguyên nhân là do khách hàng đánh rơi, va đập mạnh trong suốt quá trình sử dụng, khiến IC nguồn và CPU bị hỏng, hở mạch. 
+Theo các kỹ thuật viên của Nokia, sau một thời gian hoạt động, nhiều linh kiện, mạch số trong điện thoại bắt đầu có những sai số kỹ thuật, không có độ chính xác cao nên máy bắt sóng yếu hẳn. 
+Trong các sự cố điện thoại thì bệnh sóng yếu là dễ chữa nhất với chi phí cũng thấp nhất. Bạn chỉ việc đem thay IC nguồn, chỉnh lại bộ phận phần cứng bị hở do rơi rớt thì mọi chuyện đều êm thấm. Thế nhưng việc mở máy để thay IC đòi hỏi phải có tay nghề cao và khéo léo, do vậy bạn nên chú ý chọn trung tâm uy tín để đảm bảo điện thoại sau khi sử dụng lại tốt như lúc đầu. Cả chi phí mua IC mới và lắp đặt khoảng 100.000 đồng. 
+Không giống như thế hệ điện thoại mới, dễ mắc lỗi phần mềm do khách hàng thường xuyên cài đặt thêm nhiều tiện ích, trò chơi,... phần mềm của điện thoại cũ ổn định hơn rất nhiều. Tuy vậy, bạn cũng đừng nên chủ quan vì nhiều điện thoại sau một thời gian tự nhiên trắng màn hình, máy bị treo không hoạt động được (gọi cho máy khác hoặc dùng máy khác gọi lại đều không có tín hiệu như rung, chuông...). 
+Nhiều người cho rằng lỗi màn hình thường đắt nên chấp nhận bỏ luôn chứ không chịu đi sửa. Thật ra đây chỉ là một lỗi nhỏ, rất dễ sửa. Việc cài đặt lại phần mềm chỉ tốn 50.000 đồng. 
+Bàn phím bất động 
+Triệu chứng là có lúc bấm mỏi cả tay mà máy vẫn không hề nhúc nhích. Thông thường nhiều người dự đoán là lỗi phần mềm, nhưng khi bị lỗi này thì nguyên nhân chính là bàn phím đã bị hỏng mà nhiều người vẫn hay gọi là nhờn phím. 
+Do không được vệ sinh và bảo quản kỹ, bụi bặm, mồ hôi tay... sẽ bám vào mặt bàn phím. Những cáu bẩn này tích tụ và tác động vào bo mạch điện tử bên trong khiến các linh kiện trở nên kém linh hoạt. Bạn nên đem máy đi vệ sinh thật sạch sẽ, giá chừng 80.000 - 120.000 đồng tùy theo độ bẩn và sét gỉ của các linh kiện. 
+Bên cạnh đó, bộ phận loa nghe và nói cũng thường xuyên bị bám bụi do cấu tạo có dạng lõm. Bởi thế, dùng nhiều, bộ phận màn rung này sẽ giảm nhạy, tức nghe và nói rất nhỏ. Khi vệ sinh máy, bạn nhớ nhờ thợ dọn dẹp ngăn nắp cho bộ phận nghe và nói. 
+Nếu bàn phím đã quá cũ, các số và chữ đã mờ, hãy bỏ ra khoảng 40.000 đồng để thay luôn cả bàn phím. 
+Pin "lão hóa" 
+Pin bị suy giảm năng lượng, điện thoại càng cũ thì năng lượng pin càng giảm. Hầu hết các điện thoại qua thời gian dùng đều giảm 20-40% khả năng hoạt động như một quy luật lão hóa. 
+Giá một viên pin mới rất đắt (hơn 400.000 đồng). Theo lời tư vấn của nhân viên các hãng điện thoại thì mặt sau pin có dòng chữ "Made in China" thì mới là pin chất lượng. Nghe có vẻ nghịch lý nhưng lại là sự thật, bởi thế, bạn cần quan tâm đến chi tiết này. Các loại pin "Made in Japan"... thì phần lớn lại là hàng nguồn gốc không rõ ràng với chất lượng cũng chỉ bình thường. Theo XHTT, Sohoa

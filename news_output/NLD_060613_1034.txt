@@ -1,0 +1,9 @@
+﻿ Ứng_dụng chơi MP3 nhỏ nhất thế_giới
+Hiện đã có đến hàng trăm chương_trình chơi nhạc số trên máy_tính nhưng nếu bạn muốn độc_đáo và khác người một_chút thì hãy thử sử_dụng chương_trình chơi nhạc số mang tên “ 1by1 ” được cho là chương_trình chơi nhạc số nhỏ nhất thế_giới hiện_nay , với dung_lượng chỉ khoảng 56 KB .
+Tuy nhỏ_xíu như_thế nhưng “ 1by1 - The_Directory_Player ” cũng có_thể chơi nhạc số ngon_lành như biết_bao chương_trình khác với đầy_đủ các nút chức_năng . Cái đặc_thù của 1by1 là bạn có_thể chép nó vào thẻ nhớ để chơi trên bất_kỳ máy_tính nào mà không cần cài_đặt nhiêu_khê .
+Khi kích_hoạt xong 1by1 , bạn chỉ cần click vào “ Driver ” để 1by1 liệt_kê ra toàn_bộ số đĩa_cứng trên máy_tính - & gt ; tìm đến thư_mục chứa file nhạc số để 1by1 liệt_kê ra toàn_bộ số bài nhạc số có trong thư_mục và nhấn nút “ Play ” để 1by1 lần_lượt thể_hiện toàn_bộ các bài nhạc số hiện ra . Mục liệt_kê tỏ ra hết_sức chi_tiết , bao_gồm tên file , loại file , kích_thước và ngày_giờ tạo file .
+Tuy_rằng không hoành_tráng như các công_cụ khác nhưng số_lượng chức_năng của 1by1 cũng nhiều đến mức ngạc_nhiên . Chẳng_hạn :
+- Click chuột phải vào danh_sách file MP3 đang chơi là bạn có_thể sao_chép , xóa , đổi tên , tạo playlist , sử_dụng bằng phím nóng , tìm file …
+- Vào mục “ Setttings ” để tác_động đến các file đang có danh_sách bằng các thẻ chức_năng như Audio , Decoder , Enhancer , Control , Display … rất chuyên_nghiệp .
+Ngoài_ra với các nút chức_năng đã có sẵn trên giao_diện cũng giúp người dùng quản_lý các file nhạc số trong thư_mục theo nhiều cách phong_phú khác_nhau . 1by1 1.55 là công_cụ hoàn_toàn miễn_phí , tương_thích hoàn_hảo với tất_cả mọi Windows và người dùng có_thể vào đây để tải về sử_dụng .
+Theo Tuổi_Trẻ

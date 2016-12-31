@@ -1,0 +1,11 @@
+﻿Trojan dùng "sex" để nhử mồi
+
+Người dùng được hứa hẹn cung cấp truy cập miễn phí tới các nội dung "mát mắt" nhưng cuối cùng lại phát hiện thấy mình đang bị... tống tiền.
+Sử dụng những trang web khiêu dâm đầy hấp dẫn làm mồi nhử, chương trình spyware mới đã âm thầm lây nhiễm vào hệ thống rồi trơ trẽn đòi người dùng phải mua chương trình... tiêu diệt chính nó. 
+Theo hãng bảo mật Panda Software, Trojan DigiKeyGen đánh trúng điểm yếu trong tâm lý người dùng khi dụ dỗ họ bằng những mật khẩu (được cho là) sẽ truy cập được vào nhiều website xxx trả tiền. Nhưng khi click vào file đính kèm, một chương trình spyware và một ứng dụng diệt spyware cũng tự động cài đặt vào máy tính mà người dùng không hề hay biết. 
+Sau đó, DigiKeyGen sẽ ra mặt cảnh báo người dùng rằng máy tính họ đang nhiễm spyware, và rằng nạn nhân chỉ có thể dọn dẹp sạch sẽ hệ thống bằng phần mềm diệt spyware đi kèm với giá 50 USD. 
+"Bạn luôn phải thận trọng với những lời chào mời hấp dẫn, cho không, mà chẳng đòi hỏi điều gì đổi lại", Luis Corrons, giám đốc Panda Software nói. Ông Luis cũng nhấn mạnh lại là kỹ thuật này của hacker hoàn toàn không có gì mới mẻ. 
+"Bọn tội phạm mạng thường áp dụng những thủ thuật lừa đảo rất truyền thống, rất quen thuộc nhưng người dùng vẫn bị mắc lừa. Chủ yếu vì họ chủ quan và không hề biết rằng nguy cơ đang rình rập mình sau mỗi hành động tưởng như vô hại, tì như download một chương trình nhỏ hoặc truy cập một website nào đó". 
+Sáng nay, các hãng bảo mật cũng đã cảnh báo người dùng về một Trojan mạo nhận gửi đi từ Microsoft để đánh cắp mật khẩu người dùng. Trojan này nói rằng Microsoft vừa phát hiện được một lỗ hổng bảo mật và chỉ dẫn cho người nhận cách download miếng vá. Nhưng đường link cung cấp lại dẫn nạn nhân tới một website ma và Trojan sẽ tự động cài đặt vào máy tại đây.
+
+Theo VNN

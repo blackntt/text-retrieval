@@ -1,0 +1,5 @@
+﻿ Xem cấu_hình hệ_thống
+Nếu bạn sử_dụng hệ_điều_hành Windows từ 95 trở_lên , thủ_thuật rất đơn_giản . Bấm phải chuột vào My_Computer chọn Properties . Sẽ có một danh_sách các đề_mục bên dưới tab General cho_biết tốc_độ của vi_xử_lý cộng với lượng RAM trong hệ_thống của bạn .
+Ngoài_ra thẻ Device_Manager sẽ cho bạn thêm nhiều thông_tin . Trong_Win XP , Win2000 để chọn nó bạn click vào Hardware và chọn Device_Manager . Trong_Win 98 và Me , click vào tab Device_Manager . Trong đó , bạn sẽ tìm thấy thông_tin về tất_cả các thiết trong lẫn ngoài bao_gồm driver , card màn_hình , DVD và CD drive , modem ...
+Nếu bạn vẫn chưa thoả_mãn , từ menu Start chọn Run và gõ msinfo 32 . Bạn sẽ nhận được những thông_tin chi_tiết đến " tận răng " từ tên tập_tin quản_lý driver đến địa_chỉ ô nhớ sử_dụng .
+ANH_TUẤN ( PCWorld )

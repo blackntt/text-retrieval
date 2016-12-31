@@ -1,0 +1,7 @@
+﻿ Office 2007 không hỗ_trợ lưu tài_liệu PDF
+Microsoft đã quyết_định gỡ bỏ tính_năng lưu file dưới dạng PDF trong gói ứng_dụng văn_phòng thế_hệ mới của họ nhằm tránh những rắc_rối về pháp_lý với hãng phần_mềm Adobe .
+Chức_năng " Save as PDF " là đặc_điểm được rất nhiều khách_hàng mong_đợi bởi nó cho_phép họ không cần tải thêm một phần_mềm riêng_biệt về máy . Ngoài_ra , tập_đoàn của Bill_Gates cũng chủ_động loại XPS ( XML Paper_Specification ) , định_dạng đối_đầu với PDF của họ , trong chương_trình Office 2007 . Thay vào đó , họ sẽ cung_cấp một phiên_bản Windows_Vista cài sẵn tính_năng XPS với tên mã Metro .
+PDF là chuẩn định_dạng mở và đã được OpenOffice hỗ_trợ , nhưng Adobe lo_ngại rằng việc tích_hợp trong phần_mềm Office 2007 sẽ tác_động lớn đến công_việc kinh_doanh của họ . Microsoft cho_biết xung_đột giữa hai công_ty đã bắt_đầu_từ tháng hai khi họ từ_chối trả tiền cho Adobe để trang_bị PDF trong Office .
+Phát_ngôn_viên Jodi_Warner của Adobe không tiết_lộ họ sẽ trình đơn phàn_nàn tới Ủy_ban châu Âu hay thực_hiện một vụ_kiện chính_thức .
+Tuy_vậy , chuyên gian phân_tích Joe_Wilcox của công_ty nghiên_cứu Jupiter_Research ( Mỹ ) tỏ ra nghi_ngờ thông_tin Adobe sẽ thu phí PDF bởi như_thế PDF sẽ không còn là chuẩn mở nữa .
+Theo P . T . VnExpress/PCWorld

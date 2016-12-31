@@ -1,0 +1,6 @@
+﻿ Windows - Cách chuyển hiển_thị đơn_vị sang tiếng Việt
+Bạn đã quen với cách sử_dụng hệ_điều_hành Windows và cách hiển_thị đơn_vị , ngày_tháng theo tiếng Anh .
+Tuy_nhiên , nhiều khi với cách hiển_thị này có_thể gây rắc_rối nhầm_lẫn không đáng có với những người sử_dụng máy của bạn mà không biết tiếng Anh . Bạn có_thể đổi lại cách hiển_thị đơn_vị , thời_gian sang tiếng Việt bằng cách :
+- Bạn chọn mục Regional and Language_Options trong Control_Panel .
+- Trong_Tab_Regional_Options bạn chọn Vietnamese trong mục Standards and formats . - Bạn chuyển sang Tab_Advance và lựa_chọn Vietnamese trong mục Language for non - Unicode programs để Windows XP có_thể hỗ_trợ Unicode cho tiếng Việt .
+Long_Hà

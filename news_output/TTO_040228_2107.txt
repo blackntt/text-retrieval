@@ -1,0 +1,4 @@
+﻿ Cùng nhau đua ... xích_lô
+Cuộc đua gồm bảy vòng dành cho các đối_tượng : nhóm ngân_hàng - tài_chính – pháp_lý , nhóm lãnh_sự_quán – câu_lạc_bộ – trường_học , nhóm chuyên_nghiệp , nhóm nhà_hàng – khách_sạn – bar , nhóm hàng_không – du_lịch – vận_chuyển , nhóm ngành chung và vòng đua giành giải_thưởng lớn .
+Saigon_Cyclo_Challenge là chương_trình hoạt_động gây quỹ từ_thiện do một nhóm doanh_nhân nước_ngoài tại TP.HCM tổ_chức cách đây ba năm , nhanh_chóng trở_thành một hoạt_động văn_hoá – giải_trí có sức thu_hút .
+T.V.NGUY ÊN

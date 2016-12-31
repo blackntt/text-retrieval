@@ -1,0 +1,23 @@
+﻿ Bộ công_cụ chẩn_đoán lỗi ổ_cứng ( Phần III )
+SSDM 10.42 là tiện_ích giúp xử_lý việc giới_hạn dung_lượng cho các BIOS đời cũ giới_hạn dung_lượng và việc nhận_diện ổ_đĩa_cứng có dung_lượng lớn .
+Cách sử_dụng SSDM hơi khó nên bạn cần phải xem qua hướng_dẫn chi_tiết của Samsung tại đây .
+2 . HUTIL ( Diagnostic_Utility for New_Drives )
+Hutil ( Drive_Diagnostic_Utility ) được tạo ra với mục_đích kiểm_tra của ổ_đĩa_cứng của SamSung trong khi được cài_đặt vào trong một PC , bất_kể trang thái của hệ_điều_hành mà người dùng đang sử_dụng . Trong quá_trình sử_dụng ổ_cứng , nhà_sản_xuất khuyến_cáo người dùng nên kiểm_tra ổ_đĩa_cứng của mình với Hutil thay_vì thay_đổi một ổ_cứng mới nhưng không bằng .
+Nhà_sản_xuất cũng khuyến_cáo bạn nên sao lưu lại dữ_liệu trước khi sử_dụng Hutil vì Hutil là tiện_ích với tính_năng “ chép ” và có_thể xóa dữ_liệu cũ của bạn .
+Hutil cũng chỉ hỗ_trợ cho những dòng ổ_cứng nhất_định của SamSung ( xem chi_tiết tại đây ) , nên nếu dòng ổ_cứng của bạn không được hỗ_trợ thì có_thể sử_dụng SHDIAG .
+3 . SHDIAG ( Diagnostic for Old_Drives )
+Tiện_ích này thường được sử_dụng để kiểm_tra các ổ_cứng Samsung bị nghi_ngờ hư_hỏng . Nhà_sản_xuất cũng khuyến_cáo bạn nên sao lưu lại toàn_bộ dữ_liệu trươ ́ c khi sử_dụng SHDIAG và chỉ hoạt_động trên môi_trường DOS . Nhâ ́ n va ̀ o đây đê ̉ xem SHDIAG hỗ_trợ các model ổ_cứng na ̀ o cu ̉ a SamSumg .
+4 . SUTIL ( Utility for Old_Drives )
+Tiện_ích SUTIL này không được sử_dụng bừa_bãi vì nó có công_dụng giúp người dùng xóa những ổ_cứng của mình và cấu_hình lại mode DMA cho những ổ_cứng đó . Nhà_sản_xuất khuyến_cáo người dùng nên sao lưu lại dữ_liệu trươ ́ c khi sử_dụng , bạn cũng_nên xem chi_tiết về các model mà SUTIL hỗ_trợ tại đây .
+B . Seagate
+1 . SeaTools Desktop_Edition
+SeaTools Desktop_Edition là tiện_ích mà không_thể tìm thấy được ở đâu khác được thiết_kế bởi Seagate cho các hư_hỏng , trục_trặc đối_với các ổ_đĩa_cứng Seagate . Không giống như các tiện_ích của các hang khác , SeaTools Desktop_Edition hoạt_động tốt với hầu_hết các ổ_cứng ATA , SATA và SCSI trong các hệ_thống máy_tính_để_bàn với độ_chính_xác lên đến 98% .
+SeaTools Desktop_Edition bao_gồm 5 thứ tiếng , phiên_bản hiện_tại là : English , German , Spanish , Chinese , French . Bạn có_thể tải đầy_đủ cho cả floppy disk hay CD tại đây .
+2 . SeaTools Enterprise_Edition
+SeaTools Enterprise_Edition cũng_như SeaTools Desktop_Edition nhưng với những chức_năng ưu_việt hơn và dành cho việc xử_lý đối_với các ổ_cứng SCSI hay Fibre_Channel trong server và workstation . SeaTools Enterprise_Edition có_thể kiểm_tra , xử_lý nhiều ổ_cứng cùng 1 lúc và liên_tục . Phiên_bản chưa đựơc thử_nghiệm với ổ_cứng ATA và SATA .
+SeaTools Enterprise_Edition hoạt_động tốt trên cả Windows và Linux . Bạn có_thể tải về :
+- SeaTools Enterprise_Edition v2.4.29 dành cho Windows .
+- SeaTools Enterprise_Edition 2.54 dành cho Linux_Command_Line .
+- SeaTools Enterprise_Edition 5.2.23-010730 dành cho Linux_Graphical
+( Còn tiếp )
+TRẦN_THANH_TRỰC

@@ -1,0 +1,11 @@
+﻿Toshiba lập kỷ lục ổ cứng mật độ ghi 178,8 Gbit/inch2
+
+Đến cuối năm nay, tập đoàn điện tử Nhật Bản sẽ tung ra thị trường loại ổ cứng 2,5 inch MK2035GSS dung lượng 200 GB dành cho máy tính xách tay với mật độ lưu trữ kỷ lục. Mật độ lưu trữ lớn nhất hiện nay là 133 Gbit/inch2. 
+ “Khó có đối thủ nào có thể vượt qua mật độ như thế này trong tương lai gần”, Maciek Brzeski, Phó giám đốc marketing của bộ phận lưu trữ Toshiba, khẳng định. 
+Ổ đĩa MK2035GSS có bộ nhớ lên tới 200 GB, nhiều hơn 25% so với loại ổ 160 GB của Seagate, Hitachi . Toshiba cho biết, ổ đĩa mới này của hãng được ghi theo phương pháp trực giao nên lưu được nhiều dữ liệu hơn các loại đĩa ghi theo phương ngang truyền thống. 
+Ngoài ra, ổ cứng cũng được trang bị công nghệ đầu ghi tunnel magneto-resistive (TMR) chứ không phải là GMR (giant magneto-resistive). Trước đây, Toshiba mới chỉ tung ra loại đĩa ghi trực giao với đầu ghi GMR và ổ ghi phương ngang với đầu ghi TMR. 
+Nhờ mật độ cao nên ổ 200 Gb này chỉ cần 2 lá đĩa (platter), và nhờ kết hợp đầu ghi TMR và các lá đĩa, vòng quay của MK2035GSS là 4.200 vòng/phút, chậm hơn một số đĩa chạy 5.400 vòng/phút. Nhưng theo Toshiba, tốc độ quay chậm hơn sẽ tiêu hao ít điện năng hơn. 
+Ông Brzeski cho biết, tháng 8 tới, Toshiba sẽ sản xuất đại trà ổ cứng này và các máy tính xách tay được tích hợp MK2035GSS sẽ xuất hiện vào quý IV năm nay. Tập đoàn Hitachi cũng đang có kế hoạch ra mắt ổ đĩa có mật độ 230 Gbit/inch 2 nhưng phải đến tận 2007 mới có mặt trên thị trường. 
+Theo khảo sát của IDC, mặc dù Toshiba không tham gia tích cực vào tất cả phân đoạn thị trường ổ cứng, hãng vẫn đang là thủ lĩnh trong lĩnh vực ổ nhớ cho điện thoại, với 29% thị phần. Toshiba cũng thúc đẩy thị phần trên “mặt trận” laptop. 
+Toshiba là một trong những hãng sản xuất bộ nhớ flash lớn nhất thế giới. Một trong các nhà khoa học của hãng đã phát minh ra NAND Flash trong thập niên 1980. 
+N.Hương Theo CNet

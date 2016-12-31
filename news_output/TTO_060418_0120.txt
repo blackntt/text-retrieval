@@ -1,0 +1,21 @@
+﻿ Phần_mềm quản_lý hồ_sơ bệnh_án cho phòng_mạch tư !
+Hiện chúng_tôi chưa có điều_kiện tiếp_cận với các phần_mềm quản_lý hồ_sơ bệnh_án bằng tiếng Việt . Nhưng nếu bạn có nhu_cầu thì nên tham_khảo qua công_cụ HealthFile Plus , dĩ_nhiên là bằng tiếng Anh , và qua thử_nghiệm thì dường_như công_cụ này cũng có_thể đáp_ứng được phần_nào nhu_cầu của bạn . Cách sử_dụng công_cụ này cũng khá đơn_giản , tương_tự như các công_cụ quản_lý dữ_liệu đặc_thù khác .
+Khi cài_đặt thành_công , HealthFile Plus sẽ đưa ra cho bạn giao_diện đầu_tiên gồm các thông_số cơ_bản của bệnh_nhân mà bạn cần phải điền vào như : Tên , ngày_sinh , giới_tính , nhóm máu , số điện_thoại , số chứng_minh , địa_chỉ , cân nặng , chiều_cao , mạch đập ( pulse ) , tỷ_lệ cholesterol … Sau khi điền đầy_đủ các thông_số này bạn nhấn nút “ Save ” là xem như hoàn_thành phần thông_tin cơ_bản ( Personal ) của bệnh_nhân , và HealthFile Plus sẽ đưa bạn vào giao_diện chính của chương_trình . Giao_diện chính này sẽ cung_cấp đầy_đủ mọi bảng thông_số y_học mà bạn cần đến .
+- Ở mục Legal , bạn có_thể nhập vào mọi thông_tin liên_quan đến hiện_trạng pháp_lý của bệnh_nhân như : tình_trạng gia_đình , di_chúc , người đại_diện , người thừa_kế , luật_sư , bệnh_trạng dòng_họ … khi nhập xong nhấn “ Save ” để qua bảng thông_số mới .
+- Ở mục Insurance : nhập vào các thông_tin về các công_ty bảo_hiểm mà bệnh_nhân đã mua , cũng_như mọi ghi_chú cần_thiết .
+- Contacts : Nhập vào mọi tên người ruột_thịt , người quen , hoặc cơ_quan của bệnh_nhân , cũng_như mọi số điện_thoại liên_lạc trong trường_hợp khẩn_cấp .
+- Allergy : mô tải mọi dạng dị_ứng mà bệnh_nhân thường gặp .
+- Illness/Condition : mô_tả bệnh_trạng hiện_tại của bệnh_nhân .
+- Surgery/Hospitalization : Mô_tả mọi tình_trạng cũng_như mọi chi_tiết trong trường_hợp có giải_phẫu .
+- Appointments : ghi_chú về lịch_trình hẹn chữa bệnh với các bác_sĩ cũng_như mọi chi_tiết về phiên điều_trị như ngày_tháng , địa_điểm , nguyên_nhân , xét_nghiệm , chứng_bệnh …
+- Medications : mô_tả mọi loại thuốc hoặc đơn thuốc đã đưa cho bệnh_nhân điều_trị .
+- Vaccination : mô_tả về tình_trạng tiêm_chủng của bệnh_nhân .
+- Test : mô_tả về mọi xét_nghiệm đã tiến_hành trên bệnh_nhân .
+- Blood_Pressure : ghi_chép và thống_kê về hiện_trạng huyết_áp của bệnh_nhân .
+- Weight : ghi_chép và thống_kê về hiện_trạng cân nặng của bệnh_nhân .
+- Glucose : ghi_chép , thống_kê về hiện_trạng và mọi thông_số đường_huyết của bệnh_nhân .
+- Cholesterol : Ghi_chép , thống_kê về hiện_trạng và mọi thông_số Cholesterol của bệnh_nhân .
+- Family_History : Ghi_chép mọi tiền_sử bệnh trong gia_đình hoặc dòng_họ của bệnh_nhân .
+Tất_cả mọi dữ_liệu của bệnh_nhân sẽ được lưu lại trong các file có đuôi CDB nằm trong thư_mục cài_đặt . Để bảo_mật các dữ_liệu của bệnh_nhân , HealthFile Plus cũng cung_cấp chức_năng mã_hóa dữ_liệu bằng password ( Edit - & gt ; Change password ) . Bạn cũng có_thể lưu lại mọi dữ_liệu bằng chức_năng File - & gt ; Backup_Record . Bạn có_thể chép thư_mục Backup vào thẻ nhớ để đem đi sử_dụng ở nhiều máy_tính khác_nhau . HealthFile Plus cũng cung_cấp đầy_đủ khả_năng tìm_kiếm , liệt_kê và sửa_đổi các chi_tiết của bệnh_nhân theo mọi đề_mục . Các dữ_liệu của HealthFile Plus cũng có_thể xuất ra cho Access , Excel ...
+Qua các chức_năng đã trình_bày ở trên , chúng_tôi nghĩ rằng HealthFile Plus là quá đủ cho một phòng_mạch tư . Hiện công_ty WakeFieldSoft đang bán ra bản HealthFile Plus 4.1.5 với giá là 30 USD . Bạn có_thể vào đây để tải về bản dùng thử có dung_lượng khoảng gần 6MB . Hiện_Health File_Plus đã có_mặt tại các cửa_hàng phần_mềm .
+THIÊN_TRANG

@@ -1,0 +1,8 @@
+﻿Giải pháp bảo mật mới cho doanh nghiệp vừa và nhỏ
+
+NetScreen Remote Access 500 hoàn thiện dòng sản phẩm NetScreen Secure Access hiện tại của Juniper Networks với các tính năng đưa ra những tuỳ chọn truy cập băng thông rộng từ xa, tăng hiệu suất hoạt động lớn, tạo ra các điểm truy cập dành riêng cho môi trường Intranet và Extranet phức tạp. Cả hai dòng sản phẩm đều phát huy thiết kế bảo mật mạnh mẽ của nền IVE bao gồm xác thực, uỷ quyền và kiểm soát cho môi trường doanh nghiệp, bảo mật điểm cuối và cấu trúc bảo mật lõi đã được kiểm chứng bởi các chuyên gia bảo mật hàng đầu độc lập như TruSecure Corporation, Cryptography Research. 
+Ông Adam Judd, Phó chủ tịch khu vực châu Á - Thái Bình Dương của Juniper Networks, cho biết: “Các doanh nghiệp vừa và nhỏ chiếm phần lớn trong thị trường khu vực. Thiết kế của Remote Access 500 đáp ứng trực tiếp nhu cầu của đối tượng khách hàng này. Các công ty nhỏ thường không có bộ phận CNTT lớn và dòng sản phẩm mới cho phép khách hàng bảo vệ mạng của mình với độ bảo mật cao và linh hoạt cho dù họ có một nguồn lực CNTT hạn chế”. 
+Theo nghiên cứu mới nhất của Công ty Infonetics Research, Juniper Networks dẫn đầu thị trường SSL VPN với 45% thị phần. Nitin Achrekar, Giám đốc Frost &amp; Sullivan, nhận định: “Châu Á - Thái Bình Dương có nhu cầu rất lớn về mạng riêng ảo dựa trên công nghệ SSL. Chúng tôi dự đoán rằng thị trường SSL VPN tại khu vực này sẽ đạt giá trị tối thiểu là 10 triệu USD trong năm 2004, bởi riêng quý I đã đạt tới 4,4 triệu USD doanh thu”. 
+Thông tin chi tiết về sản phẩm có thể tham khảo tại trang web: http://www.juniper.net/products/howtobuy.html
+
+Theo VNExpress

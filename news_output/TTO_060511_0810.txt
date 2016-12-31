@@ -1,0 +1,6 @@
+﻿ “ Trợ_thủ ” vẽ biểu_đồ
+Để bắt_đầu , bạn nhấp vào nút Open_Diagram , sau đó chọn một trong tám dạng biểu_đồ phổ_biến nhất mà WizFlow Flowcharter đã cung_cấp sẵn . Để chỉnh_sửa một hình_dạng ô nào_đó , bạn chỉ việc nhấp vào ô để hiện lên các điểm điều_chỉnh , sau đó dùng chuột để di_chuyển hoặc chỉnh_sửa theo đủ mọi hướng cần_thiết .
+Bạn cũng có_thể chèn vào các ô biểu_đồ bao_nhiêu hình_ảnh , ký_hiệu , biểu_tượng … tùy_thích . Bạn chỉ cần click vào để chọn ô cần chèn vào đoạn văn_bản , sau đó nhấn vào biểu_tượng chữ T để đưa con_trỏ văn_bản vào ô cần chèn là xong . WizFlow hỗ_trợ không tốt cho font chữ Unicode tiếng Việt nhưng nếu gõ vào bằng kiểu font VNI hay ABC thì không có gì trục_trặc .
+WizFlow tương_thích với MS Word . Bạn dùng tổ_hợp phím Ctrl + A để đánh_dấu toàn_bộ biểu_đồ vừa tạo xong - & gt ; Ctrl + C để copy toàn_bộ biểu_đồ vào clipboard - & gt ; sau đó dán thẳng vào cửa_sổ văn_bản của MS Word là toàn_bộ biểu_đồ của bạn sẽ được bê nguyên_xi sang Word , hệt như một biểu_đồ được tạo ra ngay trong Word .
+Công_ty Pacestar_Software đang bán ra bản WizFlow Flowcharter_Professional 5.04 với giá 84,95 USD , còn bản WizFlow Flowcharter_Standard có_giá 44,95 USD . Người dùng có_thể vào địa_chỉ http : / / www.pacestar.com/wizflow/trial.htm để tải về bản dùng thử .
+HOÀNG_HẢI

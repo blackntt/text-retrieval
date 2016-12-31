@@ -1,0 +1,6 @@
+﻿Intel tiếp tục dẫn đầu thị trường chip đồ họa
+
+Tập đoàn sản xuất chip lớn nhất thế giới vẫn tiếp tục dẫn đầu thị trường chip đồ họa trong 3 tháng đầu năm mặc dù hãng này đã phải đối mặt với sự cạnh tranh ngày càng khốc liệt của hai đối thủ chính. 
+ Trong những năm gần đây, Ati Technologies và Nvidia là hai hãng cung cấp chip đồ họa cho công nghiệp trò chơi đã hướng tới các sản phẩm đồ họa phức tạp và có nhu cầu lớn sử dụng cho các máy để bàn và máy xách tay. Điểm lợi thế lớn nhất của hai hãng này là họ tập trung vào phát triển đồ họa cho những chuẩn hình ảnh và trò chơi điện tử thế hệ mới nhất, và họ đang thu hút được rất nhiều khách hàng có yêu cầu chất lượng đồ họa cao cho hình ảnh, phim và trò chơi điện tử. 
+Theo số liệu thống kê mới của công ty Jon Peddie Research (Mỹ), ATi hiện đang cạnh tranh khốc liệt với Intel trong lĩnh vực máy xách tay. Mặc dù vậy, Intel đang chiếm giữ ưu thế vượt trội trên thị trường đồ họa máy cá nhân, với 39,1% thị phần. Tiếp đến là ATi với 28,7% và Nvidia với 19%. 
+Số lượng chip đồ họa của máy tính cá nhân được bán ra tăng 25% so với năm ngoái, trong khi đó số lượng này của máy xách tay là 31%. Xấp xỉ 74,9 triệu thiết bị đồ hoạ cho máy cá nhân bao gồm cả các chip đơn và chip tích hợp, được các hãng cung cấp chính bán ra trong ba quý đầu năm nay. Theo AI VietNam/InfoWorld

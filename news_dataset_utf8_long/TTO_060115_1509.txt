@@ -1,0 +1,18 @@
+﻿3 giải thưởng khoa học - kỹ thuật thanh niên
+
+Với công trình ''Nghiên cứu, chế tạo hai thiết bị tự động điều khiển PLC để hàn thẳng và tròn cho thân ống xả xe máy'', từ năm 2004 tới nay, nhóm tác giả thuộc Công ty Kim khí Thăng Long đã tiết kiệm cho công ty 500-600 triệu đồng/năm. 
+Hai thiết bị nói trên chính là máy hàn TIG và hàn MAG. Nhờ bộ điều khiển PLC mà chúng hoạt động gần như một robot hàn tự động, giúp nâng cao năng suất lao động và chất lượng sản phẩm. Những máy hàn này chỉ cần khoảng 2 phút là hàn xong một thân ống xả, so với 3-5 phút hàn thủ công trước đây. 
+Ngoài ra, do hàn tự động nên chất lượng mối hàn đồng đều, mịn và tốt hơn. Tỷ lệ hàn hỏng giảm xuống còn chưa tới 1%. Trong khi đó, tỷ lệ hàn hỏng khi hàn thủ công là khoảng 10%. Được biết những thiết bị trên đang được sử dụng để hàn ống xả cung cấp cho Honda Việt Nam và các công ty lắp ráp xe máy khác. 
+Giải thưởng khoa học-kỹ thuật thanh niên được trao lần đầu tiên vào năm 1991. Cho tới nay đã có 664 công trình nghiên cứu khoa học và giải pháp kỹ thuật của tuổi trẻ từ mọi miền đất nước tham gia Giải thưởng. 
+Giải thưởng được trao cho các tác giả có độ tuổi không quá 40, nhằm khích lệ tuổi trẻ cả nước hăng hái học tập sáng tạo, thực hiện thắng lợi sự nghiệp hiện đại hoá, công nghiệp hoá đất nước. 
+Công trình thứ hai được trao Giải thưởng là ''Nghiên cứu, chế tạo cảm biến đo lực cắt ba chiều khi gia công tiện''. 
+Theo KS Đào Việt Dũng, một trong ba tác giả thuộc Phòng thí nghiệm khí động - động lực, Viện tên lửa, việc chế tạo thành công bộ cảm biến giúp ích rất nhiều cho nghiên cứu, khảo sát động học của các máy công cụ công suất lớn, từ đó tìm các biện pháp cải tiến, nâng cao năng suất lao động. 
+Cảm biến được lắp trực tiếp trên máy tiện công suất lớn, dễ dàng vận hành tháo lắp và không ảnh hưởng tới hoạt động của máy. Nó đo các lực tác động lên dao tiện trong quá trình tiện, trong đó có lực dọc trục, lực pháp tuyến và lực tiếp tuyến, với sai số nhỏ hơn 1,5%. 
+Được biết, giá thành chế tạo cảm biến loại này chỉ bằng 1/10 giá mua của các hãng nước ngoài do không được sản xuất hàng loạt. 
+Hơn thế nữa, thành công này còn là tiền đề để nhóm tiếp tục nghiên cứu chế tạo các cảm biến đo lực chính diện và lực lệch tâm động cơ tên lửa, cũng như các cảm biến thông minh hơn dùng cho điều khiển máy công cụ. 
+Công trình thứ ba được trao Giải thưởng là ''Nghiên cứu, chế tạo và đưa vào sản xuất hệ thống tổng lắp bán tự động bộ lửa đạn pháo''. 
+Với công trình này, nhóm tác giả tại Công ty hoá chất Z21, Tổng cục Công nghiệp quốc phòng, đã giúp công ty tiết kiệm 300 triệu đồng do không phải nhập ngoại thiết bị cùng loại. Ưu điểm của công trình là đảm bảo an toàn về phòng chống cháy nổ cho người và thiết bị, tăng năng suất lao động 50-60 lần, tỷ lệ phế phẩm giảm 5 lần so với quy định. 
+Ba giải nói trên đều là giải thưởng kỹ thuật. Mỗi giải trị giá 7 triệu đồng. 
+Giải thưởng khoa học - kỹ thuật Thanh niên được trao cho các công trình xuất sắc về khoa học hoặc về kỹ thuật. Năm nay, Ban tổ chức không chọn được công trình xứng đáng để trao giải xuất sắc về khoa học.
+
+Theo VietNamNet

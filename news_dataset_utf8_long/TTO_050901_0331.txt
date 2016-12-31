@@ -1,0 +1,5 @@
+﻿Viện Tim TP.HCM: Chấm dứt nạn “cò” ở phòng khám
+
+Khu khám bệnh có năm phòng, mỗi phòng hai bác sĩ và một bộ phận thu ngân. Người bệnh tự đăng ký và đóng tiền tại một trong năm phòng khám do mình chọn. Sau đó chờ và theo dõi số thứ tự đã được in trên phiếu thu tiền, không còn phải xin số như trước đây. Khi đến lượt khám, nếu bác sĩ có chỉ định làm xét nghiệm hoặc siêu âm, bệnh nhân tiếp tục đóng tiền tại phòng khám đã chọn, đến các phòng để làm các chỉ định. Khi có kết quả, trở lại phòng khám để được chẩn đoán và cho toa.
+
+KIM SƠN

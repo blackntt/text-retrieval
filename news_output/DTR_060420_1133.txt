@@ -1,0 +1,5 @@
+﻿ Fujitsu ra_mắt máy_xách_tay siêu mỏng mới
+Hôm 18/4 , hãng điện_tử Nhật_Bản_Fujitsu ra_mắt máy_tính siêu mỏng Q2110 mới cùng một_số cải_tiến trong dòng máy_xách_tay series S và E trong Ngày hội truyền_thông của hãng .
+Fujitsu cho_biết Lifebook Q2110 dày khoảng 19 mm ( tương_đương với Toshiba_Portege R200 ) và nặng gần 1kg . Đáng tiếc là máy không đủ chỗ cho card Ethernet , VGA , hay thậm_chí là 1 cổng modem .
+Q2110 được trang_bị màn_hình 12,1 inch và một bàn_phím rút_gọn . Khung máy làm_bằng hợp_kim magiê , và các khớp nối bằng titan để đảm_bảo máy_xách_tay nhỏ gọn mà chắc_chắn . Q2110 không tích_hợp sẵn ổ quang , nhưng cũng giống Lenovo_Thinkpad X60 , người dùng có_thể lựa_chọn sử_dụng trạm nối có gắn ổ quang .
+Cấu_hình của Q2110 không mạnh , vì nó dùng bộ_xử_lý lõi đơn ULV Intel . Q2110 dùng pin 3 cell , chạy được 1,5 giờ , nhưng hãng cũng đang cân_nhắc việc dùng pin 6 cell để tăng thời_gian này lên 7 giờ . Theo AI VietNam/eWeek

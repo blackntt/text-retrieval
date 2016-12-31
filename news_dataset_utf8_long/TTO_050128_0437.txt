@@ -1,0 +1,13 @@
+﻿SV làm phần mềm: càng sớm càng tốt!
+
+- Chúng tôi có nhiều sản phẩm do SV làm ứng dụng vào việc quản lý mà đến nay khoa vẫn đang dùng. Những sản phẩm này có ý nghĩa lớn về mặt học thuật, đóng góp cho xã hội nhưng tiếc là hiệu quả kinh tế không có. Riêng sản phẩm đầu tiên của Tiến và Anh thì lỗ! Làm phần mềm lấy công làm lời thôi. Ngay khi sản phẩm này tung ra thị trường, hacker đã có thể mở khóa được, muốn bít lỗ hổng thì cần kinh phí quá lớn. 
+Sản xuất là một chuyện, đưa nó vào thị trường là cả một vấn đề? Và SV được khuyến khích, tận dụng như thế nào để tham gia quá trình đó? 
+- Đúng là cả vấn đề. Ví dụ qui trình làm sản phẩm đến khi ra thị trường là 10 phần. Chúng tôi nhuần nhuyễn tám phần, nghĩa là những phần kỹ thuật. Hai phần còn lại là hoàn thiện: chẳng hạn bao bì, đóng gói, marketing... thì đó không phải “nghề”. 
+Tiến sĩ Dương Anh Đức Song chúng tôi hiện đang có hai hướng: một, chủ động nguồn nghiên cứu ; hai, làm theo đơn đặt hàng của các đơn vị. Trong các dự án phần mềm, SV đóng vai trò rất quan trọng: có ý tưởng, thiết kế và thực hiện. Sức SV làm tới đâu, chúng tôi để SV thoải mái đến đó, không có hạn chế nào. 
+Thưa tiến sĩ, xưởng sản xuất phần mềm của khoa được đầu tư kinh phí 6,8 tỉ đồng, chủ yếu dành cho giảng viên, còn SV mới chỉ tham gia chừng mực? 
+- Xưởng phục vụ nghiên cứu của nhiều đối tượng nên phải tính ưu tiên. Hiện có 40 chỗ dành cho SV, chiếm khoảng 10% số SV của khoa, thường là những nhóm nghiên cứu có triển vọng. Song có nhiều SV rất năng động. 
+Như trường hợp một SV năm 3 lên xin được hướng dẫn. Ban đầu tôi không chấp nhận vì thấy game là một hướng khó triển khai. Nhưng bạn trẻ này rất kiên trì, cuối cùng đã thuyết phục được tôi. Bây giờ sản phẩm đó đã được áp dụng tại một công ty. SV đó giờ “ngon lành” lắm. 
+Thế 90% SV còn lại chỉ học lý thuyết? 
+- Số SV còn lại cũng làm đề tài phần mềm, điều này là bắt buộc. Gần đây chúng tôi cũng “bù đắp” bằng cách liên kết với gần chục công ty, đơn vị sản xuất để SV thực tập làm phần mềm, giải quyết thêm được 5% SV nữa.
+
+ĐẶNG TƯƠI thực hiện

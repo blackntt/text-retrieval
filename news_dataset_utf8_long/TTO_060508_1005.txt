@@ -1,0 +1,18 @@
+﻿Quản lý mật khẩu hữu hiệu với “Easy Password Store”
+
+Mỗi người phải nhớ khá nhiều password, từ hộp thư e-mail, tài khoản chat, một số diễn đàn cho đến password giao dịch ngân hàng, password thẻ tín dụng - ATM cùng hàng lô password của mọi ứng dụng khác... Việc phải nhớ cho chính xác cả chục password và username đủ dạng này là hết sức khó khăn và nhầm lẫn khi sử dụng là điều không thể tránh khỏi. 
+Chính vì vậy mà công cụ “Easy Password Store”(EPS) sẽ là giải pháp giúp bạn quản lý hàng chục username và password của mình ở mức tiện dụng, an toàn và không hề sai chạy. Độc đáo hơn nữa, EPS sẽ giúp bạn thiết lập các password ở dạng không thể nhớ nổi, chuyên dùng để truy cập các tài khoản dạng “tối mật” của riêng bạn. 
+Khi kích hoạt thành công màn hình khởi động, đầu tiên EPS sẽ yêu cầu bạn thiết lập một password riêng cho nó. Bạn click vào dòng chữ “Click here to change your password” để truy cập vào bảng thiết lập password cho EPS. Ở ô “Step 1” sẽ là “No password”, bạn để trỏ chuột vào Step 2 và Step 3 để chọn cho mình 1 password dành riêng cho EPS và dường như bạn chỉ cần nhớ password này là đủ -&gt; nhấn OK để vào giao diện chính quản lý password. 
+Nhấn vào “New” để bắt đầu nhập vào EPS các thông tin liên quan đến mọi tài khoản điện tử của mình. Chẳng hạn bạn muốn lưu trữ các thông tin về tài khoản giao dịch ngân hàng trực tuyến trong EPS thì làm như sau: 
+- Nhập vào ô “Entry” dòng miêu tả về tài khoản của mình, chẳng hạn “Giao dich voi Ngan Hang A Chau”. 
+- Nhập vào ô “Login” username của bạn. 
+- Nhập vào ô “Password” mật khẩu của bạn. 
+- Nhập vào ô “Account No” số tài khoản của bạn. 
+- Nhập vào ô “Location” địa chỉ website chuyên dùng để giao dịch trực tuyến của ngân hàng. Khi sử dụng thì bạn chỉ việc click vào địa chỉ này là EPS sẽ tự động kết nối địa chỉ vào trình duyệt cho bạn sử dụng. Khi đã nhập xong thì nhấn “Save” để hoàn tất quá trình nhập thông tin của 1 tài khoản. 
+Việc nhập thông tin về các tài khoản chat hoặc e-mail thì đơn giản hơn so với tài khoản giao dịch trực tuyến, chỉ cần username, password và tên website là đủ. 
+Bạn nên sử dụng tính năng Random Password cực kỳ an toàn của EPS. Khi nhấn vào nút này, EPS sẽ tự động cung cấp cho bạn một password cực kỳ khó nhớ, bao gồm tối thiểu 9 ký tự in thường, in hoa và số lẫn lộn với nhau, đảm bảo hầu như không thể dò ra được dù với những máy tính cực mạnh. 
+Trong quá trình sử dụng, hầu như bạn không cần phải nhớ đến bất kỳ thông tin nào khác ngoài việc đăng nhập vào EPS -&gt; tìm tài khoản cần dùng trong các “Entry” đã lưu -&gt; nhấn vào nút “Click to Copy” có sẵn ở bên cạnh các ô “Login, password, Account No” để sau đó dán thẳng vào website giao dịch. Đây được xem là biện pháp gần như tối ưu để bảo mật trong trường hợp máy tính đã bị cài Keylogger hoặc bị nhiễm trojan, virus… 
+Để lưu lại mọi thông tin tài khoản nhằm sử dụng ở các máy tính khác, bạn nhấn vào nút “Backup” để EPS lưu lại toàn bộ dưới dạng file .EZP. đã được mã hóa rất kỹ lưỡng. Để xài lại file này thì nhấn vào nút “Restore”. 
+Công ty Ben Williamson đang bán ra bản Easy Password Store 1,3 với giá là 11 USD. Người dùng có thể vào địa chỉ http://support.easypasswordstore.com/setup.exe để tải về bản dùng thử có dung lượng khoảng hơn 500 KB.
+
+HOÀNG KIM ANH

@@ -1,0 +1,29 @@
+﻿Bộ công cụ chẩn đoán lỗi ổ cứng (Phần cuối)
+
+Data Lifeguard v11 bao gồm cả 2 phiên bản: dành cho DOS và Windows được thiết kế để cài đặt cho các ổ cứng EIDE của Western Digital. Nếu máy tính của bạn đã cài đặt ổ cứng với hệ điều hành Windows 98 hay cao hơn thì bạn nên sử dụng phiên bản Data LifeGuard dành cho Windows để có hiệu xuất cao hơn. Phiên bản dành cho DOS chỉ sử dụng khi bạn lắp đặt mới máy tính của bạn mà chưa cài đặt hệ điều hành. 
+2. DLG Diagnostic 
+DLG Diagnostic cho phép bạn kiểm tra lỗi ổ cứng, in ra kết quả, sửa lỗi nếu có. Để sử dụng tiện ích này, bạn tải về tại đây. Sau khi tải về, bạn chỉ cần thực thi tập tin “ DLGDiagv504c.exe ” và tiện ích sẽ hướng dẫn bạn tạo đĩa boot kiểm tra cho mình. 
+DLG Diagnostic 5.04c hoạt động trên hầu hết phiên bản HĐH Windows 98, 98SE, ME, 2000, XP. Người dung có thể tìm hiểu thêm về cách sử dụng DLG Diagnostic tại đây . 
+3. DLGDIAG cho Windows 
+Data LifeGuard Diagnostic for Windows 1.02 , đây là phiên bản dành cho Windows của Data LifeGuard. Tiện ích có thể giúp xác định ổ cứng, phân tích, sửa lỗi trên một ổ cứng Western Digital FireWire, EIDE, hay ổ USB. Ngoài ra, tiện ích còn có thể cung cấp cho bạn số serial và model của ổ đĩa cho bạn. 
+Ngoài những công cụ tiện ích cho ổ cứng, Western Digital cũng có một vài bộ công cụ, hỗ trợ cho các Card Reader, Controller Card … mà tôi giới thiệu với bạn bên dưới đây: 
+Media Center Tools 
+- Media Center / Dual-Option Backup USB Driver Update for Windows ME 
+- Media Center Driver Update for Windows XP v11.8 
+Card Reader Drivers 
+Card Reader Driver Update for Windows 2000 
+Controller Card Drivers &amp; Software 
+- Promise Ultra TX2 Windows Driver 2.0.0210.36 
+- SIIG Serial ATA Controller Windows Driver 
+- Serial ATA RAID Controller Drivers 
+Combo/USB/Firewire 
+- External Combo FireWire/USB 2.0 Driver for 98SE 
+- Series II USB 2.0 Hard Drive for 98SE 
+- Series I USB 2.0 Hard Drive for 98SE 
+- Essentials USB Driver 
+- Spindown or Stop Utility for External Drives v1.00 
+EIDE RAID Utility 
+- IDE RAID Upgrade - 3Ware v1.07 
+- IDE RAID Upgrade - non-3Ware v1.07
+
+TRẦN THANH TRỰC

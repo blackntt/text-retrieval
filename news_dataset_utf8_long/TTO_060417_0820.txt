@@ -1,0 +1,25 @@
+﻿Điều khiển máy tính bằng tiếng Việt?
+
+Quả thật là hiện nay đã có khá nhiều phần mềm chuyên dùng để điều khiển máy tính bằng giọng nói, đa số là bằng tiếng Anh, mà bạn có thể tìm mua ở các cửa hàng phần mềm tin học. ViaVoice có lẽ là một trong những phần mềm điều khiển máy tính bằng tiếng nói xuất hiện đầu tiên ở Việt Nam vào những năm 1999-2000, và dĩ nhiên phần mềm này cũng chỉ xài được bằng tiếng Anh. Các lập trình viên ở hầu hết các quốc gia đều đã chế tạo thành công những công cụ nhận dạng tiếng nói bằng ngôn ngữ mẹ đẻ của mình. 
+Qua tìm hiểu, chúng tôi được biết rằng dường như vào thời điểm này ở Việt Nam chỉ có một phần mềm duy nhất có thể nhận dạng và điều khiển máy tính bằng tiếng Việt đó là phần mềm VSpeech do nhóm BK02 của Đại học Bách khoa TP.HCM chế tạo thành công vào cuối năm 2004. Gọi là phần mềm nhận dạng và điều khiển máy tính bằng tiếng Việt nhưng thực chất phần mềm này cũng là công cụ nhận dạng và điều khiển máy tính bằng tiếng Anh rất tốt, không kém cạnh bao nhiêu so với các công cụ nhận dạng tiếng Anh khác. Và dĩ nhiên, tính năng nhận dạng tiếng Việt là ưu thế vô cùng độc đáo, chỉ tiếc rằng các ứng dụng Việt hóa đến nay vẫn còn quá ít để VSpeech phát huy ưu thế. 
+Sau đây chúng tôi xin giới thiệu một số nét cơ bản của VSpeech để bạn có thể làm quen ban đầu với công cụ “Made in VietNam” độc đáo này. 
+Bước 1: Cấu hình máy. 
+VSpeech vẫn có thể hoạt động được trên các máy tính “bèo bèo” cỡ như Pentium III; 128 MB RAM; Windows 98, Microphone… Nhưng để VSpeech hoạt động tốt, bạn nên có một cấu hình máy như sau: CPU Pentium 4; RAM 256MB; Microphone USB phone; Windows XP; và bộ Engine có trong Microsoft Office XP/2003. 
+Bước 2 : Cài đặt VSpeech 
+Dung lượng bộ cài đặt chương trình khá nhỏ (1MB). Bạn có thể download trực tiếp tại địa chỉ sau: http://bk02.net hoặc http://vspeech.sourceforge.net . 
+Bước 3 : Cài đặt font 
+Với một số máy, font chữ “TCVN3 font” sẽ không được tự động cài đặt. Mở Control Panel à Fonts, kiểm tra xem “TCVN3 font” đã có chưa, nếu chưa có thì chọn thêm font và browse tới thư mục cài đặt VSpeech. 
+Bước 4 : Chạy chương trình 
+Sau khi cài đặt, bạn nhấp đôi vào biểu tượng VSpeech trên màn hình để chạy chương trình. Khi đó có thể bạn sẽ gặp một số thông báo lỗi như : thiếu Engine, thiếu file... Xin xem thêm mục FAQ để biết cách khắc phục. 
+Bước 5 : Thiết lập Microphone và luyện giọng 
+- Trước tiên bạn phải đảm bảo rằng Microphone của bạn đã hoạt động tốt bằng cách chạy VSpeech, chọn Settings -&gt; Engine -&gt; Microphone Trainning 
+- Để tăng độ chính xác cho chương trình, bạn nên dành chút thời gian cho việc luyện giọng bằng cách đọc một hoặc hai đoạn văn bản theo mẫu có sẵn. Chạy VSpeech chọn Settings -&gt; Engine -&gt; User Training 
+- Ngoài ra chương trình còn có một số mẫu giọng dựng sẵn, bạn có thể cài trực tiếp nếu không muốn phải luyện giọng. 
+Bước 6: Luyện giọng 
+Bạn vào chương trình rồi chọn VSpeech à Settings -&gt; Engine -&gt; User Training để mở chương trình luyện giọng. Máy sẽ đưa ra từ một đến hai đoạn văn bản mẫu để bạn luyện. Thời gian cho một đoạn khoảng từ 3 đến 5 phút tùy thuộc vào độ dài của từng đoạn và tốc độ đọc của bạn. 
+Sau khi thực hiện thành công 6 bước cơ bản này là hầu như VSpeech đã sẵn sàng cho bạn sử dụng. VSpeech hầu như hiểu được tất cả mọi câu lệnh, menu lệnh để xâm nhập được vào hầu hết mọi ứng dụng chức năng đang sẵn có trên máy tính của bạn. Trong lúc hoạt động, chương trình sẽ tạo ra một biểu tượng Tray Icon ở góc dưới phải màn hình nhằm giúp bạn thực hiện các tác vụ như : Chọn các chế độ, Hiển thị chương trình... Bạn nên chú ý đến cửa sổ Help được thiết kế dưới dạng trong suốt nhằm giúp bạn biết được những lệnh đọc có tác dụng tại một thời điểm bất kì. Bất cứ lệnh đọc nào bạn nhìn thấy trong cửa sổ thì bạn đều có thể ra lệnh cho máy thực hiện được. 
+Một trong những độc đáo và tiện dụng nhất là VSpeech được tích hợp với Internet Explorer. Khi bạn vào một trang Web bất kì, chương trình sẽ tự động quét tất cả các liên kết (Link) và chuyển thành các lệnh đọc mà máy tính có thể hiểu được. Nhờ vậy, thay vì phải Click chuột vào các Link, bạn có thể đọc trực tiếp các lệnh tương ứng. 
+Nếu đường dẫn hiện hành trên Internet Explorer là một trang Web, VSpeech sẽ tự động quét các Link.Với chức năng tự động đoán font, chương trình sẽ tự động kiểm tra xem trang Web này sử dụng tiếng Anh hay tiếng Việt, dùng bảng mã nào, rồi tự động quy về một chuẩn duy nhất. Còn nếu đường dẫn hiện hành là một thư mục, chương trình sẽ quét tất cả các tập tin và thư mục con. Bạn có thể tận dụng điều này để quản lý file bằng giọng nói như trong Windows Explorer. 
+Thật ra VSpeech dường như vẫn chưa đủ khả năng điều khiển hoàn toàn một máy tính nhưng ít ra đây cũng là một công cụ giải trí tuyệt hảo, tránh sự nhàm chán cho những người phải làm việc với máy tính thường xuyên. Qua thử nghiệm dường như VSpeech “xung khắc” với các chương trình English Study (4.0, 4.1) nên nó tự động báo lỗi và thoát ra khi kích hoạt English Study hoạt động.
+
+THỤY KHANH (Tổng hợp)

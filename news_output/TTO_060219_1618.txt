@@ -1,0 +1,6 @@
+﻿ Thêm 1 sâu tấn_công Mac OS X
+Có tên là Inqtana , lợi_dụng lỗ_hổng trong phần_mềm quản_lý Bluetooth của hệ_điều_hành Mac OS_X của Apple để phát_tán . Một_khi lây_nhiễm vào máy_tính , sâu sẽ tự_động tìm_kiếm các thiết_bị có hỗ_trợ BlueTooth khác và gởi nó sang thiết_bị đó .
+Inqtana , theo Symantec và F-Secure , thực_ra là một đoạn mã độc . Tuy_nhiên , theo đánh_giá là mức_độ nguy_hiểm vẫn chưa cao , nếu_không muốn nói là không có gì đáng_kể . Mức_độ ảnh_hưởng và lây_lan cũng không lớn lắm . Các thành_phần của BlueTooth trong máy bị lây_nhiễm , sẽ bị khóa dành riêng cho một địa_chỉ cụ_thể và sẽ hết hạn trong 1 tuần .
+Tuy_nhiên , hai loại virus tấn_công trong hai ngày , chính là biểu_hiện cho một xu_thế chuyển_hướng của những người viết virus . Theo đánh_giá , xu_thế chuyển sang một nền_tảng hệ_điều_hành khác ngoài Windows đang dần_dần lộ rõ .
+Nếu bạn là người dùng máy Mac , có_thể vào đây để download các bản cập_nhật sửa lỗi bảo_mật trên . Thận_trọng và chú_ý hơn trong những ngày sắp tới sẽ giúp cho bạn hạn_chế các thiệt_hại , những phiền_toái không đáng có .
+TRẦN_HUY ( Theo ZDNets )

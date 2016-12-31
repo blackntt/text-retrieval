@@ -1,0 +1,21 @@
+﻿ Hôm_nay , bắt_đầu thoái hoàn tiền điện cho khách_hàng
+Công_nhân Điện_lực Sài_Gòn thay đồng_hồ cơ đối_chứng với đồng_hồ điện_tử cho một hộ dân tại quận 3 - TPHCM . Ảnh : H . THÚY Từ ngày 4-4 , khách_hàng đã sử_dụng điện_kế điện_tử LTE66 bắt_đầu được thoái hoàn tiền điện , dự_kiến mỗi ngày sẽ thoái hoàn cho khoảng 100 - 150 khách_hàng
+Theo ông Nguyễn_Văn_Lý , Phó_Giám đốc Công_ty Điện_lực TPHCM , bước_đầu , công_ty sẽ thí_điểm tổ_chức trả tiền thoái hoàn cho khách_hàng trong vòng 7 ngày , mỗi ngày các điện_lực thực_hiện thoái hoàn khoảng 100 đến 150 khách_hàng .
+. Phóng_viên : Sẽ có bao_nhiêu khách_hàng được thoái hoàn trong đợt này , thưa ông ?
+- Ông Nguyễn_Văn_Lý : Đối_với phương_án tính_toán bình_quân , tổng_số khách_hàng cần tính_toán thoái hoàn là 32.097 . Chúng_tôi đã tính_toán xong , chỉ còn một số_ít ( khoảng 5% ) các trường_hợp cần phải tiếp_tục sao_lục số_liệu để tính_toán sau .
+Về phương_án tính đối_chứng , tổng_số cần tiếp_tục lắp đối_chứng là 118.729 . Tổng_số đã tháo chốt chỉ_số đối_chứng là 31.383 . Có 10.092 khách_hàng không yêu_cầu thoái hoàn .
+. Những trường_hợp cá_biệt sẽ được giải_quyết như_thế_nào ?
+- Đối_với một_số trường_hợp cá_biệt , Công_ty Điện_lực TP đã nhận được văn_bản hướng_dẫn của Bộ Công nghiệp . Cụ_thể , phương_án bình_quân :
++ Các trường_hợp khách_hàng không đủ 4 chu_kỳ ghi chỉ_số trước và sau khi dùng điện_kế LTE66 ( 2.741 trường_hợp ) sẽ thực_hiện thoái hoàn theo thời_gian_thực có .
++ Các trường_hợp nhà giải_tỏa , đã thanh_lý hợp_đồng ( 613 trường_hợp ) , điện_lực thỏa_thuận với khách_hàng để giải_quyết .
++ Khách_hàng vi_phạm sử_dụng điện ( 302 trường_hợp ) sẽ không được thoái hoàn .
++ Phương_án lắp đối_chứng : Đối_với điện_kế LTE66 hư , cháy tại thời_điểm lắp đối_chứng ( 99 trường_hợp ) sẽ chuyển sang tính_toán thoái hoàn theo phương_án bình_quân .
+. Những trường_hợp nào khách_hàng không được tính thoái hoàn ?
+- Khách_hàng bị phát_hiện vi_phạm sử_dụng điện khi lắp đối_chứng ( 76 trường_hợp ) , không thoái hoàn nếu khách_hàng can_thiệp vào điện_kế LTE66 ( các trường_hợp : phá niêm chì hộp điện_kế , khoan lỗ , thay_đổi cấu_trúc bộ hộp_số , nối tắt , cắt bớt cuộn dây cường_độ , chỉnh nam_châm , ... ) .
+. Đối_với những trường_hợp khách_hàng được xem là vi_phạm sử_dụng điện nhưng không can_thiệp trực_tiếp vào điện_kế ?
+- Vẫn tính_toán thoái hoàn theo quy_định nếu khách_hàng không can_thiệp vào điện_kế LTE66 ( các trường_hợp : dùng máy tạo dòng để khống_chế đĩa điện_kế , dùng dây_nguội ngoài kết_hợp pha ra điện_kế ( không qua cuộn cường_độ ) , cô_lập tín_hiệu áp cuộn dây_điện kế , mổ cáp trước khi vào điện_kế , ... ) . Tuy_vậy , hành_vi vi_phạm sử_dụng điện vẫn bị xử_lý theo quy_định hiện_hành .
+. Còn những trường_hợp nào chưa có cách giải_quyết , thưa ông ?
+- Thực_tế vẫn còn một_số trường_hợp cá_biệt hơn phải chờ hướng_dẫn tiếp của Bộ Công nghiệp như :
++ Tách hộ gắn thêm điện_kế - trước_đây nhiều hộ dùng chung 1 điện_kế LTE66 , sau khi thay điện_kế cơ tách ra nhiều điện_kế dẫn đến điện_năng tiêu_thụ giảm .
++ Có 2 mục_đích sử_dụng điện ( sinh_hoạt + kinh_doanh / sản_xuất / dịch_vụ ... ) trong thời_gian sử_dụng LTE66 , sau đó đăng_ký thêm 1 điện_kế khác cho mục_đích kinh_doanh / sản_xuất / dịch_vụ dẫn đến điện_năng tiêu_thụ sau LTE66 nhỏ . + Trường_hợp khác là trước khi gắn LTE66 nhà bỏ trống_không sử_dụng , sau khi gắn LTE66 sử_dụng lại .
+DŨNG_TUẤN thực_hiện

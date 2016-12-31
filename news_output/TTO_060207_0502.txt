@@ -1,0 +1,6 @@
+﻿ Thiết_bị tiết_kiệm điện : thực_hư ra_sao ?
+TS năng_lượng điện Nguyễn_Bách_Phúc ( Viện_Điện - điện_tử - tin_học TP.HCM - ảnh ) : - Bộ tiết_kiệm này là một dạng tụ_điện , chủ_yếu áp_dụng cho khách_hàng có công_suất tiêu_thụ điện_năng lớn có trạm biến_thế từ 22kV-380kV như nhà_máy , cơ_sở sản_xuất ...
+Ở các trạm này , công_ty điện_lực thường bố_trí đồng_hồ để đo cos ( tỉ_số giữa công_suất sử_dụng và công_suất truyền_tải điện ) . Khi dùng tụ_điện kết_nối vào trạm biến_thế , tụ_điện sẽ phát ra một phần công_suất phản_kháng có tác_dụng nâng cao hệ_số cos , cách này sẽ tiết_kiệm cho việc truyền_tải điện .
+Tuy_nhiên đối_với các hộ gia_đình , ngành điện_lực đã loại_bỏ yếu_tố truyền_tải ra khỏi phần tính tiền điện mà chỉ thu tiền theo điện_năng tiêu_thụ ( kWh ) . Nên nếu mua thiết_bị tụ_điện nói trên , anh chỉ giúp tiết_kiệm cho việc truyền_tải điện chứ thực_tế không giảm năng_suất tiêu_thụ điện .
+Có_thể nói người bạn của anh Sơn đã đúng , bộ tiết_kiệm mà anh mua không giúp được gì cho việc giảm tiêu_thụ điện_năng trong gia_đình .
+PV

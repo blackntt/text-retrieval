@@ -1,0 +1,21 @@
+﻿Dấu hiệu PC nhiễm virus
+
+Virus PC mang đến nhiều tác hại. Chúng có thể làm đơ hoặc treo máy, đánh cắp hoặc phá huỷ dữ liệu... Nói chung, giống như virus sinh học, chúng làm cho PC của bạn từ khoẻ trở thành ốm. Dưới đây là những dấu hiệu cho biết PC đang bị virus xâm nhập. 
+
+ Đa phần những người ngại đi chơi xa sẽ chọn Internet là địa chỉ du xuân vào mấy ngày nghỉ Tết. Vì thế, một cảnh báo nhỏ nhưng quan trọng bạn đừng quên: Virus. 
+Virus có thể lây nhiễm vào máy tính khi bạn lướt net, mở e-mail, hoặc khi mở một chương trình mới download nào đó. Hoặc khi bạn trao đổi dữ liệu với người khác thông qua các phương tiện lưu trữ di động (đĩa mềm, CD, Flash Disk, thẻ nhớ), môi trường mạng máy tính... Làm thế nào để phát hiện ra sự đột nhập của chúng? Những dấu hiệu bất thường của hệ thống sẽ là cơ sở để bạn đặt ra nghi vấn, để rồi sau đó chạy các chương trình chống virus tống cổ chúng ra, trả lại sự bình yên cho hệ thống của bạn. 
+- Máy tính vẫn hoạt động ngon lành mấy hôm trước, nhưng hôm nay Windows cứ hay bị “rối loạn”, làm cho máy tính cứ bị treo thường xuyên khi đang sử dụng. 
+- Các chương trình, game đang sử dụng bỗng nhiên bị thoát ra ngoài thật khó hiểu, không một lời báo trước. 
+- Windows cứ luôn đưa ra thông báo các tập tin hệ thống nào đấy bị lỗi, hoặc không tìm thấy mặc dù bạn chẳng hề “đụng chạm” đến chúng. 
+- Hệ thống máy tính của bạn đang chậm dần, hoạt động ngày một ì ạch. 
+- Ổ cứng của bạn bị đầy lên một cách nhanh chóng bất thường, dù rằng bạn không hề sao chép dữ liệu mới nào hoặc cài đặt chương trình mới nào. 
+- Ổ cứng bị lỗi, chạy scan-disk thấy báo quá nhiều bad sector. 
+- Một số chương trình đang dùng không thể mở được dù bạn kích hoạt trực tiếp file thực thi (.exe) của chương trình đó. 
+- Khi mở bất kỳ thư mục nào (kể cả thư mục con của nó) trong các ổ đĩa, bạn đều thấy sự hiện diện của các file Folder.htt và Desktop.ini. 
+- Khi đang truy nhập Internet, tốc độ duyệt web của trình duyệt chậm đi rõ rệt. 
+- Modem (dial-up) có hiện tượng quay số lại - khi đó bạn sẽ nghe modem phát ra tiếng rít, đèn LED đỏ ở hộp đấu dây điện thoại cứ nhấp nháy liên tục. 
+- Bạn liên tục bị làm phiền bởi những trang web quảng cáo không lành mạnh cứ tự động bật ra (pop-up) giữa màn hình khi đang lướt web. Trang chủ (Home Page) của trình duyệt web tự nhiên bị thay bằng một trang web không rõ ở đâu ra? Trang web tìm kiếm, trang web bạn thường xuyên vào nay lại được chuyển sang một trang web lạ hoắc. 
+- Trình duyệt Internet của bạn cũng tự nhiên có thêm những nút bấm, công cụ lạ trên Toolbars. 
+- Đang truy cập các website sử dụng font chữ Việt có dấu bỗng dưng bạn thấy toàn bộ font chữ Việt có dấu trên trang web đều bị biến dạng kỳ lạ. 
+- Bạn không thể nào đăng nhập được vào chương trình e-mail thường dùng vì password gõ vào không được chương trình chấp nhận (vô hiệu), dù bạn đã gõ đi gõ lại nhiều lần thật chính xác và cũng chưa hề tự thay password mới. 
+- Bạn đang truy cập Internet, bỗng hiện lên bảng thông báo máy tính sẽ Shut Down sau 60 giây. Virus W32.Blaster đang hỏi thăm và đã cư trú vào máy tính của bạn rồi đấy. Theo Người Lao động

@@ -1,0 +1,7 @@
+﻿Robot làm việc tại bệnh viện London
+
+Hai robot cao 1,5m được điều khiển từ xa bằng cần điều khiển, giúp các bác sĩ khám và nói chuyện với bệnh nhân từ xa, dù họ ở trong bệnh viện hoặc ở nơi khác. 
+Bác sĩ có thể nhìn bệnh nhân nhờ một camera gắn trên robot, trong khi bệnh nhân có thể nhìn thấy bác sĩ qua màn hình trên "mặt" của robot. Ngoài việc giúp nói chuyện giữa bác sĩ và người bệnh, robot cũng thông báo các kết quả y khoa, chẳng hạn kết quả chụp X-quang và các xét nghiệm. 
+Bác sĩ Sir Ara Darzi, trưởng khoa giải phẫu, gây mê và chăm sóc đặc biệt tại Bệnh viện Imperial College nổi tiếng ở London, cho rằng đây là một khái niệm cách mạng mở ra cách nghiên cứu mới về khám bệnh từ xa và đưa công nghệ vào chăm sóc y tế.
+
+N.T.ĐA (Theo Reuters)

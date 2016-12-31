@@ -1,0 +1,5 @@
+﻿ Bệnh_nhân sẽ có chế_độ ăn riêng khi nhập_viện
+Bộ Y_tế đang tiến_hành xây_dựng hướng_dẫn chế_độ ăn trong bệnh_viện nhằm giúp người_bệnh mau_chóng hồi_phục , rút ngắn thời_gian nằm viện , giảm chi_phí cho người_bệnh và xã_hội .
+Theo đó , sẽ có những nội_dung mới được xây_dựng như : “ Hướng_dẫn tổ_chức hoạt_động khoa dinh_dưỡng bệnh_viện ” . Người_bệnh từ khi nhập đến khi xuất_viện sẽ được áp_dụng chế_độ dinh_dưỡng theo quy_định của bệnh_viện .
+Bước_đầu , chế_độ ăn này sẽ được triển_khai thí_điểm tại 7 bệnh_viện : Bệnh_viện Bạch_Mai ; Bệnh_viện Thanh_Nhàn ; Bệnh_viện Nhi TW ; Bệnh_viện ĐKTW Thái_Nguyên ; Bệnh_viện ĐKTW Huế ; Bệnh_viện Từ_Dũ , Thành_phố Hồ_Chí_Minh ; Bệnh_viện ĐKKV Thống_Nhất , Đồng_Nai .
+Hiện_nay , trong 110 bệnh_viện đa_khoa tuyến tỉnh , thành_phố , 68% bệnh_viện có khoa dinh_dưỡng , trong đó : 49,1% bệnh_viện phục_vụ người_bệnh theo báo ăn tại giường_bệnh và dưới 30% số bệnh_viện phục_vụ chế_độ ăn bệnh_lý . Phạm_Thanh

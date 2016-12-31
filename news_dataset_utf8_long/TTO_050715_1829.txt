@@ -1,0 +1,8 @@
+﻿Gần 400 đội từ hơn 30 quốc gia trên thế giới tham gia RoboCup 2005
+
+Cuộc thi năm nay có chủ đề “Phát triển một đội bóng với các robot giống người hoàn toàn tự động để có thể chiến thắng các cầu thủ của đội vô địch thế giới ở môn bóng đá vào năm 2050". Bắt đầu từ năm nay, cúp liên đoàn robot giống người sẽ nâng cấp cuộc thi từ dạng trò chơi một chọi một thành trận đấu đồng đội hai chọi hai: hai robot sẽ chơi theo kiểu một con tấn công và một con phòng thủ, cùng hợp sức để giành chiến thắng. 
+Cúp liên đoàn robot giống người thành lập từ năm 2002 là các trận đấu dành cho các robot hai chân tự động. Ở năm thi đấu đầu tiên, các robot tham gia được thiết kế chỉ có khả năng chạy và đá bóng. Qua 4 năm, khả năng đi bằng hai chân của các cầu thủ robot không còn là điều khó khăn nữa và vì vậy mà có nhiều thách thức cao hơn được đưa ra cho các đội tham gia năm nay. 
+Nằm trong khuôn khổ RoboCup 2005 là Robotrex, một triển lãm về các sản phẩm và công nghệ robot, cũng đồng thời được tổ chức tại Osaka. 
+“RoboCup là cuộc thi quan trọng để đáng giá ngành công nghiệp chế tạo robot. Triển lãm Robotrex trong khuôn khổ RoboCup tại Nhật Bản là một cố gắng về phương diện này”, Minoru Asada, giáo sư tại Trường ĐH Osaka, chủ tịch Liên đoàn RoboCup cho biết.
+
+KIM NHUNG (Theo Informationweek)

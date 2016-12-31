@@ -1,0 +1,9 @@
+﻿Mã hóa kép cho máy tính xách tay
+
+Công ty Seagate và Secude (Thụy Sỹ) cùng hợp tác phát triển loại laptop “uy lực”, được trang bị tính năng an ninh mạnh mẽ, mã hóa toàn bộ ổ cứng và phần mềm để dễ dàng quản lý mật khẩu riêng. 
+ 
+Theo công ty chuyên sản xuất ổ cứng Seagate, loại máy tính xách tay này sử dụng ổ cứng (hard drive) đã được mã hóa 5400 FDE (full-disk encryption) để khóa dữ liệu . Hard drive sẽ tự động mã hóa tất cả dữ liệu trong ổ, tăng thêm độ an toàn cho hệ thống. Seagate còn cho biết, loại ổ cứng này có thể được xóa từ xa. 
+Laptop được mã hóa kép sử dụng phần mềm quản lý truy cập có tên TiDoCoMi của công ty Secude. Với phần mềm này, các nhà quản trị hệ thống có thể kiểm soát các tính năng an ninh bổ sung khác, như thẻ thông minh, hệ thống ID sinh trắc học. TiDoCoMi lưu các mật khẩu. 
+Công ty sản xuất phần mềm Secude cũng vừa tung ra một số phần mềm an ninh. Ứng dụng Secude Secure Notebook 7.1.1 giúp mã hóa toàn bộ ổ cứng và khóa tất cả dữ liệu trên các thiết bị lưu trữ bên ngoài, Secude giới thiệu. Phần mềm này có thể được cấu hình chỉ cho phép truy cập bằng thẻ thông minh. 
+Phần mềm Secure Mail 4.0 của Secude giúp các nhà quản trị tạo các quy định cho nh ững ai có thể đọc thư (mail) mã hóa . 
+S.Hương Theo TechWorld

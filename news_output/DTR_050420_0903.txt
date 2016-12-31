@@ -1,0 +1,7 @@
+﻿ Miễn thuế cho doanh_nghiệp có thu_nhập thấp
+Tổng_cục Thuế vừa có công_văn gửi cục thuế các tỉnh , thành_phố trực_thuộc TW về việc miễn thuế_thu_nhập doanh_nghiệp đối_với cá_nhân , hộ cá_thể kinh_doanh có mức thu_nhập thấp .
+Theo quy_định của Chính_phủ , các cá_nhân và hộ cá_thể kinh_doanh có thu_nhập bình_quân tháng trong năm của mỗi người lao_động dưới mức lương tối_thiểu do Nhà_nước quy_định được miễn thuế_thu_nhập doanh_nghiệp .
+Căn_cứ để tính mức thu_nhập bình_quân tháng trong năm của cá_nhân , hộ cá_thể kinh_doanh ( có thực_hiện đầy_đủ chế_độ sổ_sách kế_toán , hoá_đơn chứng_từ ) được xác_định bằng doanh_thu cả năm trừ chi_phí hợp_lý tính theo năm , cộng thu_nhập chịu thuế khác từ kinh_doanh ; sau đó chia cho 12 tháng .
+Tiền_lương của số lao_động mà cá_nhân , hộ cá_thể kinh_doanh thuê trong trường_hợp này được tính vào chi_phí hợp_lý theo hợp_đồng thuê .
+Các cá_nhân , hộ cá_thể chưa thực_hiện chế_độ kế_toán hoá_đơn , chứng_từ ; thực_hiện kê_khai thuế theo doanh_thu do cơ_quan thuế ấn_định thì thu_nhập chịu thuế được xác_định bằng doanh_thu tháng nhân với tỷ_lệ thu_nhập chịu thuế do cục thuế xác_định phù_hợp với từng ngành_nghề kinh_doanh chia cho số lao_động theo hợp_đồng thuê ( nếu có ) .
+Ngoài_ra , một_số trường_hợp có kinh_doanh như bác sỹ ( có phòng_khám ngoài giờ ) , cán_bộ nghỉ hưu thì không cộng tiền_lương của họ đang hưởng ( theo chế_độ quy_định ) vào thu_nhập từ kinh_doanh để xét miễn thuế . Theo Tiền phong

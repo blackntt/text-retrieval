@@ -1,0 +1,11 @@
+﻿World Cup 2006: Cuộc chiến giữa FIFA và... hacker
+
+FIFA tin rằng hacker sẽ mở ồ ạt các đợt tấn công nhằm vào hệ thống mạng của World Cup năm nay, khi mà trận đấu khai mạc bắt đầu. 
+ Roger Jones, giám đốc phát triển kinh doanh của Avaya - hãng đối tác về mạng của FIFA trong World Cup năm nay, cho rằng hacker sẽ tiếp tục lặp lại hình thức tấn công từ chối dịch vụ quen thuộc, dẫu rằng qua suốt mùa World Cup 2002, giải vô địch bóng đá nữ thế giới 2003 và Confederations Cup, chúng đều không thành công. 
+Theo ghi nhận của Avaya thì trước trận khai mạc, vẫn chưa có vụ tấn công nào “đáng chú ý”. Jones cho biết trong quá trình chuẩn bị cho World Cup, họ đã hợp đồng với nhiều hacker mũ trắng có tiếng để kiểm tra sức mạnh và khả năng phòng ngự của hệ thống mạng. 
+Tương tự, ông Mike Kelly, giám đốc các giải pháp IT của FIFA, cũng tiết lộ nhóm chuyên gia bảo mật đã “thử lửa” hệ thống trong hàng loạt tình huống giả định khác nhau. 
+Kelly thừa nhận giá trị của những thông tin mà FIFA năm giữ là một miếng mồi ngon cho giới hacker. Song ông bày tỏ thái độ “cực kỳ tự tin” rằng FIFA và các đối tác đã làm mọi biện pháp có thể để ngăn chặn các cuộc tấn công. 
+Jones lưu ý trong cuộc họp báo rằng tại Trung tâm chỉ huy IT của WC 2006 đặt tại Munich sẽ có sẵn các chuyên gia hàng đầu về bảo mật mạng. Tuy nhiên, ông từ chối tiết lộ tên tuổi các hãng tham gia mắt xích bảo mật của giải năm nay, từ nhà cung cấp dịch vụ quét virus cho đến tường lửa và công cụ chặn xâm nhập. 
+Điều duy nhất Jones công bố là hệ thống đã được “thiết kế lại đáng kể và rất khác so với những công nghệ từng được sử dụng tại các WC lần trước”. 
+Jones cho biết mạng IP hội tụ được sử dụng trong World Cup năm nay mang lại lợi ích nhiều hơn hẳn so với các giải pháp âm thanh và dữ liệu riêng rẽ. Không những triển khai lắp đặt cơ sở hạ tầng ít hơn, đòi hỏi nhân lực ít hơn, tiết kiệm được công sức mà còn tiết kiệm được khoản tiền khổng lồ về cước phí điện thoại. 
+Theo Thiên Ý VietNamNet/CNET

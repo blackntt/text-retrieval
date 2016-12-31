@@ -1,0 +1,6 @@
+﻿Mô hình dự báo thời tiết MM5 được đầu tư 522 triệu đồng
+
+Giai đoạn 1 MM5 được đầu tư 328 triệu đồng, giai đoạn 2 là 522 triệu đồng. MM5 là mô hình có khả năng dự báo thời tiết trong vòng 16 ngày, nhưng điều kiện kỹ thuật ở Việt Nam chỉ cho kết quả 3 ngày và 7 ngày, hiện tại là dự báo cho 3 ngày (xem tại www.imh.ac.vn ). 
+Viện Khí tượng thủy văn sẽ áp dụng MM5 vào dự báo mưa lớn cho tất cả các vùng, lãnh thổ Việt Nam vì MM5 có nhiều khả năng dự báo mưa lớn chính xác cho các khu vực: khả năng lồng ghép các miền dự báo, xây dựng được các sơ đồ ở mọi khu vực, mọi địa hình kể cả địa hình nhỏ, phức tạp; chứa thư viện các sơ đồ tham số hóa vật lý bao gồm nhiều sơ đồ khác nhau, cho phép chạy thử nghiệm để lựa chọn một sơ đồ cho kết quả chính xác nhất hoặc cho phép dự báo tổ hợp. Dự báo tổ hợp thích hợp với dự báo mưa lớn, cho kết quả chính xác hơn rất nhiều so với các dự báo từng phần hiện đang được sử dụng phổ biến ở nước ta.
+
+Theo Thanh niên

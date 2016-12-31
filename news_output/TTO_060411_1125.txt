@@ -1,0 +1,15 @@
+﻿ Mã nguồn online
+Với giao_diện đơn_giản www . vbaccelerator.com là kho mã nguồn và các control của các chương_trình VB , VB.NET , C# ...
+www.vbcodemagician.dk dành cho những người bắt_đầu học Visual_Basic ( VB ) , phong_phú về thủ_thuật , các chương_trình mẫu .
+www.vbaccelerator.com www.developerfusion.co.uk được thiết_lập từ năm 1999 , một website gồm nhiều bài huớng dẫn , cho những người mới học lập_trình và cả các trình viên chuyên_nghiệp .
+www.killervb.com là kho với các đoạn mã về FileSystemLib , WinsockLib , EventLogLib , ServiceLib , SendMailLib , TimerLib , SystemTrayLib ...
+www.planet-source-code.com hỗ_trợ cho nhiều ngôn_ngữ_lập_trình với hơn 10 triệu đoạn mã khác_nhau .
+www.dotnet2themax.com trình_bày khá rõ_ràng , trong đó có các công_cụ và chương_trình mẫu .
+http : / / allapi.net / bao_gồm cách viết chương_trình với Windows API , các chuơng trình VB mẫu ... được thiết_kế khá đơn_giản , thuận_tiện cho việc tìm_kiếm thông_tin .
+http : / / www.vbip.com / bao_gồm các phần_mềm , công_cụ , các bài hướng_dẫn về thiệt kế , lập_trình web .
+http : / / www.codeguru.com / là kho mã nguồn khổng_lồ , khá phong_phú và đa_dạng , chứa nhiều đoạn mã nguồn cho các ngôn_ngữ_lập_trình .
+www.freevbcode.com http : / / www.freevbcode.com / bao_gồm rất nhiều chương_trình thuộc nhiều lĩnh_vực khác_nhau , thích_hợp cho người mới học hoặc những người chuyên_nghiệp khi cần tìm một chương_trình mẫu hay một đoạn mã nguồn bất_kỳ , trang_web đươc trình_bày khá rõ_ràng , mạch_lạc giúp cho việc tìm_kiếm dễ_dàng hơn .
+http : / / www.vbprogzone.cjb.net / bao_gồm các bài_học về VB , ActiveX control , các chương_trình mẫu , ví_dụ ... .
+http : / / www.programmersheaven.com / bao_gồm nhiều đoạn mã cho nhiều ngôn_ngữ_lập_trình khác_nhau , các chương_trình ứng_dụng , phát_triển web ...
+Tuy_nhiên , đầy_đủ thông_tin nhất về Visual_Basic chính là trang www . msdn.microsoft.com website của công_ty đã tạo ra Visual basic , trang này bao_gồm các thông_tin , mã nguồn của các chương_trình : . NET Framework , Architecture , ASP.NET , SQL Server , Visual_Basic , C+ + , C# ...
+H.PHONG tổng_hợp

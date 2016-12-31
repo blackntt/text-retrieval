@@ -1,0 +1,9 @@
+﻿Phát tán virus để in hình một... con cú
+
+Bức ảnh cú được Hoots.A phát tán Hãng bảo mật Anh Sophos vừa phát hiện một virus hoạt động khá kỳ quặc. Sau khi xâm nhập vào máy tính, nó sẽ gửi đi hàng loạt lệnh in ảnh chụp một con cú với dòng chữ 'O RLY?' (Oh, really? - Ồ thật thế à?) tới hệ thống máy in. 
+Virus Hoots.A là kiểu chương trình nguy hiểm điển hình của cuối thập niên 80, khi các tác giả tạo virus để tiêu khiển chứ không vì lợi ích nào cả. 
+Theo Sophos, sâu này có vẻ sản phẩm của một nhân viên bất mãn và muốn làm hệ thống máy tính trong một công ty nào đó bị tắc nghẽn, nhưng anh ta không nhận thức được rằng Hoots.A lại lan nhanh đến thế. 
+"Không thể hiểu được vì sao tác giả này lại muốn in hình một con cú", Graham Cluley, cố vấn của Sophos, nhận xét. "Hoots.A không phải là một virus 'chuyên nghiệp'. 
+Đa số các hacker sẽ mã hóa chương trình của họ để tránh bị phát hiện, nhưng Hoots.A thì không. Nó còn được soạn bằng ngôn ngữ Visual Basic - rất ít được sử dụng để viết virus hiện nay". Dù sao, Hoots.A đã chứng tỏ máy in cũng có thể trở thành mục tiêu của Trojan và Sophos nhắc nhở các công ty cần quản lý máy móc nghiêm ngặt hơn.
+
+Theo VNExpress

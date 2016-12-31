@@ -1,0 +1,6 @@
+﻿ Micronas giới_thiệu card TV mới cho MTXT
+Cũng giống như TiVo ® Series2 ™ DT_DVR của TiVo , MicMamba 2D-XC là một dual - tuner ( bộ dò kênh đôi ) , cho_phép người sử_dụng xem và ghi hai chương_trình khác_nhau cùng một lúc . Khác_biệt lớn nhất giữa hai sản_phẩm này nằm ở chỗ MicMamba 2D-XC không phải là một “ TV box ” mà chỉ là một chiếc card nhỏ gọn thiết_kế cho thế_hệ máy_tính_xách_tay sử_dụng PCI-Express .
+Hai tính_năng quan_trọng khác của MicMamba 2D-XC là khả_năng kết_hợp tín_hiệu từ cả hai bộ dò kênh để nâng chất_lượng hình_ảnh khi đang di_chuyển hoặc ở nơi tín_hiệu yếu và tiết_kiệm điện .
+MicMamba 2D-XC sử_dụng bộ demodulator ( tạm dịch là bộ giải điều_chế , chuyển sóng truyền_hình thành tín_hiệu số ) DRX 3976D COFDM và chip n Gene của Micronas với công_nghệ Maximum_Ratio_Combining , nhờ đó có khả_năng tương_thích cao , có_thể “ đọc ” được mọi chuẩn DVB - T ( Digital_Video_Broadcasting - Terrestrial ) .
+MicMamba 2D-XC đã có_mặt trên thị_trường , tuy_nhiên các trang thông_tin vẫn chưa niêm_yết giá của sản_phẩm này .
+NGUYỄN_HOÀNG_MINH ( Tổng_hợp )

@@ -1,0 +1,7 @@
+﻿Phần mềm chăm sóc Windows
+
+Advanced Windows Care gây ấn tượng mạnh với người sử dụng ngay từ lúc tiến hành cài đặt với giao diện rất thanh nhã.
+Tuy nhiên, khi chạy chương trình, bạn sẽ còn ngạc nhiên hơn nữa. Chỉ với một cú nhấp chuột và 20 giây chờ đợi, bạn sẽ được Advanced Windows Care thông báo những lỗi đang tồn tại trong hệ thống và những bộ phận đang hoạt động chưa hiệu quả. Đồng thời, chương trình cũng sẽ gợi ý những thông số bạn nên định cho Windows để hệ thống chạy nhanh hơn. Bạn chỉ cần chọn Repair rồi đến Optimize là xong. Sau khi tối ưu hóa xong, nếu có gì trục trặc, bạn chọn Restoration là mọi chuyện sẽ trở lại bình thường. 
+Dung lượng 2,27 MB và miễn phí, phần mềm này do Iobit sản xuất, tương thích với Win 2000/XP. Giao diện rất đẹp, dễ sử dụng nhưng yêu cầu cấu hình khá cao (Pentium 500 MHz, RAM 256 MB tối thiểu). Download: www.iobit.com/WindowsCare.htm
+
+H.H

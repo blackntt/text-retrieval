@@ -1,0 +1,20 @@
+﻿Các thông số model máy test của BTC
+
+- Heap size (Kích thước bộ nhớ trong để chạy ứng dụng): 480 KB. 
+- JAR size (kích thước file JAR): 100 KB. 
+- Sound (Am thanh): Yamaha MA3 40 poly. 
+- Colour depth (Độ sâu màu): 65536 colours UFB. 
+- Max Java Canvas size (Kích thước Canvas tối đa): 128 x 128 pixels. 
+- Java Canvas size (Kích thước Canvas bình thường): 128 x 110 pixels. 
+- Soft Key Area (Vùng soft key): 18 pixels. 
+- J2ME Version (Hỗ trợ phiên bản J2ME): MIDP 1.0. 
+- Font Size (Kích thước Font chữ): 6x8(S), 8x12(M), 8x14(L). 
+- Connectivity (Khả năng kết nối): GPRS. 
+Vì vậy khi thiết kế game, thí sinh cần chú ý 2 vấn đề sau: 
+1. Kích thước màn hình game: 
+- Vì kích thước canvas là 128 x 110 nên khi thiết kế game thí sinh nên chú ý thông số này. Đây là kích thước được BTC khuyến khích dùng. 
+- Nếu thí sinh muốn dùng fullscreen với kích thước 128 x 128, hãy tham khảo tệp tin hướng dẫn . Tuy nhiên với kích thước này người chơi game sẽ không thấy được ý nghĩa những Soft key của điện thoại, gây khó khăn cho người chơi. Thí sinh nên chú ý đến vấn đề này khi dùng chế độ full screen. 
+2. Kích thước file .jar: 
+Kích thước tối đa mà điện thoại X600 cho phép là 100KB, tuy nhiên BTC khuyến khích thí sinh tối ưu hoá chương trình và hình ảnh đề có kích thước dưới 60KB. Chú ý là kích thước game lớn sẽ khó chuyển sang các dòng điện thoại khác.
+
+BTC

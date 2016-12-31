@@ -1,0 +1,6 @@
+﻿ Phát_hiện một trang_web sex trên Trang vàng FPT Internet
+Theo ông Lượng , trách_nhiệm trong vụ_việc này là của FPT Internet , bởi lẽ đã không kiểm_soát được nội_dung khi thiết_lập đường_dẫn đến trang_web nói trên . Cục Báo chí sẽ xem_xét và tuỳ theo tính_chất để xử_lý vi_phạm này của FPT Internet .
+Trong khi đó , ông Đặng_Thuỳ_Vũ , Thư_ký Dự_án Dự_phòng và chăm_sóc HIV/AIDS ( LIFE-GAP ) cho_biết : Dự_án này nằm trong sự hợp_tác giữa Bộ Y_tế và Trung_tâm dự_phòng và kiểm_soát bệnh_dịch Hoa_Kỳ nhằm giảm sự lây_nhiễm HIV thông_qua các biện_pháp như cải_thiện việc chăm_sóc , hỗ_trợ và điều_trị người nhiễm HIV ... Cho_đến nay LIFE-GAP chưa có thành_lập một trang_web nào .
+Trang_web gapvietnam do một cá_nhân thiết_lập , đang ký ở nước_ngoài , không thuộc quản_lý của dự_án . Vì_thế ban quản_lý dự_án không chịu trách_nhiệm gì . Cũng theo ông Vũ , LIFE-GAP đã đề_nghị FPT Internet dỡ bỏ đường_dẫn cũng_như các thông_tin khác về trang_web này .
+Chiều 9-3 , FPT Internet cũng thông_báo đã dỡ bỏ đường_dẫn tới trang_web nói trên . Tuy_nhiên , đây là trang_web đăng_ký quốc_tế nên nếu muốn ngăn_chặn , cơ_quan an_ninh phải thiết_lập firewall chứ không_thể xoá_bỏ website được .
+Theo NLĐ

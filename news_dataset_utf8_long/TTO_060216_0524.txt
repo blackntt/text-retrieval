@@ -1,0 +1,11 @@
+﻿Sẽ cho thí sinh đăng ký dự thi ĐH trên mạng?
+
+- Lợi ích dễ thấy nhất là cổng thông tin tuyển sinh cung cấp miễn phí và nhanh chóng toàn bộ cơ sở dữ liệu về kỳ thi ĐH, CĐ cho thí sinh (TS). Các công cụ tin học giúp TS tra cứu rất nhanh về trường, mã số ngành học, các chỉ tiêu tuyển sinh... 
+Hơn nữa, tất cả thông tin khác về tư vấn tuyển sinh, điểm chuẩn các năm, các dữ liệu thống kê, phân tích cũng được đưa lên đây giúp TS tham khảo để chọn trường phù hợp. 
+Đối với các trường, cổng thông tin là cơ sở dữ liệu để các trường có những số liệu thống kê cần thiết, nhanh chóng. Đặc biệt với một mật khẩu riêng, các trường có thể cập nhật thông tin về các ngành học mới. 
+Ngoài chức năng của một cuốn cẩm nang online, cổng thông tin còn cung cấp những tiện ích nào khác nữa không, thưa ông? 
+- Hiện chúng tôi đang đề nghị bộ cho phép TS có thể khai giấy đăng ký dự thi trên mạng, in ra rồi xin xác nhận của trường THPT hay phường, xã để nộp ban tuyển sinh thay cho việc mua hồ sơ từ các sở GD-ĐT và nộp ban tuyển sinh tỉnh. 
+Đặc biệt, hệ thống còn cho phép TS đăng ký nguyện vọng (NV) 2, NV3. Với TS, NV2 online cũng tránh được rủi ro khi chỉ có trong tay một tờ giấy ghi NV duy nhất. TS có thể đăng ký nháp và theo dõi trên mạng, căn cứ vào biểu đồ điểm trúng tuyển để điều chỉnh NV của mình. 
+Ví dụ, hôm nay trường A muốn tuyển 50 TS NV2 mà ngày đó đã có khoảng 100 TS đăng ký với mức điểm định tuyển là 22 thì những TS dưới 22 điểm có thể “chạy đi” chỗ khác. Sau khi chắc chắn, TS mới chính thức gửi hồ sơ xét tuyển đến các trường.
+
+NGUYỆT ANH thực hiện

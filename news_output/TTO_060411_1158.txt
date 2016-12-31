@@ -1,0 +1,72 @@
+﻿ " Giải_phẫu " và " điều_trị " worm XRobots phát_tán qua YM
+Chương_trình diệt worm Xrobots
+Để diệt worm Xrobots trong các máy_tính bị nhiễm , bạn có_thể download phần_mềm Xrobots_Remover ( được viết ra ngay sau khi worm này xuất_hiện ) về máy_tính và chạy để chương_trình tự_động tìm và diệt worm Xrobots , chỉnh lại các registry đã bị sâu máy_tính này sửa_đổi . Từ 1g sáng ngày 11-4 , tên_miền http : / / xrobots.net đã bị chặn lại để hạn_chế khả_năng phát_tán của loại sâu YM này . Tuy_nhiên , các máy_tính đã bị nhiễm XRobots có_thể bị tác_giả sử_dụng để cấy thêm các loại virus , spyware , trojan mới vào , nên việc loại_bỏ XRobots ra khỏi máy_tính cần thực_hiện càng nhanh càng tốt .
+Tuy_nhiên , do hiện chưa có chứng_cứ cụ_thể , nên đơn_vị nghiên_cứu bảo_mật đã thực_hiện việc " giải_phẫu " con worm này đã lấy tên gọi của nó là XRobots ( tên_miền chứa sâu và được sử_dụng để phát_tán ) . Sau đây là đánh_giá của chuyên_gia Nguyễn_Phố_Sơn , người trực_tiếp " mổ_xẻ " worm XRobots .
+1 . Đây không phải là virus . Nó không có tính_năng lây_nhiễm vào các file , mà chỉ đơn_thuần là một loại worm phát_tán thông_qua trình Yahoo ! Messenger . Tạm đặt tên là Worm XRobot .
+2 . Worm XRobot là tự code sử_dụng AutoIt 3 , một chương_trình “ freeware BASIC-like scripting language designed for automating the Windows GUI” , dùng để sinh_ra mã từ các kịch_bản hành_vi của user như keystroke , mouse . Worm sử_dụng công_cụ này nhằm đơn_giản_hóa việc lập_trình , không phải là copy mã nguồn rồi sửa lại như nhận_định sơ_bộ của một trung_tâm tên 911 . Tham_khảo tại : http : / / www.autoitscript.com/autoit3/docs /
+I . Phân_tích hành_vi lây_nhiễm
+3 . Thay_đổi key :
+[ HKCU\ Software \ Microsoft \ Windows \ CurrentVersion \ Explorer \ Shell_Folders \ Cache ]
+thành giá_trị
+“ C : \ Documents and Settings \ [ tên _ Windows _ user ] \ Local_Settings \ Temporary_Internet_Files ”
+với thư_mục Windows cài trên ổ C
+Mục_đích : thay đối thư_mục mặc_định chứa file cập_nhật Robots.exe sau khi lây_nhiễm
+4 . Thay_đổi các giá_trị sau trong registry :
+Giá_trị ban_đầu
+Giá_trị mới
+[ HKLM\ Software \ Microsoft \ Windows \ Current_Version \ Internet_Settings \ Cache \ Paths \ Directory ]
+" C : \ Documents and Settings \ [ tên _ Windows _ user ] \ Local_Settings \ Temporary_Internet_Files \ Content.IE5 "
+[ HKLM\ Software \ Microsoft \ Windows \ Current_Version \ Internet_Settings \ Cache \ Paths \ Path1 \ CachePath ]
+" C : \ Documents and Settings \ [ tên _ Windows _ user ] \ Local_Settings \ Temporary_Internet_Files \ Content.IE5 \ Cache1 "
+[ HKLM\ Software \ Microsoft \ Windows \ Current_Version \ Internet_Settings \ Cache \ Paths \ Path2 \ CachePath
+" C : \ Documents and Settings \ [ tên _ Windows _ user ] \ Local_Settings \ Temporary_Internet_Files \ Content.IE5 \ Cache2 "
+[ HKLM\ Software \ Microsoft \ Windows \ Current_Version \ Internet_Settings \ Cache \ Paths \ Path3 \ CachePath ]
+" C : \ Documents and Settings \ [ tên _ Windows _ user ] \ Local_Settings \ Temporary_Internet_Files \ Content.IE5 \ Cache3 "
+[ HKLM\ Software \ Microsoft \ Windows \ Current_Version \ Internet_Settings \ Cache \ Paths \ Path4 \ CachePath ]
+" C : \ Documents and Settings \ [ tên _ Windows _ user ] \ Local_Settings \ Temporary_Internet_Files \ Content.IE5 \ Cache4 "
+Mục_đích : đặt cache mới cho IE
+5 . Tăng giá_trị của internet cache lên 0x137FE
+[ HKLM\ Software \ Microsoft \ Windows \ CurrentVersion \ Internet_Settings \ Cache \ Paths \ Pathx \ CacheLimit ]
+Với x là 1,2,3,4
+Mục_đích : gia_tăng kích_thước cache để chưa file Robots.exe và những thứ khác về sau
+6 . Chuyển thư_mục Cookies , History , Common_App Data bằng cách thay_đổi các Registry key sau :
+[ HKCU\ Software \ Microsoft \ Windows \ CurrentVersion \ Explorer \ Shell_Folders \ Cookies ] [ HKCU\ Software \ Microsoft \ Windows \ CurrentVersion \ Explorer \ Shell_Folders \ History ] [ HKLM\ Software \ Microsoft \ Windows \ CurrentVersion \ Explorer \ Shell_Folders \ Common_App Data ] [ HKCU\ Software \ Microsoft \ Windows \ CurrentVersion \ Explorer \ Shell_Folders \ AppData ]
+7 . Tắt tính_năng duyệt offline , bắt_buộc user fải duyệt online bằng cách thay registry key :
+[ HKCU\ SOFTWARE\ Microsoft \ Windows \ CurrentVersion \ Internet_Settings \ GlobalUserOffline ] thành 0x0 .
+8 . Thay_đổi và ép_buộc sử_dụng cấu_hình do worm tạo ra , chứ không sử_dụng cấu_hình mặc_định cho kết_nối bằng cách thay_đổi registry key :
+[ HKCU\ Software \ Microsoft \ windows \ CurrentVersion \ Internet ettings \ Connections \ SavedLegacySettings ]
+10 . Tạo file Messenger.exe tự_động chạy khi Win khởi_động bằng cách tạo registry key :
+[ HKLM\ SOFTWARE\ Microsoft \ Windows \ CurrentVersion \ Run \ Yahoo ! ! ! ]
+Có giá_trị :
+" C : \ WINDOWS\ Messenger.exe "
+11 . Thay_đổi trang Startpage của Internet_Explorer :
+[ HKCU\ SOFTWARE\ microsoft \ Internet_Explorer \ Main \ Start_Page ] thành " http : / / 67.15.40.2 / ~ tranphu/forumtp / ”
+Thông_tin có được từ quá_trình giải_phẫu sâu XRobot .
+12 . Thay_đổi nội_dung các registry của Yahoo ! Messenger , để khi user bị nhiễm worm , YM sẽ tự_động duyệt trang được cài cắm sẵn trên mạng :
+[ HKCU\ Software \ Yahoo \ pager \ View \ YMSGR_ Launchcast \ content url ] thành “ http : / / xRobots.net/Gift/New / ”
+[ HKCU\ Software \ Yahoo \ pager \ View \ YMSGR_ buzz \ content url ]
+13 . Vô_hiệu_hóa các công_cụ edit Registry bằng cách thêm registry key sau :
+[ HKCU\ Software \ Microsoft \ Windows \ CurrentVersion \ Policies \ System \ DisableRegistryTools ] Có giá_trị 0x1
+14 . Liên_tục update worm , tự nâng_cấp bằng cách download bản update từ http : / / xrobots.net/Gift/Robots.exe và chứa trong cache : C : \ Documents and Settings \ [ tên _ Windows _ user ] \ Local_Settings \ Temporary_Internet_Files \ Content.IE5 \ 1DELGLE8 \ Robots [ 1 ] . exe .
+File_Robots . exe sau khi được download về sẽ được worm tự_động update , ghi lại vào file : \ Windows \ Messenger.exe . Như đã nói ở trên , file Messenger.exe sẽ tự_động chạy khi khởi_động Windows .
+14 . Xóa file % windir % \ pchealth \ helpctr \ binaries \ msconfig.exe và sửa_đổi file này , chuyển vào thành % windir % \ msconfig.exe . Do_đó , khi người sử_dụng chạy msconfig sẽ không thấy file messenger . exe của worm trong tùy chọn Startup nữa .
+II . Cách diệt
+Diệt bằng tay :
+1 - Kích_hoạt trở_lại registry : Download file http : / / securityresponse.symantec.com/avcenter/UnHookExec.inf . Click chuột phải vào file , chọn Install
+2 - Vào_Start & gt ; Run . Chạy regedit .
+3 – Xóa khả_năng tự_động chạy khi khởi_động máy [ HKLM\ SOFTWARE\ Microsoft \ Windows \ CurrentVersion \ Run \ Yahoo ! ! ! ]
+4 – Xóa file chính % windir % \ Messenger.exe
+5 – Xóa thư_mục chứa file update
+C : \ Documents and Settings \ [ tên _ Windows _ user ] \ Local_Settings \ Temporary_Internet_Files \ Content.IE5 \ 1DELGLE8 \ Robots [ 1 ] . exe .
+6 - Copy file msconfig . exe từ máy chưa bị nhiễm vào thư_mục :
+% windir % \ pchealth \ helpctr \ binaries \
+Dùng công_cụ Xrobots_Remover :
+1 – Download chương_trình Xrobots_Remover về máy_tính của bạn và chạy để chương_trình tự_động tìm và diệt worm Xrobots , chỉnh lại các registry đã bị sâu máy_tính này sửa_đổi .
+2 – Chạy chương_trình và làm theo các hướng_dẫn
+III . Một_số nhận_xét và khuyến_nghị
+- Đây là một con worm rất kém về phương_diện kỹ_thuật , hầu_như chỉ đánh vào số đông người dùng không có ý_thức và hiểu_biết gì về internet để có_thể lây_nhiễm . Tuy_nhiên , xét về ý_đồ của hành_vi thì thật_sự là một vấn_đề cần quan_tâm . Lần đầu_tiên một con Worm “ thô_sơ ” của người Việt tạo ra đã lây_nhiễm manh vào hệ_thống mạng máy_tính của Việt_Nam với một ý_đồ hết_sức nguy_hiểm !
+- Rất cần có sự điều_phối đồng_bộ ở cấp quốc_gia trong việc truy_lùng tông_tích và khống_chế các mối nguy tương_tự trong tương_lai ( hoàn_toàn có_thể thực_hiện được về phương_diện kỹ_thuật ) .
+- Một vấn_đề khác cũng cần phải xem_xét , đó là trách_nhiệm đối_với cộng_đồng của những đơn_vị phụ_trách vấn_đề phòng_chống virus của Việt_Nam trong việc phản_ứng quá chậm_chạp trước một con worm “ thô_sơ ” made in Vietnam như x Robots .
+- Nhiệm_vụ chính của Xrobot là hình_thành mạng_lưới botnet , tức_là chuẩn_bị cho việc cập_nhật nội_dung chính bản_thân nó từ file http : / / xrobots.net/Gift/Robots.exe tuỳ theo tác_giả mong_muốn , worm này sẽ cài spyware , DDOS client , virus khác , … lên máy của nạn_nhân .
+- Các ISP cần có những hình_thức phản_ứng sự_cố tức_thời , block website phát_tán worm xrobots . net , ngăn_chặn việc update của loại worm này .
+NGUYỄN_PHỐ_SƠN ( aka Thug4Lif3 ) ( Theo Viet NamNet )

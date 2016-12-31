@@ -1,0 +1,5 @@
+﻿Game: Kinh doanh đồ kim hoàn
+
+Trong game này, bạn sẽ đóng vai một người thợ kiêm nhà buôn kim hoàn. Công việc của bạn là chế tác dây chuyền, vòng đeo tay, bông tai, nhẫn bằng cách dùng chuột kéo những viên đá quý (hồng ngọc, lam ngọc...) lại gần nhau để tạo thành một hàng gồm 3 viên cùng màu trở lên.
+Bạn có thể theo dõi tiến độ sản xuất thông qua Jewelry Meter. Khi nào Meter chạm đỉnh là sản phẩm hoàn tất và có thể giao cho khách. Bạn phải hoàn thành sản phẩm càng sớm càng tốt vì khách hàng của bạn toàn là VIP, chỉ cần chờ lâu một chút là họ sẽ cau mặt ngay. Để giúp khách thư giãn trong khi chờ đợi, bạn có thể mời họ dùng sô-cô-la, cà phê và tặng những món quà nhỏ. 
+Khi khách vui, họ sẽ trả giá cao hơn cho món hàng. Bạn sẽ là người chiến thắng ở một level nếu bạn đạt được chỉ tiêu về doanh thu định ra lúc đầu và phục vụ hết lượng khách đang đợi. Dung lượng: 8,82 MB. Download: ftp://ftp.gamehouse.com/pub/GemShopInstall.exe

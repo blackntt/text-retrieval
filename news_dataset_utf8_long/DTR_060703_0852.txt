@@ -1,0 +1,12 @@
+﻿Phần mềm học toán dành cho trẻ em
+
+Kids Learning Math v3.1 là một phần mềm được thiết kế đặc biệt dành riêng cho trẻ nhỏ học toán với những hình ảnh ngộ nghĩnh, thiết kế đơn giản gọn nhẹ tạo hứng thú cho trẻ làm quen với máy tính và tin học. 
+ Các bài toán trong phần mềm được chia làm các cấp độ từ rất dễ 3+5 =? 16-8 =? đến khó 345+5 (973-667) =? Và kiểm tra kết quả ngay lập tức. Ngoài ra chương trình còn hỗ trợ cả âm thanh, tạo cảm giác thoải mái cho trẻ như chơi một trò chơi. 
+Với tiêu chí vừa học vừa chơi, chương trình đã được các bậc cha mẹ khắp nơi trên thế giới sử dụng và tin dùng. Qua chương trình các bậc cha mẹ có thể giúp trẻ phát triển tư duy toán học, làm quen với máy vi tính. Các bài toán trong chương trình còn có thể tùy biến theo các thiết lập trong phần Options, giúp cho các bài toán luôn luôn mới tránh trường hợp nhàm chán ở trẻ. 
+Ở đây chương trình chia ra làm 7 mức độ nó gần như là một bản hướng dẫn để các bạn có thể thuận tiện hơn cho việc thiết lập các bài toán cho phù hợp với trình độ con em mình, cấp đơn giản nhất là Grade K , đây là mức cộng trừ hai chữ số cho các trẻ mới làm quen với toán học. Tiếp đến các mức cao hơn là Grade 1, 2, 3, 4, 5, 6. Ngoài các phép toán chương trình mặc định đưa ra cho bạn, bạn còn có thể tùy biến tạo ra các phép toán mới hoặc sửa chữa chúng (hình 1) 
+Hình 1: Giao diện trong phần Options – Nơi thiết lập các bài toán. 
+Đặc biệt trong phần Options các bậc cha mẹ còn có thể tạo password để tránh trẻ nghịch vào và thay đổi các thiết lập trong đó. Khi mới cài chương trình, password được mặc định là 1234, để thay đổi pass mặc định bạn vào Option và click vào Change.(hình 2). 
+Hình 2. 
+Chương trình chạy trên các hệ điều hành Windows : 98/ME/2000/XP/2003. 
+Các bạn có thể tải bản dùng thử chương trình tại địa chỉ : 
+http://www.kidslearnmath.net/mathsetup.exe Quốc Trung

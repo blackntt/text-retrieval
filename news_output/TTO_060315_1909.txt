@@ -1,0 +1,37 @@
+﻿ Phương_pháp học tốt môn Sinh
+Nên học theo phương_pháp " Tái_hiện kiến_thức " , phương_pháp học này gồm 3 bước :
+a . Đi nghe thầy_giáo giảng bài , ghi_chép đầy_đủ .
+b . Về nhà sau một thời_gian ngắn ăn_uống và nghỉ_ngơi , học_viên ngồi vào bàn học tái_hiện lại kiến_thức ( nghe giảng buổi_sáng - tái_hiện buổi chiều , nghe giảng buổi chiều - tái_hiện ngay buổi tối ) .
+- Với bài_tập : Che bài giải của thầy_cô , đọc đề để giải lại .
+- Với kiến_thức giáo_khoa : Lập dàn_ý chi_tiết để dễ học .
+c . Một tuần sau , đúng giờ học bộ môn_sinh , học_viên lấy bài cũ đọc lại một lần .
+2 . Cách học :
+a . Với phần lý_thuyết :
+- Nhìn_chung những đề tuyển_sinh các năm gần đây phần giáo_khoa cho rất sát chương_trình , không đánh_đố . Nhưng điều đó không có nghĩa_là học thuộc_lòng thì sẽ làm được .
+- Để làm được buộc học_sinh phải hiểu , nhớ .
+Ví_dụ : Câu thuộc_lòng trong SGK là : tính bổ_sung của ADN ( gen ) . Nhưng đề thi 2005 lại cho câub hỏi là : gen có tỉ_lệ A+ T / G+ X = 1 , 5 và có 3.10 9 cặp nu . Hỏi số nu từng loại = & gt ; vì_thế phải hiểu được lý_thuyết thì mới làm được câu này .
+Giữ_gìn sức_khỏe
+Để có_thể học và thi tốt , giữ sức_khỏe là một yếu_tố vô_cùng quan_trọng . Vì_thế , các bạn hãy lưu_ý đến những lời khuyên sau đây
+- Ăn_uống đủ chất .
+- Tập_thể_dục 30 phút / một ngày .
+- Ngủ 8 giờ / ngày .
+- Học_viên nữ không được ăn_kiêng để giữ eo .
+- Nam không được dùng cà_phê , rượu , thuốc_lá vì chúng ảnh_hưởng đến trí_nhớ .
+- Để hiểu và nhớ giáo_khoa , học_viên phải khái_quát - tổng_kết về chương_trình học của mình , nắm vững các ý chính của từng bài . Điều này sẽ giúp hệ_thống_hóa được các kiến_thức của mình và không thấy mông_lung , rối lên vì nhiều kiến_thức . Để hệ_thống_hóa kiến_thức , thí_sinh có_thể làm các bước sau :
++ Nắm vững 14 chương của chương_trình giáo_khoa lớp 12 .
++ Nắm vững số bài trong 1 chương ( VD chương 1 : Cơ_sở vật_chất cơ_chế di_truyền ở cấp phân_tử có 7 bài ) .
++ Nắm vững số ý chính trong 1 bài ( VD : bài ADN có 5 ý chính ) .
++ Nắm vững số ý phụ trong mỗi ý chính .
++ Nắm vững những ví_dụ chứng_minh trong sách_giáo_khoa .
+b . Với phần bài_tập
+- Bài_tập cơ_sở vật_chất di_truyền và biến_dị : những bài_tập này thuộc khoa_học chính_xác như toán , hóa , lý . Do_đó , thí_sinh phải nắm được công_thức mới giải được . Ví_dụ : số nu môi_trường cần cung_cấp cho 1 gen có 3000 nu nhân đôi 3 lần = ( 2 3 - 1 ) . 3000
+- Bài_tập qui_luật di_truyền ( bài_tập lai ) thuộc khoa_học thực_nghiệm . Học_viên sử_dụng lí_thuyết đã học để giải_thích kết_quả một thí_nghiệm theo đề_bài ( biện_luận và viết sơ_đồ lai ) . Để biện_luận 1 bài_tập lai ta tiến_hành theo 5 bước :
++ Xác_định tính trội , tính lặn + Quy_ước gen + Xác_định quy_luật di_truyền + Xác_định kiểu gen bố_mẹ + Viết sơ_đồ lai ( nếu có hoán_vị gen ta tính tần_số hoán_vị trước khi viết sơ_đồ lai ) .
+Sau khi làm xong ta kiểm_tra kiểu hình qua sơ_đồ lai đúng với đề bài_tập thì ta đã biện_luận chính_xác .
+3 . Nội_dung chương_trình sinh_học cần ôn_tập :
+Gồm 3 phần :
+a . Di_truyền và biến_dị
+- Cơ_sở vật_chất di_truyền và biến_dị - Hiện_tượng di_truyền và biến_dị - Quy_luật di_truyền và biến_dị - Ứng_dụng di_truyền và biến_dị vào đời_sống , sản_xuất .
+b . Nguồn_gốc sự sống và các thuyết_tiến_hóa .
+c . Bài_tập di_truyền và biến_dị .
+LAN_THI - ĐIỀN_CHI ( Trung_tâm luyện thi Vĩnh_Viễn )

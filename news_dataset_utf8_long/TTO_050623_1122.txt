@@ -1,0 +1,10 @@
+﻿Nhận dạng gương mặt tội phạm bằng camera
+
+Tại Triển lãm trang thiết bị khoa học quốc tế dành cho ngành pháp lý 2005 mở cửa hôm 22-6 tại Bắc Kinh, công ty Sinocome của Trung Quốc đã giới thiệu hệ thống camera với công nghệ nhận dạng khuôn mặt (FR) của mình. Ma Xin, Chủ tịch của Sinocome nói hệ thống này sẽ tăng lên rất nhiều khả năng cho cảnh sát Trung Quốc trong phát hiện các đối tượng khả nghi. 
+Hệ thống có thể được bố trí tại các khu vực đông đúc mở cửa cho công chúng như sân bay, nhà ga, xe điện ngầm, sân vận động hay những nơi riêng tư như các chung cư hay các tòa cao ốc văn phòng. 
+Camera giám sát của hệ thống sẽ ghi nhận tức thời các hình ảnh của tất cả những người đi qua ống kính và gửi những hình ảnh này đến cơ sở dữ liệu để lập trình và xác nhận. Tất cả các công đoạn trên chỉ diễn ra trong hai giây và nếu có một kẻ khả nghi nào đó bị phát hiện, còi báo động sẽ vang lên. Hệ thống cũng có thể được sử dụng cùng với điện thoại di động có gắn con chip FR. Một nhân viên cảnh sát có thể chụp hình ảnh của một kẻ khả nghi và gửi hình ảnh đến cơ sở dữ liệu và nhận được câu trả lời trong vài giây đồng hồ. 
+Cảnh sát tại 10 tỉnh tại Trung Quốc đã bắt đầu sử dụng thiết bị này và Bộ an ninh công cộng cũng lên kế hoạch thành lập cơ sở dữ liệu quốc gia về tất cả các nghi phạm. “Công nghệ FR hiện ưu thế nhất trong việc xác nhận vì nó không cần tiếp xúc với đối tượng, rất hiệu quả và không bị xâm nhập hay cản trở”, Ma Xin nói. 
+Công nghệ nhận dạng khuôn mặt ưu thế hơn nhận dạng dấu vân tay do dấu vân tay có thể bị sao lại hoặc bị hủy. Bọn tội phạm khó mà qua mắt công nghệ nhận dạng khuôn mặt với khả năng so sánh các đặc điểm của khuôn mặt, đặc biệt là độ cân đối, cấu trúc xương và các góc cạnh không dễ gì che đậy bằng râu, mắt kính hay hóa trang. 
+Nhiều công nghệ tiên tiến cũng được các công ty hàng đầu khác giới thiệu tại triển lãm. Triển lãm sẽ tiếp tục cho đến 25-6. Có khoảng 100 doanh nghiệp trên toàn thế giới tham gia giới thiệu sản phẩm của mình.
+
+KIM NHUNG (Theo Xinhua)

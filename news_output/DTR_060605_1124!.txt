@@ -1,0 +1,53 @@
+﻿ Đánh_giá nhân_viên như_thế_nào ?
+Đánh_giá nhân_viên là việc_làm rất cần_thiết với mỗi người_quản_lý . Ngặt nỗi , sếp thường e_ngại khi đưa ra những lời đánh_giá không mấy tích_cực , còn các nhân_viên cũng chẳng thích_thú gì khi đón_nhận chúng .
+Với 7 gạch đầu dòng dưới đây , công_việc đánh_giá nhân_viên của bạn sẽ chính_xác và dễ_dàng hơn rất nhiều .
+Sắp_xếp lại các lĩnh_vực then_chốt
+Hoạt_động này sẽ là cơ_hội tốt để các nhà quản_lý và nhân_viên sắp_xếp và đánh_giá lại các kết_quả công_việc chủ_yếu , những gì mọi người phải chịu trách_nhiệm , những gì nên làm , những kỹ_năng nào cần trau_dồi ... Đối_với một nhà quản_lý , công_việc chủ_yếu đó có_thể là : sản_xuất , chất_lượng , chi_phí , an_toàn , nhân_viên … Đối_với một kỹ_sư , có_thể là : sữa chữa , bảo_dưỡng , lắp_đặt , cải_tiến …
+Kiểm_tra công_việc hiện_tại của nhân_viên
+Trên cương_vị nhà quản_lý , việc dành thời_gian để xem_xét lại công_việc của nhân_viên là bước_đi cần_thiết giúp bạn hoạch_định cho tương_lai . Hal_Leavitt , giáo_sư thuộc Đại_học Chicago , cho rằng thái_độ làm_việc của nhân_viên sẽ được cải_thiện tương_xứng với mức_độ chính_xác của các phản_hồi mà họ nhận được , cả tích_cực lẫn tiêu_cực . Khi nhân_viên không chắc chắc về chất_lượng công_việc của mình , họ sẽ thường_xuyên tự đặt ra những giả_định tồi_tệ nhất , niềm_tin của họ cũng sa_sút và sẽ ảnh_hưởng xấu đến chất_lượng nhiệm_vụ mà họ thực_thi .
+Có_thể so_sánh điều này với một vận_động_viên : một_khi không_thể đếm được số cú đánh của mình , người chơi golf sẽ chỉ ra sân golf để đi bộ .
+Trao_đổi thông_tin
+Có_thể đánh_giá nhân_viên qua các cuộc trao_đổi cá_nhân , về các vấn_đề như :
+- Toàn_cảnh : Công_ty đã hoạt_động như_thế_nào trong_suốt thời_gian qua và sẽ đạt được những gì trong tương_lai .
+- Những thay_đổi quan_trọng có_thể ảnh_hưởng đến từng cá_nhân và toàn_thể công_ty .
+- Các cơ_hội kinh_doanh cho công_ty trên thị_trường .
+- Các kế_hoạch chi_tiết có ảnh_hưởng đến nhân_viên .
+Việc trao_đổi các thông_tin này luôn thiết_thực và có ảnh_hưởng lớn đến động_cơ làm_việc của nhân_viên .
+Tìm ra người nổi_bật
+Việc đánh_giá giúp nhà quản_lý nhận ra ai là “ người anh_hùng ” thực_sự trong tập_thể . Để tìm ra những cá_nhân đó , bạn hãy nhìn lại toàn_bộ nhân_viên để xem :
+- Ai là người ít nghỉ_việc nhất ?
+- Ai là người không_bao_giờ nói “ Không ” ?
+- Ai là người chịu được sức_ép công_việc ?
+- Ai là người hoàn_thành công_việc đúng hạn ?
+- Ai là người thể_hiện tính tiết_kiệm ?
+- Ai là người luôn sẵn_lòng giúp_đỡ người khác ?
+- Ai là người thực_sự không cho rằng bạn đã quên họ có_mặt ở đó ?
+- Ai là người không từ_chối bất_kỳ công_việc gì nhằm hỗ_trợ đồng_nghiệp ?
+- Ai là người giảm nhẹ các xung_đột và xây_dựng tinh_thần làm_việc tập_thể ?
+- Ai là người luôn tiếp_tục công_việc ngay cả khi lãnh_đạo đi vắng ?
+- Ai là người tránh xa sự nổi_tiếng ?
+- Ai là người không_bao_giờ để mất_lòng tin ?
+Xây_dựng niềm_tin
+Hãy thực_hiện quy_trình đánh_giá trên cơ_sở giúp nhân_viên suy_nghĩ về điểm mạnh của họ , giúp họ gây_dựng niềm_tin trong công_việc , qua những câu_hỏi dưới đây .
+- Bạn cho rằng mình hoàn_thành công_việc nào tốt nhất trong năm nay ?
+- Điều gì khiến bạn có cảm_giác hứng_khởi khi thực_hiện ?
+- Đâu là thời_gian thoải_mái nhất đối_với bạn ?
+- Bạn cảm_thấy thoả_mãn nhất về điều gì ?
+- Bạn thực_hiện công_việc nào nhanh_nhất ?
+- Bạn muốn dành thêm thời_gian cho công_việc gì ?
+- Bạn nghĩ các điểm mạnh của mình là gì ?
+Tạo mối quan_hệ thân_thiện với nhân_viên
+Mối quan_hệ sếp – nhân_viên có ảnh_hưởng lớn đến chất_lượng công_việc hoàn_thành . Khi mối quan_hệ này trở_nên xấu đi , công_việc sẽ có chiều_hướng đi xuống , và ngược_lại . Hoạt_động đánh_giá , vì_vậy , là một cơ_hội quan_trọng để bạn áp_dụng một_vài nỗ_lực nhằm cải_thiện mối quan_hệ này .
+Hoạch_định cho tương_lai
+Sau khi xem_xét và đánh_giá hoạt_động của nhân_viên , bạn sẽ cần đến một kế_hoạch đánh_giá mới cho tương_lai . Đây là kế_hoạch đánh_dấu điểm kết cho quy_trình đánh_giá , bao_gồm :
+- Những kế_hoạch hành_động tức_thời của cả nhà quản_lý lẫn nhân_viên .
+- Những kế_hoạch liên_quan đến phương_pháp giải_quyết vấn_đề để đối_phó với những lực cản của sự phát_triển .
+- Những kế_hoạch liên_quan tới những gì mà nhân_viên mong_muốn đẩy_mạnh .
+- Những kế_hoạch phát_triển dựa trên các tiềm_năng đã được nhận_diện .
+- Những kế_hoạch nghề_nghiệp dựa trên sự tương_thích giữa cơ_hội của công_ty và sự phát_triển của nhân_viên .
+- Những kế_hoạch suốt đời .
+Nhìn_chung , đánh_giá công_việc nên là hoạt_động có sự tham_gia của tập_thể . Không ai biết rõ công_việc hơn chính những người đang thực_hiện nó . Bằng việc chuyển hoạt_động đánh_giá đơn_phương thành các cuộc thảo_luận thực_sự , bạn có_thể biết được những thông_tin hữu_ích , giúp bản đánh_giá đỡ nặng_nề , nhuốm màu chủ_quan .
+Trước khi đưa ra đánh_giá , hãy để nhân_viên tự đánh_giá về bản_thân mình . Việc này giúp bạn nhìn_nhận rõ hơn tính_cách của mỗi nhân_viên .
+Hoạt_động đánh_giá có_thể được xem như một tác_nhân kích_thích lòng nhiệt_tình của nhân_viên . Đó là những gì mà các nhà quản_lý cần thực_hiện để chứng_minh năng_lực lãnh_đạo của mình . Còn đối_với nhân_viên , việc nhà quản_lý nhìn_nhận đúng lòng nhiệt_tình của họ sẽ giúp họ có thêm niềm_vui trong công_việc .
+mỗi lần đánh_giá là một sự_kiện đáng ghi_nhớ trong cuộc_sống của họ . Với 7 bước trên , bạn sẽ tạo ra cho các nhân_viên những ngày vui thực_sự .
+Theo Mai_Hạnh_Bwportal / Customer_Service_Manager

@@ -1,0 +1,38 @@
+﻿ SÂN_KHẤU_CHÍNH
+GIỜ
+NỘI_DUNG
+THỂ_LOẠI
+THỰC_HIỆN
+19g00 ’
+“ Cánh diều Quê_hương ”
+Múa
+Nhóm múa Ngôi_Sao_Nhỏ
+19g10 ’
+Phần trình_diễn của Nhật
+Hoà_tấu
+Harmonica & amp ; Flute
+19g40 '
+Dân_ca Nhật
+Ca + Múa
+Nhóm múa Ngôi_Sao_Nhỏ
+20g10 '
+" Ngủ đi con " ( ca_khúc Việt nổi_tiếng ở Nhật )
+Ca ( + video chiến_tranh VN )
+Cẩm_Vân
+20g
+" Hãy trả lại cho em è Vì_sao em chết "
+Ca + minh_họa video
+Đàm_Vĩnh_Hưng
+20g15 '
+Khát_vọng
+Ca + hợp_xướng
+Siu_Black + hợ p xướng
+20g20 '
+Mơ về châu Á
+thời_trang
+Võ_Việt_Chung và nhóm người_mẫu Binh_Hùng
+20g25 '
+Dòng máu Lạc_Hồng
+Ca + múa
+Đan_Trường
+Đ . TÂM - L . N

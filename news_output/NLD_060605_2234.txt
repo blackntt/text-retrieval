@@ -1,0 +1,3 @@
+﻿ Game : Air_Guard – Bầu_trời chiến_tranh
+Air_Guard tái_hiện những trận không_chiến ác_liệt trên bầu_trời châu Âu trong chiến_tranh thế_giới II . Bạn sẽ lái máy_bay_cường_kích của lực_lượng Đồng_Minh chống lại máy_bay phát_xít Đức .
+Game có 2 chế_độ chơi là Campaign ( thực_hiện nhiệm_vụ được giao ) và Battle ( chỉ đơn_thuần là chiến_đấu ) . Bạn dùng chuột di_chuyển để điều_khiển máy_bay , nhấn chuột trái và chuột phải để bắn tên_lửa và ném bom . Cấu_hình tối_thiểu để chơi Air_Guard là Pentium 500 Mhz , 128 MB_RAM , DirectX 8.1 . Dung_lượng : 4,39 MB . Download : www.tomdownload.com/games/simulations/air _ guard.htm

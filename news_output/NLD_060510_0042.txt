@@ -1,0 +1,52 @@
+﻿ Hệ_số “ chọi ” ở các trường ĐH , CĐ phía Nam
+Ngày 9-5 , Vụ ĐH và Sau ĐH đã thống_kê xong hồ_sơ đăng_ký dự thi vào các trường ĐH , CĐ trong cả nước . Trên cơ_sở này , Báo_Người_Lao_Động tính ra hệ_số “ chọi ” để kịp_thời cung_cấp cho thí_sinh .
+ĐH Quốc_gia TPHCM
+- ĐH Bách_khoa : chỉ_tiêu : 3.500 , ĐKDT : 9.826 , hệ_số “ chọi ” : 2,81 .
+- ĐH Khoa_học Tự_nhiên : 3.320 , 18.963 , 5,71 .
+- ĐH Khoa_học Xã_hội và Nhân_văn : 2.520 , 14.830 , 5,88 .
+- ĐH Quốc_Tế : 770 , 1.424 , 1,84 .
+- Khoa_Kinh tế : 1.450 , 7.141 , 4,92 .
+ĐH Huế
+- ĐH Khoa_học : 1.350 , 12.387 , 9,17 .
+- ĐH Kinh_tế : 780 , 10.215 , 13,09 .
+- ĐH Nghệ_thuật : 200 , 1.785 , 8,92 .
+- ĐH Ngoại_ngữ : 600 , 3.273 , 5,45 .
+- ĐH Nông_Lâm : 1.100 , 9.516 , 8,65 .
+- ĐH Sư_phạm : 1.150 , 14.898 , 12,95 .
+- ĐH Y : 600 , 6.380 , 10,63 .
+- Khoa_Giáo dục thể_chất : 120 , 998 , 8,31 .
+ĐH Đà_Nẵng : 6.000 , 16.534 , 7,75 .
+- ĐH Kinh_tế : 13.676
+- ĐH Bách_khoa : 11.400 .
+- ĐH Ngoại_ngữ : 885 , 4.524 , 5,11 .
+- ĐH Sư_phạm : 1.500 , 16.934 , 11,28 .
+ĐH An_Giang : 2.150 , 15.488 , 7,20 .
+ĐH Bán_công Marketing : 1.594 , 6.153 , 3,86 .
+ĐH Bán_công Tôn_Đức_Thắng : 2.850 , 9.540 , 3,34 .
+ĐH Cần_Thơ : 5.300 , 58.188 , 10,97 .
+ĐH Công_nghiệp TPHCM : 3.400 , 30.354 , 8.92 .
+ĐH Đà_Lạt : 3.200 , 22.472 , 7,02 .
+ĐH Giao_thông Vận_tải TPHCM : 2.110 , 11.981 , 5,67 .
+ĐH Kiến_trúc TPHCM : 1.000 , 7.857 , 7,85 .
+ĐH Kinh_tế TPHCM : 5.000 , 41.097 , 8,21 .
+ĐH Luật TPHCM : 990 , 16.379 , 16,56 .
+ĐH Ngân_hàng TPHCM : 1.600 , 13.006 , 8,12 .
+ĐH Nông_Lâm TPHCM : 3.660 , 48.862 , 13,35 .
+ĐH Quy_Nhơn : 2.800 , 30.587 , 10,92 .
+ĐH Sư_phạm Đồng_Tháp : 2.450 , 9.481 , 3,86 .
+ĐH Sư_phạm Kỹ_thuật TPHCM : 3.000 , 18.267 , 6,08 .
+ĐH Sư_phạm TPHCM : 2.100 , 24.955 , 11,88 .
+ĐH Sư_phạm Thể_dục Thể_thao TPHCM : 550 , 2.918 , 5,30 .
+ĐH Tây_Nguyên : 1.800 , 21.271 , 11,81 .
+ĐH Tiền_Giang : 1.120 , 6.124 , 5,46 .
+ĐH Thể_dục Thể_thao 2 : 300 , 3.952 , 13,17 .
+ĐH Thủy_sản : 2.450 , 12.324 , 5,03 .
+ĐH Văn_hóa TPHCM : 300 , 4.676 , 15,58 .
+ĐH_Y Dược_Cần_Thơ : 420 , 8.285 , 19,72 .
+ĐH_Y Dược TPHCM : 1.020 , 18.701 , 18,33 .
+ĐH Mở - Bán_công TPHCM : 3.120 , 10.845 , 3,47 .
+Trung_tâm Đào_tạo và Bồi_dưỡng Cán_bộ Y_tế TPHCM : 120 , 1.476 , 12,3 .
+ĐH Dân_lập Kỹ_thuật - Công_nghệ TPHCM : 1.700 , 3.618 , 2,12 .
+ĐH Dân_lập Lạc_Hồng : 1.550 , 4.585 , 2,95 .
+ĐH Dân_lập Ngoại_ngữ - Tin_học TPHCM : 1.500 , 5.630 , 3,75 . Trường CĐ Bán_công Hoa_Sen : 1.400 , 16.037 , 11,45 .
+Q . A - M . D

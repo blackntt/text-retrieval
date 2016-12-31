@@ -1,0 +1,8 @@
+﻿Học toán với bảng điện tử
+
+Ngay sau khi được cài đặt và kích hoạt, hộp thoại Math Scratch Library Manager sẽ xuất hiện với bảy thư viện khác nhau tương ứng với một số qui định về toán học. Hãy chọn mục Universal , nhấn nút OK rồi chọn Continue Trial để tiếp tục. Hộp thoại Sign In sẽ xuất hiện. Bạn hãy nhập vào tên ( First Name ) và họ (Last Name) của “học trò” mình rồi nhấn nút Next để tiếp tục. Menu Math Scratch sẽ xuất hiện và cung cấp hai tính năng sử dụng. 
+1. Tùy chọn Scratch Practice Quiz cung cấp cho con bạn học làm những bài trắc nghiệm mẫu: một “cỗ tiệc” sẽ được dọn ra với bốn loại “thực đơn” là cộng, trừ, nhân và chia dành cho con bạn. Hãy chọn một trong số này rồi xác định cấp độ khó ( level ) của các bài toán sao cho thật thích hợp với độ tuổi và học vấn của con bạn. Ngay lập tức một phép tính sẽ được viết ngay ra bảng điện tử. Hãy yêu cầu trẻ nhập đáp án của chúng vào ô vuông có màu xanh rồi nhấn nút Next để tiếp tục. 
+2. Tùy chọn Scratch Assignment giúp bạn nhập vào một đề toán do bạn tự soạn: hộp thoại Enter Your Numbers sẽ xuất hiện. Hãy nhập vào hai con số cụ thể ở các mục ( 1 st Number, 2 nd Number ), chọn phép tính mong muốn ( Operation ) rồi nhấn nút Next để tiếp tục. Ngay lập tức bài tập mà bạn vừa soạn cho con trẻ sẽ được tạo ra trên bảng toán điện tử MS . 
+Với dung lượng 2,79 MB, tương thích trên các hệ điều hành Windows như 9x/Me/NT/2000/XP, phiên bản thử nghiệm của MS được cung cấp tại địa chỉ http://www.sixpencesoftware.com/MathScratch.exe .
+
+MỸ PHƯƠNG

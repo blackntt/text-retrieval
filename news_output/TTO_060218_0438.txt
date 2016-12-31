@@ -1,0 +1,16 @@
+﻿ Sử_dụng điện mặt_trời : Dễ hay khó ?
+Để có được hệ_thống điện_từ năng_lượng mặt_trời , quan_trọng nhất_là phải có tấm pin thu nhiệt và chuyển nhiệt_thành quang . Hiện_nay trong cả nước chưa có cơ_sở nào sản_xuất tấm pin này mà phần_lớn đều được nhập_ngoại .
+Tại TP.HCM có hai cơ_sở bán thiết_bị làm điện_từ năng_lượng mặt_trời là Solarlab ( Phân_viện Vật_lý , số 1 Mạc_Đĩnh_Chi , Q . 1 ) và SEL-CO ( công_ty của Mỹ , 164 Đề_Thám , Q . 1 ) . Kỹ_sư Nguyễn_Đức_Thọ , nhân_viên Solarlab , cho_biết : một bộ hệ điện mặt_trời gồm có tấm pin , bình ăcqui , bộ biến điện và bộ_điều_khiển .
+Điện mặt_trời từ các tấm pin sẽ được dẫn xuống và trữ vào hệ_thống các bình ăcqui . Từ đây , bộ biến điện sẽ chuyển dòng_điện_một_chiều 24 volt từ ăcqui sang dòng_điện_xoay_chiều 220 volt . Người sử_dụng chỉ cần mở bộ_điều_khiển lên là có_thể sử_dụng điện mặt_trời .
+Tại_Solarlab , giá bán của một bộ hệ điện mặt_trời dao_động từ 9 triệu cho_đến vài trăm triệu đồng , tùy theo qui_mô và công_suất điện . Trong đó như bộ có_giá thấp nhất ( 9 triệu đồng ) có_thể sử_dụng thắp sáng bốn bóng_đèn và một máy cassette . Đối_với những hệ điện có qui_mô nhỏ , người mua có_thể tự lắp_ráp thông_qua giấy hướng_dẫn mà không cần kỹ_thuật_viên .
+Ngoài việc sử_dụng điện sinh_hoạt gia_đình , các nhà_khoa_học thuộc Solarlab còn sử_dụng điện mặt_trời để sạc pin cho xe cấp_cứu . Loại xe này đã đưa vào hoạt_động tại Đắc_Lắc với giá khoảng 10.000 USD/xe .
+Điện mặt_trời cũng được dùng để chạy máy_nổ , sử_dụng cho thuyền du_lịch ở Hội_An và máy_bơm nước tại một_số hộ ở Đắc_Lắc và TP.HCM ( có_thể bơm nước từ độ sâu 25-30m lên_mặt đất ) .
+Đó là chưa kể các loại bình nước nóng sử_dụng năng_lượng mặt_trời cũng ngày_càng trở_nên phổ_biến và giá_thành ( do các cơ_sở nội_địa thiết_kế và lắp_ráp ) cũng có xu_hướng giảm còn 1/3 so với trước_đây .
+Bếp nấu và bình lọc nước : hai trong một
+Hiện_Công ty Petech đã bắt_đầu triển_khai sản_xuất bếp nấu bằng năng_lượng mặt_trời . Bếp gồm một chảo parabol làm_bằng inox với đường_kính 1,5 m , được đặt trên một giá đỡ . Toàn_bộ hệ_thống được thiết_kế tự_động để chảo có_thể quay theo hướng di_chuyển của mặt_trời .
+Ánh_sáng do chảo parabol phản_xạ được hội_tụ vào vị_trí lò nấu nên việc đốt nóng diễn ra nhanh hơn so với các loại bếp nấu khác , nhiệt_độ lên đến 120-150OC ( khoảng 15 phút là có_thể nấu chín nồi cơm ) .
+Ngoài_ra , để tận_dụng bếp “ mặt_trời ” những lúc không cần nấu_nướng , nhóm nghiên_cứu cũng thiết_kế bình chưng_cất nước_lợ gồm bộ ngưng_tụ , hộp than hoạt_tính để lọc nước .
+Hơi_nước sẽ đi qua bộ ngưng_tụ hình xoắn_ốc để cho ra nước_ngọt , trung_bình 10 lít nước_mặn sẽ tạo được 7 lít nước_ngọt .
+Giá_thành của một chiếc bếp năng_lượng mặt_trời là 950.000 đồng ( loại parabol xoay tự_động theo nắng mặt_trời ) và 450.000 đồng cho loại không tự_động ( người dùng phải tự xoay parabol theo hướng nắng ) . Nếu dùng bếp kèm theo bộ lọc nước tinh_khiết loại 120 lít , giá_thành sẽ là 2,5 triệu đồng / bộ .
+Tuy_nhiên , để sử_dụng bếp nấu bằng năng_lượng mặt_trời , người nấu_ăn phải ... đội mũ và tất_nhiên chỉ có_thể nấu vào những lúc có nắng lớn . Hiện loại bếp này đã được đưa vào sử_dụng và bán ở một_số tỉnh như Bình_Thuận , Lâm_Đồng , huyện đảo Trường_Sa ( Khánh_Hòa ) ...
+THU_THẢO

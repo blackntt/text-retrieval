@@ -1,0 +1,6 @@
+﻿Thêm một loại thẻ thanh toán quốc tế
+
+Khác với thẻ tín dụng là chủ thẻ sử dụng tiền của ngân hàng sau đó thanh toán lại, với thẻ VISA electron, chủ thẻ sử dụng tiền của mình đã gửi vào tài khoản. Thẻ VISA electron sử dụng được ở 150 nước với 13 triệu điểm chấp nhận thẻ (riêng tại VN có khoảng 1.000 điểm) hoặc rút tiền mặt tại hơn 800.000 máy ATM trên toàn thế giới với mức phí thấp hơn thẻ tín dụng. 
+Chủ thẻ nộp tiền vào tài khoản bằng VND, khi thanh toán ở nước ngoài ngân hàng sẽ qui đổi từ VND sang ngoại tệ.
+
+T.TU.

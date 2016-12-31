@@ -1,0 +1,10 @@
+﻿ Phần_mềm nguồn mở đột chiếm thị_trường cơ_sở_dữ_liệu
+“ Những hệ_thống quản_trị cơ_sở_dữ_liệu ( DBMS ) nguồn mở này sẽ còn tiếp_tục được hoàn_thiện về chức_năng và tính mở_rộng , còn các hãng cung_cấp công_cụ DBMS hiện đang bắt_đầu đưa ra các dịch_vụ hỗ_trợ khách_hàng ” , nhận_định của Colleen_Graham , chuyên_gia phân_tích hàng_đầu tại Gartner .
+Theo một nghiên_cứu mới_đây được hãng phân_tích Gartner thực_hiện , các hệ cơ_sở_dữ_liệu ( CSDL ) nguồn mở hiện đã đạt được tốc_độ tăng_trưởng nhanh_nhất trong thị_trường CSDL .
+“ Xu_hướng kết_hợp giữa các hãng cung_cấp giải_pháp hệ_thống quản_trị CSDL , trong đó có MySQL và Ingres , đã cho thấy mức tăng_trưởng mạnh_mẽ nhất mặc_dù đây là một trong những phương_thức mang lại ít doanh_thu nhất ” , ông Colleen_Graham nhận_xét .
+“ Những hệ_thống quản_trị cơ_sở_dữ_liệu ( DBMS ) nguồn mở này sẽ còn tiếp_tục được hoàn_thiện về chức_năng và tính mở_rộng , còn các hãng cung_cấp công_cụ DBMS hiện đang bắt_đầu đưa ra các dịch_vụ hỗ_trợ khách_hàng ” .
+Các chuyên_gia phân_tích công_nghiệp thống_kê mức_độ sử_dụng ứng_dụng chủ_yếu qua doanh_thu phần_mềm có đăng_kí , nhưng chính điều này lại khiến chúng_ta bỏ_qua những con_số liên_quan tới mảng phần_mềm được tải về miễn_phí trên internet .
+Để khắc_phục nhược_điểm này , Gartner đã bắt_đầu định_nghĩa lại thị_trường bao_gồm cả phần doanh_thu có cấp phép cùng các bản cập_nhật và dịch_vụ .
+Theo Gartner , năm_ngoái tổng doanh_thu thị_phần CSDL đã tăng 8.3% lên 13,8 tỉ USD .
+Oracle vẫn tiếp_tục là hãng cung_cấp lớn nhất với 48,9% thị_phần . Đứng ngay sau là DB2 của IBM với 22% thị_phần .
+Trong số những tên_tuổi lớn , Microsoft chính là hãng có tốc_độ phát_triển cao nhất . Doanh_thu của hệ CSDL_SQL Server 2005 của hãng đã tăng 16,6% và đưa tổng thị_phần của Microsoft lên 15% . Theo AI VietNam/TopTechNews

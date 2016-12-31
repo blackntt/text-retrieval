@@ -1,0 +1,9 @@
+﻿Thêm 250.000 USD cho ai tìm được tác giả virus MyDoom
+
+Thông báo nêu rõ tất cả những ai cung cấp thông tin phải tiếp xúc với Cơ quan điều tra Liên Bang Mỹ (FBI) hay Interpol. Ông Brad Smith, phó chủ tịch Microsoft, thông báo thông tin trên với mục đích "giúp đỡ chính quyền bắt tên tội phạm này". 
+Các cơ quan chính phủ và tổ chức ở Mỹ đánh giá rất cao quyết định của Microsoft cũng như SCO . Họ cho rằng việc treo thưởng của các công ty trong việc bắt tin tặc cũng giống như quỹ tiền mặt dùng để bắt cướp ngân hàng ở miền Viễn Tây Mỹ hồi đầu thế kỷ 19. 
+Tháng 11, Microsoft cũng đã tuyên bố sẽ trao 500.000 USD cho bất kỳ ai cung cấp thông tin để giúp họ bắt kẻ phát tán virus MSBlast (hay Blaster) và SoBig. Hai loại virus này đã tấn công hàng nghìn máy tính chạy hệ điều hành Windows, gây thiệt hại nghiêm trọng về tài sản của nhiều doanh nghiệp và gia đình trong tháng 8 và 9. 
+Cùng ngày, các chuyên gia an ninh mạng cảnh báo virus Mydoom sẽ còn gây rối lọan trong một thời gian nhất định, ít nhất đối với hệ thống mạng của SCO và Microsoft từ ngày 1/2 tới 12/2. Theo nhận định của nhiều chuyên gia, rất khó có thể ngăn chặn cuộc tấn công này vì nó xuất hiện dưới dạng truy cập bình thường tới website. 
+Hiện nay, sự phát tán của virus Mydoom.A còn chiếm 1/3 trong lĩnh vực thư điện tử. Thiệt hại tài chính mà virus này gây ra đối với các doanh nghiệp ước tính lên đến hàng tỉ USD.
+
+T.MINH - L.XUÂN (Theo Reuters, AP, News)

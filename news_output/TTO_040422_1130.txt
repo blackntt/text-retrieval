@@ -1,0 +1,10 @@
+﻿ Tuổi_Trẻ_Online đã tích_hợp bộ_gõ tiếng Việt
+Để sử_dụng bộ_gõ bạn_đọc chỉ cần chọn kiểu đánh_tiếng Việt là VNI hoặc Telex trong thẻ chọn kế bên box tìm_kiếm . Chức_năng này còn có hiệu_lực đối_với box phản_hồi .
+Cách chọn kiểu đánh_tiếng Việt trên mục tìm_kiếm
+Sau khi chọn chỉ cần gõ tiếng Việt
+Cách chọn kiểu đánh_tiếng Việt trên muc phản_hồi
+Gõ tiếng Việt trên mục phản_hồi
+Riêng trên box gửi tới , thẻ chọn kiểu gõ tiếng Việt sẽ nằm bên dưới như hình sau :
+Trong mục gửi tới thì chọn kiểu gõ tiếng Việt bên dưới box
+Bộ_gõ được tích_hợp dành cho các máy_tính chưa có bộ_gõ tiếng Việt , trường_hợp máy_tính của bạn đã có bộ_gõ tiếng Việt thì không cần sử_dụng bộ_gõ này .
+ĐÔNG_HẢI

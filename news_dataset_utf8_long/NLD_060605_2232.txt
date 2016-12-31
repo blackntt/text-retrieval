@@ -1,0 +1,5 @@
+﻿Thêm Trojan mới đòi tiền chuộc
+
+Hãng bảo mật Sophos phát hiện một chương trình Trojan mới: Arhiveus.a, mã hóa tất cả tập tin trong thư mục “My Documents” sau khi nó lây nhiễm vào máy tính. Khi người sử dụng tìm cách truy cập tập tin trong thư mục này, một thông báo xuất hiện và cảnh báo về những hậu quả nếu nạn nhân tìm cách thông báo cho các nhà chức trách.Thủ phạm yêu cầu nạn nhân mua hàng tại một trong 3 cửa hàng dược phẩm trực tuyến trước khi cung cấp cho họ một mật khẩu gồm 30 ký tự để giải mã. Đây là chương trình Trojan thứ 3 thuộc dạng “phần mềm đòi tiền chuộc” xuất hiện trong năm nay.
+
+P.A.T (Theo TechWeb)

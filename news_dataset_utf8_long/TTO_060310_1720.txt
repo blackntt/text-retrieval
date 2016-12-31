@@ -1,0 +1,7 @@
+﻿Bản vá lỗi cho Windows Media Players
+
+Lỗi đầu tiên là lỗi về thanh cuộn của Windows Media. Lỗi này thường gặp khi người dùng cho chạy nhanh file media, hoặc khi re chuột dọc theo thanh cuộn để tìm một đoạn nào đó trong tập tin. Các lỗi này có thể làm treo máy. 
+Lỗi thứ hai, là lỗi bảo mật xảy ra khi Windows Media duyệt các hình bitmap (.bmp), kẻ chủ đích có thể lợi dụng để phát tán các mã độc thông qua các tập tin .bmp này. Bạn có thể tham khảo thêm thông tin về bản vá này qua bảng thông cáo MS06-005 tại website của Microsoft.. 
+Bản vá này cũng khắc phục luôn các lỗi gây mất ổn định cho Media Center trong Windows XP Media Center 2005 và một số lỗi trong trình xử lý gia tốc đồ họa của DirectX.
+
+QUANG HUÂN (theo Yahoo! News)

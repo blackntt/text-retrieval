@@ -1,0 +1,26 @@
+﻿ Bộ công_cụ chẩn_đoán lỗi ổ_cứng ( Phần I )
+Trước khi sử_dụng những bộ công_cụ , tiện_ích này , bạn phải chắc rằng bạn đang sử_dụng ổ_đĩa_cứng của hãng đó và cùng những tính_năng , model khác như ( IDE , SCSI … ) để các tiện_ích hoạt_động đúng chức_năng hơn .
+A . Fujitsu
+1 . FJDT ( Fujitsu ATA Diagnostic_Tool )
+FJDT là công_cụ phân_tích giúp người dùng xác_định nhanh_chóng ổ_cứng EIDE có vận_hành đúng hay không . FJDT có_thể phân_tích những lỗi đáng nghi của ổ_đĩa bằng cách kiểm_tra dữ_liệu thông_qua S . M . A . R . T . và song_song đó , FJDT cũng dò_xét trên bề_mặt của ổ_đĩa , từng sector để xác_định những nhóm môi_trường với nhau .
+FJDT 6.20 có_thể chạy trên đĩa boot MSDOS để xử_lý khi hệ_điều_hành không_thể khởi_động .
+2 . SDIAG ( SCSI Diagnostic_Tool )
+SDIAG là một công_cụ đơn_giản và đáng tin_cậy được phát_triển bởi Fujitsu dùng để phân_tích các ổ_đĩa_cứng SCSI Fujitsu . Một lượng lớn các ổ_đĩa được gởi trả về nhà_sản_xuất nhưng với trạng_thái thật_sự sau khi được phân_tích là “ No_Trouble_Found ” ( Không có trục_trặc ) . Đó có_thể là những trường_hợp lỗi hệ_thống hoăc hệ_điều_hành nhưng ổ_cứng luôn_luôn bị đổ trách_nhiệm . SDIAG có_thể hoạt_động mà không cần phải di_chuyển ổ_cứng ra khỏi hệ_thống nên tiết_kiệm được tiền_bạc và thời_gian cho người dùng .
+Tùy chọn kiểm_tra :
+- Quick : kiểm_tra S . M . A . R . T thông_tin và khuyết_điểm của bề_mặt .
+- Standard : kiểm_tra S . M . A . R . T bề_mặt , ngẫu_nhiên với đọc / ghi và tìm_kiếm .
+- Extended : thực_hiện việc hoạt_động hay ngưng của việc kiểm_tra , xác_định lại đọc / ghi .
+Với tùy chọn “ destructive testing ” chỉ hoạt_động nếu dữ_liệu đã được lưu_trữ trên ổ_cứng . SDIAG 2.0 vừa được Fujitsu cập_nhật , hoa ̣ t động với hệ_điều_hành Windows 2000 trở_lên .
+B . Hitachi
+1 . Drive_Fitness_Test
+Phiên_bản hiện_tại là Drive_Fitness_Test 4.0 . DFT giúp người dùng kiểm_tra nhanh_chóng các ổ_cứng SCSI và IDE và bao_gồm cả Serial-ATA IDE . DFT có chức_năng thực_thi kiểm_tra mà không chép đè lên dữ_liệu của người dùng . Tuy_nhiên , DFT có kèm một_vài tính_năng khôi_phục mà có_thể chép đè dữ_liệu .
+Ở phiên_bản 4.0 này , DFT cũng hỗ_trợ thêm cho cho các model chipset mới của ThinkPad và có nhiều cải_tiến hơn . Ban có_thể tải về các phần của DFT ở bên dưới để tạo đĩa khởi_động cho Windows hay Linux , nhưng bạn phải khởi_động hệ_thống của bạn với đĩa khởi_động từ DOS để chạy DFT và DFT cũng chỉ hỗ_trợ những chip x 86 .
+- Download_Windows diskette creator 4.0 ( Đây là phần tạo đĩa boot trong DOS ) .
+- Download binary diskette image ( non-Windows systems - Phần tạo đĩa boot trong DOS nhưng không dành cho HĐH Windows )
+- Download a CD image v 3.73 ( Phần tạo CD khởi_động cho Windows , Linux và các HĐH khác .
+2 . OGTDT ( OGT Diagnostic_Tool )
+OGTDT là công_cụ phân_tích lỗi cho các dòng sản_phẩm Ultrastar 10K300 , Ultrastar 15K73 và DK32XX và nhà_sản_xuất cũng khuyến_cáo các đại_lý hoặc người dùng chỉ nên dùng OGTDT cho 3 dòng sản_phẩm trên thay_vì dùng Drive_Fitness_Test .
+Hoạt_động trên hệ_điều_hành ( HĐH ) Windows , OGTDT giúp người dùng thực_hiện phân_tích , kiểm_tra lỗi cho ổ_cứng .
+OGT Diagnostic_Tool 7.01 yêu_cầu ASPI driver nên bạn có_thể tải về phiên_bản mới nhất của ASPI driver tại đây .
+( Còn tiếp )
+TRẦN_THANH_TRỰC

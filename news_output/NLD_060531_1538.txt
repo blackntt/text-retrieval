@@ -1,0 +1,9 @@
+﻿ Symantec vá lỗ_hổng trong phần_mềm diệt virus
+Symantec vừa phát_hành miếng vá cho lỗ_hổng nghiêm_trọng bên trong phần_mềm diệt virus hàng_đầu của hãng , một lỗ_hổng có_thể cho_phép hacker cuỗm thông_tin nhạy_cảm , xóa file hoặc cấy_ghép malware vào hệ_thống của những tập_đoàn lớn nhất thế_giới .
+Symantec bắt_đầu phát_hành miếng trong dịp lễ Memorial_Day vừa_qua , chỉ vài ngày_sau khi lỗ_hổng trên được công_bố .
+Cách phản_ứng tốc_hành này của Symantec cho thấy tính_chất nghiêm_trọng của vụ_việc , bởi thường thì các hãng phần_mềm phải " dền dứ " tới vài tháng để có_thể tung ra các bản vá tương_tự .
+Tuy_nhiên , trên thực_tế , điều này không có gì khó hiểu khi biết rằng hàng triệu người dùng máy_tính trên toàn thế_giới đang sử_dụng phiên_bản Symantec_Antivirus bị lỗi , bao_gồm cả nhiều tập_đoàn đa quốc_gia và cơ_quan chính_phủ của Mỹ .
+Symantec cho_biết miếng vá đang được cung_cấp thông_qua công_nghệ LiveUpdate của hãng , và ngoài_ra , hãng chưa phát_hiện thấy bất_cứ " nỗ_lực nào từ phía hacker để khai_thác lỗ_hổng này " .
+Theo lời Symantec thì các kỹ_sư của hãng đã phải làm_việc 24 tiếng mỗi ngày kể từ khi lỗ_hổng được phát_hiện vào tuần trước bởi e Eye_Digital_Security . Có một thông_tin mà Symantec đưa ra để trấn_an người dùng là phiên_bản dân_dụng của phần_mềm Norton_Antivirus không dính lỗ_hổng này .
+Tuần trước , eEye đã công_bố lỗ_hổng trong phần_mềm Symantec nhưng cam_kết sẽ không tiết_lộ công_khai các thông_tin chi_tiết giúp cho hacker tấn_công người dùng , trước khi Symantec kịp khắc_phục được phần_mềm . " Tôi không_thể tin nổi là họ lại phản_ứng nhanh đến thế . Lần này họ đã làm rất tốt " , Marc_Maiffret , một quan_chức của e Eye bình_luận .
+Theo VNN

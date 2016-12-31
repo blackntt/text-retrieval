@@ -1,0 +1,16 @@
+﻿Soạn thảo văn bản online
+
+Khi vấn đề bản quyền phần mềm đang ngày càng siết chặt, việc đầu tư cho một bộ phần mềm office là khá tốn kém, thì dịch vụ soản thảo văn bản online miễn phí nổi lên như là một xu hướng mới dành cho người dùng PC. “Writely” là một trong những dịch vụ như vậy, có hỗ trợ tiếng Việt có dấu. 
+ Một điểm lợi khi sử dụng dịch vụ này bạn không phải cài đặt các phần mềm như MS Office hay Open office vào máy. 
+Để sử dụng dịch vụ, bước đầu tiên hãy truy cập vào địa chỉ: www.writely.com và đăng ký thành viên. Sau khi đã có một username và một password của riêng mình bạn đăng nhập, bạn đã có thể soạn thảo văn bản bằng cách bấm vào Tab New (phía trên bên trái) 
+Nhập tên của văn bản vào hộp thoại hiện ra. Sau đó bấm ok. Nếu máy bạn có cài chương trình chống pop-up thì lúc này bạn sẽ nhận được thông báo như “You have popup Blocking turned on.You must turn it off for this site to work properly”. Bạn hãy bấm vào continue. Nếu không có chương trình chống pop up thì sẽ không có bước này. 
+Bước tiếp theo: 
+- Soạn thảo văn bản (các bước căn bản soạn thảo giống với MS Word) 
+- Soạn xong bấm vào biểu tượng đĩa mềm để lưu lại online. 
+- Nếu muốn in giấy bạn cũng làm giống các thao tác như dùng word. 
+- Nếu muốn chia sẻ tệp tin này bạn hãy bấm vào thẻ Publish chọn Make this document publish, sau đó bấm OK. 
+- Kết thúc soạn thảo bấm vào Done (góc bên trái cửa sổ soạn thảo) 
+- Lưu văn bản vào ổ cứng: vào menu file/ save as word…sau đó chọn tên văn bản, nơi lưu trữ 
+- Ngoài ra bạn có thể lưu file theo các dạng: PDF, HTML, RTF… 
+Để xem online và soạn thảo tiếp trong các lần sau, bạn vào địa chỉ: http://www.writely.com/basepage.aspx?action=login hoặc từ trang chủ bạn vào (sign in here). Điền địa chỉ email và password để vào nơi cất giữ. Bạn sẽ tìm thấy tập tin của mình ở mục Active Documents và có tên là tên mà bạn đạt lúc trước. Những tên đã được pulish sẽ có thêm chữ Pulished bên phải tên của tệp tin. 
+Ngoài ra Writely còn một số tiện ích khác như dịch vụ upload tập tin đang chờ các bạn tìm hiểu tiếp. Hoa Đào

@@ -1,0 +1,26 @@
+﻿Mổ xẻ ATM
+
+Theo ông Đỗ Đức Cường - "cha đẻ" của những chiếc máy ATM, hiện đang là giám đốc điện toán Ngân hàng Đông Á - nguyên lý cấu hình của một chiếc máy ATM hoạt động suốt 24/24 giờ có hai phần: phần cứng và phần mềm. 
+Phần cứng bao gồm máy vi tính chuyên biệt, máy đếm tiền, máy nhận tiền, máy in nhật ký, máy in biên lai, phím nhập mật mã, máy đọc thẻ và tủ sắt. Những bộ phận thuộc phần cứng phải tuân thủ những tiêu chuẩn rất nghiêm ngặt. 
+Chẳng hạn loại máy tính chuyên biệt được đặt trong máy ATM có khả năng nhận biết hệ thống sắp bị mất điện. Khi chuẩn bị mất điện (nhiệt ở nguồn bị hạ xuống), ngay lập tức (chỉ trong nửa giây) máy sẽ ghi nhận tình trạng đang xảy ra. Khi có điện, máy sẽ tự khởi động và viết lại giao dịch. 
+Máy đếm tiền (chi tiền) chủ yếu sử dụng kỹ thuật đếm chân không (kéo tiền lên bằng lực kiểu như giác hơi) hoặc kỹ thuật ma sát. Máy nhận tiền có chức năng nhận tiền mặt do khách hàng trực tiếp gửi vào máy (hiện chỉ có máy ATM của Ngân hàng Đông Á là có chức năng này). 
+Ngoài ra, máy nhận tiền cũng chấp nhận luôn các phiếu mua quà tặng, trái phiếu và qui đổi thành mệnh giá tương đương với tiền mặt. 
+Trong các máy ATM, một bộ phận rất quan trọng phải kể đến là máy in nhật ký. Máy in này sẽ ghi lại tất cả dữ liệu liên quan đến chiếc máy ATM: từ ngày giờ khách hàng tra thẻ vào máy, thời gian giao dịch, chuyển khoản, rút tiền... 
+Đây cũng là cơ sở pháp lý quan trọng để giải quyết nếu xảy ra tranh chấp. Một khi máy in nhật ký không hoạt động, máy ATM sẽ tự động đứng máy. 
+Phím nhập mật mã cũng không phải là loại bàn phím thông thường dùng để bấm số. Bàn phím này được thiết kế gắn liền với phần mềm an ninh. Khi bỏ thẻ vào máy và ấn phím, ngay lập tức con số được mã hóa và xóa hết các con số mà người dùng máy bấm vào. Không một ai có thể nhận biết được con số mã pin. 
+Riêng về phần mềm, hầu hết các loại máy ATM đều phải có bộ điều hành (OS-operate system), phần mềm điều khiển thiết bị, phần mềm tự phục hồi (trường hợp mất điện), phần mềm hoàn trả (reversal) và phần mềm an ninh. 
+Chẳng hạn khi người sử dụng thẻ đang rút tiền, đột nhiên bị mất điện, người dùng chưa nhận được tiền trong khi tài khoản đã bị trừ. 
+Dựa vào phần mềm phục hồi và phần mềm hoàn trả, khi có điện lại máy sẽ nhận biết được tình trạng trước khi điện tắt và tự động hoàn trả số tiền chưa lấy ra khỏi máy vào tài khoản của người sử dụng. Phần mềm an ninh sẽ bảo mật các thông tin cho thẻ và pin. 
+Tại sao ATM bị trục trặc? 
+Trong hệ thống máy ATM có ba thứ nằm ngoài tầm kiểm soát của cơ quan chủ quản: đó là đường truyền dữ liệu, điện và thời tiết. Theo các chuyên gia, đây là những nguyên nhân chính gây ra trục trặc của máy. 
+Chẳng hạn, sự cố hàng loạt máy ATM của VCB bị đứng máy vào giữa tháng 9-2005 khiến rất nhiều người dân tại Hà Nội, Huế không thể giao dịch được lại liên quan đến việc đào đường xung quanh tòa nhà của VCB và làm hỏng đường cáp. 
+Ngoài ra, vào các dịp lễ hoặc các ngày phát lương cuối tháng, lượng người rút tiền mặt tăng cao, các máy ATM thường quá tải và cũng xảy ra hiện tượng “chập chờn” (lúc rút được tiền, lúc không rút được). 
+Mặc dù thông qua việc thông báo lượng tiền còn trên hệ thống, người quản lý sẽ biết được máy ATM nào sắp hết tiền để có kế hoạch nạp thêm tiền, nhưng những lúc cao điểm hoặc có những chủ thẻ thực hiện việc rút tiền liên tục, nhân viên ngân hàng không kịp bỏ tiền vào máy khiến máy ngưng hoạt động. 
+Hệ thống cũng phụ thuộc “ông nhà đèn”, chẳng hạn đang rút tiền, nếu máy ATM bị mất điện đột ngột, hệ thống thường bị trục trặc. Trong khoảng thời gian chờ đó, hệ thống sẽ giữ luôn thẻ cho đến khi có điện trở lại. 
+Một trong các sự cố ATM vẫn thỉnh thoảng gặp phải lại liên quan đến thời tiết, vào những ngày độ ẩm trong không khí ở mức cao, hơi ẩm khiến tiền dễ bị dính lại với nhau. Khi sử dụng kỹ thuật rút tiền bằng chân không, vẫn còn xảy ra hiện tượng rút một tờ nhưng có khi ra đến... hai tờ. 
+Ngoài ra, do yếu tố an ninh, ATM cố tình được thiết kế không có khả năng phân biệt được đồng tiền theo mệnh giá, vì thế nếu nhân viên xếp nhầm mệnh giá tiền vào hộp thì máy cũng không thể tự nhận biết được (trong thực tế đã có trường hợp nhân viên của một ngân hàng xếp nhầm tiền có mệnh giá 100.000 đồng vào khay 50.000 đồng, nên khi trả cho khách số tiền nhận được gấp đôi số tiền giao dịch trên máy trong khi tài khoản chỉ trừ đúng số tiền giao dịch). 
+Đối với sự an toàn của hệ thống, nhiều chuyên gia ngân hàng khẳng định: tại VN, tình trạng tội phạm dùng thẻ giả để rút tiền vẫn chưa được phát hiện. 
+Cho đến thời điểm này, việc mất tiền trên tài khoản vẫn do chủ thẻ không giữ bí mật mã pin, đưa thẻ nhờ người khác rút tiền hoặc bị người thân lấy cắp thẻ. Tuy nhiên, theo ông Nguyễn Trọng Khang, giám đốc Công ty liên doanh thẻ thông minh MK, các thẻ từ đang được dùng hiện nay có nguy cơ làm giả rất cao. 
+Nếu kẻ gian nắm được các dữ liệu trên track (phần chứa thông tin) của dải từ (số thẻ, cấu trúc mã ký hiệu...) hoặc các thông tin về mã khách hàng thì việc làm thẻ giả vẫn có thể xảy ra.
+
+THU THẢO

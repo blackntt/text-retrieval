@@ -1,0 +1,12 @@
+﻿Nghề mới: cho thuê virus để phát tán spam
+
+Xu hướng này đã manh nha xuất hiện và đang mạnh dần lên trong nửa đầu năm 2004, theo nhận định của Hãng bảo mật MessageLabs. 
+Theo các tác giả của bản báo cáo "Bảo mật Email", giới viết virus đã bắt đầu "ngộ ra" và thấm tháp thực tế rằng những loại sâu do họ phát tán có thể gây tàn phá nặng nề, nhưng tiền mang lại thì ít. 
+Chính vì vậy, đa số những con virus bị phát hiện trong vòng sáu tháng đầu năm 2004 đã tiềm ẩn dấu hiệu phát tán cả thư rác nữa. Ba loại virus nguy hiểm nhất là MyDoom, NetSky và Bagle đều có tên trong danh sách đó. 
+Theo MessageLabs (ML), nguy cơ bảo mật email lớn nhất trong thời gian sắp tới chính là việc giới spammer (tung thư rác - spam) và viết virus đã bắt tay với nhau . Nhận định này đã được đưa ra sau khi ML giám sát và theo dõi các chatroom trao đổi bí mật của hai bên. Với sự phát triển mạnh của các phần mềm chặn thư rác gần đây, giới spammer "thức thời'' đã nghĩ ngay đến khả năng xâm nhập và phát tán nhanh như vũ bão của virus. Chính vì vậy, chúng đang sẵn sàng trả tiền để dân viết virus chuyên nghiệp tạo ra những loại sâu mới đính kèm với email và xây thành dựng luỹ đối chọi với công cụ antispam. 
+Paul Wood, giám đốc phân tích bảo mật của ML cho biết: "Những tay hacker tập sự từng thích thú với việc gây náo loạn và tận hưởng 15 phút vinh quang giờ đã nhận ra sức mạnh kiếm chác dồi dào tiềm năng từ thư rác. Chúng đang sử dụng khả năng viết virus của mình để "bắt cóc'' máy tính và thiết lập các mạng máy tính lây nhiễm thành trung tâm phát tán hàng triệu thư rác''. 
+Thư rác đang trở thành một cần câu tiền thời thượng với các hacker và spammer? 
+Cũng theo bản báo cáo, 63,5% số email gửi đi từ tháng 1/2004 trở lại đây là thư rác, tăng so với con số 37,9% của cùng kỳ năm ngoái. Cứ 12 email lại có một bức chứa virus, so với tỷ lệ 1/208 của năm 2003. Những virus này có thể xâm nhập qua tường lửa chặn thư rác và chui vào máy tính. 
+Mỗi ngày, ML phải scan khoảng 50 triệu email của khách hàng, bao gồm những cơ quan chính phủ và tập đoàn lớn như Ngân hàng New York và Fujitsu của Nhật Bản...
+
+Theo VNN

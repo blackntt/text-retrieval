@@ -1,0 +1,11 @@
+﻿Dung lượng ổ lưu trữ nhân đôi với thời gian kỷ lục
+
+Công nghệ lưu trữ đang phát triển đáng khâm phục với khả năng tăng gấp 2 mật độ dữ liệu chỉ trong khoảng 9 tháng. Theo đà này, đến cuối 2007, máy tính để bàn sẽ được trang bị ổ cứng 1 terabyte (TB) và máy xách tay sẽ hỗ trợ ổ 200 GB. 
+ Gần đây, Hitachi Global Storage Technologies đã giới thiệu mô hình ổ cứng kích thước chỉ có 9 inch và dung lượng lên đến 1.000 GB nhưng khẳng định sản phẩm này cần tới 20 năm để hoàn thiện. “Đó chỉ là tầm nhìn của tương lai, nhưng sản phẩm cuối cùng sẽ không đắt hơn nhiều so với giá hiện hành”, Bill Healy, Phó giám đốc Hitachi , cho biết. 
+Tuy dự án của Hitachi chưa thể được hiện thực hóa trong một sớm một chiều, nhiều công ty như Seagate, Western Digital, Hitachi, Samsung và Toshiba vẫn đang tích cực hỗ trợ và ứng dụng các công nghệ đáng tin cậy cho sản phẩm. 
+Theo Celeste Crystal, chuyên gia phân tích của hãng nghiên cứu thị trường IDC, các hãng sản xuất thiết bị lưu trữ thể rắn (flash) đã đưa nhiều bit dữ liệu hơn vào mỗi “tế bào” chip (cell), đồng thời sử dụng nhiều cách thức mới để tăng lớp “tế bào” mà vẫn giữ nguyên diện tích. 
+Trong khi đó, dung lượng ổ cứng với các đĩa từ tính hiện cũng tăng gấp đôi theo tốc độ gần một năm. Sau nhiều thập kỷ nâng mật độ bit, ngành công nghiệp này đã bắt đầu vấp phải những giới hạn vật lý nhất định và đang chuyển sang công nghệ ghi trực giao, cho phép lưu thông tin theo chiều thẳng đứng thay vì nằm ngang. 
+Cuối năm 2006, khách hàng sẽ đón nhận máy tính và thiết bị lưu trữ với ổ cứng 750 GB, tăng 50% so với mức 500 GB hiện nay và kỷ lục này sẽ bị phá vỡ ngay trong năm sau với ổ 1 terabyte. Một TB đồng nghĩa với cơ hội lưu 375 giờ chương trình TV theo định dạng chuẩn, 75 giờ video độ phân giải cao, hơn nửa triệu file ảnh hoặc 10.000 đĩa CD nhạc. 
+Một kỷ lục khác là ngành công nghiệp ổ cứng đã đạt doanh thu 27,9 tỷ USD trên toàn thế giới trong năm 2005 và IDC dự đoán đến 2010, lĩnh vực này sẽ thu về 41,5 tỷ USD. Bộ phận flash cũng sẽ đạt 18,7 tỷ USD trong vòng 4 năm tới, tăng từ 10,6 tỷ USD năm qua. 
+IDC nhận định, tuy công nghệ flash được đánh giá cao, ổ cứng sẽ vẫn là thành tố quan trọng trong đầu máy chơi game, hệ thống định hướng xe hơi, đầu video kỹ thuật số (DVR) và máy quay cầm tay. 
+Theo T.N. VnExpress/AP

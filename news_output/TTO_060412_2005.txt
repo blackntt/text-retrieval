@@ -1,0 +1,5 @@
+﻿ TP.HCM : Học_sinh lớp 9 kiểm_tra học_kỳ 2 theo đề trắc_nghiệm
+Kết_cấu đề kiểm_tra sẽ bao_gồm phần tự luận và phần trắc_nghiệm . Trong đó , các môn : Văn , Sử , Địa , Hóa , Sinh : tỉ_lệ điểm trắc_nghiệm / điểm tự luận là 3/7 ; môn Tiếng_Anh là 7/3 ( đặc_biệt có kiểm_tra phần nghe : làm bài trắc_nghiệm , học_sinh sẽ được nghe một đoạn thoại khoảng 2 - 3 phút , lặp lại 3 lần ) ; Toán : 2/8 ; Vật_lý : 5/5 .
+Thời_gian kiểm_tra từ 3-5 đến 6-5 . Thời_lượng làm bài môn Toán , Văn : 90 phút ; tiếng Anh : 60 phút ; các môn còn lại : 45 phút .
+Riêng đối_với khối 6,7,8 : Phòng GD - ĐT quận , huyện chủ_động quyết_định lịch kiểm_tra , ra đề ; thời_gian làm bài và kết_cấu đề không thay_đổi so với năm_học trước .
+H.HG .

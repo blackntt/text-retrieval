@@ -1,0 +1,6 @@
+﻿ Lịch cúp điện 1-6
+CẦN_THƠ : Từ 7g-14g30 : quận Bình_Thủy : khu_vực đường Trần_Quang_Diệu , rạch Mương_Khai ; quận Ô_Môn : khu_vực phường Trường_Lạc ; huyện Thốt_Nốt : khu_vực xã Trung_An , Trung_Nhứt ; huyện Vĩnh_Thạnh : khu_vực xã Trung_Hưng . Mất điện hai lần từ 7g-7g30 và 14g-14g30 : quận Bình_Thủy : khu_vực đường Cách_Mạng_Tháng 8 , Nguyễn_Thông , Nguyễn_Việt_Dũng .
+KIÊN_GIANG : Từ 7g-17g30 : đường Mạc_Cửu ( đoạn từ ngã ba Trần_Phú đến ngã ba Lê_Thị_Hồng_Gấm ) , thành_phố Rạch_Giá .
+QUẢNG_NAM : 6g30-17g : các TBA xã Bình_Lãnh , Bình_Trị ( Thăng_Bình ) ; Quế_Thọ , Thăng_Phước , Bình_Lâm ( Hiệp_Đức ) . 6g30-16g30 : bơm Điện_Trung 2 ( Điện_Bàn ) . 7g-17g : các khu_vực bơm Bích_Bắc ; Điện_Hòa 1 ; bơm Cẩm_Văn ( T1 ) ; bơm Cẩm_Văn ( T2 ) ( Điện_Bàn , mỗi khu_vực cúp điện 90 phút ) ; 7g30-11g : Điện_Hồng 3 T2 ( Điện_Bàn ) ; 7g30-11g30 : Bộ Nam_Đại_Hòa ( huyện Đại_Lộc ) .
+QUI_NHƠN : 8g-11g30 : Đơn_vị thi_công cầu Nam_Nhơn_Hội . 7g-15g : đường Bạch_Đằng ( đường 31-3 - Hàn_Thuyên ) .
+PV

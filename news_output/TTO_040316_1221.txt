@@ -1,0 +1,6 @@
+﻿ Từ_điển cho ĐTDĐ đầu_tiên chạy trên hệ_điều_hành Symbian
+Một_số tính_năng ưu_việt của chương_trình này là dữ_liệu được nén với dung_lượng lớn ; thời_gian tìm nghĩa của từ là 0,25 giây ; nhập và hiển_thị tiếng Việt trên phông Unicode ; và có_thể dễ_dàng phát_triển tính_năng thêm từ như : thêm từ_điển Pháp , Hoa hoặc Đức .
+Về nguyên_tắc , những điện_thoại có cài_đặt hệ_điều_hành Symbian đều sử_dụng được phần_mềm này . Hiện_tại , chương_trình đã được chạy thử_nghiệm trên điện_thoại Nokia 6600 , 3650 và NGAGE .
+" Đây là một sản_phẩm hoàn_toàn miễn_phí và hy_vọng cộng_đồng mã nguồn mở sẽ cùng tham_gia phát_triển , cải_tiến sản_phẩm để có_thể mang lại nhiều lợi_ích hơn cho người sử_dụng . Đơn_cử trong tương_lai , cộng_đồng sẽ cải_tiến để phần_mềm có_thể chạy được trên điện_thoại Sony_Ericsson P800 , P900 , Siemens SX1 ... " , Tiến_sĩ Trần_Viết_Huân , trưởng_phòng nghiên_cứu và phát_triển TMA cho_biết .
+Phần_mềm do Công_ty Phần_mềm TMA xây_dựng và bạn có_thể tải miễn_phí tại đây .
+VI_THẢO

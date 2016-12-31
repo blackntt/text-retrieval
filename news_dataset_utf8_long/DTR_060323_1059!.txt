@@ -1,0 +1,5 @@
+﻿Công bố hai website về thời tiết nguy hiểm
+
+Hai trang tin điện tử cập nhật các hiện tượng khí tượng thuỷ văn nguy hiểm là www.thoitietnguyhiem.net và www.thoitietnguyhiem.hymetdata.gov.vn vừa được Trung tâm Tư liệu Khí tượng Thủy văn (Trung tâm Khí tượng Thuỷ văn quốc gia) công bố. 
+ Thông tin trên hai website này dành cho hai đối tượng sử dụng khác nhau là nhân dân muốn xem thông tin về thời tiết và nhân viên đơn vị quản lý cơ sở dữ liệu khí tượng thuỷ văn muốn cập nhật các thông số chuyên ngành. 
+Hiện đang trong thời gian chạy thử nghiệm, website thời tiết nguy hiểm chỉ cho phép truy cập trong giờ hành chính (từ 7h00 - 16h30 hàng ngày, trừ thứ Bảy, Chủ Nhật). H.H

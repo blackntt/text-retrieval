@@ -1,0 +1,4 @@
+﻿ Lần đầu_tiên VN vào chung_kết lập_trình_viên quốc_tế
+Đội_tuyển Việt_Nam gồm 3 sinh_viên : Nguyễn_Tường_Quân , Nguyễn_Đan_Thanh và Phạm_Hữu_Ngôn và một huấn_luyện_viên sẽ tham_gia thi_đấu trong 5 giờ . Cuộc_thi sẽ diễn ra ngày 12-4 , kết_quả sẽ cập_nhật trên www . itweek.org.vn .
+Ông Nguyễn_Long , Trưởng_đoàn cho_biết : mục_tiêu của Việt_Nam là lọt vào top 20 thế_giới . Tháng 12-2006 , VN sẽ đăng_cai tổ_chức cuộc_thi Lập_trình quốc_tế vòng_loại khu_vực ACM/ICPC châu Á - Thái_Bình_Dương tại Đại_học Công_nghệ ( Đại_học QGHN ) .
+TRÍ_ĐỨC

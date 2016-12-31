@@ -1,0 +1,19 @@
+﻿ Trọng_tâm ôn thi ĐH môn Vật_lý
+Tuổi_Trẻ_Online sẽ lần_lượt giúp các bạn hệ_thống_hóa kiến_thức các môn thi ĐH . Dưới đây là trọng_tâm ôn_tập môn Vật_lý .
+Gồm 5 phần :
+1 / PHẦN_CƠ_HỌC
+a . Dao_động điều_hòa của con_lắc lò_xo :
+- Cách viết phương_trình dao_động . - Tính vận_tốc , gia_tốc ( tức_thời và trung_bình ) . - Quãng đường đi của vật . - Phân_biệt lực hồi_phục và lực đàn_hồi : giá_trị cực_tiểu và cực_đại . - Cách chứng_minh dao_động điều_hòa . - Ghép lò_xo : song_song và nối_tiếp . - Chuyển_động tròn đều của vật .
+b . Con_lắc đơn :
+- Viết phương_trình dao_động . - Vận_tốc và lực căng dây . - Sự thay_đổi chu_kỳ do nhiệt_độ , độ cao và vị_trí địa_lý . - Con_lắc chịu tác_dụng của lực thứ_ba . - Bài_toán va_chạm – Dao_động tắt dần . - Tổng_hợp dao_động .
+c . Sóng cơ_học :
+- Phương_trình sóng và các đại_lượng đặc_trưng cho quá_trình truyền sóng . - Giao_thoa sóng cơ : Viết phương_trình , đếm số bụng nút và các đặc_trưng . - Sóng dừng : Viết phương_trình , số bó , nút , ứng_dụng … - Sóng_âm .
+2 / PHẦN_ĐIỆN_XOAY_CHIỀU
+- Máy_phát_điện xoay chiều : Viết biểu_thức sức điện động . - Máy_phát_điện trong kỹ_thuật . - Cách viết biểu_thức dòng_điện hoặc hiệu_điện_thế . - Bài_toán ngược . - Bài_toán cực_trị . - Bài_toán hộp . - Cách chứng_minh điện_trở cuộn cảm . - Công_suất dòng_điện_xoay_chiều . - Động_cơ_điện . - Máy biến_thế . - Chuyển_tải điện_năng . - Sóng_điện_từ . - Bài_toán tổng_hợp .
+3 / PHẦN_QUANG_HÌNH
+- Các định_luật cơ_bản – Sự phản_xạ toàn_phần . - Gương_phẳng – Gương_cầu : Ghép gương . - Lăng_kính . - Thấu_kính – Hệ thấu_kính . - Thấu_kính và gương . - Mắt . - Kính_lúp . - Kính_hiển_vi . - Kính_thiên_văn . - Bài_tập tổng_hợp .
+4 / PHẦN_QUANG_LÝ
+- Sự tán_sắc . - Giao_thoa ánh_sáng : Tìm khoảng vân , vị_trí vân , đếm số vân , giao_thoa bằng ánh_sáng không đơn_sắc ; ánh_sáng trắng . - Quang_điện : Phương_trình Einstein ; Uh ; Vmax ; hiệu_suất lượng_tử , lực Lorenzt . - Tia X . - Mẫu nguyên_tử Bohr : 2 tiên_đề Bohr . - Bài_tập tổng_hợp .
+5 / PHẦN_VẬT_LÝ_HẠT_NHÂN
+- Phóng_xạ : Thành_phần và bản_chất tia phóng_xạ , định_luật phân_rã . - Cấu_tạo hạt_nhân – Năng_lượng liên_kết – Độ thụt khối . - Phản_ứng hạt_nhân : Các loại phản_ứng hạt_nhân , các định_luật_bảo_toàn . - Bài_tập tổng_hợp .
+TTO ( Tài_liệu do Trung_tâm Bồi_dưỡng văn_hóa Vĩnh_Viễn cung_cấp )

@@ -1,0 +1,8 @@
+﻿Trend Micro cung cấp phần mềm diệt virus chống spam
+
+Phương pháp chống spam sử dụng kết hợp giữa việc theo dõi dấu hiệu nhận dạng, quản lý danh sách những spammer, những nguồn được tin cậy và các kỹ thuật phỏng đoán thông minh để xác định liệu thông điệp có phải là thư rác hay không. Tính năng này làm việc tốt với phần mềm e-mail sử dụng giao thức POP3 cũng như các dịch vụ Web mail. 
+Tính năng quét virus của PC-cillin ngăn chặn các phần mềm quảng cáo và phần mềm gián điệp tương tự như ngăn chặn các loại virus, worm và trojan horse. 
+Ngoài ra, PC-cillin Internet Security 2004 còn có phần Network Virus Emergency Center gồm có các công cụ nhận biết những đặc điểm chung của những virus lây lan trên mạng; tính năng tường lửa để ngăn chặn những mối hiểm họa; công cụ quét tìm virus trong các file nén; tính năng bảo vệ tính riêng tư giúp người sử dụng tránh khỏi nguy cơ để lộ thông tin cá nhân như số an sinh xã hội, số thẻ tín dụng… 
+Gói phần mềm PC-cillin Internet Security 2004 giá 49,55 USD. Nâng cấp là 24,95 USD. Chương trình này chạy trên các phiên bản Windows 98, Me, 2000 và XP. Ngoài ra, PC-cillin Internet Security 2004 cũng hỗ trợ thiết bị kỹ thuật số cá nhân chạy hệ điều hành Palm, Microsoft Windows Mobile (tên cũ là Pocket PC) và Epoch.
+
+THUỲ MINH (Theo PCW)

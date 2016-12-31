@@ -1,0 +1,13 @@
+﻿Người dùng ĐTDĐ đồng loạt bị tấn công
+
+Năm mới 2006 chưa bắt đầu được mấy ngày, song người dùng ĐTDĐ đã phải hứng chịu cùng lúc vài đợt tấn công của các chương trình Trojan. 
+Tin vui duy nhất là mức độ nguy hiểm của những Trojan này vẫn còn ở tầm thấp. 
+Tính từ đầu tháng Một tới nay, hãng bảo mât Symantec đã nhận dạng được tới 9 chương trình Trojan mới chuyên nhắm vào các hệ điều hành Symbian cài đặt trên điện thoại di động. Những "tên phá hoại" này hạ gục máy điện thoại, tìm cách cài đặt những phần mềm hiểm độc khác vào hệ thống hoặc đánh cắp dữ liệu lưu trong máy, ngấm ngầm gửi về cho một thiết bị định sẵn. 
+Trên thị trường hiện nay, Symbian vẫn là hệ điều hành phổ biến nhất dành cho smartphone. Nokia, hãng sản xuất ĐTDĐ số một thế giới cũng lựa chọn Symbian cho các sản phẩm cao cấp của mình. Hai phần ba số smartphone xuất xưởng trong quý III năm ngoái đều hoạt động trên nền Symbian, theo số liệu của hãng nghiên cứu Gartner. 
+Trước nguy cơ điện thoại di động bị tấn công ngày càng tăng cao, tháng 10 năm ngoái, Nokia đã ký kết một bản hợp đồng với Symantec, theo đó, toàn bộ model smartphone Series 60 của hãng này đều được trang bị phần mềm diệt virus Symantec Mobile Security. Ngoài ra, hai tên tuổi lớn khác là F-Secure và McAfee cũng đã bước đầu kinh doanh sản phẩm bảo mật dành cho điện thoại di động. 
+Theo Symantec, cả 9 Trojan mới phát hiện đều phát tán thông qua con đường Bluetooth, công nghệ không dây sóng ngắn mà đại đa số các smartphone đều có trang bị. Trong đó, cụ thể Cdropper có 5 biến thể, hai phiên bản của Pbstealer, hai Trojan "Sendtool" và "Booton". 
+Trong khi Pbstealer tìm mọi cách gửi sổ địa chỉ, nội dung notepad, lịch làm việc và file ghi nhớ công việc lưu trong máy tới các thiết bị Bluetooth khác thì Cdropper lại cố gắng cài đặt các phiên bản của sâu Cabir cùng Locknut vào điện thoại. 
+Tuy nhiên, nguy hiểm nhất và phá hoại nhất phải kể đến Booton, loại Trojan vừa mới phát hiện được tuần trước. Khi xâm nhập thành công, nó sẽ khiến điện thoại phải khởi động lại, song quá trình khởi động này cũng thất bại, bởi Booton đã kịp thả được vài file "hủy diệt" vào hệ thống. 
+Mặc dù vậy, Symantec vẫn trấn an khách hàng không nên hốt hoảng. Mặc dù số lượng các vụ tấn công có tăng cao, song nguy cơ thực sự vẫn ở mức thấp. Phần lớn các chương trình Trojan đều yêu cầu người dùng phải mở một file nhận được qua đường Bluetooth, sau khi đọc được một cảnh báo từ hệ thống rằng file này được gửi đi từ nguồn không đáng tin cậy. Không quá lạc quan như vậy, nhiều chuyên gia bảo mật vẫn dự đoán virus ĐTDĐ chắc chắn sẽ trở thành một vấn nạn ngày càng đau đầu trong năm nay.
+
+VNN

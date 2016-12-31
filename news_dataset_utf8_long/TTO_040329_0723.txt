@@ -1,0 +1,11 @@
+﻿Quá khứ của file Word
+
+Một hộp thoại Properties hiện ra mô tả kích thước file, ngày tạo ra file, ngày sửa đổi file. Nhưng như vậy vẫn chưa đủ thông tin. 
+Muốn biết thêm nhiều thông tin hơn nữa như tên người tạo, tên người sửa đổi, số dòng, số đoạn, số từ, số chữ và thậm chí cả số khoảng trắng… bạn cần làm theo các bước sau: mở chương trình Microsoft Word, vào File chọn Open để mở một file Word nào đó, sau đó vào File chọn Properties. Một hộp thoại Properties mở ra với năm thẻ thông tin: 
+- Thẻ General: cho bạn biết đường dẫn file (Location), kích thước (Size), ngày tạo (Created), ngày sửa đổi (Modified), thuộc tính (Attributes) gồm: dạng chỉ đọc (Read only), ẩn (Hidden), lưu trữ (Archive). 
+- Thẻ Summary: trình bày tên file (Title), tên tác giả (Author), chức vụ tác giả (Manager), tên công ty (Company), lời ghi chú (Comment). 
+- Thẻ Statistic: trình bày tên người lưu file lần cuối hay người sửa đổi (Last saved by), thời gian viết file (Total editing time), số lần đọc lại file (Revision number), số trang (Pages), số dòng (Lines), số đoạn (Paragraphs), số từ (Words), số chữ (Character), số khoảng trắng (Character with spaces)… 
+- Thẻ Content: trình bày tiêu đề của văn bản. 
+- Thẻ Custom: ở mục Name cho biết văn bản thuộc bộ phận nào của công ty như khách hàng (Client), cục - sở - ban (Department)…
+
+TRẦN MẠNH HÀ

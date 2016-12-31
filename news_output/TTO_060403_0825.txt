@@ -1,0 +1,5 @@
+﻿ Hacker dùng BBC để khai_thác lỗi trong IE
+Tuy_nhiên , trang mà người dùng được chuyển đến là trang giả_mạo và một phần_mềm keylogger sẽ được cài_đặt lên máy_tính người dùng thông_qua lỗi bảo_mật từ Internet_Explorer ( IE ) .
+Các hacker tận_dụng lỗi bảo_mật mới nhất từ trình_duyệt Microsoft_Internet_Explorer ( Tuổi_Trẻ_Online đưa tin ngày 29-3-2006 ) để thực_thi các đoạn mã độc làm ảnh_hưởng đến máy_tính của nạn_nhân . Lỗi đã được Hãng bảo_mật e Eye_Digital cung_cấp bản vá lỗi tạm_thời .
+Hãng_Secunia cũng khuyến_cáo người dùng tắt chức_năng hỗ_trợ script ( ActiveX ) trong trình_duyệt Internet_Explorer . Người dùng có_thể tắt chức_năng này bằng cách : trên menu trình_duyệt Internet_Explorer , chọn Tools - Internet_Options , chọn thẻ Security , sau đó chọn Custom_Level để Disable_Active X .
+THANH_TRỰC ( tổng_hợp )

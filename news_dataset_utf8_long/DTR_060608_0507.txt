@@ -1,0 +1,8 @@
+﻿Sử dụng Gmail trong Outlook Express
+
+Bạn muốn nhận thư từ Gmail trong hòm thư Outlook Express (OE)? Rất đơn giản, chỉ cần làm theo các thao tác sau đây là “ngon lành” ngay. 
+ Khi kích hoạt OE khởi động xong, vào menu “Tool” -&gt; chọn “Accounts”. Khi giao diện “Internet Account” hiện ra -&gt; nhấn vào nút “Add” và chọn “Mail” -&gt; Nhập vào tên của bạn ở ô “Display Name” và nhấn Next -&gt; Nhập vào địa chỉ Gmail của bạn ở ô “E-mail address” và nhấn Next -&gt; Ở ô “Incoming Server” bạn điền vào “pop.gmail.com” và ở ô “Outgoing Server” bạn điền vào “smtp.gmail.com” và nhấn Next -&gt; Đặt một tên nào đó của bạn ở ô “Account Name” hoặc giữ nguyên cũng được, sau đó điền password hộp thư vào ô “Password”, nếu muốn OE nhớ luôn password này thì check vào ô “Remember Password” -&gt; Nhấn Next và Finish để hoàn tất và thoát ra giao diện “Internet Accounts”. 
+Thiết lập thông số 995 vào Incomming mail (POP3). 
+Thật ra lúc này hộp thư Gmail của bạn vẫn chưa hoạt động được vì bạn vẫn còn phải thiết lập thông số tiếp nhận POP3 cho OE. Cách làm như sau: Nhấp đúp vào ký hiệu tài khoản pop.gmail.com (hoặc chọn nó rồi nhấn nút Properties) để hiện ra giao diện “pop.gmail.com Properties” -&gt; chọn thẻ “Advanced” -&gt; OE thiết lập mặc định thông số “Incomming mail (POP3)” là 110 nhưng thông số này không làm việc được với Gmail, bạn phải đổi thông số này thành 995, sau đó nhấn “Apply” và OK để hoàn tất. Nếu thông số 995 không hiệu quả thì bạn có thể đổi thành thông số khác là 587. Qua thử nghiệm vừa tiến hành thì OE nhận email rất tốt với thông số 995. 
+Sau khi hoàn tất mọi việc nhập thông số, bạn nhấn "Close" để thoát khỏi giao diện "Internet Accounts" và nhấn vào nút " Send/Revc" để bắt đầu tải e-mail về OE của mình. 
+Theo Thiên Trang Tuổi trẻ

@@ -1,0 +1,35 @@
+﻿ Hướng_dẫn sử_dụng chuyên_trang Việc_Làm_Online
+Bước 1 : Tạo tài_khoản tuyển_dụng :
+- Bấm vào đây để đăng_kí mới . - Điền các thông_tin như được yêu_cầu và bấm nút “ đăng_kí ” . - Chờ admin kích_hoạt tài_khoản của mình trong vòng tối_đa 24 tiếng .
+Bước 2 : Đăng tin tuyển_dụng :
+Nhà tuyển_dụng lưu_ý :
+- Mục " điện_thoại " của công_ty : chỉ nên ghi số điện_thoại của công_ty , không ghi số điện_thoại cá_nhân
+- Mục logo : cần browse logo có kích_thước chuẩn là 70 x 50 pixels , định_dạng : file jpg .
+- Mục website : nếu công_ty có website , điền tên trang_web ngay sau dãy " http : / / " . Nếu công_ty không có website , xóa luôn phần chữ " http : / / " và để trống mục website
+- Mục_Mô tả về công_ty : chỉ mô_tả về quy_mô , lĩnh_vực họat_động của công_ty . Không ghi mô_tả về yêu_cầu tuyển_dụng , vị_trí tuyển_dụng trong phần này .
+- Yêu_cầu khi điền thông_tin : điền đầy_đủ các thông_tin được yêu_cầu , chú_ý đến các lỗi chính_tả . Nếu một phần đăng_kí chứa quá nhiều lỗi chính_tả thì sẽ không được chấp_nhận .
+- Vào lại trang Việc_Làm_Online , “ đăng_nhập ” bằng tài_khoản đã đăng_kí , click chọn “ Đăng tin tuyển_dụng ” . - Nhập các thông_tin về nhu_cầu tuyển_dụng được yêu_cầu và bấm nút “ cập_nhật ” . - Chờ admin cập_nhật thông_tin tuyển_dụng trong vòng tối_đa 24 tiếng . Nếu tài_khoản được chấp_thuận , nó sẽ tự_động được kích_họat và bạn có_thể login vào để sử_dụng sau 24g . Nếu tài_khoản bị từ_chối , admin sẽ gửi một email thông_báo đến email đã đăng_kí . Sau khi duyệt , tin tuyển_dụng sẽ được hiển_thị trên trang Việc_Làm_Online . - Sửa lại thông_tin tuyển_dụng ( nếu cần ) bằng cách chọn “ Xem các tin tuyển_dụng của công_ty ” , chọn tin tuyển_dụng muốn sửa và click vào “ Sửa ” - Tiếp_tục chọn “ Đăng tin tuyển_dụng ” để nhập thông_tin tuyển_dụng mới .
+Bước 3 : Chỉnh_sửa thông_tin công_ty
+- Nếu muốn sửa lại thông_tin giới_thiệu về công_ty , login vào tài_khoản , chọn " Sửa thông_tin của công_ty " . - Chỉnh_sửa các thông_tin cần_thiết và bấm " cập_nhật " .
+2 . Để tìm hồ_sơ ứng_viên :
+Bước 1 : Chọn mục " Tìm ứng_viên " trong phần dành cho " Nhà tuyển_dụng " .
+Bước 2 : Nhập các tiêu_chí cần tìm ( lĩnh_vực công_việc , nơi làm_việc ) , hoặc click vào " tìm_kiếm nâng cao " để tìm_kiếm được chi_tiết hơn .
+Hướng_dẫn dành cho ứng_viên
+1 . Để đăng hồ_sơ ứng_tuyển lên trang :
+Bước 1 : Bấm vào đây để đăng_kí mới .
+Bước 2 : Điền các thông_tin như được yêu_cầu
+Bước 3 : Chờ admin kích_hoạt tài_khoản trong vòng tối_đa 24 tiếng . Nếu tài_khoản được chấp_thuận , nó sẽ tự_động được kích_hoạt và thông_tin ứng_tuyển của bạn sẽ được đăng lên trang . Nếu tài_khoản bị từ_chối , admin sẽ gửi thông_báo đến email đã đăng_kí .
+Bước 4 : Chỉnh_sửa , cập_nhật thông_tin cá_nhân : sau khi tài_khoản được kích_hoạt , login vào tài_khoản của mình bằng username và password đã đăng_kí . Khi đã login vào tài_khoản , bạn có_thể kiểm_tra lại thông_tin của mình và sửa_chữa nếu thấy cần_thiết .
+Bước 5 : ( Nếu bạn chọn đăng hồ_sơ đặc_biệt ) Thường_xuyên vào kiểm_tra tài_khoản của mình để cập_nhật việc bỏ bớt / giới_hạn các công_ty có_thể xem hồ_sơ của mình .
+Ứng_viên lưu_ý :
+1 . Khi điền thông_tin vào hồ_sơ tự giới_thiệu :
+- Kiểm_tra lại hồ_sơ trước khi bấm nút " đăng_ký " để tránh tối_đa các lỗi chính_tả , font chữ . Một hồ_sơ quá nhiều lỗi chính_tả sẽ không được duyệt đăng . - Điền đầy_đủ , chi_tiết nhất có_thể các ô thông_tin đựơc yêu_cầu . Các hồ_sơ quá sơ_sài , thiếu thông_tin sẽ không thu_hút được sự chú_ý của nhà tuyển_dụng . - Nếu đăng ảnh , nên chọn ảnh thẻ , tuyệt_đối tránh ảnh chân_dung nghệ_thuật , ảnh chụp từ webcam ...
+2 . Khi gửi thư ứng_tuyển cho nhà tuyển_dụng :
+- Phần_Tiêu đề thư : ghi rõ vị_trí mình muốn ứng_tuyển nhằm giúp nhà tuyển_dụng lọc hồ_sơ dễ_dàng . - Phần_Email của tôi : nhập email của bạn vào ô này , nếu_không nhà tuyển_dụng rất khó trong việc hồi_âm email cho bạn . - Khi đính kèm các tập_tin , nhớ click vào nút " add " trước khi gửi đi . Nếu_không , toàn_bộ các tập_tin đính kèm sẽ không được chuyển tới email của nhà tuyển_dụng .
+2 . Để tìm các tin tuyển_dụng phù_hợp :
+- Cách 1 : click chọn lĩnh_vực mà mình muốn tìm_kiếm công_việc . VD : Xuất / Nhập_Khẩu , hoặc Kế_toán / Tài_chính / Ngân_hàng .
+- Cách 2 : sử_dụng công_cụ tìm_kiếm " tìm việc nhanh " .
+3 . Để nộp hồ_sơ cho 1 tin tuyển_dụng đã đăng trên trang Việc_Làm_Online :
+- Click vào " nộp hồ_sơ " ở cuối mỗi tin tuyển_dụng . - Điền chức_danh công_việc dự_định ứng_tuyển vào vị_trí " Tiêu_đề " . - Điền_địa chỉ email của mình vào " Email của tôi " . - Nếu attach CV hoặc thư xin việc : sau khi đã browse để chọn file xong , hãy nhớ click vào nút " Add " . - Click " gửi email " để gửi email đi .
+Chúc các bạn thành_công !
+Việc_Làm_Online

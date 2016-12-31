@@ -1,0 +1,27 @@
+﻿ Bộ công_cụ chẩn_đoán lỗi ổ_cứng ( Phần cuối )
+Data_Lifeguard v11 bao_gồm cả 2 phiên_bản : dành cho DOS và Windows được thiết_kế để cài_đặt cho các ổ_cứng EIDE của Western_Digital . Nếu máy_tính của bạn đã cài_đặt ổ_cứng với hệ_điều_hành Windows 98 hay cao hơn thì bạn nên sử_dụng phiên_bản Data_Life Guard dành cho Windows để có hiệu xuất cao hơn . Phiên_bản dành cho DOS chỉ sử_dụng khi bạn lắp_đặt mới máy_tính của bạn mà chưa cài_đặt hệ_điều_hành .
+2 . DLG Diagnostic
+DLG Diagnostic cho_phép bạn kiểm_tra lỗi ổ_cứng , in ra kết_quả , sửa lỗi nếu có . Để sử_dụng tiện_ích này , bạn tải về tại đây . Sau khi tải về , bạn chỉ cần thực_thi tập_tin “ DLGDiagv504c.exe ” và tiện_ích sẽ hướng_dẫn bạn tạo đĩa boot kiểm_tra cho mình .
+DLG Diagnostic 5.04c hoạt_động trên hầu_hết phiên_bản HĐH Windows 98 , 98SE , ME , 2000 , XP . Người dung có_thể tìm_hiểu thêm về cách sử_dụng DLG Diagnostic tại đây .
+3 . DLGDIAG cho Windows
+Data_Life Guard_Diagnostic for Windows 1.02 , đây là phiên_bản dành cho Windows của Data_Life Guard . Tiện_ích có_thể giúp xác_định ổ_cứng , phân_tích , sửa lỗi trên một ổ_cứng Western_Digital_Fire Wire , EIDE , hay ổ USB . Ngoài_ra , tiện_ích còn có_thể cung_cấp cho bạn số serial và model của ổ_đĩa cho bạn .
+Ngoài những công_cụ tiện_ích cho ổ_cứng , Western_Digital cũng có một_vài bộ công_cụ , hỗ_trợ cho các Card_Reader , Controller_Card … mà tôi giới_thiệu với bạn bên dưới đây :
+Media_Center_Tools
+- Media_Center / Dual-Option Backup USB Driver_Update for Windows ME
+- Media_Center_Driver_Update for Windows XP v11 . 8
+Card_Reader_Drivers
+Card_Reader_Driver_Update for Windows 2000
+Controller_Card_Drivers & amp ; Software
+- Promise_Ultra TX2 Windows_Driver 2.0.0210.36
+- SIIG Serial ATA Controller_Windows_Driver
+- Serial ATA_RAID Controller_Drivers
+Combo/USB/Firewire
+- External_Combo_Fire Wire/USB 2.0 Driver for 98SE
+- Series II_USB 2.0 Hard_Drive for 98SE
+- Series I_USB 2.0 Hard_Drive for 98SE
+- Essentials USB Driver
+- Spindown or Stop_Utility for External_Drives v1.00
+EIDE_RAID Utility
+- IDE_RAID Upgrade - 3Ware v1.07
+- IDE_RAID Upgrade - non-3Ware v1.07
+TRẦN_THANH_TRỰC

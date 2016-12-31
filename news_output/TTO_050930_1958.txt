@@ -1,0 +1,5 @@
+﻿ Chó robot AIBO biết trò_chuyện với người
+Chú chó đặc_biệt này hơi giống một chú chó_săn thỏ với đôi tai mềm nhẹ . Nó có_thể nói khoảng 1.000 cụm_từ phù_hợp với “ ngữ_cảnh ” nhằm làm vui_lòng chủ_nhân và khiến cho người chủ phải vuốt_ve nó . Giống như một chú chó bằng xương bằng thịt , AIBO cũng biết gãi tai bằng chân sau , há miệng và gừ nhẹ khi được vuốt_ve . AIBO biết tự sạc pin khi nó cảm_thấy “ đói ” .
+AIBO lưu_giữ một sổ nhật_ký bằng cách sử_dụng các hình_ảnh mà nó ghi_nhận được thông_qua camera . Chủ_nhân của chú robot này có_thể liếc nhìn lịch ghi_chép trong ngày , đọc những lời “ bình_luận ” của chú .
+Hãng_Sony bắt_đầu nhận đơn đặt_hàng chú chó robot này vào hôm_qua 29-9 tại Nhật , với giá theo nhãn là 194.250 yên ( 1.720 USD ) . Hãng này đã bán 150.000 chú AIBO kể từ đợt sản_xuất đầu_tiên vào năm 1999 như_là robot giải_trí đầu_tiên trên thế_giới .
+T.VY ( Theo physorg )

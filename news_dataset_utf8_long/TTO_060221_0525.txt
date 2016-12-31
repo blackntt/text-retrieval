@@ -1,0 +1,16 @@
+﻿Kỹ sư Dương Quang Thiện và bộ sách tâm huyết
+
+Nhưng không chỉ là một mạnh thường quân nổi tiếng, kỹ sư Dương Quang Thiện (tốt nghiệp kỹ sư điện tử tại Đại học Bordeaux năm 1961, là người VN đầu tiên được IBM tuyển vào làm kỹ sư tin học) còn là tác giả nổi tiếng chuyên về sách tin học. 
+Trong gần 50 đầu sách đã xuất bản, bộ sách .Net toàn tập mà ông tâm đắc nhất vừa phát hành đã được rất nhiều độc giả quan tâm. Tuổi Trẻ có cuộc trao đổi ngắn với ông. 
+Ông có thể cho bạn đọc biết rõ thêm về bộ sách này? 
+- Đây là bộ sách tự học toàn diện về .Net và C#, gồm tám tập. Sáu quyển lý thuyết đã ra mắt, còn hai quyển thực hành cũng sắp xuất bản. C# là ngôn ngữ lập trình còn mới mẻ ở VN. Ở ta chỉ mới có một vài người viết về ngôn ngữ lập trình này nhưng còn rất sơ sài. Tôi muốn qua bộ sách này trình bày cặn kẽ công nghệ .Net từ căn bản đến chuyên sâu, giúp người tự học nắm vững công nghệ lập trình mạnh nhất của Microsoft. 
+Nhưng bộ sách này đã là tâm huyết cuối cùng của ông chưa, thưa ông? 
+- Năm nay tôi cũng đã 73 tuổi rồi, tôi còn một bộ sách cuối cùng đang thực hiện là bộ sách Phân tích và thiết kế hệ thống thông tin trong quản trị xí nghiệp , hi vọng cuối năm tới sẽ ra mắt. Bộ sách gồm năm cuốn, tôi nghĩ là sẽ cần cho sinh viên ra trường muốn ứng dụng tin học vào trong hệ thống quản trị xí nghiệp. 
+Ông nghĩ gì về lợi ích mà bộ sách mang lại đối với hệ thống quản lý hiện nay ở các xí nghiệp? 
+- Quản lý hiện nay là quản lý kiểu tản quyền, chia theo từng chức năng nhưng không có kiểm soát. Kiểu quản lý “12 sứ quân” khiến ở trên chờ ở dưới báo cáo, còn ở dưới có khi báo cáo láo. Máy tính ở ta được dùng như máy đánh chữ, trong khi máy tính rất quan trọng trong việc phân quyền và tập trung trong quản lý. Nếu thông qua hệ thống mạng, tất cả thông tin đều được đưa vào một cơ sở dữ liệu, chúng ta sẽ quản lý rất tốt. Thông tin là tài sản của xí nghiệp. 
+Ông có nhớ được mình đã trao bao nhiêu học bổng và xây bao nhiêu trường học không? Điều gì đã thôi thúc ông bà trong suốt 17 năm liên tục bỏ tiền riêng làm việc này, thưa ông? 
+- (Quay sang hỏi bà Agnes) Không thể nhớ được! Chỉ biết là sau khi trở về VN, suốt từ năm 1989 đến nay chúng tôi đã hỗ trợ các em học sinh nghèo, xây trường học ở TP.HCM và ở các tỉnh thành như Huế, Đà Nẵng, Quảng Ngãi, Quảng Nam, Sơn La, Cà Mau, Đồng Nai, Bình Dương, Bình Phước..., xây nhà cho giáo viên ở Quảng Trị, Bình Định... 
+Riêng năm ngoái chúng tôi chỉ trao được 75 học bổng cho sinh viên Đại học An Giang trong chương trình “Vì ngày mai phát triển” của báo Tuổi Trẻ (ông bà Dương Quang Thiện đã trao học bổng cho SV An Giang suốt năm năm nay - PV) vì năm ngoái tiền bán sách không nhiều. 
+Bà nhà tôi trước đây là giáo viên nữ công gia chánh ở Thụy Sĩ. Tiền lương hưu của bà và tiền bán sách của tôi đóng góp vào các công việc này xem như “lấy giáo dục nuôi giáo dục”. Xây dựng đất nước phải cần người tài, tôi mong muốn tất cả chúng ta cùng đem kiến thức ra giúp nước, chỉ đơn giản là vậy.
+
+LINH THOẠI thực hiện

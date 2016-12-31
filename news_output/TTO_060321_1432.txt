@@ -1,0 +1,37 @@
+﻿ Xóa dữ_liệu triệt_để bằng cách nào ?
+Cảnh_báo khi xóa dữ_liệu
+Hầu_hết người dùng hiện_nay đều dùng lệnh “ Delete ” trong Windows để xóa dữ_liệu . “ Chắc_ăn ” hơn , họ còn vào Recycle_Bin để “ Empty ” nó đi một lần nữa và tin_tưởng rằng dữ_liệu đã xóa coi như_không còn tồn_tại trên đời . Một_số người dùng “ am_hiểu ” hơn còn biết xóa dữ_liệu “ triệt_để ” bằng cách vào DOS để format lại ổ_đĩa , hoặc xóa trực_tiếp trong DOS bằng một công_cụ nào_đó … Tiếc rằng chỉ với vài thao_tác là những dữ_liệu đó có_thể hoàn_toàn được phục_hồi nguyên_xi .
+Dữ_liệu riêng_tư của người dùng , dữ_liệu mật của công_ty … đều có_thể bị lộ vì sự thiếu hiểu_biết thấu_đáo , nhất_là trong các trường_hợp trả lại máy_tính đã thuê , vứt đi hay tặng lại máy_tính cũ , chuyển máy_tính cho người mới sử_dụng , đem đĩa_cứng đi bảo_hành , cho mượn thẻ nhớ Flash v . v
+Có rất nhiều trường_hợp bạn rất cần xóa “ sạch_sành_sanh ” dữ_liệu , chẳng_hạn như xóa dữ_liệu đã chép tạm từ đĩa_cứng này sang đĩa_cứng khác , xóa dữ_liệu đã bị nhiễm virus , xóa hoặc format đĩa_cứng để cài_đặt lại hệ_điều_hành mới , xóa đi mọi thư_từ , hình_ảnh riêng_tư v . v Nhưng tiếc rằng nếu những đĩa_cứng hoặc thẻ nhớ flash này lọt được vào tay những “ cao_thủ ” thì những dữ_liệu đã xóa của bạn hều hết đều ở tình_trạng “ mời cụ xơi ” .
+Delete hay format không hoàn_toàn xóa sạch được dữ_liệu !
+Đa_số người dùng đều không biết rằng Windows và mọi ứng_dụng chạy trên nó đều có “ thói_quen ” tạo ra nhiều tập_tin dữ_liệu có nội_dung hệt như dữ_liệu mà người dùng đang thao_tác và lưu_trữ vào Swap_Files và Page_Files để hỗ_trợ bộ_nhớ ảo , hoặc sao lại thành một phiên_bản khác để lưu vào Temp hay Temporary_Files … Tất_cả mọi động_tác này của Windows đều nhằm mục_đích bảo_tồn dữ_liệu của người dùng trong trường_hợp mất điện đột_ngột , hoặc người dùng lơ_đãng quên lưu dữ_liệu … nhưng thật_ra đây là hành_động có tính “ bất_cẩn ” của
+Windows khi tự_động sao_chép dữ_liệu ra làm nhiều bản mà_lại không biết tự_động xóa đi khi đã dùng xong . Đây được xem là một lỗ hở cực lớn , tạo điều_kiện “ tối_ưu ” cho những kẻ ăn_cắp dữ_liệu hoạt_động . Và như_vậy , dù người dùng có xóa đi dữ_liệu và “ Emply_Recycle_Bin ” , hoặc format lại một phân_vùng đĩa_cứng nào_đó thì những dữ_liệu đã từng lưu trên đó vẫn có_thể còn nằm nguyên_vẹn đâu_đó trong Windows , chưa kể hiện_nay có rất nhiều công_cụ phục_hồi dữ_liệu cực mạnh có khả_năng phục_hồi lại mọi dữ_liệu bất_chấp phân_vùng đĩa_cứng đó đã được format tới vài lần .
+Thực_chất rằng với lệnh Delete , người dùng chỉ xóa đường_dẫn đến dữ_liệu chứ chưa xóa sạch thông_tin ra khỏi đĩa_cứng , điều này giống như bạn chỉ bỏ trang mục_lục của một cuốn sách mà chưa hủy những trang hay chương sách tương_ứng .
+Lệnh_Delete này chỉ được xem là lệnh “ làm gọn ” lại đĩa_cứng bằng mắt thường chứ không có tác_dụng “ delete ” thực_sự , nên đổi lệnh Delete lại thành “ Tidy ” ( gọn_gàng ) có_lẽ phù_hợp hơn .
+Một_số phương_pháp hoặc tiện_ích giúp xóa sạch dữ_liệu !
+Để bảo_mật thông_tin các dự_án , thông_báo nội_bộ , số_liệu tài_chính - kế_toán , dữ_liệu khách_hàng , dữ_liệu cá_nhân v . v ... bạn cần biết đến những phương_pháp hoặc phần_mềm xóa sạch dữ_liệu đáng tin_cậy . Hiện trên thế_giới đang sử_dụng phổ_biến một_số phương_pháp xóa dữ_liệu an_toàn như sau :
+1 . Single_Pass ( xóa 1 lần ) : toàn_bộ khu_vực DL trên ổ_cứng được ghi đè ( overwrite ) bằng kí_tự 0 hoặc 1 hoặc dữ_liệu ngẫu_nhiên . .
+2 . DoD : Phương_pháp xóa dữ_liệu triệt_để này là của Bộ Quốc_Phòng_Mỹ . Đây là biến_thể của phương_pháp Single_Pass với số lần ghi đè là 7 , trong đó luân_phiên ghi đè bằng ký_tự 0 hoặc 1 hay dữ_liệu ngẫu_nhiên . Tiếp đó , theo tài_liệu hướng_dẫn 5220.22 M , có tên là Chương_trình bảo_mật công_nghiệp quốc_gia ( NISPOM ) của Bộ_quốc_phòng Mỹ . Theo tài_liệu này , để tẩy sạch dữ_liệu trên đĩa phải kết_hợp với các biện_pháp sau :
+- Khử từ : dùng từ_trường để tái_lập lại các thanh từ trong thiết_bị bằng thiết_bị khử từ_loại I hay II
+- Ghi đè mọi địa_chỉ trên ổ_cứng bằng 1 ký_tự , kể_cả các thành_phần liên_quan , rồi tiếp_tục ghi đè bằng ký_tự ngẫu_nhiên và kiểm_tra xác_nhận . Tuy_nhiên , BQP Mỹ cũng lưu_ý rằng phương_pháp này không dùng để xóa dữ_liệu lưu_trữ thông_tin tuyệt_mật
+- Hủy thiết_bị lưu_trữ thông_tin , bao_gồm tháo rã mọi thành_phần của thiết_bị lưu_trữ , đốt hủy , nghiền thành bột , cắt vụn , hoặc làm tan chảy bằng nhiệt_độ cao .
+3 . Tẩy sạch dữ_liệu bằng phương_pháp Guttman : dữ_liệu được xóa bằng phương_pháp này được ghi đè đến những 35 lần . Phương_pháp này dùng ký_tự ngẫu_nhiên để ghi đè và áp_dụng các thuật_toán mã_hóa của nhiều hãng sản_xuất đĩa_cứng khác_nhau …
+4 . Phương_pháp hủy dữ_liệu bằng cách ghi đè tùy chọn từ 1 đến 99 lần .
+Ngoài_ra còn khá nhiều phương_pháp tẩy sạch dữ_liệu do các tổ_chức và quốc_gia khác_nhau đưa ra .
+Qua việc tham_khảo các phương_pháp tẩy sạch dữ_liệu như trên ta cảm_giác rằng dường_như chỉ có hai cách duy_nhất để xóa sạch dữ_liệu là ghi đè và phá_hủy theo kiểu “ tận_diệt ” , nhưng rõ_ràng “ tận_diệt ” là phương_pháp mà ít ai dám làm_vì quá tốn_kém .
+Người dùng cần lưu_ý rằng ngay cả chuyên_gia Peter_Guttman , cha_đẻ của phương_pháp Guttman cũng đã nhận_định rằng : ” Không_thể xóa sạch 100 % dữ_liệu dù có ghi đè lên bao_nhiêu lần đi_nữa … ” Như_vậy chúng_ta chỉ có_thể giảm_thiểu nguy_cơ phục_hồi được dữ_liệu bằng cách ghi đè lên thật nhiều lần mà thôi … Người dùng có_thể vào đây để tham_khảo về “ Recover_My_Files ” , một công_cụ phục_hồi dữ_liệu cực_kỳ hiệu_quả , bất_chấp dữ_liệu đã được Delete hoặc Format .
+Hiện_nay , hầu_hết các phần_mềm hỗ_trợ tẩy sạch dữ_liệu chạy trên nền DOS tỏ ra hiệu_quả hơn những phần_mềm chạy trên Windows , nhưng nó lại tỏ ra kém thân_thiện với người dùng . Nhưng có_lẽ việc hỗ_trợ xóa dữ_liệu mật nên dành cho bộ_phận CNTT trong doanh_nghiệp hoặc cơ_quan .
+Dưới đây là một_vài Website cung_cấp các giải_pháp xóa sạch dữ_liệu tương_đối hiệu_quả . Người dùng có_thể vào các website này để tham_khảo và tải bản dùng thử về dùng trước khi chọn cho mình một công_cụ đắc_địa nhất .
+BCWipe : http : / / www.jetico.com/index.htm # / bcwipe.htm
+Data_Eraser : http : / / www.ontrack.co.uk
+Directory_Snoop : http : / / www.briggsoft.com/dsnoop.htm
+Disk_Clean Up : http : / / www.gregorybraun.com/CleanUp.html
+Eraser : http : / / www.tolvanen.com/eraser
+M-Sweep : http : / / www.securedata.com/ms.html
+PGP Wipe : http : / / web.mit.edu/network/pgp.html
+RMD : http : / / www.dmares.com/maresware/ps.htm # RM
+WipePro + : http : / / www.marcompress.com
+Wipe_Info : http : / / www.symantec.com
+With_Out a Trace : http : / / www.karmadromesoft.com
+Nova_Drive_Erase_Pro : http : / / www.novadevelopment.com .
+HOÀNG_KIM_ANH ( Tổng_hợp )

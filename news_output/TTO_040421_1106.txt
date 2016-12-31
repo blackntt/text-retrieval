@@ -1,0 +1,8 @@
+﻿ Chuyển file ghi_âm bằng điện_thoại_di_động sang file wav
+Nó đặc_biệt hữu_ích khi tín_hiệu bạn ghi_âm được quá yếu , không_thể nghe rõ bằng điện_thoại được . Lúc này bạn sẽ dùng phần_mềm VMO2WAV chuyển thành tập_tin dạng . wav , tiếp đó dùng các phần_mềm biên_tập âm_thanh ( ví_dụ như Cool_Edit_Pro 2.0 chẳng_hạn ) chỉnh_sửa lại để có_thể nghe được rõ_ràng .
+Phần_mềm này tương_thích với mọi phiên_bản của Windows : 95/98/Me/2000/XP , và đặc_biệt là bạn có_thể sử_dụng được trong MS-DOS .
+Cách sử_dụng : Copy tập_tin có định_dạng . vmo vào cùng thư_mục với tập_tin vmo 2wav.exe
+- Trong MS-DOS : Vào thư_mục chứa tập_tin vmo 2wav.exe và gõ lệnh vmo 2wav filename.vmo ( ở đây “ filename ” là tên của tập_tin Voice_Memo ) .
+- Trong_Windows : Chọn_Start & gt ; Run & gt ; Browse . Tìm đến thư_mục chứa tập_tin vmo 2wav.exe , chọn tập_tin đó . Trong hàng lệnh Open , gõ cách một khoảng trắng sau chữ vmo 2wav.exe rồi gõ vào đầy_đủ tên tập_tin Voice_Memo ( có cả phần mở_rộng . vmo ) & gt ; OK . ( Ví_dụ : D : \ Downloads \ vmo2wav.exe filename.vmo )
+Để thuận_tiện cho việc thực_hiện , bạn có_thể copy tập_tin vmo 2wav.exe vào thư_mục Windows . Sau_này , khi cần chuyển_đổi tập_tin Voice_Memo nào , bạn cứ_việc copy tập_tin đó vào thư_mục Windows , sau đó chọn Start & gt ; Run , gõ vào vmo 2wav filename.vmo . Theo mặc_định , phần_mềm này sẽ tự_động chuẩn_hóa lại mức_độ tín_hiệu . Để loại_bỏ tính_năng này , bạn gõ thêm tham_số - n vào dòng lệnh : vmo2wav - n filename . vmo .
+Theo LBVMVT

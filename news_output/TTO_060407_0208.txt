@@ -1,0 +1,5 @@
+﻿ Điện_thoại băng rộng
+Theo OCI , đây là dịch_vụ điện_thoại quốc_tế băng rộng giúp khách_hàng có_thể giữ nguyên thói_quen sử_dụng điện_thoại để bàn truyền_thống gọi quốc_tế với chất_lượng không đổi mà chi_phí tiết_kiệm được hơn 80% so với các cách gọi thông_thường ( IDD , VoIP ) .
+Để sử_dụng bạn chỉ cần có kết_nối Internet băng rộng ( ADSL , Leased_Line , Cable_Modem … ) của bất_kỳ nhà_cung_cấp nào và đăng_ký thuê_bao dịch_vụ B-Fone ( phí thuê_bao : 27.000 đồng/tháng , chưa bao_gồm thuế VAT ) ; phí khởi tạo : 99 USD ( chưa bao_gồm VAT 10% ) . Thiết_bị : miễn_phí ( do Cisco cung_cấp và được bảo_hành 1 năm ) .
+Cách dùng điện_thoại bàn để thực_hiện cuộc_gọi : 00 + Số cần gọi ( Mã nước + Mã vùng + Số thuê_bao ) . Trong trường_hợp thực_hiện cuộc_gọi từ máy nhánh trong tổng_đài nội_bộ : Số trung kế + 00 + Số cần gọi ( Mã nước + Mã vùng + Số thuê_bao ) . ĐT liên_lạc : ( 84 - 8 ) 8239123 .
+PV

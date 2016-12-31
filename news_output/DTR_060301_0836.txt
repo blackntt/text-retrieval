@@ -1,0 +1,8 @@
+﻿ AMD lại " khẩu_chiến " với Intel
+Hãng sản_xuất thiết_bị xử_lý lớn thứ_hai thế_giới đánh_giá thấp những tuyên_bố của Intel về khả_năng hoạt_động trong dòng chip thế_hệ mới Conroe và Merom .
+Trước đó , Mooley_Eden , Giám_đốc nền_tảng di_động Intel , khẳng_định những phiên_bản chip được giới_thiệu vào nửa sau 2006 của họ sẽ có mức vận_hành cao hơn 20% so với sản_phẩm của AMD được ra_mắt cùng thời_điểm .
+" Intel đưa ra những so_sánh này đơn_giản vì họ không_thể bàn về thiết_bị xử_lý đang có_mặt trên thị_trường . Ai cũng hiểu sản_phẩm hiện_nay của họ không tốt chút nào " , Henri_Richard , Giám_đốc thị_trường của AMD , nhận_xét .
+Conroe và Merom là chip cho máy_để_bàn và máy_tính_xách_tay đầu_tiên sử_dụng vi kiến_trúc thế_hệ mới ( NGMA ) của Intel . Trong mỗi chu_kỳ đồng_hồ , chip NGMA có_thể xử_lý nhiều lệnh hơn so với những sản_phẩm trước đó nhờ bộ_nhớ đệm lớn ( 4 MB ) và giải_pháp điều hướng các lệnh thông_minh qua bộ_xử_lý_trung_tâm ( CPU ) .
+Trong khi đó , Richard cho rằng chip NGMA tất_nhiên ưu_việt hơn chip dựa trên cấu_trúc Netburst cũ của Intel , nhưng chưa đủ để vượt qua công_nghệ của AMD . Hơn_nữa , AMD đang tập_trung phát_triển công_nghệ chip mới mang tên AM2 , hỗ_trợ DDR2 .
+Richard cũng khẳng_định việc tích_hợp bộ điều_chỉnh bộ_nhớ là điều cần_thiết bởi nó cho_phép đường kết_nối giữa vi_xử_lý và bộ_nhớ có_thể hoạt_động với tốc_độ nhanh hơn FSB trong chip của Intel .
+Theo T . N . VnExpress/CNet

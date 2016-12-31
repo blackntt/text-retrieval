@@ -1,0 +1,11 @@
+﻿ Đánh_máy bằng ... ý_nghĩ
+Loại mũ điện_cực truyền_thống cần rất nhiều dây rợ nối với máy_tính Một loại máy_chữ được vi_tính hoá , có khả_năng biến các xung_điện trong não người thành những ký_tự và từ có_thể sẽ xuất_hiện trên thị_trường trong 5 năm tới .
+Trước_mắt , công_nghệ này sẽ cho_phép những nhà_chế_tạo ( từ Viện_Fraunhofer và Bệnh_viện Charrité ở Berlin , Đức ) xem_xét chức_năng ứng_xử và suy_nghĩ của não trong thế_giới thực .
+Về lâu_dài , một thiết_bị tương_tác máy - não như_vậy có_thể thay_thế cho cần điều_khiển trong các trò đánh_bạc điện_tử hoặc đóng vai_trò như một công_cụ giao_tiếp cho những người bị câm hoặc bại_liệt .
+" Chúng_tôi đang hình_dung về một thứ giống như cái mũ đội đầu với các điện_cực gắn bên trong , có_thể đo được sóng não " , thành_viên của nhóm nghiên_cứu - Klaus-Robert Mueller - từ Viện_Fraunhofer tiết_lộ .
+" Người dùng sẽ chỉ việc đội mũ vào , có một kết_nối không dây từ các điện_cực này đến một máy_tính và họ có_thể chơi game ở đó " .
+Để thực_hiện được_việc này , nhóm nghiên_cứu cần cải_tiến công_nghệ điện_cực , sao cho các sensor kim_loại tí_hon sẽ thu được tín_hiệu điện_từ hoạt_động não mà không cần tiếp_xúc với da đầu .
+Hiện_tại , họ vẫn hơi lúng_túng trước loại mũ điện_cực kiểu truyền_thống , trông khá giống mũ bơi với 64-128 điểm tiếp_xúc và một mớ dây rợ nối với máy_tính . Điểm vượt_trội của họ là phần_mềm .
+Trong khi những dự_án nghiên_cứu khác có_thể buộc người dùng phải thực_hành đến 100 giờ trước khi hoàn_tất việc kiểm_tra , thì hệ_thống của Fraunhofer chỉ mất 5 phút .
+Trong quá_trình kiểm_tra , người dùng sẽ tưởng_tượng đang cử_động tay_phải hoặc tay_trái . Tín_hiệu não báo về điện_cực sẽ được xử_lý trong một chương_trình máy_tính đặc_biệt , giúp lọc bỏ những tín_hiệu từ các suy_nghĩ không có liên_quan tới việc cử_động và định_vị những hoạt_động não chịu trách_nhiệm về những liên_tưởng tới cử_động . Một_khi người dùng đã được đồng_bộ với máy_tính , anh_ta có_thể hình_dung đang cử_động chân , tay hoặc đang quay một vật_thể để kích_hoạt một hành_động trên màn_hình .
+Theo VNExpress

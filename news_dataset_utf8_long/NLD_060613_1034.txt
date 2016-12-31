@@ -1,0 +1,11 @@
+﻿Ứng dụng chơi MP3 nhỏ nhất thế giới
+
+Hiện đã có đến hàng trăm chương trình chơi nhạc số trên máy tính nhưng nếu bạn muốn độc đáo và khác người một chút thì hãy thử sử dụng chương trình chơi nhạc số mang tên “1by1” được cho là chương trình chơi nhạc số nhỏ nhất thế giới hiện nay, với dung lượng chỉ khoảng 56 KB.
+Tuy nhỏ xíu như thế nhưng “1by1 - The Directory Player” cũng có thể chơi nhạc số ngon lành như biết bao chương trình khác với đầy đủ các nút chức năng. Cái đặc thù của 1by1 là bạn có thể chép nó vào thẻ nhớ để chơi trên bất kỳ máy tính nào mà không cần cài đặt nhiêu khê. 
+Khi kích hoạt xong 1by1, bạn chỉ cần click vào “Driver” để 1by1 liệt kê ra toàn bộ số đĩa cứng trên máy tính -&gt; tìm đến thư mục chứa file nhạc số để 1by1 liệt kê ra toàn bộ số bài nhạc số có trong thư mục và nhấn nút “Play” để 1by1 lần lượt thể hiện toàn bộ các bài nhạc số hiện ra. Mục liệt kê tỏ ra hết sức chi tiết, bao gồm tên file, loại file, kích thước và ngày giờ tạo file. 
+Tuy rằng không hoành tráng như các công cụ khác nhưng số lượng chức năng của 1by1 cũng nhiều đến mức ngạc nhiên. Chẳng hạn: 
+- Click chuột phải vào danh sách file MP3 đang chơi là bạn có thể sao chép, xóa, đổi tên, tạo playlist, sử dụng bằng phím nóng, tìm file… 
+- Vào mục “Setttings” để tác động đến các file đang có danh sách bằng các thẻ chức năng như Audio, Decoder, Enhancer, Control, Display… rất chuyên nghiệp. 
+Ngoài ra với các nút chức năng đã có sẵn trên giao diện cũng giúp người dùng quản lý các file nhạc số trong thư mục theo nhiều cách phong phú khác nhau. 1by1 1.55 là công cụ hoàn toàn miễn phí, tương thích hoàn hảo với tất cả mọi Windows và người dùng có thể vào đây để tải về sử dụng.
+
+Theo Tuổi Trẻ

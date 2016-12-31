@@ -1,0 +1,7 @@
+﻿ Trojan mới được trang_bị công_nghệ rootkit
+Công_ty bảo_mật Sana_Security ( Mỹ ) vừa cảnh_báo về một phần_mềm nguy_hiểm có khả_năng ăn_cắp tên tài_khoản , mật_khẩu ... của người dùng Internet . Do sử_dụng " tấm áo_choàng " rootkit , Trojan này gần_như không_thể bị phát_hiện .
+Dù_vậy , trước khi tập_hợp dữ_liệu , phiên_bản Rootkit.hearse phải tìm cách thâm_nhập vào hệ_thống của nạn_nhân , như lừa họ mở file chứa mã nguy_hiểm . Nó hoạt_động âm_thầm nhưng mỗi khi người sử_dụng vào một trang có yêu_cầu nhập thông_tin xác_thực , nó lập lưu lại và gửi tới một máy_chủ đặt ở Nga ( server này bắt_đầu hoạt_động từ 16/3 ) .
+Rootkit.hearse gồm hai thành_phần : một ứng_dụng Trojan có_thể liên_lạc với máy_chủ từ xa và một Rootkit giúp mã độc_hại trở_nên " vô_hình " trước công_cụ diệt virus . Công_ty Sana cho_biết phần_mềm này được tải kèm với sâu Win32.Alcra .
+Tính đến ngày 21/3 , máy_chủ tại Nga đã nhận được 35.000 thông_tin tài_khoản của nạn_nhân thuộc 7.000 website khác_nhau , trong đó có cả các trang_web ngân_hàng , đấu_giá ... Sana đã liên_hệ với nhà_cung_cấp dịch_vụ Internet ở nước này về vấn_đề trên , nhưng có_vẻ như site vẫn đang hoạt_động .
+Rootkit.hearse áp_dụng những thủ_thuật tương_tự như phần_mềm XCP trong những đĩa CD tai_tiếng gần đây của Sony BMG Music_Entertainment .
+Theo T . N . VnExpress/PCWorld

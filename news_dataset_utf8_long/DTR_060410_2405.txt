@@ -1,0 +1,8 @@
+﻿Virus mới "gây hấn" cả Linux và Windows
+
+Tuy mức độ nguy hiểm của virus Linux.Bi.A hoặc Win32.Bi.A không cao, nó là dấu hiệu rõ ràng cho thấy những chương trình nguy hiểm, có khả năng hoạt động trên đa nền tảng khác nhau, bắt đầu hình thành.
+
+ Theo công ty bảo mật Nga Kaspersky, phiên bản Linux.Bi.A hoặc Win32.Bi.A có thể xâm nhập vào các tệp tin trong thư mục hiện hành (current directory) nhưng không gây thiệt hại lớn và cũng không tự động phát tán rộng. 
+Do được thiết kế để chạy trên cả hai hệ điều hành, Bi.A không thể khai thác triệt để mọi điểm yếu trong từng nền tảng. Hơn nữa, Linux hiện chủ yếu được trang bị cho máy chủ nên rất ít người sử dụng gặp rắc rối. "Không có ai phải thức trắng đêm để đối phó với Bi.A. Nhưng đây thực sự là một mốc quan trọng trong quá trình tiến hóa của virus", hãng bảo mật Trend Micro (Mỹ) nhận xét. 
+Bi.A có vẻ được một tin tặc kiểu "truyền thống" soạn ra, nghĩa là hacker đó chỉ muốn chứng tỏ kỹ năng lập trình của mình hơn là muốn kiếm tiền bất chính. Kaspersky khuyến cáo rằng đoạn mã trong Bi.A sẽ sớm bị các nhóm tội phạm mạng để mắt tới và biến nó thành cơ sở để xây dựng những phiên bản được phát tán trên đa hệ điều hành khác nhau. 
+Theo T.N. VnExpress/ComputerWorld

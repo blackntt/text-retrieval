@@ -1,0 +1,10 @@
+﻿Microsoft phát hành rộng rãi Vista Beta
+
+Sau nhiều tháng thử nghiệm hạn chế, đến cuối hôm qua, Microsoft đã công bố đường link download Windows Vista bản thử nghiệm tới đông đảo người dùng. 
+Theo giới phân tích, Microsoft đang đi đúng lộ trình trong việc phát hành hệ điều hành Windows mới nhất. 
+Gã khổng lồ phần mềm đã kích hoạt một chương trình có tên "Khách hàng duyệt trước" - với hy vọng thu hút hàng triệu người dùng và chuyên gia công nghệ nhiệt tình vào dùng thử sản phẩm, trước khi phiên bản hoàn thiện cuối cùng ra mắt. 
+Theo thông cáo của Microsoft thì đây là chương trình phát hành phiên bản Vista thử nghiệm quy mô rộng rất từ trước tới nay. 
+Mục tiêu của Microsoft là hoàn tất và kết thúc quá trình thử nghiệm, phát triển Vista nội trong năm nay để kịp tung ra hệ điều hành này đúng thời hạn (tháng 1-2007). 
+Tuy nhiên, Microsoft vẫn lo ngại rằng Vista chưa thực sự sẵn sàng đến với người dùng bình thường. Tháng trước, họ đã phát hành bản Beta 2 cho một nhóm người dùng bó hẹp, chủ yếu là các chuyên gia kỹ thuật và chuyên viên phát triển phần mềm, những người không ngại một vài lỗi nhỏ và có sẵn máy trống để dùng thử. Ngoài ra, Microsoft cũng khuyến cáo người dùng nên chạy thử công cụ tư vấn mà hãng mới phát hành gần đây để xác định xem máy tính của mình tương thích với Vista đến đâu.
+
+Theo VNN

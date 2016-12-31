@@ -1,0 +1,6 @@
+﻿Thử nghiệm thành công chơi game online trên ĐTDĐ
+
+Tập đoàn Siemens và Time Warner Cable vừa thử nghiệm thành công công nghệ băng thông tích hợp đường truyền cố định, di động và WiFi qua hệ thống IMS (IP Multimedia Subsystem) tại Hoa Kỳ, nhằm cung cấp khả năng hội tụ di động cố định (FMC). 
+Một trong những công nghệ được trình diễn là các trò chơi trực tuyến tích hợp cả hai mạng điện thoại chuyển mạch kênh và chuyển mạch gói cũng như các công nghệ không dây và cố định khác nhau. Người sử dụng có thể dễ dàng chuyển từ thiết bị không dây sang thiết bị cố định và ngược lại mà không cảm thấy sự khác biệt. Siemens dự kiến sẽ phát triển công nghệ này tại VN trong thời gian tới đây.
+
+T.Dũng

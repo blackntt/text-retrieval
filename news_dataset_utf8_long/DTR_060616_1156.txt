@@ -1,0 +1,7 @@
+﻿Laptop dùng Mobile Vista phải có ổ cứng “lai”
+
+Trong tài liệu yêu cầu về cấu hình máy tính, Microsoft khuyến khích người dùng máy tính xách tay nên đổi sang loại ổ cứng “lai” (Hybrid Hard Disk Drive) gồm cả đĩa quay và bộ nhớ flash nếu muốn cài đặt hệ điều hành mobile Vista. 
+ “Ổ cứng “lai” mới đáp ứng yêu cầu của hệ điều hành thế hệ mới sắp tới của Microsoft”. Hãng này còn yêu cầu cấu hình tối thiểu của laptop phải có bộ nhớ đệm không biến đổi (non-volatile) 50 MB. 
+Hiện tai, cả Samsung và Seagate đều đang sản xuất các loại ổ cứng lai. Hard drive này giúp tiết kiệm nửa giờ thời lượng pin cho laptop. Ổ lai chỉ quay khi dữ liệu trong bộ nhớ đệm cần phải làm tươi (refresh) hay ghi lên ổ cứng. Bằng cách ghi dữ liệu lên bộ nhớ flash, ổ cứng sẽ không cần cơ chế quay, tiết kiệm năng lượng và khoảng trống lưu trữ, đồng thời tăng đáng kể thời gian khởi động máy tính. 
+Hệ điều hành Windows Vista đã có bản thử nghiệm rộng rãi beta 2. 
+N.Hương Theo TechWorld

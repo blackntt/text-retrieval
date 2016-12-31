@@ -1,0 +1,9 @@
+﻿ Tìm thấy quá_trình các tế_bào thần_kinh mới sinh_ra thay_thế các tế_bào chết
+Phát_hiện này cho thấy các liệu_pháp tế_bào mầm có_thể được dùng để điều_trị cho các vùng não bị ảnh_hưởng bởi các bệnh suy_thoái thần_kinh hoặc đột_quỵ .
+Qun-Yong Zhou , phó_giáo_sư tại Trường ĐH California và nhóm nghiên_cứu của mình đã nhận_dạng được một protein có vai_trò hướng_dẫn các tế_bào thần_kinh mới đến một vùng não đặc_biệt . Protein này có tên gọi prokineticin 2 ( PK2 ) , được nhận thấy là thực_hiện vai_trò chính cho sự hòa_nhập chức_năng thích_hợp của các tế_bào thần_kinh mới trong não .
+“ Một trong các chìa_khóa để phát_triển các liệu_pháp mới nhiều hứa_hẹn cho các bệnh suy_thoái thần_kinh dựa vào các phát_hiện của chúng_tôi là làm thế_nào các tế_bào thần_kinh mới được hình_thành và hòa_nhập vào mô não trưởng_thành ” , Zhou nói .
+Trong khi tất_cả các tế_bào thần_kinh khởi_đầu được sinh_ra và phân_biệt từ các nguyên_bản tế_bào mầm của chúng trong quá_trình phát_triển , não trưởng_thành vẫn duy_trì ít_nhất một_số vùng - nơi các tế_bào mầm thần_kinh tạo ra các tế_bào thần_kinh mới để thay_thế các tế_bào già hoặc chết .
+Zhou và đồng_nghiệp đã phát_hiện được quá_trình PK2 hướng_dẫn việc chuyển các tế_bào thần_kinh mới sinh_ra từ các tế_bào mầm thần_kinh từ vùng tâm_thất dưới trong não đi qua mô trưởng_thành đến hành khứu_giác . PK2 cho_phép các tế_bào thần_kinh mới định_vị các khu_vực thích_hợp của hành khứu_giác , cho_phép các tế_bào này thực_hiện chức_năng thông_thường .
+PK2 thực_hiện nhiệm_vụ này bằng cách hoạt_động với các cơ_quan thụ_cảm tế_bào tương_ứng của nó , là một phần của nhóm cơ_quan thụ_cảm GPCRs - các protein được tìm thấy trong màng_tế_bào và đóng vai_trò quyết_định trong việc truyền các tín_hiệu từ vùng ngoài tế_bào đến cơ_cấu phân_tử bên trong tế_bào .
+Từ phát_hiện này , các nhà_nghiên_cứu hy_vọng sẽ dùng liệu_pháp tế_bào mầm để điều_trị cho các bệnh_nhân Alzheimer , Parkinson hoặc đột_quỵ .
+TƯỜNG_VY ( Theo Xinhua )

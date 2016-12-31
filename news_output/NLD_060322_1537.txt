@@ -1,0 +1,9 @@
+﻿ Những nguyên_tắc bố_trí cầu_thang nhà phố ( 1 )
+Một loại thang 3 đợt , đợt ít , đợt nhiều . JRArchitect ) Có_thể phân_biệt cầu_thang theo hai loại , thang thẳng và thang tròn . Thang thẳng có_thể là loại một đợt , hai đợt hay ba đợt .
+Thang tròn là kiểu cầu_thang mà các bậc xoay quanh một trục . Lựa_chọn kiểu thang nào phụ_thuộc vào vị_trí và thế đất .
+Thang một đợt làm rộng diện_tích sử_dụng cho tầng trệt nhưng lại tốn diện_tích cho các tầng trên vì phải tạo hành_lang đi bên_cạnh . Thang hai đợt diện_tích chiếm đất ít_nhất , nhưng các đợt dưới thường tối và bí .
+Thang tròn . ( Duvinage )
+Thang ba đợt thông_thoáng , giao_thông tốt , kết_hợp chiếu sáng nếu tum thang làm mái kính , mái nhựa trong , tốn diện_tích nhất .
+Trong điều_kiện đất rộng_rãi , nên bố_trí thang 3 đợt kết_hợp làm khoảng không_gian thông_thoáng chung của cả ngôi nhà . Các bậc_thang có_thể bố_trí chia đều cho mỗi đợt để tạo sự cân_bằng , nhưng cũng có_thể bố_trí kiểu đợt nhiều đợt ít để tạo những chiếu_nghỉ ở các vị_trí đẹp .
+Thang tròn tiết_kiệm không_gian hơn thang thẳng , thích_hợp với những ngôi nhà ( căn phòng ) có diện_tích hẹp . Thang tròn còn là một điểm nhấn tạo_dáng đẹp cho công_trình , thường hay sử_dụng ngoài_trời làm thang phụ dẫn lên tầng hai hoặc tầng thượng . Nhưng bất_lợi của loại thang này là khó đi và khó mang vác đồ_đạc . Thang tròn không nên sử_dụng cho những trần nhà quá cao , thường chỉ thích_hợp với độ cao dưới 3 m , để đỡ có cảm_giác chóng_mặt khi đi_lại .
+Theo VNExpress

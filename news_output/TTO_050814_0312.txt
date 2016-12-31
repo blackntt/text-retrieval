@@ -1,0 +1,521 @@
+﻿ ĐH Cần_Thơ công_bố điểm_chuẩn và điểm NV2
+Trường ĐH Cần_Thơ tính điểm ưu_tiên như sau : KV3 và KV2 cách nhau 1,5 điểm ; KV2 , KV2 - NT và KV1 mỗi khu_vực cách nhau 0,5 điểm . Mỗi nhóm đối_tượng ưu_tiên cách nhau 1 điểm .
+Theo đó , điểm xét tuyển của Trường ĐH Cần_Thơ sẽ tuyển những thí_sinh có tổng_số điểm của 3 môn thi ( không có môn nào bị điểm 0,0 ; thí_sinh khối T thỏa điều_kiện chiều_cao , có điểm môn năng_khiếu nhân hệ_số 2 và đạt từ 10 trở_lên sau khi đã nhân hệ_số ) . Điểm xét tuyển cho từng đối_tượng ưu_tiên , theo từng khu_vực của từng ngành học , quy_định tại bảng điểm_số 1 ( xem bảng 1 phía dưới ) .
+Điểm xét tuyển vào dự_bị ĐH : Trường ĐH Cần_Thơ xét chọn những thí_sinh thuộc nhóm ưu_tiên 1 ( đối_tượng 01 , 02 , 03 , 04 ) và thí_sinh có ưu_tiên khu_vực 1 vào học dự_bị ĐH một_số ngành . Điểm xét tuyển cho từng ngành học , quy_định tại bảng điểm_số 2 ( xem bảng 2 phía dưới ) .
+Điều_kiện xét tuyển NV2 : Các ngành sau đây sẽ xét tuyển NV2 : 106 - Thủy_công đồng_bằng , 109 - Kỹ_thuật môi_trường , 116 - CK bảo_quản , chế_biến nông_sản thực_phẩm , 117 - Quản_lý Công_nghiệp , 204 - Hóa_học , 302 - Trồng_trọt , 313 - Khoa_học đất , 315 - Hoa_viên & amp ; cây_cảnh , 404 - Kinh_tế Nông_nghiệp , 407 - Quản_lý nghề cá , 501 - Luật ( khối A và C ) , 604 - Ngữ_văn , 605 - SP Giáo_dục công_dân , 606 - Du_lịch , 703 - SP Pháp văn , 753 - Pháp văn , C65 - Cao_đẳng Tin_học ( khối A ) .
+Thí_sinh không trúng_tuyển NV 1 có_thể nộp Giấy_Chứng nhận kết_quả số 1 có dấu đỏ ( bản_chính , các trường_hợp gửi bản_sao sẽ bị loại ) , gởi kèm phong_bì có dán tem và ghi rõ địa_chỉ ( điện_thoại ) để xin xét tuyển vào một trong các ngành trên nếu thỏa_mãn các điều_kiện sau :
+- Có hộ_khẩu thuộc khu_vực Đồng_bằng sông Cửu_Long ; cùng khối thi với ngành xin xét tuyển ; có tổng_số điểm bằng hoặc cao hơn điểm xét tuyển NV1 của ngành xin xét tuyển ứng với từng nhóm ưu_tiên và khu_vực .
+- Căn_cứ vào chỉ_tiêu còn thiếu , ĐH Cần_Thơ sẽ xét chọn thí_sinh có điểm từ cao xuống thấp ứng với từng nhóm đối_tượng và khu_vực .
+Thời_gian nhận đơn_từ nay đến hết ngày 10-9-2005 . Đơn nộp trực_tiếp tại Phòng_Giáo vụ , Trường ĐH Cần_Thơ ( khu 2 , đường 3-2 , Q.Ninh Kiều , TP Cần_Thơ ) hoặc gửi qua đường bưu_điện .
+Điều_kiện xin chấm lại ( phúc_khảo ) các môn thi : Thí_sinh muốn chấm lại các môn thi ( ngoại_trừ môn Năng_khiếu khối T ) cần : nộp đơn xin chấm lại theo mẫu ( không giới_hạn số môn xin chấm lại ; không nhận đơn qua đường bưu_điện ) ; nộp lệ_phí xin chấm lại ( cùng lúc với nộp đơn ) .
+Thời_gian nhận đơn và lệ_phí từ nay đến hết ngày 26-8-2005 tại Phòng_Giáo vụ , Trường ĐH Cần_Thơ ( khu 2 , đường 3-2 , Q.Ninh Kiều , TP Cần_Thơ ) .
+Bảng điểm_số 1 ( Điểm xét tuyển ) :
+Mã ngành
+Ngành / Chuyên_ngành
+Điểm xét tuyển NV1
+Tuyển NV2
+KV3
+KV2
+KV2NT
+KV1
+N3
+N3
+N3
+N3
+101
+SP Toán_học
+21.0
+19.5
+19.0
+18.5
+102
+SP Vật_lý
+17.0
+15.5
+15.0
+14.5
+103
+SP Toán - Tin
+20.0
+18.5
+18.0
+17.5
+104
+SP Lý - Tin
+18.5
+17.0
+16.5
+16.0
+105
+CK chế_tạo_máy
+16.5
+15.0
+14.5
+14.0
+106
+Thủy_công đồng_bằng
+15.0
+13.5
+13.0
+12.5
+60
+108
+Tin_học
+15.0
+13.5
+13.0
+12.5
+109
+KT Môi_trường
+15.0
+13.5
+13.0
+12.5
+42
+110
+Điện_tử
+16.0
+14.5
+14.0
+13.5
+111
+Kỹ_thuật Điện
+15.0
+13.5
+13.0
+12.5
+112
+Xây_dựng DD & amp ; CN
+19.0
+17.5
+17.0
+16.5
+114
+SP Tiểu_học
+16.0
+14.5
+14.0
+13.5
+115
+Cơ điện_tử
+15.0
+13.5
+13.0
+12.5
+116
+CK bảo_quản , chế_biến NSTP
+15.0
+13.5
+13.0
+12.5
+36
+117
+Quản_lý công_nghiệp
+15.0
+13.5
+13.0
+12.5
+12
+201
+CN Thực_phẩm
+20.0
+18.5
+18.0
+17.5
+202
+SP Hóa_học
+21.5
+20.0
+19.5
+19.0
+203
+CN Hóa_học
+18.5
+17.0
+16.5
+16.0
+204
+Hóa_học
+15.0
+13.5
+13.0
+12.5
+63
+205
+CB Thủy_sản
+17.0
+15.5
+15.0
+14.5
+401
+Kế_toán ( Ktoán TH , Ktoán kiểm_toán )
+17.5
+16.0
+15.5
+15.0
+402
+Tài_chính ( TC-Tín dụng , TC D.nghiệp )
+18.5
+17.0
+16.5
+16.0
+403
+Quản_trị KD ( THợp , Du_lịch , Marketing )
+17.0
+15.5
+15.0
+14.5
+404
+KT . N . nghiệp ( KTNN , KTTNMT , KTTS )
+15.0
+13.5
+13.0
+12.5
+158
+405
+Ngoại_thương
+16.5
+15.0
+14.5
+14.0
+406
+Quản_lý đất_đai
+16.0
+14.5
+14.0
+13.5
+407
+Quản_lý nghề cá
+15.0
+13.5
+13.0
+12.5
+71
+501
+Luật ( HC , TM , TP )
+15.0
+13.5
+13.0
+12.5
+99
+301
+SP . Sinh_vật
+18.0
+16.5
+16.0
+15.5
+302
+Trồng_trọt
+15.0
+13.5
+13.0
+12.5
+56
+303
+Chăn_nuôi - Thú_y
+15.0
+13.5
+13.0
+12.5
+304
+Nuôi_trồng thủy_sản
+19.0
+17.5
+17.0
+16.5
+306
+Nông_học
+15.0
+13.5
+13.0
+12.5
+307
+Môi_trường
+18.5
+17.0
+16.5
+16.0
+309
+CN Sinh_học
+20.0
+18.5
+18.0
+17.5
+310
+Thú_y
+16.0
+14.5
+14.0
+13.5
+312
+SP Sinh_Kỹ thuật NNghiệp
+17.0
+15.5
+15.0
+14.5
+313
+Khoa_học đất
+15.0
+13.5
+13.0
+12.5
+30
+314
+Bảo_vệ thực_vật
+16.5
+15.0
+14.5
+14.0
+315
+Hoa_viên - Cây_cảnh
+15.0
+13.5
+13.0
+12.5
+25
+316
+Bệnh học Thủy_sản
+15.0
+13.5
+13.0
+12.5
+601
+SP Ngữ_văn
+16.5
+15.0
+14.5
+14.0
+602
+SP Lịch_sử
+16.0
+14.5
+14.0
+13.5
+603
+SP Địa_lý
+16.5
+15.0
+14.5
+14.0
+604
+Ngữ_văn
+15.0
+13.5
+13.0
+12.5
+26
+605
+SP_GD Công_dân
+15.0
+13.5
+13.0
+12.5
+13
+606
+Du_lịch ( HDV du_lịch )
+15.0
+13.5
+13.0
+12.5
+31
+607
+Thông_tin - Thư_viện
+15.0
+13.5
+13.0
+12.5
+701
+SP Anh_văn
+19.0
+17.5
+17.0
+16.5
+751
+Anh_văn
+16.5
+15.0
+14.5
+14.0
+703
+SP Pháp văn
+15.0
+13.5
+13.0
+12.5
+38
+753
+Pháp văn
+15.0
+13.5
+13.0
+12.5
+30
+901
+SP_TD Thể_thao
+22.0
+20.5
+20.0
+19.5
+Chú_thích : N3 : nhóm học_sinh phổ_thông ; N2 : nhóm ưu_tiên 2 cách N3 1 điểm ; N1 : nhóm ưu_tiên 1 cách N2 1 điểm .
+KV3 : khu_vực 3 ; KV2 : khu_vực 2 cách KV3 1,5 điểm ; KV2-NT : khu_vực 2 nông_thôn cách KV2 0,5 điểm ; KV1 : khu_vực 1 cách KV2-NT 0,5 điểm .
+Bảng điểm_số 2 ( Điểm xét tuyển vào dự_bị ĐH ) :
+Mã ngành
+Ngành / Chuyên_ngành
+Điểm xét tuyển vào dự_bị_đại_học
+KV3
+KV2
+KV2NT
+KV1
+N1
+N1
+N1
+N3
+N2
+N1
+101
+SP Toán_học
+18.5
+17.0
+16.5
+18.0
+17.0
+16.0
+103
+SP Toán - Tin_học
+17.5
+16.0
+15.5
+17.0
+16.0
+15.0
+104
+SP Lý - Tin_học
+16.0
+14.5
+14.50
+15.5
+14.5
+13.5
+112
+Xây_dựng DD & amp ; CN
+16.5
+15.0
+14.5
+16.0
+15.0
+14.0
+201
+CN Thực_phẩm
+17.5
+16.0
+15.5
+17.0
+16.0
+15.0
+202
+SP Hoá_học
+19.0
+17.5
+17.0
+18.5
+17.5
+16.5
+203
+Công_nghệ Hóa_học
+16.0
+14.5
+14.0
+15.5
+14.5
+13.5
+402
+Tài_chính ( TC-Tín dụng , TC D.nghiệp )
+16.0
+14.5
+14.0
+15.5
+14.5
+13.5
+301
+SP Sinh_vật
+15.5
+14.0
+13.5
+15.0
+14.0
+13.0
+304
+Nuôi_trồng thủy_sản
+16.5
+15.0
+14.5
+16.0
+15.0
+14.0
+307
+Môi_trường
+16.0
+14.5
+14.0
+15.5
+14.5
+13.5
+309
+CN Sinh_học
+17.5
+16.0
+15.5
+17.0
+16.0
+15.0
+601
+SP Ngữ_văn
+14.0
+12.5
+12.0
+13.5
+12.5
+11.5
+602
+SP Lịch_sử
+13.5
+12.0
+11.5
+13.0
+12.0
+11.0
+603
+SP Địa_lý
+14.0
+12.5
+12.0
+13.5
+12.5
+11.5
+604
+Ngữ_văn
+12.5
+11.0
+10.5
+12.0
+11.0
+10.0
+605
+SP Giáo_dục công_dân
+12.5
+11.0
+10.5
+12.0
+11.0
+10.0
+606
+Du_lịch ( HDV du_lịch )
+12.5
+11.0
+10.5
+12.0
+11.0
+10.0
+Chú_thích : N3 : nhóm học_sinh phổ_thông ; N2 : nhóm ưu_tiên 2 ; N1 : nhóm ưu_tiên 1 .
+KV3 : khu_vực 3 ; KV2 : khu_vực 2 ; KV2 - NT : khu_vực 2 nông_thôn ; KV1 : khu_vực 1
+QUỐC_DŨNG - PHẠM_DIỄM

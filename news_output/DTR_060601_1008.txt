@@ -1,0 +1,9 @@
+﻿ Châu Á “ tuồn ” nhiều spam nhất
+Châu Á hiện đang là châu_lục phát_tán nhiều thư rác spam hơn tất_cả các khu_vực khác , trong khi đó , cách đây hai năm , Mỹ được “ vinh_danh ” là nước chiếm 50% thư rác được gửi đi trên khắp thế_giới .
+Hãng bảo_mật Sophos cho_biết , trong top 12 nước phát_tán nhiều spam nhất trong quý đầu năm nay , châu Á đứng đầu_bảng , chiếm 42,8% số thư rác lan_tràn , tiếp sau đó là Bắc_Mỹ ( 25,6% ) và châu Âu ( 25% ) .
+Tuy_nhiên , Mỹ vẫn là nước nổi_tiếng phát_tán nhiều spam nhất và Trung_Quốc cũng không thua_kém với tình_trạng ngập_lụt spam diễn ra liên_tục . Khoảng_cách về tốc_độ phát spam giữa hai nước này đang dần thu_hẹp vì Mỹ đang nỗ_lực giảm lưu_lượng thư rác được gửi đi .
+“ Số spam ở châu Á đang tăng mạnh vì nền kinh_tế trong vùng phát_triển nhanh_chóng ( thư rác được dùng như một công_cụ để marketing ) và số người sử_dụng băng_thông_rộng ngày_càng nhiều ” , Tiến sỹ Jan_Hruska , người đồng sáng_lập của Sophos , nói .
+Graham_Cluley , cố_vấn bảo_mật của Sophos , cũng chỉ ra rằng ngày_càng nhiều virus , sâu máy_tính và Trojan được thiết_kế để lợi_dụng những người dùng ngây_thơ nhằm ăn_trộm thông_tin cá_nhân và gửi e - mail rác .
+Cluley cho_biết , Mỹ đã ban_hành luật chống thư rác Can-Spam và kết_án tù hàng_loạt những kẻ chuyên phát_tán thư rác và quan_trọng nhất_là người dùng nước này đã nhận_thức được rằng phải bảo_vệ máy_tính_cá_nhân trước những âm_mưu của các hacker độc_ác . Trong 3 tháng đầu năm , một_vài băng_nhóm phát_tán hàng_loạt ảnh khiêu_dâm đã phải thú_nhận có liên_quan trong đường_dây làm “ ngập_lụt ” spam .
+Theo ông Hruska , cứ 40 e-mail thì_có 1 thư chứa virus , và cứ 2 e-mail thì_có 1 là spam . “ Nếu máy_tính nối_mạng chạy Windows XP mà không cài_đặt bản cập_nhật hoặc phần_mềm diệt virus thì chắc_chắn 94% khả_năng sẽ bị nhiễm virus trong vòng 60 phút , và 40% nguy_cơ lây_nhiễm trong 10 phút ” , Hruska khẳng_định .
+N.Hương Theo Mac World

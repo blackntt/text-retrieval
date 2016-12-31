@@ -1,0 +1,9 @@
+﻿ Thiết_bị flash 64 GB đe_dọa sự tồn_tại của ổ_cứng
+Một_số hãng sản_xuất đã trình_diễn ổ lưu_trữ thể rắn ( flash ) dung_lượng lớn trong triển_lãm Computex , diễn ra tại Đài_Loan từ 6/6 đến 10/6 . Những sản_phẩm này nhẹ , tiết_kiệm năng_lượng và bền hơn so với ổ_cứng truyền_thống với đĩa quay từ_tính .
+Phiên_bản lớn nhất được giới_thiệu trong triển_lãm là ổ 64 GB của công_ty Đài_Loan PQI . Thiết_bị 2,5 inch dành cho máy_tính_xách_tay này sẽ được sản_xuất đại_trà ngay trong tháng 8 . Trong khi đó , sản_phẩm 32 GB của hãng Apacer ( Đài_Loan ) đã có_mặt trên thị_trường với giá 1.700 USD .
+Điểm hạn_chế lớn nhất của công_nghệ lưu_trữ thể rắn là còn quá đắt_đỏ . Nhưng các chuyên_gia kinh_tế nhận_định giá_thành chip nhớ tích_hợp trong ổ flash sẽ giảm mạnh nhờ sản_lượng tăng lên song_song với sự phổ_biến của những dòng thiết_bị như i Pod và điện_thoại_di_động .
+Thậm_chí , hãng điện_tử Samsung dự_đoán giá sẽ giảm 40% mỗi năm . Chi_phí cao khiến thị_trường flash hiện vẫn chỉ bó_hẹp trong một_số lĩnh_vực đòi_hỏi độ bền và sức chịu_đựng dẻo_dai trước những thay_đổi khắc_nghiệt của môi_trường như quân_đội .
+Samsung tin_tưởng flash sẽ thay_thế công_nghệ lưu_trữ truyền_thống và đã ra_mắt nhiều sản_phẩm theo công_nghệ này cũng_như một ổ lai giữa flash và từ_tính . Tuy_nhiên , flash còn gặp một_vài vấn_đề khác như khả_năng trao_đổi và xử_lý dữ_liệu tương_đối chậm .
+PQI đã thử tăng tốc_độ bằng cách đưa thêm một giao_diện SATA hai kênh vào phiên_bản 64 GB nhưng không thực_sự gây ấn_tượng với giới chuyên_môn . " Tốc_độ đọc ghi phụ_thuộc vào chip , do_đó các công_ty sản_xuất ổ lưu_trữ không_thể can_thiệp . Những hạn_chế này có_thể sẽ được khắc_phục vào quý III hoặc IV năm tới " , Vincent_Hsu , Giám_đốc phát_triển của Apacer , cho_hay .
+Một kỹ_sư của hãng sản_xuất Transcend cho_biết giải_quyết những khiếm_khuyết này không khó , bởi_vậy sẽ có nhiều công_ty cạnh_tranh trên thị_trường flash hơn là thị_trường ổ_cứng hiện_nay .
+Theo T . N . VnExpress/VNUNet

@@ -1,0 +1,8 @@
+﻿ Intel trình_diễn công_nghệ Santa_Rosa và “ siêu di_động ”
+Hãng sản_xuất chip lớn nhất thế_giới vừa giới_thiệu về công_nghệ máy_tính_xách_tay Centrino và máy_tính “ siêu di_động – Ultra_Mobile ” tại Diễn_đàn các nhà_phát_triển Intel IDF diễn ra ở San_Francisco ( Mỹ ) .
+Công_nghệ di_động Centrino thế_hệ tiếp_theo có tên mã là Santa_Rosa , sẽ kết_hợp với bộ_vi_xử_lý di_động , chipset và chip không dây , Sean_Maloney , Phó_giám_đốc điều_hành bộ_phận di_động của Intel , cho_biết .
+Santa_Rosa sẽ được tung ra thị_trường vào đầu năm 2007 , ông Maloney cho_biết . Laptop sử_dụng công_nghệ Centrino thế_hệ tiếp_theo này tương_thích với bộ_vi_xử_lý Merom , sẽ được ra_mắt trong năm nay . Santa_Rosa được trang_bị bộ chipset Crestline giúp tăng khả_năng vận_hành đồ_họa .
+Chip không dây mới Kedron được sử_dụng trong Santa_Rosa sẽ hỗ_trợ chuẩn 802.11n . Tuy_nhiên , mạng Wi-Fi chỉ là một phần trong tầm nhìn không dây của Intel vì hãng đang tiếp_tục phát_triển công_nghệ WiMax , truyền tín_hiệu , dữ_liệu với tốc_độ nhanh hơn trên phạm_vi rộng_lớn .
+Một trong những thiết_bị được trông_đợi nhất tại IDF là máy_tính “ siêu di_động ” . Theo Intel , “ siêu di_động ” của hãng giống với một máy_tính bảng tablet PC với đầy_đủ các tính_năng của PC , cho_phép người dùng lướt web , giải_trí audio , video , chơi game , xem TV khi đang đi trên đường . " Siêu di_động " sẽ có_mặt trên thị_trường trong năm nay .
+Cũng tại IDF , Phó_chủ_tịch của Intel_Don_Mc Donald đã giới_thiệu thêm một_vài tính_năng của hệ_thống giải_trí gia_đình Viiv PC , trong đó có bộ_nhớ flash , giúp máy_tính Viiv PC tăng tốc_độ khởi_động các ứng_dụng giải_trí .
+N . H . Theo ZDNet

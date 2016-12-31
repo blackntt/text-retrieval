@@ -1,0 +1,8 @@
+﻿Abacre Antivirus: Thêm một công cụ diệt virus
+
+Dung lượng nhỏ chỉ 1,17MB tương thích với mọi môi trường Windows hiện hành. Tải về tại đây . Phiên bản 1.1 cho phép dùng thử 30 ngày. Sau đó phải chi tiền bản quyền nếu muốn sử dụng lâu dài và hỗ trợ cập nhật. Giao diện thân thiện, cách sử dụng đơn giản. 
+- Khung Properties: Đánh dấu chọn Scan Registry; Memory; Disks để quy định quét Registry, bộ nhớ và đĩa. Muốn quét tất cả các đĩa hay quét một đĩa cụ thể thì đánh dấu chọn khung bên dưới. Muốn chọn kiểu file nào để quét thì quy định trong File Types. 
+- Nút công cụ Options: Cho phép người dùng tùy chọn diệt tự động khi phát hiện Virus hay phải hiển thị hộp thông báo. Bao nhiêu ngày thì cập nhật Virus một lần… 
+Quy định xong bấm Start để chương trình thực hiện. Bạn thử dùng Abacre Antivirus để xem còn sót con Virus đáng ghét nào trong máy hay không.
+
+TẠ XUÂN QUAN

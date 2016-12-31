@@ -1,0 +1,5 @@
+﻿ Vải đổi màu
+Khi nối với dòng_điện , polymer hấp_thụ ánh_sáng qua một loạt bước_sóng có_thể nhìn thấy được . Cho tới nay , các nhà_nghiên_cứu đã tạo ra được các sợi có_thể đổi từ màu da_cam và màu đỏ sang màu xanh dương .
+Một bộ kiểm_soát sẽ giúp thay_đổi điện_trường trên một_số điểm của sợi vải , thay_đổi các màu nhằm tạo ra một mẫu hình phù_hợp với môi_trường của người mặc .
+Ngoài_ra , các sợi vải này cũng có_thể được dùng làm_bộ cảm_biến trong các ngành công_nghệ thực_phẩm và an_ninh . Chẳng_hạn , bao_bì có_thể đổi màu khi bộ cảm_biến bên trong phát_hiện thực_phẩm bị hỏng hoặc nhiễm_khuẩn .
+( Q . HƯƠNG - Theo National_Geographic )

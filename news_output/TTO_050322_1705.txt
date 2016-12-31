@@ -1,0 +1,7 @@
+﻿ Tải về cả trang_web với WinHTTrack Website_Copier
+Về nguyên_tắc hoạt_động thì WinHTTrack Website_Copier cũng giống như các chương_trình khác cùng tính_năng như WebZip hay Teleport . Dựa vào những liên_kết nhận_dạng được mà chương_trình sẽ tải về hết . Sau đó thiết_lập lại cấu_trúc cũng_như định_dạng của một website như ban_đầu .
+Là một chương_trình miễn_phí vì_thế giao_diện của WinHTTrack Website_Copier không được chăm_chút cho lắm . Tuy đơn_giản nhưng lại rất trực_quan . Các phím năng được bố_trí gọn_gàng và dễ nhìn thấy . Để có_thể thực_hiện công_việc , bạn nhấn vào nút Next ngay tại giao_diện chính của chương_trình .
+Sau đó đặt tên vào phần Project_Name để ghi_nhớ tác_vụ thực_hiện . Chọn nơi lưu_trữ tại mục Base path và nhấn Next . Kế đến nhập vào địa_chỉ của một trang hay một website muốn duyệt ở chế_độ offline trong dòng Web_Addresses và nhấn Next . Tiếp_theo chọn phương_thức kết_nối đang dùng trong dòng Connect to this provider và nhấn Finish để hoàn_tất quá_trình thiết_lập .
+Ngay_lập_tức chương_trình sẽ tiến_hành quá_trình tải nội_dung của website đã được cấu_hình sẵn . Tùy theo thông_tin trên một website cần tải nhiều hay ít mà thời_gian có_thể nhiều hay ít .
+Chương_trình được cung_cấp miễn_phí tại website : http : / / www.httrack.com với dung_lượng khoảng 3,58 MB , tương_thích tốt với hệ_điều_hành Windows .
+GIANG_VŨ_VĂN

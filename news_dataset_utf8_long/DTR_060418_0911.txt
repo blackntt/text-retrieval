@@ -1,0 +1,8 @@
+﻿Tăng đột biến các vụ “đột kích” dùng rootkit
+
+Các nhà nghiên cứu an ninh của công ty bảo mật McAfee nhận thấy, số vụ tấn công bằng phần mềm ma và phần mềm quảng cáo khai thác công nghệ thông minh rootkit để ẩn nấp trong chương trình bảo mật đã tăng 600% so với 3 năm trước. 
+ Rất nhiều trường hợp xảy ra với sự “tiếp tay” của rootkit và diễn ra tinh vi hơn rất nhiều. Chỉ riêng t rong quý đầu năm nay, số trường hợp tấn công bằng rootkit đã tăng 700% so với cùng kỳ năm ngoái. 
+“Rõ ràng các công nghệ ẩn nấp, đặc biệt là rootkit, đang tăng trưởng với tốc độ đáng báo động”, Stuart McClure, Phó giám đốc quản lý về các mối đe dọa toàn cầu của McAfee. “Sự phát triển mạnh mẽ của malware đang gây khó khăn, đe dọa các doanh nghiệp và người dùng PC”. 
+Trước đây, công nghệ rootkit khai thác hệ thống bằng cách mở cổng hậu, tạo cơ hội cho hacker dễ dàng đột nhập từ xa. Sau này, công nghệ còn phát huy tác dụng như là một cách để ăn cắp dữ liệu của người dùng và “qua mặt” phần mềm an ninh để không bị phát hiện và loại bỏ. 
+Vào cuối năm ngoái, hãng ghi âm Sony BMG Music Entertainment đã cài chương trình rootkit trong đĩa CD của hãng nhằm chống sao chép bất hợp pháp và tránh những lại gây nhiều rủi ro an ninh trên máy tính của người dùng. 
+N.H Theo VNuNet

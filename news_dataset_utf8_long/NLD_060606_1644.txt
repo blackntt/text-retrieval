@@ -1,0 +1,11 @@
+﻿Google ra mắt chương trình bảng tính trực tuyến
+
+Dịch vụ Google Spreadsheets sử dụng các định dạng file tương tự như phần mềm Excel phổ biến của Microsoft và cho phép nhiều người tham gia xây dựng, chỉnh sửa một tài liệu chung cùng lúc.
+Chương trình này đang được thử nghiệm giới hạn qua trang Google Labs. 
+Bước đầu, nó cho phép đọc và soạn các tập tin Excel nhưng thiếu nhiều tính năng chuyên sâu. 
+Tuy nhiên, Google Spreadsheets được trang bị một số phần mềm khác như dịch vụ tin nhắn nhanh Google Talk nhằm hỗ trợ làm việc theo nhóm. 
+Động thái mới của Google một lần nữa lại "trêu ngươi" tập đoàn phần mềm Mỹ. Chỉ cách đây vài tuần, hãng dịch vụ tìm kiếm đã phát hành chương trình Google Calendar hoạt động trên web nhằm đánh bật tính năng nhật ký công việc trong Microsoft Outlook. 
+Google đã đánh tiếng về kế hoạch giới thiệu chương trình bảng tính từ tháng 10 năm ngoái khi đạt được thỏa thuận quan trọng với tập đoàn Sun Microsystems. 
+Nhiều chuyên gia dự đoán bước đi tiếp theo của họ sẽ là trình xử lý văn bản sau khi thâu tóm Writely đầu năm nay. Microsoft cũng bắt đầu học tập chiến lược của Google trong việc sử dụng Internet để cung cấp các tính năng phần mềm, thay vì đóng gói sản phẩm và phân phối tại các đại lý bán lẻ.
+
+Theo VNExpress

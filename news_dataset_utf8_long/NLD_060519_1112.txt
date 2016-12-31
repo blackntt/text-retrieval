@@ -1,0 +1,15 @@
+﻿Máy ảnh số chụp được 30 hình/giây?
+
+Với công nghệ chip mới của Micron, ĐTDĐ cũng có thể chụp hình với tốc độ 30 hình/giây và quay được video phân giải cao. Hãng chip Micron Technology sẽ công bố một con chip cảm biến hình ảnh 8 "chấm" vào cuối năm nay, cho phép camera số và ĐTDĐ "lia" tới 10 tấm hình chất lượng cao trong một giây hoặc thậm chí quay được cả video phân giải cao.
+Con chip này dự kiến sẽ được đưa vào sản xuất đại trà từ đầu năm tới tại các nhà máy FAB của Micron ở Idaho và Ý. 
+Theo khung thời gian này, thế hệ thiết bị đầu tiên sử dụng chip mới sẽ đến tay người tiêu dùng vào cuối năm 2007. Chúng sẽ mang đến những tính năng chụp ảnh số tốc độ cao, phân giải lớn mà trước đây vốn chỉ tìm thấy ở máy ảnh cơ cao cấp. 
+"Con chip này sẽ có mặt trong những dòng máy ảnh số point-and-shoot bình dân 200 - 300 USD", Suresh Venkatrama, giám đốc bộ phận máy ảnh số của Micron cho biết. "Ngay cả người dùng bình thường nhất cũng sẽ có cơ hội ghi lại những bức hình hoặc đoạn phim với chất lượng cực cao". 
+Con chip cảm biến hình ảnh mới sử dụng CMOS - một công nghệ cũng đang được ứng dụng rất nhiều trong chip nhớ và vi xử lý. Giới phân tích nhận định CMOS sẽ thách thức vị trí thống trị của những thiết bị sử dụng chip nhạy sáng CCD truyền thống. 
+"CMOS ngốn điện ít hơn, rẻ hơn và lại tích hợp được nhiều chức năng lên chipset hơn. Rõ ràng là CCD đang phải gánh chịu một sức ép rất lớn trên thị trường", Jeff Hayes, giám đốc InfoTrends nhận định. 
+Tuy nhiên, sẽ phải mất một thời gian khá dài trước khi con chip mới của Micron trở nên phổ cập trong làng máy ảnh số dân dụng. Phần lớn máy ảnh số hiện nay đều được sản xuất từ Nhật Bản mà các hãng của Nhật luôn có xu hướng mua chip cảm biến hình ảnh do nội địa cung cấp, chủ yếu là chip CCD. 
+"Công nghệ chip mới có thể rất hấp dẫn dân chơi ảnh chuyên nghiệp, nhưng người tiêu dùng phổ thông thì chẳng mấy khi quan tâm tới tính năng và thông số kỹ thuật. Họ luôn lững chững trong việc ứng dụng công nghệ mới. Có thể phải hơn một năm nữa, bạn mới thấy con chip Micron này xuất hiện trong những model máy ảnh số tầm trung và ĐTDĐ cao cấp". 
+Theo Micron, con chip mới còn tích hợp khả năng chụp ảnh nhanh, cho phép người dùng nháy tới 10 hình ảnh/giây ở độ phân giải 8 chấm, và thậm chí là ...30 hình/giây với độ phân giải 2 chấm. 
+Một bức ảnh số 2 chấm có thể in ra thành ảnh kích cỡ 4x6 mà không bị ảnh hưởng tới chất lượng, trong khi ảnh 8 chấm có thể in theo kích cỡ 8x10. 
+Tốc độ bắt hình nhanh và độ phân giải cao của con chip cũng cho phép những chiếc máy ảnh số compact tích hợp thêm nhiều tính năng như ổn định hình ảnh, tự chỉnh tiêu cự nhanh hơn, zoom số mạnh hơn, quay được video phân giải cao. "Quay video di động ngày càng được quan tâm, nhất là trong giới trẻ. Cùng với việc thế hệ chip nhớ mới có dung lượng rất lớn, bạn hoàn toàn có thể nghĩ tới chuyện quay 20-30 phút video phân giải cao trên "con dế" di động của mình. Khi đó, chúng ta sẽ tiến rất gần tới viễn cảnh ĐTDĐ thay thế hoàn toàn camcorder và máy ảnh số", giám đốc Micron Hayes tuyên bố.
+
+Theo VNN

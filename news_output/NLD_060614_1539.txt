@@ -1,0 +1,6 @@
+﻿ Các hãng Nhật hợp_tác sản_xuất chip 45 nm
+Toshiba , NEC , Fujitsu và Renesas_Technology đã thỏa_thuận chuẩn_hóa công_nghệ và xây_dựng chip theo kỹ_thuật 45 nanometer với hy_vọng đủ sức cạnh_tranh cùng những đối_thủ lớn như Intel .
+Hầu_hết các nhà_máy chip trên thế_giới hiện_nay đều sản_xuất bộ_vi_xử_lý theo dây_chuyền 90 nm . Kích_thước vi_mạch nhỏ hơn sẽ giúp tăng số bo ́ ng ba ́ n dâ ̃ n và giảm diện_tích chip những vẫn đảm_bảo được tốc_độ truyền dữ_liệu nhanh .
+Chi_phí_sản_xuất theo công_nghệ mới cũng thấp hơn và điều này sẽ có lợi cho ngành công_nghiệp . Hiện_nay , giá_thành thiết_bị hỗ_trợ phát_triển và sản_xuất chip khá cao do sự phức_tạp ngày_càng tăng của mạch bán_dẫn
+Đa_số các nhà quan_sát tán_thành ý_tưởng hợp_tác của bốn hãng sản_xuất Nhật_Bản nhằm đối_đầu với những đối_thủ lớn , trong đó có Intel , Samsung và Texas_Instruments . Tuy_nhiên , một_số chuyên_gia phân_tích lại nghĩ rằng liên_minh này rồi sẽ chẳng đi đến đâu . Tờ nhật_báo kinh_tế Nihon_Keizai_Shimbun khẳng_định kế_hoạch trên sẽ đổ_vỡ trước khi người_ta có_thể sinh_lợi từ nó .
+Theo VNExpress

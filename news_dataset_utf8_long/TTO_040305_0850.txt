@@ -1,0 +1,12 @@
+﻿Nhật Bản giới thiệu máy PDA phiên dịch đa năng
+
+Công nghệ từ tiếng nói tới tiếng nói được hãng NEC thử nghiệm trên các robot Papero (Partner-Type Personal Robot) có gương mặt thân thiện rồi chuyển sang máy PDA. Với công trình này, Papero trở thành loại robot đầu tiên có khả năng đối thoại bằng những cụm từ thông tục. 
+Ngoài ra, nó cũng là robot đầu tiên biết phiên dịch qua lại giữa 2 ngôn ngữ với cách nói thông thường. Papero có kho từ vựng 50.000 từ tiếng Nhật và 25.000 từ tiếng Anh chuyên ngành du lịch, đồng thời có khả năng xử lý tiếng lóng và khẩu âm địa phương. 
+Sau khi Papero chứng tỏ khả năng dịch thuật, "bộ não" và chiếc "lưỡi" của nó được chuyển sang máy PDA. Người dùng có thể nói trực tiếp vào thiết bị và nó sẽ cho ra lời dịch tiếng Nhật với khẩu âm gần như hoàn hảo trong một giây. 
+Người dùng có thể nói trực tiếp vào thiết bị và nó sẽ cho ra lời dịch tiếng Nhật với khẩu âm gần như hoàn hảo trong một giây 
+Chris Shimizu, giám đốc quan hệ bạn hàng của NEC giải thích, thiết bị có phần mềm nhận dạng giọng nói, dịch thuật kỹ thuật số và bắt chước giọng nói để đối thoại với người sử dụng. Chất lượng giọng nói của thiết bị giống với tiếng người hơn là robot. 
+Ông Chimizu cho biết, quá trình phát triển công nghệ này là kết quả hợp tác nghiên cứu của NEC Nhật Bản và NEC châu Âu. Ông nhận xét: "Độ chính xác phụ thuộc vào kích thước và chất lượng của từ điển trên PDA nhưng thường thì nó đúng gần 100%". Theo ông Chimizu, thiết bị còn có thể phân biệt ngay lập tức các lối nói chuyện, khẩu âm và câu nói thông tục khác nhau vì hiểu được hàm nghĩa của ngôn từ. Nhờ đó, nó không yêu cầu người dùng phải đăng ký giọng nói trước. 
+Thiết bị còn mang chức năng của điện thoại di động, được tích hợp hướng dẫn du lịch địa phương và hướng dẫn sân bay, đồng thời có khả năng truy cập mạng không dây. 
+Các doanh nhân và du khách có thể thử loại PDA này ở sân bay Narita trước khi NEC đưa nó vào khai thác thương mại tại các phi trường và trung tâm du lịch khác vào cuối năm nay.
+
+T.M. (Theo BBC)

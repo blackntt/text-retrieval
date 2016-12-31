@@ -1,0 +1,7 @@
+﻿ ĐTDĐ Nokia sẽ nối_mạng tại các hotspot
+Hôm_qua , hãng điện_thoại Nokia và công_ty i Pass tuyên_bố đang phát_triển một phần_mềm “ khách ” cho_phép các điện_thoại thông_minh của hãng hoạt_động ở hai chế_độ . Người dùng sẽ được kết_nối Internet không dây Wi-Fi tại các điểm truy_cập ( hotspot ) ở khắp_nơi trên thế_giới .
+Hiện_tại , phần_mềm của i Pass cho_phép người dùng kết_nối tại khoảng 50.000 hotspot trên khắp thế_giới bằng một tài_khoản duy_nhất . Phiên_bản mới này của công_ty được thiết_kế dành cho điện_thoại thông_minh hướng tới người dùng là doanh_nghiệp .
+Nhờ đó , người dùng điện_thoại hỗ_trợ Wi-Fi của Nokia sẽ được kết_nối Internet an_toàn để truy_cập các ứng_dụng , tài_liệu kinh_doanh quan_trọng để tối_ưu_hóa hiệu_suất công_việc ngay cả khi đi trên đường , ở nhà hay tại văn_phòng .
+Theo Nokia , hãng cũng sẽ thử_nghiệm dịch_vụ i Pass_Corporate_Access vào cuối quý II này . “ Thông_qua dịch_vụ i Pass , chúng_tôi mong_muốn sẽ giúp người dùng di_động được truy_cập tài_liệu quan_trọng của công_ty một_cách an_toàn trên Internet ” , b à Susan_Macke , Phó_giám_đốc marketing sản_phẩm của Nokia , nhấn_mạnh .
+Phần_mềm ban_đầu sẽ chỉ hỗ_trợ các điện_thoại dành cho doanh_nghiệp của Nokia chạy hệ_điều_hành Symbian_Series 80 và S60 : Nokia 9500 , Nokia 9300i Nokia E - series sắp được xuất_xưởng . Ngoài_ra , phần_mềm “ khách ” này còn tương_thích với các hệ_điều_hành Microsoft_Windows , Windows_Mobile và Mac OS của Apple .
+S.Hương Theo Teleclick

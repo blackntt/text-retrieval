@@ -1,0 +1,13 @@
+﻿Dell dự định tung ra máy chủ sử dụng chip AMD
+
+Thua lỗ nặng trong quý I đầu năm, ngày 18/5, công ty máy tính Mỹ Dell đã tuyên bố năm nay sẽ sử dụng bộ xử lý Opteron của AMD trong dòng máy chủ cao cấp với nhiều bộ xử lý của mình. 
+ Cho tới nay, Dell mới chỉ dùng chip Intel, đối thủ của AMD trong phần cứng của mình. 
+Trong buổi hội nghị kêu gọi đầu tư, các chuyên gia của Dell công nhận họ gặp rắc rối trong quý này vì hãng cố cùng lúc tăng cả doanh số và lợi nhuận, do vậy đã góp phần làm tăng lợi thế cho các đối thủ của mình. Lợi nhuận 3 tháng đầu năm của Dell chỉ đạt 762 triệu USD, giảm so với cùng kỳ năm ngoái (934 triệu USD). 
+Lãnh đạo cao cấp của Dell, ông Kevin Rollin phát biểu: “Môi trường cạnh tranh khắc nghiệt hơn so với chúng tôi tưởng, và chúng tôi đã hoạch định sai. Ngành công nghiệp này đang trải qua những thay đổi đáng kể chỉ trong một thời gian ngắn, và về lâu dài nó sẽ hợp nhất.” 
+Để tồn tại và phát triển, Dell sẽ phải chi 100 triệu USD để phát triển dịch vụ khách hàng, bằng cách thuê 2000 nhân viên bán hàng và hỗ trợ khách hàng, lập mới và mở rộng các trung tâm tư vấn qua điện thoại tại Oklahoma City, Nashville, Ottawa and Manila. 
+Và cuối cùng, công ty sẽ bắt đầu bán ra máy chủ dùng bộ xử lý AMD. Dell đã và đang là nhà cung cấp máy tính lớn nhất chỉ dùng chip Intel trong máy của mình; nhưng công ty đang dần thay đổi vị thế đó, khi hồi tháng 3, họ mua lại Alienware, nhà sản xuất máy tính cá nhân cao cấp chuyên để chơi game, dùng cả chip AMD và Intel. 
+Hiện tại, Dell sẽ mở rộng dòng máy chủ cho doanh nghiệp của mình, tới cuối năm 2006, khách hàng có thể lựa chọn hoặc dùng chip Woodcrest mới của Intel, hoặc dùng Opteron của AMD. 
+Nhà phân tích của hãng Current Analysis, Nicole D’Onofrio nhận xét: “Dell đang bắt tay với đối tác AMD. Đây là bước đi chiến lược mạnh mẽ của Dell. Hãng này luôn cố gắng để đạt được mức tăng trưởng đã đề ra. Tin này cũng góp phần làm căng thẳng thêm trận chiến giữa AMD và Intel, vì Dell hợp tác AMD trên máy chủ đồng nghĩa với việc Dell mở rộng việc sản xuất máy bàn, và máy tính xách tay dùng chip AMD. 
+Cùng lúc đó, Dell dự định cuối năm nay sẽ tung ra PC trang bị dòng chip lõi kép mới của Intel: Merom (máy xách tay) và Conroe (máy để bàn, máy trạm). 
+Quyết định này của Dell cũng đồng nghĩa với việc hãng sẽ có thêm những đối thủ cạnh tranh mới. Khi bán máy chủ trang bị bộ xử lý AMD, Dell bây giờ cạnh tranh với máy chủ Galaxy (cho doanh nghiệp lớn) và Sun Fire (cho doanh nghiệp vừa và nhỏ) của Sun Microsystems. 
+Theo thống kê của IDC, Dell vẫn là nhà cung cấp máy tính cá nhân lớn nhất thế giới, chiếm 18,1% thị phần trong quý I năm 2006, so với đối thủ ngay sát họ là HP chỉ chiếm 16,4%. Tất cả các nhà cung cấp khác chỉ có thị phần dưới 10%. Theo AI VietNam/InfoWorld

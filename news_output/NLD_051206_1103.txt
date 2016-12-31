@@ -1,0 +1,4 @@
+﻿ Xây_dựng hệ_thống giáo_dục THPT trực_tuyến
+GS.TS Hoàng_Kiếm - chủ_nhiệm chương_trình nghiên_cứu xây_dựng hệ_thống giáo_dục trực_tuyến dành cho bậc THPT - cho_biết chương_trình này đang triển_khai đối_với một_số môn_học như toán , lý , hóa , Anh_văn , tin_học ...
+Theo ông , chương_trình này được xem là một kênh để cung_cấp những bài giảng , tài_liệu tham_khảo ... trên mạg Internet . Ngoài_ra , đây còn là diễn_đàn giúp HS trao_đổi về mặt học_thuật . Khi hệ_thống này được triển_khai , HS có_thể ngồi tại nhà kết_nối mạng Internet và truy_cập vào kênh giáo_dục trực_tuyến để tích_lũy kiến_thức , tự học tại nhà và học bất_kỳ lúc_nào . Dự_kiến vào quí 2-2006 , chương_trình sẽ được triển_khai rộng_rãi .
+Theo Tuổi_Trẻ

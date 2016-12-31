@@ -1,0 +1,16 @@
+﻿ Các tuyến xe_buýt ở Qui_Nhơn : Số 4 , 5,6
+- Khởi_hành : 5g20 . Kết_thúc : 20g25 .
+Mỗi ngày có 51 chuyến hoạt_động , tần_suất : 30 phút/chuyến .
+Tuyến số 5 :
+- Nhánh 1 : bến_xe - chợ khu 6 - chợ Đầm - chợ Lớn - khu I - siêu_thị - bến_xe .
+- Nhánh 2 : bến_xe - siêu_thị - khu I - chợ Lớn - chợ Đầm - chợ khu 6 - bến_xe .
+- Lộ_trình : bến_xe TT_QN - BV Quân_y 13 - ĐH Qui_Nhơn - Diên_Hồng - siêu_thị - chợ sân_bay - T.B.Hổ - Trần_Phú ( Trường_Quốc_Học ) - Nguyễn_Huệ ( BVĐK tỉnh , Trường_Trưng_Vương ) - Trường_Lê_Quý_Đôn - khu I - T . H . Đạo ( Trung_tâm Mắt , BVTP , CĐSP ) - chợ Lớn - P.B.Châu ( Bưu_điện ) - P . Đ . Phùng - Đống_Đa - T . H . Đạo ( chợ Đầm , Sở Điện lực ) - công_viên Quang_Trung - N . T . Học ( chợ khu 6 , chợ Cây_Xăng ) - bến_xe TT và ngược_lại .
+- Cự_ly : 16,1 km . Hành_trình 45 phút ( 1 bến đỗ và 36 trạm dừng ) .
+- Khởi_hành : 5g45 . Kết_thúc : 19g45 .
+- Mỗi ngày có 60 chuyến xe hoạt_động , tần_suất : 25 phút/chuyến .
+Tuyến số 6 : Chợ_Lớn - Tuy_Phước - Ngã 4 Cầu_Bà_Di - Tây_Sơn và ngược_lại
+- Lộ_trình : chợ Lớn - Phan_Bội_Châu - Nguyễn_Huệ - Nguyễn_Tất_Thành ( siêu_thị , hội_chợ triển_lãm ) - Lý T.Kiệt - công_viên Quang_Trung - Phan Đ . Phùng - Đống_Đa ( chợ Đầm ) - Trần H . Đạo - Hùng_Vương ( ngã ba ông Thọ ) - chợ Dinh - Quốc_lộ 19 - Tuy_Phước - ngã ba Bà Di - Trung_Bà_Đờn - TT Phú_Phong ( Tây_Sơn ) và ngược_lại .
+- Cự_ly : 47,9 km . Hành_trình 100 phút ( hai bến đỗ và 56 trạm dừng ) .
+- Khởi_hành : 5g15 . Kết_thúc : 20g20 .
+Mỗi ngày có 39 chuyến hoạt_động , tần_suất : 40 phút/chuyến .
+PV

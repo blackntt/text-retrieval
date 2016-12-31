@@ -1,0 +1,4 @@
+﻿ VinaPhone và MobiFone tính block 6 +1 giây
+( NLĐ ) - Kể từ 1-6 , VNPT sẽ áp_dụng phương_thức tính cước mới theo block 6 +1 . Cước hòa_mạng đối_với dịch_vụ trả sau tối_đa 181.818 đồng/máy và tối_thiểu 127.272 đồng/máy . Cước thông_tin dịch_vụ trả sau tối_đa 1.554 đồng/phút , tối_thiểu 1.227 đồng/phút .
+Đối_với dịch_vụ trả trước , mức cước tối_đa 2.727 đồng/phút , tối_thiểu 2.000 đồng/phút . Đối_với dịch_vụ trả trước thuê_bao ngày , mức cước tối_đa 1.909 đồng/phút , tối_thiểu 1.382 đồng/phút ... . Mạng ĐTDĐ_VN chính_thức có thêm nhà_cung_cấp thứ 6 là E-Mobile ( 096 ) của EVNTelecom từ ngày 15-5 . Cước hòa_mạng sử_dụng dịch_vụ E-Mobile trả sau là 90.909 đồng/máy , cước thuê_bao 50.000 đồng/tháng . Các cuộc_gọi trong nước nội mạng giá cước là 90,9 đồng/block 6 giây đầu và 15,15 đồng/block 1 giây tiếp_theo . Các cuộc_gọi ngoài mạng là 120 đồng/block 6 giây và 20 đồng/block 1 giây tiếp_theo .
+T.Dũng

@@ -1,0 +1,8 @@
+﻿Hacker đánh sập website của cảnh sát Thụy Điển
+
+Một website của cơ quan cảnh sát nước này bị một băng nhóm tin tặc tấn công từ chối dịch vụ DoS như là một hành động trả thù vì tổ chức này đã truy quét website chia sẻ nổi tiếng The Pirate Bay từ hồi đầu tuần trước. 
+ Website của cảnh sát Thụy Điển đã phải đóng cửa vào cuối ngày 1/6, nhóm hacker đã làm quá tải mạng của cơ quan này bằng cách kích thích lưu lượng truy cập khiến website bị trì trệ, Lars Lindahl, phát ngôn viên của cảnh sát, cho biết. Ông này không loại trừ khả năng tin tặc tấn công để trả đũa vụ truy quét website chia sẻ trên của cảnh sát thực hiện từ ngày 31/5. “Rất có thể là nguyên nhân từ The Pirate Bay , nhưng đó mới chỉ là suy đoán”. 
+Trong cuộc truy quét website chia sẻ, cảnh sát đã đột nhập vào 10 địa điểm ở miền Trung Thụy Điển và bắt được 3 người đàn ông liên quan đến The Pirate Bay bị tình nghi đã vi phạm bản quyền. Theo ông Ulf Goranzon, phát ngôn viên của cảnh sát tockholm, 3 người này sau đó đã được thả nhưng có thể sẽ vẫn phải chịu phạt tài chính. 
+Ngày 2/6, trên site The Pirate Bay xuất hiện một thông điệp “sẽ hoạt động và phục hồi đầy đủ chức năng trong một, hai ngày tới”. 
+Cảnh sát Thụy Điển đang tiến hành điều tra về nhóm tin tặc này. 
+N.H Theo CNN

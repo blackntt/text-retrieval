@@ -1,0 +1,34 @@
+﻿ Đối_tác của bạn là ai ?
+Dựa vào những con_số trong ngày_sinh , bạn có_thể biết rõ hơn mình là tuýp “ yêu ” ra_sao và với ai sẽ phù_hợp . Thử lắp_ghép để tìm chân_dung nửa kia của bạn xem nào .
+Cực_kỳ đơn_giản , hãy cộng tất_cả các con_số trong ngày_sinh của bạn cho_đến khi kết_quả chỉ còn là một chữ_số , đó là “ mã ” của bạn .
+Ví_dụ , bạn sinh ngày 27-03-1971 . Thực_hiện phép_tính : 2 +7 +0 +3 +1 +9 +7 +1 = 30 . Sau đó lấy 3 +0 để ra một chứ số 3 duy_nhất . Giờ thì so kết_quả nhé . Lưu_ý : chỉ đúng với phụ_nữ .
+Mã_số 1 : Người_tình nồng_nhiệt
+Nếu “ nhắm ai ” , bạn tự_nhiên thành người phụ_nữ cực_kỳ duyên_dáng . Trong ân_ái bạn chủ_động , nhiều sáng_kiến và giàu trí_tưởng tượng .
+Đời_sống tình_cảm của bạn luôn chan_chứa , tuy_nhiên cũng có_khi bạn trở_nên chừng_mực , kìm_nén vì vướng vào một mối rung_động sâu_sắc .
+Quân_sư : Bên_cạnh bạn cần có một người đàn_ông cá_tính mạnh , anh_ta có_thể ghìm “ cương ” cho bạn khỏi loạn phương_hướng .
+Mã_số 2 : Lãng_mạn khiêm_tốn
+Với bạn tình_yêu là_hơi thở , là không_khí . Bạn dễ xúc_động trước những cử_chỉ đẹp thậm_chí hơi phù_phiếm . Khi ân_ái bạn không nhiều sáng_tạo nhưng luôn có thừa nhiệt_tình , chính vì_vậy bạn không kém phần nhạy_cảm , sexy .
+Quân_sư : Bạn cần một mối quan_hệ nghiêm_túc chắc_chắn dẫn đến hôn_nhân .
+Mã_số 3 : Cởi_mở và nổi_loạn
+Bạn thích mình là trung_tâm của sự chú_ý , ham vui . Bạn cởi_mở , có duyên và thích chiếm_đoạt ngay các đối_tượng trong tầm ngắm . Trong ân_ái bạn muốn tình_huống khác_thường và tìm_kiếm những khoái_cảm tuyệt_đối .
+Quân_sư : Cần người đàn_ông chịu_chơi và “ nổi_loạn ” ngang tầm để chiều được những ý thích bất_thường của bạn .
+Mã_số 4 : Bản_năng , trực_giác tốt
+Bạn là người quyết_đoán , vững_vàng , có những lúc ngoài_mặt tỏ ra lạnh_lùng , khó gần nhưng trong lòng thực_ra rất nóng_bỏng . Khi “ yêu ” bạn có những đáp trả rất đẹp . Bạn nhạy_cảm và khó quên .
+Quân_sư : Bạn cần một người thông_minh , chung_thủy , sinh_động trong ứng_xử tình_dục và đương_nhiên phải_biết cách chiều_chuộng .
+Mã_số 5 : “ Đánh chiếm ” không mệt_mỏi
+Bạn thích thử sức mình trong các cuộc chinh_phục đàn_ông . Đối_tượng càng khó chiếm_hữu bạn càng hứng_thú , có_điều “ trói ” được đối_tác rồi bạn lại ngãng ra tìm “ đỉnh_cao mới ” . Khi yêu bạn thích nhận nhiều hơn là cho .
+Quân_sư : Phải một cao_thủ bằng_vai mới khuất_phục được bạn . Anh_ta cũng thích phiêu_lưu , không nô_lệ trước bạn mà cứ hồn_nhiên rong chơi .
+Mã_số 6 : Tiềm_ẩn “ núi_lửa ”
+Bạn luôn điều_chỉnh hài_hòa nhịp sống và ứng_xử , nhưng bỗng một ngày , bạn gặp tình_yêu “ bự ” và thế_là núi_lửa bừng dậy . Bạn dám làm những việc tày_trời vì ... yêu .
+Quân_sư : Bạn cần tìm một người đàn_ông thành_đạt , có vị_trí chắc_chắn trong xã_hội , đồng_thời là một người chồng người bố dịu_dàng . Có thế bạn mới khó từ_bỏ tổ_ấm của mình để đi theo tình_yêu sét đánh .
+Mã_số 7 : Tính_toán thông_thái
+Bạn hơi lạnh và biết giữ khoảng_cách . Vốn thông_minh , tinh_tế , bạn biết cách làm người khác hài_lòng , nhất_là khi gặp đối_tác “ cùng đẳng_cấp ” . Tiếc rằng người “ môn_đăng_hộ_đối ” với bạn không nhiều .
+Quân_sư : Bạn cần một người có_thể chia_sẻ sự tận_hưởng trí_tuệ chứ không phải chỉ có thể_xác .
+Mã_số 8 : Ưa chỉ_đạo
+Bạn là người xốc_vác , tự cho_phép mình chỉ_huy mọi lúc mọi nơi , kể_cả trong phòng ngủ . Đối_tác của bạn thường bị dồn vào thế bị_động .
+Quân_sư : Anh_ta phải là người ngưỡng_mộ , tin_yêu bạn và biết cống_hiến . Nếu anh_ta mạnh như bạn thì tình_yêu sẽ chóng tan .
+Mã_số 9 : Sùng_bái tự_do
+Bạn chỉ làm những gì mình muốn , yêu và thích không được bền lâu , đi theo tiếng gọi của bản_năng . Bạn có_thể “ dan_díu ” với vài người một lúc . Bạn không thích lập kế_hoạch trước mỗi cuộc “ yêu ” - càng bất_chợt bạn thấy kích_thích .
+Quân_sư : Bạn không hợp với cuộc_sống gia_đình . Chỉ có người đàn_ông bị lệ_thuộc về kinh_tế hoặc quyền_lực mới chịu cúi đầu bên bạn .
+Theo Đan_Hà
+Tiền_Phong

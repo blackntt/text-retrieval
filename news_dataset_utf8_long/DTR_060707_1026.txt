@@ -1,0 +1,12 @@
+﻿Phục hồi file Zip với Zip Repair Pro
+
+Khi chia sẻ dữ liệu trên mạng, mọi người thường nén file giúp nhẹ hơn để download dễ dàng hơn. Nhưng do lỗi trong quá trình kết nối mà một số file sau khi tải về không thể giải nén. Và lúc đó phần mềm Zip Repair là công cụ không thể thiếu trong sự chọn lựa của bạn. 
+ Zip Repair Pro là một phần mềm rất hiệu quả trong việc khôi phục các file định dạng Zip bị lỗi trong quá trình tải trên mạng. Chương trình với thiết kế đơn giản và rất dễ sử dụng, chỉ cần vài cú kích chuột tập tin của bạn đã có thể khôi phục hoàn toàn nguyên vẹn 100%. 
+Để phục hồi file zip bất kì, bạn click vào Add File và chỉ đường dẫn dến file cần phục hồi như hình 1. 
+Hình 1 
+Khi đó file cần khôi phục sẽ được đưa vào danh sách, bạn click chọn file và ấn nút Repair (hình 2), chương trình sẽ tự động khôi phục và sửa lỗi cho tập tin bạn vừa chọn, sau đó lưu file đã chỉnh sửa vào đường dẫn mặc định. 
+Ở đây chương trình thường mặc định lưu file đã sửa chữa tại đường dẫn C:\ . Bạn hoàn toàn có thể thay đổi đường dẫn mặc định này bằng cách click Browse.. trong mục Path to repaired file(s) và chỉ đường dẫn đến thư mục bất bì mà bạn muốn. 
+Hình 2 
+Chương trình tương thích với hệ điều hành Windows : 98/ME/2000/XP 
+Các bạn có thể tải bản dùng thử 30 ngày của chương trình tại địa chỉ : 
+http://www.ziprepair.com/download-ziprepair.php?file=ZipRepairPro-Setup.exe Quốc Trung

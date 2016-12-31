@@ -1,0 +1,16 @@
+﻿VinaPhone chuẩn bị cung cấp các dịch vụ mới
+
+Đây là dịch vụ cho phép truyền tải dữ liệu với tốc độ cao tới 115kbps, gấp 12 lần tốc độ GSM. Ưu điểm của công nghệ này là làm gia tăng đáng kể khả năng truyền dữ liệu thông qua việc linh hoạt tận dụng tối đa các kênh truyền dữ liệu còn trống của mạng, thay vì chỉ chiếm một kênh như công nghệ GSM. 
+Chính vì thế, thuê bao điện thoại di động có thể vừa nối mạng Internet liên tục, vừa gọi điện thoại như bình thường. Cước phí chỉ tính theo lưu lượng thông tin nhận được chứ không tính theo thời gian chiếm kênh như hiện nay. Có nghĩa là mặc dù điện thoại vẫn đang nối mạng, nhưng không có dữ liệu nào được truyền đi thì người sử dụng cũng không phải trả cước. 
+Dịch vụ này đã được Vinaphone tiến hành thử nghiệm từ tháng 9/2003. Hiện, các thuê bao VinaPhone ở Hà Nội, TP.HCM, Đà Nẵng, Đồng Nai, Thừa Thiên Huế đã có thể sử dụng được GPRS. Dự kiến đến đầu quý 3/2004, VinaPhone sẽ chính thức cung cấp dịch vụ. 
+Dịch vụ đại lý điện tử - VinaE-Load 
+Đây là dịch vụ nạp tiền điện tử mới nhất của VinaPhone cho phép hàng nghìn đại lý VinaPhone có thể tự động nạp tiền trực tiếp vào tài khoản di động trả trước VinaCard, VinaDaily, VinaText của khách hàng mà không cần sử dụng các thẻ cào thông thường. 
+Bằng cách sử dụng một loại SIM Card đặc biệt, các đại lý VinaE-load có thể thực hiện chuyển tiền từ tài khoản VinaE-load của mình đến tài khoản của các thuê bao VinaCard, VinaDaily, VinaText một cách đơn giản và nhanh chóng. 
+Sau khi đại lý VinaE-load thực hiện chuyển tiền, khách hàng sẽ nhận được tin nhắn SMS thông báo về số tiền đã được nạp vào tài khoản trả trước của mình. Khách hàng cũng có thể kiểm tra lại bằng cách gọi số 900, bấm số 2 để nghe thông báo về số dư tài khoản trả trước. Dự kiến, dịch vụ này cũng sẽ được triển khai vào quý 3/2004. 
+Push to Talk - Một phương thức đàm thoại mới 
+Dịch vụ PTT (Push to Talk) là một dịch vụ mới cũng đang được VinaPhone tiến hành thử nghiệm. Tương tự như phương thức đàm thoại giữa các máy bộ đàm thông thường, PTT cho phép kết nối cuộc gọi bộ đàm giữa các nhóm người sử dụng với nhau. Âm thanh sẽ được mã hóa và chuyển giữa các máy di động dưới dạng gói thông tin qua đường truyền GPRS. 
+Để sử dụng dịch vụ PTT, khách hàng phải có máy di động có tính năng "Push to Talk", đăng ký và sử dụng dịch vụ GPRS. Người sử dụng có thể lựa chọn một hoặc nhóm người quen đã cài đặt sẵn trong máy và bấm nút PTT để bắt đầu đàm thoại. 
+PTT là phương thức liên lạc không đồng thời, khi người này nói thì người/nhóm người kia chỉ nghe và ngược lại. Cuộc gọi PTT sẽ được kết nối ngay mà không cần người nhận bấm máy trả lời. Âm thanh sẽ được phát ra từ máy di động thông qua hệ thống loa Loudspeaker. 
+Dự kiến, cước đàm thoại sẽ được tính theo dung lượng gói âm thanh truyền qua GPRS (kbyte).
+
+Theo VDC - GPC

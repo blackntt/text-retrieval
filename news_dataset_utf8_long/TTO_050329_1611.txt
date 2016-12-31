@@ -1,0 +1,8 @@
+﻿Vẽ đồ thị toán học với Graph Plotter
+
+Graph Plotter 1.2.2 mới nhất được phát hành mang theo nhiều hỗ trợ hơn về các tính năng cho đồ thị. Graph Plotter không chỉ giúp bạn vẽ các đồ thị mà còn có thể phân tích nhiều loại biểu đồ số học khác nhau, và cũng trong phiên bản 1.2.2 mới, Graph Plotter có thể tìm các đường tiệm cận, vô cực hay đạo hàm cùng nhiều chức năng khác. 
+Hỗ trợ các loại đồ thị khác nhau, Graph Plotter có khả năng xử lý 20 đồ thị cùng một lúc với các dạng như x(y), (y)x; các hàm biến thiên, có cực y(t) x(t), tham số f(x,y)=0, hai biểu thức bằng nhau f(x,y)&gt;=0 f(x,y)&lt;=0 … và chức năng xử lý bảng. Bạn có thể sử dụng các chức năng của Graph Plotter để vẽ đồ thị hipebon, đồ thị lượng giác (với tất cả 20 chức năng) hay hằng số (pi, e). 
+Chức năng tìm kiếm cũng là một trong những điểm mạnh của Graph Plotter. Có thể tìm và vẽ các đồ thị với đường tiệm cận ngang-dọc-xiên, điểm vô cực, đạo hàm, tìm và vẽ các đường tiếp tuyến … và lưu lại với định dạng .bmp hay .jpg. 
+Cuối cùng, Graph Plotter hơn các chương trình có cùng chức năng khác là khả năng phân tích nhanh nhạy và viết các điểm đó lên một “cây phân tích” , chức năng này giúp bạn nhanh chóng tìm ra kết quả hay kiểm tra lại thong số cho chính xác. Tải về dùng thử tại đây .
+
+TRẦN THANH TRỰC

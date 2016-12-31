@@ -1,0 +1,19 @@
+﻿ " Tìm đường " cho bản_đồ số Việt_Nam !
+Không hẹn mà gặp , đang có nhiều cá_nhân , nhóm , công_ty phát_triển tiện_ích bản_đồ số dưới nhiều hình_thức khác_nhau . Nhà_nhà đang làm bản_đồ số thì liệu sẽ sớm đến ngày người_người được dùng công_cụ thông_minh , tiện_dụng này ?
+La_bàn thời số_hóa
+Khi đến quán cafe dành cho người chơi PDA để cài_đặt một_số ứng_dụng cho PocketPC , tôi được cài_đặt miễn_phí một bản_đồ số khu_vực Hà_Nội có tên HandMap . Nếu muốn cài_đặt bản_đồ Việt_Nam và nhiều nước khác có tên SmartMap thì tôi phải_chi vài USD .
+Nhưng với riêng HandMap cũng đủ thấy sự tiện_dụng khi những con đường Hà_Nội nằm trong lòng bàn_tay , cho_dù , công_cụ giúp mình xác_định vị_trí này chỉ có chức_năng thay_thế chiếc bản_đồ xòa rộng bằng giấy vẫn quen dùng .
+Anh Tuấn , trưởng nhóm Vietkey_Group kể về ứng_dụng bản_đồ số ở Hàn_Quốc khiến tôi thích mê . Khi lên xe của người bạn phóng trên đường_phố Seoul , cần đến đâu đều đã có hệ_thống bản_đồ số gắn trên xe chỉ_dẫn .
+Thiết_bị chuyên_dụng giống như chiếc PDA cài sẵn trên xe . Nó có khả_năng hiển_thị tọa_độ , cung đường , quãng đường , nhắc đèn_đỏ , thậm_chí cảnh_báo người cầm lái đã đi nhầm đường ... !
+Hệ_thống như_vậy rất phổ_biến ở nhiều nước , có nơi bản_đồ số bằng hình_ảnh 3D , giao_diện sinh_động , gần với thực_tế , còn dữ_liệu cũng phong_phú để tránh cảnh bản_đồ số cũng bất_lực trước việc tìm đường .
+Anh Tuấn cho rằng , giá_cả lắp_đặt một hệ_thống như_vậy trên ôtô vào_khoảng 700 đến 1.000 USD , tức_là tương tương giá một chiếc PDA , bao_gồm cả Hệ_thống định_vị vệ_tinh ( GPS ) , phần_mềm , dữ_liệu ...
+Một_số website có tích_hợp bản_đồ số
+- Ngân_hàng bản_đồ trực_tuyến ( http : / / basao.com.vn ) với bản_đồ 61 tỉnh , các dịch_vụ về bất_động_sản , tra_cứu thông_tin cơ_sở văn_hóa - xã_hội - kinh_tế , giao_thông , khách_sạn - nhà_hàng , du_lịch ...
+- Website của Tổng_Công ty vận_tải Hà_Nội ( TRANCERCO , http : / / www.hanoitranserco.com.vn ) chỉ_dẫn về lộ_trình các tuyến xe_buýt .
+- Trang_Địa điểm ( http : / / www.diadiem.com ) với bản_đồ tìm theo tên công_ty , theo số điện_thoại ...
+- Trang_web của TPHCM ( http : / / www.hochiminhcity.gov.vn ) có bản_đồ của toàn_bộ TP và các quận huyện .
+Hiện_tại , ở Việt_Nam , các trang_web có ứng_dụng Hệ_thống thông_tin địa_lý ( GIS ) ngày_càng nhiều . Tuy chưa thực_sự công_phu nhưng đã có khả_năng đáp_ứng nhu_cầu đa_dạng của người dùng , từ việc xác_định lộ_trình , điểm đến của các tuyến xe bút , địa_chỉ khách_sạn nhà_hàng , điểm tham_quan du_lịch đến tìm đường đi ngắn nhất ...
+Nếu so với nhu_cầu thực_tế thì các hình_thức bản_đồ số hiện có tại Việt_Nam mới chỉ ở mức sơ_khai . Các khóa đào_tạo về bản_đồ số , về GIS , GPS ... vẫn đang được mở ra . Khi việc ứng_dụng công_nghệ trở_nên phổ_biến và cấp_bách , người dùng Internet , điện_thoại , thiết_bị cầm tay ở Việt_Nam gia_tăng nhanh_chóng thì bản_đồ số_không sợ thiếu đất_dụng_võ .
+Khả_năng thương_mại_hóa là điều đã được nhìn thấy nên một_số nơi đang nhắm đến thị_trường này .
+Anh Tuấn nói , việc nhiều người , nhiều nơi bắt_tay thực_hiện bản_đồ số_là tất_yếu vì lúc này , công_nghệ , nhu_cầu sử_dụng nó đã sẵn_sàng . Một_số xe_hơi đời_mới nhập về Việt_Nam đã được cài_đặt sắn GPS ... " Nếu mình không làm thì sẽ có đơn_vị khác làm , điều này cũng không có gì lạ ... " , anh Tuấn chia_sẻ . Hệ_thống này đã được anh ấp_ủ từ khá lâu nhưng vì nhiều lý_do khác_nhau chưa hoàn_thiện ngay được ...
+Ở Việt_Nam , PDA/Internet , GPS - hai yếu_tố nền cho bản_đồ số đã có . Nhưng riêng bản_đồ số thì đang ở những chặng đầu phát_triển . Vấn_đề là bao_giờ ba yếu_tố này " chụm " lại để sự tiện_ích của công_cụ này đến với mỗi người_dân thì vẫn còn là một câu_hỏi chưa lời giải_đáp . Nhiều người đang làm bản_đồ số , nhưng đâu sẽ là sản_phẩm tiếp_cận với đời_sống , không thua_kém gì hàng_hóa bên ngoài ? ... Theo Bùi_Dũng_Viet NamNet

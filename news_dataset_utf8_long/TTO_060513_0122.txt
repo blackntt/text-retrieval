@@ -1,0 +1,10 @@
+﻿Robot "em bé" biết học như người
+
+Robot có tên gọi Babybot này có khả năng tự động thí nghiệm với các vật thể gần nó và học cách sử dụng chúng như thế nào là tốt nhất. Điều này cung cấp cho robot khả năng phát triển các kỹ năng vận động y như ở một đứa trẻ nhỏ. 
+Babybot là một robot bán thân có một cánh tay với đôi mắt là các camera và một bàn tay có khả năng cầm nắm đồ vật. Nó được chế tạo với yêu cầu thực hiện thử nghiệm với các vật thể trên bàn trước mặt nó và có khả năng đánh giá các hình thức tương tác và học hỏi từ các lần thử nghiệm sai. 
+Chẳng hạn, nếu thất bại trong việc cầm nắm chắc chắn đồ vật, nó sẽ ghi nhớ và thử một "chiến lược" khác trong lần thử tiếp theo. Một kỹ năng mà Babybot tự học được là lăn một cái chai trên bàn. Nó cũng có thể "chơi" với một chú vịt nhựa hay một quả bóng. 
+"Não" của Babybot trên thực tế là tập hợp của 20 chiếc máy tính vận hành nhiều mạng thần kinh. Đây là phần mềm mô phỏng hệ thần kinh sinh học và học tập với cách thức tương tự con người - bằng cách xác lập và thay đổi cường độ của các dây thần kinh nhân tạo. Bằng cách điều chỉnh phần mềm hệ thần kinh và quan sát cách robot học tập xung quanh, các chuyên gia robot có thể kiểm tra các kiểu thần kinh khoa học khác nhau. 
+"Đây là ý tưởng tuyệt vời. Bạn có thể nghiên cứu phát triển trí thông minh hay trí thông minh nhân tạo từ ý tưởng này", Steve Grand, một chuyên gia robot nói. 
+Các nhà khoa học đang chuẩn bị chế tạo phiên bản kế tiếp của Babybot, được đặt tên là Robocub, có hình dáng như một em bé mới biết đi, dự kiến hoàn thành vào mùa xuân 2007.
+
+KIM NHUNG (Theo Newscientist)

@@ -1,0 +1,19 @@
+﻿Cái chết của DVD bảo mật
+
+Một đĩa DVD phim thông thường được gài sẵn 5 hệ thống bảo mật khác nhau để đối phó với bọn sao chép lậu. 
+Để ngăn chặn việc sao chép trực tiếp dữ liệu, các nhà sản xuất đã sử dụng đến 2 hệ thống bảo mật: hệ thống xáo trộn nội dung (CSS) và hệ thống mã số DVD (còn có tên gọi là CPRM). 
+CSS chia dữ liệu DVD thành từng khối nhỏ rồi mã hoá. Chìa khoá giải mã của từng khối được đặt trên một vùng ẩn của đĩa. Khi sao chép, máy ghi đĩa chỉ ghi được các khối dữ liệu, còn chìa khoá giải mã thì không. Do đó, đĩa chép không thể sử dụng được. 
+Ở hệ thống CPRM, các nhà sản xuất đặt trên mỗi DVD trắng một mã số điện tử. Các đĩa gốc được mã hoá sao cho, các tín hiệu số chỉ được giải mã với một mã số DVD đi kèm. Khi sao dữ liệu từ đĩa xịn sang đĩa trắng khác, bản lậu không thể hoạt động được vì đĩa trắng mới có mã số khác. 
+Để phòng ngừa việc ghi dữ liệu gián tiếp, tức là người chép lậu nối đầu DVD với đầu ghi đĩa và sao chép dữ liệu dưới dạng tín hiệu analog (giống như các tiệm băng video vẫn thường làm), các nhà sản xuất đĩa đặt thêm cái khoá cuối cùng: hệ thống Macro-vision DVD copy protection. Hệ thống này sẽ tạo ra các tần số mới, gây nhiễu hình ảnh xuất ra ở các đầu ghi đĩa. 
+Để phòng ngừa chuyện DVD lậu xuất hiện ở nhiều địa phương khác nhau, các nhà sản xuất DVD đã tạo ra các mã vùng khác nhau, đĩa sản xuất ở vùng nào thì chỉ có đầu DVD ở vùng ấy đọc được. 
+Cuối cùng, để đề phòng trường hợp xấu nhất là có một tay kinh doanh đĩa lậu thông minh vượt qua hết các rào cản trên, các nhà sản xuất dùng đến đĩa DVD 2 lớp. 
+Các DVD trên thị trường, ngoài bản phim chính, còn có thêm vô số các "tặng phẩm" kèm theo như phim tài liệu, quảng cáo...Những "món quà" này đã đẩy dung lượng dữ liệu vượt quá sức chứa của 1 DVD thông thường, và chỉ có DVD 2 lớp mới chứa hết. 
+Tuy nhiên, các đầu ghi DVD trên máy tính hiện nay chỉ ghi được các đĩa DVD 1 lớp, do đó các tay sao đĩa chỉ có thể chép được một phần các đĩa gốc 2 lớp, hoặc phải nén tập tin, giảm chất lượng phim xuống để chép được toàn bộ nội dung. 
+Vỏ quýt dày có móng tay nhọn 
+Tuy nhiên, hệ thống các lớp bảo mật dày đặc của các DVD video đã bị vô hiệu hoá phần lớn. Việc phá vỡ CSS hầu như là không thể ở các máy tính 4-5 năm trước, thì nay đã trở thành trò đùa đối với các máy tính đời mới. Các chương trình bẻ khoá ngày nay có thể vô hiệu hoá CSS trong vài giây và chúng xuất hiện đầy dẫy trên mạng. 
+Hệ thống mã số DVD cũng bị vô hiệu hoá với cách ghi gián tiếp. Thay vì chép thẳng dữ liệu, các tay sao chép lậu giải mã các dữ liệu trên máy vi tính rồi chép phần dữ liệu này lên DVD. Mã vùng thì đã bị vô hiệu hoá hoàn toàn với các đầu DVD thế hệ mới, đọc được đĩa ở tất cả các vùng. 
+Thành luỹ cuối cùng, đĩa DVD 2 lớp, cũng đang bị phá huỷ. Các nhà sản xuất đĩa DVD-R và đầu ghi DVD cá nhân cho biết thế hệ đầu đĩa mới có thể ghi DVD 2 lớp sẽ ra mắt trong vài tháng tới. Với công nghệ mới này, việc ghi 1 DVD phim sẽ chẳng khác gì việc ghi dữ liệu lên 1 đĩa CD. 
+Hollywood lúng túng 
+Nếu ngành công nghiệp âm nhạc thích ứng với tình trạng sao chép lậu bằng việc bán nhạc nén trực tuyến, ngành công nghiệp phim ảnh vẫn chưa thể thực hiện được giải pháp này. Dung lượng 1 bài nhạc nén là rất nhỏ, nhưng 1 DVD phim chất lượng cao thì không. Lượng DVD bán ra và cho thuê hàng ngày ở Mỹ có dung lượng 5 triệu GB, bằng phân nửa số dữ liệu truyền tải Internet hàng ngày. Chưa kể, việc tải về 1 DVD phim có thể kéo dài đến 8 tiếng với đường truyền tốc độ cao.
+
+ANH QUÝ (Theo BBCNews)

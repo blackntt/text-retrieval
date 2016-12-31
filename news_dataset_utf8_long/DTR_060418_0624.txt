@@ -1,0 +1,14 @@
+﻿Nga vô địch kỳ thi lập trình thế giới ACM-ICPC
+
+Ngày 13/4, ba sinh viên Nga đã đoạt chức vô địch kỳ thi lập trình thế giới ACM International Collegiate Programming Contest (ICPC) 2006. Đội tuyển Việt Nam tham dự cuộc thi này nhận được bằng khen của ban giám khảo.
+
+ Trong cuộc thi lập trình thế giới ACM-ICPC lần thứ 30, nhóm sinh viên ĐH Saratov (Nga) đã xuất sắc vượt qua hơn 80 đội tuyển khác từ khắp thế giới để đoạt ngôi vô địch. Sinh viên Igor Kulkin, 21 tuổi, thành viên của đội Nga nói: "Tôi rất hài lòng với bài thi của chúng tôi ngày hôm nay. Cảm giác thật tuyệt vời". 
+Với mỗi nhóm gồm ba thành viên, các thí sinh tham dự cuộc thi năm nay có năm giờ để giải quyết 10 câu hỏi mà thông thường phải mất tới hàng tháng mới có thể hoàn tất. Đội Saratov đã giải được sáu trong số 10 câu hỏi này trong khoảng thời gian quy định. 
+Những người thắng cuộc được xác định dựa trên số câu trả lời đúng mà họ đưa ra trong khoảng thời gian đã định. Nếu số câu trả lời bằng nhau, các trường sẽ được xếp loại dựa trên số lần thử mà họ cần phải thực hiện để đưa ra được câu trả lời đúng. 
+Cuộc thi đã diễn ra trong một phòng họp hình tròn, bao gồm cả các hàng ghế khán giả, những lối đi vây quanh một thảm cỏ nhân tạo và hai màn chiếu liên tục hiển thị số điểm của các đội. Mỗi khi có một đội giải được một câu hỏi, một quả bóng mầu sẽ được buộc lên phía trên bàn của đội này để các đối thủ và người xem biết được vị trí của họ. 
+Ngoài cúp vô địch, các thành viên trong đội đứng đầu sẽ được nhận một học bổng trị giá 10.000 USD kèm theo một bộ máy tính của hãng IBM, nhà tài trợ chính của cuộc thi. 
+Các giải thưởng đã được trao tặng trong một buổi lễ trang trọng theo kiểu Texas tối ngày 13/4 với những diễn viên đội mũ cao bồi, quàng khăn và mặc quần bò xanh hộ tống những người đoạt giải. 
+Sau đội vô địch, có ba đội đoạt huy chương vàng với giải thưởng dành cho mỗi đội là 3.000 USD. Đó là các đội ĐH Twente của Hà Lan, ĐH Kỹ thuật Altai của Nga và đội ĐH Jagiellonian của Ba Lan. 
+Ba đội cùng đoạt huy chương bạc kèm phần thưởng 2.100 USD là Viện Công nghệ Massachusetts của Mỹ, ĐH St. Petersburg của Nga và ĐH Jai Tong Thượng Hải của Trung Quốc. 
+Huy chương đồng cùng 1.050 USD giải thưởng được trao cho các đội ĐH Kỹ thuật Hàng không Ufa và ĐH Moscow cùng của Nga, hai đội Canada là ĐH Waterloo và ĐH Alberta . 
+Đội tuyển BK Eagle của trường ĐH Bách khoa TPHCM với ba sinh viên là Nguyễn Tường Quân, Nguyễn Đan Thành và Phạm Hữu Ngôn đã đại diện cho Việt Nam dự thi và đã nhận được bằng khen của ban giám khảo cùng với 27 đội khác. Theo Nhân dân

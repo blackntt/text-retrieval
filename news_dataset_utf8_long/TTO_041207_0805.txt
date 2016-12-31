@@ -1,0 +1,9 @@
+﻿Hòa nhịp Tiger Cup 2004 bằng Tiger Cup Mobile
+
+TigerCupMobile cho phép người sử dụng điện thoại di động tra cứu nhanh lịch thi đấu của các đội tuyển (thời gian, địa điểm, cặp đấu). Người sử dụng cũng có thể tự động cập nhật tỉ số của các trận đấu diễn ra trong giải qua hai hình thức: tự nhập bằng tay sau khi biết tỉ số hoặc truy cập qua WAP để cập nhật tất cả các dữ liệu mới về giải đấu này. 
+Khi nhập tỉ số trận đấu, chương trình sẽ cho bạn biết những thông số về bảng đấu như: đội nào đang đứng nhất bảng, hệ số bàn thắng, bàn thua, đội nào sẽ được vào Bán kết hay Chung kết. Với phần mềm này người sử dụng sẽ có một cái nhìn một cách tổng quát nhất về giải đấu Tiger Cup 2004. 
+Phần mềm TigerCupMobile được phát triển thành hai phiên bản tiếng Việt và tiếng Anh, đồng thời hỗ trợ người sử dụng xem lịch thi đấu theo bất cứ giờ nào của các nước Đông Nam Á. Bên cạnh đó, chương trình sẽ cho bạn biết thông tin ngắn gọn về lịch sử các giải đấu TigerCup trước, cùng với những thay đổi mới nhất của giải TigerCup 2004 về giải thưởng, cách thức đấu loại... 
+Chương trình đã được kiểm tra và chạy tốt trên các đời máy sau: Samsung: D410, E600, E700, E800, S200, S300, C100, X600, X120; Nokia: 6600, 3100, 7600, 6610, 7610; Sony Ericsson: T610. 
+Tải về hướng dẫn sử dụng chương trình tại đây . Nếu dùng điện thoại di động thì tải về từ trang wap: wap.fptmobile.com.vn hoặc vào http://www.antsvn.com để tải về bằng máy tính.
+
+ĐÔNG HẢI

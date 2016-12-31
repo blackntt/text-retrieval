@@ -1,0 +1,10 @@
+﻿ Fontifier : biến chữ_viết tay thành font chữ cho máy_tính
+Dịch_vụ này không phải miễn_phí mà bạn phải trả 9 USD cho mỗi lần làm một bộ font chữ . Đầu_tiên bạn truy_cập vào trang_web : http : / / www.fontifier.com và thực_hiện theo các bước sau :
+- Bước 1 : Bạn mở bảng mẫu mà chương_trình cung_cấp lên , sau đó in ra giấy .
+- Bước 2 : Bạn viết các mẫu_tự chữ_cái và các ký_hiệu vào trong bảng mẫu đó .
+- Bước 3 : Bạn dùng máy Scan để scan bảng mẫu đó vào lại trong máy_tính ( độ_phân_giải có_thể là 72 dpi , 75 dpi , or 100 dpi , định_dạng file ảnh có_thể là GIF , JPEG , PNG , or TIFF ) .
+- Bước 4 : Bạn đặt tên cho font chữ , sau đó tải bảng mẫu font chữ này lên trang_web .
+- Bước 5 : Bước này cho_phép bạn thấy qua được font chữ của mình , nếu bạn không ưng_ý thì có_thể làm lại từ đầu , nếu đồng_ý thì bạn chọn các hình_thức trả tiền ( thẻ_tín_dụng hay dịch_vụ Pay_Pal ) .
+- Bước 6 : Sau khi bạn trả tiền xong thì bạn tải Font chữ này về máy_tính của mình .
+- Bước 7 : Bạn cài_đặt font chữ này lên máy_tính của mình là xong .
+NGỰ_HÀN

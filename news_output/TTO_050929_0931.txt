@@ -1,0 +1,5 @@
+﻿ Lập hệ_thống thông_tin môi_trường và quản_lý phí nước_thải
+Theo Cục_Bảo vệ môi_trường , hai hệ_thống trên sẽ góp_phần nâng cao tính chính_xác của thông_tin và báo_cáo môi_trường trong quản_lý và quá_trình ra các quyết_định về môi_trường từ cấp Trung_ương tới cơ_sở ; nâng cao tính kịp_thời của các thông_tin và kiến_thức môi_trường , hỗ_trợ cho các doanh_nghiệp , cá_nhân chủ_động giải_quyết các vấn_đề về môi_trường trong quá_trình sản_xuất kinh_doanh .
+Trước_mắt , hai hệ_thống trên sẽ đáp_ứng nhu_cầu sử_dụng dữ_liệu báo_cáo môi_trường và quản_lý phí nước_thải trong 3 lĩnh_vực nước mặt , nước ven biển , không_khí .
+Cục Bảo vệ môi_trường đang tập_trung hoàn_thiện 2 website quản_lý thông_tin của hai hệ_thống để tiến_hành cài_đặt tại Sở Tài nguyên và Môi_trường các địa_phương , nhằm tạo điều_kiện cho các tổ_chức , cá_nhân hoạt_động sản_xuất kinh_doanh trong các lĩnh_vực công_nghiệp , tiểu thủ_công_nghiệp , dịch_vụ , môi_trường có_thể cập_nhật thông_tin quản_lý , bảo_vệ môi_trường trực_tiếp qua mạng hoặc gửi các báo_cáo tới các Sở Tài nguyên và Môi_trường .
+Theo TTXVN

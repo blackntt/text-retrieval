@@ -1,0 +1,50 @@
+﻿ ĐH_Y Dược TP.HCM công_bố điểm_chuẩn hệ THCN
+Đây là điểm trúng_tuyển dành cho học_sinh phổ_thông - khu_vực 3 , mỗi khu_vực ưu_tiên và đối_tượng ưu_tiên kế_cận cách nhau 0.5 điểm .
+Điểm này dành cho tất_cả thí_sinh dự thi_tuyển sinh ở các trường ĐH theo đề thi chung khối B của Bộ GD - ĐT năm 2005 .
+Vùng tuyển_sinh là các tỉnh Kon_Tum , Gia_Lai , Đắk_Lắk , Đắk_Nông và các tỉnh từ Ninh_Thuận , Lâm_Đồng trở vào ; riêng ngành Y_sĩ Y_học cổ_truyền tuyển từ Quảng_Bình trở vào , ngành Kỹ_thuật phục hình răng tuyển_sinh cả nước .
+Điểm trúng_tuyển là tổng điểm thi môn Toán và Sinh ( không nhân hệ_số ) , không có môn bị điểm không , cụ_thể từng ngành như sau :
+STT
+Ngành
+Chỉ_tiêu
+Điểm trúng_tuyển
+01
+Y_sĩ Y_học cổ_truyền
+120
+6.0
+02
+Điều_dưỡng nha_khoa
+30
+6.0
+03
+Điều_dưỡng đa_khoa
+50
+10.0
+04
+Hộ_sinh ( chỉ tuyển nữ )
+50
+8.5
+05
+Dược_sĩ trung_học
+150
+12.5
+06
+KTV xét_nghiệm
+40
+9.5
+07
+Điều_dưỡng gây_mê hồi_sức
+30
+8.5
+08
+KTV kỹ_thuật hình_ảnh ( chỉ tuyển nam )
+30
+7.5
+09
+KTV vật_lý_trị_liệu
+30
+7.5
+10
+KTV phục hình răng
+20
+11.5
+QUỐC_DŨNG

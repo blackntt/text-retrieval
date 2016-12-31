@@ -1,0 +1,20 @@
+﻿ Những phần_mềm miễn_phí bảo_vệ PC hay nhất
+Phần_mềm chống virus cũng giống như bảo_hiểm xe_hơi : Bạn cần phải có nhưng lại không muốn trả tiền vì nó . Tuy_vậy , bạn vẫn có_thể tìm được một_vài chương_trình miễn_phí mà không phải chịu sự ràng_buộc nào . AVG Anti-Virus System_Free_Edition cung_cấp hầu_như đầy_đủ các tính_năng diệt virus . Tuy_nhiên , AVG yêu_cầu bạn phải điền vào mẫu đăng_ký trên site mới được phép tải ứng_dụng .
+Miễn_phí trong một năm , bộ công_cụ EZArmor là một kết_hợp có dung_lượng 18 MB , chứa một chương_trình diệt virus và tường lửa ZoneAlarm . Tính_năng tự cập_nhật danh_sách virus cũng được gộp vào đây nhưng hơi phiền một_chút là bạn sẽ bắt_gặp một_số hộp_thoại nhắc_nhở bạn về việc gia_hạn dịch_vụ .
+Tiện_ích hỗ_trợ kỹ_thuật
+Tri_thức là sức_mạnh . Bạn sẽ sử_dụng máy_tính của mình hiệu_quả hơn khi biết được nó được cài_đặt phần_cứng nào . Lavalys_Everest_Home_Edition , một công_cụ " thăm_khám " và đo_lường , sẽ cung_cấp các chi_tiết từ phần_cứng tới các bộ_phận thành_phần .
+Belarc_Advisor cung_cấp một bản kê tỉ_mỉ tất_cả những phần_mềm và thành_phần của Windows được cài trong máy_tính cùng_với một_số chi_tiết quan_trọng của phần_cứng . Đây là một công_cụ hữu_ích giúp bạn hiểu được sự_cố trước khi gọi hỗ_trợ kỹ_thuật .
+Tự bảo_vệ
+Nếu bạn cần giữ bí_mật cho email bằng mọi giá , hãy tính đến khả_năng mã_hóa thư_tín của PGP Freeware . Giao_diện của nó khá kỳ_lạ , nhưng đây vẫn là một sản_phẩm xuất_sắc trong số các phần_mềm nã hóa cá_nhân miễn_phí .
+Bạn cần thêm thông_tin về một tên_miền , địa_chỉ email hay IP ? Sam_Spade có_thể dò ra tất_cả . Bạn có_thể tìm được những công_cụ tương_tự trên Internet , nhưng chương_trình này đặc_biệt dễ sử_dụng .
+Phần_mềm chặn pop up hiện_diện tại khắp_nơi , thậm_chí ngay cả trên thanh công_cụ tìm_kiếm của Google hay AltaVista nhưng Popup_Stopper_Free_Edition của Panicware nổi_bật hơn cả với khả_năng tạo ra báo_cáo riêng về nội_dung các tập_tin history , cache và cookies của trình_duyệt được lưu tạm trên phần_cứng máy_tính .
+WebWasher Classic kiểm_soát các nội_dung quảng_cáo trên Internet , quản_lý cookies , và đáng lưu_ý hơn cả là nó có khả_năng ngăn_chặn truy_cập tới những website cụ_thể ( hoặc chỉ cho_phép truy_cập những website nhất_định ) , một chức_năng rất hữu_dụng với các bậc phụ_huynh hoặ những doanh_nghiệp nhỏ .
+Đang tải gần xong một file lớn mà bị mất liên_kết chẳng khác_gì bị dọn mất món tráng_miệng khi sắp xong bữa tối . Nếu bạn không dùng Mozilla , trình_duyệt có chức_năng quản_lý download gắn trong , hãy thử Internet_Download_Manager , phần_mềm có khả_năng tạm dừng download giữa_chừng rồi tiếp_tục lại từ chỗ bỏ_dở .
+Nếu bạn muốn lướt web mà không phải kéo_theo cả mớ " rác " trong bộ_nhớ tạm , CachePal cung_cấp một giải_pháp loại_bỏ tất_cả các tập_tin cache , history của trình_duyệt và cookies một_cách nhanh_chóng , chỉ bằng một cú nhấp chuột .
+ScrubXP xóa sạch các file tạm và cookies của Internet_Explorer và thậm_chí còn xóa hẳn danh_sách các tập_tin của Windows XP bạn đã mở hoặc tìm_kiếm trên ổ_cứng hoặc trên mạng .
+Bảo_vệ quyền riêng_tư với Spybot_Search & amp ; Destroy 1.3 và Ad-aware 6.181 . Hai phần_mềm này khi dùng kết_hợp với nhau có_thể loại_bỏ spyware cài trong máy của bạn ( những chương_trình theo_dõi hành_vi lướt web của bnạ và tung ra các quảng_cáo tương_ứng ) .
+Vẫn là lựa_chọn hàng_đầu trong các ứng_dụng tường lửa miễn_phí , ZoneAlarm chặn những " kẻ xâm_nhập " Internet trong khi cô_lập tab trên các ứng_dụng - một phương_pháp tốt để ngăn spyware liên_lạc với nơi gửi chúng đến .
+Các website " ma_giáo " sẽ không_thể làm_gì để thay_đổi trang_chủ của bạn một_khi bạn cài_đặt Browser_Hijack_Blaster , một trình gác trình_duyệt tuyệt_hảo có khả_năng ngăn_chặn các ứng_dụng khác ( chủ_yếu là spyware ) thay_đổi các thiết_lập Windows của bạn .
+Với hệ_thống theo_dõi Scotty the Windows_Watchdog luôn túc_trực , WinPatrol 7 sẽ báo_động khi có một chương_trình spyware tìm cách tự cài để chạy cùng Windows ( với các ứng_dụng khác như QuickTime hoặc RealPlayer cũng vậy ) , trao cho bạn một vũ_khí khác trong cuộc_chiến chống lại sự quấy_nhiễu .
+Còn tiếp
+BÌNH_NGUYÊN - MINH_PHI

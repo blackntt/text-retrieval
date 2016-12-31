@@ -1,0 +1,15 @@
+﻿Nguy cơ cho 13,9 triệu tài khoản MasterCard
+
+Ngày 17/6, MasterCard International cho biết một lỗ hổng bảo mật trong hệ thống xử lý thẻ đã đặt toàn bộ các chi nhánh của họ trước hiểm họa lớn nhất từ trước đến nay. 
+Có khoảng 13,9 triệu thẻ tín dụng MasterCard đang phải đối mặt với nguy cơ bảo mật. Một ai đó đã xâm nhập được vào hệ thống dữ liệu người dùng ở một công ty chuyên xử lý dữ liệu liên quan đến MasterCard. 
+Richard Smith - Chuyên gia bảo mật hiện đang vận hành trang web ComputerBytesMan.com - nhận định: Chuyện nghiêm trọng này có thể ghi vào sách kỷ lục thế giới Guinness. 
+MasterCard International cho biết bộ tham mưu chuyên về bảo mật của họ đã xác định lỗ hổng bảo mật này nằm trong hệ thống máy tính của Cty CardSystems Solutions (thành phố Tucson, bang Arizona). 
+CardSystems Solutions là công ty chuyên xử lý dữ liệu giao dịch cho các công ty thương mại và tổ chức tài chính có liên quan đến MasterCard. 
+Jonathan Cherry - Phát ngôn viên của Sở mật vụ Hoa Kỳ - đã từ chối đưa ra bình luận. Đại diện của CardSystems cũng không đưa ra câu trả lời nào về vấn đề này. 
+Các cuộc gọi của phóng viên đến Visa USA, đến ban lãnh đạo và đại diện các chi nhánh của MasterCard, đến các đối thủ cạnh tranh của MasterCard cũng đều không được hồi âm. 
+MasterCard cho biết rằng một số lỗ hổng bảo mật nằm trong hệ thống xử lý của công ty CardSystems đã cho phép môt ai đó chui vào mạng nội bộ của CardSystems để truy cập toàn bộ hệ thống dữ liệu. 
+CardSystems đang nỗ lực thực hiện nhiều biện pháp để gia tăng khả năng bảo mật hệ thống của mình. MasterCard thừa nhận rằng sự kiện này xảy ra quá bất ngờ nên công ty chỉ có một khoảng thời gian ngắn để thực thi các biện pháp bảo mật. 
+MasterCard đã thông báo khẩn cấp đến mọi ngân hàng thương mại và cơ sở liên quan với MasterCard để họ có các biện pháp bảo mật hữu hiệu cho mọi người dùng MasterCard ở khắp nơi. 
+Từ đầu năm đến nay đã có hàng loạt công ty tài chính thông báo về dữ liệu khách hàng của họ đã bị mất cắp ở nhiều cấp độ khác nhau. Bank of America, ChoicePoint và Reed ElsevierỊs LexisNexis là một trong những công ty lớn nhất đã bị các lỗ hổng bảo mật chưa được khắc phục gây thiệt hại. 
+
+Theo Tuổi trẻ

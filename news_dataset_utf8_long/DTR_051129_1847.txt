@@ -1,0 +1,22 @@
+﻿Ngày trở lại của Dungeon Siege
+
+DSII là phiên bản kế tiếp của phần I đã ra mắt khá thành công 3 năm trước. Đồ hoạ thiết kế độc đáo và nội dung hấp dẫn là những thế mạnh giúp DSII trở thành trò chơi gây chú ý trong giới game thủ đam mê thể loại nhập vai/hành động (ARPG). 
+ 
+Tại thời điểm mà thị trường game RPG (nhập vai) off-line đang "đóng băng" bởi sự xuất hiện của loạt MMORPG (game nhập vai trực tuyến) như World of Warcraft, MU, PTV,... những ông lớn trong làng game nhập vai off-line ngay lập tức đã có kế hoạch cho riêng mình và Gas Powered Games cũng vậy, họ đã tung ra một trong những sản phẩm đã được gamer trông chờ khá lâu : Dungeon Siege II. 
+Không giống như các game nhập vai thông thường, nhà sản xuất Gas Powered Games đã biến đổi cách điều khiển nhân vật trong DSII. Người chơi sẽ được điều khiển một nhóm chiến binh gồm 6 người nhưng chỉ sau khi bạn đã hoàn thành hai phần chơi dễ và bình thường. 
+Bắt đầu trò chơi ở mức Mercenary (dễ) bạn chỉ có 4 nhân vật đồng hành, với mức Elite (khó nhất) sẽ là 6. Phiên bản II sẽ cung cấp cho bạn 4 nhóm lựa chọn: Human, Elf, Dryad và Half-Giant, mỗi nhóm sẽ có những sở trường riêng. Một điểm mới không thể bỏ qua, đó là nhà sản xuất đã thêm vào 7 loại thú nuôi nuôi (pets) trong game, thuộc các hệ khác nhau (băng, lửa, nước...) và bạn sẽ nuôi lớn chúng bằng những thứ vũ khí không dùng đến suốt dọc đường đi, vật nuôi sẽ phát triển kỹ năng của chúng cũng bằng chính những thức ăn đó. 
+DSII mang phong cách hành động nhập vai kinh điển "hack and slash". Không chú trọng vào việc đối thoại trong game mà chỉ tập trung vào hành động của nhân vật. Vì vậy game-play của DSII vô cùng đơn giản và dễ nắm bắt: di chuyển, chiến đấu, và tăng điểm kinh nghiệm. 
+Hệ thống kỹ năng (skill) là điều không thể thiếu trong bất cứ game nào. Các kỹ năng trong DSII rất phong phú, và được chia ra làm bốn loại hình: Melee(Cận chiến), Range(Xạ tiễn), Nature Magic(Pháp thuật tự nhiên), và Combat Magic(Pháp thuật chiến đấu). DS không bắt buộc người chơi phải tuân theo một trình tự nào, mà có thể tăng kỹ năng theo ý thích. Một cải tiến giá trị khác đó là khi kích hoạt một số kỹ năng nhất định, game sẽ mở ra các tuyệt chiêu Power vô cùng lợi hại khi chiến đấu với một số lượng lớn quái vật. 
+Phát hành: Microsoft Games Studios 
+Phát triển: Gas Powered Games 
+Thể loại: Hành động/Nhập vai(ARPG) 
+Cấu hình yêu cầu: CPU 1 Ghz. 
+RAM: 256 MB. 
+Card màn hình: 32 MB. 
+Ổ cứng: 4GB. 
+Windows XP SP1. 
+Một ấn tượng nữa của DSII là sự thông minh và linh hoạt của các NPC(nhân vật máy) đi theo bạn. Bạn có thể điều khiển nhóm quân này chỉ bằng hai lệnh Mirror và Rampage. Mirror nghĩa là các NPC sẽ làm theo những gì bạn làm, còn với Rampage, các NPC sẽ tự động chiến đấu khi gặp kẻ thù. 
+Đường đi trong game được thiết kế dễ chịu, không có ngõ ngách, mê cung làm khó cho người chơi. Bạn chỉ việc đi theo một mũi tên trên Minimap (bản đồ nhỏ) dưới góc phải màn hình. Game được chia thành 3 Act (phần chính), mỗi Act chia được thành các Chapter (chương), và mỗi chương lại tương đương với một Quest (nhiệm vụ). Việc thực hiện Quest là không bắt buộc nhưng hoàn thành được một nhiệm vụ bạn không những tăng điểm kinh nghiệm mà còn thu được những món đồ quý, không hề có trong các cửa hàng trong game. 
+Đồ họa trong game được đánh giá khá tốt. DSII được xây dựng trên nền tảng 3D, có thể tùy ý xoay chuyển, phóng to thu nhỏ. Khung game được dựng đẹp, các tuyệt chiêu Power được hỗ trợ hiệu ứng đồ họa trở nên hoành tráng, đẹp mắt và vô cùng uy lực. 
+Một điểm khiến nhiều người chơi hài lòng đó là DSII đòi hỏi cấu hình khá nhẹ.Game vẫn có thể chạy mượt ngay cả khi sử dụng card màn hình Geforce 256 hay Radeon 7000. 
+Trong thời điểm mà game nhập vai trực tuyến đang làm mưa làm gió trên thị trường như hiện nay thì DSII chính là tiếng nói thay mặt cho dòng game offline khẳng định vị thế của mình. Vậy bạn còn chần chừ gì nữa mà không bước vào thế giới nhập vai offline, thế giới của Dungeon Siege II. Dr.Dexter

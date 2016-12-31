@@ -1,0 +1,7 @@
+﻿“Cứu” dữ liệu bằng Any Reader
+
+Thật là “bi kịch” khi những phương tiện chứa dữ liệu như đĩa cứng, đĩa mềm, thẻ nhớ flash, CD, DVD... bị hư hỏng vì nhiều lý do. Khi Windows đã bó tay vì không thể đọc được bất kỳ dữ liệu nào thì chúng ta hãy cố gắng cứu bằng Any Reader. 
+ Công cụ này có khả năng đọc và ghi lại tất cả những phần dữ liệu còn có thể đọc được và lưu chúng lại với đúng định dạng gốc mà ta có thể mở ra để xem những phần còn “vớt vát” lại được. Any Reader có thể moi dữ liệu còn sót lại ở đĩa cứng, thẻ nhớ flash bị hỏng sector hàng loạt, hoặc có tác dụng ngay cả với những đĩa CD, DVD bị hư hại vật lý như cong vênh, mẻ tróc, mốc meo… 
+Any Reader có bốn chức năng phục hồi chính là: sao chép file từ một đĩa cứng đã bị hỏng, sao chép file từ các đĩa CD/DVD bị hỏng, sao chép file từ những mạng có độ ổn định không cao và kết nối những file hư hỏng đồng dạng lại với nhau. Khi đã hoàn tất quá trình sao chép, nhấn Next để qua Step 5 và nhấn vào nút “Explorer copied files” để xem lại kết quả sao lưu. 
+Công ty Regall LLC đang bán bản Any Reader mới nhất với giá 29,95 USD. Người dùng có thể vào http://www.anyreader.com/ để tải về bản dùng thử. 
+Theo Thụy Khanh Tuổi trẻ

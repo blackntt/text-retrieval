@@ -1,0 +1,7 @@
+﻿ Thử_nghiệm thành_công vaccine cúm_gia_cầm mới
+Theo các nhà_nghiên_cứu , vaccine mới này , do liên_doanh Vical tại San_Diego , California phát_triển , cũng có hiệu_quả trong chống lại nhiều dòng virus cúm_gia_cầm và cúm người khác .
+Trong nghiên_cứu của mình , các nhà_khoa_học đã sử_dụng hai loại vaccine dựa trên ADN của Vical . Một loại được đưa trực_tiếp vào ba loại protein virus : nucleoprotein ( NP ) , matrix protein ( M2 ) và hemagglutinin ( H5 ) . Loại thứ_hai được đưa vào NP và M2 .
+NP và M2 là hai loại protein thông_thường không biến_thể nhanh và do_đó chậm tránh được các phản_ứng miễn_dịch do vaccine . Còn H5 là loại protein có_thể biến_đổi nhanh trên bề_mặt virus cúm , có vai_trò quyết_định đối_với khả_năng gây nhiễm cho các tế_bào và dễ_dàng biến_thể .
+Nghiên_cứu tiến_hành trên 16 con chuột và 6 con chồn sương , được cho thử với hai loại vaccine trên . Kết_quả , loại vaccine thứ nhất bảo_vệ hoàn_toàn chuột trước virus gây chết người H5N1 . Loại vaccine thứ_hai cũng cho thấy hiệu_quả bảo_vệ đáng_kể trước nhiều dòng khác_nhau của virus cúm người cũng_như virus cúm_gia_cầm H5N1 . 14/16 con chuột thí_nghiệm vẫn an_toàn sau thử_nghiệm , chỉ bị giảm cân nhẹ .
+Richard_Webby , trưởng nhóm nghiên_cứu cho_biết kết_quả này hứa_hẹn sẽ có một loại vaccine ngừa nhiều loại virus cúm người và cúm_gia_cầm cho con_người . Nó có_thể bảo_vệ con_người chống lại virus H5N1 - virus đã giết chết hơn 100 người trên thế_giới . Các nhà_khoa_học lo_ngại H5N1có thể biến_thể lây_lan dễ_dàng từ người sang người và gây ra một đại_dịch toàn_cầu .
+T.VY ( Theo Xinhua )

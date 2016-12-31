@@ -1,0 +1,29 @@
+﻿ Bất_hợp_lý khi chuyển_đổi ngạch lương mới
+Theo thông_tư liên_tịch của Bộ Nội vụ và Bộ Tài chính ( số 01/2005/TTLB-BNV-BTC ngày 5-1-2005 ) , tại bảng chuyển xếp lương cũ sang lương mới đối_với cán_bộ , công_chức , viên_chức trong các cơ_quan nhà_nước và trong các đơn_vị sự_nghiệp của Nhà_nước , có những bất_cập khi chuyển_đổi như sau :
+Tại trang công_chức loại B , nhóm chức_danh cán_sự , hệ_số lương cũ 2,81 , nay nâng lên 4,06 . Nhóm chức_danh kiểm_soát viên trung_cấp đê_điều , hệ_số lương cũ 2,56 , nay nâng lên 4,06 . Trong khi đó , tại trang công_chức loại A1 , nhóm ngạch giảng_viên hệ_số lương cũ 2,88 nâng lên 3,66 .
+Điều vô_lý là nếu theo lương cũ , nhóm chức_danh kiểm_soát viên từ hệ_số lương cũ 2,56 phải qua ba lần lên lương ở các mức 2,65 - 2,74 - 2,83 vẫn dưới mức lương giảng_viên ( hệ_số lương cũ 2,88 ) . Vậy_mà nay chuyển_đổi , nhóm ngạch giảng_viên hệ_số lương cũ 2,88 chỉ nâng lên 3,66 ; nghĩa_là nếu công_tác tốt sau ba năm được nâng lên hệ_số 3,99 , tức vẫn thấp hơn mức chuyển_đổi bảng lương mới của nhóm chức_danh kiểm_soát viên trung_cấp đê_điều ( hệ_số lương cũ 2,56 nâng lên tới 4,06 ) .
+Theo tinh_thần nghị_quyết trung_ương II , Đảng và Nhà_nước nói quan_tâm đến giáo_dục và đào_tạo , coi giáo_dục và đào_tạo là quốc_sách hàng_đầu , nhưng xem_ra cách chuyển_đổi hệ_số lương ở thời_điểm này còn bất_hợp_lý . Ở đây thua_thiệt nhau đến gần bốn bậc lương liền ( nếu qui về cách tính cũ ) , gần hai bậc lương liền ( nếu theo cách tính mới ) .
+Mức lương cao nhất lại trở_thành thấp nhất , mức lương thấp nhất lại trở_thành cao nhất : 2,56 lên 4,06 ; 2,81 lên 4,06 ; 2,88 lên 3,66 .
+Thiết_nghĩ bất_hợp_lý này nên được xử_lý vì để thế_này phi_lý quá . Sau một_vài năm , mức cán_sự 4,06 lại chuyển sang nhóm chức_danh chuyên_viên tương_đương bậc bảy , hệ_số 4,32 lại còn bất_hợp_lý hơn_nữa .
+Bảng so_sánh
+Nhóm chức_danh
+Mã_số ngạch
+Hệ_số lương cũ
+Hệ_số lương mới
+Nếu sau đó chuyển ngạch chuyên_viên
+Giảng_viên
+5.111
+2,88
+3,66
+3,66
+Kiểm_soát viên trung_cấp đê_điều
+11.083
+2,56
+4,06
+4,32
+Cán_sự
+01.004
+2,81
+4,06
+4,32
+ĐẬU_THẾ_TỤNG ( Trường CĐ Quản_trị kinh_doanh , Văn_Lâm , Hưng_Yên )

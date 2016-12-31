@@ -1,0 +1,15 @@
+﻿Thể lệ cuộc thi dự đoán “Ghi bàn cùng Goleo”
+
+- Tất cả bạn đọc báo Tuổi Trẻ đều được tham dự cuộc thi. Riêng nhân viên báo Tuổi Trẻ, Công ty dược phẩm SPM và Công ty ABC không được tham dự. 
+II. Nội dung cuộc thi: 
+- Dự đoán kết quả 64 trận đấu trong khuôn khổ World Cup 2006. 
+Cách thức tham dự: 
++ Cách 1: Người tham dự soạn tin nhắn WC&lt;khoảng trắng&gt;A&lt;khoảng trắng&gt;B-C&lt;khoảng trắng&gt;D rồi gửi đến số 8282. Trong đó, WC là mã cuộc thi, A là mã trận đấu của ngày hôm đó, B-C là tỉ số của trận đấu, B và C có thể là một chữ số hay hai chữ số. D là số người cùng ý kiến. 
+Thời gian tham gia dự đoán của mỗi trận kết thúc vào phút 80 của trận đấu. VD: Bạn tham gia dự đoán trận Đức - Costa Rica là trận đấu đầu tiên trong ngày 10-6, tỉ số là 2-1 và có 48.045 người dự đoán đúng thì soạn tin nhắn: WC 1 2-1 48045 rồi gửi đến số 8282. 
++ Cách 2: Gọi điện đến số 19001733 và làm theo hướng dẫn để tham dự. 
++ Số lượng tin nhắn và số lần tham dự không hạn chế. Thông tin về cuộc thi sẽ liên tục được thông báo trên trang Thể thao báo Tuổi Trẻ. BTC không chịu trách nhiệm những thông tin do trục trặc của mạng viễn thông làm cho hệ thống của BTC không nhận được tin nhắn của bạn. Tất cả thuê bao của Vinaphone, MobiFone, Viettel, SFone, EVN Telecom đều có thể tham dự cuộc thi này. 
+III. Giải thưởng và công bố kết quả: 
+- Mỗi đợt dự đoán BTC trao một giải nhất trị giá 5 triệu đồng và quà tặng lưu niệm (gồm móc khóa hình chú sư tử Goleo ôm quả bóng Pille, đồng tiền lưu niệm mạ vàng có logo báo Tuổi Trẻ và MyVita, một hộp MyVita) cho người dự đoán đúng hoặc gần đúng nhất kết quả. Nếu có nhiều người có kết quả gần nhau thì chọn người gửi đến sớm hơn. Ngoài ra sẽ có ba giải khuyến khích mỗi giải 500.000 đồng cho ba người dự đoán có kết quả gần đúng tiếp theo. 
+- BTC cũng sẽ trao một giải đặc biệt trị giá 10 triệu đồng và quà tặng lưu niệm (gồm móc khóa hình chú sư tử Goleo ôm quả bóng Pille, đồng tiền lưu niệm mạ vàng có logo báo Tuổi Trẻ và MyVita, một hộp MyVita) cho người tham gia dự đoán nhiều lần nhất trong cả mùa giải. Kết quả sẽ được đăng ngay trên báo Tuổi Trẻ phát hành ngày hôm sau và thông báo trực tiếp cho người đoạt giải.
+
+BAN TỔ CHỨC

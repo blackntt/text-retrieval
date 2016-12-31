@@ -1,0 +1,11 @@
+﻿ Thế_giới " siêu nhỏ "
+Chúng_ta vẫn không chắc rằng bao_nhiêu vật siêu nhỏ ấy có_thể lấp đầy đầu một cây kim gút ( chỉ vài nanometer ) , nhưng những tiến_bộ ngày_nay những vậy dụng siêu nhỏ có_thể giúp các nhà_khoa_học làm những việc tưởng_chừng không_thể . Dưới đây là một_số " kỳ_công siêu nhỏ " của các chuyên_gia .
+Một chú ruồi đeo cặp mắt kiếng rộng 2mm . Mắt kiếng này được tạo ra với công_nghệ siêu chính_xác từ các xung laser
+Hệ_thống bánh_răng siêu nhỏ với 6 bánh_răng có_thể giúp vận_hành máy_móc siêu nhỏ với tốc_độ lên đến 25.000 vòng quay / phút . Các hệ khoá điện phức_tạp cũng sử_dụng các hệ bánh_răng này để khó có_thể bị phá . Mỗi bánh trong hệ mắt_xích sẽ là một mấu_chốt để vận_hành chính_xác một hệ_thống điện .
+Bánh_răng này được tạo bởi một tia ion hội_tụ . Hình_ảnh được nhìn thấy dưới độ phóng_đại 50.000 lần .
+Tàu_ngầm siêu nhỏ này , được tạo_hình bằng cách dùng máy_tính điều_khiển một chùm laser làm " đông_đặc " một hợp chất_lỏng gốc acrylic , có chiều dài chỉ 4 mm . Hy_vọng , thiết_bị này sẽ có những chuyến phiêu_lưu kỳ_thú , nhất_là trong các ứng_dụng y_học
+Một máy dò phân_tử dài 6 micromet ( 1mm = 1000 mcromet ) làm từ một thanh platin . Thiết_bị này được dùng để theo_dõi sự phân_phối của các phân_tử đơn_lẻ trong khi pha_trộn hợp_kim cũng_như trong các vật_liệu khác . Hình_ảnh nhìn thấy dưới độ phóng_đại 25.000 lần .
+Một mảng các lỗ được tạo ra có kích_thước mỗi lỗ khoảng 125 nanomet ( 1mm = 1.000.000 nanomet ) được đục chính_xác với các tia ion hội_tụ do máy_tính điều_khiển
+Con lạc_đà cao 2mm được làm_bằng vàng_lá và được đặt lọt_thỏm vào trong chuôi kim rộng 300 micromet
+Một con ve dài 500 micromet đang ngồi hệ_thống gương được sử_dụng cho các hệ chuyển_hướng tia_sáng trong việc truyền dữ_liệu bằng quang_học . Kính này ( bên trái ) được điều_khiển bằng một hệ_thống bánh_răng siêu nhỏ .
+V.TH ẢO ( Theo Popular_Science )

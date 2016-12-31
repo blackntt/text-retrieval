@@ -1,0 +1,7 @@
+﻿Sony chuẩn bị ra mắt dòng laptop VAIO với ổ flash
+
+Hôm 27/6, hãng điện tử Nhật Bản tuyên bố sẽ thay thế các loại ổ đĩa cứng bằng bộ nhớ flash trong thế hệ laptop siêu nhỏ Vaio U mới dự kiến ra mắt tuần tới. 
+ Đây sẽ là thế hệ máy tính đầu tiên trên thị trường sử dụng bộ nhớ flash thay cho ổ cứng công nghệ từ tính truyền thống. Đã từ lâu bộ nhớ flash được coi là sự thay thế đầy tiềm năng cho ổ cứng nhờ vào trọng lượng nhẹ, chạy êm ái không gây tiếng động đồng thời cho phép tăng tốc độ truy cập cũng như tiêu tốn ít năng lượng hơn. Trở ngại đáng kể duy nhất chính là giá cả của loại bộ nhớ công nghệ mới này. 
+Chi phí cho mỗi bit lưu trữ công nghệ flash hiện vẫn đắt hơn so với ổ cứng thông thường, nhưng đã được giảm xuống tới mức cho phép và một số hãng máy tính đã bắt đầu thử nghiệm với loại bộ nhớ này. 
+Dòng Vaio UX90 sẽ có bộ nhớ flash 16GB thay vì ổ cứng 30GB trước kia. Giá của sản phẩm này vào khoảng 1.805 USD. Dự kiến Sony sẽ tung UX90 ra thị trường Nhật Bản vào ngày 03/07. 
+Đầu tháng này Samsung Electronics cũng đã giới thiệu một số PC dùng bộ nhớ flash. Laptop Q30 và máy xách tay siêu di động Q1 đều sử dụng loại bộ nhớ flash công nghệ NAND kiểu “solid state” (bộ nhớ đặc) của chính hãng với dung lượng 32GB và kích thước chỉ nhỏ bằng loại ổ cứng 1,8inch. Theo AIVietNam/InfoWorld

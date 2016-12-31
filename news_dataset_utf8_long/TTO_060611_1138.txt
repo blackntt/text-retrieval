@@ -1,0 +1,17 @@
+﻿Những lưu ý trước khi cài đặt Windows Vista Beta 2
+
+1. Máy tính của bạn nên được trang bị đầu ghi đĩa DVD. 
+Những người dùng ở Mỹ có thể đặt mua đĩa DVD chứa Windows Vista Beta 2 từ Microsoft với giá là 6 USD kèm theo 4 USD lệ phí bưu điện. Nhưng những người ở ngoài Mỹ chỉ có cách duy nhất là tải nó về dùng. 
+Dung lượng tải về của các bản Windows Vista Beta 2 đều trên 3GB và thời gian tải về với mạng DSL sẽ mất từ 2 đến 9 giờ. Bạn hoàn toàn không thể cài đặt từ bản Vista tải về còn nằm trên đĩa cứng mà bắt buộc phải ghi toàn bộ nội dung tải về lên đĩa DVD để sau đó cài đặt từ đĩa DVD này. 
+2. Sẽ không thể quay về hệ điều hành cũ khi đang cài đặt Windows Vista Beta 2. 
+Microsoft đã đưa ra khuyến cáo rằng trước khi cài đặt Windows Vista Beta 2 trên bất kỳ máy tính nào thì người dùng cũng đều phải sao lưu lại tất cả mọi dữ liệu quan trọng vì quá trình cài đặt Vista có thể làm mất hoàn toàn dữ liệu ở phân vùng đĩa cứng chứa nó. 
+Ngay khi quá trình cài đặt Windows Vista Beta 2 đã bắt đầu thì người dùng sẽ không có cách nào quay trở lại hệ điều hành Windows trước đó. Nói cách khác là Windows Vista Beta 2 sẽ loại bỏ hoàn toàn bộ Windows cũ để thay nó vào. Microsoft khuyến cáo người dùng nên sử dụng Norton Ghost của Symantec để tạo ra bản sao lưu của Windows cũ trước khi cài đặt Windows Vista Beta 2 để nếu có trục trặc thì vẫn có thể đưa máy tính trở về tình trạng như cũ. 
+3. Hãy cẩn thận về mọi vấn đề bảo mật liên quan đến Windows Vista Beta 2. 
+Microsoft đưa ra khuyến cáo rằng người dùng cần phải cân nhắc kỹ lưỡng trước khi cài đặt và sử dụng thử Windows Vista Beta 2. Vì đây là bản thử nghiệm cho nên Microsoft chỉ có trách nhiệm giới hạn đối với những rắc rối mà nó gây ra cho người dùng. 
+Những rắc rối này có thể xảy ra ở nhiều phương diện như bất tương thích với nhiều thiết bị phần cứng có sẵn trên máy tính, cũng như có thể xảy ra xung đột với các phần mềm, công cụ bảo mật… mà người dùng cài vào sau đó. Người dùng cũng nên hạn chế tối đa việc sử dụng Windows Vista Beta 2 để giao dịch trực tuyến, nhất là ở các thương vụ giao dịch điện tử có số tiền lớn. 
+4. Windows Vista Beta 2 sẽ hết hạn sử dụng vào ngày 1-6-2007. 
+5. Windows Vista Beta 2 sẽ không thể Update được mọi thứ dành cho bản Windows Vista chính thức. 
+6. Khuyến cáo cho người dùng Windows… lậu. 
+Với dân xài Windows lậu thì nên quên hẳn đi việc tải Windows Vista Beta 2 về vì Microsoft luôn luôn kiểm tra mã số bản quyền của bản Windows dùng để tải về. Nhưng nếu ai đó may mắn có được đĩa DVD Windows Vista Beta 2 đã có sẵn mã số cài đặt thì quá trình cài đặt vẫn diễn ra bình thường.
+
+THỤY KHANH (Tổng hợp)

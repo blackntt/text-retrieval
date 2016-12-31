@@ -1,0 +1,9 @@
+﻿CookieCop 3: Chấm dứt Cookie và Pop-Up
+
+Để sử dụng tốt CookieCop đời hỏi bạn phải có Internet Explorer 6. Bởi vì CookieCop sử dụng ngay thư viện hàm có sẵn của IE. Nếu chưa có IE6, bạn hãy vào website của Microsoft( www.microsoft.com ) để download miễn phí. 
+Ngoài khả năng chống lại pop-up, cookie hay code ActiveX, CookieCop 3 còn tích hợp khả năng tăng tốc load web mà hiếm có chương trình anti-spam nào có được. Thêm nữa, CookieCop được cải tiến về giao diện rất mới. Cách bố trí hình ảnh sử dụng icon làm phần mềm trở nên đơn giản, trong sáng và rõ ràng hơn. 
+Kế đến là sự phối hợp với Internet Explorer. CookieCop 3 giúp bạn thâm nhập vào những nét đặc trưng mạnh mẽ trực tiếp từ Internet Explorer. Chỉ cần một cú click phải chuột trong Webpage, chọn CookieCop từ menu xổ ra, tất cả các ứng dụng của nó sẽ sẵn sàng hỗ trợ bạn. 
+Dễ dàng cài đặt cũng là nét nổi bật của CookieCop 3. Mặc dù sách hướng dẫn tương đối phức tạp nhưng việc cài đặt tương đối dễ dàng. Double click vào file "setup.exe" và chờ đợi kết quả. Bạn cũng không cần phải thiết lập proxy server bằng tay mà CookieCop3 sẽ làm giùm bạn. 
+Download tại đây .
+
+ANH TUẤN (PC Magazine)

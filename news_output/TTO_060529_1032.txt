@@ -1,0 +1,12 @@
+﻿ Phạm_vi và yêu_cầu của đề thi_trắc_nghiệm tương_tự như đề tự luận
+- Năm nay , cả 2 kỳ thi tốt_nghiệp THPT và tuyển_sinh ĐH , CĐ đều sử_dụng hình_thức thi_trắc_nghiệm với môn Ngoại_ngữ . Với kỳ thi tốt_nghiệp THPT , đề thi sẽ sử_dụng kiểu câu trắc_nghiệm nhiều lựa_chọn .
+Câu trắc_nghiệm nhiều lựa_chọn có hai phần , phần đầu ( được gọi_là phần dẫn ) nêu ra vấn_đề , cung_cấp thông_tin cần_thiết hoặc nêu một câu_hỏi ; phần sau là các phương_án để chọn ( được đánh_dấu bằng các chữ_cái A , B , C , D ) .
+Trong các phương_án để chọn chỉ có duy_nhất một phương_án đúng ; các phương_án khác được đưa vào có tác_dụng “ gây nhiễu ” đối_với thí_sinh ( TS ) . Không nắm vững kiến_thức về vấn_đề đã nêu , TS sẽ khó nhận_biết được trong các phương_án để chọn đâu là phương_án đúng .
+Nhiều người hy_vọng rằng hình_thức thi_trắc_nghiệm sẽ đạt hiệu_quả cao trong việc chống gian_lận thi_cử ở khâu coi thi . Theo ông thì thế_nào ? Đề thi_trắc_nghiệm có khó hơn so với đề thi tự luận ?
+- Mỗi đề thi có 50 câu trắc_nghiệm ( thời_gian làm bài 60 phút ) . Tính ra bình_quân thời_gian lựa_chọn phương_án để trả_lời câu_hỏi cho mỗi câu chỉ hơn 1 phút . Vì_vậy , muốn đạt điểm tốt , TS phải khẩn_trương trong quá_trình làm bài .
+Lượng thời_gian đó không đủ cho các em tìm cách quay_cóp . Đề thi được in sẵn và có nhiều phiên_bản , do máy_tính tự_động xáo_trộn thứ_tự câu cũng_như thứ_tự các phương_án A , B , C , D .
+Vì_thế , trong một phòng thi sẽ có nhiều mã_đề khác_nhau . Trong túi đựng đề thi , các đề thi được xếp lần_lượt theo mã_số từ nhỏ đến lớn và không có chuyện 2 đề thi cùng một mã_số nằm cạnh nhau .
+Khi ghi số_báo_danh lên bàn TS trong phòng thi , giám_thị chỉ có một_cách làm duy_nhất : ghi từ số nhỏ đến lớn ( theo danh_sách phòng thi ) , ghi theo hàng ngang và lần_lượt từ trên xuống dưới phòng thi . Điều này đảm_bảo cho các TS ngồi cạnh nhau không có mã_đề thi giống nhau .
+Để đề_phòng việc TS có_thể đánh_tráo mã_đề khác trong quá_trình làm bài thi , sau khâu phát đề thi , giám_thị 1 sẽ lần_lượt đến từng TS ( trong khi giám_thị 2 bao_quát trật_tự phòng thi ) để cho TS tự_điền mã_đề thi của mình vào 2 danh_sách TS nộp bài .
+Việc đáp_ứng các yêu_cầu của đề thi , phạm_vi kiến_thức , thang điểm cũng_như yêu_cầu về giám_sát , bảo_mật đối_với đề thi_trắc_nghiệm được thực_hiện theo quy_định như đối_với đề thi tự luận . Trong khâu chấm thi , các hội_đồng chấm sẽ phải thực_hiện quy_đổi thang điểm 100 sang thang điểm 10 đối_với đề thi_trắc_nghiệm .
+Theo Tiền_Phong

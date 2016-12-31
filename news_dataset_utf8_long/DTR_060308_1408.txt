@@ -1,0 +1,9 @@
+﻿Windows Vista sẽ được nâng cấp trực tuyến
+
+Trước đây, người sử dụng phải mua đĩa CD để cập nhật Windows. Nhưng với hệ điều hành thế hệ mới, Microsoft đã giới thiệu thêm lựa chọn thứ hai là Windows Anytime Upgrade - cơ chế nâng cấp trực tuyến. 
+ "Nếu muốn sử dụng các tính năng khác của hệ điều hành, mọi người sẽ phải chuyển sang phiên bản mới. Khi đó, họ có thể mua CD tại cửa các hàng bán lẻ, hoặc thông qua hệ thống Windows Anytime Upgrade để mua bản cập nhật trên mạng, sau đó kết hợp với bộ cài Windows để hoàn thiện quá trình", Microsoft giải thích. Đây là một trong những cố gắng mới nhất của hãng phần mềm này nhằm khuyến khích khách hàng cài đặt hệ điều hành cao cấp của họ. 
+Tuần trước, Microsoft khẳng định Windows Vista sẽ được ra mắt với 6 bản chính. Tuyên bố này đã khiến không ít chuyên gia công nghệ thông tin "điên đầu". Sáu phiên bản đồng nghĩa với một khối lượng công việc lớn cho các nhà quản trị mạng. "Chính sách của Microsoft khiến tôi muốn chuyển sang Linux", Paul Lindo, Giám đốc truyền thông của công ty tư vấn FB2 (Mỹ), nói. "Đây sẽ là một cơ hội tốt cho Novell Linux Desktop tiến xa". 
+Cũng trong tuần qua, Ray Ozzie, Giám đốc kỹ thuật của Microsoft, đã đề cập đến công nghệ Live Clipboard , cho phép người dùng sao chép dữ liệu trực tuyến từ trang web này sang trang web khác như trên ứng dụng desktop. 
+Công nghệ mới dựa trên tính năng clipboard sẵn có, hỗ trợ mọi người chia sẻ, di chuyển thông tin theo cấu trúc, như hồ sơ (profile), RSS feed, lịch trình..., dễ dàng. Nó hoạt động tương tự như cách mọi người vẫn dùng clipboard để sao chép và dán (copy - paste) những đoạn text giữa các ứng dụng trên máy tính. 
+Live Clipboard tương thích đa định dạng XML, ví dụ nó có thể chuyển profile của một blogger từ trang MSN Spaces tới webite bên thứ ba như Facebook.com. Không những "dán" đoạn thông tin này vào Facebook, Live Clipboard sẽ tự động cập nhật dữ liệu về blogger đó theo thời gian thực. 
+Theo T.N. VnExpress/CNet, InfoWorld

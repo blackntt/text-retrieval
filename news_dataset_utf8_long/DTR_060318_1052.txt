@@ -1,0 +1,11 @@
+﻿Gartner: Origami chỉ là thiết bị “nửa vời”
+
+Máy tính siêu di động Ultra mobile PC (UMPC) của Microsoft đang được quảng cáo rùm beng với nhiều tính năng ưu việt nhưng theo Gartner, nó giống như một thiết bị “nửa vời” – quá to để gọi là PDA, quá bé để trở thành máy tính xách tay hữu ích. 
+ 
+Các mô hình UMPC, thuộc dự án Origami, trong tương lai mới thực sự thích hợp với những lời quảng cáo thổi phồng của Microsoft vì thực tế có rất nhiều nhân tố quyết định sự thành công của thiết bị, trong đó có một số công nghệ tại thời điểm này không thể trở thành hiện thực. “Khái niệm UMPC rất có triển vọng và các sản phẩm “siêu di động” sẽ rất cạnh tranh”, các nhà nghiên cứu khẳng định. “Tuy nhiên, tuổi thọ pin yếu, giá bán đắt đỏ, không chạy hệ điều hành Windows Vista sẽ ảnh hưởng đến sự lựa chọn của thị trường”. 
+UMPC chạy hệ điều hành Windows Mobile Tablet PC của Microsoft, hỗ trợ Bluetooth, Wi-Fi, trọng lượng hơn 1kg, màn hình rộng 7 inch và giá bán khoảng 500 USD – 1000 USD phụ thuộc vào tính năng. 
+Máy tính “siêu di động” của Microsoft được quảng cáo là “"lifestyle computer", có thể lưu trữ toàn bộ nội dung kỹ thuật số, như ảnh, video, nhạc MP3. Ngoài ra, máy cũng có thể cung cấp giao diện cho phép truy cập e-mail bất cứ đâu nhưng Gartner cho biết, hiện tại thiết bị này vẫn chưa có thẻ truy cập mạng không dây trên diện rộng. 
+Theo Gartner, người dùng, đặc biệt là các doanh nhân, cần phải suy nghĩ trước khi chạy đua mua loại thiết bị “nửa vời” này -không hẳn là laptop cũng không phải là PDA. Thực tế, người dùng là doanh nhân nên “chờ đợi những UMPC “trưởng thành” hơn và các dịch vụ nội dung có giá cước rẻ hơn trước khi lựa chọn là thiết bị thay thế máy tính xách tay. 
+Theo Gartner, đối với người dùng thì tuổi thọ pin là yếu tố rất quan trọng trong khi đó, máy tính “siêu di động” của Microsoft chỉ có tuổi thọ pin rất khiêm tốn. 
+Mặc dù Intel và Microsoft cùng phát triển các gói phần mềm giá rẻ và cạnh tranh nhưng Gartner nhận định: “UMPC vẫn chưa thể thành công để trở thành thiết bị phổ dụng”. 
+N.Hương Theo InformationWeek, Unstrung

@@ -1,0 +1,10 @@
+﻿Ghi chú lên màn hình nền
+
+Bạn là hội viên của “Hội những người thích đùa”? Hãy đùa với những cặp mắt tò mò của đồng nghiệp bằng công cụ chuyên “ma thuật” văn bản trên màn hình nền là Desktop NotePad.
+Thông thường để tạo ra được một thông điệp “đẹp đẽ” ngay trên màn hình nền thì bạn phải dùng một trình xử lý ảnh để chèn văn bản vào ảnh số, và sau đó sử dụng ảnh này để làm Wallpaper . Công việc này thật nhiêu khê! DeskTop NotePad sẽ giúp bạn ghi chú ngay lập tức bất kỳ thông điệp nào lên màn hình nền với đầy đủ hiệu ứng đẹp mắt. 
+Khi cài đặt và kích hoạt thành công là giao diện soạn thảo văn bản của DeskTop NotePad sẽ xuất hiện để bạn tạo ra thông điệp ngay lập tức. DeskTop NotePad không làm việc được với font Unicode tiếng Việt nhưng bạn có thể thay thế bằng bằng font VNI hoặc ABC đều tốt. 
+Bạn gõ thông điệp cần soạn vào giao diện soạn thảo có màu xanh đậm. Nếu gõ tiếng Việt nhớ chú ý chọn font, kích thước font và bộ gõ cần thiết. Nên chọn font chữ lớn từ 20 trở lê để thêm ấn tượng. DeskTop NotePad hỗ trợ đủ loại màu chữ, canh trái – phải – giữa hệt như trong Word. 
+Để tạo hiệu ứng chớp chớp cho thông điệp, bạn click vào dấu cộng (+) ở góc trên bên phải màn hình và nhấn vào chữ “Flash” và bạn cũng có thể chỉnh màu cho thông điệp ở đây. Khi hoàn tất công việc, bạn cùng tổ hợp phím Alt+Tab để chuyển qua biểu tượng của DeskTop NotePad là thông điệp của bạn sẽ hiện ra ngay trên màn hình nền. 
+Bạn có thể di chuyển thông điệp này khắp nơi trên màn hình bằng cách đặt trỏ chuột vào thanh sáng màu xanh để hiện ra mũi tên 4 cạnh, sau đó giữ chuột để di chuyển. Để chỉnh sửa thông điệp thì bạn chỉ cần click vào văn bản để hiện ra con trỏ chuột là xong. Công ty ShareUp đang bán ra bản DeskTop NotePad 1.0.1 với giá là 14,95 USD. Người dùng có thể vào đây để tải về bản dùng thử có dung lượng 670 KB hoặc tìm mua tại các cửa hàng phần mềm.
+
+Theo Tuổi Trẻ

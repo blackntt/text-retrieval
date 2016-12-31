@@ -1,0 +1,4 @@
+﻿ Cannon_Blast
+Trong game này , bạn sẽ đóng vai thuyền_trưởng hải_tặc Pete . Nhiệm_vụ của bạn là dùng 3 khẩu đại_bác trên tàu để đẩy lui cuộc tấn_công của hạm_đội .
+Để điều_khiển Pete , bạn dùng 2 phím mũi_tên trái và phải , còn để chỉnh thước_ngắm và bắn , bạn dùng phím mũi_tên lên và xuống kết_hợp với phím Space_Bar . Bạn phải bắn thật nhanh và chính_xác trước khi tàu địch kịp phản_pháo nếu_không muốn phải sớm giương cờ_trắng đầu_hàng . Bạn càng bắn chìm nhiều tàu địch càng được nhiều điểm và rương châu_báu . Cannon_Blast có dung_lượng 875 KB . Bạn có_thể tải miễn_phí game này tại www . miniclip.com/download .
+T . Tùng

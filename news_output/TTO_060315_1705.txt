@@ -1,0 +1,10 @@
+﻿ CyberSister : tiện_ích quản_lý lướt web hữu_hiệu
+Toàn_bộ mọi tính_năng của CyberSister đều nằm gọn_gàng trên giao_diện . Mục_General_Options sẽ giúp bạn thiết_lập các chế_độ khóa hoặc không khóa các cơ_cấu chia_sẻ file , các trang_web FTP , các nhóm tin , bộ lọc e - mail … Bạn có_thể vào mục “ Advanced ” để nhập vào các cổng cho_phép CyberSister lọc hay không lọc các cổng này .
+Mục “ Allowable_Times ” cho_phép bạn thiết_lập thời_gian cho_phép người dùng máy được phép truy_cập vào Internet . Ngoài những thời_điểm mà bạn cho_phép bằng cách đánh_dấu , thì những người khác sẽ không_thể_nào dùng máy_tính của bạn để truy_cập intenet vào những thời_điểm khác .
+“ File_Filter ” là một bộ lọc file hữu_dụng , không cho_phép tải về máy các loại file mà bạn cho là nhạy_cảm hoặc nguy_hiểm cho máy_tính .
+“ User_Fileter ” là một mục vô_cùng hữu_dụng . Bạn có_thể nhập vào đây tất_cả những từ hoặc cụm_từ mà bạn “ cấm_chỉ ” người khác truy_cập vào những website có chứa những từ_ngữ đó . Ngoài_ra bạn cũng có_thể nhập vào đây toàn_bộ những trang_web nằm trong “ danh_sách đen ” mà bạn tuyệt_đối cấm người khác truy_cập vào .
+Mục “ Log_Files ” sẽ hoạt_động như một công_cụ gián_điệp , chuyên ghi lại mọi hoạt_động lướt web của những người khác trên máy . Nó sẽ lưu lại mọi việc trong một file bí_mật mà chỉ mình bạn được phép truy_cập . Ngoài_ra tính_năng “ Configure_Daily E-mail Reports ” sẽ tự_động gửi những thông_tin truy_cập về một địa_chỉ e - mail nào_đó của bạn .
+Công_cụ “ System_Snooper ” trong mục “ Tools/Supports ” có tính_năng quét toàn_bộ ổ_cứng của bạn để tìm ra những dấu_vết lướt web mới nhất . “ System_Snooper ” cũng cung_cấp đầy_đủ tính_năng hỗ online cho người dùng .
+Mục “ Internet_Settings ” sẽ giúp người dùng thiết_lập các cổng Proxy cho quá_trình lướt web .
+CyberSister được xem là một trong những công_cụ quản_lý việc lướt web hữu_hiệu hàng_đầu hiện_nay , đặc_biệt là cho trẻ_em trong gia_đình và trị_giá đến những 40 USD . Người dùng có_thể vào đây để tải về bản dùng thử với dung_lượng khoảng 2MB . Hiện_Cyber Sister phiên_bản 9.5.5.16 đã có_mặt tại các cửa_hàng phần_mềm tại TP.HCM .
+THỤY_KHANH

@@ -1,0 +1,16 @@
+﻿Ma thuật file flash với “Aero SWF.max”
+
+Có khá nhiều chương trình chuyên dùng để chơi dạng file hoạt hình flash (SWF) đang rất phổ biến hiện nay, nhưng chương trình mang tên “Aero SWF.max” là ứng dụng chuyên dùng để “ma thuật” loại file media hấp dẫn này.
+Gọi Aero SWF.max có hàng loạt khả năng hấp dẫn tác động đến file flash như: chuyển file flash thành dạng file EXE tự động chạy; khả năng trình diễn file flash chuyên nghiệp; trích xuất hình ảnh, âm thanh từ file flash; dùng file flash để làm wallpaper, screensave… 
+Sau đây là một số tính năng độc đáo nhất của Aero SWF.max mà các ứng dụng chơi flash khác hầu như không tích hợp được đầy đủ được như Aero SWF.max: 
+- Chơi file flash theo kiểu “liên khúc”: đây là tính năng chơi hàng loạt file flash liền nhau. Vào menu “File” -&gt; chọn “Add to Playlist” để Aero SWF.max chơi hàng loạt file flash đã nhập vào danh sách. 
+- Tạo file flash tự động chạy: vào menu “File” -&gt; chọn “Convert to EXE” -&gt; tìm đến file flash cần chuyển đổi và nhấn “Save” là file SWF sẽ tự động được chuyển thành dạng file EXE tự động chạy. 
+- Thông tin chi tiết về file flash: tính năng “Get Info” ở menu File sẽ thông báo cho bạn biết toàn bộ thông tin về file flash như: dung lượng, thời gian chơi, số khung hình/giây, độ phân giải hình ảnh… 
+- Dùng file flash để làm màn hình nền: vào menu “Tool” -&gt; chọn “Flash Desktop” -&gt; chọn “Enable Flash Desktop” và nhấn OK là file flash của bạn sẽ được chọn làm một dạng màn hình nền động với đầy đủ âm thanh và hình ảnh chơi liên tục. 
+- Dùng file flash để làm trình bảo vệ màn hình: vào menu “Tool” -&gt; chọn “Flash Screen Save”. 
+- Dùng file flash để làm “Wallpaper”: dùng thanh trượt để tìm đến hình ảnh cần dùng trong file flash -&gt; vào “Tool” -&gt; chọn “Set as Wallpaper” là hình ảnh đang hiển thị sẽ được dùng làm Wallpaper ngay lúc đã chọn xong. 
+- Trích xuất hình ảnh và âm thanh trong file flash: vào “Tool” -&gt; chọn “Extract Resources…”. Muốn trích xuất file flash thành hàng loạt file ảnh JPG thì đánh dấu vào ô “JPEG Compressed Images”. Muốn trích xuất toàn bộ âm thanh trong file flash thành dạng file MP3 thì bạn chọn “Event MP3 Sounds” hoặc “Streaming MP3 Sounds”. 
+- Trích xuất một đoạn phim trong file flash: vào menu “Tool” - &gt; chọn “Capture Frame”. 
+Ngoài ra, Aero SWF.max còn có rất nhiều tính năng hấp dẫn khác nữa mà bạn có thể vào các menu khác để tự mình tìm hiểu. Công ty Maxim Ananov hiện đang bán ra bản Aero SWF.max 1.5.785 với giá là 14,95 USD. Người dùng có thể vào đây để tải về bản dùng thử có dung lượng khoảng 2,65 MB hoặc tìm mua tại các cửa hàng phần mềm.
+
+Theo Tuổi Trẻ

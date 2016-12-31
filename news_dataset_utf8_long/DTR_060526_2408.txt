@@ -1,0 +1,11 @@
+﻿Định dạng ảnh mới có dung lượng bằng nửa JPEG
+
+Microsoft cho biết công nghệ JPEG sẽ sớm bị thay thế bằng Windows Media Photo do định dạng mới cho phép nén ảnh với tỷ lệ cao gấp đôi nhưng vẫn đảm bảo chất lượng file. 
+ Hãng sản xuất phần mềm Mỹ đã công bố ý tưởng này trong Hội thảo kỹ sư phần cứng WinHEC 2006, kết thúc ngày hôm nay tại Seatle, rằng Media Photo sẽ được hỗ trợ trong cả hệ điều hành Windows Vista và Windows XP. 
+“Một trong những lý do quan trọng nhất khiến mọi người nâng cấp máy tính chính là ảnh kỹ thuật số”, Bill Crow, Giám đốc sản xuất Media Photo, khẳng định. Ông cho biết Microsoft đã hợp tác với nhiều nhà sản xuất máy in, camera và một số đối tác khác để xây dựng Media Photo. 
+Crow đã trình diễn một hình ảnh nén 24:1 theo định dạng Media Photo. Tuy hơi bị méo do độ nén quá cao, nó trông vẫn chi tiết và rõ nét hơn ảnh JPEG và JPEG 2000 có cùng kích cỡ. 
+Camera số hiện nay chủ yếu sử dụng tỷ lệ 6:1, nhưng Media Photo có thể mang lại những hình ảnh có chất lượng cao hơn thế ngay cả khi đã nâng độ nén lên 12:1. Dung lượng ảnh đóng vai trò rất quan trong đối với điện thoại di động và máy ảnh số do file nhỏ sẽ giúp in và chia sẻ ảnh nhanh hơn, đồng thời tiết kiệm pin cho thiết bị. 
+Theo Crow, công nghệ nén này còn rất thông minh bởi nó có thể chỉ xử lý một phần nhỏ trong một file ảnh lớn. Hơn nữa, định dạng mới hỗ trợ xoay chiều ảnh mà không cần giải mã (decode) ảnh rồi sau đó lại phải mã hóa lần nữa. 
+Steven Wells, một nhiếp ảnh gia tại Mỹ, cho rằng công nghệ mới rất có triển vọng. “Những khiếm khuyết của JPEG hiện nay khiến các thợ ảnh chuyên nghiệp thường không sử dụng nó. Media Photo có thể sẽ là định dạng nén đầu tiên thay đổi điều này”. 
+Microsoft đã hoàn thành phiên bản phần mềm hỗ trợ Media Photo hoạt động trong các thiết bị và nền tảng khác ngoài Windows và sẽ sớm ra mắt trong thời gian tới. 
+Theo T.N. VnExpress/CNet

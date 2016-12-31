@@ -1,0 +1,9 @@
+﻿Microsoft Excel liên tục “dính” lỗi
+
+Một lỗ hổng trong ứng dụng bảng tính nổi tiếng của Microsoft vừa được phát hiện có thể cho phép tin tặc chiếm quyền kiểm soát máy tính. Chưa đầy một tháng, phần mềm Microsoft Excel đã “thủng” đến 3 lần. 
+ Theo đội phản ứng nhanh an ninh của Pháp, lỗ hổng này phát sinh từ lỗi gián đoạn bộ nhớ, xảy ra trong khi phần mềm xử lý hoặc sửa chữa một file tài liệu quá dài. 
+Lỗi ảnh hưởng đến các bản Excel 2000, 2002, 2003 và các phần mềm xử lý văn phòng, như Office 2000, XP, 2003 “cũng có nguy cơ bị hacker thực thi các mã lệnh chuyên biệt bằng cách lừa người dùng mở và sửa một file Excel nguy hiểm”, bản cảnh báo trên trang của đội phản ứng nhanh an ninh Pháp. 
+Phát ngôn viên của Microsoft cho biết hãng đang điều tra về thông báo này nhưng hiện tại, họ vẫn chưa nhận được báo cáo về vụ tấn công liên quan đến lỗi trong Excel này. Người này khẳng định, khiếm khuyết lần này chỉ tác động đến người dùng các phiên bản tiếng Nhật, Hàn Quốc và Trung Quốc. 
+“Chỉ khi nào người dùng mở một file Excel nguy hiểm được gửi đính kèm trong email thì hacker mới tấn công được vào máy tính nạn nhân”, đại diện của Microsoft nói. “Mọi người nên cẩn thận khi mở file đính kèm Excel trong email”. 
+Từ gần 1 tháng nay, tin tặc thực sự bận rộn với các lỗi liên tiếp trong Excel . Ngày 16/6, các chuyên gia đã cảnh báo về sự cố đầu tiên xuất hiện trong phần mềm bảng tính của Microsoft. Cách đây 2 tuần, một lỗ hổng nữa lại được phát hiện. Lỗi này có thể đánh sập cả chương trình nếu người dùng mở file Excel đính kèm nguy hiểm. 
+N.H Theo CNet

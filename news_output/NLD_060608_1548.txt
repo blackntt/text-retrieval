@@ -1,0 +1,8 @@
+﻿ Số vụ tấn_công qua tin nhắn nhanh tăng 500%
+Số virus và sâu như Browaf , Tilebot và Khoobe được phát_tán qua hệ_thống tin nhắn nhanh đã tăng kỷ_lục trong tháng 5 .
+Điều này cho thấy hacker đang coi IM ( Instant_Messenger ) là con đường hiệu_quả để khống_chế máy_tính của người sử_dụng .
+Công_ty chuyên cung_cấp công_cụ quản_lý tin nhắn tích_hợp Postini của Mỹ cho_hay lưu_thông IM đã tăng 138% trong vòng hơn 30 ngày qua còn số vụ tấn_công lại nhiều gấp 5 lần .
+" Thống_kê này chỉ ra rằng các công_ty đang đánh_giá IM là công_cụ giao_tiếp chủ_đạo trong doanh_nghiệp " , Andrew_Lochart , Giám_đốc thị_trường của Postini , nhận_định .
+" Nhưng hacker hiểu rất rõ rằng hầu_hết các tổ_chức không hề trang_bị phần_mềm bảo_vệ nhằm chống lại những nguy_cơ được phát_tán qua IM " .
+Dù_vậy , Lochart cũng khuyến_cáo tin nhắn nhanh vẫn chỉ chiếm một tỷ_lệ nhỏ so với số vụ khai_thác qua e - mail . Do_đó , các công_ty cần bảo_vệ hệ_thống của họ " trên cả hai chiến_tuyến " . Postini ghi_nhận hơn 25 tỷ e - mail được gửi đi trên toàn thế_giới tháng trước , nhưng có tới 86% e-mail chứa phần_mềm nguy_hiểm .
+Theo VNExpress

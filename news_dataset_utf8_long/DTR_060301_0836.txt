@@ -1,0 +1,10 @@
+﻿AMD lại "khẩu chiến" với Intel
+
+Hãng sản xuất thiết bị xử lý lớn thứ hai thế giới đánh giá thấp những tuyên bố của Intel về khả năng hoạt động trong dòng chip thế hệ mới Conroe và Merom.
+
+ Trước đó, Mooley Eden, Giám đốc nền tảng di động Intel, khẳng định những phiên bản chip được giới thiệu vào nửa sau 2006 của họ sẽ có mức vận hành cao hơn 20% so với sản phẩm của AMD được ra mắt cùng thời điểm. 
+"Intel đưa ra những so sánh này đơn giản vì họ không thể bàn về thiết bị xử lý đang có mặt trên thị trường. Ai cũng hiểu sản phẩm hiện nay của họ không tốt chút nào", Henri Richard, Giám đốc thị trường của AMD, nhận xét. 
+Conroe và Merom là chip cho máy để bàn và máy tính xách tay đầu tiên sử dụng vi kiến trúc thế hệ mới ( NGMA ) của Intel. Trong mỗi chu kỳ đồng hồ, chip NGMA có thể xử lý nhiều lệnh hơn so với những sản phẩm trước đó nhờ bộ nhớ đệm lớn (4 MB) và giải pháp điều hướng các lệnh thông minh qua bộ xử lý trung tâm (CPU). 
+Trong khi đó, Richard cho rằng chip NGMA tất nhiên ưu việt hơn chip dựa trên cấu trúc Netburst cũ của Intel, nhưng chưa đủ để vượt qua công nghệ của AMD. Hơn nữa, AMD đang tập trung phát triển công nghệ chip mới mang tên AM2, hỗ trợ DDR2. 
+Richard cũng khẳng định việc tích hợp bộ điều chỉnh bộ nhớ là điều cần thiết bởi nó cho phép đường kết nối giữa vi xử lý và bộ nhớ có thể hoạt động với tốc độ nhanh hơn FSB trong chip của Intel. 
+Theo T.N. VnExpress/CNet

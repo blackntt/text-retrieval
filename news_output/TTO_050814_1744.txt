@@ -1,0 +1,71 @@
+﻿ Điểm_chuẩn ĐH_Y_HN , dân_lập Thăng_Long , Tây_Bắc , Nông_nghiệp 1 , Giao_thông vận_tải , Răng - Hàm - Mặt
+Các trường
+Ngành
+Điểm_chuẩn
+ĐH_Y khoa Hà_Nội
+Ngành bác_sĩ đa_khoa
+26,5
+Bác_sĩ Y_học cổ_truyền
+24,5
+Bác_sĩ Răng_Hàm_Mặt
+25
+Điều_dưỡng
+23
+Y_tế công_cộng
+20
+Kỹ_thuật y_học
+24
+ĐH dân_lập Thăng_Long
+Khối A
+16
+Khối D
+15
+Những ngành khối D có môn ngoại_ngữ nhân hệ_số 2 : 20
+ĐH Tây_Bắc
+SP Toán
+19,5
+SP Tin
+15
+SP vật_lý
+17
+SP hóa_học
+18
+SP sinh_học
+17,5
+Lâm_sinh
+15
+Chăn_nuôi
+15
+Nông_học
+15
+Kế_toán
+15
+SP văn - tiếng Việt
+18
+SP Lịch_sử
+18
+SP Địa_lý
+18
+SP Giáo_dục chính_trị
+16,5
+SP tiếng Anh
+15
+SP Giáo_dục tiểu_học
+16
+SP Mầm_non
+15
+ĐH Nông_nghiệp 1
+Khối A
+18
+Khối B
+19
+ĐH Giao_thông vận_tải
+Hà_Nội
+20,5
+TP.HCM
+18,5
+Nguyện_vọng 2 , thông_tin chi_tiết sẽ thông_báo sau
+ĐH Răng – Hàm – Mặt
+Đào_tạo bác_sĩ răng_hàm mặt
+25,5
+THANH_HÀ

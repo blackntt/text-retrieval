@@ -1,0 +1,11 @@
+﻿ 11/7 : Windows 98 và Me chính_thức bị “ khai_tử ”
+Hãng phần_mềm Mỹ vừa tuyên_bố hôm 3/7 rằng sẽ chấm_dứt việc hỗ_trợ mở_rộng cho Windows 98 , Windows 98 Second_Edition ( SE ) và Windows_Millenium .
+Theo chính_sách hỗ_trợ vòng đời sản_phẩm của Microsoft , gã khổng_lồ sẽ chấm_dứt các dịch_vụ hỗ_trợ kĩ_thuật công_cộng , trong đó có cả các dịch_vụ cập_nhật bảo_mật . Microsoft khẳng_định những tài_liệu hỗ_trợ hiện_tại sẽ vẫn được cung_cấp thông_qua website Help and Support của hãng .
+“ Microsoft sẽ ngừng hỗ_trợ những sản_phẩm này nữa vì chúng đã lỗi_thời và có_thể gây ra nhiều vấn_đề và nguy_cơ về an_ninh , bảo_mật cho khách_hàng ” , đại_diện Microsoft cho_biết .
+“ Chúng_tôi khuyến_cáo những_ai còn sử_dụng Windows 98 và Windows_Me nên nâng_cấp càng nhanh càng tốt lên các phiên_bản HĐH Microsoft khác mới và an_toàn hơn , như Windows XP chẳng_hạn . ”
+Theo thống_kê của tờ Washington_Post , hiện vẫn còn tới 13% khách_hàng của Microsoft , tức_là khoảng 70 triệu người , đang sử_dụng Win98 và ME . Căn_cứ trên số lỗ_hổng , sự thiếu ổn_định và tình_trạng bảo_mật yếu của cả hai , đúng_ra , chúng đáng được đưa về “ nghĩa_địa phần_mềm ” để an_nghỉ .
+Niềm an_ủi duy_nhất cho người dùng Win98 và ME lúc này là các hacker có nhiều mục_tiêu hấp_dẫn hơn để tấn_công , và việc 2 hệ_điều_hành này đã “ già_cỗi ” đến mức hacker cũng không ... nhớ cách bẻ_khóa chúng nữa .
+Theo lời Johannes_Ullrich , giám_đốc công_nghệ của Viện công_nghệ SANS thì đại_bộ_phận những malware và mã độc được tạo ra hiện_nay đều không tương_thích với các hệ_điều_hành này . Đôi_khi , lạc_hậu cũng không phải là không tốt .
+Microsoft cũng sẽ ngừng tất_cả các dịch_vụ hỗ_trợ công_cộng cho Windows XP_SP1 vào ngày 10/10 tới . Microsoft khuyến_khích , để tăng tính bảo_mật cho máy_tính và tiếp_tục nhận được các bản cập_nhật cho Windows XP , người dùng nâng_cấp máy_tính lên Windows XP_SP2 hoàn_toàn miễn_phí .
+Tuy_nhiên hãng cũng cho_biết sẽ đưa ra các bản Custom_Support_Agreement ( thỏa_thuận hỗ_trợ khách_hàng - CSA ) dành cho những đối_tượng khách_hàng là doanh_nghiệp hợp_pháp theo những điều_khoản nhất_định .
+Nhưng các khách_hàng của CSA cũng được khuyến_khích nên cân_nhắc tới việc chuyển lên sử_dụng Windows_Vista như_là một phần trong các kế_hoạch chuyển_đổi của hãng . Theo AI VietNam , VietNamNet

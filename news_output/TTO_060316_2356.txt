@@ -1,0 +1,7 @@
+﻿ Máy_chủ ngân_hàng Trung_Quốc bị lợi_dụng để phishing
+Netcraft cảnh_báo rằng những kẻ chủ_mưu đã hack được máy_chủ của một ngân_hàng tại Trung_Quốc để lưu_trữ website phishing của mình nhắm đến các mục_tiêu là những tổ_chức tài_chính và ngân_hàng của Mỹ .
+“ Các email phishing được gởi đi vào ngày 11-03 nhắm đến mục_tiêu là khách_hàng của Chase_Bank và e Bay được gởi trực_tiếp từ những website lưu_trữ trên địa_chỉ IP được chỉ_định đến chi_nhánh Thượng_Hải của ngân_hàng China_Construction_Bank . Đây cũng là lần đầu_tiên chúng_tôi gặp trường_hợp thiết_bị của một ngân_hàng được sử_dụng để tấn_công một đối_tượng khác ” , Netcraft cho_biết .
+Người dùng sẽ được nhử mồi 20 đôla để họ điền hết bảng khảo_sát sự hiệu_quả của website Chase_Online_Banking . Bước kế_tiếp là yêu_cầu nhập tên tài_khoản và mật_khẩu , số thẻ ngân_hàng , mã PIN , số nhận_dạng , tên lót của mẹ và số chứng_minh_thư .
+Trang e Bay sử_dụng con_dấu VeriSign cho_phép người dùng khi click lên con_dấu thì sẽ dẫn đến một trang trên website của VeriSign chứng_thực về bảo_mật của site đó . Tuy_nhiên , trường_hợp này thì con_dấu dẫn đến liên_kết chứng_thực cho một site khác .
+Netcraft cũng cho_biết rằng những kẻ chủ_mưu có_thể đã dàn_xếp với một nhân_viên ngân_hàng , người có quyền truy_cập đến hệ_thống máy_chủ của ngân hang . Tuy_nhiên , vẫn chưa có thông_tin làm sáng_tỏ vụ_việc và người dùng tốt nhất_là nên tự cảnh_giác , bảo_vệ chính mình khi sử_dụng các dịch_vụ liên_quan đến tài_chính trực_tuyến hoặc có_thể sử_dụng thanh toolbar chống phishing của chính Netcraft cung_cấp tại đây .
+THANH_TRỰC

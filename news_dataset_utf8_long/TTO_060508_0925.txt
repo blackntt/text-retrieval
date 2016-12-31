@@ -1,0 +1,11 @@
+﻿Genius Remote 600, remote đa dụng thông minh
+
+Nhìn hình dáng bên ngoài, Remote 600 có vẻ “thô kệch”, tuy nhiên, đây là một thiết bị có thể đưa bạn từ ngạc nhiên này đến ngạc nhiên khác. 
+Với Remote 600, bạn có thể điều khiển được rất nhiều thiết bị khác nhau, từ các băng đĩa CDs, VCRs, DVDs, đến các thiết bị thu sóng vệ tinh, TVs… 
+Đây thực chất là một chiếc máy tính nhỏ với màn hình cảm ứng đèn trắng, một số nút điều khiển mặc định. Thiết bị này chứa rất nhiều tập lệnh IRs, dùng cho việc điều khiển từ xa các thiết bị. 
+Ngoài chức năng dò tìm đúng bộ mã lệnh của thiết bị điện tử mà nó điều khiển, thiết bị này còn cho phép nó tự học hỏi các bộ mã lệnh mới từ các remote có sẵn. Chức năng này cho phép bạn lưu lại một bản sao remote của chính thiết bị điện tử của mình đang dùng. Ngoài ra, với chức năng lập trình Macro, thiết bị còn cho phép tự động thực hiện một số thao tác liên hoàn. 
+Qua thử nghiệm, nhìn chung đây là một thiết bị khá phức tạp trong cách điều khiển và sử dụng. Để có thể tận dụng hết chức năng của thiết bị này, đòi hỏi bạn phải có một số kiến thức cơ bản về lập trình. 
+Nếu chỉ sử dụng theo chỉ dẫn cơ bản, bạn cũng chỉ có thể sử dụng một số chức năng rất đơn giản của thiết bị này mà thôi. 
+Remote 600 được bán với giá 100 USD do Công ty Silicom phân phối.
+
+TRẦN HUY

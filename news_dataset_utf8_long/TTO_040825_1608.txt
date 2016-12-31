@@ -1,0 +1,12 @@
+﻿Vài suy nghĩ về các biện pháp hỗ trợ đào tạo nhân lực CNTT
+
+Để không chậm chân trong lĩnh vực công nghệ cao này, bắt buộc chúng ta phải có những chuyển biến thật sự trong công tác đào tạo. Nhưng trước khi nói đến chuyện thay đổi, cập nhật giáo trình, cách dạy, cách học thiết nghĩ cần phải có các biện pháp trên tầm chung để hỗ trợ. 
+Thứ nhất, khảo sát nhân lực toàn diện. Lâu nay, những dự báo về nhu cầu nhân lực của ngành mới chỉ là các đánh giá chung chung, dựa chủ yếu vào phân tích có tính xu hướng, chứ chưa đi vào chi tiết từng mảng một. Chẳng hạn về dài hạn cần bao nhiêu nhân lực trong ngành phần cứng, phần mềm, chuyên viên ứng dụng. Trong khi đó, thực tế cần những con số chính xác hơn nữa, cụ thể là trong ngành phần mềm nói riêng cần bao nhiêu chuyên gia quản lí, chuyên viên phân tích hệ thống, bao nhiêu kỉ thuật viên lập trình, quản trị mạng... 
+Thứ hai, nâng cao tính liên thông ngành trong đào tạo. Có một thực tế là sinh viên chuyên ngành công nghệ thông tin hiện nay ngoài kiến thức chuyên môn ra, có rất ít các kiến thức liên quan đến các vấn đề khác, nhất là những ngành nghề sau này là đối tượng phục vụ của CNTT. Điều này làm hạn chế khả năng làm việc thực tế của người lao động. 
+Tại các nước khác, sự đào tạo gắn kết ngành nghề ngay từ đầu giúp cho sinh viên của họ thích nghi rất tốt khi giải quyết các vấn đề đặt ra khi làm việc, ngành phần mềm của họ được phân nhỏ và gắn với tên gọi của các ngành chuyên biệt khác. 
+Ở nước ta, đào tạo liên thông mới chỉ dừng lại ở những nơi chuyên về đào tạo nhân viên ứng dụng sản phẩm CNTT, còn đội ngũ nhân lực đảm trách việc làm ra các sản phẩm CNTT thì còn chưa được chú ý tới. 
+Thứ ba, xây dựng một hệ thống đánh giá chuẩn. Đây là điều mà chúng ta còn thiếu, đặc biệt là các đánh giá theo tiêu chuẩn quốc tế. Hệ thống đánh giá hiệu quả đào tạo sẽ giúp những nhà quản lí có sự điều chỉnh hợp lí cho chiến lược đào tạo. 
+Những đánh giá nhân lực được chuẩn hoá sẽ góp phần phân cấp nguồn lao động của ngành, nâng cao chất lượng tuyển dụng cũng như cho quá trình đào tạo thêm về sau này. Một khi hệ thống này áp dụng được những tiêu chuẩn đánh giá quốc tế còn giúp cho hội nhập nhân lực nhanh hơn. 
+Ba biện pháp tuy có thể không quyết định nhưng đóng vai trò như những biện pháp hỗ trợ đắc lực cho quá trình đào tạo, nâng cao chất lượng và sự phát triển lâu dài của ngành.
+
+TRỌNG CHINH

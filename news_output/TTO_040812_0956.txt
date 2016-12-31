@@ -1,0 +1,6 @@
+﻿ Có tất_cả 46 sản_phẩm tham_dự
+Theo quy_định của cuộc_thi nếu sản_phẩm chạy trên nền MIDP 2.0 ( MicroEdition-Profile ) là phạm_luật sẽ bị loại và BTC chỉ xét những sản_phẩm chạy trên nền MIDP 1.0 . Tuy_nhiên , những thí_sinh bị loại vẫn có_thể sửa lại sản_phẩm để tham_dự vòng chung_kết . Sản_phẩm được giải vòng sơ_kết vẫn được xét tham_dự vòng chung_kết .
+Theo đánh_giá của nhóm hỗ_trợ kỹ_thuật cuộc_thi ( Java_Việt_Nam ) thì_có tổng_cộng 15 game không được xét tham_dự giải sơ_kết vì phạm_luật . Như_vậy chỉ còn 31 game đủ điều_kiện tham_dự vòng sơ_kết .
+Dự_kiến , ngày 21-8 BTC sẽ công_bố kết_quả sản_phẩm và bài bình_chọn của bạn_đọc đoạt giải sơ_kết . Cuối tháng 8 sẽ tổ_chức trao giải , địa_điểm và thời_gian trao giải sẽ được thông_báo sau .
+Trong thời_gian xét giải sơ_kết , BTC tiếp_tục nhận sản_phẩm dự thi và bình_chọn của bạn_đọc thông_qua trang_web chính_thức ( www.samsungmobilegames.com.vn ) hoặc mục Mobile_Games 2004 trên Tuổi_Trẻ_Online ( www.tuoitre.com.vn ) .
+ĐÔNG_HẢI

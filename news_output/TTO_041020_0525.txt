@@ -1,0 +1,4 @@
+﻿ TP.HCM : tăng thêm các chuyến xe_buýt
+Theo đó , tuyến xe_buýt từ bến_xe Chợ_Lớn đến Trường đại_học Giao_thông vận_tải tăng từ 120 chuyến lên 140 chuyến/ngày , còn tuyến bến_xe miền Tây - bến_xe An_Sương đã phải bố_trí xe_buýt lớn 47 chỗ có máy_lạnh thay xe_buýt 12 chỗ .
+Từ ngày 15-10 , tuyến xe_buýt Sài_Gòn - Củ_Chi tăng từ 250 chuyến lên 270 chuyến/ngày , tuyến bến_xe quận 8 - làng đại_học Thủ_Đức từ 310 chuyến lên 330 chuyến/ngày . Từ ngày 20-10 tuyến xe_buýt từ chợ Tân_Xuân ( Hóc_Môn ) đến khu du_lịch Suối_Tiên từ 288 chuyến tăng lên 320 chuyến/ngày .
+N . ẨN

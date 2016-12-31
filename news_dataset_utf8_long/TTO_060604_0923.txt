@@ -1,0 +1,9 @@
+﻿Vì sao không nên sử dụng ĐTDĐ tại các trạm xăng?
+
+PGS-TS LÊ TIẾN THƯỜNG ( ảnh - chuyên ngành điện tử - viễn thông, ĐH Bách khoa - ĐH Quốc gia TP.HCM): 
+- Hầu hết ĐTDĐ đều có bộ phận thu phát sóng vô tuyến với công suất 800-900 MHz, gần bằng với sóng của lò vi ba (nấu chín thức ăn bằng sóng với tần số lớn). Khi ĐTDĐ ở trạng thái chờ, tín hiệu thu phát vẫn hoạt động nhưng công suất thấp. 
+Khi điện thoại đổ chuông và bấm kết nối, công suất của ĐTDĐ tăng mạnh lên nhiều lần mới có thể kết nối với trạm gốc và nối mạng về trung tâm. Trong điều kiện không khí bình thường thì điều này không có gì nguy hiểm. 
+Thế nhưng nếu sử dụng ĐTDĐ ở cây xăng thì lại khác, do xung quanh cây xăng luôn bị bao bọc bởi lớp hơi xăng, hơi gas bốc lên từ quá trình bơm xăng, dầu. Lớp hơi này tạo thành một đám mây mỏng chứa điện từ với nhiều ion điện và rất dễ gây cháy nổ. Trong trường hợp có sự cộng hưởng, sóng của ĐTDĐ cũng có thể kích hơi xăng để phát hỏa. 
+Để đảm bảo an toàn, tốt nhất nên hạn chế tối đa việc kết nối cuộc gọi trong khi bơm xăng hoặc tránh xa trạm bơm xăng 2-3m rồi mới nên nhận điện thoại.
+
+PV

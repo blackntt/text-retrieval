@@ -1,0 +1,6 @@
+﻿ Xây_dựng hệ_thống cảnh_báo lũ_quét
+TS Lã_Thanh_Hà , phó_giám_đốc Trung_tâm Nghiên_cứu thủy_văn - tài_nguyên nước , chủ_nhiệm dự_án , cho_biết hệ_thống này gồm ba bộ_phận : hệ_thống đo , đếm mưa thông_minh ( gồm phần_mềm đo mưa , pin_năng_lượng_mặt_trời , bộ_phận mã_hóa chuyển dữ_liệu ) , hệ_thống “ trạm truyền tin ” và hệ_thống báo_động .
+Trong đó , bộ_phận quan_trọng nhất_là hệ_thống đo mưa thông_minh . Với mỗi khu_vực , theo tính_toán sẽ đặt ngưỡng đo mưa cho máy . Khi xảy_ra mưa lớn , tập_trung , nếu đặt ngưỡng có_thể xảy_ra lũ_quét là 100mm thì khi mưa đạt đến mức 60mm , hệ_thống đo mưa sẽ tự_động truyền dữ_liệu về các hệ_thống tiếp_theo để cảnh_báo .
+Và đến ngưỡng 70mm thì hệ_thống báo_động đặt tại khu_vực dân_cư sẽ rung , đổ chuông liên_hồi , to dần . Khi đó người_dân có đủ thời_gian để chuẩn_bị đối_phó , vì từ ngưỡng 70mm đến ngưỡng 100mm ( xảy_ra lũ ) , các kỹ_sư đã tính_toán đặt thời_gian là hai giờ .
+Theo TS Lã_Thanh_Hà , trong quí 2 năm nay hai hệ_thống đầu_tiên sẽ được xây_dựng tại tỉnh Yên_Bái . Đến năm 2007 , tiếp_tục sẽ có 37 hệ_thống tương_tự được xây_dựng thêm tại Lai_Châu , Điện_Biên , Hà_Giang , Lào_Cai và Yên_Bái . Sau năm 2007 , hệ_thống sẽ được xây_dựng khắp các tỉnh Tây_nguyên , Trung bộ ...
+ĐỨC_BÌNH

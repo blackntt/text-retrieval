@@ -1,0 +1,18 @@
+﻿ 76 mẹo vặt trong Windows : Sửa_chữa nhanh ( Phần IV )
+Bất_kỳ khi nào bạn muốn thay_đổi hệ_thống , bạn nên tạo một điểm phục_hồi hệ_thống trước khi bắt_đầu để nếu có lỗi thì cũng có_thể lấy lại tình_trạng này . Mở_System_Restore như đã mô_tả ở mục trước , chọn Create a Restore_Point , nhấn Next , và thực_hiện theo những hướng_dẫn xuất_hiện . Lưu_ý : tạo điểm phục_hồi bằng tay như trên thì không cần_thiết trước khi bạn cài_đặt phần_mềm , cập_nhật hoặc cài_đặt thiết_bị , Windows sẽ làm_việc này một_cách tự_động dùm bạn .
+26 . ( XP ) Tùy biến chức_năng phục_hồi , phần 1 :
+Để chọn ổ_đĩa cho System_Restore theo_dõi sự thay_đổi của hệ_thống và cài_đặt dung_lượng của đĩa được dùng cho việc sao lưu này . Bạn nhấp phải chuột lên My_Computer và chọn Properties . Chọn thẻ System_Restore , lựa ổ_đĩa , nhấn Settings và đặc cấu_hình theo ý_muốn của bạn .
+27 . ( ME ) Tùy biến chức_năng phục_hồi , phần 2 :
+Điều_chỉnh dung_lượng đĩa System_Restore sử_dụng để sao lưu trong Windows_Me thì khác hơn một_chút . Nhấp phải chuột trên My_Computer , chọn Properties , Performance , File_System , và phía dưới Hard disk , bạn kéo thanh trượt System_Restore disk space user để chọn dung_lượng bạn mong_muốn . Lưu_ý , nhấn Disable_System_Restore trong thẻ Troboleshooting của System_Properties để tắt chức_năng System_Restore đi .
+28 . Tìm giải_pháp trong Safe_Mode :
+Nếu_Windows của bạn bị treo hay thực_hiện một_số hành_động không đúng . Khởi_động lại máy , và nhấn F8 trước khi vào Windows ( bạn có_thể nhấn nhiều lần đến khi Windows nhận được yêu_cầu này ) . Khi đó sẽ xuất_hiện một trình đơn Advance_Options . Sử_dụng các phím di_chuyển để chọn Safe_Mode , rồi nhấn Enter để chạy Windows với một số_lượng driver hạn_chế . Nếu gặp may , bạn có_thể bỏ đi hành_động gây ra lỗi đó và khởi_động lại máy .
+29 . ( 2K , XP ) Phục_hồi với Registry :
+Nếu bạn khởi_động Windows ở chế_độ Safe_Mode nhưng không giải_quyết được các vấn_đề gây ra sự_cố ở Windows . Bạn cũng truy_cập vào trình đơn Advanced_Option như mục 28 , nhưng chọn Last_Known_Good_Configuration và nhấn Enter . Việc khởi_động Windows như_thế_này sẽ sử_dụng phiên_bản sau_cùng của Registry , đây là phiên_bản Windows khởi_động thành_công . Sẽ không có tập_tin nào bị Remove .
+30 . ( 2K , XP ) Chép các thông_báo lỗi :
+Khi_Windows cảnh_báo với bạn là có vài vấn_đề rắc_rối , không điều_khiển được . Nếu bạn muốn giữ lại các lời thông_báo này để gởi tới bộ_phận kỹ_thuật , hoặc các nhân_viên sửa chửa . Nhấn_Ctrl - C để sao_chép các thông_báo này vào Clipboard , sau đó mở email gửi đến bộ_phận kỹ_thuật của bạn , nhấn Ctrl – V để dán nội_dung thông_báo này vào email , và gửi đi .
+31 . Chụp ảnh thông_báo lỗi :
+Nếu bạn không_thể lấy_được các thông_báo lỗi như ở phần trên , nhấn Alt - Print_Screen ( tên của phím này có_thể được viết tắt trên bàn_phím của bạn ) để ghi lại hình_ảnh của hộp_thoại thông_báo lỗi . Đưa chúng vào email ( nếu có hỗ_trợ đồ_hoạ ) hoặc vào trong công_cụ xử_lý_văn_bản . Bạn có_thể dán nó vào trong tiện_ích xử_lý ảnh Paint của Windows bằng cách mở chương_trình này và chọn Edit , Paste . Lưu hình này dưới dạng tập_tin ảnh gif hoặc bmp , … tùy bạn . Sau đó đính kèm tập_tin này vào email rồi gởi đi .
+32 . Tìm giúp_đỡ trong Google_Groups :
+Để tìm sự giúp_đỡ trên mạng , bạn nhập vào vài từ hay tất_cả từ trong thông_báo lỗi của Windows vào trong ô nhập liệu của màn_hình tìm_kiếm chính của Google . Nếu chúng cũng không giúp_đỡ được bạn sửa lỗi này , nhấn chọn thẻ Groups trên trang hiển_thị kết_quả tìm_kiếm của Google bạn có_thể tìm thấy các thảo_luận có liên_quan đến vấn_đề của bạn .
+Còn nữa
+BẢO_TOÀN

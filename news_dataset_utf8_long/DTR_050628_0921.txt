@@ -1,0 +1,26 @@
+﻿Hỏi đáp cuộc thi Nhân tài Đất Việt 2005
+
+Cuộc thi Nhân tài Đất Việt 2005 đã nhận được sự quan tâm của rất nhiều bạn đọc và ban tổ chức nhận được rất nhiều câu hỏi liên quan đến cuộc thi. Sau đây là một số câu hỏi điển hình của cuộc thi. 
+ Một số cuộc thi tương tự liên quan rất nhiều đến các sản phẩm phần mềm, BTC có đánh giá cao các sản phẩm dự thi là phần mềm so với các sản phẩm khác không? 
+Kln22@cam.ac.uk 
+Đáp : Trong giới thiệu về cuộ thi Nhân tài Đất Việt, BTC đã nêu rõ đây là cuộc thi dành cho các tác giả của mọi sản phẩm bao gồm PHẦN CỨNG, PHẦN MỀM và các GIẢI PHÁP MẠNG VÀ TÍCH HỢP CÔNG NGHỆ. Như vậy, phạm vi của các sản phẩm rộng hơn rất nhiều. BTC khuyến khích các thí sinh mang những thành quả sáng tạo của mình không chỉ trong lĩnh vực phần mềm mà cả những thiết bị thuần túy phần cứng hay những hệ thống tích hợp nhiều công nghệ khác nhau tham gia cuộc thi. Không có bất kỳ định hướng ưu tiên nào cho sản phẩm phần mềm với các sản phẩm khác! 
+Ngoài những tiêu chí cơ bản nêu trong thông báo của BTC, BGK đã có dự kiến thang điểm và các tiêu chí đánh giá sản phẩm dự thi chưa? 
+Nguyễn Phương Thắng – Lớp k47 Toán cơ 
+khoa Toán- Cơ – Tin học – ĐHKHTN 
+Đáp : BGK đánh giá cao tính hiệu quả và khả năng áp dụng thực tế của sản phẩm dự thi. Đây là tiêu chí hàng đầu để đánh giá chất lượng của sản phẩm dự thi. Những tiêu chí cơ bản đánh giá sản phẩm dự thi gần như đã quyết định thang điểm chấm thi. Tuy nhiên, thang điểm chi tiết sẽ do BGK xây dựng và thống nhất trước khi tiến hành chấm thi. 
+Ngoài những sản phẩm đoạt giải thì những sản phẩm đã đăng ký dự thi có được xếp hạng không? Có giấy chứng nhận đã tham gia cuộc thi không? 
+Trần Nam Trung – Lớp A2, K49 Toán tin ứng dụng, ĐHKHTN 
+Đáp : BTC không xếp hạng cho những sản phẩm không đoạt giải, tuy nhiên ngoài các giải chính thức còn có rất nhiều giải thưởng khác được trao cho các sản phẩm dự thi của các nhà tài trợ. BTC dự kiến chỉ trao chứng nhận đã tham gia cuộc thi cho các sản phẩm lọt vào vòng chung khảo. 
+Trong thể lệ đăng ký dự thi, yêu cầu của BTC là các sản phẩm đã đoạt giải trong và ngoài nước đều được tham gia. Vậy giải pháp này phù hợp lần đầu tiên ở VN hay không? 
+Nguyễn Trung Dũng – Lớp QL Văn hóa 3, ĐH VH, HN 
+Đáp : BTC không giới hạnh điều kiện tham gia của sản phẩm đoạt giải trong hay ngoài nước. Tuy nhiên, tác giả của sản phẩm phải là NGƯỜI VIỆT NAM đang sinh sống hay làm việc ở trong và ngoài nước. BTC rất khuyến khích các sản phẩm được phát triển ở nước ngoài có khả năng áp dụng hiệu quả ở Việt Nam tham dự cuộc thi. 
+Sau khi đoạt giải cuộc thi, những sản phẩm của các thí sinh sẽ sử dụng như thế nào nếu như chủ nhân của nó vẫn là sinh viên? Có tạo điều kiện gì không cho những sản phẩm của thí sinh đó? Các thí sinh tham gia cuộc thi này có nhận được sự hỗ trợ gì của BTC hay không? 
+Khoa Thị Vân – K49 Toán tin ứng dụng, ĐHKHTN 
+Đáp : Sản phẩm dự thi hoàn toàn là bản quyền của thí sinh dự thi. BTC thông qua các nhà tài trợ có những chương trình hỗ trợ về mặt kinh phí để hoàn thiện sản phẩm dự thi. Về mặt khoa học công nghệ, BTC sẵn sàng cung cấp cho thí sinh cơ sở hạ tầng cơ bản để thử nghiệm các sản phẩm dự thi. Đề nghị xem chi tiết trên website giới thiệu cuộc thi để biết thêm chi tiết về các chương trình hỗ trợ sản phẩm dự thi. Các thí sinh có sản phẩm lọt vào vòng chung khảo được hỗ trợ hoàn toàn chi phí đi lại, ăn ở trong thời gian ra Hà Nội để bảo vệ sản phẩm của mình trước khi hội đồng BGK và dự lễ trao giải thưởng. 
+Vấn đề bản quyền của sản phẩm dự thi sau khi công ước Bern có hiệu lực tại Việt Nam ? 
+Nguyễn Duy Quý – ĐHKHTN 
+Đáp : Có hai khí cạnh về trách nhiệm đối với bản quyền: 
+- Trách nhiệm của tác giả: phải thực hiện cam kết về bản quyền sở hữu trí tuệ và mô tả rõ ràng nguồn gốc, xuất sứ đối với các mã nguồn mở hay sản phẩm đã có sẵn được sử dụng để phát triển sản phẩm dự thi. 
+- Trách nhiệm của BTC: khẳng định sản phẩm dự thi là bản quyền của tác giả, nếu tác giả chưa cho phép sẽ không có bất cứ hình thức sao chép hay cung cấp sản phẩm ra bên ngoài. Bài dự thi sẽ được bảo mật theo một quy chế thống nhất và chỉ được mở khi BGK bắt đầu công việc chấm thi. 
+BTC khuyến khích và sẵn sàng hướng dẫn các tác giả thực hiện bằng việc đăng ký bản quyền sở hữu trí tuệ tại các tổ chức bảo hộ bản quyền. 
+K.Nga thực hiện

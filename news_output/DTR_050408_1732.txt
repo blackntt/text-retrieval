@@ -1,0 +1,5 @@
+﻿ Microsoft ra_mắt phần_mềm phòng_chống lạm_dụng trẻ_em
+Microsoft và các cơ_quan luật_pháp Canada vừa hợp_tác cho ra_mắt một chương_trình phần_mềm chuyên truy_tìm những kẻ dụ_dỗ lạm_dụng trẻ_em trên mạng .
+Công_cụ mới cho_phép các cơ_quan pháp_luật nhanh_chóng lần ra dấu_vết của những kẻ chuyên dụ_dỗ lạm_dụng tình_dục trẻ_em trên mạng . Nền_tảng cơ_bản của phần_mềm chính là khả_năng liên_kết giữa hoạt_động mua_bán thẻ_tín_dụng , thông_điệp chat và hồ_sơ tội_phạm .
+Phần_mềm mới có tên là Child_Exploitation_Tracking_System ( CETS ) , thực_chất là một hệ_thống quản_lý thông_tin sử_dụng ngôn_ngữ XML cùng_với các công_nghệ khác của Microsoft như SharePoint Portal_Server , cơ_sở_dữ_liệu của SQL Server .
+CETS cho_phép các cơ_quan pháp_luật trên thế_giới chia_sẻ thông_tin với nhau , để từ đó có_thể nhanh_chóng lần ra dấu_vết tội_phạm . Công_nghệ độc_đáo này sẽ ngăn được sự bành_trướng của cộng_đồng những kẻ chuyên lạm_dụng tình_dục trẻ_em trên toàn_cầu . Theo Vn Media

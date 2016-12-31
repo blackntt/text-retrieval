@@ -1,0 +1,111 @@
+﻿&gt;&gt; Kỳ 7: môn Tiếng Nga &gt;&gt; Kỳ 6: môn Tiếng Pháp &gt;&gt; Kỳ 4: môn Tiếng Anh &gt;&gt; Kỳ 3: môn Lịch sử &gt;&gt; Kỳ 2: môn Hóa học &gt;&gt; Kỳ 1: môn Văn, Địa lý 
+Tuổi Trẻ xin giới thiệu hướng dẫn nội dung ôn tập đối với từng môn thi của chương trình không phân ban (tiếp theo). 
+Môn Vật lý (chương trình không phân ban) 
+PHẦN LÝ THUYẾT 
+A. Yêu cầu: 
+- Nêu được các hiện tượng: khái niệm, ý nghĩa vật lý của các khái niệm, các thuyết - Phát biểu được các định luật vật lý, viết được công thức tính các đại lượng, nêu tên và đơn vị đo các đại lượng có mặt trong công thức - Vận dụng kiến thức đã học để giải thích được các hiện tượng vật lý, giải các bài tập định tính đơn giản. 
+B. Nội dung: 
+Nội dung ôn tập lý thuyết xếp theo thứ tự các chương của SGK vật lý lớp 12. HS phải biết vận dụng các kiến thức thuộc các nội dung dưới đây để trả lời các câu hỏi: 
+1- Con lắc lò xo. Dao động điều hòa. 
+2- Khảo sát dao động điều hòa. Dao động của con lắc đơn. 
+3- Sự tổng hợp dao động. 
+4- Dao động cưỡng bức. Sự cộng hưởng. 
+5- Hiện tượng sóng trong cơ học. 
+6- Hiện tượng giao thoa. Lý thuyết về giao thoa. Sóng dừng. 
+7- Hiệu điện thế dao động điều hòa. Cường độ hiệu dụng và hiệu điện thế hiệu dụng. 
+8- Dòng điện xoay chiều trong đoạn mạch không phân nhánh. 
+9- Dòng điện xoay chiều ba pha. 
+10- Máy biến thế. Sự truyền tải điện năng. 
+11- Mạch dao động. Dao động điện từ. 
+12- Điện từ trường. Sóng điện từ. 
+13- Gương cầu lõm. Gương cầu lồi. Công thức gương cầu. Những ứng dụng của gương cầu. 
+14- Hiện tượng khúc xạ ánh sáng. Định luật khúc xạ ánh sáng. 
+15- Hiện tượng phản xạ toàn phần. 
+16- Lăng kính. 
+17- Mắt. Các tật của mắt và cách sửa. 
+18- Kính hiển vi và kính thiên văn. Hiện tượng tán sắc ánh sáng. 
+19- Hiện tượng giao thoa ánh sáng. 
+20- Các loại quang phổ. 
+21- Tia hồng ngoại. Tia tử ngoại. 
+22- Tia Rơnghen. Thang sóng điện từ. 
+23- Hiện tượng quang điện. 
+24- Thuyết lượng tử và các định luật quang điện. Lưỡng tính sóng hạt của ánh sáng. 
+25- Hiện tượng quang điện trong. Quang điện trở. Pin quang điện. 
+26- Ứng dụng của thuyết lượng tử trong nguyên tử hydro. 
+27- Cấu tạo hạt nhân nguyên tử. Đơn vị khối lượng nguyên tử. 
+28- Phản ứng hạt nhân. Phản ứng phân hạch. Phản ứng nhiệt hạch. 
+PHẦN BÀI TẬP 
+A- Yêu cầu: 
+- HS nắm được phương pháp và có kỹ năng giải các loại bài tập trong chương trình. 
+- Vận dụng nội dung kiến thức đã học để giải được các bài tập trong sách giáo khoa, sách bài tập và những bài tập tương tự. 
+B- Nội dung: 
+HS giải được các loại bài tập sau: 
+- Lập phương trình dao động, tìm các đại lượng đặc trưng, các giá trị tức thời và năng lượng của hệ vật dao động điều hòa. 
+- Bài tập về con lắc đơn, con lắc lò xo. 
+- Tổng hợp nhiều dao động điều hòa cùng phương, cùng tần số. 
+- Bài tập về đoạn mạch xoay chiều RLC không phân nhánh. 
+- Bài tập về máy biến thế. 
+- Bài tập về định luật khúc xạ, lăng kính, thấu kính. 
+- Bài tập về phản xạ toàn phần. 
+- Bài tập về hiện tượng giao thoa ánh sáng (khe Iâng). 
+- Bài tập về phản ứng hạt nhân. 
+- Bài tập về vận dụng định luật phóng xạ. 
+Môn Toán (chương trình không phân ban) 
+Chủ đề 1: Đạo hàm và khảo sát hàm số 
+Các kiến thức cơ bản cần nhớ: 
+1. Tập xác định, tập giá trị của hàm số. Dấu nhị thức bậc nhất, dấu tam thức bậc hai. Hàm số chẵn, hàm số lẻ, hàm số tuần hoàn. Các qui tắc tính đạo hàm. Đạo hàm của các hàm số sơ cấp cơ bản. Đạo hàm bên trái, bên phải của hàm số. Đạo hàm trên khoảng, trên đoạn. Quan hệ giữa sự tồn tại của đạo hàm và tính liên tục của hàm số. Ý nghĩa của đạo hàm cấp một. Phương trình tiếp tuyến của đồ thị hàm số. 
+2. Điểm tới hạn. Điều kiện để hàm số đồng biến, nghịch biến; chiều biến thiên, các định lý và qui tắc tìm cực đại và cực tiểu, giá trị lớn nhất và giá trị nhỏ nhất của hàm số trong một khoảng, một đoạn... Tính lồi, lõm và điểm uốn của đồ thị. Tiệm cận. Tính đối xứng của đồ thị. 
+3. Qui tắc tính đạo hàm và bảng các đạo hàm, đạo hàm bậc cao và vi phân, tính gần đúng nhờ vi phân. 
+4. Các giới hạn cơ bản. 
+5. Qui tắc bốn bước tìm các điểm cực trị của hàm số. 
+6. Qui tắc tìm max f(x) và min f(x) sau: 
+7. Các công thức xác định các hệ số a và b của tiệm cận xiên y = ax + b của đồ thị hàm số y = f (x). 
+8. Sơ đồ khảo sát hàm số. 
+9. Các bài toán về tiếp xúc và cắt nhau của hai đồ thị. 
+Các dạng toán cần luyện tập: 1. Các ứng dụng của đạo hàm: xét chiều biến thiên, tìm cực trị, tìm giá trị lớn nhất nhỏ nhất, xét nghiệm của phương trình bất phương trình; lập phương trình tiếp tuyến của đồ thị (tiếp tuyến tại một điểm, tiếp tuyến đi qua một điểm) biết hệ số góc của tiếp tuyến, điều kiện tiếp xúc của hai đồ thị; không xét tiếp tuyến song song với trục tung Oy của đồ thị. 
+2. Khảo sát các hàm số: 
+y = ax³ + bx² + cx + d (a ạ 0); y = ax4 + bx2 + c (a ạ 0). 
+3. Các ứng dụng đồ thị hàm số, miền mặt phẳng để giải toán biện luận nghiệm phương trình, bất phương trình, tìm giá trị lớn nhất và nhỏ nhất của hàm số hoặc biểu thức hai ẩn, xét tính đồng biến, nghịch biến, tìm giá trị cực trị khi hàm số sơ cấp thường gặp cho ở dạng có tham số m. 
+4. Bài toán tìm giao điểm hai đường, viết phương trình tiếp tuyến. 
+Chủ đề 2: Nguyên hàm tích phân và ứng dụng 
+Các kiến thức cơ bản cần nhớ: 
+1. Định nghĩa, tính chất và bảng các nguyên hàm. 
+2. Định nghĩa tích phân và công thức Niutơn - Laibơnit. 
+3. Các tính chất của tích phân. 
+4. Hai phương pháp tính tích phân: phương pháp đổi biến số và phương pháp tính tích phân từng phần. 
+5. Diện tích của hình thang cong, thể tích của vật thể tròn xoay. 
+Các dạng toán cần luyện tập: 
+1. Tìm các nguyên hàm nói chung và tìm nguyên hàm thỏa mãn điều kiện cho trước. 
+2. Tìm tích phân. 
+3. Các ứng dụng của tích phân: tính diện tích hình phẳng (giới hạn bởi các đường, đồ thị đã học); tính thể tích hình khối tròn xoay theo công thức cơ bản. 
+Chủ đề 3: Giải tích tổ hợp 
+Các kiến thức cơ bản cần nhớ: qui tắc cộng, qui tắc nhân, các khái niệm và công thức tính hoán vị, chỉnh hợp, tổ hợp, công thức nhị thức Niutơn. 
+Các dạng toán cần luyện tập: 1. Các bài toán giải phương trình, bất phương trình có ẩn số cần tìm liên quan công thức tính số các hoán vị, số các chỉnh hợp, số các tổ hợp. 
+2. Các bài toán liên quan tới công thức khai triển nhị thức Niutơn: chứng minh đẳng thức, tính hệ số của một lũy thừa trong một khai triển. 
+Chủ đề 4: Phương pháp tọa độ trong mặt phẳng 
+Các kiến thức cần nhớ: 
+1. Tọa độ của vectơ, tọa độ của điểm trong hệ tọa độ Oxy. Biểu thức tọa độ của các vectơ cùng phương, cùng hướng; độ dài của vectơ, vectơ bằng nhau. Liên hệ giữa tọa độ vectơ và tọa độ hai điểm đầu mút. Biểu thức tọa độ của các phép tính vectơ, của tích vô hướng. Tính cosin của góc giữa hai vectơ, trung điểm của đoạn thẳng, trọng tâm của tam giác, chia một đoạn thẳng theo tỉ số cho trước. 
+2. Khoảng cách giữa hai điểm, từ một điểm tới một đường thẳng, góc giữa hai vectơ, góc giữa hai đường thẳng, diện tích tam giác. 
+3. Vectơ pháp tuyến, vectơ chỉ phương của đường thẳng. Đường thẳng song song, vuông góc và vị trí tương đối của hai đường thẳng, chùm đường thẳng. 
+4. Các dạng phương trình của đường thẳng (dạng tổng quát, dạng tham số, dạng chính tắc) của đường tròn. Phương trình chính tắc của ba đường conic: clip, hypebol, parabol. 
+Các dạng toán cần luyện tập: 
+1. Viết các dạng phương trình của đường thẳng khi biết đi qua hai điểm, đi qua một điểm và song song hoặc vuông góc với một đường thẳng, đi qua một điểm và tiếp xúc với một đường tròn hoặc một conic. 
+2. Viết phương trình đường thẳng chứa cạnh, đường cao, trung tuyến, trung trực, phân giác của một tam giác khi biết tọa độ ba đỉnh hoặc phương trình ba cạnh. 
+3. Các bài toán tính toán: khoảng cách (tìm đường cao, chu vi, diện tích, tâm và bán kính vòng tròn ngoại tiếp của tam giác), góc (góc giữa hai vectơ, góc giữa hai đường thẳng). 
+4. Các bài toán về đường tròn: viết phương trình đường tròn biết tâm và bán kính, biết hai điểm đầu đường kính, tìm phương tích và trục đẳng phương, viết phương trình tiếp tuyến chung của hai đường tròn. 
+5. Các bài toán về đường conic: viết các phương trình chính tắc của elip, hypebol, parabol khi biết các điều kiện xác định, tìm các yếu tố (tâm sai, tiêu điểm, đường chuẩn...) của một đường conic khi biết phương trình của nó, viết phương trình tiếp tuyến của một đường conic. 
+6. Các bài toán về xác định tập hợp điểm (quĩ tích). 
+Chủ đề 5: Phương pháp tọa độ trong không gian. 
+Các kiến thức cần nhớ: 
+1. Tọa độ của vectơ, tọa độ của điểm trong hệ tọa độ Oxy. Biểu thức tọa độ của các vectơ cùng phương, cùng hướng; độ dài của vectơ, vectơ bằng nhau. Biểu thức tọa độ của các phép tính vectơ, của tích vô hướng, tính cosin của góc giữa hai vectơ, trung điểm của đoạn thẳng, trọng tâm của tam giác, trọng tâm tứ diện, chia một đoạn thẳng theo tỉ số cho trước. Điều kiện để hai vectơ cùng phương, hai vectơ vuông góc, để ba vectơ đồng phẳng. Tọa độ điểm đối xứng qua một điểm (đường thẳng, mặt phẳng) với điểm cho trước. Vectơ pháp tuyến, vectơ chỉ phương của đường thẳng (mặt phẳng). 
+2. Khoảng cách giữa hai điểm, từ một điểm tới một mặt phẳng, tới một đường thẳng; khoảng cách giữa hai đường thẳng chéo nhau. Góc giữa hai vectơ, góc giữa hai đường thẳng, góc giữa hai mặt phẳng, góc giữa đường thẳng và mặt phẳng. Diện tích tam giác, thể tích hình hộp và hình tứ diện. 
+3. Các dạng phương trình của mặt phẳng, của đường thẳng, của mặt cầu. 
+Các dạng toán cần luyện tập: 
+1. Dùng vectơ (cùng phương, tích vô hướng, biểu diễn vectơ qua hai hoặc ba vectơ khác) để chứng minh một hệ thức vectơ, chứng minh tính thẳng hàng, song song, vuông góc, đồng phẳng. 
+2. Các bài toán tính toán: khoảng cách (khoảng cách giữa hai điểm, từ một điểm tới một mặt phẳng, tới một đường thẳng; khoảng cách giữa hai đường thẳng chéo nhau); góc (góc giữa hai vectơ, góc giữa hai đường thẳng, góc giữa hai mặt phẳng, góc giữa đường thẳng và mặt phẳng), tính diện tích tam giác, thể tích hình hộp và hình tứ diện. 
+3. Các bài toán về mặt phẳng: tìm vectơ pháp tuyến, viết phương trình tổng quát, phương trình theo đoạn chắn, phương trình mặt phẳng đi qua ba điểm không thẳng hàng, xác định vị trí tương đối của hai mặt phẳng, chùm mặt phẳng, mặt phẳng song song, vuông góc, các vị trí đặc biệt của mặt phẳng. 
+4. Các bài toán về đường thẳng: tìm vectơ chỉ phương, viết phương trình tổng quát, phương trình tham số, phương trình chính tắc; xác định các hệ thức vectơ, hệ thức tọa độ biểu diễn vị trí tương đối của đường thẳng và mặt phẳng, vị trí tương đối giữa hai đường thẳng (đồng phẳng, cắt nhau, song song, trùng nhau, chéo nhau), vị trí tương đối giữa đường thẳng và mặt phẳng (cắt nhau, song song, nằm trên, vuông góc), chùm đường thẳng. 
+5. Các bài toán về mặt cầu: viết phương trình mặt cầu biết tâm và bán kính, mặt phẳng tiếp diện, viết phương trình mặt phẳng tiếp diện, tìm tâm và bán kính khi biết phương trình mặt cầu. Xác định vị trí tương đối giữa mặt cầu và mặt phẳng (cắt nhau, tiếp xúc, không cắt nhau). 
+6. Các bài toán có áp dụng phương pháp tọa độ để giải (kể từ khâu thiết lập hệ tọa độ vuông góc, xác định tọa độ các yếu tố cho trong bài toán như điểm, vectơ, đường thẳng, góc, khoảng cách... trong hệ tọa độ đó; tới khâu ứng dụng các hệ thức, các phương trình về đường thẳng, mặt phẳng, mặt cầu, góc, khoảng cách, diện tích, thể tích.
+
+TH.HÀ (Theo Bộ GD-ĐT)

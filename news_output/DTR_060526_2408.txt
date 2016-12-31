@@ -1,0 +1,10 @@
+﻿ Định_dạng ảnh mới có dung_lượng bằng nửa JPEG
+Microsoft cho_biết công_nghệ JPEG sẽ sớm bị thay_thế bằng Windows_Media_Photo do định_dạng mới cho_phép nén ảnh với tỷ_lệ cao gấp đôi nhưng vẫn đảm_bảo chất_lượng file .
+Hãng sản_xuất phần_mềm Mỹ đã công_bố ý_tưởng này trong Hội_thảo kỹ_sư phần_cứng WinHEC 2006 , kết_thúc ngày hôm_nay tại Seatle , rằng Media_Photo sẽ được hỗ_trợ trong cả hệ_điều_hành Windows_Vista và Windows XP .
+“ Một trong những lý_do quan_trọng nhất khiến mọi người nâng_cấp máy_tính chính là ảnh kỹ_thuật_số ” , Bill_Crow , Giám_đốc sản_xuất Media_Photo , khẳng_định . Ông cho_biết Microsoft đã hợp_tác với nhiều nhà_sản_xuất máy_in , camera và một_số đối_tác khác để xây_dựng Media_Photo .
+Crow đã trình_diễn một hình_ảnh nén 24 : 1 theo định_dạng Media_Photo . Tuy hơi bị méo do độ nén quá cao , nó trông vẫn chi_tiết và rõ nét hơn ảnh JPEG và JPEG 2000 có cùng kích_cỡ .
+Camera số hiện_nay chủ_yếu sử_dụng tỷ_lệ 6 : 1 , nhưng Media_Photo có_thể mang lại những hình_ảnh có chất_lượng cao hơn thế ngay cả khi đã nâng độ nén lên 12 : 1 . Dung_lượng ảnh đóng vai_trò rất quan trong đối_với điện_thoại_di_động và máy_ảnh số do file nhỏ sẽ giúp in và chia_sẻ ảnh nhanh hơn , đồng_thời tiết_kiệm pin cho thiết_bị .
+Theo Crow , công_nghệ nén này còn rất thông_minh bởi nó có_thể chỉ xử_lý một phần nhỏ trong một file ảnh lớn . Hơn_nữa , định_dạng mới hỗ_trợ xoay chiều ảnh mà không cần giải_mã ( decode ) ảnh rồi sau đó lại phải mã_hóa lần nữa .
+Steven_Wells , một nhiếp_ảnh_gia tại Mỹ , cho rằng công_nghệ mới rất có triển_vọng . “ Những khiếm_khuyết của JPEG hiện_nay khiến các thợ ảnh chuyên_nghiệp thường không sử_dụng nó . Media_Photo có_thể sẽ là định_dạng nén đầu_tiên thay_đổi điều này ” .
+Microsoft đã hoàn_thành phiên_bản phần_mềm hỗ_trợ Media_Photo hoạt_động trong các thiết_bị và nền_tảng khác ngoài Windows và sẽ sớm ra_mắt trong thời_gian tới .
+Theo T . N . VnExpress/CNet

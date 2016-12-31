@@ -1,0 +1,4 @@
+﻿ Cuộc_gọi mấy giây thì bị tính tiền ?
+- Hiện_nay mạng di_động Viettel ( 098 ) đã thực_hiện cách tính cước theo block 6 giây . Về nguyên_tắc , cuộc_gọi dưới 6 giây được tính một block và giây thứ 7 trở đi_lại được tính thành block khác . Hiện_tại , mạng này cũng đã áp_dụng phương_thức tính cước 6 +1 và như_thế thì sau giây thứ 6 , cuộc_gọi của bạn sẽ được tính theo block 1 giây . Bạn đã thực_hiện cuộc_gọi với thời_gian 3 giây , như_vậy sẽ bị tính tiền một block là hợp_lý .
+Tôi đang sử_dụng máy Motorola V360 , mới_đây tôi có chép một_số hình_ảnh vào thẻ nhớ của máy thì xảy_ra một_số hiện_tượng không ổn_định . Khi tôi tắt nguồn và mở lại thì màn_hình chỉ toàn màu trắng và máy không hoạt_động nữa . Khi tôi kết_nối với máy_tính thì những file đuôi " tai lieu " , " dos " xuất_hiện mà không_thể xóa được . Xin giải_đáp giúp tôi về trường_hợp này ?
+( NGUYỄN_THỊ_HẠNH , TP.HCM )

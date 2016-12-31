@@ -1,0 +1,8 @@
+﻿Dự báo khí tượng trực tuyến
+
+Dù các dự đoán được đưa ra sau khi theo dõi tính toán chuyên môn kỹ càng và phức tạp đến đâu thì đó vẫn chỉ là dự đoán. Tin dự đoán thời tiết của Trung tâm quốc gia dự báo khí tượng thủy văn không phải là kênh duy nhất, bạn có thể tham khảo về thời tiết trên Internet. 
+ Ở Mỹ mô hình RAM đang được đánh giá là rất tốt, mô hình ETA được sử dụng ở cả Châu Âu và Mỹ, mô hình HRM ở Đức…và MM5, mô hình có thể dự báo thời tiết thềm lục địa Đông Nam Á trước 72 giờ. 
+http://hydro.iis.u-tokyo.ac.jp/~thanh/MM5/ là trang web được Trung tâm nghiên cứu các hiện tượng thời tiết điển hình quốc gia của trường Đại học bang Pensylvania xây dựng và đi vào hoạt động từ tháng 4/2006. 
+Trang web này cập nhật rất nhiều thông tin về thời tiết khu vực Đông Nam Á mà không cần phải đợi xem dự báo thời tiết trên báo đài. Chẳng hạn bạn có thể xem được lượng mưa ra sao? Nhiệt độ bề mặt như thế nào? Mây nhiều hay ít? Sức gió bề mặt, mật độ không khí, áp suất không khí, áp suất bề mặt… 
+Ví dụ như muốn xem nhiệt độ bề mặt của vùng này bạn vào cột bên trái của website và nhấn chuột vào lệnh: Surface Temperature tại đây bạn có thể xem nhiệt độ tính theo độ C, xem được hướng gió và sức gió theo mm/giây hiển thị bằng các phím mũi tên. Những thao tác đơn giản có thể biết được đến 80% tình hình thời tiết của khu vực mà không nhất thiết bạn phải là chuyên gia trong lĩnh vực thời tiết. 
+http://weather.unisys.com/ là hình thức truyền thông tin bằng internet về thời tiết bằng việc dùng Internet đưa công nghệ thời tiết đến tận hệ thống máy tính của bạn. Cùng với việc nhận số liệu yêu cầu và sẽ phân tích hệ thống trên Unidata. Dịch vụ này nói chung là rất phổ cập và ai cũng có thể tiết kiệm được thời gian của mình. Dịch vụ này đăng ký miễn phí. Hoa Đào

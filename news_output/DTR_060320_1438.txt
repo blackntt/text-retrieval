@@ -1,0 +1,5 @@
+﻿ Đưa dịch_vụ Wimax cố_định vào thử_nghiệm
+Bốn doanh_nghiệp chính_thức được Bộ BCVT cấp phép thử_nghiệm dịch_vụ WiMax cố_định là VNPT , FPT , Viettel và VTC sẽ được cấp dải tần_số 3,3 GHz - 3,4 GHz . Dịch_vụ này tuân theo tiêu_chuẩn Version D vừa được Hiệp_hội Viễn_thông Quốc_tế ITU phê_duyệt , thông_qua vào năm 2004 .
+Nguồn tin từ Bộ BCVT cho_biết , Bộ chưa cấp phép cho các doanh_nghiệp thử_nghiệm dịch_vụ WiMax di_động vì ở thời_điểm này vẫn chưa có thiết_bị cho dịch_vụ này . Sau một năm thử_nghiệm , Bộ sẽ chính_thức cấp phép cho doanh_nghiệp cung_cấp WiMax cố_định .
+Mặc_dù vậy , sau thời_gian thử_nghiệm sẽ chỉ có 3 doanh_nghiệp được chính_thức cấp phép , sau khi đã có kết_quả thử_nghiệm .
+Các điểm truy_cập WiMax cho_phép tín_hiệu hoạt_động tốt trong khoảng_cách khoảng 45 km . Do_đó , phiên_bản đầu_tiên này chỉ thay_thế các mạng máy_tính dùng dây trong gia_đình . Công_nghệ " mobile WiMax " ( WiMax di_động ) sẽ ra_đời trong năm 2007 . Bảo_Trung

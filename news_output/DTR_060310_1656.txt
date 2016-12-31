@@ -1,0 +1,12 @@
+﻿ Làm thế_nào để in được hồ_sơ đăng_ký dự thi trên mạng ?
+Bộ GD - ĐT cho_phép in phiếu hồ_sơ ĐKDT trên mạng để thay_thế các phiếu đã bị hỏng , nhưng em vào mạng tuyển_sinh của Bộ GD - ĐT tìm mà không được . Mong quý báo chỉ giúp !
+( Vũ_Phương_Anh , Cầu giấy , Hà_Nội ) .
+Trả_lời :
+Cách chỉ_dẫn sau đây sẽ giúp thí_sinh có được bản in từ Website .
+Tìm nguyện_vọng học : Bạn dùng chức_năng tìm nguyện_vọng để xác_định bạn sẽ đăng_ký học trường nào , ngành nào , khối nào . Để làm_việc này bạn vào chuyên_mục Tìm nguyện_vọng . Trong đó cho_phép bạn tìm các nguyện_vọng ở các trường theo sở_thích , địa_phương và loại_hình cùng các thuộc_tính khác . Sau khi ấn vào nút tìm_kiếm , Website sẽ liệt_kê tất_cả các mã ngành , tên ngành theo yêu_cầu của bạn . Nếu nhiều quá Website sẽ phân thành các trang , bạn có_thể chuyển giữa các trang bằng cách nháy chuột vào các chỉ mục trang ở cuối danh_sách .
+Khi tìm được ngành ưng_ý bạn nháy chuột vào dấu móc tương_ứng ( có hình cái ghim tài_liệu ở cuối dòng ) . Website sẽ mang các mã_hiệu tương_ứng với ngành bạn chọn về chuyên_mục Tập điền hồ_sơ . Công_việc còn lại của bạn là điền nốt các thông_tin cá_nhân . Nếu bạn đăng_nhập bằng account của bạn thì bạn chỉ cần điền thông_tin cá_nhân một lần , Website sẽ cất tối_đa 5 hồ_sơ bạn đã điền lên máy_chủ . Khi cần bạn có_thể lấy về bất_cứ lúc_nào . Sau mối lần cập_nhật thông_tin bạn cần nháy vào nút Kiểm_tra phiếu để xác_nhận thông_tin với máy_chủ . Bạn sẽ cung_cấp và điều_chỉnh cho_đến khi Website không còn thông_báo đỏ .
+Kiểm_tra thiết_lập máy_in : Bạn sẽ điều_chỉnh cho_đến khi bản in ra nằm gọn trong một trang A4 , cách lề trái , cách lề phải , cách trên , dưới tuân_thủ như bản_gốc .
+Trên IE bạn xoá trống các mục Header , Footer .
+Trên_Fire Fox bạn làm tương_tự :
+Lần_lượt in các bản in bìa , phiếu 1 , phiếu 2 : Sau khi đã thành_thục với các tham_số điều_khiển in phù_hợp với máy_in của bạn , nếu rảnh bạn có_thể điều_chỉnh ít một để có được bản in thật đẹp , chính_xác như qui_định .
+( Chú_ý : Bạn không nên copy bản in từ trình_duyệt sang Word hoặc hoặc trình_soạn_thảo nào_đó để chỉnh_sửa vì nội_dung khi đó có_thể không thể_hiện đủ , chính_xác ) . Nhóm PV_GD

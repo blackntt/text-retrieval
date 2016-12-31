@@ -1,0 +1,9 @@
+﻿Sao lưu màn hình nền với “Easy Desktop Keeper”
+
+Trước khi sử dụng EDK, bạn nên bỏ chút thời gian để chăm chút cho màn hình Desktop của mình lần cuối để đạt mức độ lý tưởng nhất: màn hình nền tuyệt đẹp, các icon ứng dụng được đưa lên hợp lý, màu sắc vừa mắt và thanh Taskbar được thiết kế đúng theo ý thích… Khi đã thiết kế xong thì hãy bắt EDK ra tay để sao lưu lại “tác phẩm” của mình. 
+Cách thực hiện vô cùng đơn giản. Khi kích hoạt EDK thành công, bạn chỉ cần nhấn vào nút “Save” -&gt; gõ tên file sao lưu vào ô “Input” là lập tức mọi thông số trên màn hình nền sẽ được lưu lại đầy đủ trong một file có tên mà bạn đã đặt và đuôi là .DKB. Tên của file này sẽ lập tức hiện ra ở ô liệt kê bên dưới. 
+Khi nhận thấy có ai đó đã thay đổi màn hình nền, bạn chỉ cần chọn tên file đã sao lưu và nhấn vào nút “Load” là màn hình của riêng bạn sẽ được phục hồi như cũ. Bạn có thể thiết kế cho mình nhiều kiểu màn hình nền và cứ dùng EDK để thay đổi theo ý thích. Các file sao lưu màn hình nền sẽ nằm trong thư mục C:\Documents and Settings\User\Windows Desktop Backups. 
+Khi hoạt động, biểu tuợng EDK sẽ luôn nằm ở khay đồng hồ. Để ngăn chặn người khác can thiệp vào chương trình này, bạn nên vào mục “Option” -&gt; đánh dấu vào ô “Enable Password Protection” sau đó đặt password cho chương trình để chỉ riêng mình bạn sử dụng. Nhưng tốt nhất là mọi người nên dùng chung công cụ này để thiết lập màn hình nền của riêng mình ở mỗi phiên làm việc mà không ảnh hưởng đến ý thích của người khác. 
+Công ty Softheap đang bán ra bản Easy Desktop Keeper v1.7 với giá là USD. Người dùng có thể vào đây để tải về bản dùng thử với dung lượng là 1,2 MB hoặc tìm mua tại các cửa hàng phần mềm.
+
+THIÊN TRANG

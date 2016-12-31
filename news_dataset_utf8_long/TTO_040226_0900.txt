@@ -1,0 +1,11 @@
+﻿Cảnh giác biến thể virus Mydoom và Netsky mới
+
+Như những người đi trước, Netsky.C xuất hiện trong một file đính kèm trong e-mail có nhiều tiêu đề: từ Question," "Fwd: lol,", "Re: hey", “trust me", "notice", tới "warning" và "Delivery Failed". Virus này cũng thâu tóm các địa chỉ e-mail được lưu trữ trong máy tính bị lây nhiễm để phát tán các bản sao của chính mình. 
+Hãng Network Associates đã xếp Netsky.C vào danh sách các loại sâu có tầm nguy hiểm "trung bình", trong khi Symantec xếp loại sâu này đứng thứ ba trong hệ thống 5 mức báo động. 
+Qua phân tích các đoạn mã nguồn của Netsky.C, các chuyên gia thấy trong đó có một thông điệp ngụ ý rằng các nhóm hacker đang tấn công lẫn nhau để giành sự chú ít, hay ít nhất là cũng cố gắng chiếm được vị trí thống lĩnh trong bảng xếp hạng virus nguy hiểm. 
+Cùng này, các chuyên gia cũng cảnh báo rằng virus Mydoom.F đang lây nhiễm mạnh trên mạng và tập trung xoá các file dữ liệu trên máy tính của nạn nhân. Sâu không những tấn công từ chối dịch vụ vào website của Microsoft, Hiệp hội ngành thu thanh quốc gia, mà còn mang theo chương trình phá hoại tấn công người dùng. 
+Biến thể có tên Mydoom.F không phát tán rộng như những phiên bản trước đó nhưng nguy hiểm ở khả năng phá hoại nói trên. 
+Khi được kích hoạt, sâu sẽ tự động gửi mình tới những địa chỉ e-mail tìm thấy trong hộp thư, trong các file trên ổ cứng của người dùng. Bên cạnh đó, nó cũng xóa các văn bản Word, file ảnh JPG, file Audio Video Interleaved, Excel và một số loại file khác. 
+Mới đây, Microsoft tuyên bố đã có trong tay những đầu mối thông tin về tác giả của nhiều loại virus nguy hiểm, trong đó có cả virus MyDoom.B , Sobig-F và MyDoom. Người khổng lồ về phần mềm đang phối hợp với một số cơ quan chính phủ trên toàn thế giới để bắt giữ tác giả những virus nguy hiểm này.
+
+T.M tổng hợp từ Internet

@@ -1,0 +1,6 @@
+﻿ Thuê_bao Vina , Mobi còn 100.000 đồng/tháng
+Cụ_thể cước điện_thoại_di_động sẽ áp_dụng mức block 30 giây so với trước đó là 60 giây . Đối_với cước liên_lạc nội vùng dịch_vụ di_động Vinaphone , MobiFone trả trước áp_dụng mức 1.364 đồng/block . Cước gọi liên vùng VNPT quy_định là 1.591 đồng/block . Cước dịch_vụ trả tiền trước thuê_bao ngày được áp_dụng mức 2.000 đồng/ngày , cước liên_lạc nội vùng áp_dụng mức 909 đồng/block và 1.273 đồng/block cho các cuộc_gọi liên vùng .
+Riêng cước hòa_mạng Vinaphone , MobiFone trả sau VNPT vẫn để mức dao_động từ mức 181.818 - 363.636 đồng/lần . Cước thuê_bao chỉ còn 90.909 . Cước liên_lạc nội vùng là 773 đồng/block . Cước liên_lạc liên vùng 1091 đồng/block .
+Cước dịch_vụ điện_thoại quốc_tế IDD của VNPT áp_dụng mức giá trung_bình là 0,75 USD cho phút đầu , các phút sau được tính theo block 6 giây ( phụ_thuộc vào từng hướng gọi đi ) .
+Các mức cước trên đều chưa có VAT .
+Theo SGGP

@@ -1,0 +1,11 @@
+﻿Nắm PDF trong lòng bàn tay
+
+Nhiều người nghĩ đơn giản, pdf được tạo ra bằng cách chuyển định dạng (convert) từ văn bản soạn thảo trên Word. Một số khác thì chấp nhận cài bộ phần mềm cồng kềnh là Adobe Acrobat. Tại sao bạn không tạo cho mình một sự khác biệt? 
+Với Nitro PDF, bạn sẽ thấy mọi thứ trở nên dễ dàng. Chương trình này có cách sử dụng gần giống như Adobe Acrobat, nhưng gọn nhẹ hơn nhiều. Sau khi cài đặt, nó chiếm khoảng 35 MB. Điều này cho phép chương trình có thể được nạp hoàn toàn vào trong bộ nhớ. Chính vì thế, tốc độ vận hành rất nhanh. 
+Chương trình hoàn toàn tương thích với bộ phần mềm Office của Microsoft, cho phép convert trực tiếp các dạng văn bản Office qua PDF, với cách sử dụng y như Adobe Acrobat. 
+Ngoài ra, Nitro PDF cũng là một chương trình soạn thảo PDF chuyên nghiệp, với đầy đủ mọi công cụ như canh chỉnh trang, làm bookmark, tạo form cho pdf..., kể cả khả năng bảo mật và mã hóa tài liệu, đương nhiên không thể thiếu tính năng chữ ký điện tử nhằm đảm bảo tính chính xác khi mã hóa. 
+Với NitroPdf, bạn có thể yên tâm từ bỏ Adobe Acrobat một cách “không thương tiếc”. Không thiếu bất cứ chức năng nào, từ thấp đến cao cấp mà tài nguyên thì chỉ tốn còn có 1/10. 
+Bạn có thể gởi email về mục “Nhịp cầu Nhịp sống số” ( online@tuoitre.com.vn ) để yêu cầu hướng dẫn sử dụng chương trình bằng tiếng Việt, hoặc có thể tham khảo cách sử dụng chương trình bằng tiếng Anh ngay trên phần giúp đỡ của chương trình. 
+Có thể vào đây để tải bản dùng thử: http://downloads-zdnet.com.com/Nitro-PDF-Professional/3000-10743_2-10537722.html?tag=zddl.nlppd&amp;tag=nl.e530
+
+TRẦN HUY

@@ -1,0 +1,4 @@
+﻿ Trojan cũng “ bắt_cóc tống_tiền ” !
+Trojan mang tên Ransom - A này khi tấn_công máy_tính sẽ lập_tức giấu dữ_liệu vào một_số thư_mục ẩn , đồng_thời hiện thông_báo đe_dọa cứ cách 30 phút sẽ ... “ xử ” một “ con_tin ” nếu người chủ xấu_số không chịu trả 10,99 USD , kèm theo đó là hướng_dẫn đầy_đủ cách nộp “ tiền chuộc ” ...
+Các chuyên_gia Sophos khuyến_cáo mọi người nên sao lưu dữ_liệu thường_xuyên hơn để đề_phòng . Tháng trước , chính Sophos cũng đã phát_hiện một trojan khác ( mang tên Zippo ) cũng tấn_công đòi tiền chuộc . Các chuyên_gia của hãng sau đó đã vô_hiệu_hóa được trojan này và công_bố mật_mã để người có máy_tính bị nhiễm mở khóa dữ_liệu của mình .
+NGUYỄN_HOÀNG_MINH ( Theo Sophos . com )

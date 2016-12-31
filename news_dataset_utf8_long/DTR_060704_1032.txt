@@ -1,0 +1,10 @@
+﻿WiMax chính thức được triển khai tại Hàn Quốc
+
+Các hãng viễn thông nước này đang bắt đầu kinh doanh dịch vụ Wibro, một biến thể của WiMax, tại thủ đô Seoul. Đây được coi là cơ hội đầu tiên để so sánh hệ thống truy cập mạng không dây phạm vi rộng với các công nghệ cạnh tranh khác. 
+ 
+Một số dịch vụ Internet không dây thương mại đã được cung cấp qua các hotspot ở Seoul nhưng WiMax vẫn có nhiều lợi thế. Nó đạt tốc độ trao đổi dữ liệu vài megabit mỗi giây, phạm vi phủ sóng 1 km và có thể hoạt động trong các phương tiện đang di chuyển với vận tốc 120 km/giờ. 
+WiBro bước đầu sẽ được thiết lập tại khu vực trung tâm, trường đại học và các tuyến giao thông công cộng chính trong thành phố. Cước dịch vụ cơ bản mà công ty truyền thông KT đưa ra là 16 USD/tháng cho 300 MB dữ liệu tải về đầu tiên, mỗi megabyte tiếp theo có giá 0,07 USD. 
+Để sử dụng dịch vụ, khách hàng sẽ phải mua thẻ trị giá từ 170 USD đến 300 USD để cài vào máy tính xách tay. Thẻ hỗ trợ những thiết bị khác như PDA và điện thoại thông minh sẽ có mặt trên thị trường vài tháng tới. 
+Đối thủ cạnh tranh chính của WiBro và WiMax di động là công nghệ truy cập tốc độ cao HSDPA (high speed downlink packet access), một cải tiến từ công nghệ WCDMA cho điện thoại di động. HSDPA có tốc độ truyền tương đương với WiBro nhưng giá cước có thể sẽ cao hơn một chút. 
+Hãng SK Telecom của Hàn Quốc sẽ đầu tư 170 triệu USD để xây dựng mạng WiBro trong năm nay, còn KT Corporation dự định bỏ ra tới 500 triệu USD. “Chúng tôi sẽ phủ sóng WiBro toàn Seoul ngay năm tới và mở rộng đến các vùng lân cận vào năm 2008”, một phát ngôn viên của KT cho biết. 
+Theo T.N. VnExpress/VNUNet

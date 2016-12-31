@@ -1,0 +1,25 @@
+﻿ Hỏi_đáp cuộc_thi Nhân_tài Đất_Việt 2005
+Cuộc_thi Nhân_tài Đất_Việt 2005 đã nhận được sự quan_tâm của rất nhiều bạn_đọc và ban tổ_chức nhận được rất nhiều câu_hỏi liên_quan đến cuộc_thi . Sau đây là một_số câu_hỏi điển_hình của cuộc_thi .
+Một_số cuộc_thi tương_tự liên_quan rất nhiều đến các sản_phẩm phần_mềm , BTC có đánh_giá cao các sản_phẩm dự thi là phần_mềm so với các sản_phẩm khác không ?
+Kln22@cam.ac.uk
+Đáp : Trong giới_thiệu về cuộ thi Nhân_tài Đất_Việt , BTC đã nêu rõ đây là cuộc_thi dành cho các tác_giả của mọi sản_phẩm bao_gồm PHẦN_CỨNG , PHẦN_MỀM và các GIẢI_PHÁP_MẠNG_VÀ_TÍCH_HỢP_CÔNG_NGHỆ . Như_vậy , phạm_vi của các sản_phẩm rộng hơn rất nhiều . BTC khuyến_khích các thí_sinh mang những thành_quả sáng_tạo của mình không_chỉ trong lĩnh_vực phần_mềm mà_cả những thiết_bị thuần_túy phần_cứng hay những hệ_thống tích_hợp nhiều công_nghệ khác_nhau tham_gia cuộc_thi . Không có bất_kỳ định_hướng ưu_tiên nào cho sản_phẩm phần_mềm với các sản_phẩm khác !
+Ngoài những tiêu_chí cơ_bản nêu trong thông_báo của BTC , BGK đã có dự_kiến thang điểm và các tiêu_chí đánh_giá sản_phẩm dự thi chưa ?
+Nguyễn_Phương_Thắng – Lớp k 47 Toán cơ
+khoa Toán - Cơ – Tin_học – ĐHKHTN
+Đáp : BGK đánh_giá cao tính hiệu_quả và khả_năng áp_dụng thực_tế của sản_phẩm dự thi . Đây là tiêu_chí hàng_đầu để đánh_giá chất_lượng của sản_phẩm dự thi . Những tiêu_chí cơ_bản đánh_giá sản_phẩm dự thi gần_như đã quyết_định thang điểm chấm thi . Tuy_nhiên , thang điểm chi_tiết sẽ do BGK xây_dựng và thống_nhất trước khi tiến_hành chấm thi .
+Ngoài những sản_phẩm đoạt giải thì những sản_phẩm đã đăng_ký dự thi có được xếp_hạng không ? Có giấy chứng_nhận đã tham_gia cuộc_thi không ?
+Trần_Nam_Trung – Lớp A2 , K49 Toán tin ứng_dụng , ĐHKHTN
+Đáp : BTC không xếp_hạng cho những sản_phẩm không đoạt giải , tuy_nhiên ngoài các giải chính_thức còn có rất nhiều giải_thưởng khác được trao cho các sản_phẩm dự thi của các nhà tài_trợ . BTC dự_kiến chỉ trao chứng_nhận đã tham_gia cuộc_thi cho các sản_phẩm lọt vào vòng chung_khảo .
+Trong thể_lệ đăng_ký dự thi , yêu_cầu của BTC là các sản_phẩm đã đoạt giải trong và ngoài nước đều được tham_gia . Vậy giải_pháp này phù_hợp lần đầu_tiên ở VN hay không ?
+Nguyễn_Trung_Dũng – Lớp QL Văn_hóa 3 , ĐH_VH , HN
+Đáp : BTC không giới hạnh điều_kiện tham_gia của sản_phẩm đoạt giải trong hay ngoài nước . Tuy_nhiên , tác_giả của sản_phẩm phải là NGƯỜI_VIỆT_NAM đang sinh_sống hay làm_việc ở trong và ngoài nước . BTC rất khuyến_khích các sản_phẩm được phát_triển ở nước_ngoài có khả_năng áp_dụng hiệu_quả ở Việt_Nam tham_dự cuộc_thi .
+Sau khi đoạt giải cuộc_thi , những sản_phẩm của các thí_sinh sẽ sử_dụng như_thế_nào nếu_như chủ_nhân của nó vẫn là sinh_viên ? Có tạo điều_kiện gì không cho những sản_phẩm của thí_sinh đó ? Các thí_sinh tham_gia cuộc_thi này có nhận được sự hỗ_trợ gì của BTC hay không ?
+Khoa_Thị_Vân – K49 Toán tin ứng_dụng , ĐHKHTN
+Đáp : Sản_phẩm dự thi hoàn_toàn là bản_quyền của thí_sinh dự thi . BTC thông_qua các nhà tài_trợ có những chương_trình hỗ_trợ về mặt kinh_phí để hoàn_thiện sản_phẩm dự thi . Về mặt khoa_học công_nghệ , BTC sẵn_sàng cung_cấp cho thí_sinh cơ_sở_hạ_tầng cơ_bản để thử_nghiệm các sản_phẩm dự thi . Đề_nghị xem chi_tiết trên website giới_thiệu cuộc_thi để biết thêm chi_tiết về các chương_trình hỗ_trợ sản_phẩm dự thi . Các thí_sinh có sản_phẩm lọt vào vòng chung_khảo được hỗ_trợ hoàn_toàn chi_phí đi_lại , ăn_ở trong thời_gian ra Hà_Nội để bảo_vệ sản_phẩm của mình trước khi hội_đồng BGK và dự lễ trao giải_thưởng .
+Vấn_đề bản_quyền của sản_phẩm dự thi sau khi công_ước Bern có hiệu_lực tại Việt_Nam ?
+Nguyễn_Duy_Quý – ĐHKHTN
+Đáp : Có hai khí cạnh về trách_nhiệm đối_với bản_quyền :
+- Trách_nhiệm của tác_giả : phải thực_hiện cam_kết về bản_quyền sở_hữu_trí_tuệ và mô_tả rõ_ràng nguồn_gốc , xuất sứ đối_với các mã nguồn mở hay sản_phẩm đã có sẵn được sử_dụng để phát_triển sản_phẩm dự thi .
+- Trách_nhiệm của BTC : khẳng_định sản_phẩm dự thi là bản_quyền của tác_giả , nếu tác_giả chưa cho_phép sẽ không có bất_cứ hình_thức sao_chép hay cung_cấp sản_phẩm ra bên ngoài . Bài dự thi sẽ được bảo_mật theo một quy_chế thống_nhất và chỉ được mở khi BGK bắt_đầu công_việc chấm thi .
+BTC khuyến_khích và sẵn_sàng hướng_dẫn các tác_giả thực_hiện bằng việc đăng_ký bản_quyền sở_hữu_trí_tuệ tại các tổ_chức bảo_hộ bản_quyền .
+K.Nga thực_hiện

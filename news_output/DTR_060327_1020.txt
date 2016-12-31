@@ -1,0 +1,9 @@
+﻿ Intel xem_xét thương_hiệu mới cho máy_tính doanh_nghiệp
+Sau_Centrino , hỗ_trợ mở_rộng mạng không dây cho máy_tính_xách_tay , và Viiv phục_vụ máy_tính giải_trí gia_đình , Intel có_thể đang chuẩn_bị giới_thiệu một thương_hiệu thứ_ba cho hệ_thống doanh_nghiệp .
+" Chúng_tôi đang cân_nhắc xem liệu có nên thực_hiện một điều gì đó trong lĩnh_vực này " , Anand_Chandrasekher , Phó_giám_đốc Intel , cho_biết .
+Tuy không khẳng_định , Chandrasekher nhắc lại rằng , ngay khi Centrino và Viiv chưa chính_thức ra_đời , Intel đã mô_tả chúng như những nền_tảng trợ_giúp thực_hiện những khối_lượng công_việc lớn dễ_dàng hơn . Sau đó , Chandrasekher tiết_lộ nền_tảng mới sẽ tích_hợp nhiều tính_năng công_nghệ mà họ tin là sẽ trở_thành trung_tâm trong môi_trường doanh_nghiệp , như khả_năng quản_lý , bảo_mật và ảo_hóa .
+Trình_làng một thương_hiệu độc_lập cho hệ_thống doanh_nghiệp là một bước_đi lớn nhằm khẳng_định Intel không_chỉ là một công_ty chuyên sản_xuất thiết_bị xử_lý ( processor ) , mà đã chuyển sang xây_dựng nền_tảng ( platform ) hỗ_trợ những mục_đích sử_dụng máy_tính khác_nhau .
+Công_nghệ nền_tảng này của Intel bắt_đầu nổi lên từ cuộc cải_tổ lại tập_đoàn của Paul_Otellini , Giám_đốc điều_hành Intel , trong năm 2005 .
+Theo logic về mặt thời_gian , thời_điểm thương_hiệu mới xuất_hiện có_thể sẽ là khi nền_tảng máy_tính doanh_nghiệp Averill được ra_mắt , dự_kiến trong trong quý III/2006 . Averill là sự kết_hợp giữa thiết_bị xử_lý lõi kép cho máy_để_bàn Conroe , bộ chipset Broadwater và mạng Ethernet 1 Gb/giây .
+Hệ_thống Averill còn được trang_bị công_nghệ quản_lý động ( Active_Management_Technology ) , hỗ_trợ quản_trị từ xa và công_nghệ ảo_hóa ( Virtualization_Technology ) , cho_phép máy_tính chạy đa_hệ điều_hành trong những phân_khu riêng_biệt .
+Theo T . N . VnExpress/Cnet

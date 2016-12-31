@@ -1,0 +1,10 @@
+﻿Tạo ổ đĩa ảo với Extra Drive Creator
+
+Extra Drive Creator của WinTools Software Engineering không thua kém gì bộ Virtual Drive có cùng chức năng là tạo ổ đĩa ảo trên máy tính nhưng Extra Drive Creator có năm tính năng chính được xem như là 5 bộ công cụ trong một là: 
+- Crypted Drive: Công cụ này cho phép bạn tạo một ổ đĩa mà dữ liệu của bạn khi được lưu trữ trong đó sẽ được mã hoá 256-bit với mật khẩu sử dụng thuật toán “AES256” nhằm chống lại việc truy xuất dữ liệu trái phép. 
+- Virtual CD: Công cụ này dành cho việc tạo ổ đĩa ảo giúp bạn giả lập ổ CD-Rom trên PC của bạn nhằm lưu trữ, và đọc các tập tin ISO. Công cụ này hữu ích cho các gamer để lưu trữ các CD Game và chơi trực tiếp không cần CD trên PC. 
+- File/Folder to Drive: Công cụ tạo ổ đĩa mở rộng mà không cần tạo partition mới. Công cụ này cơ bản sử dụng file/folder như ổ đĩa mở rộng. 
+- RAM Drive: Cũng cùng chức năng tạo thêm ổ đĩa ảo nhưng nó dựa trên bộ nhớ RAM để tạo ra ổ đĩa mở rộng. Tất cả thông tin trên ổ đĩa mở rộng này sẽ mất đi sau khi reboot lại máy tính. Công cụ này hữu ích cho các chương trình đòi hỏi quyền truy xuất tốc độ tối đa với ổ cứng, ổ đĩa mở rộng sẽ lưu trữ lại thông tin tạm thời của các chương trình này giúp cho việc xử lý mau chóng hơn. 
+Tải về dùng thử Extra Drive Creator tại đây . Hoạt động trên máy có cấu hình thấp và hầu hết các phiên bản của hệ điều hành Windows NT/2000/XP/2003. Một lưu ý khác là khi sử dụng Extra Drive Creator, bạn cần có quyền của người quản trị (Administrator) để cài đặt và thực thi các bộ công cụ.
+
+TRẦN THANH TRỰC

@@ -1,0 +1,8 @@
+﻿ Thêm một Trojan “ ẩn ” trong Microsoft_Word
+Hãng bảo_mật Anh Sophos vừa khuyến_cáo về một loại Trojan mới có tên Kukudro - A phát_tán với số_lượng lớn bằng một file Word đính kèm trong e - mail nhằm chiếm quyền truy_cập máy_tính để ăn_cắp thông_tin cá_nhân .
+Khi nạn_nhân mở tài_liệu Word hứa_hẹn cung_cấp thông_tin về các laptop của HP , Apple và Sony được gửi trong e - mail , Trojan_Kukudro - A lại tự_động cài_đặt thêm một loại Trojan mới là Kuku - A trên ổ_cứng của máy_tính người dùng . Từ đó , tin_tặc có_thể truy_cập vào PC mà người dùng không hề hay_biết .
+Spam phát_tán với rất nhiều dòng chủ_đề , như “ Đáng để xem – worth to see ” , “ Giá_cả - prices ” và “ Xin chào – Hello ” . Theo Sophos , file zip độc ( như “ prices.zip ” , “ apple _ prices.zip ” hay “ sony _ prices.zip ” ) được đính kèm trong những e - mail có chủ_đề trên .
+Hãng bảo_mật đã ghi_nhận được một trường_hợp bị phát_tán malware này vào ngày 27/6 . Hãng này cho rằng tác_giả đứng sau malware này chính là người tạo ra sâu Sality chuyên ăn_trộm thông_tin từ máy_tính người dùng bằng chương_trình dò bàn_phím keylogger .
+“ Mọi người cần phải tự hỏi tại_sao mình lại được gửi e - mail này nếu mở file đính kèm sẽ là một sai_lầm lớn đấy ” , Graham_Cluley , cố_vấn công_nghệ của Sophos , cảnh_báo . “ Trojan lần này phát_tán mạnh_mẽ nhằm đột_nhập vào máy_tính Windows của người dùng ngây_thơ ” .
+Theo ông , Trojan sẽ tìm cách download thêm mã trên Internet để có_thể giúp tin_tặc chiếm quyền truy_cập PC nhằm ăn_cắp , gián_điệp , đánh sập hệ_thống .
+N.Hương Theo VNuNet

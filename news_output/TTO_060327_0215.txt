@@ -1,0 +1,6 @@
+﻿ Công_cụ dịch đa_ngữ online độc_đáo
+Để dịch một đoạn văn_bản nào_đó , đầu_tiên bạn chọn ngôn_ngữ nhập và ngôn_ngữ xuất từ hai ô có tên các quốc_gia ở góc trên cùng bên phải giao_diện & gt ; chọn chế_độ dịch bằng văn_bản bằng cách nhấp vào biểu_tượng Notepad bên trái ô chọn ngôn_ngữ & gt ; nhấn “ Open ” để mở ra văn_bản cần dịch & gt ; copy đoạn văn_bản cần dịch để dán vào giao_diện văn_bản phía trên & gt ; nhấn vào nút Translate để thực_hiện quá_trình dịch & gt ; văn_bản được dịch xong sẽ tự_động hiện ra ở giao_diện văn_bản bên dưới .
+Chú_ý rằng Web_Translator chỉ mở được các văn_bản được soạn_thảo ở chế_độ TXT hoặc RTF .
+Độc_đáo nhất của Web_Translator là dịch toàn_bộ nội_dung trang_web sang ngôn_ngữ khác , đặc_biệt hiệu_quả ở những cơ_cấu web lớn cỡ như Yahoo , Google , MSN… có hỗ_trợ đa ngôn_ngữ ở cùng một nội_dung . Để sử_dụng tính_năng này , bạn phải đổi từ chế_độ dịch văn_bản sang chế_độ dịch trang_web bằng cách nhấn vào biểu_tượng Internet_Explorer bên trái ô chọn ngôn_ngữ .
+Người dùng có_thể vào địa_chỉ http : / / www.qwerks.com/download/6489/webtranslator.exe để tải bản dùng thử có dung_lượng 1,2 MB . Hiện_Web_Translator đã có_mặt tại các cửa_hàng phần_mềm .
+HOÀNG_KIM_ANH

@@ -1,0 +1,7 @@
+﻿Hòa hợp CDMA và GSM bằng điện thoại hai mạng
+
+Luis Pineda, Phó chủ tịch Qualcomm, nhà khởi xướng công nghệ CDMA nói, nhiều công ty viễn thông Trung Quốc đã sử dụng cả hai công nghệ GSM và CDMA dự kiến sẽ sớm giới thiệu điện thoại 2 chế độ. 
+Frank Meng, Chủ tịch Qualcomm China nói, nhà khai thác lớn China Unicom của Trung Quốc đã quảng cáo điện thoại này từ giữa năm nay để cho phép thuê bao dùng mạng đứng đầu GSM cho thoại và mạng CDMA của họ để download dữ liệu nhanh. Thiết bị hai chế độ cũng tiện lợi cho người dùng CDMA khi họ đi đến những nước dùng GSM. 
+Cho đến nay, chỉ có Samsung, LG và Motorola sản xuất ĐTDĐ GSM/CDMA nên giá vẫn còn cao, 500 USD mỗi chiếc. Điện thoại này dùng chipset MSM6300 để thực hiện liên thông giữa hai hệ thống GSM và CDMA.
+
+ĐÔNG HẢI (Theo The Nation - Qualcomm)

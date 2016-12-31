@@ -1,0 +1,8 @@
+﻿Chế tạo thành công thiết bị đo áp lực nước trong đất
+
+Thiết bị này cho phép đo áp lực nước trong đất có khả năng hoạt động độc lập trong thời gian dài, có thể kết nối với máy tính, cập nhật và truyền dữ liệu liên tục. Để đo áp lực nước trong đất, thiết bị này được kết hợp với một dụng cụ gồm bộ lọc và cảm biến đặt thẳng đứng trong đất. Một cảm biến đo áp suất được bố trí ngay phía trên bộ lọc, tạo thành không gian kín không tạo dòng chảy trong bộ lọc, như vậy mọi thay đổi áp suất nước trong đất sẽ tác động tức thì lên cảm biến đo áp suất. 
+Đối với nguồn nước ngầm thì việc quan trắc mực nước giúp điều tiết khả năng sử dụng nước dưới đất một cách hợp lý, hạn chế gây ô nhiễm nguồn nước, hiện tượng sụt lún các công trình xây dựng, đặc biệt là đánh giá và cảnh báo sự xâm nhập của nước biển. Quan trắc mực nước hay áp lực nước trong đất có vai trò quan trọng trong việc theo dõi bảo vệ các công trình đất như đê điều, đập. Nếu xác định được sự phân bố và biết được những thay đổi của thành phần nước trong đất sẽ dễ dàng cảnh báo những hư hỏng có thể xảy ra. 
+Theo tính toán của nhóm nghiên cứu, giá thành của hệ thống đo áp lực nước trong đất khoảng dưới 10 triệu đồng, trong khi theo đại diện của Sở Tài nguyên - Môi trường, một thiết bị đo Data Logger - LAM nhập từ Hà Lan có giá 15 triệu đồng. 
+Tuy nhiên, hệ thống đo sử dụng nguồn điện lưới do đó chưa phù hợp với thực tế các trạm quan trắc. Do đó, nhóm nghiên cứu đang tiếp tục nghiên cứu cải tiến thiết bị đo có thể sử dụng năng lượng mặt trời với chi phí phù hợp thực tế VN.
+
+Theo Vietnamnet

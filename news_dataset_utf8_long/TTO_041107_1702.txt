@@ -1,0 +1,7 @@
+﻿Siêu máy tính mới phá kỷ lục về tốc độ
+
+Siêu vi tính này được chế tạo cho Phòng thí nghiệm Quốc gia Lawrence Livermore, một phòng thí nghiệm của Bộ Năng lượng Mỹ (DOE). Kết qủa thử nghiệm của DOE cho thấy Blue Gen/L có tốc độ xử lý 70,72 teraflop (nghìn tỉ phép tính/giây). Tốc độ xử lý của siêu vi tính hiện tại của Nhật, Máy Mô phỏng Trái đất của hãng NEC, là 35,86 teraflop. 
+Blue Gen/L hiện đang là một nguyên mẫu và hiện chỉ đạt 1/10 tốc độ xử lý đầy đủ khi hoàn thành vào năm 2005. Hiệu năng tối đa của nó dự kiến sẽ đạt 360 terflop. Khi hoàn thành, Blue Gen/L sẽ giúp các nhà khoa học thực hiện được những đòi hỏi về an tòan, an ninh và đáng tin cậy cho kho dự trữ vũ khí hạt nhân của Mỹ mà không cần thử nghiệm hạt nhân dưới lòng đất. 
+Ngòai ra, siêu vi tính rất quan trọng trong việc giải quyết những vấn đề phức tạp trong khoa học và xã hội. Khả năng mô phỏng và xử lý hết sức lớn của nó giúp cải thiện tính chính xác của dự báo thời tiết, giúp thiết kế xe hơi hiện đại hơn, cải tiến việc chẩn bệnh cũng như nghiên cứu môi trường.
+
+Q.HƯƠNG - BBC

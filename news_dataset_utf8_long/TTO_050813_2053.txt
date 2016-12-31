@@ -1,0 +1,260 @@
+﻿ĐH Huế công bố điểm chuẩn 73 ngành đào tạo
+
+Mỗi khu vực cách nhau 0.5 điểm và mỗi nhóm ưu tiên khác cách nhau 1 điểm. Trường sẽ xét từ điểm cao trở xuống đến đủ chỉ tiêu của từng ngành. 
+Dưới đây là mức điểm trúng tuyển vào các trường và khoa của ĐH Huế: 
+Ngành đào tạo 
+Khối thi 
+Điểm trúng tuyển 
+Khoa Giáo dục thể chất (DHC) 
+SP Thể chất - Giáo dục quốc phòng 
+T 
+23 
+Trường ĐH Ngoại ngữ (DHF) 
+SP Tiếng Anh 
+D1 
+17 
+SP Tiếng Nga 
+D1 
+14 
+SP Tiếng Nga 
+D2 
+14 
+SP Tiếng Pháp 
+D3 
+14 
+SP Tiếng Trung 
+D1 
+14 
+SP Tiếng Trung 
+D4 
+14 
+Tiếng Anh 
+D1 
+15 
+Tiếng Nga 
+D1 
+14 
+Tiếng Nga 
+D2 
+14 
+Tiếng Pháp 
+D3 
+14 
+Trường ĐH Kinh tế (DHK) 
+Kinh tế nông nghiệp và phát triển nông thôn 
+A 
+15,5 
+Kinh tế nông nghiệp và phát triển nông thôn 
+D 
+15 
+Quản trị kinh doanh 
+A 
+18 
+Quản trị kinh doanh 
+D 
+17 
+Kinh tế chính trị 
+A 
+15 
+Kinh tế chính trị 
+D 
+15 
+Kế toán 
+A 
+21.5 
+Kế toán 
+D 
+21 
+Tài chính ngân hàng 
+A 
+23.5 
+Trường ĐH Nông lâm (DHL) 
+Công nghiệp và công trình nông thôn 
+A 
+15 
+Cơ khí bảo quản chế biến nông sản thực phẩm 
+A 
+15 
+Trồng trọt 
+B 
+15.5 
+Bảo vệ thực vật 
+B 
+16,5 
+Bảo quản chế biến nông sản 
+B 
+16,5 
+Làm vườn và sinh vật cảnh 
+B 
+15 
+Lâm nghiệp 
+B 
+16 
+Chăn nuôi - Thú y 
+B 
+15,5 
+Thú y 
+B 
+16.5 
+Nuôi trồng thuỷ sản 
+B 
+17 
+Nông học 
+B 
+16 
+Khuyến nông và phát triển nông thôn 
+B 
+17,5 
+Quản lý tài nguyên rừng và môi trường 
+B 
+17,5 
+Quản lý đất đai 
+A 
+15 
+Trường ĐH Nghệ thuật (DHN) 
+Hội họa 
+H 
+46 
+Điêu khắc 
+H 
+29.5 
+Sư phạm hội họa 
+H 
+33,5 
+Mỹ thuật ứng dụng 
+H 
+33 
+Sáng tác- lý luận âm nhạc 
+N 
+34 
+Biểu diễn âm nhạc 
+N 
+25 
+Sư phạm âm nhạc 
+N 
+26,5 
+Nhã nhạc 
+N 
+14 
+Trường ĐH Sư phạm (DHS) 
+SP Toán học 
+A 
+23,5 
+SP Vật lý 
+A 
+18 
+SP Kỹ thuật công nghiệp 
+A 
+15 
+SP Hóa học 
+A 
+24 
+SP Hóa học 
+B 
+23,5 
+SP Sinh học 
+B 
+22 
+SP Kỹ thuật nông lâm 
+B 
+15,5 
+SP Tâm lý giáo dục 
+C 
+15 
+SP Giáo dục chính trị 
+C 
+16,5 
+SP Ngữ Văn 
+C 
+19 
+SP Lịch sử 
+C 
+19 
+SP Địa lý 
+C 
+18.5 
+SP Giáo dục tiểu học 
+D1 
+14 
+SP Mẫu giáo 
+M 
+15 
+Trường ĐH Khoa học (DHT) 
+Toán học 
+A 
+15 
+Tin học 
+A 
+15 
+Vật lý 
+A 
+15 
+Kiến trúc công trình 
+V 
+27 
+Điện tử - Viễn thông 
+A 
+19,5 
+Hóa học 
+A 
+17,5 
+Địa chất 
+A 
+15 
+Sinh học 
+B 
+16 
+Địa lý 
+B 
+16 
+Khoa học môi trường 
+B 
+21,5 
+Công nghệ sinh học 
+B 
+22,5 
+Luật 
+C 
+16 
+Ngữ Văn 
+C 
+16 
+Lịch sử 
+C 
+15 
+Triết học 
+C 
+15 
+Hán Nôm 
+C 
+15 
+Báo chí 
+C 
+16,5 
+Công tác xã hội 
+C 
+16 
+Trường ĐH Y khoa (DHY) 
+Bác sĩ đa khoa 
+B 
+23,5 
+Bác sĩ Răng - Hàm - Mặt 
+B 
+25 
+Dược sĩ 
+A 
+24,5 
+Điều dưỡng 
+B 
+18 
+Kỹ thuật y học 
+B 
+20 
+Y tế công cộng 
+B 
+16 
+Bác sĩ đa khoa - địa phương 
+B 
+15
+
+QUỐC DŨNG

@@ -1,0 +1,6 @@
+﻿ E-mail không mã … như xe không khóa !
+PWC cho_biết rằng việc gửi đi những e - mail không được mã_hóa cũng tương_tự như gửi đi một tấm bưu_thiếp không phong_bì qua hệ_thống bưu_điện và người nhận sẽ luôn là người được đọc cuối_cùng . Nguyên_nhân của hiện_tượng bảo_mật kém_cỏi này chính vì đa_số các doanh_nghiệp đều cho rằng việc mã_hóa e - mail bằng các phương_pháp hiện_đại và có hệ_thống là quá “ mắc_mỏ ” .
+Chris_Potter , giám_đốc nghiên_cứu bảo_mật của PWC nhận_định rằng đa_số các doanh_nghiệp hiện_nay đều không nghĩ rằng việc thất_thoát các bí_mật thương_mại sẽ gây thiệt_hại cho công_ty gấp nhiều lần so với việc đầu_tư xứng_đáng vào một hệ_thống bảo_mật e - mail và đôi_khi việc thất_thoát bí_mật này sẽ gây sụp_đổ cho cả một doanh_nghiệp lớn .
+Chris_Potter cho_biết thêm rằng với trình_độ của các hacker hiện_nay thì việc chặn lại để đọc một e - mail đang trên đường di_chuyển là chuyện không quá khó_khăn , và việc “ thuê ” một hacker nào_đó chuyên đọc lén thư thương_mại của đối_thủ cạnh_tranh là việc các doanh_nghiệp có_thể làm được .
+PWC đã thực_hiện cuộc nghiên_cứu của mình tại trên 1.000 doanh_nghiệp tại Anh , trong đó có đến 88% số doanh_nghiệp đã trang_bị kết_nối băng_thông_rộng .
+HOÀNG_HẢI ( Theo VNUnet )

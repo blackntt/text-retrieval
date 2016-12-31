@@ -1,0 +1,6 @@
+﻿TP.HCM: lập bảng thông tin cho du khách
+
+Tại ba địa điểm này sẽ đặt một màn hình (sử dụng công nghệ touch screen: điều khiển trực tiếp bằng cách tiếp xúc với màn hình) cung cấp các thông tin về du lịch: các địa điểm du lịch TP, khu vui chơi, các chương trình khuyến mãi của các công ty lữ hành du lịch, khách sạn... 
+Theo ông Tân, trước mắt sẽ sử dụng tiếng Anh và tiếng Việt trên các màn hình này và thông tin sẽ được cập nhật mỗi tuần một lần. Và sẽ có nhân viên trực ở mỗi máy để trả lời những thắc mắc của du khách mà máy tính không giải đáp được. Dự kiến kinh phí cho mỗi màn hình này khoảng 3.000 USD.
+
+LÊ NAM

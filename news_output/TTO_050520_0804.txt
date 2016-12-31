@@ -1,0 +1,5 @@
+﻿ Robot làm_việc tại bệnh_viện London
+Hai robot cao 1,5 m được điều_khiển_từ_xa bằng cần điều_khiển , giúp các bác_sĩ khám và nói_chuyện với bệnh_nhân từ xa , dù họ ở trong bệnh_viện hoặc ở nơi khác .
+Bác_sĩ có_thể nhìn bệnh_nhân nhờ một camera gắn trên robot , trong khi bệnh_nhân có_thể nhìn thấy bác_sĩ qua màn_hình trên " mặt " của robot . Ngoài việc giúp nói_chuyện giữa bác_sĩ và người_bệnh , robot cũng thông_báo các kết_quả y_khoa , chẳng_hạn kết_quả chụp X-quang và các xét_nghiệm .
+Bác_sĩ Sir_Ara_Darzi , trưởng khoa giải_phẫu , gây_mê và chăm_sóc đặc_biệt tại Bệnh_viện Imperial_College nổi_tiếng ở London , cho rằng đây là một khái_niệm cách_mạng mở ra cách nghiên_cứu mới về khám bệnh từ xa và đưa công_nghệ vào chăm_sóc y_tế .
+N . T . ĐA ( Theo Reuters )

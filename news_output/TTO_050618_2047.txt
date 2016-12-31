@@ -1,0 +1,9 @@
+﻿ Sử_dụng công_nghệ_cao để giám_sát loài voi
+Các nhà_khoa_học từ khoa địa_vật_lý tại Trường ĐH Stanford đã sử_dụng các cảm_biến này để giám_sát loài voi châu Phi và các động_vật_có_vú to_lớn khác ở công_viên quốc_gia Etosha , Namibia .
+Các máy dò âm_thanh dưới đất , ban_đầu được chế_tạo bởi quân_đội Mỹ nhằm phát_hiện ra di_chuyển của nhóm kẻ_thù , đã được triển_khai để dò và bắt các rung_động gây ra khi các loài động_vật bước qua một vũng nước .
+Máy dò âm_thanh dưới đất được chế_tạo dành cho quân_đội Mỹ_Sau đó các nhà_nghiên_cứu phân_tích các ghi_nhận kỹ_thuật_số của các tiếng bước chân để tách rời các tín_hiệu âm_thanh của từng loài khác_nhau . Kết_quả cho thấy công_nghệ này đã hoạt_động khá hiệu_quả ở việc phân_biệt loài voi với các động_vật khác như hươu_cao_cổ , sư_tử , linh_dương Nam_Phi và con_người , với tỷ_lệ thành_công trung_bình là 82% .
+Nhóm các nhà_khoa_học tại Trường ĐH Stanford tin rằng kỹ_thuật này có khả_năng thay_thế cho phương_pháp khảo_sát các loài từ trên không và phương_pháp đếm các bãi phân hiện đang được sử_dụng để thống_kê số voi nhằm phục_vụ cho công_tác bảo_tồn và quản_lý bảo_tồn .
+Các máy dò âm_thanh dưới đất cũng có_thể được dùng để cải_thiện việc đánh_giá số_lượng loài voi trong các khu rừng rậm ở Trung_Phi , nơi việc khảo_sát từ trên không là không_thể .
+“ Việc quản_lý công_tác bảo_tồn sẽ được cải_thiện bằng phương_pháp chính_xác hơn để giám_sát và ước_lượng dân_số loài voi hay các động_vật_có_vú khác ở Trung_Phi , cũng_như tình_hình dân_số của chúng trong mối tương_quan với các loài cùng họ và mối đe_dọa từ nạn săn_bắn trộm ” , nhóm nghiên_cứu nói . Phương_pháp này cũng có_thể được sử_dụng để giám_sát loài voi trong thời_gian dài hơn so với các phương_pháp hiện_nay .
+Tuy_nhiên , theo các nhà sinh_thái_học và các nhà bình_luận , phương_pháp này có những hạn_chế như cần nhiều thiết_bị cho một diện_tích vài kilomet vuông , khó đưa chúng vào khu_vực Trung và Tây_Phi …
+T.VY ( Theo BBC )

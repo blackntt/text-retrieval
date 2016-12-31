@@ -1,0 +1,8 @@
+﻿Ảnh số với độ phân giải… 10.000 Megapixel
+
+Dự án tạo nên bức ảnh số có độ phân giải cao nhất thế giới này đang được chuyên gia Michael Cohen thuộc Trung tâm nghiên cứu của Microsoft thực hiện và dự tính sẽ hoàn thành vào đầu mùa hè năm nay. 
+Dự án mang tên “Big Panoramas” sẽ cố gắng đưa lên Internet một tấm ảnh số duy nhất chụp toàn cảnh một khu vực rộng lớn nào đó của nước Mỹ và có độ phân giải sẽ đạt mức 10 gigapixel tức 10 tỷ pixel. Michael Cohen cũng đã từng thực hiện thành công dự án tạo nên bức ảnh số có độ phân giải 4 gigapixel (4000 megapixel) chụp toàn cảnh thành phố Seattle của Mỹ. Trong bức ảnh này, người xem có thể “zoom” để xem cặn kẽ và rõ ràng đến từng cái cửa sổ của bất kỳ một cao ốc nào trong thành phố Seattle có hiển thị trong tấm ảnh. Còn nếu thu nhỏ tấm ảnh lại thì người xem sẽ thấy được toàn cảnh Seattle giống như xem từ trên máy bay. 
+Cách thức phóng to để xem chi tiết hoặc thu nhỏ để xem toàn cảnh này cũng gần giống như dịch vụ Google Earth tức xem cảnh như chim đang bay trên cao, nhưng cái đặc thù của tấm ảnh số này là người xem có thể xem các chi tiết ở nhiều góc độ khác nhau, tương tự như kiểu nhìn ra ngoài cửa sổ ở một cao ốc hoặc nhìn ngang để thấy toàn cảnh một con đường giống như đang đứng trên lối đi của con đường đó. 
+Cohen cho biết tấm ảnh số này được thực hiện bằng cách ghép rất nhiều kiểu ảnh số có độ phân giải cực cao lại với nhau, tạo điều kiện cho người xem ngắm phong cảnh theo nhiều góc độ, tương tự như đang chơi game 3D. Ngoài ra các hiệu ứng về môi trường như ánh nắng mặt trời, mây, sương mù… cũng sẽ được thêm vào để người xem có cái nhìn hết sức chân thực.
+
+THIÊN TRANG (Theo CNET)

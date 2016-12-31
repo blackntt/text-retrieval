@@ -1,0 +1,18 @@
+﻿Ghi âm, ghi hình từ Internet thế nào?
+
+Có rất nhiều công cụ rất chuyên nghiệp hỗ trợ ghi lại mọi nguồn âm thanh phát ra từ máy tính. Âm thanh phát ra từ các file nhạc số hoặc video clip cũng nằm trong dạng này. Các công cụ dạng chuyên nghiệp thì lại quá đắt tiền (hàng trăm USD/phần mềm) và cách sử dụng cũng khá phức tạp, ở đây chúng tôi xin trình bày 2 công cụ ghi âm rất đơn giản, rẻ tiền, dễ sử dụng và có thể ghi lại mọi nguồn phát ra từ: microphone, TV, DVD, video, băng từ, hay nhạc từ Winamp, WMP, Real Player, Flash… 
+1. All2WAV Recorder. 
+Sau khi cài đặt và khởi động All2WAV Recorder thành công, bạn có thể chọn nguồn âm thanh để thu từ một file âm thanh, từ một địa chỉ web hoặc từ các ứng dụng khác (game, media player…) bằng cách “check” vào ô tương ứng trong giao diện đầu tiên của All2WAV Recorder. 
+Nhấn Next để hiện ra giao diện chính và nhập vào địa chỉ trang web phát âm hoặc file trên máy tính cần ghi âm. Bấm vào nút Play để “All2WAV Recorder” phát ra nguồn âm thanh và bấm luôn vào nút “Record” là quá trình thu âm bắt đầu. Khi thanh trượt hiển thị quá trình phát âm file kết thúc thì bạn nhấn vào nút “Stop” hoặc “Pause”để chấm dứt hoặc tạm ngưng quá trình ghi âm. File âm thanh ghi lại sẽ nằm trong thư mục WAV trong thư mục cài đặt “All2WAV Recorder” với định dạng gốc là .WAV. 
+“All2WAV Recorder” có thể trích xuất âm thanh từ hầu hết các định dạng file video phổ biến hiện nay, tức nó chỉ có khả năng phát âm để thu chứ không chiếu lên hình. Bạn có thể tải công cụ này về dùng tại đây với dung lượng khoảng 2,3 MB. 
+2. All Sound Recorder XP 
+Chương trình ghi âm này tỏ ra dễ sử dụng và thân thiện hơn nhiều so với All2WAV Recorder. All Sound Recorder XP có khả năng ghi âm và xuất ra trực tiếp bằng định dạng MP3, WMA, OGG chứ không “nhiêu khê” và tốn dung lượng như dạng file WAW của All2WAV Recorder. 
+Cách sử dụng vô cùng đơn giản. Khởi động All Sound Recorder XP -&gt; khi file âm thanh trên Internet vừa “hát” là bạn nhấn ngay vào nút màu đỏ “Record” để quá trình ghi âm bắt đầu -&gt; khi bài hát vừa chấm dứt thì bạn nhấn vào nút “Stop” để ngưng quá trình ghi. Công cụ này xài được với tất cả nguồn phát âm từ microphone, TV trên máy tính, DVD, video, băng từ, hay nhạc từ Winamp, WMP, Real Player, Flash… 
+Ngoài ra “All Sound Recorder XP” còn cung cấp nhiều chức năng biên tập âm thanh khá chuyên nghiệp khi bạn nhấn vào chức năng “Sound Editor” tức vòng tròn nằm bên tay phải giao diện ghi âm. 
+Bạn có thể vào đây để tải bản dùng thử của All Sound Recorder XP với dung lượng khoảng 3,1 MB. 
+3. Ghi lại các video clip trực tuyến bằng WM Recoder 
+Để lưu lại các file video phát trực tuyến thuộc dạng “không cho phép ghi” thì bạn phải dùng đến một công cụ khác mang tên “WM Recoder”. Công cụ này có khả năng “moi ra” gần như hoàn hảo các video clip phát trực tuyến trên mạng mà chủ trang web không muốn mọi người xem tải về. 
+Cách sử dụng cũng vô cùng đơn giản. Khởi động “WM Recoder” -&gt; khi đoạn video trực tuyến vừa phát là “WM Recoder” sẽ tự động “nhảy vào” và ghi lại nội dung của video clip này và đến khi video clip chơi xong là quá trình ghi của “WM Recoder” cũng hoàn tất. File video sẽ được lưu trong thư mục C:\WMR Recording. Bạn có thể vào đây để tải về bản dùng thử của WM Recorder. 
+Hiện 3 công cụ hữu dụng trên đã có mặt tại các cửa hàng phần mềm tại TP Hồ Chí Minh.
+
+THỤY KHANH

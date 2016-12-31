@@ -1,0 +1,8 @@
+﻿Bộ lọc thư rác hữu hiệu dành cho e-mail
+
+Nét độc đáo ở phần mềm này đó chính là nó sẽ khiến cho kẻ đánh thư rác cứ ngỡ rằng địa chỉ của bạn là không có tồn tại trên thế giới này. MW còn tương thích tốt với các tài khoản thư điện tử POP3. 
+Ngay sau khi được cài đặt và kích hoạt, hộp thoại Accounts sẽ xuất hiện. Bạn hãy nhấn nút Add rồi chọn OK để tạo mới một tài khoản thư điện tử cần được bảo vệ khỏi spam. Hộp thoại Account details for a POP3/SMTP Account sẽ hiện ra. Hãy nhập vào tên gọi của tài khoản này ở thẻ Mail Account, địa chỉ e-mail server, tên và mật khẩu đăng nhập tài khoản người dùng tương ứng ở thẻ Incoming mail và Bouncing &amp; outgoing mail, nhấn nút OK rồi đến Close để tiếp tục. 
+Hãy nhấn nút Check Mail để bắt đầu kiểm thư. Nếu phát hiện có một thư quảng cáo được gởi đến, bạn hãy nhấp chuột vào đấy, truy xuất đến menu Email rồi chọn mục Mark for Bouncing để MW bắt đầu gởi một thông điệp giả với nội dung là “address not found” (không có địa chỉ này) đến kẻ đã gởi thư rác này. Hãy nhấn nút Mail Program để mở trình e-mail mặc định trên máy tính, chẳng hạn như Outlook Express. 
+Với dung lượng khá gọn (chỉ 1,40 MB), tương thích trên các hệ điều hành Windows như 9x/Me/NT/2000/XP, phiên bản miễn phí (freeware) của MW được cung cấp tại địa chỉ http://home.xtra.co.nz/hosts/nickbolton/download/MailWasherFree.exe .
+
+LÊ NGUYỄN BẢO NGUYÊN

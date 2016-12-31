@@ -1,0 +1,5 @@
+﻿Quản lý nhà bằng... môbai
+
+Theo hãng trên, với những chiếc điện thoại đời mới có tích hợp tính năng TTS (Text To Speech hay ra lệnh bằng giọng nói) và có cài đặt ZigBee, người sử dụng có thể kết nối không dây với ngôi nhà của họ qua chiếc môbai và thực hiện các thao tác điều khiển các hoạt động như kiểm soát hệ thống đèn, đo nồng độ khói, phát hiện khí độc CO, quản lý hệ thống an ninh, giải trí, kiểm soát việc tắt/mở PC, đồ dùng trang trí, màn cửa sổ, thiết bị y tế... Môbai của bạn sẽ được kết nối không dây với bộ Set-Top-Box đặt tại nhà.
+
+CHÁNH TRUNG (Theo TelecomsKorea)

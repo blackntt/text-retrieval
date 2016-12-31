@@ -1,0 +1,6 @@
+﻿ Cuối 2006 , 90% số chip của Intel sẽ là lõi kép
+Hãng sản_xuất chip hàng_đầu thế_giới sẽ bắt_đầu tung ra nhiều dòng lõi kép hơn trong quý này . Dự_kiến đến cuối năm nay , 9/10 sản_lượng thiết_bị xử_lý dành cho máy di_động của họ sẽ không còn là lõi đơn .
+Trước đó , Intel từng cho_biết sẽ bước vào năm 2007 với " hơn 70% " chip hai lõi , chủ_yếu là Core_Duo ' Yonah ' , ngoài_ra còn có thêm một_số dòng Meron thế_hệ mới . Nhưng tuần trước , Intel khẳng_định Meron sẽ có_mặt trong tháng 8 thay_vì quý IV/2006 như dự_định ban_đầu , do_vậy tập_đoàn này tin_tưởng quá_trình chuyển_đổi từ đơn lõi sang lõi kép sẽ diễn ra nhanh_chóng hơn .
+Intel cũng hy_vọng Conroe , dòng thiết_bị xử_lý thế_hệ mới dành cho máy_để_bàn và được ra_mắt song_song với Meron , sẽ thúc_đẩy thị_trường desktop . Họ tuyên_bố sẽ kết_thúc năm 2006 với 75% số CPU lõi kép .
+Tuy_nhiên , việc chuyển sang Meron sẽ ít có lợi cho người sử_dụng như_là Conroe . Intel thừa_nhận Meron mang đến hiệu_suất cao hơn 20% so với Core_Duo T2600 2,16 GHz , tức không bằng tỷ_lệ 40% khi so_sánh Conroe với Pentium D 960 3,6 GHz . Dù_vậy , động_lực thúc_đẩy sự phổ_biến của dòng lõi kép lại đến từ Woodcrest , thiết_bị xử_lý dành cho máy_chủ , mà Intel khẳng_định sẽ đạt khả_năng vận_hành hiệu_quả hơn 80% so với Xeon DP 2,8 GHz . Woodcrest sẽ chiếm khoảng 75% số Xeon DP được xuất_xưởng trong quý IV .
+Theo VNExpress

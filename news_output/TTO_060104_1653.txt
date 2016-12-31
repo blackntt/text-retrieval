@@ -1,0 +1,7 @@
+﻿ Viettel tính block 6 giây cho điện_thoại cố_định
+Theo cách tính cước mới , cước gọi từ điện_thoại cố_định của Viettel tới một thuê_bao di_động Viettel_Mobile sẽ là 129 đồng/block 6 giây , tới một thuê_bao di_động mạng khác là 139 đồng/block 6 giây . Cách tính cước cũ ( theo block 30 giây ) là 765 đồng/block .
+Theo ước_tính , nếu chi_phí gọi vào di_động của một thuê_bao điện_thoại cố_định chiếm khoảng từ 40 - 60% tổng_chi phí điện_thoại tháng thì với cách tính cước block 6 giây sẽ giúp khách_hàng tiết_kiệm được một khoản chi_phí rất đáng_kể .
+Cụ_thể , nếu thực_hiện một cuộc_gọi từ điện_thoại cố_định Viettel tới một thuê_bao di_động MobiFone hoặc Vinaphone với thời_gian 17 giây thì khách_hàng sẽ phải trả 417 đồng , giảm 45,5% nếu áp_dụng cách tính cước block 30 giây .
+Với việc áp_dụng cách tính cước này , mạng điện_thoại cố_định Viettel đã trở_thành mạng điện_thoại cố_định đầu_tiên tính cước theo block 6 giây .
+Hiện_tại , Viettel có trên 100.000 thuê_bao điện_thoại cố_định tại 28 tỉnh , thành_phố trên cả nước . Dự_kiến đến cuối quí I2/2006 , Viettel sẽ mở_rộng phạm_vi cung_cấp dịch_vụ điện_thoại cố_định tại 50 tỉnh , thành_phố .
+KHIẾT_HƯNG

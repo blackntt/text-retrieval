@@ -1,0 +1,10 @@
+﻿ Công_nghệ truyền_hình di_động nào sẽ thống_trị
+Hiện_tại , trên thế_giới có 4 công_nghệ truyền_hình di_động . DVB - H , MBSM đang được thử_nghiệm tại châu Âu và Mỹ ; DMB của Hàn_Quốc và MediaFlo mới được Qualcomm ( Mỹ ) phát_triển .
+Hôm_qua , ông Miles_Flint , Giám_đốc Sony_Ericsson , hãng điện_thoại thứ 5 thế_giới , nhận_định , truyền_hình trên điện_thoại_di_động sẽ thực_sự phát_triển trong vài năm tới . Tuy_nhiên , ông cũng không chắc_chắn công_nghệ nào sẽ thống_lĩnh ngành công_nghiệp này .
+Ông Miles_Flint nói với báo_chí rằng điện_thoại TV sẽ bắt_đầu có thị_trường riêng trong năm 2006 và trong tương_lai thị_trường này sẽ ngày_càng lớn . Theo ông , phải đến năm 2007 hay 2008 thì nó mới thực_sự phát_triển .
+Một công_nghệ đang được các nhà_cung_cấp thử_nghiệm là DVB - H ( Digital_Video_Broadband_Handheld ) , bên_cạnh đó là MBMS ( Multimedia_Broadcast_Multicast_Service ) . Nếu hai công_nghệ trên được ứng_dụng chủ_yếu tại châu Âu và Mỹ thì tại Hàn_Quốc , người_ta lại thử_nghiệm DMB ( Digitla_Multimedia_Broadcasting ) . Tuy_nhiên , cho_đến nay , một_vài nhà_cung_cấp ở Anh và Đức cũng đang thử ứng_dụng công_nghệ trên .
+Gần đây , Qualcomm của Mỹ đã phát_triển một công_nghệ truyền_hình di_động của riêng mình , MediaFlo .
+Theo các chuyên_gia , DVB - H và DMB cho_phép truyền sóng truyền_hình tới một số_lượng không giới_hạn thiết_bị di_động . Như_vậy , diện_tích phục_vụ của nó là rất lớn .
+Tuy_nhiên , đầu tuần , người đứng đầu của tập_đoàn Ericsson cho rằng các nhà_cung_cấp dịch_vụ viễn_thông nên để_ý đến MBMS vì công_nghệ này khá thân_thiện và ngoài dịch_vụ truyền_hình , nó còn cung_cấp cùng lúc nhiều dịch_vụ khác . Phòng nghiên_cứu của Ericsson cũng đang thử_nghiệm MBMS tại Stockholm .
+Việc sử_dụng sóng điện_thoại_di_động để truyền_hình ảnh tới thiết_bị cầm tay có_thể giúp tiết_kiệm tiền_bạc , nhưng lại dễ gây ra nghẽn mạng di_động .
+Theo Đức_Thanh_Số hóa/Reuters

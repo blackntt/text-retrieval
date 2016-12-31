@@ -1,0 +1,10 @@
+﻿Google lại trở thành công cụ phát tán virus
+
+Một hãng bảo mật vừa cảnh báo về một loại sâu máy tính mới có khả năng ăn cắp thông tin tài khoản ngân hàng trực tuyến đang phát tán mạnh mẽ thông qua hệ thống trang web mạng xã hội của Google. 
+ 
+Con sâu máy tính MW.Orc chủ yếu nhắm đến người sử dụng trang web Orkut của Google tại Brazil . Sử dụng một thông điệp bằng tiếng Bồ Đào Nha, sâu MW.Orc dụ dỗ nạn nhân nhắp chuột vào một tệp tin giả mạo như là một bức ảnh JPEG, FaceTime Security Labs cho biết trong một thông báo cuối tuần qua. 
+Tệp tin ban đầu đó có tên "minhasfotos.exe" sẽ tạo ra thêm hai tệp tin mới là "winlogon_.jpg" và "wzip32.exe" ngay khi sâu MW.Orc lây nhiễm thành công lên hệ thống của người dùng. Khi đó, nếu người sử dụng nhắp chuột vào biểu tượng My Computer, một bức email có chứa các thông tin cá nhân của họ sẽ được gửi về cho kẻ tấn công ác ý. Bên cạnh đó, các hệ thống máy tính bị nhiễm sâu MW.Orc còn bị "trưng thu" gia nhập mạng các PC bị bắt cóc - hay còn gọi là mạng botnet. 
+Sâu MW.Orc còn tự mình phát tán bằng cách đặt một đường liên kết nguy hiểm lên hồ sơ thông tin của người sử dụng trên mạng Orkut. Google cũng đã chính thức khẳng định sự tồn tại của con sâu máy tính này. "Chúng tôi đã biết đến con sâu MW.Orc và sẽ tiến hành giải quyết vấn đề này trong thời gian sớm nhất có thể", đại diện của Google cho biết. "Chúng tôi đã làm việc để có thể đưa ra được các giải pháp về lâu về dài để bảo vệ người dùng trước các hiểm họa nguy hiểm". 
+Đối với người sử dụng, để tự bảo vệ mình khi sử dụng các dịch vụ và ứng dụng trực tuyến nên cẩn thận khi nhắp chuột vào các đường liên kết hoặc bất kỳ một thứ gì đáng nghi ngờ trên web, Google khuyến cáo. 
+Người sử dụng tại Brazi chiếm tới 70% con số người sử dụng mạng Orkut của Google. Đó có thể là nguyên nhân tại sao có sự xuất hiện của con sâu MW.Orc. 
+Hoàng Dũng Theo CNet

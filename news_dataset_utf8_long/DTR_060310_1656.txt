@@ -1,0 +1,13 @@
+﻿Làm thế nào để in được hồ sơ đăng ký dự thi trên mạng?
+
+Bộ GD - ĐT cho phép in phiếu hồ sơ ĐKDT trên mạng để thay thế các phiếu đã bị hỏng, nhưng em vào mạng tuyển sinh của Bộ GD - ĐT tìm mà không được. Mong quý báo chỉ giúp! 
+ (Vũ Phương Anh, Cầu giấy, Hà Nội). 
+Trả lời: 
+Cách chỉ dẫn sau đây sẽ giúp thí sinh có được bản in từ Website. 
+Tìm nguyện vọng học: Bạn dùng chức năng tìm nguyện vọng để xác định bạn sẽ đăng ký học trường nào, ngành nào, khối nào. Để làm việc này bạn vào chuyên mục Tìm nguyện vọng. Trong đó cho phép bạn tìm các nguyện vọng ở các trường theo sở thích, địa phương và loại hình cùng các thuộc tính khác. Sau khi ấn vào nút tìm kiếm, Website sẽ liệt kê tất cả các mã ngành, tên ngành theo yêu cầu của bạn. Nếu nhiều quá Website sẽ phân thành các trang, bạn có thể chuyển giữa các trang bằng cách nháy chuột vào các chỉ mục trang ở cuối danh sách. 
+Khi tìm được ngành ưng ý bạn nháy chuột vào dấu móc tương ứng ( có hình cái ghim tài liệu ở cuối dòng). Website sẽ mang các mã hiệu tương ứng với ngành bạn chọn về chuyên mục Tập điền hồ sơ. Công việc còn lại của bạn là điền nốt các thông tin cá nhân. Nếu bạn đăng nhập bằng account của bạn thì bạn chỉ cần điền thông tin cá nhân một lần, Website sẽ cất tối đa 5 hồ sơ bạn đã điền lên máy chủ. Khi cần bạn có thể lấy về bất cứ lúc nào. Sau mối lần cập nhật thông tin bạn cần nháy vào nút Kiểm tra phiếu để xác nhận thông tin với máy chủ. Bạn sẽ cung cấp và điều chỉnh cho đến khi Website không còn thông báo đỏ. 
+Kiểm tra thiết lập máy in: Bạn sẽ điều chỉnh cho đến khi bản in ra nằm gọn trong một trang A4, cách lề trái, cách lề phải, cách trên, dưới tuân thủ như bản gốc. 
+Trên IE bạn xoá trống các mục Header, Footer. 
+Trên FireFox bạn làm tương tự: 
+Lần lượt in các bản in bìa, phiếu 1, phiếu 2: Sau khi đã thành thục với các tham số điều khiển in phù hợp với máy in của bạn, nếu rảnh bạn có thể điều chỉnh ít một để có được bản in thật đẹp, chính xác như qui định. 
+( Chú ý: Bạn không nên copy bản in từ trình duyệt sang Word hoặc hoặc trình soạn thảo nào đó để chỉnh sửa vì nội dung khi đó có thể không thể hiện đủ, chính xác). Nhóm PV GD

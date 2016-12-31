@@ -1,0 +1,16 @@
+﻿ Aura_Media_Workshop : chuyển định_dạng audio - video đa_năng
+Aura_Media_Workshop có những công_cụ chuyển_đổi định_dạng file video và audio phong_phú ở mức không ngờ kèm theo một_số tính_năng hầu_như rất khó tìm ở các công_cụ khác .
+1 . Video_Operations :
+- Tính_năng “ Convert_File ” thì người dùng có_thể chuyển_đổi định_dạng qua_lại thoải_mái giữa giữa các định_dạng file video như AVI , MPEG , WMV , VCD , DVD , DAT , VOB .
+- Tính_năng độc_đáo khác là “ Join_Files ” giúp người dùng có_thể nối toàn_bộ tất_cả các file đồng_dạng lại thành một file video duy_nhất , đặc_biệt hiệu_quả với những file ngắn đặc_biệt hay mà người dùng muốn sưu_tập lại thành một phim dài để xem liên_tiếp , hoặc thực hịên thành một bộ phim liên khúc chủ_đề .
+- Tính_năng “ Split files ” tạo điều_kiện cho người dùng cắt file thành nhiều phân_đoạn nhỏ tùy theo ý thích . Người dùng có_thể dựa vào tổng thời_gian chiếu của từng file video để thiết_lập thời_gian của từng phân_đoạn video được cắt , hoặc có_thể cắt tùy theo bất_kỳ đoạn nào mình thích .
+- Tính_năng “ Extract audio ” có khả_năng trích xuất toàn_bộ âm_thanh từ đủ dạng file video ra thành các chuẩn file như MP3 , WMA hoặc WAV với âm_thanh trung_thực như bản_gốc . Tính_năng này đặc_biệt hiệu_quả khi trích xuất toàn_bộ âm_thanh ra nghe từ các video clip …
+- “ Extract_Images ” là một tính_năng khá hiếm có mà các công_cụ khác_thường “ quên ” không trang_bị . Extract_Images là tính_năng trích xuất hình_ảnh từ các file video với tốc_độ 5 hình_ảnh / giây , tức hầu_như toàn_bộ các chi_tiết trong file video đều có_thể trích ra thành hình_ảnh chi_tiết dưới dạng file . BMP . Tính_năng này hoàn_toàn có_thể thay_thế cho các công_cụ “ chụp hình ” đang phổ_biến hiện_nay . Chú_ý khi sử_dụng : tổng_số file dung_lượng file trích xuất ra sẽ cực lớn đối_với những đoạn video có thời_lượng dài , vì 1 giây sẽ trích được 5 ảnh tổng dung_lượng tùy vào độ_phân_giải gốc của video clip .
+- “ Photo to Video ” : là tính_năng nối toàn_bộ các hình_ảnh đã được chọn lại thành một file video với định_dạng tùy chọn . Người dùng có_thể chọn cùng lúc nhiều thư_mục chứa ảnh để nối lại thành một đoạn video nào_đó .
+2 . Audio_Operation .
+- Record_Sound : thu toàn_bộ âm_thanh từ microphone hoặc âm_thanh nền từ máy_tính để chuyển ra 4 định_dạng file audio là MP3 , WAV , WMA , OGG với toàn_bộ các tần_số âm thành tùy chọn .
+- Convert_Sound : chuyển_đổi định_dạng giữa 4 dạng file âm_thanh số phổ_biến nhất hiện_nay là MP3 , WAV , WMA và OGG .
+- Rip_Music CD : chuyển_đổi toàn_bộ âm_thanh ghi trên CD thành 4 dạng file âm_thanh số phổ_biến nhất hiện_nay là MP3 , WAV , WMA và OGG .
+3 . Burn CD/DVD : Cung_cấp đầy_đủ mọi tính_năng ghi file vào CD và DVD , cũng_như ghi_chép qua_lại giữa CD , VCD và DVD .
+Aura_Media_Workshop 2.5.6 đang được Mediatox bán ra với giá 35 USD , người dùng quan_tâm có_thể vào đây để tải về bản dùng thử có giá_trị trong 30 ngày . Hiện công_cụ này đã có_mặt tại các cửa_hàng phần_mềm tin_học tại TP Hồ_Chí_Minh .
+THIÊN_TRANG

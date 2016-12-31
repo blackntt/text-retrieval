@@ -1,0 +1,12 @@
+﻿ Phục_hồi dữ_liệu nhanh_chóng và an_toàn
+Tuyệt_vọng với những tài_liệu , e-mail , hay những tấm ảnh bị lỡ tay xóa mất , bạn tưởng như_thế là hết nhưng rất may , phần_mềm Recover_My_File sẽ giúp bạn làm được điều bất_khả_thi này .
+Phần_mềm Recover_My_File là một công_cụ rất mạnh trong khôi_phục dữ_liệu bị mất , các công_cụ phục_hồi dữ_liệu của phần_mềm không_chỉ phục_hồi tất_cả những dữ_liệu đã được xóa đi từ Windows_Recycle_Bin , trong ổ_cứng mà ngay cả các dữ_liệu bị mất do format ổ_cứng , do virus , do lỗi phần_mềm .
+Chương_trình chạy trên hệ_điều_hành Windows XP và làm_việc với các định_dạng FAT 12 , FAT 16 , FAT 32 và NTFS của hệ_thống . Ngoài_ra chương_trình cũng hỗ_trợ phục_hồi dữ_liệu bị xóa từ Jaz , Zip disk và các thẻ nhớ của máy_ảnh số , máy_quay_phim . Chương_trình hỗ_trợ hơn 50 định_dạng file , đặc_biệt là hỗ_trợ phục_hồi email , digital photo , music và video .
+Để thuận_tiện hơn trong quá_trình tìm_kiếm dữ_liệu chương_trình đưa ra cho bạn bốn lựa_chọn tìm_kiếm và phục_hồi dữ_liệu ( hình 1 ) :
+Hình 1
++ Fast_File_Search : Tìm_kiếm các file , thư_mục mới bị xóa gần đây , các file trong thư_mục Temporary .
++ Complete_File_Search : Quét tất_cả các cluster level trên ổ_cứng để tìm dữ_liệu bị mất .
++ Fast_Format_Recover : Tìm_kiếm các file trên phân_vùng ( Partition ) vừa_mới bị định_dạng lại . Thực_hiện tìm_kiếm nhanh cho các phân_vùng đã định_dạng .
++ Complete_Format_Recover : Tìm_kiếm trên tất_cả các cluster level của ổ_cứng phục_hồi lại các dữ_liệu trên phân_vùng cũ .
+Chương_trình tương_thích với hệ_điều_hành Windows XP , Bạn có_thể tải bản dùng thử của chương_trình tại địa_chỉ :
+http : / / www.recovermyfiles.com / Quốc_Trung

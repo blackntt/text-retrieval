@@ -1,0 +1,10 @@
+﻿ISO 9000 là gì?
+
+Bộ tiêu chuẩn ISO 9000 do Tổ chức Tiêu chuẩn hóa quốc tế (ISO) ban hành lần đầu năm 1987, soát xét lần 1 năm 1994, lần hai với phiên bản hiện hành công bố ngày 14/12/2000. Đây là bộ tiêu chuẩn về quản lý chất lượng, quy tụ kinh nghiệm quốc tế và được nhiều quốc gia áp dụng. 
+ Phiên bản 2000 kế thừa và nâng cao toàn bộ các yêu cầu về bảo đảm chất lượng nêu trong phiên bản 1994 đồng thời có nhiều cải tiến về cấu trúc định hướng theo quá trình, nội dung và sắp xếp hợp lý hơn, nhấn mạnh đến quá trình cải tiến liên tục. ISO 9000:2000 gồm 4 tiêu chuẩn chính như sau: 
+- ISO 9000:2000 thay thế ISO 8402, tương ứng với tiêu chuẩn Việt Nam (TCVN) ISO 9000:2000, mô tả cơ sở và từ vựng. 
+- ISO 9001:2000, thay thế ISO 9001, ISO 9002, ISO 9003 của phiên bản 1994, ứng với TCVN ISO 9001:2000 mô tả các yêu cầu của hệ thống quản lý chất lượng. 
+- ISO 9004:2000, thay thế ISO 9004-1, tương ứng với TCVN ISO 9004:2000, cung cấp hướng dẫn cải tiến hệ thống quản lý chất lượng. 
+- ISO 19011:2000, thay thế ISO 10011-1:1990, ISO 10011-2:1991, ISO 10011-3:1991. Tiêu chuẩn của bộ ISO 14000 về môi trường là ISO 14010:1996, ISO 14011:1996 hướng dẫn để đánh giá hệ thống quản lý chất lượng và môi trường. 
+Những tiêu chuẩn không bị thay thế của bộ ISO 9000 phiên bản 1994 vẫn được áp dụng để hướng dẫn bổ sung cho bộ ISO 9000 phiên bản 2000. áp dụng ISO 9000 giúp doanh nghiệp, tổ chức tiếp cận công nghệ quản lý tiên tiến, hoàn thiện hệ thống quản lý; nâng cao chất lượng sản phẩm và dịch vụ; giảm thiểu sản phẩm, dịch vụ không phù hợp; tạo lập niềm tin nơi khách hàng; tăng cường tính cạnh tranh và khả năng thâm nhập thị trường mới. 
+Đơn vị có chứng nhận ISO 9000 chính là khẳng định sự cam kết về chất lượng, tăng uy tín trên thương trường và thị trường xuất khẩu. Theo Hà Nội mới

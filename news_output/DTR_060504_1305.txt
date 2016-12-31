@@ -1,0 +1,34 @@
+﻿ VNNIC cho đăng_ký lại các tên_miền đã bị thu_hồi
+Trung_tâm Internet_Việt_Nam ( VNNIC ) vừa cho_biết sẽ cho đăng_ký lại các tên_miền đã xử_lý thu_hồi trong thời_gian qua . Do các tên_miền này đã không được đưa vào sử_dụng đúng mục_đích nên việc xét cấp_phát lại sẽ theo tiêu_chí cấp cho đúng người , đúng việc và đảm_bảo được hoạt_động hiệu_quả .
+Về hình_thức đăng_ký , sẽ ưu_tiên nhận hồ_sơ cho các cơ_quan , tổ_chức thực_sự có liên_quan đến các tên_miền này trong thời_gian một tuần làm_việc , kể từ ngày 8/5/2006 đến hết ngày 15/5/2006 . Ưu_tiên không xét theo thứ_tự thời_gian nộp hồ_sơ ( không tiếp_nhận hồ_sơ đăng_ký của cá_nhân ) .
+Kết_thúc giai_đoạn nhận hồ_sơ ưu_tiên , VNNIC sẽ tập_hợp xem_xét , duyệt cấp_phát theo tiêu_chí tên_miền phải cấp cho đúng chủ_thể thực_sự có hoạt_động liên_quan và công_bố kết_quả danh_sách các cơ_quan , tổ_chức được duyệt trên website này thay cho thông_báo trả_lời . Các hồ_sơ đăng_ký không được chấp_nhận sẽ không hoàn lại .
+Danh_sách các tên_miền đã xử_lý thu_hồi :
+1 . aaa.com.vn
+2 . adam.com.vn
+3 . auto.com.vn
+4 . autos.com.vn
+5 . brand.com.vn
+6 . coffee.com.vn
+7 . edu.com.vn
+8 . eva.com.vn
+9 . finance.com.vn
+10 . gate.com.vn
+11 . invest.com.vn
+12 . legal.com.vn
+13 . mtv.com.vn
+14 . name.com.vn
+15 . oto.com.vn
+16 . sky.com.vn
+17 . software.com.vn
+18 . taxi.com.vn
+19 . thuonghieu.com.vn
+20 . tintuc.com.vn
+21 . top.com.vn
+22 . travel.com.vn
+23 . tuyendung.com.vn
+24 . vnn.com.vn
+25 . vuquy.com.vn
+26 000.com.vn
+Kết_thúc giai_đoạn ưu_tiên , các tên_miền chưa được cấp_phát sẽ được cho các tổ_chức , cá_nhân tự_do đăng_ký theo đúng quy_trình , thủ_tục hiện_tại ( đăng_ký trước được xét cấp trước ) . Các chủ_thể đã đăng_ký nhưng không được xét cấp trong giai_đoạn ưu_tiên muốn đăng_ký tiếp phải nộp lại hồ_sơ theo đúng trình_tự .
+Hồ_sơ đăng_ký trong giai_đoạn ưu_tiên , bao_gồm : Bản khai đăng_ký tên_miền dành cho cơ_quan , tổ_chức theo mẫu công_bố trên website của VNNIC , được ký_tên và đóng_dấu xác_nhận của người có thẩm_quyền ; Giấy_phép đăng_ký kinh_doanh , giấy_phép mở văn_phòng hoặc quyết_định thành_lập cơ_quan , tổ_chức ; Các hồ_sơ , giải_trình liên_quan chứng_minh cơ_quan , tổ_chức đăng_ký có thực_sự liên_quan và phù_hợp trong việc sử_dụng tên_miền đúng mục_đích , hiệu_quả .
+Hồ_sơ đăng_ký các tên_miền trên phải được nộp trực_tiếp về các cơ_sở của VNNIC hoặc gửi qua đường Bưu_điện về đến VNNIC trong thời_hạn từ ngày 8/5/2006 đến hết ngày 15/5/2006 theo địa_chỉ : Trung_tâm Internet_Việt_Nam - Tầng 8 - 115 Trần_Duy_Hưng - Cầu_Giấy - Hà_Nội . Lê_Quang

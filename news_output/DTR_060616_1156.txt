@@ -1,0 +1,6 @@
+﻿ Laptop dùng Mobile_Vista phải có ổ_cứng “ lai ”
+Trong tài_liệu yêu_cầu về cấu_hình máy_tính , Microsoft khuyến_khích người dùng máy_tính_xách_tay nên đổi sang loại ổ_cứng “ lai ” ( Hybrid_Hard_Disk_Drive ) gồm cả đĩa quay và bộ_nhớ flash nếu muốn cài_đặt hệ_điều_hành mobile Vista .
+“ Ổ_cứng “ lai ” mới đáp_ứng yêu_cầu của hệ_điều_hành thế_hệ mới sắp tới của Microsoft ” . Hãng này còn yêu_cầu cấu_hình tối_thiểu của laptop phải có bộ_nhớ đệm không biến_đổi ( non-volatile ) 50 MB .
+Hiện tai , cả Samsung và Seagate đều đang sản_xuất các loại ổ_cứng lai . Hard drive này giúp tiết_kiệm nửa giờ thời_lượng pin cho laptop . Ổ lai chỉ quay khi dữ_liệu trong bộ_nhớ đệm cần phải làm tươi ( refresh ) hay ghi lên ổ_cứng . Bằng cách ghi dữ_liệu lên bộ_nhớ flash , ổ_cứng sẽ không cần cơ_chế quay , tiết_kiệm năng_lượng và khoảng_trống lưu_trữ , đồng_thời tăng đáng_kể thời_gian khởi_động máy_tính .
+Hệ_điều_hành Windows_Vista đã có bản thử_nghiệm rộng_rãi beta 2 .
+N.Hương Theo Tech World

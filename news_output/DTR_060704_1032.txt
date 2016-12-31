@@ -1,0 +1,8 @@
+﻿ WiMax chính_thức được triển_khai tại Hàn_Quốc
+Các hãng viễn_thông nước này đang bắt_đầu kinh_doanh dịch_vụ Wibro , một biến_thể của WiMax , tại thủ_đô Seoul . Đây được coi là cơ_hội đầu_tiên để so_sánh hệ_thống truy_cập mạng không dây phạm_vi rộng với các công_nghệ cạnh_tranh khác .
+Một_số dịch_vụ Internet không dây thương_mại đã được cung_cấp qua các hotspot ở Seoul nhưng WiMax vẫn có nhiều lợi_thế . Nó đạt tốc_độ trao_đổi dữ_liệu vài megabit mỗi giây , phạm_vi phủ_sóng 1 km và có_thể hoạt_động trong các phương_tiện đang di_chuyển với vận_tốc 120 km/giờ .
+WiBro bước_đầu sẽ được thiết_lập tại khu_vực trung_tâm , trường đại_học và các tuyến giao_thông công_cộng chính trong thành_phố . Cước dịch_vụ cơ_bản mà công_ty truyền_thông KT đưa ra là 16 USD/tháng cho 300 MB dữ_liệu tải về đầu_tiên , mỗi megabyte tiếp_theo có_giá 0,07 USD .
+Để sử_dụng dịch_vụ , khách_hàng sẽ phải mua thẻ trị_giá từ 170 USD đến 300 USD để cài vào máy_tính_xách_tay . Thẻ hỗ_trợ những thiết_bị khác như PDA và điện_thoại thông_minh sẽ có_mặt trên thị_trường vài tháng tới .
+Đối_thủ cạnh_tranh chính của WiBro và WiMax di_động là công_nghệ truy_cập tốc_độ cao HSDPA ( high speed downlink packet access ) , một cải_tiến từ công_nghệ WCDMA cho điện_thoại_di_động . HSDPA có tốc_độ truyền tương_đương với WiBro nhưng giá cước có_thể sẽ cao hơn một_chút .
+Hãng SK Telecom của Hàn_Quốc sẽ đầu_tư 170 triệu USD để xây_dựng mạng WiBro trong năm nay , còn KT Corporation dự_định bỏ ra tới 500 triệu USD . “ Chúng_tôi sẽ phủ_sóng WiBro toàn Seoul ngay năm tới và mở_rộng đến các vùng lân_cận vào năm 2008 ” , một phát_ngôn_viên của KT cho_biết .
+Theo T . N . VnExpress/VNUNet

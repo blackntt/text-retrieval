@@ -1,0 +1,9 @@
+﻿VoIP có nguy cơ bị hacker lợi dụng
+
+Hacker có thể ẩn giấu bên trong VoIP vì dòng dữ liệu được gởi đi bởi các ứng dụng này vẫn được tiếp tục. VoIP dường như rất “có lợi” cho các cuộc tấn công từ chối dịch vụ (DoS), theo giải thích của CRN. Trong mộc cuộc tấn công từ chối dịch vụ DoS, từ hàng trăm đến hàng ngàn “zombie” (máy tính nhiễm trojan hay mã độc hại bị hacker chiếm quyền điều khiển và sử dụng như một máy trạm để tấn công mục tiêu) truyền tải một dung lượng rất lớn băng thông trong một thời gian ngắn nhắm đến mục tiêu là máy chủ nhằm làm quá tải, dung lượng truyền tải bị nghẽn dẫn đến ngưng trệ việc duy trì hoạt động. 
+Do các phần mềm ứng dụng thuộc quyền sở hữu riêng và các cuộc gọi thoại Internet không thể bị khóa bởi các ISP hay ngăn chặn bởi tường lửa, do đó không thể theo dõi các cuộc gọi VoIP. Theo như phương thức cũ vẫn dùng thì hacker sử dụng các cổng của trình tin nhắn (Instant message) để thực hiện các cuộc tấn công từ chối dịch vụ theo dạng này. 
+Hơn nữa, nếu VoIP bắt đầu được sử dụng như là một phương thức tấn công trên Internet, thì nó sẽ làm nguy hại đến ngành công nghiệp mới mẻ cũng như cho người dùng, Jon Crowcroft từ CRN cho biết. Crowcroft cũng đề nghị các công ty cùng bắt tay với nhau và hướng các sản phẩm của mình sử dụng những chuẩn chung dựa trên những tiêu chuẩn mở. 
+Năm mới đến, những công nghệ mới mang đến nhiều tiện lợi giúp người dùng tiếp cận được những thành tựu của công nghệ, tuy nhiên, nó cũng mang đến những nguy cơ bảo mật mới nguy hiểm và khó dò tìm được. 
+( ) Thông tin cập nhật thêm về Zombie có thể tìm hiểu tại ZombieMeter để cập nhật zombie mới nhất.
+
+TUYẾT PHẤN

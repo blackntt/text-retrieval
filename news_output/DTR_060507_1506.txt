@@ -1,0 +1,15 @@
+﻿ Tạo chữ biến_hình với FireWorks
+Macromedia_Fire Works là một công_cụ chỉnh_sửa ảnh khá quen_thuộc với những người thiết_kế đồ_họa web , chương_trình cung_cấp những công_cụ và khả_năng chỉnh_sửa ảnh không kém gì Photoshop hay CorelDraw .
+Trong phần này chúng_ta sẽ làm hiệu_ứng chữ biến_hình .
+- Bạn vào File , chọn New để mở một file mới , với kích_thước khoảng 300x100 pixels , tùy_thuộc vào kích_thước chữ bạn muốn làm .
+- Click vào Frames và tạo ra 4 Frames như trong hình 1 , 2
+Hình 1
+Hình 2
+Tại_Frame 1 : - Click vào biểu_tượng trên thanh công_cụ . - Gõ chữ mà bạn muốn ở đây tôi gõ chữ : www.dan tri.com.vn
+Tại_Frame 2 : - Copy dòng chữ tại Frame 1 , Paste vào Frame 2 . - Bạn vào Filters , chọn Blur , chọn Motion_Blur … với thông_số như sau : Angle : 0 ; Distance : 20
+Với_Frame 3 và 4 lặp lại các bước như Frame 1 và 2 .
+Tại_Frame 3 : - Gõ chữ mà bạn muốn , ở đây tôi gõ chữ : Báo_Điện_Tử
+Tại_Frame 4 : - Copy dòng chữ ở Frame 3 và dùng Motion_Blur ... với thông_số tương_tự
+Sau đó click đúp chuột vào từng Frame một như hình 3 .
+Với các thông_số : Frame 1 : 200 Frame 2 : 20 Frame 3 : 200 Frame 4 : 20
+Sau đó b ấm Play ở phía dưới cùng để xem kết_quả : Quốc_Trung

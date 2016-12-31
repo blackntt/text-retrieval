@@ -1,0 +1,4 @@
+﻿ HP giới_thiệu phần_mềm mới dành cho Linux
+Ngoài_ra , phần_mềm HP Control_Tower có_thể phối_hợp làm_việc với phần_mềm quản_trị hệ_thống ( HP Systems_Insight_Manager ) một_cách hiệu_quả để cung_cấp khả_năng quản_lý dòng đời sản_phẩm đơn_giản đối_với các máy_chủ phiến mỏng chạy hệ_điều_hành Linux .
+Các tính_năng quản_trị của phần_mềm HP Control_Tower là rất quan_trọng khi thiết_lập hạ_tầng có khả_năng thích_nghi , linh_hoạt và duy_trì vận_hành ở chế_độ cao . Dự_kiến phần_mềm HP Control_Tower sẽ được tung ra thị_trường vào tháng 5 với mức giá là 199 USD .
+HOÀNG_TRANG

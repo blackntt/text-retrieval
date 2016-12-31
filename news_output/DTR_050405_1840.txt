@@ -1,0 +1,5 @@
+﻿ " Hacker mũ đen " phá_hoại vì tiền
+Hơn 70% các “ chuyên_gia ” viết virus máy_tính theo hợp_đồng , đó là khẳng_định của công_ty bảo_mật Israel_Aladdin_Knowledge_Systems ( AKS ) . Theo công_ty này , hoạt_động tin_tặc đang chuyển dần thành một nghề kinh_doanh hứa_hẹn nhiều lợi_nhuận .
+Cũng theo thống_kê của AKS , phần_mềm gián_điệp ( spyware ) là công_cụ được sử_dụng nhiều nhất trong các cuộc tấn_công có dính_líu tới hợp_đồng kinh_tế .
+“ Chúng_tôi đã phân_tích lượng virus tiếp_nhận được trong vòng 6 tháng qua và phát_hiện ra rằng 70% trong số chúng có chứa đặc_tính của phần_mềm gián_điệp ” , Shimon_Gruper - phó_giám_đốc công_nghệ của AKS , tuyên_bố .
+Dù xuất_phát từ mục_tiêu gì , hoạt_động phá_hoại của hacker mũ đen vẫn ngày_càng nguy_hiểm . AKS khuyến_cáo các công_ty nên chặt_chẽ hơn_nữa trong việc bảo_mật các dữ_liệu quan_trọng của mình . Theo Vn Media

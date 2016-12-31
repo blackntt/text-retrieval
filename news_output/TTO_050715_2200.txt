@@ -1,0 +1,6 @@
+﻿ Công_nghệ nhận_dạng bằng tai
+Công_nghệ này có_thể được sử_dụng để nhận_dạng một người nào_đó từ các hình_ảnh trên truyền_hình hoặc kết_hợp với điện_thoại_di_động để nhận_dạng người sử_dụng , Mark_Nixon , một chuyên_gia về nhận_dạng tại Trường ĐH Southampton cho_biết . Phương_pháp này cho chỉ_số so_sánh nhiều hơn so với các phân_tích khuôn_mặt .
+" Tai bao_gồm những đặc_điểm riêng " , ông nói . Không như khuôn_mặt , chúng không dễ thay_đổi hình_dạng cũng_như tuổi_tác hay giọng nói , nằm cố_định ở vùng giữa của đầu và không_thể đoán được từ phía sau . “ Tóc là một vấn_đề , nhưng điều đó có_thể được giải_quyết bằng cách sử_dụng các hình_ảnh hồng_ngoại ” , Nixon nói .
+Trong một nghiên_cứu quy_mô nhỏ ban_đầu trên 63 người , tất_cả đều có cơ_sở_dữ_liệu để nhận_dạng khuôn_mặt , Nixon và đồng_nghiệp nhận thấy phương_pháp của họ cho kết_quả chính_xác đến 99,2% . Theo Nixon , tuy đây chỉ là bước_đầu nhưng về lý_thuyết , phương_pháp này có_thể tiếp_tục được cải_tiến để cho hiệu_quả cao hơn .
+Trước_đây cũng đã từng có phương_pháp nhận_dạng bằng tai , nhưng các phương_pháp này lại sử_dụng cách gần giống như nhận_dạng khuôn_mặt , bao_gồm việc rút ra những đặc_điểm chủ_yếu , ví_dụ vị_trí của mắt và mũi , hoặc vị_trí của các đường rãnh trong trường_hợp nhận_dạng bằng tai …
+TƯỜNG_VY ( Theo Newscientist )

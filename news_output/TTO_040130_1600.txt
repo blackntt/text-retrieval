@@ -1,0 +1,8 @@
+﻿ " Cha_đẻ Ctrl + Alt + Del " kết_thúc sự_nghiệp
+David_Bradley là một trong 12 kỹ_sư tạo ra chiếc máy IBM_PC cách đây gần 24 năm . Song trong_suốt cuộc_đời mình , chỉ 5 phút viết đoạn mã tạo ra CtrlAltDel đã khiến ông đi vào lịch_sử của chiếc máy_tính .
+Ý_tưởng ban_đầu là tạo ra một_cách đơn_giản để thoát khỏi thế_giới PC khi máy bị lỗi . Bradley đảm_nhận công_việc . Và kết_quả là một tổ_hợp phím ra_đời . Hàng thập_kỷ nay , người_ta vẫn nhấn chúng khi các chỉ_lệnh khác bất_lực . Microsoft sau đó đã chấp_nhận ý_tưởng và phát_triển nó thành tính_năng cho_phép chuyển quyền quản_lý , kết_thúc chương_trình mà không ảnh_hưởng tới các hoạt_động khác .
+Bradley chọn Ctrl và Alt bởi ông cần hai phím chuyển_đổi cho quá_trình . Nút_Delete được dùng bởi nó nằm tận đầu kia bàn_phím , giúp tránh những cú khởi_động lại do sơ_ý cùng lúc đè lên cả ba phím . Ban_đầu , IBM không định phổ_biến rộng cách khởi_động này . Song các lập_trình_viên đều thấy nó quá tiện_lợi , và tiếng lành đồn xa .
+“ Tôi không ngờ nó lại trở_thành một biểu_tượng trứ_danh đến vậy ” , Bradley sau_này thú_nhận . Ông nói mình cũng chẳng nhớ nổi khoảnh_khắc tạo ra CltrAltDel . Nó làm người_ta nhớ tới những gì Albert_Enstein nói về công_thức E = MC 2 , hay Alexander_Fleming nói về penicillin .
+Dù_vậy , sự nổi_danh của ông lại dựa trên thất_bại của kẻ khác . “ Tôi tạo ra CtrlAltDel , song chính Bill_Gates đã khiến nó được sử_dụng thường_xuyên đến vậy ” , Bradley ám_chỉ việc phần_mềm của Microsoft , trong đó có Windows , liên_tục bị treo và phải khởi_động nóng . Lời bình_luận khiến những người có_mặt tại lễ sinh_nhật lần thứ 20 của IBM_PC phá lên cười , tất_nhiên là trừ Hiệp_sĩ Bill tội_nghiệp .
+Ở tuổi 55 , Bradley sẽ tiếp_tục giảng_dạy tại Đại_học North_Carolina_State .
+Theo VNE

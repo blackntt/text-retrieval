@@ -1,0 +1,15 @@
+﻿Bảo mật e-mail trong Outlook
+
+Thư điện tử là phương tiện liên lạc phổ biến nhất hiện nay trên nền web. Do dự phổ dụng của e-mail nên tin tặc luôn “lăm le” đột kích người dùng bằng chính e-mail mà họ gửi cho bạn bè, người thân. Bài viết sau sẽ giúp bạn thoát khỏi “bàn tay” của hacker. 
+ Không nên xem trước (Preview) 
+Chúng ta vẫn biết rằng không nên mở những file đính kèm không rõ ràng người gửi nhưng rất nhiều người dùng lại không biết rằng chính tính năng cho xem trước (preview) e-mail trong phần mềm gửi, nhận thư Outlook hoặc Outlook Express lại có thể tự động mở những e-mail gây ảnh hưởng đến hệ thống của bạn. 
+Nếu đã cài đặt phiên bản Service Pack 2, bạn có thể ẩn tùy chọn Preview trong hai phần mềm Outlook và Outlook Express. Tuy nhiên, tốt nhất bạn nên làm tê liệt (disable) chức năng này. 
+- Trong Outlook Express, hãy chọn View à Profiles à Preview Pane và tắt chức năng này. 
+- Trong Outlook 2000, hãy chọn View à Preview Pane, bạn có thể tắt (off), mở (on) tại đây. 
+- Trong Outlook 2003, hãy chọn View/ Reading Pane, sau đó nhấp chuột vào nút Off. 
+Không nên mở file đính kèm (attachment) 
+- Ngăn chặn file đính kèm: Không mở file attachment có thể sẽ là cách tốt nhất để tránh xa nguy cơ lây nhiễm virus. Outlook 2003, Outlook 2002, and Outlook Express 6 được lập trình tự động “lọc” những file đính kèm nguy hiểm. 
+Nếu bạn sử dụng phần mềm Outlook Express 6 bạn có thể bảo vệ mình bằng cách click vào Tools à Options à chọn thẻ Security. Sau đó, nhấp chuột vào ô Do not allow attachments to be saved or opened that could potentially be a virus. 
+Trong Outlool Express, bạn nên luôn luôn check vào ô Warn me when other applications try to send mail as me for a little extra protection. 
+- Bổ sung vào “danh sách đen”: Những file ZIP, PIF và các định dạng file khác có thể “chứa chấp” phần mềm ma. Bạn có thể dùng kỹ thuật tinh chỉnh Registry để cập nhật những file nguy hiểm, tác động đến các phần mềm nhận, gửi e-mail trong hệ thống của mình. 
+Người dùng Outlook 2003 có thể thực hiện theo các bước sau để tinh chỉnh Registry. Start à Run à gõ regidit à OK. Sau đó, hãy chọn HKEY_CURRENT_USER à Software à Microsoft à Office à 11.0 à Outlook à Security. Tại menu Edit, bạn chọn New à String Value. Tại đây, bạn hãy nhập Level1Add và nhấn Enter. Tại menu Edit, bạn nhấp chuột vào Modify. Sau đó, gõ ký hiệu &lt;, danh sách các đuôi mở rộng của file đính kèm &gt;. Ví dụ: Nếu muốn ngăn chặn cả hai định dạng xuất hiện trong file đính kèm của e-mail, bạn có thể gõ: &lt;zip, .pif&gt;. N.Hương

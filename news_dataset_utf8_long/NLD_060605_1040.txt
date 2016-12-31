@@ -1,0 +1,14 @@
+﻿Công nghệ không dây khiến người sử dụng lúng túng
+
+Nhiều công nghệ đã xuất hiện nhằm hiện thực hóa ước mơ của con người. Tuy nhiên, sau đó chúng lại gây ra những rắc rối về vấn đề tương thích và sự phức tạp của các thông số kỹ thuật. Wi-Fi cũng không khá khẩm hơn. 
+"Công nghệ kết nối Internet này hứa hẹn nhiều triển vọng và chẳng mấy ai nghi ngờ nó sẽ trở nên phổ biến đến mức khó tin", chuyên gia Doug Loewe thuộc công ty bảo mật không dây iPass (Mỹ) nhận xét. 
+"Chỉ một vài năm trước, thế giới có khoảng 5.000 điểm truy cập còn hiện nay con số này đã là hơn 50.000. Các hotspot được mở ra khắp nơi bởi chúng không chỉ đáp ứng nhu cầu của doanh nghiệp mà cả của người tiêu dùng". 
+Nhưng thế giới Wi-Fi tràn ngập chữ và các con số phức tạp như 802.11a, 802.11b, 802.11g và 802.11n. 802.11 khẳng định với người sử dụng rằng họ được truy cập không dây còn chữ cái ở cuối thông báo chuẩn đó có thể thực hiện những gì. 
+"Thế giới kỹ thuật số đã đòi hỏi khả năng truyền dữ liệu 10, 11, 12 Mb mỗi giây nhưng 'b', 'g' và các biến thể của chúng vẫn chưa thực hiện được điều đó. Nếu chuẩn 'n' được phê duyệt, có thể nó lại gây ra những vấn đề mà chúng ta chứng kiến hôm nay", Rob Falconer của Belkin nói. 
+Khi Wi-Fi bắt đầu xuất hiện, phạm vi phủ sóng, tốc độ và khả năng ứng dụng của công nghệ này đều "có vấn đề". 
+Tháng 6-2004, tổ chức điện tử IEEE bắt đầu nghiên cứu thông số n nhưng sau hai năm, họ vẫn chưa thống nhất được điều gì. Thông tin trên website của tổ chức khẳng định 802.11n sẽ không thể hoàn thiện cho đến tháng 7-2007. 
+Giới công nghệ đang ấp ủ ý tưởng phủ sóng toàn thành phố, thị trấn bằng kết nối Wi-Fi, chẳng hạn lắp chúng trên các cột đèn đường. 
+Tuy nhiên, họ cũng chú ý đến một công nghệ khác là WiMax với thông số 802.16 có tầm hoạt động rộng. 
+"WiMax cũng có nhiều biến thể khác nhau. Hàn Quốc hiện thiết lập một chuẩn riêng mang tên WiBro. Trong khi đó, 802.16D hứa hẹn thay thế cho dây cáp và đã được ứng dụng tại một số công ty xe lửa nhằm cho phép kết nối không dây trên tàu. Còn 802.16E được thiết kế dành riêng cho thiết bị di động nhưng vẫn chưa được chính thức phê chuẩn", chuyên gia Guy Kewney của trang Newswireless.net, cho biết. Nhìn chung, công nghệ phổ biến Wi-Fi hiện mới chỉ đáp ứng được một nửa nhu cầu của người sử dụng, WiMax vẫn chưa thực sự được triển khai còn 3G - một công nghệ không dây khác - cũng đang chật vật lôi kéo khách hàng. "Sẽ đến lúc cả ba chuẩn này kết hợp và bổ sung cho nhau. Không có công nghệ nào thắng thế bởi chúng hoàn toàn có thể tương thích với nhau", Doug Loewe dự đoán.
+
+Theo VNExpress

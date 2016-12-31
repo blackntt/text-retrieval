@@ -1,0 +1,11 @@
+﻿ Khởi_động nhanh Adobe_Photoshop
+Việc mở Photoshop bao_giờ cũng là “ nỗi muộn_phiền ” cho người dùng , do phải chờ ( có_khi kéo_dài tới vài phút ) để chương_trình duyệt và tải lên đầy_đủ các tiện_ích , những tiện_ích mà có_khi chẳng bao_giờ bạn dùng đến nó . Photoshop_Speed Up sẽ giải_quyết vấn_đề này .
+Chương_trình này có dung_lượng khoảng 300KB , tương_thích với mọi phiên_bản của Windows . Bạn có_thể tải chương_trình tại : http : / / www.acropdf.com : 80/photosu.exe
+Sau khi tải về bạn click chuột vào file Photosu để chạy nó . Trong cửa_sổ Where_Adobe_Photoshop is Installed , trong mục Install_Directory bạn nhập đường_dẫn đến thư_mục cài_đặt chương_trình Photoshop của bạn bấn OK . Trong màn_hình mới , một loạt các tiện_ích của Adobe_Photoshop sẽ được liệt_kê để bạn tham_khảo . Bỏ chọn Do not load Cmap and Base và Do not load Photoshop_Preset , hạ thấp dung_lượng bộ_nhớ mà Adobe_Photoshop sẽ dùng khi chạy trong máy của bạn xuống giá_trị thấp nhất_là 25% . Cuối_cùng bấm Optimize/Yes . Chuột phải vào các tùy chọn còn lại và chọn Remove all / yes .
+Bây_giờ bạn thử mở Adobe_Photoshop xem sao , chắc_chắn bạn thấy hài_lòng hơn rất nhiều với tốc_độ khởi_động nhanh_chóng của nó .
+Nếu bạn thấy chưa hài_lòng và bạn đang sử_dụng Photoshop CS2 ( phiên_bản mới nhất ) , bạn hãy tiếp_tục mở nó thêm lần nữa , mỗi lần bạn nhập một đường_dẫn trong danh_sách dưới đây và thực_hiện tương_tự như hướng_dẫn lúc đầu để tối_ưu_hóa Adobe_Photoshop của bạn .
+C : \ Program files \ Adobe \ Adobe_Bridge
+C : \ Program files \ Adobe \ Adobe_Help_Center
+C : \ Program files \ Adobe \ Adobe_Stock_Photos
+C : \ Program files \ Adobe \ Adobe_Utilities
+Sau những bước này Photoshop của bạn sẽ khởi_động nhanh hơn lúc_nào hết . Chúc các bạn thành_công . Hoa_Đào

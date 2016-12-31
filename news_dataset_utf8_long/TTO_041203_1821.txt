@@ -1,0 +1,12 @@
+﻿Fontifier: biến chữ viết tay thành font chữ cho máy tính
+
+Dịch vụ này không phải miễn phí mà bạn phải trả 9 USD cho mỗi lần làm một bộ font chữ. Đầu tiên bạn truy cập vào trang web: http://www.fontifier.com và thực hiện theo các bước sau: 
+- Bước 1: Bạn mở bảng mẫu mà chương trình cung cấp lên, sau đó in ra giấy. 
+- Bước 2: Bạn viết các mẫu tự chữ cái và các ký hiệu vào trong bảng mẫu đó. 
+- Bước 3: Bạn dùng máy Scan để scan bảng mẫu đó vào lại trong máy tính (độ phân giải có thể là 72 dpi, 75 dpi, or 100 dpi, định dạng file ảnh có thể là GIF, JPEG, PNG, or TIFF). 
+- Bước 4: Bạn đặt tên cho font chữ, sau đó tải bảng mẫu font chữ này lên trang web. 
+- Bước 5: Bước này cho phép bạn thấy qua được font chữ của mình, nếu bạn không ưng ý thì có thể làm lại từ đầu, nếu đồng ý thì bạn chọn các hình thức trả tiền (thẻ tín dụng hay dịch vụ Pay Pal). 
+- Bước 6: Sau khi bạn trả tiền xong thì bạn tải Font chữ này về máy tính của mình. 
+- Bước 7: Bạn cài đặt font chữ này lên máy tính của mình là xong.
+
+NGỰ HÀN

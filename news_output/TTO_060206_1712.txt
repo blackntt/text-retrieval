@@ -1,0 +1,7 @@
+﻿ Cảnh_sát Pháp từ_bỏ Internet_Explorer ( IE )
+Thời_gian chuyển_đổi dự_kiến kết_thúc vào cuối năm nay .
+Theo một cuộc khảo_sát của Xiti , Firefox hiện chiếm khoảng 18% thị_trường trình_duyệt ở Pháp . So với con_số 20% của toàn châu Âu và 38% của riêng Phần_Lan , thì đây cũng là một con_số khá ấn_tượng . Việc hiến_binh Pháp sử_dụng Firefox hứa_hẹn sẽ tạo nên một trào_lưu mới cho phần_mềm mã nguồn mở , đặc_biệt là trình_duyệt tại Pháp nói_riêng và tại châu Âu nói_chung . Cảnh_sát Pháp còn mơ đến một tương_lai mà mọi người_dân Pháp đều có_thể trình_báo việc trộm_cắp qua Internet ( Firefox là một trình_duyệt miễn_phí ) .
+Trào_lưu về phần_mềm mã nguồn mở không phải mới bắt_đầu_từ đây . Cuối năm 2005 , toàn_bộ máy_tính của cảnh_sát cũng chuyển sang sử_dụng OpenOffice thay cho Microsoft_Offices , hiện_nay là version 1.4 và tháng 3 sắp tới sẽ là version 2.0 . Thay_đổi này tiết_kiệm cho cảnh_sát 2 triệu euros mỗi năm .
+Nhiều bộ ngành khác của nước Pháp cũng sắp chuyển qua sử_dụng phần_mềm mã nguồn mở trong năm nay . Dự_kiến quý 2 năm 2006 , sẽ có thêm khoảng 80.000 máy_tính nữa sẽ được chuyển_đổi , một_số lớn trong đó thuộc về ngành thuế .
+Tuy_nhiên , vẫn chưa có một quyết_định nào cho việc chuyển_đổi từ sử_dụng Windows qua Linux . Vẫn còn là một khoảng_cách khá lớn cho Linux trong con đường tiếp_cận thị_trường người dùng cuối .
+TRẦN_HUY ( Theo Yahoo ! News )

@@ -1,0 +1,44 @@
+﻿Dùng bộ lọc Yahoo để chặn thư rác
+
+Hiện nay các SPAM luôn thay đổi tiêu đề và địa chỉ để đánh lừa bộ lọc của các chương trình trên. Một nhược điểm nữa là OE sau khi nhận mail về máy thì mới lọc điều này chúng ta phải mất rất nhiều thời gian chờ đợi các email vô ích tải vào máy rồi mới đến các email chúng ta cần. 
+1. Các công việc cần chuẩn bị trước khi cài đặt bộ lọc mail là: 
+- Ngoài Account mail quí vị đăng ký tại một máy chủ chính thức như (mail.hcm.vnn.vn, mail.hn.vnn.vn, mail.dng.vnn.vn, mail.hcmuaf.edu.vn… ) cần phải đăng ký thêm một Account trên http://mail.yahoo.com không nhất thiết hai tên account phải giống nhau. 
+- Bấm vào đây để tải phần mềm YahooPop miễn phí. 
+2. Cài đặt: 
+- Bước 1: Cài đặt Yahoo POP (Double click vào file đã tải về trên đĩa cứng) sau khi cài đặt hoàn thành copy shortcut vào folder Start up của memu Start để chương trình tự động khởi động sau khi khởi động Windows (C:\Documents and Settings\USER\Start Menu\Programs\Startup) (USER là tên của User login vào màn hình WinXP hoặc Win2000). 
+- Khởi đông chương trình Yahoo POP’s xuất hiện một biểu tượng lá thư nhỏ ở góc dưới bên phải màn hình. Nhấp đôi vào biểu tượng này để thay đổi một số thông số cho phù hợp với máy của quí vị. 
+- Tất cả các thông số mặt định là có thể phù hợp, tuy nhiên nếu máy bạn kết nối với Internet cần phải khai báo Proxy (máy truy cập hộ) bạn có thể xem trong chương trình IE menu Tools/Internet Options/ Connection/LAN Settings. Nếu trong mục này có khai báo máy chủ trong hộp thoại trên bạn chọn thẻ Advanced Preferences đánh đấu vào chỗ Connect to the Internet via an HTTP proxy server, và dòng kế tiếp quí vị gõ vào tên máy chủ và port giống như trong thẻ LAN Settings. Nếu không có khai báo bạn bỏ qua thiết lập này. 
+Bước 2: Khai báo trong chương trình MS Outlook hoặc Outlook Express 
+- Chọn Menu Tools/Accounts/Mail Chọn account đã khai báo bấm vào Properties sau đó xuất hiện hộp thoại server. 
+- Incoming mail server nhập vào localhost. 
+- Out going mail server: Nhập vào địa chỉ máy chủ gởi mail đi ra (máy chủ của bạn đã đăng ký ví dụ như smtp.hcm.vnn.vn). 
+- Account name: Nhập vào tên đăng ký trên mail.yahoo.com. 
+- Pasword (Mật khẩu): mật khẩu của Account Yahoo. 
+Bước 3: Thiết lập bộ nhận thư hộ trên Yahoo. 
+- Đăng nhập vào hộp thư của Yahoo: Khởi động chương trình truy cập trang web, gõ vào địa chỉ http://mail.yahoo.com và nhập tên đăng ký trên Yahoo và mật khẩu để vào màn đọc và gởi thư của Yahoo. 
+- Nhấp vào dòng link Mail Options chọn đến Mail Accounts/ Nhấp vào nút Add để thêm một địa chỉ nhận thư từ máy chủ đăng ký chính thức. 
+Trong màn hình Step1, phần Account name: Nhập vào tên của máy chủ cần nhận Email như: mail.hcm.vnn.vn - nhấp vào nút Continue. 
+Đến màn hình Step 2: 
+- Mail server: Nhập vào chính xác tên máy chủ đã đăng ký nhận email như: mail.hcm.vnn.vn, mail.hn.vnn.vn, mail.dng.vnn.vn …. 
+- Username: nhập vào tên đăng ký phần trước dấu @ trong địa chỉ mail của bạn. 
+- Password: Nhập chính xác mật khẩu để nhận email từ account trên. 
+- Indicator: Chọn một màu cho các thư nhận từ máy chủ này. 
+- Nhấp vào nút Setup Mail Server để lưu thông tin vừa lựa chọn. 
+Lúc này ngoài màn hình danh sách các email có dòng Check Other mail – xuất hiện tên máy chủ nhận mail bạn vừa khai báo. Muốn nhận mail từ máy chủ đăng ký chỉ cần nhấp vào dòng địa chỉ này. 
+Bước 4: Thiết lập bộ lọc thư 
+- Chọn nhấp vào dòng link Mail Options/nhấp tiếp đến dòng link Filters để mô tả các lệnh lọc trong cửa sổ Filters bấm vào nút Add để môt tả một phương thức lọc. 
+Với các SPAM thường xuyên thay đổi địa chỉ và tiêu đề cần khai báo trong phần BODY với những từ mà chúng hay quảng cáo chỉ có chúng mới có từ này như địa chỉ trang web, số điện thoại, loại hàng quảng cáo. 
+- Trong phần THEN/Move the messeage to bạn chọn folder nào lưu trữ thư rác – có thể chuyển vào Trash để chương trình tự hủy luôn. 
+- Sau khi mô tả hoàn thành một phương thức lọc nhấp vào nút Add Filter để lưu lại tất cả các lựu chọn. Trong yahoo miễn phí cho bạn mô tả 15 phương thức lọc như vậy. 
+- Ngoài ra trong phần Block Address cũng có thể mô tả các địa chỉ cần từ chối không nhận. 
+3. Sử dụng: 
+- Kết nối máy tính vào mạng Internet. 
+- Khởi động chương trình IE nhập vào địa chỉ http://mail.yahoo.com nhập YahooID và mật khẩu để login vào màn hình nhận gởi mail của Yahoo. 
+- Nhấp vào tên máy chủ nhận mail đã thiết lập trong phần Check Other Mail – từ đây bạn đừng đọc các các thư vừa nhận nếu bạn muốn thư này chuyển về máy của bạn qua chương trình OutLook Express. 
+- Khởi động chương trình YahooPOP’s (nếu đã đặt trong Start up thì bỏ qua bước này) 
+- Khởi động chương trình nhận mail OE nhận gởi mail bình thường. 
+Tóm lại: 
+- Với chức năng lọc SPAM và lọc Virus của máy chủ Yahoo bạn có thể yên tâm sử dụng chương trình OE, các email không mong muốn đã bị Yahoo ngăn chặng. Nếu phát sinh các email SPAM mới bạn mô tả thêm các phương thức lọc mới cho phù hợp. 
+- Với các Account nhận từ 100 Email rác mỗi ngày dùng mẹo trên rất hiệu quả.
+
+LÊ VĂN PHẬN

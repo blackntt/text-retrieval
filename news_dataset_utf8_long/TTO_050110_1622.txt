@@ -1,0 +1,11 @@
+﻿Tạo CD/DVD ảo với Fantom CD
+
+Thực ra trên thị trường có rất nhiều phần mềm có chức năng này tuy nhiên không phải phần mềm nào cũng đạt được tính thân thiện và hiệu quả như phần mềm này. Chương trình vừa có thể copy đĩa CD &amp; DVD mà còn tích hợp các tiện ích ghi đĩa và sao chép đĩa dựa trên các ảnh đĩa (image) đã có. 
+Sau khi đã cài đặt xong phần mềm, trên máy bạn sẽ xuất hiện thêm 1 ổ DVD Drive. Ổ đĩa này là ổ đĩa ảo do chương trình tạo ra. Các bạn có thể sử dụng ổ đĩa này như một ổ đĩa bình thuờng. 
+Để tạo được một ảnh đĩa trước tiên bạn phải bỏ đĩa cần sao chép vào ổ CD/DVD của bạn. Sau đó các bạn nhấn vào biểu tượng New trên thanh Toolbar hoặc chọn File - New. Khi đó sẽ hiện lên 1 cửa sổ Wizard. Sau đó các bạn chọn đúng ổ đĩa của các bạn trong ô CD/DVD Device nếu máy của bạn có nhiều ổ đĩa. Sau khi đã làm xong các bạn nhấn Next để tiếp tục. 
+Một cửa sổ khác sẽ xuất hiện yêu cầu bạn nhập tên của ảnh đĩa trong ô Image Name. Các bạn nên đặt tên cho đúng với nội dung của đĩa để sau này dễ quản lý. Tiếp đó các bạn tiếp tục chọn định dạng của ảnh trong phần Image Format, trong này sẽ có 4 mục lựa chọn. 
+Tốt nhất các bạn cứ để mặc định hoặc chọn Standart ISO Image File vì đây là định dạng chuẩn để phòng trường hợp bạn muốn sử dụng lại tập tin ảnh cho việc ghi đĩa bằng chương trình khác như Nero Burning chẳng hạn. Sau khi đã hoàn thành các “thủ tục” cần thiết các bạn nhấn Start để bắt đầu tạo ảnh. Để sử dụng các bạn chỉ cần nhấp đúp chuột vào ảnh đĩa là có thể sử dụng với chương trình đã tạo. Lưu ý là phải tạo ảnh đĩa trước rồi sau đó tiến hành cài đặt phần mềm trên ổ đĩa ảo vừa được tạo. 
+Để ghi đĩa yêu cầu máy bạn phải có ổ ghi CD hoặc DVD ghi, nếu đã đáp ứng đủ yêu cầu bạn chỉ cần nhấn vào biểu tượng Image Burning Wizard bên thành toolbar. Sau đó chọn tập tin ảnh cần chép bằng cách bấm nút Browse. Tiếp đó các bạn chọn ổ đĩa ghi và nhấn Start để bắt đầu ghi. 
+Các bạn có thể tải bạn dùng thử chương trình này tại đây (3.03 MB).
+
+NGUYỄN THIỆN NHÂN

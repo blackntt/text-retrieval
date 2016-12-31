@@ -1,0 +1,6 @@
+﻿ Xuất_hiện biến_thể virus Mydoom
+Mydoom - B tương_tự như “ anh_chị ” của nó xuất_hiện hôm 26/1 , nhưng cài chương_trình đặt ngày tấn_công từ_chối dịch_vụ phân_tán vào website của Microsoft và chặn người dùng máy_tính bị nhiễm virus vào những site cung_cấp phần_mềm an_ninh .
+Sâu mang theo file đính kèm có kích_thước lớn hơn với thông_điệp như : " sync-1.01 ; andy ; I ' m just doing my job , nothing personal , sorry . "
+Các chuyên_gia an_ninh đặt virus " Mydoom - B " ở mức nguy_hiểm thứ_hai trong hệ_thống báo_động virus 4 mức của công_ty . Công_ty phần_mềm Kaspersky cho_biết hiện_nay đã có một_số trường_hợp bị nhiễm loại sâu này .
+Kể từ thời_điểm phát_sinh vào đầu tuần , MyDoom ( còn có tên khác là Novarg , Mimail . R hay Shimgapi ) đã thâm_nhập vào hàng triệu máy_tính trên toàn_cầu , gây thiệt_hại tính lên tới hàng tỷ USD . MyDoom đã lan_tràn ở 142 quốc_gia trên thế_giới , chiếm 1/12 tổng_lượng e - mail lưu_chuyển trên Internet . Tốc_độ lây_lan này đã vượt qua kỷ_lục của virus Sobig - F , từng xuất_hiện vào cuối năm_ngoái , và đạt mức lây_lan kỷ_lục với 1/17 e-mail được MessageLabs tìm_kiếm qua mạng Internet .
+T . M ( theo PCW )

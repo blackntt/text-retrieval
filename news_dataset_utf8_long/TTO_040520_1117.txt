@@ -1,0 +1,9 @@
+﻿Hạ giá thành phần mềm chống vi phạm bản quyền
+
+Mặc dù rất muốn tôn trọng bản quyền nhưng là một sinh viên tôi không có đủ khả năng tài chính để mua về cài đặt những phần mềm rất cần thiết như hệ điều hành Windows, bộ “văn phòng tứ bảo” Office... mà tổng giá thành của nó khi được mua bản quyền nhiều khi còn đắt hơn chiếc máy tính. 
+Tôi nghĩ khả năng tài chính là nguyên nhân hàng đầu và quan trọng nhất để những sinh viên như tôi chọn sử dụng phần mềm bị bẻ khóa, những phần mềm mà chỉ cần 8.000 đồng cũng đủ để mua về cài đặt và sử dụng. 
+Tôi cũng đã từng được đọc nhiều bài báo trong đó kêu gọi hãy sử dụng phần mềm mã nguồn mở ví dụ như hệ điều hành Vietkey Linux. Nhưng sau khi cài đặt và dùng thử tôi xin nói thẳng sử dụng Vietkey Linux vừa khó cài đặt, khó sử dụng lại ít ứng dụng và không tương thích được với các phần cứng tôi đang sử dụng, nói chung không đủ chất lượng để đáp ứng nhu cầu sử dụng. 
+Nói chung Vietkey Linux nên dành cho những chuyên gia vi tính sử dụng vì mỗi khi gặp sự cố thì biết cách giải quyết. Một giải pháp khả thi trong chuyện giảm tình trạng vi phạm bản quyền theo tôi nghĩ là chính phủ nên đàm phán với Microsoft để hạ giá thành sản phẩm của Windows xuống thật thấp, phù hợp với nhu cầu sử dụng của người Việt Nam. 
+Còn chuyện sử dụng phần mềm mã nguồn mở tôi không tin tưởng cho lắm bởi vì mở nhưng không phải là miễn phí hoàn toàn và chất lượng của nó không phù hợp với những người sử dụng trình độ thấp như tôi.
+
+HUỲNH DUY

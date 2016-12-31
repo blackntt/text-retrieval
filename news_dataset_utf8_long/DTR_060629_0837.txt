@@ -1,0 +1,18 @@
+﻿Xây dựng Chính phủ điện tử ở VN: Cần bộ máy chỉ huy đủ quyền lực
+
+Tại hội thảo “Chính phủ điện tử (CPĐT) - thách thức và kinh nghiệm triển khai” ở Đà Nẵng mới đây, ông James S. L. Yong - giám đốc chương trình thuộc khối doanh nghiệp công khu vực ASEAN - Công ty Cisco Systems (Mỹ), người có 10 năm kinh nghiệm làm tư vấn về phát triển các dịch vụ công với chính phủ các nước châu Á - đã có cuộc trao đổi với PV về việc triển khai CPĐT ở VN. 
+ Thưa ông, việc xây dựng CPĐT cần xác định mục tiêu như thế nào? 
+Tôi nghĩ VN cần học hỏi kinh nghiệm từ các nước khác và làm việc với những đối tác có kinh nghiệm trong việc đầu tư phát triển CPĐT. Khi kiểm điểm lại đề án 112 phải chọn lọc những điều đã làm được để cải thiện tốt hơn. 
+Singapore trong đầu thập niên 1980 thậm chí còn chưa đặt mục tiêu là CPĐT mà mới chỉ là chính phủ (sử dụng) công nghệ thông tin. Họ cũng đã gặp phải một số sai lầm, một số dự án bị phá sản. Ở Malaysia nhiều dịch vụ không được chấp nhận... 
+Cần làm sao để người dân cảm thấy họ có liên quan đến dịch vụ điện tử của nhà nước và phải sử dụng chúng. Dịch vụ liên quan đến được với người dân và doanh nghiệp khi họ cần, nơi họ cần và theo cách mà họ muốn. 
+Làm sao để thực hiện một cách đồng bộ giữa các cấp, các ngành từ trung ương đến địa phương, thưa ông? 
+Quan trọng là xác định được kế hoạch tổng thể phát triển CPĐT. Nó thể hiện ở hai việc: thứ nhất, xác định một cách rõ ràng hiệu quả của CPĐT sẽ như thế nào với VN bằng những mục tiêu cụ thể; thứ hai là cơ quan đầu mối điều hành để lèo lái CPĐT đó, nó có thể là của Bộ Bưu chính - viễn thông chẳng hạn hoặc một cơ quan khác, nhưng phải có đủ quyền lực. 
+Nhưng VN cũng đang gặp khó khăn về nhân lực khi xây dựng CPĐT... 
+Quan trọng nhất là những người điều hành các dự án triển khai CPĐT ở từng đơn vị cụ thể. Các trường ĐH cập nhật chương trình đào tạo về CPĐT. Nên gửi sinh viên sang đào tạo ở các nước đã làm tốt nền CPĐT để khi quay về họ có thể phục vụ tốt. 
+Đồng thời nhà nước cũng cần hợp tác với các doanh nghiệp tư nhân, các tổ chức đã có sẵn nguồn nhân lực mạnh về công nghệ thông tin để giúp chính phủ thực hiện đề án này. 
+Thế còn có một giải pháp chung nào về kỹ thuật? 
+Điều cơ bản nhất là phải thiết lập cơ sở hạ tầng chung đủ để đảm bảo vận hành được các thiết bị, phần mềm phục vụ việc triển khai CPĐT. Chúng ta đang nói về mạng không dây, băng thông rộng nhưng quan trọng nhất là làm sao cho các bộ, ngành khác nhau có thể chia sẻ thông tin với nhau. 
+Kinh nghiệm của Hàn Quốc cho thấy họ đã thành công vì sớm nhận ra điều này: xây dựng cơ sở dữ liệu ổn định để cùng khai thác và không trùng lặp lãng phí vì nhiều nơi cùng làm một việc. 
+VN cần xây dựng dữ liệu điện tử về người dân, về thuế, về lượng ôtô đang lưu hành chẳng hạn… Xác định cơ sở dữ liệu nào là ổn định và chính thống để sử dụng chung, không ai có thể làm thay đổi và nó là dữ liệu mà tất cả mọi người đều có thể sử dụng. 
+Xin cảm ơn ông. 
+Theo Vũ Thanh Bình Tuổi trẻ

@@ -1,0 +1,5 @@
+﻿ Driver_Magician 2.6 : sao lưu , phục_hồi driver cho các thiết_bị
+Cách sử_dụng chương_trình rất đơn_giản . Sau khi bạn chạy Driver_Magician , chương_trình sẽ dò_tìm các driver đã cài trên máy và hiển_thị trong một danh_sách . Bạn đánh_dấu chọn trước tên driver cần sao lưu , hay nhấn Select_All để chọn tất_cả . Nhấn nút Start_Backup . Chương_trình sẽ hỏi bạn muốn lưu_thông tin vào thư_mục nào , sau khi chọn xong nhấn OK .
+Vậy_là xong phần sao lưu . Để phục_hồi driver , bạn vào menu Driver_Restoration , chọn Restore from folder , sau đó chọn thư_mục chứa tập_tin đã sao lưu trước đó . Đánh_dấu check trước tên driver cần phục_hồi và nhấn nút Start_Restore để bắt_đầu phục_hồi .
+Driver_Magician 2.6 là phần_mềm thương_mại của GoldSolution , tương_thích với Windows 98 , ME , 2000 , XP , 2003 . Bạn có_thể tải tại http : / / www.drivermagician.com ( dung_lượng 3,26 MB ) hay tìm trên các CD phần_mềm tổng_hợp , có bán ngoài thị_trường .
+NGUYỄN_HỒNG_HẠNH

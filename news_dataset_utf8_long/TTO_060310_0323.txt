@@ -1,0 +1,111 @@
+﻿Làm hồ sơ đăng ký dự thi ĐH-CĐ ra sao?
+
+Hồ sơ ĐKDT thi gồm: 
+- Một túi đựng hồ sơ: mặt trước ghi các thông tin cần thiết mà TS phải điền đầy đủ; mặt sau là một số lưu ý về làm hồ sơ ĐKDT. 
+- Phiếu số 1: mặt trước có nội dung giống mặt trước của túi đựng hồ sơ; mặt sau gồm các thông tin về tên và ký hiệu các trường ĐH. 
+- Phiếu số 2: mặt trước về cơ bản giống mặt trước của túi đựng hồ sơ; mặt sau là hướng dẫn ghi phiếu ĐKDT. 
+CÁCH LÀM HỒ SƠ ĐKDT ĐH VÀ CĐ 
+1. Số phiếu (TS không ghi. Mục này do nơi thu hồ sơ ĐKDT ghi) 
+. 
+. 
+. 
+. 
+. 
+2. Trường ĐKDT 
+Tên trường: KHOA KINH TẾ (ĐHQG TP.HCM) 
+Q 
+S 
+K Ký hiệu trường 
+A 
+. Khối thi 
+4 
+0 
+7 Mã ngành 
+Lưu ý: 
+- Nếu TS có nguyện vọng 1 học tại Khoa kinh tế thì mục 3 để trống. 
+- Nếu TS có nguyện vọng học ở trường không tổ chức thi (hoặc hệ CĐ của các trường ĐH) thì phải ghi cả mục 2 và mục 3. Trong đó: 
++ Mục 2: ghi tên trường có tổ chức thi, chính là trường mà TS sẽ dự thi để có kết quả. 
++ Mục 3: ghi tên trường không tổ chức thi mà TS có nguyện vọng theo học. 
++ Khối thi ghi ở mục 2 và 3 phải giống nhau. 
+3. TS đã ĐKDT vào trường ĐH tại mục 2 nhưng có nguyện vọng học tại trường ĐH, CĐ không tổ chức thi cần khai thêm mục này: 
+Tên trường có nguyện vọng học: 
+TRƯỜNG ĐẠI HỌC DÂN LẬP VĂN LANG 
+D 
+V 
+L 
+Ký hiệu trường 
+A 
+. Khối thi 
+1 
+0 
+2 Mã ngành 
+4. Họ, tên đệm và tên của TS (viết đúng như giấy khai sinh bằng chữ in hoa có dấu) 
+LÊ ANH THI 
+0 Giới (nữ ghi 1, nam ghi 0) 
+5. Ngày, tháng và hai số cuối của năm sinh (nếu ngày và tháng sinh nhỏ hơn 10 thì ghi số 0 vào ô đầu) 
+0 
+5 
+ngày 
+0 
+6 
+tháng 
+8 
+9 năm 
+6. Nơi sinh (ghi rõ xã/phường, huyện/quận, tỉnh/TP): 
+Phường 12, quận 10, TP.HCM 
+7. Dân tộc (ghi bằng chữ vào đường kẻ chấm): Kinh 
+0 
+4 8. Thuộc đối tượng ưu tiên nào khoanh tròn vào ký hiệu của đối tượng đó : 01, 02, 03, 04, 05, 06, 07. Sau đó ghi ký hiệu vào hai ô. Nếu không thuộc diện ưu tiên thì để trống. (bôi đỏ thay cho khoanh tròn) 
+9. Hộ khẩu thường trú (số nhà, đường, xã /phường, huyện/quận, tỉnh/thành phố): 
+35 Lê Thánh Tôn, P.Bến Nghé, Q.1, TP.HCM 
+0 
+2 
+Mã tỉnh 
+0 
+1 Mã huyện 
+10. Nơi học THPT hoặc tương đương (ghi rõ họ tên trường và địa chỉ nơi trường đóng: xã/phường, huyện/quận, tỉnh/thành phố) 
+Năm lớp 10: THPT Nguyễn Khuyến, 514 Nguyễn Tri Phương, Q.10, TP.HCM. Năm lớp 11: THPT An Nhơn Tây, xã An Nhơn Tây, huyện Củ Chi, TP.HCM. Năm lớp 12: THPT An Nhơn Tây, xã An Nhơn Tây, huyện Củ Chi, TP.HCM. 
+0 
+2 
+0 
+2 
+9 
+0 
+2 
+0 
+6 
+6 
+0 
+2 
+0 
+6 
+6 
+Mã tỉnh Mã trường 
+11. Thuộc khu vực nào thì khoanh tròn vào ký hiệu của khu vực đó (trong ba năm THPT hoặc tương đương, học ở KV nào lâu hơn thì hưởng ưu tiên của KV đó) (KV1, KV2-NT, KV2 , KV3). (bôi đỏ thay cho khoanh tròn) 
+2 
+0 
+0 
+6 12. Năm tốt nghiệp THPT hoặc tương đương (ghi đủ bốn chữ số của năm tốt nghiệp vào ô) 
+13. Nơi nộp hồ sơ ĐKDT : 
+Trường THPT An Nhơn Tây 
+6 
+6 Mã đơn vị ĐKDT 
+. 14 . Thí sinh dự thi tại Vinh thì ghi V, tại Cần Thơ ghi C, tại Qui Nhơn ghi Q vào ô (nếu không thì để trống) 
+15. Giấy chứng minh số (ghi mỗi số vào một ô): 
+9 
+0 
+5 
+3 
+2 
+9 
+0 
+5 
+6 
+16. Gửi giấy báo dự thi, giấy chứng nhận kết quả thi, phiếu báo điểm thi cho ai, theo địa chỉ nào? 
+Lê Văn Khoa, 35 Lê Thánh Tôn, Q.1 (nhờ chuyển Lê Anh Thi). Điện thoại liên hệ (nếu có) 8229817. 
+Tiếp theo, để hoàn tất hồ sơ, TS cần ghi rõ ngày tháng năm làm hồ sơ, ký tên, dán ảnh 4x6 và có xác nhận của trường (nếu đang là HS, SV) hoặc của công an xã/phường. 
+Hồ sơ hoàn tất gồm: 
+- Túi đựng hồ sơ có dán ảnh và đóng dấu giáp lai, phiếu số 1 và phiếu số 2 (đã điền đủ thông tin). - Ba ảnh chân dung cỡ 4x6 mới chụp trong vòng sáu tháng (ghi rõ họ tên, ngày tháng năm sinh, mã trường và ngành dự thi vào mặt sau của các tấm ảnh), để vào phong bì nhỏ. - Ba phong bì có dán tem và ghi rõ tên, địa chỉ người nhận (địa chỉ này nên giống với mục 16). - Bản sao các giấy chứng nhận hợp pháp nếu là đối tượng ưu tiên (con liệt sĩ, con thương binh...). 
+- Đối với TS có NV1 học tại các trường ĐH, CĐ không tổ chức thi tuyển sinh hoặc hệ CĐ của các trường ĐH, hồ sơ có thêm bản photocopy mặt trước phiếu ĐKDT số 1 . Bản photocopy này sẽ được các sở GD-ĐT chuyển cho các trường không tổ chức thi cùng với ảnh và địa chỉ đã dán tem sẵn của TS để các trường này có đầy đủ thông tin của TS như những trường tổ chức thi.
+
+TS LÊ THỊ THANH MAI ( Ban đào tạo ĐH Quốc gia TP.HCM )

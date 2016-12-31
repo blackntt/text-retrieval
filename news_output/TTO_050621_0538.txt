@@ -1,0 +1,4 @@
+﻿ Thêm một chương_trình liên_kết đào_tạo ĐH
+Đối_tượng tuyển_sinh là những học_sinh tốt_nghiệp THPT với điểm trung_bình của bốn môn cao nhất trong sáu môn thi đạt 8 điểm trở_lên hoặc thí_sinh đã trúng_tuyển vào các trường ĐH năm 2005 , sinh_viên các ngành kinh_tế , quản_lý ở các trường ĐH , đạt điểm TOEFL tối_thiểu là 550 hay tương_đương . Thời_gian học của chương_trình này kéo_dài trong ba năm .
+Tùy theo yêu_cầu , sinh_viên có_thể học toàn_bộ chương_trình tại VN hoặc học một năm tại VN và hai năm cuối tại Úc . Tất_cả các bài giảng , bài_tập và bài thi đều thực_hiện bằng tiếng Anh .
+H.THU ẬT

@@ -1,0 +1,11 @@
+﻿Trợ giúp việc học của bệnh nhân bằng robot
+
+Achim Nurse đang điều trị tại bệnh viện Nhi đồng Blythedale (Valhalla, bắc TP New York) tham gia lớp học với sự trợ giúp của robot. Hình ảnh Achim được hiển thị trên màn hình của robot "bà Candy" 
+TTO - Mặc dù nằm liệt giường trong bệnh viện nhưng cậu bé Achim, 13 tuổi, vẫn không bỏ lỡ việc học ở trường. Achim đã sử dụng 1 cặp robot gọi là "ông Spike" ở bên cạnh cậu bé và "bà Candy" ở trong lớp học nhằm đảm bảo việc học trên lớp trong những tháng điều trị tại bệnh viện. 
+Hai robot này, mỗi robot có cái đầu hình tròn với 1 màn hình hiển thị. Với sự giúp đỡ của 2 robot, Achim có thể tiếp tục học trên lớp và giao tiếp với bạn bè xung quanh mặc dù vẫn nằm trong bệnh viện. 
+Robot "bà Candy" có mặt ở trường, được xem như là một hình nhân của Achim và tham dự lớp học thay cậu bé. Nó có thể di chuyển trong lớp học bằng 4 bánh xe và có thể đứng lại để nói chuyện với người xung quanh. Còn robot "ông Spike" ở bên cạnh Achim sẽ đưa cho cậu bé những video trực tiếp từ lớp học của cậu. Cậu bé có thể nhìn thấy giáo viên, bàn giáo viên và bảng đen. 
+Achim cũng có thể phóng đại tầm nhìn nếu cậu cần đọc những thông tin trên bảng. Cậu bé cũng có thể điều chỉnh hướng đầu của robot nếu cậu bé muốn nói chuyện với bạn trong lớp cũng như điều chỉnh âm lượng để nghe giáo viên nói tốt hơn. Tất cả các công việc này đều thông qua một bộ điều khiển cầm tay giống như cậu ta đang chơi trò chơi điện tử. Do robot liên lạc qua mạng Internet nên những ngôi trường học này có thể không nằm gần khu vực bệnh viện. 
+Ông Andrew Summa, giám đốc dự án robot quốc gia nói: “Robot có thể bao quát lớp học giống như học sinh đang tham dự mặc dù học sinh này đang điều trị y tế. Cậu bé có thể đang điều trị ở New York nhưng lớp học có thể ở New Zealand". 
+Robot này được phát triển bởi công ty Telbotics với sự trợ giúp của Đại học Toronto (Canada). Hiện nay đã có 40 robot sử dụng trong các bệnh viện với giá bán 70.000 USD/1 cặp.
+
+T.VY (Theo CBS News)

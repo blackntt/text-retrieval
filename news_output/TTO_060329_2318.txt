@@ -1,0 +1,8 @@
+﻿ Bản cập_nhật lỗi bảo_mật nguy_hiểm của IE
+eEye Digital_Security nhận thấy tình_trạng khẩn_cấp và mức_độ nguy_hại của lỗi bảo_mật trong việc xử_lý của phương_thức “ creatTextRange ( ) ” thực_thi trên một nút radio điều_khiển từ trình_duyệt Internet_Explorer nên đã phát_hành ngay một bản vá lỗi riêng của mình .
+Lỗi này có_thể bị khai_thác bởi một website chứa đoạn mã độc làm nguy_hại đến bộ_nhớ_trong một cách_thức cho_phép dung_lượng chương_trình hoạt_động chuyển_hướng đến một số_lượng khổng_lồ , dẫn đến quá_tải . ( theo dạng tấn_công từ_chối dịch_vụ - Distributed_Denial of Service – DDoS ) .
+eEye Digital đã nhận được những thông_báo về việc những website khai_thác lỗi bảo_mật này nhằm vào các âm_mưu trục_lợi như cài_đặt spyware và cài những “ robot ” ( máy bị chiếm quyền điều_khiển ) để tấn_công từ_chối dịch_vụ .
+Được “ sản_sinh ” bởi Bugzilla , Microsoft công_bố “ Ngày thứ_sáu ” với cơ_sở_dữ_liệu lỗi bảo_mật từ trình_duyệt Internet_Explorer của mình , có_thể truy_cập với một tài_khoản Passport . Dịch_vụ đang trong giai_đoạn thử_nghiệm .
+Theo Computer World , đây không phải là lần đầu_tiên mà người dùng Internet_Explorer phải tải về các bản cập_nhật vá lỗi từ các hãng thứ_ba . Vào tháng 12 năm_ngoái , Ilfak_Guilfanov , một lập_trình_viên của DataRescue SA đã phát_hành một bản cập_nhật trước khi Microsoft đưa ra bản chính_thức .
+Người dùng có_thể tải về bản cập_nhật này hoàn_toàn miễn_phí tại đây . Lỗi ảnh_hưởng đến các phiên_bản hệ_điều_hành Windows NT 4.0 , 98 / ME , 2000 SP4 , XP_SP1 / SP2 , Windows 2003 và các bản Internet_Explorer 5.01 SP4 , IE 6 , IE 6 SP1 , SP2 ( trong Windows XP_SP2 ) . Thông_tin thêm có_thể tham_khảo trên e Eye_Digital .
+THANH_TRỰC

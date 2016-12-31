@@ -1,0 +1,10 @@
+﻿Trojan làm “gián điệp” trên ĐTDĐ
+
+Công ty bảo mật F-Secure vừa khuyến cáo người dùng về một chương trình nguy hiểm tự động cài đặt vào điện thoại Symbian người dùng để kiểm soát cuộc gọi và tin nhắn. Chương trình này phục vụ mục đích theo dõi người bạn đời hoặc con cái. 
+ Con Trojan Flexispy.A ghi lại thông tin về các cuộc gọi, tin nhắn của nạn nhân, sau đó gửi dữ liệu đến một máy chủ, theo công ty bảo mật F-Secure. 
+“Điều đáng nói là Flexispy.A là một con Trojan được một công ty viết nên với mục đích thương mại. Công ty này khẳng định Flexispy không phải là Trojan”, đại diện F-Secure nói. “Rõ ràng, nó là công cụ hữu ích để theo dõi sự không chung thủy của vợ chồng”. 
+Tuy nhiên, ứng dụng này tự động cài đặt và người dùng không hề hay biết. F-Secure lo ngại Flexispy.A sẽ bị phần mềm ma lợi dụng để thanh toán cước phí cuộc gọi, hoặc bị tin tặc cài đặt vào các điện thoại bật chức năng Bluetooth. 
+Công ty bảo mật khuyến cáo rằng việc sử dụng chương trình này có thể sẽ vi phạm luật pháp của nhiều nước. “Theo dõi lịch trình liên lạc cá nhân là bất hợp pháp ở hầu hết các nước trên thế giới”. 
+Website rao bán phần mềm FlexiSpy phân bua, việc sử dụng ứng dụng này là bất hợp pháp nhưng nó có thể giảm nhẹ gánh nặng về tâm lý cho người dùng. “Sử dụng thiết bị theo dõi, can thiệp hoặc ghi lại đàm thoại qua điện thoại mà không được sự đồng tình của các bên liên quan có thể là phạm pháp ở nước bạn. Hãy hiểu luật pháp ở nước mình trước khi mua sản phẩm của chúng tôi”, website FlexiSpy.com rào trước. 
+Trojan Flexispy.A cài đặt bằng gói chuẩn SIS và khi cài đặt, ứng dụng sử dụng tên “phone”. Sau khi đã cài xong, phần mềm sẽ ở trạng thái ẩn và khóa file để không bị nạn nhân gỡ bỏ. 
+N.Hương Theo VNuNet

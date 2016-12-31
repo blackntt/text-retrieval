@@ -1,0 +1,9 @@
+﻿Ăn cắp hơn 1 triệu Euro nhờ keylogger!
+
+Tờ The Guardian cho biết rằng băng nhóm hacker cao tay này không hiểu bằng cách nào đã cài đặt thành công một chương trình ghi nhận hoạt động bàn phím (Keylogger) vào một máy tính của ngân hàng Pháp kể trên, và chương trình keylogger này cứ thế đều đặn gửi toàn bộ mọi dữ liệu tài chính như mã hiệu tài khoản, mật mã đăng nhập v.v về cho chủ nhân của nó. 
+Các nhân viên điều tra cho nhận định rằng nhân viên ngân hàng sử dụng máy tính bị nhiễm keylloger này đã “vô tình” mở ra một e-mail lừa đảo có con trojan chuyên cài đặt keylogger vào máy tính nạn nhân. Thật “vừa khéo” khi chương trình keylogger này lại do băng nhóm hacker Nga – Ukraina này thiết kế nên. 
+Nhóm hacker Nga – Ukraina này đã sử dụng các thông tin tài khoản ăn cắp được để rút tiền ra dần từ các tài khoản. Số tiền rút ra được chuyển vào một tài khoản trung gian nào đó và chủ nhân của tài khoản trung gian này lại tiếp tục chuyển tiền đến tài khoản của một công ty ma mang tên World Transfer. Đa số chủ nhân của các tài khoản trung gian đều không biết số tiền mình nhận được là tiền ăn cắp, họ cứ việc nhận rồi lại tiếp tục chuyển tiền đi để ăn tiền hoa hồng từ 5 đến 10%. 
+Cảnh sát Pháp đã kết hợp với cảnh sát Nga điều tra thành công và tóm cổ được hầu hết băng đạo chích kỹ thuật số này. Đã có khoảng 12 người Nga và một số người Ukraina bị bắt tại Moscow và St Petersburg. 
+Vụ việc đã manh nha từ tháng 11-2004 khi một khách hàng của ngân hàng Pháp này thông báo rằng một số tiền khá lớn từ tài khoản của anh ta đã không cánh mà bay. Trong 11 tháng kể từ khi cài đặt thành công con keylogger, nhóm hacker trên đã rút ra được tổng cộng trên 1 triệu Euro.
+
+HOÀNG KIM ANH (Theo ZDNet, The Guardian)

@@ -1,0 +1,5 @@
+﻿Công cụ bảo vệ dữ liệu nhạy cảm
+
+Ngoài tính năng mã hóa và giải mã file như thường thấy ở các phần mềm cùng loại, ZFC còn cho phép bạn giải mã trực tiếp vào bộ nhớ để xem tạm. Với chức năng này, dữ liệu được bảo vệ tối đa vì sau khi tắt chương trình, dữ liệu được giải mã cũng biến mất chứ không lưu lại trên đĩa cứng. ZFC còn có chức năng xóa dữ liệu không thể phục hồi (wipe file), rất cần thiết trong trường hợp bạn cần xóa dữ liệu quan trọng có thể bị xem trộm. Loại: miễn phí. Dung lượng: 3,1MB. Địa chỉ tải: http://users.hol.gr/~katkon/files/zero_footprint_setup.exe
+
+NGUYỄN NGÔ TRUNG HIẾU

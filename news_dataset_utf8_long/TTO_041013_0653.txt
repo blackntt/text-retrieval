@@ -1,0 +1,10 @@
+﻿BS Vũ Mạnh Tiến và phần mềm Medisoft 2003
+
+Làm thế nào có thể quản lý những thông tin ở các bệnh viện: bệnh nhân, bệnh án, phương pháp điều trị... và hệ thống hóa tất cả thông tin này trong một phầm mềm để dễ quản lý hơn. Từ ý tưởng này, BS Vũ Mạnh Tiến đã bắt tay xây dựng một phần mềm để quản lý những thông tin này. 
+Năm 1997, BS Tiến thành lập Công ty Toàn Cầu với sự hỗ trợ tư vấn của một người quen ở nước ngoài để thực hiện ý tưởng này. Chẳng may thời gian sau người hỗ trợ này qua đời nên mọi việc BS Tiến phải làm một mình. 
+“Lúc đó điều tôi lo lắng nhất là không biết phải dùng công nghệ gì để tiếp tục dự án mà mình đã ấp ủ, rồi cũng có lúc tưởng chừng phải ngưng dự án vì đầu tư vượt quá nguồn tài chính cho phép” - BS Tiến nhớ lại. Gần như nguồn tài chính thu được ở phòng mạch ông đều dồn hết cho dự án phần mềm. Lúc đó mỗi ngày BS Tiến chỉ ngủ 4-5 tiếng đồng hồ. Đến năm 1999, phần mềm “Quản lý báo cáo thống kê và hồ sơ bệnh án” hoàn tất. 
+Từ khi ra đời đến năm 2001 phần mềm này đã được giới thiệu tại 20 bệnh viện và dự án triển khai tại Bệnh viện gang thép Thái Nguyên, theo BS Tiến, là thành công nhất. “Đây có thể coi là bệnh viện gần như không cần dùng đến giấy tờ cho việc theo dõi bệnh tật, thậm chí ngay cả việc cấp phát thuốc, kê toa... tất cả đều được triển khai trên mạng”. 
+Lúc này Bộ Y tế đã bắt đầu quan tâm đến dự án của ông. Ngày 19-8-2004 vừa qua, phần mềm với tên gọi Medisoft 2003 được Bộ Y tế công nhận là phầm mềm chuẩn để áp dụng cho toàn bộ các hệ thống bệnh viện ở VN. 
+Với phần mềm Medisoft 2003 và sự hỗ trợ của Hãng Intel, doanh nhân Vũ Mạnh Tiến (lúc này đã thôi không làm ở bệnh viện nữa) rong ruổi hết bệnh viện này đến bệnh viện khác triển khai lắp đặt, hướng dẫn sử dụng phần mềm mới... hoàn toàn miễn phí. Đến nay đã có khoảng 500 phần mềm Medisoft được triển khai ở các bệnh viện ở VN.
+
+LÊ NAM

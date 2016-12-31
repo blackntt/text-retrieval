@@ -1,0 +1,6 @@
+﻿ Windows_Vista_Beta 2 đã sẵn_sàng
+Microsoft đã công_bố bản thử_nghiệm Beta 2 của Windows_Vista với 3 ngôn_ngữ đầu_tiên là Anh , Đức và Nhật , bao_gồm đầy_đủ các phiên_bản 32 và 64 bit . Dung_lượng tải về quả_thật là lớn , chẳng_hạn phiên_bản tiếng Anh 32 bit có dung_lượng đến những 3,13 GB .
+Nếu người dùng không đủ kiên_nhẫn để tải về thì có_thể đặt mua với Microsoft các bản thử_nghiệm đã đánh sẵn trên đĩa DVD với giá là 6 USD/đĩa , chưa tính giá cước bưu_điện .
+Để cài_đặt thành_công được bản thử_nghiệm này cũng khá nhiêu_khê . Sau khi tải về hoàn_tất bằng các bản Windows đã được Microsoft chứng_thực bản_quyền hợp_pháp , người dùng cần phải ghi toàn_bộ nội_dung của bản tải về lên đĩa DVD sau đó tiến_hành cài_đặt . Mã khoá cài_đặt sẽ được Microsoft gửi cho người tải sau khi xác_thực bản_quyền của bản Windows dùng để tải Windows_Vista về . Để hỗ_trợ cho mọi người tải về , Microsoft đã sử_dụng các công_nghệ lưu_trữ và hỗ_trợ tải file hiệu_quả của Akamai_Technologies , đối_tác thân_thiết của Microsoft .
+Những_ai quan_tâm và muốn sử_dụng thử Windows_Vista_Beta 2 có_thể vào đây để tải về và cài_đặt theo các hướng_dẫn chi_tiết của Microsoft .
+HOÀNG_HẢI ( TechWeb )

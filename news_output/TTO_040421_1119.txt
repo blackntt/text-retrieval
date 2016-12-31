@@ -1,0 +1,7 @@
+﻿ Một chương_trình ẩn rất hay trong Win XP
+Bạn có_thể vào đó để chạy hay vào Run , nhập tên file đó vào rồi Enter , sẽ hiện ra một giao_diện của chương_trình PCE như trong hình . Chương_trình này có một_số chức_năng sau đây :
+- Tạo một ký_tự bất_kỳ ( để làm logo cho riêng mình ) .
+- Sao_chép , sửa_chữa ký_tự .
+- Vẽ một hình đặc_biệt để gắn vào bộ font Unicode nào_đó đã cài trong Win XP . Như_vậy bộ font chữ của bạn sẽ không bao_gồm các ký_tự thông_thường mà_còn có các ký_tự đặc_biệt đó nữa .
+- Bạn cũng có_thể dùng nó để tạo riêng cho mình một bộ font Unicode dành riêng cho bạn hay để tặng ban bè dùng chơi !
+Theo LBVMVT

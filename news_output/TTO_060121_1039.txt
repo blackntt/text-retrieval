@@ -1,0 +1,5 @@
+﻿ F-Secure phát_hành bản vá lỗi bảo_mật
+Lỗi bảo_mật nghiêm_trọng này nằm trong phần quét virus , dò_tìm mã độc_hại từ các tập_tin nén định_dạng ZIP , RAR có_thể cho_phép hacker chạy các đoạn mã lệnh nguy_hiểm qua các tập_tin nén ZIP hay RAR có chứa chương_trình nguy_hiểm , dẫn đến nguy_cơ tràn bộ đệm cho các hệ_thống sử_dụng cả Windows lẫn Linux .
+Lỗi này ảnh_hưởng đến hầu_hết các phần_mềm diệt virus của F-Secure từ năm 2004 cho_đến 2006 như F-Secure Internet_Security , F-Secure Anti-Virus , F-Secure Personal_Express v6.20 trở_về trước .
+F-Secure khuyến_cáo người dùng nên cập_nhật ngay bản vá lỗi cho sản_phẩm đang sử_dụng trên máy của mình . Thông_tin chi_tiết và tải bản cập_nhật tại đây .
+THANH_TRỰC

@@ -1,0 +1,15 @@
+﻿Internet đi về đâu?
+
+Tuy nhiên, thống kê của Trung tâm Internet VN (VNNIC) cho thấy vẫn còn khoảng 85% người dân ở nông thôn gần như chưa biết Internet là gì. Vì sao vậy? Các chuyên gia Internet tham gia hội thảo chính sách và phát triển Internet do GIPI (Sáng kiến chính sách Internet toàn cầu) tổ chức trong hai ngày 18 và 19-12 tại TP Huế đã giải đáp câu hỏi này. 
+Theo ông Nguyễn Quang A, chủ nhiệm bộ môn công nghệ thông tin (Đại học Sư phạm Hà Nội), lý do là 90% nội dung trên Internet bằng tiếng Anh nên vô tình đã tạo thành một rào cản đối với đa số người dân tiếp cận Internet. 
+Sự nghèo nàn thông tin tiếng Việt trên Internet được ông A lý giải là do sự quản lý quá chặt với việc lập website đã không tạo ra được sự bùng nổ số lượng website tại VN, ước tính chỉ có khoảng một nửa website được thiết lập trong tổng số hơn 8.400 tên miền.vn (tên miền quốc gia) đã được VNNIC cấp. 
+Điều này không hoàn toàn phản ánh tình trạng thờ ơ của người VN với tên miền quốc gia, bởi trên thực tế có rất nhiều người VN đã đăng ký tên miền nhưng tiếc thay lại không phải là tên miền.vn. Cụ thể có khoảng 9.000 người VN đăng ký tên miền.com và khoảng 4.000 người đăng ký tên miền của các quốc gia khác. 
+Lý do dẫn tới thực trạng đáng buồn này là ngoài những bất cập trong việc lập website còn do thủ tục đăng ký tên miền.vn rườm rà, chưa chấp nhận đăng ký qua mạng và mạng lưới cung cấp tên miền còn mỏng, chỉ có duy nhất một tổ chức cung cấp tại nước ngoài. 
+Trở lại với việc xin cấp phép lập website, thống kê cho thấy trong số các tên miền đã thiết lập website, chỉ có khoảng 20% xin phép Bộ Văn hóa - thông tin. Như vậy, đã xảy ra một thực tế là có qui định chế tài nhưng tình trạng vi phạm pháp luật vẫn diễn ra, còn cơ quan quản lý thì làm ngơ. 
+Theo một chuyên gia của VNNIC, không nhất thiết phải có một qui định về việc cấp phép lưu hành thông tin trên mạng Internet mà chỉ cần thiết lập các qui định về trình tự, thủ tục và nội dung thông tin được cung cấp trên mạng là đủ. 
+Không chỉ bất cập trong việc cấp phép lập website và đăng ký tên miền.vn, các văn bản về Internet cũng tỏ ra “hà khắc” đối với người dùng Internet mà theo ông Nguyễn Quang A, những văn bản đó chưa thật sự lấy tiêu chí phục vụ người dùng làm chính. 
+Ông A cho rằng việc Bộ Công an qui định đại lý Internet phải lập sổ đăng ký sử dụng dịch vụ, trong đó thống kê đầy đủ, chi tiết thông tin về khách hàng (tên, địa chỉ, số chứng minh nhân dân...) là bất khả thi. Ngoài qui định của Bộ Công an, dự thảo về quản lý đại lý Internet liên bộ Bưu chính - viễn thông, Kế hoạch - đầu tư, Văn hóa - thông tin, Công an đang lấy ý kiến công luận cũng qui định vấn đề này. 
+Ông A kết luận: “Qui định đó cản trở hoạt động kinh doanh, không giúp gì cho cơ quan quản lý, chỉ gây tác hại và vì bất khả thi nên chẳng ai thực hiện mà còn biến người dân thành coi thường pháp luật”. 
+Một số chuyên gia cho rằng thay vì qui định như trên, nên có biện pháp tuyên truyền, giáo dục để các đại lý Internet có giải pháp ngăn chặn khách hàng thực hiện hành vi vi phạm pháp luật, đồng thời có chế tài xử phạt các đại lý dung túng cho khách hàng thực hiện các hành vi đó.
+
+KHIẾT HƯNG

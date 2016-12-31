@@ -1,0 +1,9 @@
+﻿Windows XP được trang bị phần mềm nghe nhạc của Vista
+
+Tuy phải đến đầu 2007 Microsoft mới chính thức ra mắt hệ điều hành thế hệ mới, người sử dụng vẫn có thể thử trước một số tính năng của gói ứng dụng nghe nhìn Media Player 11 (tích hợp trong của Windows Vista) bắt đầu từ tháng 6.
+
+ Phần mềm mới này sẽ mang đến khả năng đồng bộ hài hòa hơn giữa máy tính và các thiết bị di động, sắp xếp thư viện nhạc (library) một cách khoa học và kết hợp chặt chẽ với Urge - dịch vụ thuê bao nhạc mà Microsoft phát triển cùng MTV Networks. Urge là niềm hy vọng của Microsoft nhằm cạnh tranh mạnh mẽ hơn với bộ đôi iTunes - iPod của Apple. 
+Với Media Player 11 trong Windows XP, khách hàng có thể "đồng bộ ngược", tức gửi nội dung từ một thiết bị kỹ thuật số (như điện thoại camera, máy ảnh...) tới máy tính. Các file Windows Media cũng được nén với dung lượng nhỏ hơn để phù hợp nghe trên máy cầm tay. 
+Tuy nhiên, phần mềm nghe nhìn này không cho phép chuyển đổi những bài hát (track) Windows Media thành định dạng FairPlay độc quyền của Apple. Do đó, các track được mua tại kho nhạc Windows Media sẽ không thể phát trên máy MP3 phổ biến iPod. 
+Media Player 11 cũng được thiết kế lại với giao diện mới. Thư viện nhạc không còn là một danh sách dài các bài hát mà được sắp xếp theo album. Khả năng tìm kiếm nhanh cho phép người sử dụng lấy bất cứ bài nào họ muốn mà chỉ cần gõ vài chữ cái - một phương pháp phổ biến của kho nhạc trực tuyến Apple iTunes. 
+Theo T.N. VnExpress/CNet

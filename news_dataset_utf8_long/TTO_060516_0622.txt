@@ -1,0 +1,7 @@
+﻿Robot cá bơi bằng vây đầu tiên trên thế giới
+
+Đây là sản phẩm của các giáo sư và sinh viên trường ĐH Kỹ thuật Nanyang (Singapore). Để cho ra đời chú robot cá biết bơi bằng vây, họ phải mất 2 năm nghiên cứu và chế tạo. 
+Chú robot thân thiện với môi trường này có thể bơi yên tĩnh ở dưới nước, tuy không nhanh như các robot sử dụng chân vịt thông thường. Các nhà nghiên cứu hy vọng sẽ tiến hành nhiều cuộc nghiên cứu hơn nữa để một ngày nào đó cá robot bơi bằng vây sẽ thay cho cá robot sử dụng chân vịt. 
+Họ hy vọng sản phẩm thông minh này có thể được dùng trong việc giám sát, theo dõi, thăm dò các mỏ, vẽ bản đồ đáy biển hoặc nghiên cứu sinh vật học bằng cách trang bị cho nó các camera hay các compa.
+
+KIM NHUNG (Theo Xinhua)

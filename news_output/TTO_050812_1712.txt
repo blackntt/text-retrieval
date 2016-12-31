@@ -1,0 +1,190 @@
+﻿ Điểm_chuẩn Trường ĐH Sư_phạm kỹ_thuật TP.HCM
+Điểm_chuẩn này áp_dụng cho các thí_sinh thuộc khu_vực III , nhóm đối_tượng 3 ( HSPT ) . Mức chênh_lệch điểm trúng_tuyển giữa các nhóm đối_tượng là 1,0 điểm và giữa các khu_vực kế_tiếp là 0,5 điểm . Ngoài_ra , ngành Thiết_kế thời_trang ( 303 ) : môn Vẽ trang_trí ( môn 3 ) tính hệ_số 2 .
+Theo đó , điểm_chuẩn và số_lượng thí_sinh trúng_tuyển nguyện_vọng 1 ; điểm xét tuyển và chỉ_tiêu xét tuyển nguyện_vọng 2 vào các ngành ĐH của Trường ĐH Sư_phạm kỹ_thuật TP.HCM như sau :
+STT
+Ngành đào_tạo
+Mã ngành
+Nguyện_vọng 1
+Nguyện_vọng 2
+Điểm_chuẩn
+Số_lượng
+Điểm xét tuyển
+Chỉ_tiêu
+( 1 )
+( 2 )
+( 3 )
+( 4 )
+( 5 )
+( 6 )
+( 7 )
+1 .
+Kỹ_thuật điện - điện_tử
+101
+20
+201
+2 .
+Điện_khí_hóa và cung_cấp điện
+102
+18
+157
+3 .
+Cơ_khí chế_tạo_máy
+103
+20
+174
+4 .
+Kỹ_thuật công_nghiệp
+104
+17
+77
+18
+23
+5 .
+Cơ điện_tử
+105
+17
+124
+6 .
+Công_nghệ tự_động
+106
+18
+82
+7 .
+Cơ tin kỹ_thuật
+107
+17
+49
+18
+35
+8 .
+Thiết_kế máy
+108
+17
+25
+18
+60
+9 .
+Cơ_khí động_lực ( Cơ_khí ô_tô )
+109
+18,5
+143
+10 .
+Kỹ_thuật nhiệt – Điện_lạnh
+110
+17
+76
+11 .
+Kỹ_thuật In
+111
+17
+79
+18
+40
+12 .
+Công_nghệ_thông_tin
+112
+18
+167
+13 .
+Công_nghệ cắt may
+113
+17
+112
+14 .
+Xây_dựng dân_dụng và công_nghiệp
+114
+19
+84
+15 .
+Công_nghệ môi_trường
+115
+17
+53
+18
+17
+16 .
+Công_nghệ Điện_tử viễn_thông
+116
+17
+91
+17 .
+Công_nghệ điện tự_động
+118
+17
+63
+18 .
+Công_nghệ thực_phẩm
+200
+19
+87
+19 .
+Kỹ_thuật nữ_công
+301
+15
+24
+16
+26
+20 .
+Thiết_kế thời_trang
+303
+20
+83
+Cộng
+1.951
+201
+Điểm_chuẩn và số_lượng thí_sinh trúng_tuyển nguyện_vọng 1 ; điểm xét tuyển và chỉ_tiêu xét tuyển nguyện_vọng 2 vào các ngành trình_độ Cao_đẳng của Trường ĐH Sư_phạm kỹ_thuật TP.HCM trong kỳ thi_tuyển sinh ĐH ( khối A và V ) năm 2005 như sau :
+STT
+Ngành đào_tạo
+Mã ngành
+Nguyện_vọng 1
+Nguyện_vọng 2
+Điểm_chuẩn
+Số_lượng
+Điểm xét tuyển
+Chỉ_tiêu
+( 1 )
+( 2 )
+( 3 )
+( 4 )
+( 5 )
+( 6 )
+( 7 )
+1 .
+Kỹ_thuật điện – điện_tử
+C65
+12
+4
+13
+65
+2 .
+Điện_khí_hóa và cung_cấp điện
+C66
+12
+2
+13
+67
+3 .
+Cơ_khí chế_tạo_máy
+C67
+12
+2
+13
+67
+4 .
+Cơ_khí động_lực ( Cơ_khí ô_tô )
+C68
+12
+2
+13
+67
+5 .
+Công_nghệ cắt may
+C69
+12
+7
+13
+62
+Cộng
+17
+328
+QUỐC_DŨNG

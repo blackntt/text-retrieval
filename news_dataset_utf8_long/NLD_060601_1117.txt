@@ -1,0 +1,7 @@
+﻿Robot tắc kè!
+
+Robot Stickybot - Ảnh: Trường ĐH Stanford Một chú robot trông giống tắc kè với những ngón chân bám dính vào tường có thể chạy vụt lên một bức tường gần bạn. Bạn có tin không?
+Robot tắc kè có thể trèo lên tường và đi qua trần nhà nhờ hàng triệu chiếc lông cứng nhỏ xíu trên bề mặt chân nó. Mỗi chân của robot bị hút vào tường bởi một lực gian phân tử được gọi là lực van der Waals, cho phép chân robot bám chặt vào tường. 
+Robot có tên Stickybot này do Mark Cutkosky và nhóm nghiên cứu tại Trường ĐH Stanford ở California chế tạo. Chân của Stickybot có nhiều chiếc lông nhân tạo được làm từ một chất đàn hồi, đảm bảo cho khu vực tiếp xúc rộng lớn giữa chân robot và tường. Lầu năm góc rất thích thú trong việc phát triển những đôi giày và găng tay phục vụ cho leo trèo khéo léo như tắc kè. Cutkosky nói một kiểu robot như Stickybot cũng có thể được dùng để khám phá các hành tinh hay phục vụ như robot giải cứu.
+
+Theo Tuổi Trẻ

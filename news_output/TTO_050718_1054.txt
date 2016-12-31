@@ -1,0 +1,11 @@
+﻿ Vụ_kiện tranh_chấp bản_quyền phần_mềm đầu_tiên
+Hội_đồng chuyên_môn được thành_lập gồm đại_diện Sở Khoa học - Công_nghệ TPHCM , Hội_Tin học TPHCM , Hội_Sở hữu trí_tuệ TPHCM và Cục bản_quyền tại TPHCM .
+Theo trình_bày của nguyên_đơn ( Công_ty Định_Gia ) thì : Năm 1998 , công_ty có viết phần_mềm sản_phẩm về kế_toán mang tên Lemon3 và sau đó một năm đã đăng_ký nhãn_hiệu . Phiên_bản mới nhất của Lemon3 là version 3.21.00 ngày 19-6-2004 .
+Năm 2002 , Định_Gia ký hợp_đồng lao_động với 2 ông Hoàng_Tấn_Tài và Võ_Thành_Nghi_Vũ .
+Tháng 10-2003 , Định_Gia phát_hiện hệ_thống bảo_mật của công_ty bị xâm_nhập và phát_hiện có sự phân_quyền của ông Hoàng_Tấn_Tài mà không được sự chấp_thuận của Ban giám_đốc công_ty .
+Đến tháng 11-2003 , ông Hoàng_Tấn_Tài và Võ_Thành_Nghi_Vũ thành_lập công_ty riêng mang tên P . C . I . Công_ty này đã viết phần_mềm Lever4 với nội_dung giống như phần_mềm Lemon3 của Công_ty Định_Gia ( đối_chiếu với tài_liệu quảng_cáo tại Hội_chợ Softmart ) và đem bán với giá rẻ . Năm 2004 , Lever 4 tham_gia Hội_chợ Softmart và đoạt Cúp_Vàng .
+Trong khi đó , phía bị_đơn , Công_ty P . C . I thì cho rằng phần_mềm Lever 4 do mình viết ra và cũng đã đăng_ký nhãn_hiệu .
+Theo P . C . I , về cơ_bản , tất_cả các phần_mềm viết về kế_toán phải tuân theo những chuẩn_mực và nguyên_tắc chung về tài_chính kế_toán và những giải_pháp kỹ_thuật của tin_học nên việc giống nhau về nghiệp_vụ và thao_tác là chuyện bình_thường .
+Theo thẩm_phán Phạm_Xuân_Thọ , Chánh tòa Kinh_tế Toà_án nhân_dân TPHCM , đây là vụ_kiện tranh_chấp bản_quyền phần_mềm đầu_tiên ở phía Nam .
+Với tính_chất tranh_chấp trong kinh_doanh thương_mại nên thuộc thẩm_quyền giải_quyết của Tòa_án nhân_dân TPHCM . Tại cuộc họp ngày 15-7-2005 giữa Tòa_án nhân_dân TPHCM và các cơ_quan hữu_quan , Hội_Tin học TPHCM cho rằng việc giải_quyết tranh_chấp giữa Công_ty Định_Gia và Công_ty P . C . I theo thủ_tục tòa_án là cần_thiết .
+Theo Tiền_Phong

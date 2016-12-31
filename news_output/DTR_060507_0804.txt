@@ -1,0 +1,33 @@
+﻿ Những nguyên_nhân béo phì
+Nhân_loại cả thế_giới đang “ tròn ” dần . Vẫn biết 95% nguyên_nhân là do thói_quen ăn_uống và lối sống nhưng để thay_đổi lại là vấn_đề cực_kỳ khó_khăn . Tuy_nhiên , những quan_niệm của bạn về béo phì có đúng_đắn ?
+1.Có yếu_tố di_truyền trong béo phì không ?
+Có . Bạn thường thấy có những trẻ ăn rất nhiều mà vẫn gày_gò , trong khi cùng lượng thức_ăn như_thế thì trẻ kia béo phì . Bạn sẽ cho rằng ông trời như_thế là không công_bằng . Cũng chả nên trách ông trời bởi sự háu ăn_ở một_số trẻ lại liên_quan đến vấn_đề di_truyền .
+Năm 1994 bác_sĩ Jeffrey_Fridman ( Đại_học Rockefeller ở New_York ) khám_phá ra một gien gọi_là OB ở loài chuột béo phì . Tại mô mỡ của loài chuột này xuất_hiện chất có tên là leptin , một protein gồm 146 acid_amin được gọi_là hormon điều_chỉnh cân nặng . Leptin làm nhiệm_vụ truyền lên não thông_tin về sự no , thiếu leptin con vật ăn mãi mà không có cảm_giác no gây ra béo phì . Vài tháng sau đó cũng nhóm nghiên_cứu này tìm được gien tương_ứng ở người , cũng gọi_là OB , nằm ở nhiễm_sắc_thể số 7 .
+Thế_rồi khi định_lượng leptin ở những người bị béo phì người_ta thấy nồng_độ chất này tăng cao . Điều này có 2 lý_do : hoặc là sự suy_giảm những thụ thể tiếp_nhận leptin ở não , hoặc là cơ_thể người béo phì sinh_ra một chất kháng leptin khiến chất này không ức_chế cảm_giác thèm ăn được .
+Thực_tế các nhà_khoa_học ước đoán có gần 200 gien liên_quan đến béo phì . Các nhà_khoa_học Thụy_Điển thuộc Đại_học Goteborg đã phát_hiện ở chuột một gien giúp chúng ăn chất_béo thỏai_mái mà vẫn có thân_hình thon_thả . Gien này có tên là FOXC2 . Họ hy_vọng sẽ dùng gien này để điều_trị béo phì cho người . Nhưng từ nghiên_cứu đến sản_xuất còn là vấn_đề thời_gian , tiền_bạc , trong khi số người béo phì cứ tăng lên mỗi ngày .
+2.Có yếu_tố nội_tiết trong béo phì không ?
+Có và nhiều nữa . Ngoài leptin họat_động như một hormon đã nêu ở trên các nhà_khoa_học còn tìm thấy nhiều hormon liên_quan đến béo phì .
+Nhóm làm giảm ăn gồm : Serotonin , Pro-opiomelanocortin ( POMC ) , alpha Melatocyte_Stimulating hormon ( alpha MSH ) và Cocain_Amphetamin_Regulated_Transcript ( CART ) .
++ Serotonin liên_quan đến cảm_giác “ no ” . Khi bạn đói cồn_cào , ngồi vào bàn ăn hoặc khuấy vội một ly nước đường để uống thì lập_tức Serotonin được tiết ra từ ruột phóng_thích vào máu đến não gây cảm_giác “ no ” .
++ Alpha MSH tác_động trực_tiếp đến trung_tâm “ no ” để gây nên cảm_giác “ no ” .
++ CART ức_chế sự ngon_miệng .
+Những thuốc nhằm kích_thích họat_động của những nhân_tố giảm ăn này đều gọi_là thuốc gây chán ăn .
+Nhóm gây kích_thích ăn gồm : Norepinephrine , Neuropeptid Y và Agouti_Related protein ( AgRP ) , Ghrelin , Insulin
++ Norepinephrine : là chất kích_thích trung_tâm ăn dẫn đến cảm_giác thèm ăn . Nhờ biết tác_dụng này nên nên người_ta dùng Phentermin để ức_chế Norepinephrine sẽ gây chán ăn .
++ AgRP làm tăng hoạt_động ăn do tác_động ức_chế trung_tâm “ no ” . AgRP còn có tác_động trên tế_bào mỡ làm tế_bào phình to ra để chứa mỡ .
+Khi điều_trị béo phì , mỡ trong lòng tế_bào giảm đi nhưng dưới ảnh_hưởng của AgRP tế_bào vẫn phình ra , chờ_đợi rất lâu rồi mới chịu xẹp xuống . Đó là lý_do các nhà_khoa_học đề_nghị khi đã trở_về cân nặng lý_tưởng vẫn phải duy_trì chế_độ ăn trong vòng 2 năm để không “ tái béo ” .
++ Hormon peptid YY 3-36 hay còn gọi_là PYY được phát_hiện từ thập_niên 80 , nhưng khả_năng làm giảm cảm_giác thèm ăn chỉ được phát_hiện gần đây .
+PYY tiết ra ở thành ruột khi ta bắt_đầu ăn . PYY sẽ truyền tin lên não đến trung_tâm “ no ” để chúng_ta không cảm_thấy đói nữa .
+Các nhà_khoa_học Anh , Mỹ , Úc đã phân_lập được PYY và dùng cho 12 người tình_nguyện ở độ tuổi 20 . Kết_quả thật bất_ngờ : họ mau có cảm_giác no và cảm_giác no kéo_dài tới 12 giờ sau đó . Hiện hướng nghiên_cứu này đang tiếp_tục và có nhiều hứa_hẹn .
++ Ghrelin được tổng_hợp từ dạ_dày , tác_dụng kích_thích lượng ăn vào . Khi đói dạ_dày tăng tiết Ghrelin , đồng_thời kích_thích tăng tiết GH từ tuyến_yên . GH làm tăng quá_trình tiêu mỡ . Ghrelin cũng kích_thích trực_tiếp đến trung_tâm ăn_làm tăng cảm_giác thèm ăn .
++ Insulin : là hormon của tuyến tụy có tác_dụng làm giảm đường_huyết . Khi chúng_ta ăn , insulin được bài_tiết nhiều để giúp glucose đi vào trong tế_bào , giúp tăng tổng_hợp mỡ . Khi lượng glucose trong máu giảm lại kích_thích sự thèm ăn .
+3 . Cơ_thể sẽ điều_hòa cảm_giác no_đói như_thế_nào ?
+Vùng dưới đồi ( hypothalamus ) có “ Trung_tâm ăn ” và “ Trung_tâm no ” . Hai trung_tâm này hoạt_động nhịp_nhàng với nhau . “ Trung_tâm no ” được coi như khu_vực nhận cảm về chất ngọt , khi lượng đường trong máu giảm hắn bèn kích_thích “ Trung_tâm ăn ” khiến bạn có cảm_giác thèm ăn_không chịu nổi . Bạn ăn các món ngọt vào , chúng thỏa_hiệp ngay . Nhưng isulin lập_tức tiết ra làm giảm đường trong máu . Thế_là những người khoái món ngọt cứ tiếp_tục đi tìm cảm_giác ngọt và bụng của họ tròn ra rất nhanh là vậy .
+Nhưng ở não cũng có những hormon gây chán ăn luôn kích_thích “ Trung_tâm no ” . Bạn đang đói , ăn vào là cảm_giác no xuất_hiện . Nếu bạn lập_tức ngừng ăn thì sẽ không_bao_giờ bị béo phì . Nhưng bạn cứ tiếp_tục với các món khoái_khẩu để rồi bao_tử căng cứng thì đương_nhiên các hormon gây chán ăn cũng chào_thua .
+4.Thói quen ăn_uống - Kẻ_thù của béo phì
+Loanh_quanh những cơ_chế gây béo phì rồi chúng_ta cũng quay lại vấn_đề dễ hiểu , dễ nhìn thấy nhất . Đó là : không ăn nhiều làm_sao mà béo được .
+Lúc nhỏ trẻ mũm_mĩm được khen là “ dễ ghét ” nhưng khi đến trường mẫu_giáo là bị mất điểm thi_đua , bé mặc_cảm , cha_mẹ lo_lắng . Thói_quen ăn nhiều ăn vặt , ăn ngọt , ăn béo , ăn khuya là thủ_phạm chính gây ra những cục thịt mỡ rải khắp_nơi trên cơ_thể bạn mà nhiều nhất ở bụng .
+5 . Lối sống không năng_động
+Ăn nhiều nhưng năng_lượng không tiêu_thụ hết thì cơ_thể buộc phải tích_lũy lại dưới dạng mỡ . Thế_là chúng_ta trở_thành tròn_trịa . Càng tròn_trịa càng lười vận_động , lười suy_nghĩ . Vòng luẩn_quẩn của béo phì cứ bám riết lấy bạn nếu bạn không quyết_tâm cởi bỏ nó .
+BS . Lê_Thuý_Tươi
+Theo Tri_Tri_Chuyên san của báo KH & amp ; DT

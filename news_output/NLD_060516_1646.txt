@@ -1,0 +1,7 @@
+﻿ Phát_tán virus để in hình một ... con cú
+Bức ảnh cú được Hoots . A phát_tán Hãng bảo_mật Anh Sophos vừa phát_hiện một virus hoạt_động khá kỳ_quặc . Sau khi xâm_nhập vào máy_tính , nó sẽ gửi đi hàng_loạt lệnh in ảnh chụp một con cú với dòng chữ ' O_RLY ? ' ( Oh , really ? - Ồ thật thế à ? ) tới hệ_thống máy_in .
+Virus_Hoots . A là kiểu chương_trình nguy_hiểm điển_hình của cuối thập_niên 80 , khi các tác_giả tạo virus để tiêu_khiển chứ không vì lợi_ích nào cả .
+Theo Sophos , sâu này có_vẻ sản_phẩm của một nhân_viên bất_mãn và muốn làm hệ_thống máy_tính trong một công_ty nào_đó bị tắc_nghẽn , nhưng anh_ta không nhận_thức được rằng Hoots . A lại lan nhanh đến thế .
+" Không_thể hiểu được vì_sao tác_giả này lại muốn in hình một con cú " , Graham_Cluley , cố_vấn của Sophos , nhận_xét . " Hoots . A không phải là một virus ' chuyên_nghiệp ' .
+Đa_số các hacker sẽ mã_hóa chương_trình của họ để tránh bị phát_hiện , nhưng Hoots . A thì không . Nó còn được soạn bằng ngôn_ngữ Visual_Basic - rất ít được sử_dụng để viết virus hiện_nay " . Dù_sao , Hoots . A đã chứng_tỏ máy_in cũng có_thể trở_thành mục_tiêu của Trojan và Sophos nhắc_nhở các công_ty cần quản_lý máy_móc nghiêm_ngặt hơn .
+Theo VNExpress

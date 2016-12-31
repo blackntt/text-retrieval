@@ -1,0 +1,10 @@
+﻿Sẽ có tên miền riêng cho điện thoại di động?
+
+Chín kỹ nghệ gia hàng đầu này, bao gồm cả những tên tuổi lớn Hewlett-Packard, tổ hợp Orange của France Télécom và Samsung Electronics, công bố kiến nghị chung này tại London, hôm thứ tư. Nhóm cho biết, tên cụ thể cho hậu tố của địa chỉ chưa được xác định nhưng nó sẽ phải mang yếu tố của liên lạc không dây như .mobile hoặc .phone. 
+Hiện nay, càng ngày, điện thoại di động và thiết bị trợ giúp kỹ thuật số cá nhân (PDA) càng được cung cấp nhiều hơn khả năng truy cập các trang web và dịch vụ Internet, như dự báo thời tiết và thị trường chứng khoán. Ngành viễn thông cũng nhờ những dịch vụ này mà gia tăng doanh số. 
+Tuy nhiên, màn hình nhỏ của các thiết bị cầm tay làm cho những trang web thông thường trở nên khó nhìn và khó sử dụng. Một chuẩn mới để tái định dạng những trang như vậy, có tên gọi Wireless ApplicaTion Protocol, hỗ trợ khá tốt cho việc thu nhỏ này nhưng không phải tất cả các web site đều được chuyển đổi. 
+Đơn chung của 9 hãng, được đệ trình lên Internet Corporation for Assigned Names and Numbers (ICAM), tổ chức giám sát hệ thống địa chỉ Internet. Nội dung chính của nó là kêu gọi thành lập một liên doanh phi lợi nhuận, với sự hợp tác của 9 thành viên sáng lập, nhằm quản lý việc đăng ký các web site dành riêng cho điện thoại di động. Các địa chỉ được mua bán tại đây sẽ chỉ rõ những tên miền dành cho thiết bị không dây, khiến việc đăng ký trở thành một dạng mã bưu điện điện tử mới trên Internet. 
+Phát ngôn viên của hãng Vodafone giải thích: "Nếu bạn truy cập một site có tên miền .mobile, trang web đó sẽ được chuyển đổi đặc biệt để phù hợp với thiết bị di động. Toàn bộ site sẽ được tổ chức lại để cho phép tốc độ download nhanh, dễ sử dụng và đơn giản". 
+Sau khi ICANN kết thúc thảo luận vào ngày 16/3, các nhà thẩm định độc lập sẽ khảo sát đề xuất. Liên minh các tập đoàn truyền thông và công nghệ khổng lồ này hy vọng quá trình thông qua lá đơn của họ sẽ chỉ mất từ 3 đến 6 tháng và những dịch vụ dựa trên địa chỉ mới sẽ bắt đầu được cung cấp trong nửa đầu năm 2005.
+
+HỒNG YẾN (Theo NYTimes)

@@ -1,0 +1,8 @@
+﻿ SOS ! Sâu_Kama_Sutra quấy_rối máy_tính
+Khi chạy trên máy_tính cài hệ_điều_hành Windows , loại sâu này tiến_hành sao_chép nó tới các máy có chia_sẻ tài_nguyên với máy bị lây_nhiễm trong mạng nội_bộ , đồng_thời gởi chính nó tới mọi địa_chỉ email mà nó tìm thấy trên máy bị nhiễm . F-Secure cũng cho_biết thêm , đây là một loại virus thời_gian , tấn_công vào ngày thứ 3 trong mỗi tháng .
+Về tác_hại , sâu sẽ cố_gắng để vô_hiệu_hóa các chương_trình diệt virus và tường lửa , đồng_thời " xóa_sổ " các tập_tin tài_liệu ra khỏi máy_tính của bạn .
+Có tên là W32/Nyxem - E , đặt bởi F-Secure , thường được gọi_là sâu Grew . A , đến máy bạn dưới hình_thức một tập_tin đính kèm vào thư_điện_tử , thường có các nội_dung mang tính khiêu_dâm . Nội_dung của thư rất khác_nhau , nhưng thường có đề_cập đến Kama_Sutra , một cuốn sách cổ của Ấn Độ nói về chuyện phòng_the .
+Trong 24 giờ qua , Nyxem - E phát_tán mạnh_mẽ và là nguyên_nhân đe_dọa chính được xác_nhận bởi F-Secure và Trend_Micro . Theo tính_toán của F-Secure , đến ngày thứ 7 tuần rồi , có khoảng 510.000 hệ_thống máy_tính đã bị lây_nhiễm .
+Để bảo_vệ mình , người dùng máy_tính nên cập_nhật các chương_trình diệt Virus , rà_soát lại máy_tính cẩn_thận , cùng_với việc tránh xa các e - mail có nội_dung không đứng_đắn nêu trên .
+Ngày 3-2 tới đây , người dùng máy_tính nên tuyệt_đối đề_phòng .
+TRẦN_HUY ( theo ZdNets )

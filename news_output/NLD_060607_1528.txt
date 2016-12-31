@@ -1,0 +1,11 @@
+﻿ Intel giới_thiệu chip dưới 1 watt cho máy_xách_tay
+Hãng sản_xuất thiết_bị xử_lý Intel vừa ra_mắt một CPU lõi kép với khả_năng tiêu_thụ điện_năng cực thấp ( ULV - ultra low voltage ) , trung_bình chỉ khoảng 0,75 watt . Chip này sẽ có_mặt trên thị_trường trong nửa cuối năm nay .
+Phát_biểu tại triển_lãm máy_tính Computex , diễn ra ở Đài_Loan từ ngày 6 đến 10/6 , Phó_giám_đốc Anand_Chandrasekher của Intel cho_biết HP , Dell và một_số nhà_sản_xuất khác đang thiết_kế notebook phù_hợp dòng chip này .
+Máy_tính_xách_tay hiện vẫn là thị_trường rất quan_trọng giúp mở_rộng doanh_thu vi_xử_lý cho Intel . Chandrasekher quả_quyết rằng , trái với suy_nghĩ của nhiều người , sản_lượng notebook vẫn tăng_trưởng nhanh hơn nhiều so với những thiết_bị khác như điện_thoại_di_động hay Apple i Pod .
+Chandrasekher cũng nhấn_mạnh rằng chip tiết_kiệm điện_năng của họ sẽ là lựa_chọn hàng_đầu cho thiết_bị cầm tay như máy_tính siêu di_động ( UMPC ) thuộc dự_án Origami của Microsoft .
+Tuy_nhiên , có khả_năng Samsung sẽ thay_thế bộ_xử_lý của Intel trong thiết_bị Q1 UMPC bằng một sản_phẩm khác của AMD .
+Hãng điện_tử Hàn_Quốc này thừa_nhận doanh_số của Origami Q1 từ khi ra_mắt trong tháng 5 rất thấp , một phần do sản_phẩm được bán với giá 1.100 USD . Do_vậy , họ cần thay_đổi chip để hạ giá_thành sao cho phù_hợp nhu_cầu của sinh_viên , nhân_viên chăm_sóc sức_khỏe và những doanh_nhân thường_xuyên phải đi công_tác .
+Samsung Q1 hiện hoạt_động trên hệ_điều_hành Microsoft_Windows và chip Intel_Celeron M_ULV 900 MHz . Quá_trình chuyển_đổi có_thể sẽ diễn ra trong mùa thu tới .
+Đây không phải tin tốt_lành cho Intel bởi họ đã liên_tục phải đối_phó để bảo_toàn thị_phần trước sự nổi lên của AMD trong nhiều quý qua . Nhưng giới phân_tích lại ủng_hộ quyết_định này của Samsung .
+" Suy cho cùng , những gì Samsung cần làm là thực_hiện mọi biện_pháp có_thể để tăng hiệu_suất và giảm_giá bán " , Nicole D ' Onofrio , chuyên_gia về nền_tảng điện_toán di_động của hãng phân_tích thị_trường Current_Analysis ( Mỹ ) , nhận_xét . " AMD đang được đánh_giá cao nhờ dòng Turion 64 bởi chi_phí rất phải_chăng so với sản_phẩm của Intel " . Cả AMD , Intel và Samsung đều chưa đưa ra lời bình_luận cho sự_kiện trên .
+Theo VNExpress

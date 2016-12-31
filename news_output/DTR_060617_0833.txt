@@ -1,0 +1,9 @@
+﻿ Công_cụ soạn_thảo văn_bản cho người khiếm_thị
+Một nhóm sinh_viên Đại_học Khoa_học_tự_nhiên TPHCM đã có ý_tưởng xây_dựng một chương_trình hỗ_trợ người khiếm_thị soạn_thảo văn_bản trên máy_tính . Phần_mềm MATABraille đáp_ứng nhu_cầu sử_dụng máy_tính không_thể thiếu của những người gặp khuyết_tật về thị_giác .
+Công_trình tham_dự cuộc_thi “ Ngày sáng_tạo VN 2006 ” đang diễn ra tại Hà_Nội .
+Các giải_pháp hiện_thời , như phần_mềm NDC của Trung_tâm Scitec , đã phần_nào giúp người khiếm_thị khai_thác sức_mạnh của máy_tính . Nhưng chương_trình được phát_triển một_cách độc_lập nên_người dùng vẫn phải soạn văn_bản từ một chương_trình khác và dán vào ứng_dụng thì mới thực_hiện được chức_năng hỗ_trợ . Ngoài_ra , chương_trình này cũng không hỗ_trợ văn_bản nhiều ngôn_ngữ , không có các công_thức toán_học , hóa_học , và không linh_hoạt trong việc mở_rộng cơ_sở_dữ_liệu ...
+Anh Đặng_Bác_Văn , trưởng nhóm sinh_viên , cho_biết , phần_mềm MATABraille của nhóm sẽ giúp người khiếm_thị làm_việc với một chương_trình duy_nhất . Hệ_thống được tích_hợp vào trong Microsoft_Word , tận_dụng và khai_thác sức_mạnh sẵn có_của ứng_dụng này để biến Microsoft_Word thành chương_trình soạn_thảo dành cho cả người khiếm_thị .
+Chương_trình có khả_năng nhận_dạng và phát_âm nhiều ngôn_ngữ như tiếng Việt và tiếng Anh . Người sử_dụng có_thể điều_chỉnh được tốc_độ đọc , cách đọc và kiểm_tra lỗi chính_tả . Phần_mềm cũng cung_cấp chức_năng chuyển_đổi qua_lại giữa chữ sáng và chữ_nổi ( Braille ) , hỗ_trợ in_ấn bằng máy_in chữ_nổi .
+Ngoài_ra , chương_trình cho_phép mở_rộng cơ_sở_dữ_liệu , tích_hợp thêm các ký_hiệu đặc_biệt như ký_hiệu hoá_học , toán_học ... Người sử_dụng có_thể tra từ_điển , tập đánh_máy trên ứng_dụng này .
+Tham_dự cuộc_thi “ Ngày sáng_tạo Việt_Nam 2006 ” lần này , nhóm của Văn hy_vọng sẽ tìm được nguồn hỗ_trợ kinh_phí để có_thể hoàn_thiện chương_trình và đưa vào chạy thử . Nhóm dự_tính bộ công_cụ MATABraille sẽ ra_mắt vào năm sau .
+Theo Anh_Thi_Vn Express

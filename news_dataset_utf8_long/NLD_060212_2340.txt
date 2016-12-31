@@ -1,0 +1,6 @@
+﻿Sẽ có chip hệ thống cho ĐTDĐ 4G vào cuối năm 2007
+
+Loại chip hệ thống dành cho ĐTDĐ 4G dự kiến sẽ được sản xuất ở Nhật vào cuối năm 2007 Năm công ty công nghệ cao của Nhật, gồm: Renesas Technology, NTT DoCoMo, Fujitsu, Mitsubishi Electric và Sharp dự kiến sẽ hợp tác phát triển loại chip hệ thống dành cho điện thoại di động (ĐTDĐ) thế hệ kế tiếp.
+Loại chip này sẽ thực hiện những chức năng chính như truyền dữ liệu ở tốc độ cao, xử lý hình ảnh và được thiết kế để hoạt động tương thích với những ĐTDĐ thế hệ thứ 4 (4G) của Nhật. Đây là loại ĐTDĐ có thể truyền dữ liệu nhanh gấp hơn 10 lần so với loại ĐTDĐ thế hệ 3 (3G) được sử dụng hiện nay ở Nhật. Ngoài ra, loại chip này cũng sẽ tương thích với những định dạng đang được sử dụng phổ biến ở châu Âu và các nước châu Á khác. Công ty Renesas Technology hy vọng sẽ giảm chi phí phát triển xuống còn 15 tỉ yen và số tiền này sẽ được 5 công ty chia sẻ. Việc sản xuất thương mại loại chip hệ thống nói trên dự kiến sẽ được bắt đầu vào cuối năm 2007. Với việc đưa thêm vào chip hệ thống mới 2 chức năng là xử lý tín hiệu radio và hình ảnh chụp bởi camera của ĐTDĐ, các nhà sản xuất hy vọng sẽ giảm bớt số lượng thành phần của ĐTDĐ, dẫn đến giá thành sẽ thấp hơn.
+
+Phương Võ (Theo AFP, Nihon Keizai Shimbun)

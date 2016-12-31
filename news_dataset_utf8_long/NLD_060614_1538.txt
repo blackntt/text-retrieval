@@ -1,0 +1,12 @@
+﻿World Cup dành cho Robot!
+
+Các cầu thủ robot trên sân thi đấu World Cup không chỉ là trò chơi trên sân cỏ. Vòng chung kết Robo Cup quốc tế năm nay sẽ được khai mạc vào tuần này ở Bremen, Đức. Thậm chí bình luận viên của vòng chung kết này cũng là robot! 
+Đến với Giải vô địch thế giới Robo Cup 2006, các nhà khoa học tại trường Đại học Carnegie Mellon ở Pittsburgh (Mỹ) đã chế tạo hai robot 2 chân loại nhỏ di chuyển theo màu. Theo các nhà khoa học, hai robot dạng người này sẽ là bình luận viên cho các trận đấu giữa các đội robot 4 chân. 
+Các robot bình luận viên - cao 75 cm, có tên Ami và Sango - không chỉ là người quan sát trái bóng mà còn bao quát tổng quát, đưa ra lời khen ngợi cũng như cung cấp cho thính giả thông tin về trận đấu. Sango sẽ thiên về giải thích luật chơi và đưa ra lời hướng dẫn dành cho trận đấu, trong khi Ami sẽ theo dõi trận đấu gần hơn và tràn đầy cảm xúc, bình luận một cách cuồng nhiệt. 
+Robot "bình luận viên" cho các trận Robo Cup năm nay 
+Cả Ami và Sango sẽ nhận tín hiệu từ hệ thống và hệ thống này sẽ truyền thông theo các hiệu lệnh của trọng tài tới các cầu thủ robot 4 chân. Chúng sẽ giải thích luật chơi theo quan điểm robot, xác định đội nào đang giữ bóng, các va chạm… 
+Các thông tin sẽ được phân tích, sau đó tổng hợp thành giọng nói cũng như hiển thị trên màn hình bằng 2 ngôn ngữ Anh và Đức. 
+Robo Cup là một dự án quốc tế nhằm phát triển trí thông minh nhân tạo, robot và các lĩnh vực liên quan thông qua cuộc thi đấu bóng đá. Đây là Robo Cup lần thứ 10. 
+Giải đấu năm nay thu hút cả thảy 2.500 nhà khoa học đến từ 40 quốc gia trên thế giới. Đây không chỉ là cuộc thi đấu mà còn là nơi diễn ra các hội thảo về tương lai robot và trí thông minh nhân tạo. Tại sao chúng ta không nghĩ đến trọng tài các trận đấu bóng đá là robot khi mà các tiêu cực luôn xảy ra trên sân cỏ trong nước cũng như thế giới? Đó chỉ là một ước muốn nhỏ! Các nhà khoa học còn có mục đích lớn hơn là đội bóng robot sẽ đánh bại đội bóng con người vào năm 2050. Điều này có trở thành hiện thực? Hãy chờ xem!
+
+Theo Tuổi Trẻ

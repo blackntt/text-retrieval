@@ -1,0 +1,6 @@
+﻿ Tuyến xe_buýt : Văn_Thánh - bến phà Cát_Lái
+Lộ_trình : bến_xe Văn_Thánh cũ - Điện_Biên_Phủ - vòng xoay Hàng_Xanh - Điện_Biên_Phủ - cầu Sài_Gòn - xa_lộ Hà_Nội - Trần_Não - Lương_Định_Của - Nguyễn_Thị_Định - bến phà Cát_Lái .
+Tuyến cảng quận 4 - chợ Bến_Thành - Bình_Quới
+Thời_gian hoạt_động từ 5g15-19g30 , với 148 chuyến/ngày , cự_ly 15,15 km và thời_gian hành_trình là một giờ . Giờ cao_điểm 10 phút/chuyến và giờ thấp_điểm 15 phút/chuyến . Giá vé 2.000 đồng/người đi một trạm hoặc suốt tuyến .
+Lộ_trình : cảng quận 4 - Tôn_Thất_Thuyết - Tôn_Đản - Vĩnh_Hội - Tân_Vĩnh - Hoàng_Diệu - Đoàn_Văn_Bơ - Calmette - Trần_Hưng_Đạo ( Quách_Thị_Trang ) - Lê_Lai - Trương_Định - Lý_Tự_Trọng - Tôn_Đức_Thắng - Nguyễn_Hữu_Cảnh - Ngô_Tất_Tố - Nguyễn_Văn_Lạc - Xô_Viết_Nghệ_Tĩnh - Bình_Quới - bến đò Bình_Quới ( Thanh_Đa ) .
+N . ẨN

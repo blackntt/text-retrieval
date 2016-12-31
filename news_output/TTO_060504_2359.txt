@@ -1,0 +1,135 @@
+﻿ Cài_đặt Windows_Server 2003 và tạo server dự_phòng
+- Với câu_hỏi của bạn chúng_tôi sẽ trả_lời lần_lượt như sau :
+1 . Chi_tiết cách cài_đặt domain và cài_đặt thông_số ADSL router vào máy server :
+Trước_tiên bạn phải Cài_đặt Windows_Server 2003
+Tiến_hành các bước sau trên Computer sẽ đóng vai_trò Domain_Controller
+1 . Đưa đĩa CD cài_đặt vào CD-ROM , khởi_động lại Computer . Cho_phép boot từ đĩa CD
+2 . Chương_trình Windows setup bằt đầu load những Files phục_vụ cho việc cài_đặt . Nhấn_Enter khi mà hình Welcome to Setup xuất_hiện
+3 . Đọc những điều_khoản về License trên Windows_Licensing_Agreement , sau đó nhấn F8 để đồng_ý với các điều_khoản quy_định của MS
+4 . Trên_Windows_Server 2003 , xuất_hiện màn_hình tạo các phân_vùng Partition trên đĩa_cứng , trước_hết tạo Partition dùng cho việc cài_đặt Hệ_Điều hành . Nhấn ENTER .
+5 . Trên_Windows_Server 2003 , chọn Format the partition using the NTFS file system Nhấn ENTER .
+6 . Chương_trình Windows_Setup tiến_hành định_dạng ( format ) đĩa_cứng , sẽ chờ ít phút cho tiến_trình này hoàn_tất
+7 . Computer sẽ tự Restart khi tiến_trình copy File vào đĩa_cứng hoàn_tất
+8 . Computer sẽ restart lại và boot giao_diện đồ_họa . Click_Next trên trang Regional and Language_Options
+9 . Trên trang Personalize_Your_Software , điền Tên và Tổ_chức của Bạn
+Ví_dụ : Name : Server 2003
+Organization : Bao_Tuoi_Tre
+10 . Trên trang Product_Key điền vào 25 chữ_số của Product_Key mà bạn có và click Next .
+11 . Trên trang Licensing_Modes chọn đúng option được áp_dụng cho version Windows_Server 2003 mà bạn cài_đặt . Nếu cài_đặt Licence ở chế_độ per server licensing , hãy đưa vào số connections mà bạn đã có License . Click_Next .
+12 . Trên trang Computer_Name và Administrator_Password điền tên của Computer ví_dụ Server2003 , tên này được điền vào Computer_Name text box . Điền tiếp vào mục Administrator password và xác_nhận lại password tại mục Confirm password ( ghi_nhớ lại password administrator cẩn_thận , nếu_không thì bạn cũng không_thể log - on vào Server cho các hoạt_động tiếp_theo ) . Click_Next .
+13 . Trên trang Date and Time_Settings xác_lập chính_xác Ngày , giờ và múi_giờ Việt_Nam ( nếu các bạn ở Việt_Nam ) , lưu_ý time zone là GMT + 7
+Click_Next .
+14 . Trên trang Networking_Settings , chọn Custom settings option .
+15 . Trên trang Network_Components , chọn Internet_Protocol ( TCP/IP ) entry trong
+Components và click Properties .
+16 . Trong_Internet_Protocol ( TCP/IP ) Properties dialog box , xác_lập các thông_số sau :
+IP address : 10.0.0.2 .
+Subnet mask : 255.255.255.0 .
+Default gateway : 10.0.0.1 ( chú_ý Default_Gateway 10.0.0.1 này cũng là IP address của Card_Ethernet cua Router ADSL ) .
+Preferred DNS server : 10.0.0.2 và Additional DNS server la địa_chỉ mà ISP đã cung_cấp cho ADSL Router , ví_dụ : 203.162.4.1
+17 . Click OK trong Advanced TCP/IP Settings dialog box .
+18 . Click OK trong Internet_Protocol ( TCP/IP ) Properties dialog box .
+19 . Click_Next trên trang Networking_Components .
+20 . Chấp_nhận lựa_chọn mặc_định môi_trường Network là Workgroup ( chúng_ta sẽ tạo môi_trường Domain sau , thăng cấp ( promote ) máy này trở_thành một Domain controller và cũng là thành_viên của Domain . Click_Next .
+21 . Tiến_trình cài_đặt được tiếp_tục và khi Finish , Computer sẽ tự khởi_động lại
+22 . Log-on lần đầu_tiên vào Windows_Server 2003 dùng password mà chúng_ta đã tạo cho tài_khoản Administrator trong quá_trình Setup .
+23 . Xuất_hiện đầu_tiên trên màn_hình là trang Manage_Your_Server , bạn nên check vào " Don ’ t display this page at logon checkbox " và đóng cửa_sổ Window lại .
+Bước kế_tiếp là quá_trình cài_đặt và cấu_hình DNS trước khi chạy tiện_ích dcpromo
+Bước kế_tiếp là cài_đặt Domain_Naming_System ( DNS ) server trên chính server này . Điều này là cần_thiết vì Active_Directory_Service hoạt_động trên Domain_Controller , kiểm_soát toàn Domain yêu_cầu phải có DNS server service phục_vụ cho nhu_cầu truy_vấn tên như hostname , đăng_kí các record ( A , PTR , SRV records v . v . . ) . Chúng_ta sẽ cài DNS server và sau đó sẽ nâng vai_trò Computer này lên thành một Domain_Controller , và DNS server này sẽ phục_vụ truy_vấn cho toàn Domain .
+Tiến_hành các bước sau để cài_đặt DNS server
+1 . Click_Start , Control_Panel . Click_Add or Remove_Programs .
+2 . Trong_Add or Remove_Programs , click Add/Remove Windows_Components
+3 . Trong_Windows_Components , xem qua danh_sách Components và click Networking_Services entry . Click_Details .
+4 . Check vào Domain_Name_System ( DNS ) checkbox và click OK .
+5 . Click_Next trong Windows_Components .
+6 . Click_Finish trên Completing the Windows_Components_Wizard .
+7 . Đóng_Add or Remove_Programs
+DNS server đã được cài_đặt , Admin cần đưa vào DNS Server các thông_số cụ_thể phục_vụ cho hoạt_động truy_vấn tên , cụ_thể là sẽ tạo ra hai vùng Forward và Reverse lookup zones .
+Tiến_hành các bước sau để cấu_hình DNS server :
+1 . Click_Start và sau đó click Administrative_Tools . Click DNS .
+2 . Trong bảng làm_việc của DNS ( DNS console ) , mở_rộng server name ( Server2003 ) , sau đó click trên Reverse_Lookup_Zones . Right click trên Reverse_Lookup_Zones và click New_Zone .
+3 . Click_Next trên Welcome to the New_Zone_Wizard .
+4 . Trên_Zone_Type , chọn Primary zone option và click Next .
+5 . Trên_Reverse_Lookup_Zone_Name page , chọn Network ID option và Enter 10.0.0 vào text box . Click_Next .
+6 . Chấp_nhận chọn_lựa mặc_định trên Zone_File page , và click Next .
+7 . Trên_Dynamic_Update page , chọn Allow both nonsecure and secure dynamic updates option . Click_Next .
+8 . Click_Finish trên Completing the New_Zone_Wizard page .
+Kế_tiếp chúng_ta tạo Forward lookup zone cho Domain mà Computer này sẽ là Domain_Controller . Tiến_hành các bước sau :
+1 . Right click Forward_Lookup_Zone và click New_Zone .
+2 . Click_Next trên Welcome to the New_Zone_Wizard page .
+3 . Trên_Zone_Type page , chọn Primary zone option và click Next .
+4 . Trên_Zone_Name page , điền tên của forward lookup zone trong Zone name text box . Trong ví_dụ này tên của zone là tuoitre . com.vn , trùng với tên của Domain sẽ tạo sau_này . Đưa tuoitre . com.vn vào text box . Click_Next .
+5 . Chấp_nhận các xác_lập mặc_định trên Zone_File page và click Next .
+6 . Trên_Dynamic_Update page , chọn Allow both nonsecure and secure dynamic updates . Click_Next .
+7 . Click_Finish trên Completing the New_Zone_Wizard page .
+8 . Mở_rộng Forward_Lookup_Zones và click vào MSFirewall.org zone . Right click trên tuoitre . com.vn và Click_New_Host ( A ) .
+9 . Trong_New_Host dialog box , điền vào chính_xác Server2003 trong Name ( uses parent domain name if blank ) text box . Trong IP address text box , điền vào 10.0.0.2 . Check vào " Create associated pointer ( PTR ) record checkbox " .
+Click_Add_Host . Click OK trong DNS dialog box thông_báo rằng ( A ) Record đã được tạo xong . Click_Done trong New_Host text box .
+10 . Right click trên tuoitre . com.vn forward lookup zone và click Properties . Click_Name_Servers tab . Click exchange 2003be entry và click Edit .
+11 . Trong_Server fully qualified domain name ( FQDN ) text box , điền vào tên đầy_đủ của Domain controller computer là Server2003 . tuoitre.com.vn . Click_Resolve . Sẽ nhận thấy , IP address của Server xuất_hiện trong IP address list . Click OK .
+12 . Click_Apply và sau đó click OK trên tuoitre . com.vn Properties dialog box .
+13 . Right click trên DNS server name Server2003 , chọn All_Tasks . Click_Restart .
+14 . Close DNS console .
+Giờ_đây Computer này đã sẵn_sàng để nâng vai_trò lên Thành một Domain controller trong Domain tuoitre . com.vn
+Tiến_hành các bước sau để tạo Domain và nâng server này thành Domain_Controller đầu_tiên của Domain
+Cài_đặt First_Domain_Controller
+1 . Click_Start và click Run .
+2 . Trong_Run dialog box , đánh lệnh dcpromo trong Open text box và click OK .
+3 . Click_Next trên Welcome to the Active_Directory_Installation_Wizard page .
+4 . Click_Next trên Operating_System_Compatibility page .
+5 . Trên_Domain_Controller_Type page , chọn Domain controller for a new domain option và click Next .
+6 . Trên_Create_New_Domain page , chọn Domain in a new forest option và click Next .
+7 . Trên_New_Domain_Name page , điền tên đầy_đủ của Domain ( Full DNS name ) tuoitre.com.vn text box và click Next .
+8 . Trên_Net BIOS Domain_Name page ( NetBIOS name của Domain nhằm support cho các Windows OS - như các dòng Windows NT và WINDOWS 9x đời cũ , khi các Client này muốn giao_dịch với Domain ) , chấp_nhận NetBIOS name mặc_định Trong ví_dụ này là tuoitre . Click_Next .
+9 . Chấp_nhận các xác_lập mặc_định trên Database and Log_Folders page và click Next .
+10 . Trên_Shared_System_Volume page , chấp_nhận vị_trí lưu_trữ mặc_định và click Next .
+11 . Trên DNS Registration_Diagnostics page , chọn I will correct the problem later by configuring DNS manually ( Advanced ) . Click_Next .
+12 . Trên_Permissions page , chọn Permissions compatible only with Windows 2000 or Windows_Server 2003 operating system option . Click_Next .
+13 . Trên_Directory_Services_Restore_Mode_Administrator_Password page ( chế_độ phục_hồi cho Domain_Controller khi DC này gặp phải sự_cố , Khi DC offline , vào chế_độ troubleshoot này bằng cách Restart_Computer , chọn F8 ) , điền vào Restore_Mode_Password và sau đó Confirm password . ( Các_Admin không nên nhầm_lẫn Password ở chế_độ này với Domain_Administrator_Password , điều_khiển hoạt_động của DCs hoặc Domain ) . Click_Next .
+14 . Trên_Summary page , click Next .
+15 . Bây_giờ là lúc Computer cần Restart để các thông_số vừa cài_đặt Active
+16 . Click_Finish trên Completing the Active_Directory_Installation_Wizard page , hoàn_thành việc cài_đặt .
+17 . Click_Restart_Now trên Active_Directory_Installation_Wizard page .
+18 . Log-on vào Domain_Controller dùng tài_khoản Administrator .
+Tạo thêm 1 Server đồng_hành để phòng hờ trường_hợp Server chính bị trục_trặc :
+1 . Cấu_hình địa_chỉ Server như sau : IP address : 10.0.0.3 . Subnet mask : 255.255.255.0 . Default gateway : 10.0.0.1 ( chú_ý Default_Gateway 10.0.0.1 này cũng là IP address của Card_Ethernet cua Router ADSL ) .
+Preferred DNS server : 10.0.0.2 và Additional DNS server la địa_chỉ mà ISP đã cung_cấp cho ADSL Router , ví_dụ : 203.162.4.1
+Sau đó Right click My_Computer , click Properties .
+2 . Trong_System_Properties dialog box , click Network_Identification tab . Click_Properties .
+3 . Trong_Changes dialog box , click More .
+4 . Trong_Primary DNS suffix of this computer text box , điền vào domain name là tên của domain ( tuoitre.com.vn ) chứa Computer này . Nếu_Computer không là thành_viên của Domain thì text box sẽ để trống .
+Chú_ý : Change primary DNS suffix when domain embership changes được enabled theo mặc_định . Trong ví_dụ hiện_tại Computer không phải là thành_viên của Domain . Cancel tất_cả dialog boxes vừa xuất_hiện và không cấu_hình primary domain name tại thời_điểm này .
+5 . Restart lại Server
+6 . Thực_hiện tương_tự như bước 2 , trong Changes , chọn Domain_Text box và nhập vào : tuoitre.com.vn . Nhập user và password tương_ứng của user administrator .
+7 . Restart lại server và chọn logon vào domain
+Bước kế_tiếp tiến_hành install Additional domain Controller
+1 . Click_Start và click Run .
+2 . Trong_Run dialog box , đánh lệnh dcpromo trong Open text box và click OK .
+3 . Click_Next trên Welcome to the Active_Directory_Installation_Wizard page .
+4 . Click_Next trên Operating_System_Compatibility page .
+5 . Trên_Domain_Controller_Type page , chọn Additional_Domain controller for an existing domain option và click Next .
+6 . Nhập user administrator và password sau đo trong text box domain nhập tuoitre . com.vn
+8 . Trên_Net BIOS Domain_Name page ( NetBIOS name của Domain nhằm support cho các Windows OS - như các dòng Windows NT và WINDOWS 9x đời cũ , khi các Client này muốn giao_dịch với Domain ) , chấp_nhận NetBIOS name mặc_định Trong ví_dụ này là tuoitre . Click_Next .
+9 . Chấp_nhận các xác_lập mặc_định trên Database and Log_Folders page và click Next .
+10 . Trên_Shared_System_Volume page , chấp_nhận vị_trí lưu_trữ mặc_định và click Next .
+11 . Trên DNS Registration_Diagnostics page , chọn I will correct the problem later by configuring DNS manually ( Advanced ) . Click_Next .
+12 . Trên_Permissions page , chọn Permissions compatible only with Windows 2000 or Windows_Server 2003 operating system option . Click_Next .
+13 . Trên_Directory_Services_Restore_Mode_Administrator_Password page ( chế_độ phục_hồi cho Domain_Controller khi DC này gặp phải sự_cố , Khi DC offline , vào chế_độ troubleshoot này bằng cách Restart_Computer , chọn F8 ) , điền vào Restore_Mode_Password và sau đó Confirm password . ( Các_Admin không nên nhầm_lẫn Password ở chế_độ này với Domain_Administrator_Password , điều_khiển hoạt_động của DCs hoặc Domain ) . Click_Next .
+14 . Trên_Summary page , click Next .
+15 . Bây_giờ là lúc Computer cần Restart để các thông_số vừa cài_đặt Active
+16 . Click_Finish trên Completing the Active_Directory_Installation_Wizard page , hoàn_thành việc cài_đặt .
+17 . Click_Restart_Now trên Active_Directory_Installation_Wizard page .
+18 . Log-on vào Domain_Controller dùng tài_khoản Administrator .
+Gia_nhập máy con vào domain
+1.Mở Active_Directory_User and Computer sau đó tạo các domain user tương_ứng
+2 . Logon vào máy con , và thực_thi tương_tự như quá_trình Tạo thêm 1 Server đồng_hành để phòng hờ trường_hợp Server chính bị trục_trặc .
+3 . Logon vào domain với domain user đã được tạo ra
+Remote destop conection va shutdown máy con tư xa :
+Để remote máy con và máy_chủ chúng_ta làm như sau :
+1 . Trong computer - properties - remote - chọn enable remote desktop on this computer
+2 . Sau đó chúng_ta có_thể logon vào các máy_tính đã cho_phép remote sử_dụng công_cụ Remote_Desktop_Connnection . Nhập địa_chỉ IP của máy_chủ và máy con và sử_dụng user administrator để remote . Sau khi remote thành_công chúng_ta có_thể shutdown máy_tính từ xa 1 cách dễ_dàng , thông_qua tab shutdown trong start menu .
+2.Nếu gia_tăng thêm số_lượng máy con vào domain thì gắn thêm Switch như_thế_nào để đảm_bảo truyền dữ_liệu và truy_cập internet được tốt nhất ?
+• Khi bạn thêm máy con vào domain thì bạn cần thêm các switch tương_ứng , vì mỗi máy cần một port trên swith . Ví_dụ bạn có 40 máy thì bạn phải có 2 switch 24 port để đáp_ứng cho 40 máy_tính kết_nối vào .
+3 . Số_lượng máy và đường truyền ADSL với tốc_độ thích_hợp
+Nếu_như có nhiều máy trong domain thì bạn chỉ cần thêm switch , còn đường truyền ADSL thì phụ_thuộc vào từng nhà_cung_cấp dịch_vụ , bạn có_thể chọn ADSL của FPT , Viettel , VDC ... Ngoài_ra nếu số_lượng máy_tính nhiều bạn nên chọn gói ADSL có tốc_độ cao nhất . để có_thể cho_phép các user trong mạng duyệt web , download và upload một_cách dễ_dàng .
+TAM_TRUNG ( MCSE , MCDBA , Giảng_viên SaigonCTT )

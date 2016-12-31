@@ -1,0 +1,147 @@
+﻿ĐH Thái Nguyên công bố điểm chuẩn
+
+Mức điểm dưới đây được tính cho học sinh phổ thông khu vực 3. Đối với các nhóm đối tượng ưu tiên kế tiếp giảm 1 điểm, đối với các khu vực ưu tiên kế tiếp giảm 0,5 điểm. Trường chỉ tuyển thí sinh có hộ khẩu thường trú ở khu vực 1, khu vực 2 nông thôn, khu vực 2 thuộc các tỉnh từ Hà Tĩnh trở ra. 
+Tên ngành 
+Mã ngành 
+Điểm chuẩn NV1 
+Hệ ĐH 
+ĐH KỸ THUẬT CÔNG NGHIỆP 
+Cơ khí 
+105 
+19,5 
+Kỹ thuật Điện tử viễn thông 
+Kỹ thuật Môi trường 
+Kỹ thuật Xây dựng công trình 
+Sư phạm Kỹ thuật công nghiệp 
+106 
+15,0 
+ĐH SƯ PHẠM 
+SP Toán học 
+107 
+23,5 
+SP Vật lý 
+108 
+22,0 
+SP Tin học 
+109 
+22,0 
+SP Hóa học 
+201 
+23,5 
+SP Sinh - Kỹ thuật nông nghiệp 
+301 
+22,5 
+SP Giáo dục công dân 
+501 
+17,0 
+SP Ngữ văn 
+601 
+19,0 
+SP Lịch sử 
+602 
+19,0 
+SP Địa lý 
+603 
+19,0 
+SP Tâm lý giáo dục 
+604 
+15,5 
+SP Tiếng Anh 
+701 
+24,0 
+SP Tiếng Nga 
+702 
+20,0 
+SP Tiếng Trung (thi tiếng Anh) 
+704 
+23,0 
+SP Tiếng Trung (thi tiếng Trung) 
+704 
+23,0 
+SP Giáo dục tiểu học 
+901 
+19,5 
+SP Thể dục Thể thao 
+902 
+24,5 
+SP Mầm non 
+903 
+17,0 
+ĐH NÔNG LÂM 
+Chăn nuôi Thú y 
+308 
+15,0 
+Trồng trọt 
+Lâm nghiệp 
+Khuyến nông 
+Nông lâm tổng hợp 
+Môi trường Nông nghiệp 
+Phát triển Nông thôn 
+Nuôi trồng thủy sản 
+Sư phạm Kỹ thuật nông nghiệp 
+309 
+16,0 
+Quản lý đất đai 
+402 
+15,5 
+ĐH KINH TẾ VÀ QUẢN TRỊ KINH DOANH 
+Kinh tế 
+401 
+17,0 
+Kế toán 
+Quản trị kinh doanh 
+ĐH Y KHOA 
+Dược sĩ 
+202 
+22,0 
+Bác sỹ đa khoa 
+321 
+23,0 
+Cử nhân điều dưỡng 
+322 
+19,5 
+KHOA CÔNG NGHỆ THÔNG TIN 
+Công nghệ thông tin 
+120 
+17,0 
+Điện tử viễn thông 
+KHOA KHOA HỌC TỰ NHIÊN 
+Cử nhân Toán học 
+130 
+16,0 
+Cử nhân Vật lý 
+Cử nhân khoa học môi trường 
+Cử nhân Hóa học 
+330 
+19,0 
+Cử nhân Sinh học 
+Cử nhân Công nghệ sinh học 
+HỆ CAO ĐẲNG 
+ĐH KỸ THUẬT CÔNG NGHIỆP 
+Ngành Kỹ thuật Công nghiệp 
+C65 
+13 
+ĐH KINH TẾ VÀ QUẢN TRỊ KINH DOANH 
+Khoa Kế toán 
+C66 
+13,0 
+ĐH SƯ PHẠM 
+SP Toán - Lý 
+C67 
+12,0 
+SP Sinh - Hóa 
+C68 
+12,0 
+SP Văn - Sử 
+C69 
+12,5 
+ĐH NÔNG LÂM 
+Ngành Kỹ thuật nông nghiệp 
+C70 
+12,0 
+KHOA CÔNG NGHỆ THÔNG TIN 
+Công nghệ thông tin 
+C71 
+12,0
+
+QUỐC DŨNG

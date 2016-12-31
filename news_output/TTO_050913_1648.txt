@@ -1,0 +1,36 @@
+﻿ Điểm_chuẩn NV2 các trường ĐH phía Bắc
+Theo đó , điểm_chuẩn dành cho học_sinh phổ_thông - khu_vực 3 . Mỗi đối_tượng ưu_tiên cách nhau 1 điểm , mỗi khu_vực ưu_tiên cách nhau 0.5 điểm .
+Trường ĐH Sư_phạm Hà_Nội 2
+Khối A : ngành sư_phạm Toán : 25 điểm ; sư_phạm Kỹ_thuật : 20.5 điểm ; sư_phạm Giáo_dục tiểu_học : 24 điểm ; sư_phạm Giáo_dục tiểu_học : 24 điểm ; cử_nhân Vật_lý : 21 điểm ; cử_nhân Hóa_học : 22.5 điểm ; cử_nhân Toán : 22 điểm ; cử_nhân Tin_học : 17.5 điểm .
+Khối C : ngành sư_phạm Giáo_dục tiểu_học : 24 điểm .
+Khối D : ngành cử_nhân Tiếng_Anh : 19.5 điểm .
+Khối N : ngành sư_phạm Mầm_non : 17.5 điểm ( đã nhân hệ_số ) .
+Trường ĐH Tây_Bắc
+Khối A : các ngành Bảo_vệ thực_vật , Lâm_sinh , Chăn_nuôi , Nông_học : 15 điểm ; Quản_trị kinh_doanh tổng_hợp : 17 điểm ; Công_nghệ_thông_tin : 18 điểm ; Kế_toán : 18.5 điểm .
+Khối B : các ngành Bảo_vệ thực_vật , Lâm_sinh , Chăn_nuôi , Nông_học : 15 điểm .
+Hệ_Cao đẳng : ngành sư_phạm Sinh - Kỹ_thuật nông_nghiệp : 18.5 điểm ; sư_phạm Toán - Tin_học : 19 điểm ; sư_phạm Thể_dục : 19 điểm ; sư_phạm Văn - Giáo_dục công_dân : 21 điểm ; sư_phạm Sử - Địa : 21.5 điểm .
+Trường ĐH Lâm_nghiệp
+15.5 điểm các ngành Lâm_nghiệp xã_hội , Nông_lâm kết_hợp .
+16.5 điểm các ngành Công_nghiệp phát_triển nông_thôn , Cơ_giới_hóa lâm_nghiệp .
+19.5 điểm các ngành Chế_biến lâm_sản , Quản_trị kinh_doanh , Kinh_tế lâm_nghiệp , Quản_lý đất_đai .
+Trường ĐH Vinh
+Khối A : ngành cử_nhân Vật_lý : 16.5 điểm ; cử_nhân Toán : 17 điểm ; cử_nhân Tin_học : 17.5 điểm ; cử_nhân Hóa : 19 điểm ; Quản_trị kinh_doanh : 22 điểm ; Kỹ_sư Công_nghệ_thông_tin : 22 điểm ; sư_phạm Địa_lý : 23.5 điểm .
+Khối D : ngành Tiếng_Anh : 22.5 điểm ( tiếng Anh nhân hệ_số 2 ) .
+Khối M : ngành sư_phạm Giáo_dục mầm_non : 16.5 điểm .
+Viện ĐH Mở_Hà_Nội
+Khối A , 22 điểm : các ngành Tin_học , Điện_tử - Thông_tin .
+Khối D ( tiếng Anh nhân hệ_số 2 ) : ngành Quản_lý khách_sạn - du_lịch : 22 điểm ; Hướng_dẫn du_lịch : 21 điểm ; Tiếng_Anh : 24 điểm .
+Hệ_Cao đẳng : Tin_học : 14 điểm ; Điện_tử - thông_tin : 13.5 điểm ; Công_nghệ_sinh_học : khối A 13.5 điểm , khối B 17 điểm .
+Trường ĐHDL Hải_Phòng
+Khối A : các ngành Công_nghệ_thông_tin , Điện_tử viễn_thông , Xây_dựng cầu_đường , Hóa_dầu , Chế_biến thực_phẩm , Kinh_tế môi_trường , Kỹ_thuật nông_nghiệp , Quản_trị kinh_doanh , Quản_trị - du_lịch - văn_phòng : 15 điểm . Các ngành Điện dân_dụng công_nghiệp , Xây_dựng dân_dụng : 16 điểm . Ngành Kế toán kiểm_toán : 17.5 điểm .
+Khối B : các ngành Chế_biến thực_phẩm , Kinh_tế môi_trường , Kỹ_thuật nông_nghiệp : 15 điểm .
+Khối C : ngành Văn_hóa du_lịch : 15.5 điểm .
+Khối D : các ngành Quản_trị kinh_doanh , Quản_trị - du_lịch - văn_phòng , Tiếng_Anh : 14 điểm . Các ngành Kế_toán kiểm_toán , Văn_hóa du_lịch : 17.5 điểm .
+Trường ĐHDL Phương_Đông
+Khối A : ngành Kỹ_thuật : 16 điểm ; Công_nghệ_sinh_học và môi_trường : 17.5 điểm ; Công_nghệ_thông_tin : 18 điểm ; Quản_trị kinh_doanh : 18 điểm .
+Khối B : ngành Công_nghệ_sinh_học và môi_trường : 17.5 điểm .
+Khối D : ngành Quản_trị kinh_doanh : 18 điểm . các ngành Tiếng_Pháp , Tiếng_Đức : 19 điểm . Các ngành Tiếng_Anh , Tiếng_Trung_Quốc , Tiếng_Nhật : 20 điểm ( ngoại_ngữ nhân hệ_số 2 )
+Những thí_sinh khối A không trúng_tuyển ngành Công_nghệ_thông_tin có điểm thi từ 16 trở_lên có_thể vào học một trong các ngành Cơ điện_tử , Điện , Kỹ_thuật viễn_thông , Kỹ_thuật điện_tử số nếu có nguyện_vọng .
+Những thí_sinh khối A đăng_ký vào ngành Quản_trị kinh_doanh nhưng không đủ điểm , có điểm thi từ 16 trở_lên có_thể chuyển vào học ngành Cơ điện_tử hoặc Điện nếu có nguyện_vọng .
+Thí_sinh đăng_ký xét tuyển các ngành tiếng Anh , tiếng Trung , tiếng Nhật có điểm 19 - 19.5 có_thể chuyển vào học ngành tiếng Đức , tiếng Anh nếu có nguyện_vọng .
+THANH_HÀ

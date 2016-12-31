@@ -1,0 +1,7 @@
+﻿ ICANN sẽ thử_nghiệm tên_miền ngoài tiếng Anh
+Tổ_chức giám_sát tên_miền quốc_tế ICANN đang lên kế_hoạch đến cuối năm nay sẽ thử_nghiệm tên_miền không sử_dụng các ký_tự tiếng Anh , tạo sự gần_gũi hơn với người dùng Internet là châu Á và ARập Xê-út .
+Theo ICANN , việc phát_hành các tên_miền có hậu_tố không phải là tiếng Anh sẽ không làm ảnh_hưởng đến hệ_thống địa_chỉ Internet toàn_cầu . Các thư_mục địa_chỉ Internet chính hiện_nay chỉ có 37 ký_tự , trong đó có 36 chữ Latin , 10 chứ số và một dấu ngạch nối .
+ICANN cho_biết , bắt_buộc những người không biết tiếng Anh sử_dụng tên_miền hiện_nay cũng giống như ép_buộc người dùng nói tiếng Anh gõ tên_miền tiếng Trung_Quốc . ICANN đang chịu áp_lực về việc sử_dụng các kỹ_thuật nào_đó để giúp các thư_mục tên_miền có_thể hiểu các ngôn_ngữ khác .
+Trung_Quốc đã tự thiết_lập hệ_thống tên_miền “ . com ” bằng tiếng Hoa , khi gõ địa_chỉ domain , sẽ xuất_hiện hai website khác_nhau : tiếng Anh và tiếng Trung_Quốc .
+Theo ICANN , thậm_chí nếu thử_nghiệm thành_công thì vẫn còn nhiều vấn_đề gây khó_khăn cho dự_án này . Tổ_chức này cho_biết sớm nhất_là sang_năm thì hệ_thống tên_miền không sử_dụng tiếng Anh mới được triển_khai .
+S.Hương Theo AP

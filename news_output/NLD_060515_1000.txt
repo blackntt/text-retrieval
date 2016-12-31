@@ -1,0 +1,7 @@
+﻿ Chat bằng tên nữ dễ bị ' quấy_rầy ' nhiều gấp 25 lần
+Một nghiên_cứu gần đây cho thấy việc sử_dụng tên gọi ( nickname ) thuộc phái nữ thường có xu_hướng phải nhận những thông_điệp đe_dọa hoặc gợi_ý chuyện quan_hệ tình_dục nhiều hơn .
+Nhóm nghiên_cứu tại trường James_Clark , thuộc Đại_học Maryland ( Mỹ ) , đã dùng một_số nick tự_động đăng_nhập vào các chatroom với tên gọi nghe có_vẻ thuộc phái nữ , phái nam và trung_tính .
+Những nick chat nữ đã nhận được trung_bình 100 tin nhắn " có tính_chất nguy_hiểm " mỗi ngày , trong khi những nick thuộc phái nam chỉ là 4 và 25 thông_điệp đối_với những tên gọi mập_mờ , không rõ thuộc giới nào .
+Theo Michel_Cukier , Giáo_sư tại Đại_học Maryland , kết_quả khảo_sát đã chứng_tỏ việc đưa thông_tin cá_nhân lên Internet " nguy_hiểm như_thế_nào , dù mới chỉ là tiết_lộ tên của mình " .
+" Viết chương_trình hay mã lệnh có_thể phân_biệt tên gọi nam và nữ là rất khó . Do_vậy , thông_điệp đe_dọa không_thể được gửi đi tự_động , mà phải có những con_người thực đang tìm_kiếm nickname thuộc phái_yếu " , Cukier nhận_xét . Parry_Aftab , một chuyên_gia về an_toàn Internet , cho_biết : " Tôi không hề ngạc_nhiên trước kết_quả nghiên_cứu này . Tốt hơn là bạn không nên tiết_lộ quá nhiều thông_tin , đặc_biệt là giới_tính trên mạng . Chẳng có lý_do gì mà phải nói cho người khác biết bạn là phụ_nữ cả " .
+Theo VNExpress

@@ -1,0 +1,6 @@
+﻿ Microsoft ra_mắt bản IE7 beta 3
+Hôm_qua , hãng phần_mềm khổng_lồ phát_hành bản beta 3 của trình_duyệt Internet_Explorer 7 ( IE 7 ) . Bản thử_nghiệm thứ_ba này có nhiều thay_đổi về giao_diện người dùng và hệ_thống RSS .
+IE 7 cho_phép người sử_dụng đưa thêm phím bấm e - mail vào thanh công_cụ của IE hoặc thay_đổi trật_tự các thanh tab chỉ bằng thao_tác kéo - thả ... Bản_Beta mới nhất cũng hỗ_trợ cập_nhật dễ_dàng các nguồn tin RSS .
+Microsoft đã cải_tiến khả_năng tương_thích trên website và các ứng_dụng , đồng_thời sửa lỗi hiển_thị trang . IE 7 sẽ được phát_hành như một trình_duyệt độc_lập đối_với hệ_điều_hành Windows XP và được tích_hợp trong Windows_Vista .
+" Trong quá_trình phát_triển , chúng_tôi luôn lắng_nghe các ý_kiến phản_hồi từ phía khách_hàng , do_đó bản Beta 3 đã nâng cao đáng_kể khả_năng bảo_mật và tương_tác " , một đại_diện của nhà_phát_triển trình_duyệt Mỹ khẳng_định .
+Theo T . N . VnExpress/CNet

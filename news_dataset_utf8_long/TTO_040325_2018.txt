@@ -1,0 +1,7 @@
+﻿Xem cấu hình hệ thống
+
+Nếu bạn sử dụng hệ điều hành Windows từ 95 trở lên, thủ thuật rất đơn giản. Bấm phải chuột vào My Computer chọn Properties. Sẽ có một danh sách các đề mục bên dưới tab General cho biết tốc độ của vi xử lý cộng với lượng RAM trong hệ thống của bạn. 
+Ngoài ra thẻ Device Manager sẽ cho bạn thêm nhiều thông tin. Trong WinXP, Win2000 để chọn nó bạn click vào Hardware và chọn Device Manager. Trong Win98 và Me, click vào tab Device Manager. Trong đó, bạn sẽ tìm thấy thông tin về tất cả các thiết trong lẫn ngoài bao gồm driver, card màn hình, DVD và CD drive, modem... 
+Nếu bạn vẫn chưa thoả mãn, từ menu Start chọn Run và gõ msinfo32. Bạn sẽ nhận được những thông tin chi tiết đến "tận răng" từ tên tập tin quản lý driver đến địa chỉ ô nhớ sử dụng.
+
+ANH TUẤN (PCWorld)

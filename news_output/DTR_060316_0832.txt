@@ -1,0 +1,8 @@
+﻿ Trojan thứ_hai " bắt_cóc " tài_liệu để tống_tiền
+Công_ty bảo_mật Mỹ LURHQ vừa phát_hiện một chương_trình mới có_thể mã_hóa tất_cả các file trên máy_tính của nạn_nhân . Nó để lại thông_điệp yêu_cầu khoản tiền chuộc 300 USD nếu muốn dữ_liệu trở_lại an_toàn .
+Trojan_Cryzip này được gọi_là " phần_mềm tống_tiền " ( ransomware ) do nó sử_dụng một đoạn mã nguy_hiểm nhằm khống_chế tệp_tin và sau đó bán khóa mã với một khoản phí nhất_định .
+Cryzip giải_thích cho nạn_nhân biết rằng họ đã " đón " nó từ một trang_web khiêu_dâm và cảnh_báo không được liên_lạc với cảnh_sát . " Đừng cố tìm lại tài_liệu bởi đơn_giản nó không tồn_tại trên ổ_cứng nữa . Nếu quý ngài thực_sự quan_tâm tới những dữ_liệu này , hay trả qua mạng 300 USD " , Cryzip tuyên_bố .
+Hiện_nay , tấn_công từ_chối dịch_vụ , bằng việc sử_dụng các hệ_thống máy_tính bị nhiễm virus , là phương_pháp tống_tiền phổ_biến nhất trên Internet . Trong khi đó , Cryzip hoạt_động ở quy_mô nhỏ và hẹp hơn rất nhiều . Tháng 5/2005 , công_ty Websense ( Mỹ ) cũng đã phát_hiện một Trojan tương_tự .
+" Người sử_dụng chưa cần phải lo_ngại về Cryzip . Nhưng 2 trường_hợp diễn ra trong vòng 10 tháng qua cho thấy các tác_giả soạn virus đang hướng phần_mềm nguy_hiểm theo một xu_thế mới " , LURHQ nhấn_mạnh .
+Trong một thông_báo mới_đây , công_ty bảo_mật Symantec cũng đề_cập đến chuyện hacker phát_tán virus và âm_thầm ăn_cắp dữ_liệu vì lợi_ích riêng nhưng không gây ra thiệt_hại nào đáng_kể cho hệ_thống của người sử_dụng .
+Theo T . N . VnExpress/The Age

@@ -1,0 +1,13 @@
+﻿ Thể_lệ cuộc_thi dự_đoán “ Ghi_bàn cùng Goleo ”
+- Tất_cả bạn_đọc báo Tuổi_Trẻ đều được tham_dự cuộc_thi . Riêng nhân_viên báo Tuổi_Trẻ , Công_ty dược_phẩm SPM và Công_ty ABC không được tham_dự .
+II . Nội_dung cuộc_thi :
+- Dự_đoán kết_quả 64 trận đấu trong khuôn_khổ World_Cup 2006 .
+Cách_thức tham_dự :
++ Cách 1 : Người tham_dự soạn tin nhắn WC& lt ; khoảng trắng & gt ; A& lt ; khoảng trắng & gt ; B - C& lt ; khoảng trắng & gt ; D rồi gửi đến số 8282 . Trong đó , WC là mã cuộc_thi , A là mã trận đấu của ngày hôm đó , B - C là tỉ_số của trận đấu , B và C có_thể là một chữ_số hay hai chữ_số . D là số người cùng ý_kiến .
+Thời_gian tham_gia dự_đoán của mỗi trận kết_thúc vào phút 80 của trận đấu . VD : Bạn tham_gia dự_đoán trận Đức - Costa_Rica là trận đấu đầu_tiên trong ngày 10-6 , tỉ_số là 2-1 và có 48.045 người dự_đoán đúng thì soạn tin nhắn : WC 1 2-1 48045 rồi gửi đến số 8282 .
++ Cách 2 : Gọi điện đến số 19001733 và làm theo hướng_dẫn để tham_dự .
++ Số_lượng tin nhắn và số lần tham_dự không hạn_chế . Thông_tin về cuộc_thi sẽ liên_tục được thông_báo trên trang Thể_thao báo Tuổi_Trẻ . BTC không chịu trách_nhiệm những thông_tin do trục_trặc của mạng viễn_thông làm cho hệ_thống của BTC không nhận được tin nhắn của bạn . Tất_cả thuê_bao của Vinaphone , MobiFone , Viettel , SFone , EVN Telecom đều có_thể tham_dự cuộc_thi này .
+III . Giải_thưởng và công_bố kết_quả :
+- Mỗi đợt dự_đoán BTC trao một giải nhất trị_giá 5 triệu đồng và quà tặng lưu_niệm ( gồm móc khóa hình chú sư_tử Goleo ôm quả bóng Pille , đồng_tiền lưu_niệm mạ vàng có logo báo Tuổi_Trẻ và MyVita , một hộp MyVita ) cho người dự_đoán đúng hoặc gần đúng nhất kết_quả . Nếu có nhiều người có kết_quả gần nhau thì chọn người gửi đến sớm hơn . Ngoài_ra sẽ có ba giải khuyến_khích mỗi giải 500.000 đồng cho ba người dự_đoán có kết_quả gần đúng tiếp_theo .
+- BTC cũng sẽ trao một giải đặc_biệt trị_giá 10 triệu đồng và quà tặng lưu_niệm ( gồm móc khóa hình chú sư_tử Goleo ôm quả bóng Pille , đồng_tiền lưu_niệm mạ vàng có logo báo Tuổi_Trẻ và MyVita , một hộp MyVita ) cho người tham_gia dự_đoán nhiều lần nhất trong cả mùa giải . Kết_quả sẽ được đăng ngay trên báo Tuổi_Trẻ phát_hành ngày hôm_sau và thông_báo trực_tiếp cho người đoạt giải .
+BAN_TỔ_CHỨC

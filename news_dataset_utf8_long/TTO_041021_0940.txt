@@ -1,0 +1,6 @@
+﻿Mô hình tử cung nhân tạo
+
+Arun Holden tại đại học Leeds đang mô phỏng sự co bóp của tử cung trên máy tính, sử dụng kiến thức về cách từng tế bào cơ hoạt động, cách chúng phối hợp với nhau và cách chúng liên lạc với các tế bào bên cạnh bằng điện tế bào. Holden, người đã phát triển tim nhân tạo và bây giờ muốn áp dụng kỹ thuật này vào các cơ tử cung, nói: "Nó sẽ giúp chúng tôi trong các vấn đề trẻ sinh non". 
+Các bác sĩ có thể đo điện hoạt động trên bề mặt bụng, bằng cách dùng thạch cao đắp lên vùng bụng có gắn điện cực, rồi dùng mô hình máy tính để xác định các hoạt động của tế bào trong dạ con. Máy tính cũng có thể dự đoán tác dụng của những loại thuốc mới. Khi đã hiểu biết cặn kẽ về sinh lý và giải phẫu, chúng ta có thể sử dụng chương trình để xem trước tử cung.
+
+QUỐC DŨNG (Theo Nature)

@@ -1,0 +1,12 @@
+﻿Tạo Slideshow có thuyết minh bằng Ashampoo SeeYa
+
+Cách sử dụng Ashampoo SeeYa (AS) cũng hết sức đơn giản. Bạn nhấn vào nút “Add” để đưa vào AS mọi tấm ảnh số trong một thư mục chủ đề nào đó của bạn. 
+Để ghi âm bạn click vào ảnh để chọn ảnh cần thuyết minh -&gt; nhấn nút “Record” và thuyết minh nội dung của tấm ảnh bằng micro đã cắm sẵn vào máy. Khi thuyết minh xong thì nhấn vào nút “Stop” để kết thúc. 
+Lặp lại qui trình chèn văn bản và thuyết minh cho từng tấm ảnh cho đến khi nào hết bộ sưu tập. Biểu tượng loa và nốt nhạc xuất hiện trước mỗi ảnh số trong danh sách “Pictures in Slideshow” chứng tỏ tấm ảnh này đã được thuyết minh. 
+Bạn cũng có thể ghi chú thích của từng tấm ảnh vào ô Text trong khu vực “Picture’s Preview and Text”, và chú thích này sẽ hiện ra tương ứng ở một ô Text khi trình diễn. 
+Khi đã hoàn tất quá trình thuyết minh hoặc chèn phụ đề cho ảnh, bạn nhấn vào nút “Go” để AS bắt đầu thực hiện quá trình tạo slideshow. Bạn có thể chọn “Creat a Compact-mode Slideshow” để giảm thiểu tối đa kích thước của file trình diễn hoặc chọn “Creat a full-mode Slideshow” để giữ nguyên kích thước của mọi tấm ảnh. 
+Sau khi hoàn tất, bạn đặt tên và lưu slideshow vào thư mục hoặc có thể gửi cho bạn bè bằng mail. Slideshow vừa tạo sẽ có dạng file EXE mà khi nhấp đúp vào file này slideshow sẽ tự động trình diễn và phát âm thanh ở những file ảnh có thuyết minh. 
+Bạn có thể xem slideshow của mình ở chế độ toàn màn hình “FullScreen View” hoặc xem trong cửa sổ trình diễn của AS, cũng như thiết lập thời gian xem của từng tấm ảnh. 
+Công ty GMBH và Net-Album đang bán công cụ hấp dẫn này với giá 20 USD. Người dùng có thể vào đây để tải về bản dùng thử của Ashampoo SeeYa 2.0 http://www.ashampoo.com/ với dung lượng khoảng 4,2 MB hoặc tìm mua tại các cửa hàng phần mềm.
+
+HOÀNG HẢI

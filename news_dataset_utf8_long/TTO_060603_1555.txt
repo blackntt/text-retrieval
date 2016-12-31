@@ -1,0 +1,13 @@
+﻿Thế giới "siêu nhỏ"
+
+Chúng ta vẫn không chắc rằng bao nhiêu vật siêu nhỏ ấy có thể lấp đầy đầu một cây kim gút (chỉ vài nanometer), nhưng những tiến bộ ngày nay những vậy dụng siêu nhỏ có thể giúp các nhà khoa học làm những việc tưởng chừng không thể. Dưới đây là một số "kỳ công siêu nhỏ" của các chuyên gia. 
+Một chú ruồi đeo cặp mắt kiếng rộng 2mm. Mắt kiếng này được tạo ra với công nghệ siêu chính xác từ các xung laser 
+Hệ thống bánh răng siêu nhỏ với 6 bánh răng có thể giúp vận hành máy móc siêu nhỏ với tốc độ lên đến 25.000 vòng quay/phút. Các hệ khoá điện phức tạp cũng sử dụng các hệ bánh răng này để khó có thể bị phá. Mỗi bánh trong hệ mắt xích sẽ là một mấu chốt để vận hành chính xác một hệ thống điện. 
+Bánh răng này được tạo bởi một tia ion hội tụ. Hình ảnh được nhìn thấy dưới độ phóng đại 50.000 lần. 
+Tàu ngầm siêu nhỏ này, được tạo hình bằng cách dùng máy tính điều khiển một chùm laser làm "đông đặc" một hợp chất lỏng gốc acrylic, có chiều dài chỉ 4 mm. Hy vọng, thiết bị này sẽ có những chuyến phiêu lưu kỳ thú, nhất là trong các ứng dụng y học 
+Một máy dò phân tử dài 6 micromet (1mm = 1000 mcromet) làm từ một thanh platin. Thiết bị này được dùng để theo dõi sự phân phối của các phân tử đơn lẻ trong khi pha trộn hợp kim cũng như trong các vật liệu khác. Hình ảnh nhìn thấy dưới độ phóng đại 25.000 lần. 
+Một mảng các lỗ được tạo ra có kích thước mỗi lỗ khoảng 125 nanomet (1mm=1.000.000 nanomet) được đục chính xác với các tia ion hội tụ do máy tính điều khiển 
+Con lạc đà cao 2mm được làm bằng vàng lá và được đặt lọt thỏm vào trong chuôi kim rộng 300 micromet 
+Một con ve dài 500 micromet đang ngồi hệ thống gương được sử dụng cho các hệ chuyển hướng tia sáng trong việc truyền dữ liệu bằng quang học. Kính này (bên trái) được điều khiển bằng một hệ thống bánh răng siêu nhỏ.
+
+V.THẢO (Theo Popular Science)

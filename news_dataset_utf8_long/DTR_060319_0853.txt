@@ -1,0 +1,7 @@
+﻿Trojan theo dõi hoạt động của chuột máy tính
+
+Các tác giả viết virus vừa tạo ra một loại chương trình nguy hiểm mới, không chỉ lưu các thông tin nhập từ bàn phím mà còn có khả năng ghi lại những lần click chuột. 
+ Thông thường, Trojan dạng keylogger có thể thu thập thông tin nhạy cảm gõ trên bàn phím như mật khẩu, ID... và gửi trở lại cho kẻ phát tán. Nhưng gần đây, một biến thể của phần mềm PWSteal.Bancos.Q lại lần theo các chuyển động của chuột máy tính và chụp màn hình những trang web ngân hàng nhất định. 
+Trojan này hướng mục tiêu tấn công vào những tổ chức tài chính như Westpac (Mỹ), hiện sử dụng bàn phím ảo để đảm bảo an toàn cho khách hàng khi điền thông tin tài khoản. 
+Chuyên gia bảo mật Internet Allen Bell cho biết nhiều ngân hàng trực tuyến đang triển khai công nghệ bàn phím ảo để tránh bị Trojan khai thác, nhưng hacker đã lập tức thay đổi chiến thuật. "Vỏ quýt dày có móng tay nhọn. Dù bạn có cải tiến phương pháp phòng vệ thế nào, tội phạm mạng cũng sẽ tìm ra cách phá vỡ nó", Bell khẳng định. 
+Theo T.N. VnExpress/AP

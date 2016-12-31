@@ -1,0 +1,10 @@
+﻿ Tấn_công từ_chối dịch_vụ ( DoS ) tăng mạnh_mẽ
+Tấn_công từ_chối dịch_vụ ( DoS ) , hành_động mà các tin_tặc lợi_dụng đặc_điểm hoặc lỗi an_toàn thông_tin của một hệ_thống dịch_vụ nhằm làm ngưng_trệ hoặc ngăn_cản người dùng truy_nhập dịch_vụ đó , đã tăng 50% trong 6 tháng qua , gây ảnh_hưởng đến nhiều hoạt_động trên Internet .
+Báo_cáo mối đe_dọa hai năm một lần của công_ty bảo_mật Symantec nhận thấy , lừa_đảo trực_tuyến ( phishing ) – phát_tán e - mail giả_mạo để ăn_trộm mất khẩu của người dùng - đã tăng 39% trong nửa năm qua .
+Công_ty bảo_mật Symantec cũng cho_biết tội_phạm mạng đang có xu_hướng tấn_công một_cách rất tinh_vi , qua_mặt sự cảnh_giác của mục_tiêu .
+Phần_mềm tội_phạm ( crimeware ) tìm cách ăn_trộm dữ_liệu tài_chính của người dùng Internet là một mối đe_dọa mới đối_với môi_trường Net , theo Symatec . Hacker thường sử_dụng các kỹ_thuật , như mạng ma ( bot ) , các phần_mềm robot chạy trên các máy_tính của người dùng không khôn_ngoan và lặng_lẽ ăn_trộm các thông_tin quan_trọng .
+Symantec còn cho_biết , tin_tặc lợi_dụng những máy_tính đã bị nhiễm phần_mềm ma để tấn_công từ_chối dịch_vụ DoS – hơn 1.402 vụ mỗi ngày , nhằm ăn_cắp tiền . Mỗi ngày hơn 8.000 vụ tấn_công phishing xảy_ra .
+“ Tin_tặc bây_giờ không còn sử_dụng kỹ_thuật script để tấn_công vì nó phá_hủy toàn_bộ hệ_thống và gây_sự chú_ý của nhiều người ” , Richard_Archdeacon , đại_diện của Symantec , giải_thích . “ Những kẻ đứng sau tội_phạm mạng đang sử_dụng các biện_pháp lặng_lẽ và hướng tới nhiều mục_tiêu để ăn_cắp dữ_liệu và các thông_tin nhạy_cảm khác mà không gây “ ồn_ào ” .
+Ông này còn cho_biết thêm : “ Mạng máy_tính ma ngày_càng nhiều và sự xuất_hiện thêm dạng tội_phạm “ mafia ” online càng tăng thêm tính nghiêm_trọng của tình_trạng gian_lận trên Internet ” . Trung_Quốc là nước có nhiều máy_tính nằm trong mạng máy_tính ma , tăng 37% trong vòng 6 tháng qua .
+Các nhà_nghiên_cứu của Symantec nhận thấy rằng trong tương_lai tin_tặc sẽ khai_thác thông_tin tài_chính để bán cho bên thứ_ba để thực_hiện gian_lận .
+S.Hương Theo BBC

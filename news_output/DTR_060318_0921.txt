@@ -1,0 +1,8 @@
+﻿ Khách_hàng ngân_hàng “ làm_lơ ” với e - mail
+Theo khảo_sát thường_niên do công_ty nghiên_cứu thị_trường Infosurv , cứ 5 khách_hàng giao_dịch ngân_hàng trực_tuyến thì_có 4 người thờ_ơ với e - mail trong hòm_thư cho_dù là thư do ngân_hàng gửi đến .
+Khảo_sát nhận thấy người dùng đã mất_lòng tin đối_với e - mail , 79% số người được hỏi cho_biết họ không có ý_định check mail cho_dù đó là e - mail của ngân_hàng , trong khi đó , con_số này trong năm 2004 chỉ là 70% . Gần 2/3 khách_hàng được phỏng_vấn cho_biết số e - mail lừa_đảo trực_tuyến ( phishing ) gửi đến cho họ không hề giảm .
+Người dùng hy_vọng giao_dịch ngân_hàng trực_tuyến cần phải kiểm_soát chặt_chẽ hơn_nữa – 9/10 người cho_biết sẽ rất yên_tâm nếu được kiểm_soát khi giao_dịch online , và 59% khách_hàng trả_lời mong_muốn ngân_hàng sẽ liên_lạc với họ nếu nghi_ngờ có hoạt_động bất_thường trên số tài_khoản của họ , khảo_sát ghi_nhận .
+“ Duy_trì tốc_độ , mức_độ đơn_giản , dễ sử_dụng và tiện_lợi của kênh giao_dịch ngân_hàng trực_tuyến là điều rất quan_trọng ” , Chris_Young , Phó_giám_đốc của công_ty RSA Cyota_Consumer_Solutions , nhận_định . “ Tuy_nhiên , khách_hàng sẽ cảm_thấy thoải_mái hơn nếu tổ_chức tài_chính đó kiểm_soát hoạt_động giao_dịch và liên_lạc với khách_hàng nếu có dấu_hiệu đáng ngờ ” .
+Mặc_dù cộng_đồng ngân_hàng đã hô_hào về các hệ_thống quản_lý nhận_dạng hiệu_quả nhưng thực_tế khả_năng bảo_mật của chúng rất kém và diễn ra chậm_chạp .
+Gần 50% người được hỏi cảm_thấy thoải_mái khi sử_dụng một thiết_bị phần_cứng để truy_cập tài_khoản , trong khi đó , 3/4 khách_hàng muốn sử_dụng một biện_pháp an_ninh mạnh_mẽ hơn .
+N.Hương Theo VNuNet

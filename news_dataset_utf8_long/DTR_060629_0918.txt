@@ -1,0 +1,7 @@
+﻿IBM vẫn dẫn đầu trong Top 500 siêu máy tính
+
+Hệ thống Blue Gene/L của IBM đã được cài đặt trong Phòng thí nghiệm Lawrence Livermore (Mỹ) vẫn là “thủ lĩnh” trong Top 500 siêu máy tính mạnh nhất trên toàn thế giới. IBM đã chiếm trọn 4 vị trí đầu bảng trong danh sách 10 supercomputer uy lực nhất. 
+ Tốc độ xử lý tối đa của Blue Gene/L lên tới 280,6 teraflop (280,6 nghìn tỷ phép tính mỗi giây). Hiện tại, không một supercomputer nào có tốc độ vượt 100 teraflop và với những tính năng nổi trội hơn hẳn, các nhà tổ chức bình chọn cho rằng hệ thống của IBM sẽ vẫn đăng quang vài lần nữa. 
+Các hệ thống của IBM chiếm 48,6% trong Top 500 siêu máy tính, tiếp sau đó là Hewlett-Packard với 30,8%. Hệ thống máy chủ GSIC Center sử dụng bộ vi xử lý Opteron đang được đặt trong Viện công nghệ Tokyo (Nhật Bản) đã giúp Sun Microsystems chen chân vào top 10 hệ thống hàng đầu với vị trí thứ 7. 
+Điểm đáng chú ý là trong khi thứ tự trong danh sách các hệ thống ở cuối bảng không thay đổi là bao thì cuộc cạnh tranh giữa những “ông lớn” lại rất căng thắng. 3 vị trí đầu bảng từ tháng 11/2005 đã được thay thế hoàn toàn: Earth Simulator đặt ở Tokyo do NEC phát triển có tốc độ 35,86 teraflop đã 5 lần liên tục đứng trong top 5 thì trong lần này đã bị đẩy xuống vị trí thứ 10. 
+N.H Theo PCMag

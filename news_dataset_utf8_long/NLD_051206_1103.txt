@@ -1,0 +1,6 @@
+﻿Xây dựng hệ thống giáo dục THPT trực tuyến
+
+GS.TS Hoàng Kiếm - chủ nhiệm chương trình nghiên cứu xây dựng hệ thống giáo dục trực tuyến dành cho bậc THPT - cho biết chương trình này đang triển khai đối với một số môn học như toán, lý, hóa, Anh văn, tin học...
+Theo ông, chương trình này được xem là một kênh để cung cấp những bài giảng, tài liệu tham khảo... trên mạg Internet. Ngoài ra, đây còn là diễn đàn giúp HS trao đổi về mặt học thuật. Khi hệ thống này được triển khai, HS có thể ngồi tại nhà kết nối mạng Internet và truy cập vào kênh giáo dục trực tuyến để tích lũy kiến thức, tự học tại nhà và học bất kỳ lúc nào. Dự kiến vào quí 2-2006, chương trình sẽ được triển khai rộng rãi.
+
+Theo Tuổi Trẻ

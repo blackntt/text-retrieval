@@ -1,0 +1,5 @@
+﻿ Thế_hệ sâu IE mới
+Sâu này sử_dụng lỗi khi IE xử_lý hàm creat TextRange ( ) , hay còn gọi_là phương_pháp creat TextRange ( ) , giúp cho hacker có_thể dễ_dàng cài_đặt các chương_trình nguy_hiểm vào máy_tính . Thế_hệ sâu này được dự_báo là nguy_hiểm hơn nhiều so với các loại sâu sử_dụng khi mới phát_hiện ra lỗi .
+Những phiên_bản cũ của loại sâu này thường làm đông cứng ( chết ứng_dụng ) của máy_tính bị lây_nhiễm khoảng một phút trước khi chúng có_thể triển_khai các mã độc của mình . Bởi_vậy nếu tinh_ý , người quản_trị có_thể đóng máy , ngắt ứng_dụng thì có_thể ngăn_chặn sự hoạt_động của sâu . Nhưng những loại sâu mới thường hoạt_động nhanh hơn nhiều , và đương_nhiên , trên những máy_tính yếu và ít bộ_nhớ thì cũng rất dễ_dàng .
+Trong khi Microsoft vẫn chưa đưa ra được bản vá , thì một công_cụ sửa_chữa không chính_thức đã được e Eye_Digital_Security và Determina cung_cấp . Microsoft cũng khuyến_cáo người dùng nên sử_dụng công_cụ quét mã độc được cung_cấp tại website http : / / safety.live.com . Bản vá chính_thức được dự_định phát_hành vào ngày 11-4 này .
+TRẦN_HUY ( tổng_hợp )

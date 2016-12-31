@@ -1,0 +1,41 @@
+﻿Tiêu chí đánh giá sản phẩm dự thi “Mobile Games 2005”
+
+- Nội dung hay. 
+- Luật chơi dễ hiểu. 
+- Trò chơi không nhàm chán. 
+2. CÔNG NGHỆ (30 điểm) 
+- Khuyến khích chơi on-line, kết nối với các máy khác cùng chơi. 
+- Khuyến khích sử dụng ít bộ nhớ, kích thước chương trình nhỏ. 
+- Ít lỗi và ổn định. 
+- Hỗ trợ nhiều kích thước màn hình. Các kích thước đề nghị: 176 x 220 pixel (bắt buộc), 128 x 160 pixel và 128 x 128 pixel. 
+- Sử dụng được nhiều tính năng trong chương trình giả lập do BTC cung cấp. 
+- Thuật toán khó. 
+3. TÍNH SÁNG TẠO/TÍNH MỚI (20 điểm) 
+- Có điểm mới trong ý tưởng/thiết kế/lập trình. 
+- Khác biệt với những trò chơi đã có trên thị trường. 
+4. TÍNH THẨM MỸ (10 điểm) 
+- Hình ảnh đẹp. 
+- Âm thanh hấp dẫn 
+5. CHẤT LƯỢNG TÀI LIỆU KÈM THEO (5 điểm) 
+- Tài liệu rõ ràng, súc tích, trình bày đẹp. 
+- Demo đẹp và hấp dẫn. 
+B. ỨNG DỤNG 
+1. TÍNH THỰC TIỄN (30 điểm) 
+- Khả năng ứng dụng trên diện rộng (nhiều người sử dụng được). 
+- Mang tính thực tiễn, hiệu quả cao. 
+- Dễ sử dụng. 
+2. CÔNG NGHỆ (35 điểm) 
+- Ít lỗi và ổn định. 
+- Sử dụng được nhiều tính năng trong chương trình giả lập do BTC cung cấp. 
+- Hỗ trợ được nhiều giao thức kết nối (hồng ngoại, bluetooth, GPRS....) 
+- Hỗ trợ nhiều kích thước màn hình (nếu chương trình có sử dụng low-level UI). Các kích thước đề nghị: 176 x 220 (bắt buộc); 128 x 160, 128 x 128 pixel. 
+3. TÍNH SÁNG TẠO/TÍNH MỚI (20 điểm) 
+- Có điểm mới trong ý tưởng/thiết kế/lập trình. 
+- Khác biệt với những ứng dụng đã có trên thị trường. 
+4. TÍNH THẨM MỸ (10 điểm) 
+- Giao diện đẹp, thuận tiện. 
+5. CHẤT LƯỢNG TÀI LIỆU KÈM THEO (5 điểm) 
+- Tài liệu rõ ràng, súc tích, trình bày đẹp. 
+- Demo đẹp và hấp dẫn.
+
+BTC

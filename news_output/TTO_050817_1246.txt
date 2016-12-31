@@ -1,0 +1,15 @@
+﻿ Điểm_chuẩn ĐH Công_nghiệp , Ngân_hàng TP.HCM , TT Đào_tạo BDCBYT_TP . HCM , Tây_Nguyên , KTCNghệ , Lạc_Hồng , NNTHọc
+- Công_nghệ kỹ_thuật điện : 18.5 - Công_nghệ kỹ_thuật cơ_khí : 19.5 - Công_nghệ nhiệt lạnh : 17 - Công_nghệ kỹ_thuật điện_tử : 20.5 - Công_nghệ hóa_học : 20 - Khoa_học máy_tính : 19 - Công_nghệ kỹ_thuật ô_tô : 19 - Công_nghệ thực_phẩm : 21 - Công_nghệ môi_trường : 18 - Công_nghệ may : 17 - Quản_trị kinh_doanh : 18 - Kế_toán : 18 - Tiếng_Anh : 19.5
+ĐH Ngân_hàng TP.HCM
+- Tài_chính Ngân_hàng : 20,5 - Quản_trị kinh_doanh : 20,5 - Hệ_thống thông_tin kinh_tế : 20 - Tiếng_Anh thương_mại : 20
+Trung_tâm Đào_tạo Bồi_dưỡng cán_bộ y_tế TP.HCM
+- Bác_sĩ đa_khoa hệ chính_quy : 23 điểm ( dành cho học_sinh phổ_thông khu_vực 3 ) .
+ĐH Tây_Nguyên
+- Toán : 18,5 - Vật_lý : 16,5 - Cử_nhân Tin_học : 15 - Kinh_tế Nông_lâm : 15 - Quản_trị Kinh_doanh : 15 - Kế_toán : 15 - Quản_lý đất_đai : 15 - Bảo_quản chế_biến nông_sản : 15 - Sư_phạm tiểu_học : 15 ( A - C ) - Sư_phạm Sinh_học : 19 - Bảo_vệ thực_vật : 15 - Trồng_trọt : 15 - Chăn_nuôi thú_y : 15 - Thú_y : 15 - Lâm_sinh : 15 - Y_khoa : 21,5 - Quản_lý tài_nguyên rừng và môi_trường : 16 - Điều_dưỡng : 15 - Sư_phạm Ngữ_văn : 15 - Giáo_dục chính_trị : 14 - Sư_phạm tiếng Anh : 14 - Dược : 20 - Răng - Hàm - Mặt : 16,5
+ĐH dân_lập Kỹ_thuật công_nghệ
+- Khối A - B : 15 - Khối D : 14
+ĐH dân_lập Lạc_Hồng
+- Khối A - B : 15 - Khối C - D : 14
+ĐH dân_lập Ngoại_ngữ - Tin_học TP.HCM
+- Khối A : 15 - Khối D : 14
+NHÓM_PHÓNG_VIÊN_TTO

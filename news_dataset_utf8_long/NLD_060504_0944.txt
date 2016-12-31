@@ -1,0 +1,11 @@
+﻿Skype cho phép thoại cùng lúc... 100 người
+
+Hãng cung cấp phần mềm VoIP hàng đầu - Skype vừa quyết định bành trướng vị thế thống trị với Skypecasts, một dịch vụ hội thảo audio miễn phí cho phép tới 100 người tham gia đồng thời. 
+Hiện tại, người dùng chủ yếu sử dụng chương trình của Skype để trò chuyện hai đầu, dẫu rằng phần mềm này có thể phục vụ hội thảo với 10 đầu cầu cùng lúc. Tuy nhiên, với dịch vụ mới, số lượng 'đầu cầu" sẽ được mở rộng gấp 10 lần. 
+Để đảm bảo cho cuộc hội thảo diễn ra xuôi chèo mát mái, Skypecasts buộc bạn phải chọn ra một "chủ xị" (Host) để cầm chịch và điều khiển cuộc họp. Chính ngôi Host này sẽ cho phép người này nói, người kia nghe, tránh tình trạng tranh nhau phát biểu. 
+Ông Saul Klein, phó chủ tịch marketing toàn cầu của Skype cho biết dịch vụ Skypecasts hiện mới chỉ ở dạng "khởi thủy" và thử nghiệm và nó sẽ được tiếp tục nâng cấp, hoàn thiện trong thời gian tới. 
+Người dùng cũng có thể tìm thấy Skypecasts trên website của Skype, nơi mọi cuộc hội thảo đều được liệt kê công khai. 
+Skype mô tả về Skypecasts như một phương thức mới giúp con người thảo luận về các sở thích và mối quan tâm chung. Tới thời điểm này, Six Apart, công ty mẹ của các dịch vụ mạng và blogging TypePad, Movable Type and LiveJournal, đã có kế hoạch quảng bá Skypecast bên trong những diễn đàn ảo của mình. 
+Cũng trong dịp này, Skype đã phát hành một phiên bản thử nghiệm mới của Skype, cho phép người dùng gửi tin nhắn SMS tới điện thoại di động với mức cước rẻ như cho. Một số tính năng mới khác là: Gọi điện trực tiếp từ Skype tới các contact có trong Microsoft Outlook; chia sẻ các nhóm contacts với bạn bè; trả tiền cho các dịch vụ như gọi đến điện thoại cố định mà không cần đóng ứng dụng. Trong các phiên bản Skype trước, người dùng phải truy cập vào site của Skype nếu muốn thanh toán.
+
+Theo VNN

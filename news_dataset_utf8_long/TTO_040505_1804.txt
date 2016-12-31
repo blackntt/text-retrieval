@@ -1,0 +1,7 @@
+﻿Sắp xuất hiện định dạng MP3 mới
+
+Định dạng MP3 mới, có tên là "Super MP3", sẽ sử dụng 4 kênh âm thanh thay vì 2 kênh hiện nay và hỗ trợ tính năng âm thanh số "siêu" nổi 5.1. Theo nhận định của các chuyên gia, những người say mê âm nhạc hẳn sẽ rất hài lòng với chất lượng âm thanh tuyệt hảo của Super MP3. 
+Ngoài ra, định dạng Super MP3 mới còn được tổ chức Fraunhofer Institute, "cha đẻ" của MP3, bổ sung tính năng quản lý bản quyền số (LWDRM) và không thể chia sẻ qua mạng ngang hàng. Nếu tác giả đầu tiên của một file MP3 nào đó công bố chúng lên mạng chia sẻ, file nhạc sẽ hiển thị chữ ký số của tác giả đó, cho phép xác định nguồn gốc của file nhạc. 
+Tính năng truy tìm nguồn gốc và không thể chia sẻ trên là một trong những cố gắng của Fraunhofer Institute nhằm vào thị trường bản quyền âm nhạc đầy "bát nháo" hiện nay.
+
+Theo VDC-Slashdot

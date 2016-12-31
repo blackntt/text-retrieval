@@ -1,0 +1,7 @@
+﻿ Cuộc_thi “ Sôi_động cùng Eurowindow V-League 2006 ” : Bình_Dương sẽ tiếp_tục bay cao ?
+Trong đó , V là mã cuộc_thi , X là kết_quả trận đấu , X= 1 đội chủ nhà thắng , X= 2 hòa , X= 3 đội khách thắng , Y là số người dự_đoán đúng kết_quả trận đấu . Thời_gian kết_thúc tham_gia dự_đoán là phút 80 của trận đấu .
+VD : Bạn chọn Bình_Dương thắng và có 38.045 người dự_đoán đúng thì soạn tin nhắn : V 3 38045 gửi đến 19001733 . Cách 2 : Gọi điện đến số 19001733 và làm theo hướng_dẫn để tham_gia . Giải_thưởng : 1 giải nhất 3 triệu đồng , 1 giải nhì 2 triệu đồng , 2 giải ba 1 triệu đồng / giải .
+Sáng_qua 1-6 , tại tòa_soạn báo Tuổi_Trẻ đã diễn ra lễ trao giải cho các bạn_đọc trúng thưởng cuộc_thi " Sôi_động cùng Eurowindow V-League 2006 " ( vòng 17 , 18 ) .
+Trong số những người trúng giải , bạn_đọc Nguyễn_Thị_Hường ( ảnh - bìa trái ) ở số 41A Nguyễn_Thị_Huỳnh , P . 8 , Q.Phú Nhuận , TP.HCM là người đã trúng cả hai giải 3 của hai vòng đấu vừa_qua .
+Đặc_biệt , bạn_đọc Võ_Thành_Được ( ảnh - thứ 2 từ phải sang ) ở 116/877A Nguyễn_Kiệm , P . 3 , Q.Gò Vấp , TP.HCM , người từng trúng giải nhì ở vòng 15 và giải nhất ở vòng 16 , cũng tiếp_tục đoạt được giải 3 ở trận SLNA hòa TMN.CSG 1-1 ( vòng 18 ) .
+BAN_TỔ_CHỨC

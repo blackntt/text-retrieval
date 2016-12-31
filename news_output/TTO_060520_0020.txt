@@ -1,0 +1,6 @@
+﻿ Phía trước là trận HP.Hà Nội - GĐT . Long_An
+- Cách 1 : Soạn tin nhắn V& lt ; khoảng trắng & gt ; X& lt ; khoảng trắng & gt ; Y gửi đến số 19001733 . Trong đó , V là mã cuộc_thi , X là kết_quả trận đấu , X= 1 đội chủ nhà thắng , X= 2 hòa , X= 3 đội khách thắng , Y là số người dự_đoán đúng kết_quả trận đấu . Thời_gian kết_thúc tham_gia dự_đoán là phút 80 của trận đấu .
+VD : Bạn chọn GĐT . Long_An thắng và có 38.045 người dự_đoán đúng thì soạn tin nhắn : V 3 38045 gửi đến 19001733 .
+- Cách 2 : Gọi điện đến số 19001733 và làm theo hướng_dẫn để tham_gia .
+Giải_thưởng : một giải nhất 3 triệu đồng , một giải nhì 2 triệu đồng , hai giải ba 1 triệu đồng / giải .
+BAN_TỔ_CHỨC

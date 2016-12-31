@@ -1,0 +1,6 @@
+﻿ Các tuyến xe_buýt TP.HCM : Mã_số 45 , 52
+Lộ_trình : công_viên Quách_Thị_Trang - Trần_Hưng_Đạo - Nguyễn_Cư_Trinh - Nguyễn_Trãi - Nguyễn_Văn_Cừ - An_Dương_Vương - Sư_Vạn_Hạnh - Hùng_Vương - Nguyễn_Chí_Thanh - Thuận_Kiều - Châu_Văn_Liêm - Hải_Thượng_Lãn_Ông - Vạn_Kiếp ( cầu Chà_Và ) - Xóm_Củi - Cao_Xuân_Dục - Tùng_Thiện_Vương - cầu Nhị_Thiên_Đường - quốc_lộ 50 - bến_xe quận 8 .
+Ga trực_thăng - chợ Bình_Hưng_Hòa ( MS : 52 )
+Thời_gian hoạt_động : từ 6g-18g , với 100 chuyến xe / ngày , cự_ly 9km và thời_gian hành_trình 40 phút . Giờ cao_điểm 10 phút/chuyến , giờ thấp_điểm 15 phút/chuyến . Giá vé 2.000 đồng đi một trạm hoặc suốt tuyến .
+Lộ_trình : đầu đường Hoàng_Hoa_Thám - Trường_Chinh - Nguyễn_Hồng_Đào - Âu_Cơ - Trần_Hưng_Đạo - Tân_Sinh - Trương_Vĩnh_Ký - Gò_Dầu - Bình_Long - Tân_Ký_Tân_Quí - chợ Bình_Hưng_Hòa .
+N . A .

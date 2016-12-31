@@ -1,0 +1,11 @@
+﻿PC tương lai biết được từng hoạt động của người dùng
+
+Máy tính trong tương lai không xa sẽ biết lúc nào người dùng đang họp hoặc lúc nào chủ nhân của nó đang đi dạo trong công viên, và từ đó sẽ điều chỉnh cách thức liên lạc khi cần thiết. 
+ 
+Một dự án nghiên cứu do Intel và trường Đại học Washington thực hiện sẽ sử dụng một hệ thống gồm 8 bộ cảm ứng để thu thập dữ liệu về ánh sáng xung quanh, ánh sáng hồng ngoại, chuyển động của cơ thể, mức độ âm thanh, độ ẩm không khí và áp suất không khí. 
+Những bộ cảm ứng này cho phép một thiết bị xác định tư thế của người dùng, như đang đi dạo, đi tập thể dục hay đang ngồi trên ghế. 
+Kết hợp với dữ liệu từ lịch làm việc của người dùng, máy tính có thể biết được người đó đang họp với ban giám đốc hay chỉ đang chat trong phòng điều hòa. 
+Theo Intel, điện thoại di động hay máy tính cá nhân có thể sử dụng thông tin này để thực hiện các cách liên lạc khác nhau, như chỉ gọi điện khi có việc quan trọng trong thời gian người đó đang họp hoặc chuyển cuộc gọi vào hộp thư thoại khi người đó đang tập thể dục. 
+Tanzeem Choudhury, nhà nghiên cứu của phòng thí nghiệm Seattle của Intel, cho biết tại Hội thảo “Ngày Intel”, thiết bị cũng có các ứng dụng quản lý cơ thể và chăm sóc sức khỏe cho người dùng. 
+Theo Choudhury, một phần mềm trung gian có thể sử dụng bộ cảm ứng này để theo dõi những thay đổi về sức khỏe, như tốc độ đi bộ chậm hơn là một dấu hiệu cho thấy sự giảm sút về sức khỏe. 
+N.H Theo VNuNet

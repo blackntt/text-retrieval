@@ -1,0 +1,7 @@
+﻿ Lỗi bảo_mật mới lại xuất_hiện trong IE và Firefox
+Symantec cùng nhiều công_ty bảo_mật khác vừa cảnh_báo về một lỗi bảo_mật xuất_hiện đồng_loạt trong hầu_hết các trình_duyệt web chạy trên môi_trường Windows , Linux và Mac .
+Đây là một lỗi bảo_mật có khả_năng xuất_hiện đồng_loạt trên nhiều trình_duyệt chạy trên nhiều hệ_điều_hành .
+Lỗi này liên_quan đến cách_thức các trình_duyệt điều_khiển các mã lệnh JavaScript , tạo điều_kiện cho các trang_web độc ăn_cắp thông_tin của người dùng khi vào ghé thăm các trang_web đó , nhất_là các trang_web giả_danh các website thẻ_tín_dụng , ngân_hàng …
+Symantec cho_biết lỗi này tồn_tại trong tất_cả các phiên_bản của Internet_Explorer và Firefox , chủ_yếu có tác_dụng khi người dùng tác_động đến chức_năng dòng lệnh “ OnKeyDown ” của JavaScript , giúp mã độc có_thể bắt được các ký_tự mà người dùng gõ vào bàn_phím .
+Với cơ_chế hoạt_động như trên cũng được xem là “ tạm đủ ” cho các hacker xâm_nhập vào mọi tài_khoản người dùng . Nhưng một điều may_mắn là các công_ty bảo_mật đều đồng quan_điểm cho rằng lỗi bảo_mật này cũng chỉ nguy_hiểm ở mức trung_bình và “ phần_thưởng ” chỉ dành cho những hacker đủ “ kiên_nhẫn ” tấn_công . Bản vá lỗi bảo_mật này sẽ được tung ra trong các lần nâng_cấp tới đây của các trình_duyệt .
+Theo Tuổi_Trẻ

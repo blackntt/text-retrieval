@@ -1,0 +1,42 @@
+﻿ Dùng bộ lọc Yahoo để chặn thư rác
+Hiện_nay các SPAM luôn thay_đổi tiêu_đề và địa_chỉ để đánh_lừa bộ lọc của các chương_trình trên . Một nhược_điểm nữa_là OE sau khi nhận mail về máy thì mới lọc điều này chúng_ta phải mất rất nhiều thời_gian chờ_đợi các email vô_ích tải vào máy rồi mới đến các email chúng_ta cần .
+1 . Các công_việc cần chuẩn_bị trước khi cài_đặt bộ lọc mail là :
+- Ngoài_Account mail quí_vị đăng_ký tại một máy_chủ chính_thức như ( mail.hcm.vnn.vn , mail.hn.vnn.vn , mail.dng.vnn.vn , mail.hcmuaf.edu.vn … ) cần phải đăng_ký thêm một Account trên http : / / mail.yahoo.com không nhất_thiết hai tên account phải giống nhau .
+- Bấm vào đây để tải phần_mềm YahooPop miễn_phí .
+2 . Cài_đặt :
+- Bước 1 : Cài_đặt Yahoo POP ( Double click vào file đã tải về trên đĩa_cứng ) sau khi cài_đặt hoàn_thành copy shortcut vào folder Start up của memu Start để chương_trình tự_động khởi_động sau khi khởi_động Windows ( C : \ Documents and Settings \ USER\ Start_Menu \ Programs \ Startup ) ( USER là tên của User login vào màn_hình WinXP hoặc Win2000 ) .
+- Khởi đông chương_trình Yahoo POP’ s xuất_hiện một biểu_tượng lá thư nhỏ ở góc dưới bên phải màn_hình . Nhấp đôi vào biểu_tượng này để thay_đổi một_số thông_số cho phù_hợp với máy của quí_vị .
+- Tất_cả các thông_số mặt định là có_thể phù_hợp , tuy_nhiên nếu máy bạn kết_nối với Internet cần phải khai_báo Proxy ( máy truy_cập hộ ) bạn có_thể xem trong chương_trình IE menu Tools/Internet Options / Connection/LAN Settings . Nếu trong mục này có khai_báo máy_chủ trong hộp_thoại trên bạn chọn thẻ Advanced_Preferences đánh đấu vào chỗ Connect to the Internet via an HTTP proxy server , và dòng kế_tiếp quí_vị gõ vào tên máy_chủ và port giống như trong thẻ LAN Settings . Nếu_không có khai_báo bạn bỏ_qua thiết_lập này .
+Bước 2 : Khai_báo trong chương_trình MS Outlook hoặc Outlook_Express
+- Chọn_Menu_Tools / Accounts/Mail Chọn account đã khai_báo bấm vào Properties sau đó xuất_hiện hộp_thoại server .
+- Incoming mail server nhập vào localhost .
+- Out going mail server : Nhập vào địa_chỉ máy_chủ gởi mail đi ra ( máy_chủ của bạn đã đăng_ký ví_dụ như smtp . hcm.vnn.vn ) .
+- Account name : Nhập vào tên đăng_ký trên mail . yahoo.com .
+- Pasword ( Mật_khẩu ) : mật_khẩu của Account_Yahoo .
+Bước 3 : Thiết_lập bộ nhận thư hộ trên Yahoo .
+- Đăng_nhập vào hộp_thư của Yahoo : Khởi_động chương_trình truy_cập trang_web , gõ vào địa_chỉ http : / / mail.yahoo.com và nhập tên đăng_ký trên Yahoo và mật_khẩu để vào màn đọc và gởi thư của Yahoo .
+- Nhấp vào dòng link Mail_Options chọn đến Mail_Accounts / Nhấp vào nút Add để thêm một địa_chỉ nhận thư_từ máy_chủ đăng_ký chính_thức .
+Trong màn_hình Step1 , phần Account name : Nhập vào tên của máy_chủ cần nhận Email như : mail.hcm.vnn.vn - nhấp vào nút Continue .
+Đến màn_hình Step 2 :
+- Mail server : Nhập vào chính_xác tên máy_chủ đã đăng_ký nhận email như : mail.hcm.vnn.vn , mail.hn.vnn.vn , mail.dng.vnn.vn … .
+- Username : nhập vào tên đăng_ký phần trước dấu @ trong địa_chỉ mail của bạn .
+- Password : Nhập chính_xác mật_khẩu để nhận email từ account trên .
+- Indicator : Chọn một màu cho các thư nhận từ máy_chủ này .
+- Nhấp vào nút Setup_Mail_Server để lưu_thông tin vừa lựa_chọn .
+Lúc này ngoài màn_hình danh_sách các email có dòng Check_Other mail – xuất_hiện tên máy_chủ nhận mail bạn vừa khai_báo . Muốn nhận mail từ máy_chủ đăng_ký chỉ cần nhấp vào dòng địa_chỉ này .
+Bước 4 : Thiết_lập bộ lọc thư
+- Chọn nhấp vào dòng link Mail_Options / nhấp tiếp đến dòng link Filters để mô_tả các lệnh lọc trong cửa_sổ Filters bấm vào nút Add để môt tả một phương_thức lọc .
+Với các SPAM thường_xuyên thay_đổi địa_chỉ và tiêu_đề cần khai_báo trong phần BODY với những từ mà chúng hay quảng_cáo chỉ có chúng mới có từ này như địa_chỉ trang_web , số điện_thoại , loại hàng quảng_cáo .
+- Trong phần THEN/Move the messeage to bạn chọn folder nào lưu_trữ thư rác – có_thể chuyển vào Trash để chương_trình tự hủy luôn .
+- Sau khi mô_tả hoàn_thành một phương_thức lọc nhấp vào nút Add_Filter để lưu lại tất_cả các lựu chọn . Trong yahoo miễn_phí cho bạn mô_tả 15 phương_thức lọc như_vậy .
+- Ngoài_ra trong phần Block_Address cũng có_thể mô_tả các địa_chỉ cần từ_chối không nhận .
+3 . Sử_dụng :
+- Kết_nối máy_tính vào mạng Internet .
+- Khởi_động chương_trình IE nhập vào địa_chỉ http : / / mail.yahoo.com nhập YahooID và mật_khẩu để login vào màn_hình nhận gởi mail của Yahoo .
+- Nhấp vào tên máy_chủ nhận mail đã thiết_lập trong phần Check_Other_Mail – từ đây bạn đừng đọc các các thư vừa nhận nếu bạn muốn thư này chuyển về máy của bạn qua chương_trình OutLook Express .
+- Khởi_động chương_trình YahooPOP ’ s ( nếu đã đặt trong Start up thì bỏ_qua bước này )
+- Khởi_động chương_trình nhận mail OE nhận gởi mail bình_thường .
+Tóm_lại :
+- Với chức_năng lọc SPAM và lọc Virus của máy_chủ Yahoo bạn có_thể yên_tâm sử_dụng chương_trình OE , các email không mong_muốn đã bị Yahoo ngăn chặng . Nếu phát_sinh các email SPAM mới bạn mô_tả thêm các phương_thức lọc mới cho phù_hợp .
+- Với các Account nhận từ 100 Email rác mỗi ngày dùng mẹo trên rất hiệu_quả .
+LÊ_VĂN_PHẬN

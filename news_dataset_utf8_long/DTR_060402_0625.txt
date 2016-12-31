@@ -1,0 +1,8 @@
+﻿Màn hình OLED trong suốt đầu tiên trên thế giới
+
+Các chuyên gia nghiên cứu tại Đại học kỹ thuật Braunschweig (Đức) vừa tuyên bố rằng bộ phim "Sát nhân giấu mặt" (Minority Report) với sự tham gia diễn xuất của Tom Cruise có thể được xem trên những tấm kính không màu, trong suốt.
+
+ Những nhà khoa học này đã sử dụng bóng bán dẫn màng mỏng (thin film transistor - TFT) để tạo nên một lớp oxit kẽm và thiếc dày 100 nanometer. Transistor được làm từ silicon tương tự trong màn hình tinh thể lỏng LCD nhưng có độ hấp thụ ánh sáng hữu hình cao hơn (trên 90%). Các điểm ảnh TFT và OLED được xếp cạnh nhau và OLED pixel có thể nằm chồng lên mạch TFT mà không gây ảnh hưởng gì. 
+Thomas Riedl, Giám đốc nhóm nghiên cứu laser hữu cơ và vô cơ tại trường Braunschweig, cho biết độ sáng của các điểm OLED dao động từ 0 - 700 nit tùy theo sự thay đổi điện áp của TFT. Trong khi đó, màn hình máy tính phổ biến hiện nay đạt độ sáng xấp xỉ 300 nit. 
+Riedl hy vọng những màn hình OLED trong suốt đầu tiên sẽ xuất hiện trong vòng 2 năm nữa và được trang bị cho các ứng dụng như màn hình hiển thị thông tin cho bác sỹ phẫu thuật hay kính chắn gió xe hơi, hỗ trợ tài xế đọc hướng dẫn khi điều khiển phương tiện... 
+Theo T.N. VnExpress/PCWorld

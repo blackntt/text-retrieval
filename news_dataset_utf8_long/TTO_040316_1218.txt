@@ -1,0 +1,9 @@
+﻿Lỗi nguy hiểm trong 3 sản phẩm Symantec
+
+Bên cạnh đó, các chuyên gia cũng phát hiện lỗi ảnh hưởng tới tất cả các phiên bản RealSecure và BlackICE của Internet Security Systems, cho phép hacker chiếm quyền truy xuất hệ thống. 
+Symantec đang kiểm tra vấn đề này và sẽ sớm ban hành miếng vá. 
+Theo thống kê của hãng bảo mật Symantec công bố hôm qua, các khiếm khuyết an ninh hệ thống trong vòng 6 tháng qua đã chững lại. Nhưng những phần mềm phá hoại dưới dạng sâu vẫn tiếp tục đe dọa Internet với chiều hướng đi lên. 
+Năm 2003, tổng số lỗi được công bố là 2.636, chỉ tăng 2% so với 2.587 của năm 2002 (Số khiếm khuyết phát hiện trong thời gian 2001-2002 tăng tới 81%). Xu hướng này cho thấy công tác phát triển phần mềm đang ngày một tốt hơn và các lập trình viên đã học được cách tránh những sai sót an ninh phổ thông nhất. 
+Tuy nhiên, số lượng virus máy tính mới xuất hiện lại tăng đột biến với khả năng lợi dụng lỗi của phần mềm để tấn công vào hệ thống, trong đó điển hình là sâu MSBlast, Sobig, Mydoom, Bagle.
+
+T.M (Theo Theage)

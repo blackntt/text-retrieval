@@ -1,0 +1,15 @@
+﻿ Bảo_mật Microsoft tháng 6 : Nghiêm_trọng lỗi thực_thi từ xa
+Hôm_qua , hãng phần_mềm Mỹ phát_hành 21 bản bít lỗi phần_mềm , trong đó có 2 lỗ_hổng nghiêm_trọng cho_phép kẻ_gian chạy mã nguy_hiểm trên máy_tính nạn_nhân . Đây là tháng nâng_cấp nhiều bản sửa lỗi nhất từ trước đến nay của Microsoft .
+Microsoft tung ra 12 bản nâng_cấp định_kỳ hàng tháng ( vào ngày thứ Ba tuần thứ 2 của tháng ) . Tám trong số khiếm_khuyết được đánh_giá là “ nghiêm_trọng ” tác_động đến Windows , Internet_Explorer , Word , PowerPoint và Exchange_Server .
+“ Chưa bao_giờ bản nâng_cấp của Microsoft phải lên đến số 21 và chưa bao_giờ hãng này “ dính ” 19 lỗ_hổng có nguy_cơ bị tấn_công từ xa ” , Amol_Sarwate , Giám_đốc phòng quản_lý khiếm_khuyết an_ninh của công_ty Qualys ( Mỹ ) , nói .
+Bản tin quan_trọng nhất MS06-025 sửa lỗi chạy và truy_cập từ xa trên Windows . Tin_tặc lợi_dụng lỗ_hổng này bằng cách khai_thác 2 dịch_vụ nghe_nhìn chạy trên máy host và nắm_bắt giao_thông trên các cổng thường_xuyên được sử_dụng , theo Jonathan_Bitle , Giám_đốc sản_phẩm cao_cấp của công_ty bảo_mật Qualys .
+“ Trong khi rất nhiều lỗi thực_thi từ xa đều đòi_hỏi sự tương_tác của người dùng thì những lỗi nghiêm_trọng trong Windows không cần đến_điều này . Người dùng không click vào mọt đường link hoặc một file đính kèm thì hacker cũng có_thể đột_nhập vào hệ_thống ” .
+Lỗi chạy và truy_cập từ xa này ảnh_hưởng nghiêm_trọng đến những máy_tính chạy hệ_điều_hành Windows 2000 , Windows XP_SP1 , 2 và Windows_Server 2003 SP1 .
+Bản tin MS06-029 giải_quyết lỗi trong Microsoft_Exchange_Server chạy chương_trình Outlook_Web_Access . “ Nếu người dùng nhận e - mail trong Outlook_Web_Access và họ chỉ cần mở e - mail trong IE thì cũng đủ để script của lá thư bị thực_thi từ xa ” , Sarwate cho_biết .
+“ Một_số khiếm_khuyết nghiêm_trọng tác_động đến trình_duyệt IE , ảnh_hưởng đến Media_Player , ART imaging và JScript ” , Chris_Andrew , Phó_giám_đốc công_nghệ an_ninh của PatchLink , cho_biết . “ Các công_ty cần phải vá toàn_bộ máy_tính ” .
+4 bản nâng_cấp quan_trọng bít lỗi cho_phép thực_thi mã từ xa trong tất_cả các phiên_bản của Windows . Và_Microsoft cũng tung ra một bản nâng_cấp tổng_thể cho Internet_Explorer ( MS06-021 ) . Bản tin MS06-024 vá lỗi trong Windows_Media_Player các phiên_bản 7.1 , 9 , 10 . Ngoài_ra còn có các bản sửa lỗi cho Microsoft_Jscript ( MS06-023 ) và ART image rendering ( MS06-022 )
+Một bản tin quan_trọng trong Windows MS06-026 , liên_quan đến các lỗi trong chương_trình đồ_họa . Lỗi này ảnh_hưởng đến Windows 98 , Windows 98 Second_Edition ( SE ) và Windows_Millennium_Edition ( ME ) .
+2 bản nâng_cấp cho Office được đánh_giá là nghiêm_trọng nhất . Bản tin MS06-027 sửa lỗi trong Word . Lỗi này tác_động đến Microsoft_Works . Bản tin MS06-028 bít lỗ_hổng trong PowerPoint là bản nâng_cấp phiên_bản được Microsoft tung ra trước đó .
+Microsoft cũng phát_hành 1 bản tin quan_trọng MS06-030 , vá lỗi nghiêm_trọng trong Server_Message_Block của Windows , cho_phép tin_tặc nâng quyền truy_cập hệ_thống của chúng .
+Hai bản tin cuối_cùng sửa lỗi có nguy_cơ “ trung_bình ” trong RPC Mutual_Authentication ( MS06-031 ) và TCP/IP ( MS06-032 ) trong Windows .
+N . H_Theo CNet

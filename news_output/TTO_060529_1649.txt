@@ -1,0 +1,9 @@
+﻿ Microsoft giới_thiệu IE7 + cho Windows_Vista
+Những tính_năng đi kèm trong bản IE7 + này như chế_độ bảo_mật Protected_Mode , Parental_Controls , và cải_thiện chức_năng của Network_Diagnostics , sẽ được nâng_cấp rất nhiều trong Windows_Vista .
+Hai phiên_bản IE7 cũng có điểm khác_nhau về những chuỗi User-Agent dành cho lập_trình_viên phát_triển web cần lưu_ý là :
+IE7 + hoạt_động trên Windows_Vista : Mozilla / 4.0 ( compatible ; MSIE 7.0 ; Windows NT 6.0 )
+IE7 + hoạt_động trên Windows XP : Mozilla / 4.0 ( compatible ; MSIE 7.0 ; Windows NT 5.1 )
+Windows_Vista_Beta 2 hiện đang được phát_hành thử_nghiệm đến những nhà_phát_triển và lập_trình_viên chuyên_nghiệp từ MSDN và TechNet cũng_như các thành_viên của chương_trình TAP ( Technology_Adoption_Program ) và TechBeta .
+“ Hiện_tại vẫn chưa có nhiều sự khác_biệt giữa IE7 và IE7 + , tuy_nhiên , chúng_tôi phải sửa khá nhiều lỗi bảo_mật giữa hai bản phát_hành . Cũng_như thường_lệ , chúng_tôi cần những thông_tin phản_hồi của các bạn về tên mới này cũng_như sản_phẩm . Thông_tin về việc đăng_ký sử_dụng Windows_Vista_Beta 2 cùng IE7 + sẽ được chúng_tôi công_bố trong thời_gian sớm nhất . ” - Tony_Schreiner cho_biết trên MSDN Blog
+Hiện_tại , người dùng có_thể đăng_ký download IE7 Beta tại đây .
+THANH_TRỰC

@@ -1,0 +1,10 @@
+﻿Microsoft hỗ trợ định dạng OpenDocument
+
+Tập đoàn Microsoft đã nhượng bộ trước áp lực của chính phủ Mỹ để cung cấp phần mềm đoạn phần mềm Open XML Translator miễn phí, cho phép bộ ứng dụng văn phòng Office 2007 sắp ra mắt tương thích với OpenDocument. 
+ Phần mềm Open XML Translator sẽ chuyển các tài liệu giữa định dạng Open XML của Microsoft và định dạng OpenDocument (ODF) của tổ chức liên hiệp OpenDocument. Tập đoàn Microsoft cho biết họ sẽ phát triển các công cụ để xây dựng một “cây cầu kỹ thuật” giữa định dạng tài liệu Open XML của chính họ và định dạng OpenDocument (ODF). 
+ODF là một định dạng tài liệu phi độc quyền được phát triển bởi các tập đoàn như IBM, SAP và Sun Microsystems và được chính phủ Mỹ chấp nhận là chuẩn cho các tài liệu vào năm tới. Tuy nhiên sẽ có một số tính năng của Office không sử dụng được nếu người dùng chọn cách nhớ tài liệu với ODF, chủ yếu là do sự định dạng khác nhau giữa ODF và Open XML. 
+Trước đây Microsoft vốn giữ bí mật chặt chẽ mã nguồn. Với sự thay đổi hoàn toàn của mình, Microsoft nhấn mạnh rằng các công cụ phiên dịch sẽ luôn sẵn sàng để sử dụng cho ngành công nghiệp công nghệ thông tin với các dự án khác trong nỗ lực tăng cường sự hợp tác và sự lựa chọn cho khách hàng. 
+Jean Pauli, Tổng giám đốc hợp tác và kiến trúc XML của Microsoft cho biết: “Chúng tôi đang chia sẻ nó bằng cách thỏa thuận với các công ty khác để nó trở thành một chuẩn toàn cầu. Tuy nhiên điều rất quan trọng là khách hàng có quyền tự do lựa chọn các công nghệ mà họ cần”. 
+Microsoft đang bảo vệ vị trí số 1 về sản xuất phần mềm trước xu hướng phần mềm nguồn mở do sự tăng trưởng của Internet. Một vài chính phủ đã lên tiếng ủng hộ hệ điều hành Linux hơn Windows của Microsoft và số lượng người sử dụng Internet chuyển sang dùng trình duyệt nguồn mở như Mozilla Firefox đang tăng một cách chóng mặt. 
+Trong khi đó, Microsoft đang phải nỗ lực chống lại phán quyết của liên minh châu Âu bắt Microsoft phải công bố cho các đối thủ cạnh tranh ý nghĩa quan trọng của các thông tin kỹ thuật về Windows như là một cách chống độc quyền tập trung vào phần mềm Windows Media Player. 
+Thành Nam Theo Financial Times

@@ -1,0 +1,226 @@
+﻿Danh sách và điểm chuẩn trúng tuyển NV3 ĐHDL Duy Tân
+
+Sau đây là chi tiết điểm trúng tuyển NV3 dành cho nhóm đối tượng học sinh phổ thông - khu vực 3, nhóm đối tượng ưu tiên 2 từ 5 đến 7 và nhóm đối tượng ưu tiên 1 từ 1-4. 
+1. Các ngành Xây dựng dân dụng công nghiệp và Xây dựng cầu đường 
+Nhóm đối tượng 
+Khối thi 
+KV3 
+KV2 
+KV2-NT 
+KV1 
+Học sinh phổ thông 
+A 
+20 
+18 
+16.5 
+15.5 
+ƯT2 - đối tượng từ 5 đến 7 
+A 
+19 
+17 
+15.5 
+14.5 
+ƯT1- đối tượng từ 1 đến 4 
+A 
+18 
+16 
+14.5 
+13.5 
+2. Các ngành Kế toán, Ngân hàng 
+Nhóm đối tượng 
+Khối thi 
+KV3 
+KV2 
+KV2-NT 
+KV1 
+Học sinh phổ thông 
+A 
+18 
+16 
+14.5 
+13.5 
+D1 
+17 
+15 
+13.5 
+12.5 
+ƯT2 - đối tượng từ 5 đến 7 
+A 
+17 
+15 
+13.5 
+12.5 
+D1 
+16 
+14 
+12.5 
+11.5 
+ƯT1- đối tượng từ 1 đến 4 
+A 
+16 
+14 
+12.5 
+11.5 
+D1 
+15 
+13 
+11.5 
+10.5 
+3. Các ngành Tin học, Quản Trị, Du lịch, Tài chính 
+Nhóm đối tượng 
+Khối thi 
+KV3 
+KV2 
+KV2-NT 
+KV1 
+Học sinh phổ thông 
+A 
+15 
+13 
+11.5 
+10.5 
+D1 
+14 
+12 
+10.5 
+9.5 
+ƯT2 - đối tượng từ 5 đến 7 
+A 
+14 
+12 
+10.5 
+9.5 
+D1 
+13 
+11 
+9.5 
+8.5 
+ƯT1- đối tượng từ 1 đến 4 
+A 
+13 
+11 
+9.5 
+8.5 
+D1 
+12 
+10 
+8.5 
+7.5 
+4. Ngành Tiếng Anh (môn Anh văn nhân hệ số 2) 
+Phương án 1 
+Nhóm đối tượng 
+Khối thi 
+KV3 
+KV2 
+KV2-NT 
+KV1 
+Học sinh phổ thông 
+D1 
+18.5 
+16.5 
+15 
+14 
+ƯT2 - đối tượng từ 5 đến 7 
+D1 
+17.5 
+15.5 
+14 
+13 
+ƯT1- đối tượng từ 1 đến 4 
+D1 
+16.5 
+14.5 
+13 
+12 
+Phương án 2: Yêu cầu tổng điểm 3 môn thi chưa tính điểm ưu tiên &gt;=14 
+Nhóm đối tượng 
+Khối thi 
+KV3 
+KV2 
+KV2-NT 
+KV1 
+Học sinh phổ thông 
+D1 
+16 
+14 
+12.5 
+11.5 
+ƯT2 - đối tượng từ 5 đến 7 
+D1 
+15 
+13 
+11.5 
+10.5 
+ƯT1- đối tượng từ 1 đến 4 
+D1 
+14 
+12 
+10.5 
+9.5 
+5. Hệ Cao đẳng ngành Tin học 
+Nhóm đối tượng 
+Khối thi 
+KV3 
+KV2 
+KV2-NT 
+KV1 
+Học sinh phổ thông 
+A 
+12 
+10 
+8.5 
+7.5 
+D1 
+11 
+9 
+7.5 
+6.5 
+ƯT2 - đối tượng từ 5 đến 7 
+A 
+11 
+9 
+7.5 
+6.5 
+D1 
+10 
+8 
+6.5 
+5.5 
+ƯT1- đối tượng từ 1 đến 4 
+A 
+10 
+8 
+6.5 
+5.5 
+D1 
+9 
+7 
+5.5 
+5 
+6. Hệ Cao đẳng ngành Xây dựng 
+Nhóm đối tượng 
+Khối thi 
+KV3 
+KV2 
+KV2-NT 
+KV1 
+Học sinh phổ thông 
+A 
+14 
+12 
+10.5 
+9.5 
+ƯT2 - đối tượng từ 5 đến 7 
+A 
+13 
+11 
+9.5 
+8.5 
+ƯT1- đối tượng từ 1 đến 4 
+A 
+12 
+10 
+8.5 
+7.5
+
+QUỐC DŨNG

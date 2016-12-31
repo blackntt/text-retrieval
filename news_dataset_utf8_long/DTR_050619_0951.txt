@@ -1,0 +1,7 @@
+﻿EVN chuẩn bị triển khai dịch vụ E-phone
+
+Tổng Công ty Điện lực Việt Nam (EVN) chuẩn bị triển khai dịch vụ e-phone bao gồm các dịch vụ di động toàn quốc, di động nội tỉnh và cố định không dây, thông qua mạng vô tuyến CDMA 450MHz. 
+ EVN cho biết do có dải tần rộng nên mạng CDMA có thể triển khai nhiều dịch vụ giá trị gia tăng như dịch vụ dữ liệu, fax, Internet, đặc biệt là dịch vụ định vị. Mạng CDMA cho phép quản lý số lượng thuê bao gấp từ 5-20 lần, đồng thời giảm đáng kể số cuộc gọi lỗi so với mạng GSM. 
+Theo EVN, khách hàng của dịch vụ điện thoại cố định không dây là các hộ gia đình trong các khu chung cư mới xây dựng, các khu tái định cư chưa có dịch vụ bưu điện, các khách hàng vùng nông thôn, vùng sâu, vùng xa; các đơn vị trong nội bộ ngành điện; các cơ sở kinh doanh tư nhân, các doanh nghiệp, văn phòng đại diện, các công trường xây dựng chưa có hạ tầng để sử dụng dịch vụ điện thoại cố định hữu tuyến. 
+Dịch vụ điện thoại di động nội tỉnh của e-phone sẽ có các số đầu là 23, 24 và 20. Loại hình dịch vụ này chủ yếu dành cho các khách hàng khác có thu nhập thấp ở nông thôn, ngoại thành, các cơ quan có nhu cầu trang bị máy nghiệp vụ cho cán bộ trong thời gian làm việc. Đây sẽ là nhóm khách hàng chính của mạng e-phone. 
+Dịch vụ điện thoại di động toàn quốc của e-phone sẽ có số đầu là 096. Loại dịch vụ này chủ yếu dành cho giới trẻ có nhu cầu sử dụng dịch vụ giá trị gia tăng như nhắn tin đa phương tiện, tải hình, tải chuông hay dịch vụ định vị cá nhân; các đối tượng thường xuyên đi công tác liên tỉnh. Theo TTXVN

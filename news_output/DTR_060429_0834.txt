@@ -1,0 +1,6 @@
+﻿ Bitlocker mã_hóa đĩa_cứng tốt hơn ?
+Microsoft vừa tuyên_bố kĩ_thuật mã_hóa đĩa Bitlocker sẽ cho_phép người sử_dụng sắp_xếp dữ_liệu của mình dễ_dàng và an_toàn hơn .
+Hãng phần_mềm lớn nhất thế_giới tin_tưởng rằng cùng_với Window_Vista , Bitlocker sẽ đem đến khả_năng bảo_mật tốt nhất và khẳng_định Bitlocker không hề có backdoor ( có tin_đồn Bitlocker chứa backdoor với mục_đích giúp cảnh_sát thâm_nhập các dữ_liệu khả_nghi ) .
+Cố_vấn kĩ_thuật bảo_mật của Microsoft , ông Steve_Lamb còn cho_biết Bitlocker sử_dụng AES ( chuẩn mã_hóa nâng cao - Advanced_Encryption_Standard ) vốn được chính_phủ sử_dụng .
+Bên_cạnh đó , Microsoft cũng phủ_nhận khả_năng kĩ_thuật mã_hóa đĩa này giúp tội_phạm bảo_mật dữ_liệu chặt_chẽ đến mức cảnh_sát cũng không sử_dụng được . Ông Lamb nói : “ Bạn có_thể phá được một thuật_toán mã_hóa nếu bạn dành đủ “ sức_mạnh ” cho nó ” . Ông khẳng_định rằng dữ_liệu được mã_hóa vẫn có nguy_cơ bị đánh_cắp nhưng hiện_nay chỉ có chính_phủ mới có đủ điều_kiện làm được điều đó .
+Theo Nguyễn_Hoàng_Minh_Tuổi trẻ

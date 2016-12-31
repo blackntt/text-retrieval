@@ -1,0 +1,7 @@
+﻿ Microsoft tiến vào thị_trường phần_mềm thiết_kế
+EID , trước_đây vốn có tên mã là Sparkle , sử_dụng để thiết_kế giao_diện người dùng của các ứng_dụng Web , Windows . Và EGD , vốn có tên mã là Acrylic , được dùng để thiết_kế logo biểu_mẫu và minh_họa , có_thể bao_gồm luôn việc chế_bản .
+Những công_cụ thuộc dòng Express này của Microsoft thể_hiện rất rõ_ràng việc Microsoft muốn chia_sẻ khách_hàng trong lĩnh_vực thiết_kế và chế_bản , đồ_họa vốn vẫn là thể mạnh của các công_ty như Corel , Adobe , Quark …
+Expression_Graphic_Designer_Thế mạnh của các chương_trình thuộc họ Express vẫn là giao_diện thân_thiện , dễ sử_dụng , hỗ_trợ tốt cho các nhà_phát_triển phần_mềm và người dùng . Thứ_hai , sản_phẩm của Express được dịch ra theo ngôn_ngữ XAML rất tiện_lợi cho các lập_trình_viên khi xây_dựng ứng_dụng .
+Microsoft cũng sẽ tổ_chức một hội_thảo , gọi_là Mix 06 , vào tháng 3 nhằm giới_thiệu sản_phẩm này hướng tới các đối_tượng người dùng chuyên_nghiệp hơn như các nhà_thiết_kế , chế_bản , những nhà_phát_triển và người dùng doanh_nghiệp
+Bản thử_nghiệm này chưa có đầy_đủ chức_năng , bạn có_thể download về dùng thử tại website của Microsoft ( Click vào link tên của chương_trình ở trên )
+TRẦN_HUY ( Theo Zd Nets )

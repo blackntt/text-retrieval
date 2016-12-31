@@ -1,0 +1,7 @@
+﻿ Windows XP được trang_bị phần_mềm nghe nhạc của Vista
+Tuy phải đến đầu 2007 Microsoft mới chính_thức ra_mắt hệ_điều_hành thế_hệ mới , người sử_dụng vẫn có_thể thử trước một_số tính_năng của gói ứng_dụng nghe_nhìn Media_Player 11 ( tích_hợp trong của Windows_Vista ) bắt_đầu_từ tháng 6 .
+Phần_mềm mới này sẽ mang đến khả_năng đồng_bộ hài_hòa hơn giữa máy_tính và các thiết_bị di_động , sắp_xếp thư_viện nhạc ( library ) một_cách khoa_học và kết_hợp chặt_chẽ với Urge - dịch_vụ thuê_bao nhạc mà Microsoft phát_triển cùng MTV Networks . Urge là niềm hy_vọng của Microsoft nhằm cạnh_tranh mạnh_mẽ hơn với bộ đôi i Tunes - iPod của Apple .
+Với_Media_Player 11 trong Windows XP , khách_hàng có_thể " đồng_bộ ngược " , tức gửi nội_dung từ một thiết_bị kỹ_thuật_số ( như điện_thoại camera , máy_ảnh ... ) tới máy_tính . Các file Windows_Media cũng được nén với dung_lượng nhỏ hơn để phù_hợp nghe trên máy cầm tay .
+Tuy_nhiên , phần_mềm nghe_nhìn này không cho_phép chuyển_đổi những bài hát ( track ) Windows_Media thành định_dạng FairPlay độc_quyền của Apple . Do_đó , các track được mua tại kho nhạc Windows_Media sẽ không_thể phát trên máy MP3 phổ_biến i Pod .
+Media_Player 11 cũng được thiết_kế lại với giao_diện mới . Thư_viện nhạc không còn là một danh_sách dài các bài hát mà được sắp_xếp theo album . Khả_năng tìm_kiếm nhanh cho_phép người sử_dụng lấy bất_cứ bài nào họ muốn mà chỉ cần gõ vài chữ_cái - một phương_pháp phổ_biến của kho nhạc trực_tuyến Apple i Tunes .
+Theo T . N . VnExpress/CNet

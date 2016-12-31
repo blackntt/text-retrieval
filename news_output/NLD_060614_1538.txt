@@ -1,0 +1,10 @@
+﻿ World_Cup dành cho Robot !
+Các cầu_thủ robot trên sân thi_đấu World_Cup không_chỉ là trò_chơi trên sân_cỏ . Vòng chung_kết Robo_Cup quốc_tế năm nay sẽ được khai_mạc vào tuần này ở Bremen , Đức . Thậm_chí bình_luận_viên của vòng chung_kết này cũng là robot !
+Đến với Giải vô_địch thế_giới Robo_Cup 2006 , các nhà_khoa_học tại trường Đại_học Carnegie_Mellon ở Pittsburgh ( Mỹ ) đã chế_tạo hai robot 2 chân loại nhỏ di_chuyển theo màu . Theo các nhà_khoa_học , hai robot dạng người này sẽ là bình_luận_viên cho các trận đấu giữa các đội robot 4 chân .
+Các robot bình_luận_viên - cao 75 cm , có tên Ami và Sango - không_chỉ là người quan_sát trái bóng mà_còn bao_quát tổng_quát , đưa ra lời khen_ngợi cũng_như cung_cấp cho thính_giả thông_tin về trận đấu . Sango sẽ thiên về giải_thích luật_chơi và đưa ra lời hướng_dẫn dành cho trận đấu , trong khi Ami sẽ theo_dõi trận đấu gần hơn và tràn_đầy cảm_xúc , bình_luận một_cách cuồng_nhiệt .
+Robot " bình_luận_viên " cho các trận Robo_Cup năm nay
+Cả_Ami và Sango sẽ nhận tín_hiệu từ hệ_thống và hệ_thống này sẽ truyền_thông theo các hiệu_lệnh của trọng_tài tới các cầu_thủ robot 4 chân . Chúng sẽ giải_thích luật_chơi theo quan_điểm robot , xác_định đội nào đang giữ bóng , các va_chạm …
+Các thông_tin sẽ được phân_tích , sau đó tổng_hợp thành giọng nói cũng_như hiển_thị trên màn_hình bằng 2 ngôn_ngữ Anh và Đức .
+Robo_Cup là một dự_án quốc_tế nhằm phát_triển trí thông_minh nhân_tạo , robot và các lĩnh_vực liên_quan thông_qua cuộc thi_đấu bóng_đá . Đây là Robo_Cup lần thứ 10 .
+Giải đấu năm nay thu_hút cả_thảy 2.500 nhà_khoa_học đến từ 40 quốc_gia trên thế_giới . Đây không_chỉ là cuộc thi_đấu mà_còn là nơi diễn ra các hội_thảo về tương_lai robot và trí thông_minh nhân_tạo . Tại_sao chúng_ta không nghĩ đến trọng_tài các trận đấu bóng_đá là robot khi mà các tiêu_cực luôn xảy_ra trên sân_cỏ trong nước cũng_như thế_giới ? Đó chỉ là một ước_muốn nhỏ ! Các nhà_khoa_học còn có mục_đích lớn hơn là đội bóng robot sẽ đánh_bại đội bóng con_người vào năm 2050 . Điều này có trở_thành hiện_thực ? Hãy chờ xem !
+Theo Tuổi_Trẻ

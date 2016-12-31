@@ -1,0 +1,7 @@
+﻿Đưa trạng thái Yahoo! Messenger vào chữ ký trong mail
+
+Yahoo! Mail có thể tự động thêm chữ ký ở cuối mỗi email mà bạn gửi đi. Bạn có thể tận dụng tính năng này để đưa trạng thái Yahoo! Messenger của bạn vào để người quen hoặc người nhận mail có thể biết được lúc đó bạn đang online hay offline và có thể chat với bạn khi họ cần trao đổi về mail mới nhận được. 
+Trước tiên, bạn hãy vào địa chỉ http://messenger.yahoo.com/addpresence.php, nhập nick chat của bạn vào ô Your Yahoo! ID, ngay sau đó trang web sẽ cung cấp cho bạn một đoạn mã HTML, bạn chép (copy) lại đoạn mã bên đó. 
+Đăng nhập vào hộp thư của bạn, vào Options, Signature, chuyển sang chế độ soạn thảo Color and Graphics, đánh dấu chọn ô View HTML Source ở bên dưới rồi dán (paste) đoạn mã mà bạn đã chép ở trên vào phần chữ ký của bạn rồi lưu lại (save). Vậy là từ nay, nếu bạn online thì sẽ có biểu tượng “I’m Online”, còn offline thì sẽ có biểu tượng “Not Online”.
+
+Lê Gia Trung (Nha Trang- Khánh Hòa)

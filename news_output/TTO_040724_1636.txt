@@ -1,0 +1,18 @@
+﻿ Các thông_số model máy test của BTC
+- Heap size ( Kích_thước bộ_nhớ_trong để chạy ứng_dụng ) : 480 KB .
+- JAR size ( kích_thước file JAR ) : 100 KB .
+- Sound ( Am thanh ) : Yamaha MA3 40 poly .
+- Colour depth ( Độ sâu màu ) : 65536 colours UFB .
+- Max_Java_Canvas size ( Kích_thước Canvas tối_đa ) : 128 x 128 pixels .
+- Java_Canvas size ( Kích_thước Canvas bình_thường ) : 128 x 110 pixels .
+- Soft_Key_Area ( Vùng soft key ) : 18 pixels .
+- J2ME Version ( Hỗ_trợ phiên_bản J2ME ) : MIDP 1.0 .
+- Font_Size ( Kích_thước Font chữ ) : 6x8 ( S ) , 8x12 ( M ) , 8x14 ( L ) .
+- Connectivity ( Khả_năng kết_nối ) : GPRS .
+Vì_vậy khi thiết_kế game , thí_sinh cần chú_ý 2 vấn_đề sau :
+1 . Kích_thước màn_hình game :
+- Vì kích_thước canvas là 128 x 110 nên khi thiết_kế game thí_sinh nên chú_ý thông_số này . Đây là kích_thước được BTC khuyến_khích dùng .
+- Nếu thí_sinh muốn dùng fullscreen với kích_thước 128 x 128 , hãy tham_khảo tệp_tin hướng_dẫn . Tuy_nhiên với kích_thước này người chơi game sẽ không thấy được ý_nghĩa những Soft key của điện_thoại , gây khó_khăn cho người chơi . Thí_sinh nên chú_ý đến vấn_đề này khi dùng chế_độ full screen .
+2 . Kích_thước file . jar :
+Kích_thước tối_đa mà điện_thoại X600 cho_phép là 100KB , tuy_nhiên BTC khuyến_khích thí_sinh tối_ưu_hoá chương_trình và hình_ảnh đề có kích_thước dưới 60KB . Chú_ý là kích_thước game lớn sẽ khó chuyển sang các dòng điện_thoại khác .
+BTC

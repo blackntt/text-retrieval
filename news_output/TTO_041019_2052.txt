@@ -1,0 +1,10 @@
+﻿ Chuột điều_khiển âm_thanh
+Với phần_mềm miễn_phí Volumouse , công_việc nói trên không còn là chuyện lạ nữa . Chỉ cần cuộn bánh_xe tới trước - âm_thanh tăng lên và ngược_lại .
+Dung_lượng bé_tí , chỉ 72,6 KB tải về tại đây . Volumouse tương_thích với mọi Windows hiện_hành . Sau khi cài_đặt , chúng_ta tác_động đến Volumouse thông_qua hộp Volumouse_Option .
+Khung_Mixer_Divice : Cho_biết tên thiết_bị âm_thanh ( Tích_hợp trên Mainboard hay Card rời )
+Khung_Wheel_Mouse_Rules : Nơi người dùng thiết_lập quy_tắc làm_việc cho chương_trình này gồm 4 phần :
+- Use the wheel when : Bánh_xe chuột được dùng để ra_lệnh tăng giảm âm_thanh . Có tất_cả 15 khả_năng cho người dùng chọn_lựa như khi di_chuyển trỏ chuột đến thanh Taskbar hay đến thanh tiêu_đề …
+- Component : Xác_định thành_phần nào sẽ bị chương_trình này tác_động để làm tăng giảm âm_thanh . Mặc_định là tác_động vào Master_Volume của Windows . Có tất_cả 13 lựa_chọn khác_nhau .
+- Channels : Mặc_định là All_Channels .
+- Steps : Mỗi lần lăn bánh_xe chuột thì khoản tăng giảm nhiều hay ít .
+TẠ_XUÂN_QUAN

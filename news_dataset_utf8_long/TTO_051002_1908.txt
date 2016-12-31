@@ -1,0 +1,7 @@
+﻿Thiết bị phát hiện chất nổ cực nhỏ
+
+R. Graham Cooks, trưởng nhóm nghiên cứu thuộc Trường ĐH Purdue cho biết thiết bị dựa vào các công nghệ tiên tiến này có thể dùng để đảm bảo an ninh tại các khu vực công cộng trên khắp thế giới. 
+“Trong khoảng thời gian một hơi thở của con người, thiết bị này có thể “ngửi” bề mặt của một mẩu trên hành lý và xác định được liệu có hay không các chất nguy hiểm bên trong, dựa vào các hóa chất còn dư mà bàn tay của kẻ đặt chất nổ để lại khi chạm vào hành lý”, Cooks nói. 
+Theo nhóm nghiên cứu, thiết bị này rất hữu ích trong việc khám xét các hành lý có dấu hiệu đáng nghi tại các sân bay, nhà ga và các nơi khác đã từng xảy ra sự cố trước đây. Do công nghệ này có thể hoạt động trên nhiều bề mặt khác như da và quần áo, nó cũng có thể giúp xác định một người nào đó có mang hóa chất bên mình hay không.
+
+KIM NHUNG (Theo Physorg, UPI )

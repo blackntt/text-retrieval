@@ -1,0 +1,7 @@
+﻿ Keylogger gia_tăng ở mức báo_động
+Websense cho_biết có khoảng 17% số các công_ty có khoảng 100 nhân_viên trở_lên đã thừa_nhận bị nhiễm keylogger trong các mạng máy_tính của mình so với với chỉ khoảng 11% cách đây 1 năm .
+Ủy_ban thương_mại Hoa_Kỳ cũng công_nhận rằn các spyware chuyên tung keylogger đã gia_tăng và hoạt_động hiệu_quả đến mức đáng báo_động . Khi đã xâm_nhập thành_công vào mạng thì hầu_như không còn gì là bí_mật với chúng .
+Một trong những lý là do một số_lượng cực lớn các phần_mềm gián_điệp và công_cụ tạo spyware đã được bán ra công_khai trên mạng , mà bất_kỳ một người dùng “ tay mơ ” nào cũng có_thể mua và sử_dụng dễ_dàng .
+Camissar cho_biết tháng 4-2005 chỉ có khoảng 77 ứng_dụng spyware được phát_hiện , nhưng chỉ đúng một năm sau tổng_số spyware tung keylogger thuộc dạng hiện_đại đã lên đến con_số 197 . Số_lượng các website chuyên bán spyware cách đây 1 năm chỉ là 260 nhưng nay đã tăng_trưởng đến con_số 2.157 website , tức tăng gần gấp 10 lần .
+Báo_cáo của Websense cũng phát_hiện ra rằng đa_số các công_ty đều không có các biện_pháp giáo_dục nhân_viên của mình các phương_pháp nhận biết_đâu là các trang_web thực , đâu là các trang_web độc hoặc “ phishing ” , chuyên tung mã độc hoặc ăn_cắp thông_tin tài_chính …
+HOÀNG_KIM_ANH ( InformationWeek )

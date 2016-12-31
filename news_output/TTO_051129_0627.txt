@@ -1,0 +1,4 @@
+﻿ Hà_Nội : vận_hành tuyến xe_buýt Nghi_Tàm - Giáp_Bát
+Đây là tuyến xe_buýt xã_hội_hóa thứ_ba được đưa vào hoạt_động . Lộ_trình của tuyến có chiều đi : chợ Quảng_An - Nghi_Tàm - Yên_Phụ - Cửa_Bắc - Nguyễn_Tri_Phương - Điện_Biên_Phủ - Chu_Văn_An - Tôn_Đức_Thắng - Khâm_Thiên - Lê_Duẩn - Giải_Phóng - bến_xe Giáp_Bát .
+Chiều xe về sẽ theo lộ_trình : bến_xe Giáp_Bát - Giải_Phóng - Lê_Duẩn - Trần_Nhân_Tông - Quang_Trung - Nguyễn_Du - Lê_Duẩn - Khâm_Thiên - Tôn_Đức_Thắng - Chu_Văn_An - Lê_Hồng_Phong - Nguyễn_Tri_Phương - Cửa_Bắc - Yên_Phụ - Nghi_Tàm - chợ Quảng_An . Giá vé được áp_dụng theo qui_định của các tuyến xe_buýt nội_ô .
+X.LONG

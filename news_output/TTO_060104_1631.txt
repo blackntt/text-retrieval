@@ -1,0 +1,5 @@
+﻿ Samsung SCH-i830 hoạt_động trên 4 băng tần CDMA ( EVDO ) và GSM
+Đây là Pocket PC đầu_tiên sử_dụng hệ_điều_hành Windows_Mobile và có_thể hoạt_động tốt trên cả 4 băng tần CDMA ( EVDO ) 800/1900 và GSM 900/1800 . Mặc_dù dựa trên SCH-I730 nhưng I830 lại hoàn_toàn biến_mất tính_năng Wi-Fi và camera , được thiết_kế nắp trượt với bàn_phím QWERTY .
+SCH-I830 sử_dụng CPU Intel_Bulverde 520 MHz , màn_hình 2.8-inch , hỗ_trợ độ_phân_giải QVGA ( 240 x 320 pixel ) 65 ngàn màu , bộ_nhớ_trong 64MB và 128MB bộ_nhớ flash , kích_thước 115 x 58 x 24 ( mm ) .
+Điểm nổi_bật của sản_phẩm này là khả_năng hỗ_trợ Bluetooth , khe cắm thẻ nhớ mở_rộng SD/MMC , 2 loa Stereo với hệ_thống âm_thanh SRS TruSurround và speakerphone . Giá tham_khảo : khoảng 820 USD
+THẢO_NGUYÊN

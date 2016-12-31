@@ -1,0 +1,7 @@
+﻿ Color_Impact : phối_màu giúp bạn
+Đây là chương_trình rất dễ sử_dụng . Chỉ cần lựa_chọn 1 màu cơ_bản , chương_trình sẽ tự_động lựa_chọn và đưa ra những màu phối_hợp hoàn_chỉnh với màu cơ_bản . Sau khi chọn được những màu mà bạn thích , bạn sẽ gắp và thả màu đó vào bảng_màu của mình .
+Color_Impact cung_cấp sẵn một bộ các công_thức phối_màu , giúp bạn tạo ra nhiều bảng_màu khác_nhau từ một màu cơ_bản . Nếu bạn đã từng học về đồ_họa , bạn có_thể tự viết công_thức phối_màu nhằm tạo ra nhiều hơn_nữa các bảng_màu đặc_trưng cho riêng mình .
+Chương_trình có_thể xuất các bảng_màu ra nhiều dịnh dạng khác_nhau như : BMP , GIF , JPG , PNG , CSS , HTML , ACO , ACT , ACF , WMF , EMF , … và có_thể được sử_dụng trong các ứng_dụng đồ_hoạ khác như Photoshop , Flash , Corel , PaintPro , Firework , …
+Đối_với những bạn mê thiết_kế web , chương_trình cung_cấp một công_cụ có_thể xem trước những màu này được thể_hiện trong trang_web như_thế_nào , và có_thể xuất ra định_dạng CSS để bạn có_thể sử_dụng trong Dreamweaver hay các ứng_dụng thiết_kế web khác .
+Thông_tin thêm về Color_Impact có tại địa_chỉ http : / / www.tigercolor.com . Bạn có_thể tải về bản dùng thử ( 3.29MB ) 14 ngày tại đây .
+ĐĂNG_NGUYÊN

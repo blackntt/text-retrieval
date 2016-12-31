@@ -1,0 +1,7 @@
+﻿ HP thu_hồi gần 16.000 pin máy_tính_xách_tay
+Hôm_qua , hãng sản_xuất máy_tính Hewlett-Packard ( Mỹ ) đã tiến_hành việc thu_hồi những bộ pin dùng trong máy_tính_xách_tay của hãng trên khắp thế_giới vì lo_sợ xảy_ra cháy nổ .
+Quyết_định thu_hồi 15.700 bộ pin này sau khi hãng này nhận được 20 báo_cáo về việc pin nóng quá mức cho_phép , trong đó có một trường_hợp bị_thương nhẹ .
+Pin bị thu_hồi là loại pin xạch lại được Li-Ion được sản_xuất ở Trung_Quốc từ đầu tháng 1/2005 và được sử_dụng trong rất nhiều máy_tính mang nhãn_hiệu HP và Compaq với mã_vạch là L3 . Sau đó , máy_tính được bán sang Mỹ với giá từ 1.000 – 3.000 USD ( pin bán riêng_rẽ là 100 – 3000 USD ) .
+Những máy_tính dùng loại pin này có số serie : dv1xxx , ze2xxx trong dòng HP Pavilion , nx48xx trong dòng HP Compaq , và V2xxx , M2xxx trong dòng Compaq_Presario .
+Hãng máy_tính HP khuyên những người dùng sử_dụng pin có mã_vạch L3 nên ngừng sử_dụng và liên_lạc ngay với HP để đổi nếu pin có hiện_tượng nóng quá .
+N.Hương Theo Reuters

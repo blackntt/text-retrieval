@@ -1,0 +1,6 @@
+﻿Ôn thi đại học bằng phương pháp trắc nghiệm
+
+Phần mềm bao gồm hệ thống kiến thức cơ bản các môn học toán, lý, hóa, sinh, tiếng Anh, văn lớp 10, 11, 12. Mỗi phần mềm có trên 500 câu trắc nghiệm bao quát tất cả các dạng bài tập của các môn học tương ứng; đặc biệt trong “Phần mềm ôn thi đại học môn sinh học” còn có 303 bài tập và 51 đề thi tự luận. 
+Nhiều đề thi tuyển sinh đại học môn toán, lý, hóa, sinh, tiếng Anh, văn của các năm gần đây cũng được chuyển sang dạng trắc nghiệm. Ngoài ra, phần mềm còn có các đề tự tạo theo phương pháp ngẫu nhiên dựa trên số lượng các câu trắc nghiệm có sẵn hoặc mới bổ sung của từng môn tương ứng.
+
+H.P.

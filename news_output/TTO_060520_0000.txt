@@ -1,0 +1,10 @@
+﻿ Sâu nguy_hiểm lây qua IM
+Đầu_tiên , sâu này núp_bóng dưới dạng một link do bạn_bè hoặc đối_tác công_việc của bạn gởi đến qua các chương_trình IM ( Instant_Messages : Tin nhắn trực_tuyến ) . Công_ty FaceTime Communications , chuyên về các vấn_đề bảo_mật qua IM , mô_tả loại sâu này với cái tên " yhoo32.explr " , với mức_độ khuyến_cáo dữ_dội nhất vì tính_chất nguy_hiểm của nó .
+Khi bạn click vào link , ngay_lập_tức , sâu này sẽ cài_đặt một trình_duyệt có tên là " Safety_Browser " , icon thường y_hệt như trình_duyệt web IE ( Internet_Explorer ) mà bạn đang sử_dụng . Điều này khiến cho rất nhiều người dùng lầm tưởng . Và khi bạn click vào trình_duyệt này thì thay máy tự_động mở trang_chủ mà bạn thiết_lập , nó sẽ hướng bạn tới một website quảng_cáo , hoặc có chứa nhiều loại sâu , bọ khác .
+Và đương_nhiên , " homepage " của trình_duyệt IE " thân_thương " của bạn cũng bị đổi .
+Dạng icon của Safety_Browsers
+Loại sâu này thể_hiện một cách_thức tấn_công mới . Lần đầu_tiên có một loại sâu có khả_năng cài_đặt một trình_duyệt giả_mạo thông_qua IM . Điều này khiến cho ranh_giới không_gian trong hệ_thống mạng trở_nên " mờ_mịt " dần . Bất_cứ một kết_nối nào đến máy_tính của bạn cũng có_thể là phương_tiện để truyền virus …
+Sau khi thâm_nhập vào máy , sâu sẽ tiếp_tục gởi đường link đến cho tất_cả các đối_tác trong Yahoo_Messenger , tiếp_tục chu_trình lây_lan của nó .
+Bạn có_thể vào blogs của FaceTime để có thêm thông_tin mô_tả chi_tiết về loại sâu này .
+Trước_mắt , chưa có dạng_thức cho tất_cả các link của loại sâu này , cho_nên bạn hãy xác_nhận với bạn_bè trước khi nhận bất_cứ link nào từ họ qua Yahoo_Messenger . Dự_kiến sâu này sẽ lây_lan qua các chương_trình IM khác trong thời_gian tới .
+TRẦN_HUY ( Theo Face Time_Comm . )

@@ -1,0 +1,616 @@
+﻿TP.HCM: Chỉ tiêu tuyển sinh lớp 10 và số liệu ban đầu đăng ký 4 NV
+
+Theo đó, Trường Nguyễn Thị Minh Khai có số lượng HS đăng ký cả hai hệ công lập và bán công nhiều nhất TP với tỉ lệ chọi nguyện vọng (NV1) tương đương 4:1 (chỉ tiêu 675 HS, đăng ký 2.699 HS); NV3 là 16,8:1 (CT 135 HS, ĐK 2.267 HS). 
+Lưu ý có nhiều HS đăng ký vào những trường không có chỉ tiêu tuyển như đăng ký NV3, 4 vào những trường không tuyển hệ bán công hoặc đăng ký NV1, 2 vào những trường công lập tự chủ tài chính. Những NV này đều không được xét và đã được Sở GD-ĐT loại khỏi danh sách đăng ký. 
+Từ hôm nay 20-5-2006, đến cuối ngày 26-5-2006, PHHS có thể điều chỉnh lại nguyện vọng đã đăng ký (tại trường THCS đang học). 
+PHHS và HS xem chi tiết chỉ tiêu kế hoạch tuyển sinh lớp 10 và số liệu ban đầu đăng ký 4 NV các trường khối THPT trên địa bàn TP.HCM - năm học 2006-2007 dưới đây: 
+STT 
+QUẬN 
+TRƯỜNG 
+CHỈ TIÊU 
+NGUYỆN VỌNG 
+BC 
+CL TCTC 
+CL 
+TS 
+NV1 
+NV2 
+NV3 
+NV4 
+1 
+1 
+THPT BC Ten Lơ Man 
+675 
+675 
+1226 
+1704 
+2 
+1 
+THPT BC Lương Thế Vinh 
+320 
+320 
+476 
+1235 
+3 
+3 
+THPT BC Marie Curie 
+1125 
+1125 
+2945 
+2624 
+4 
+3 
+THPT BC Nguyễn Thị Diệu 
+495 
+495 
+771 
+1746 
+5 
+5 
+THPT BC Trần Khai Nguyên 
+1125 
+1125 
+2905 
+2466 
+6 
+5 
+THPT BC Trần Hữu Trang 
+450 
+450 
+483 
+1078 
+7 
+7 
+THPT BC Nam Sài Gòn 
+60 
+60 
+93 
+220 
+8 
+10 
+THPT BC Nguyễn An Ninh 
+810 
+810 
+424 
+1715 
+9 
+10 
+THPT BC Diên Hồng 
+360 
+360 
+235 
+633 
+10 
+10 
+THPT BC Sương Nguyệt Anh 
+270 
+270 
+313 
+503 
+11 
+11 
+THPT BC Nam Kỳ Khởi Nghĩa 
+720 
+720 
+1134 
+2376 
+12 
+BT 
+THPT BC Hoàng Hoa Thám 
+675 
+675 
+1607 
+1714 
+13 
+GV 
+THPT BC Nguyễn Trung Trực 
+900 
+900 
+699 
+2241 
+14 
+PN 
+THPT BC Hàn Thuyên 
+630 
+630 
+298 
+1101 
+15 
+TB 
+PH/THPT BC Lý Tự Trọng 
+540 
+540 
+1512 
+1789 
+16 
+TB 
+THPT BC Nguyễn Thái Bình 
+945 
+945 
+1162 
+2955 
+17 
+1 
+THPT Trưng Vương 
+675 
+675 
+1724 
+1960 
+18 
+1 
+THPT Bùi Thị Xuân 
+630 
+630 
+1946 
+480 
+19 
+1 
+THPT Năng khiếu TDTT 
+45 
+90 
+135 
+202 
+402 
+190 
+214 
+20 
+2 
+THPT Giồng Ông Tố 
+90 
+450 
+540 
+638 
+436 
+721 
+441 
+21 
+2 
+THPT Thủ Thiêm 
+135 
+495 
+630 
+230 
+576 
+239 
+662 
+22 
+3 
+THPT Lê Quý Đôn 
+450 
+450 
+1116 
+1235 
+23 
+3 
+THPT Nguyễn Thị Minh Khai 
+135 
+675 
+810 
+2699 
+558 
+2267 
+442 
+24 
+3 
+PH/THPT Lê Thị Hồng Gấm 
+135 
+405 
+540 
+864 
+1863 
+358 
+544 
+25 
+4 
+THPT Nguyễn Trãi 
+135 
+630 
+765 
+1351 
+920 
+1208 
+392 
+26 
+4 
+THPT Nguyễn Hữu Thọ 
+90 
+180 
+270 
+159 
+918 
+226 
+594 
+27 
+5 
+THPT Hùng Vương 
+225 
+900 
+1125 
+3448 
+1061 
+2132 
+484 
+28 
+5 
+TH Thực Hành ĐHSP 
+40 
+120 
+160 
+323 
+264 
+296 
+116 
+29 
+6 
+THPT Mạc Đĩnh Chi 
+450 
+810 
+1260 
+2637 
+939 
+2611 
+1123 
+30 
+6 
+THPT Bình Phú 
+675 
+675 
+1590 
+2833 
+31 
+7 
+THPT Lê Thánh Tôn 
+630 
+630 
+754 
+545 
+32 
+7 
+THPT Ngô Quyền 
+135 
+495 
+630 
+901 
+740 
+1010 
+732 
+33 
+7 
+THPT Tân Phong 
+135 
+450 
+585 
+309 
+1153 
+664 
+1284 
+34 
+8 
+THPT Lương Văn Can 
+180 
+585 
+765 
+1443 
+1110 
+1275 
+498 
+35 
+8 
+THPT Ngô Gia Tự 
+90 
+405 
+495 
+339 
+910 
+637 
+817 
+36 
+8 
+THPT Tạ Quang Bửu 
+630 
+630 
+470 
+1062 
+37 
+8 
+THPT Chuyên TDTT Nguyễn Thị Định 
+90 
+240 
+330 
+127 
+694 
+323 
+810 
+38 
+9 
+THPT Nguyễn Huệ 
+675 
+675 
+856 
+477 
+39 
+9 
+THPT Phước Long 
+90 
+360 
+450 
+429 
+737 
+1532 
+1999 
+40 
+9 
+THPT Long Trường 
+720 
+720 
+175 
+991 
+41 
+10 
+THPT Nguyễn Khuyến 
+180 
+630 
+810 
+1506 
+4002 
+924 
+1001 
+42 
+10 
+THPT Nguyễn Du 
+180 
+630 
+810 
+1714 
+1227 
+953 
+463 
+43 
+11 
+THPT Nguyễn Hiền 
+135 
+540 
+675 
+2627 
+1454 
+1269 
+822 
+44 
+12 
+THPT Võ Trường Toản 
+720 
+720 
+928 
+867 
+45 
+12 
+THPT Trường Chinh 
+135 
+540 
+675 
+745 
+1782 
+1219 
+1089 
+46 
+12 
+THPT Thạnh Lộc 
+135 
+405 
+540 
+343 
+738 
+587 
+800 
+47 
+BT 
+THPT Thanh Đa 
+90 
+450 
+540 
+620 
+1138 
+698 
+745 
+48 
+BT 
+THPT Võ Thị Sáu 
+315 
+540 
+855 
+1364 
+747 
+1447 
+802 
+49 
+BT 
+THPT Gia Định 
+225 
+855 
+1080 
+2071 
+820 
+1878 
+588 
+50 
+BT 
+THPT Phan Đăng Lưu 
+135 
+540 
+675 
+1353 
+3147 
+649 
+855 
+51 
+GV 
+THPT Gò Vấp 
+630 
+630 
+1064 
+1019 
+52 
+GV 
+THPT Nguyễn Công Trứ 
+225 
+810 
+1035 
+1785 
+362 
+1911 
+403 
+53 
+GV 
+THPT Trần Hưng Đạo 
+135 
+765 
+900 
+1148 
+1504 
+980 
+920 
+54 
+PN 
+THPT Phú Nhuận 
+180 
+630 
+810 
+2058 
+925 
+1556 
+411 
+55 
+TB 
+THPT Nguyễn Chí Thanh 
+90 
+495 
+585 
+999 
+1856 
+688 
+887 
+56 
+TB 
+THPT Nguyễn Thượng Hiền 
+810 
+810 
+1729 
+109 
+57 
+TĐ 
+THPT Nguyễn Hữu Huân 
+135 
+585 
+720 
+1076 
+53 
+2034 
+468 
+58 
+TĐ 
+THPT Thủ Đức 
+765 
+765 
+1392 
+936 
+59 
+TĐ 
+THPT Tam Phú 
+540 
+540 
+889 
+1012 
+60 
+TĐ 
+THPT Hiệp Bình 
+540 
+540 
+146 
+940 
+61 
+HM 
+THPT Nguyễn Hữu Cầu 
+135 
+495 
+630 
+891 
+106 
+941 
+159 
+62 
+HM 
+THPT Lý Thường Kiệt 
+135 
+540 
+675 
+1385 
+311 
+1303 
+405 
+63 
+HM 
+THPT Bà Điểm 
+135 
+540 
+675 
+1074 
+850 
+1018 
+833 
+64 
+HM 
+THPT Nguyễn Văn Cừ 
+135 
+495 
+630 
+397 
+1114 
+444 
+1081 
+65 
+HM 
+THPT Nguyễn Hữu Tiến 
+135 
+495 
+630 
+213 
+1276 
+377 
+1269 
+66 
+NB 
+THPT Long Thới 
+720 
+720 
+473 
+727 
+67 
+TP 
+THPT Tân Bình 
+810 
+810 
+1220 
+3606 
+68 
+TP 
+THPT Trần Phú 
+225 
+810 
+1035 
+2783 
+914 
+2855 
+625 
+69 
+BTA 
+THPT An Lạc 
+360 
+405 
+765 
+475 
+1023 
+782 
+1161 
+(DL: Dân lập; TT: Tư thục; BC: Bán công; CL (TCTC): Công lập tự chủ tài chánh; CL: Công lập; BTA: Bình Tân)
+
+K.LIÊN

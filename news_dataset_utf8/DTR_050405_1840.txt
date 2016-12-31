@@ -1,0 +1,6 @@
+﻿"Hacker mũ đen" phá hoại vì tiền
+
+Hơn 70% các “chuyên gia” viết virus máy tính theo hợp đồng, đó là khẳng định của công ty bảo mật Israel Aladdin Knowledge Systems (AKS). Theo công ty này, hoạt động tin tặc đang chuyển dần thành một nghề kinh doanh hứa hẹn nhiều lợi nhuận. 
+ Cũng theo thống kê của AKS, phần mềm gián điệp (spyware) là công cụ được sử dụng nhiều nhất trong các cuộc tấn công có dính líu tới hợp đồng kinh tế. 
+“Chúng tôi đã phân tích lượng virus tiếp nhận được trong vòng 6 tháng qua và phát hiện ra rằng 70% trong số chúng có chứa đặc tính của phần mềm gián điệp”, Shimon Gruper- phó giám đốc công nghệ của AKS, tuyên bố. 
+Dù xuất phát từ mục tiêu gì, hoạt động phá hoại của hacker mũ đen vẫn ngày càng nguy hiểm. AKS khuyến cáo các công ty nên chặt chẽ hơn nữa trong việc bảo mật các dữ liệu quan trọng của mình. Theo VnMedia

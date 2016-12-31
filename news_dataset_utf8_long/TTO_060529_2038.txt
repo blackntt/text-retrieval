@@ -1,0 +1,9 @@
+﻿Dịch vụ khôi phục dữ liệu thẻ nhớ miễn phí từ Sony
+
+Bộ phận Sony tại châu Âu RME (Recoring Media &amp; Energy) giới thiệu đến người dùng dịch vụ cứu dữ liệu trên thẻ nhớ (Memory Stick Data Rescue Service). Dịch vụ hỗ trợ khôi phục lại những tập tin hình ảnh và dữ liệu được lưu trữ trên Memory Stick, đã bị mất hoặc xóa. Hơn nữa, tin tốt lành từ nhà sản xuất là dịch vụ Memory Stick File Rescue tương thích với tất cả thẻ nhớ Sony Memory Stick được sản xuất từ năm… 1998. 
+Tuy vậy, người dùng cũng phải lưu ý rằng dữ liệu không thể cứu được hoàn toàn 100% và quan trọng nhất là không được chép đè dữ liệu lên thẻ nhớ. 
+Công cụ trực tuyến này rất đơn giản để sử dụng và bạn phải đăng ký để có thể dùng, sau đó, điền số serial và model trên thẻ Memory Stick của mình rồi tải phần mềm tương thích về máy. 
+Các định dạng mà dịch vụ này có thể khôi phục được là: .JPG (Định dạng DCF), .MPEG1 và .MP4 (MS Video File Format)… kể cả những tập tin định dạng văn bản như Word và Powerpoint. 
+Dịch vụ này hoàn toàn miễn phí và người dùng có thể tải về phần mềm miễn phí tại đây .
+
+TUYẾT PHẤN

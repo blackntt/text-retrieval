@@ -1,0 +1,6 @@
+﻿Oracle Database 10g đánh bại SQL Server 2000
+
+Sau một loạt các đánh giá toàn diện, Công ty Progressive Strategies chuyên phân tích công nghệ và thông tin thị trường đang cạnh tranh với nhau, khẳng định doanh nghiệp sử dụng Oracle Database 10g thay cho Microsoft SQL Server 2000 có thể đạt được những kết quả sau: 
+- Giảm 30% thời gian cần thiết để thực thi các tác vụ hành chính đơn thuần - Giảm 20% tính phức tạp khi tiến hành một số bước cần thiết để thực hiện cùng một hệ thống các tác vụ quản lý cơ sở dữ liệu tiêu chuẩn - Các khoản tiết kiệm thường niên tương đối lên tới 32.600 đôla mỗi Quản trị viên cơ sở dữ liệu (do tăng năng suất làm việc của quản trị viên)
+
+T.M

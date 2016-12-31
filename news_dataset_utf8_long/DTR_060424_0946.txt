@@ -1,0 +1,10 @@
+﻿Microsoft phát triển dịch vụ lưu trữ trực tuyến
+
+Dịch vụ Live Drive mà Microsoft đang phát triển nhằm cạnh tranh với dự án Gdrive của nhà cung cấp dịch vụ tìm kiếm khổng lồ Google. Dịch vụ cho phép người dùng truy cập các file trên máy tính từ trên một trang web trung gian.
+
+ Theo phát ngôn viên của Microsoft, dự án có tên Live Drive sẽ sử dụng tính năng chia sẻ folder (Sharing Folders) trong ứng dụng Windows Live Messenger của hãng để tìm kiếm và chia sẻ các file trên máy tính. 
+Chris Overd, một trong những người thử nghiệm dịch vụ này, và là một trong những chuyên gia hàng đầu của Microsoft, cho biết Live Drive sẽ là một dịch vụ lưu trữ trực tuyến có tính phí, cho phép người dùng truy cập các file trên máy tính từ trên một trang web trung gian. 
+Ông này cho biết vì dịch vụ lưu trữ này có thể sẽ được tích hợp trong tính năng Mobility Center của hệ điều hành Windows Vista, do đó, Live Drive sẽ là một cách để Microsoft liên kết giữa các dịch vụ trực tuyến Windows Live với Vista . 
+“Tích hợp dịch vụ này với Vista Mobility Center tạo ra rất nhiều ý nghĩa, và Live Drive sẽ giúp người dùng Vista tương tác với Windows Live”, ông Overd nhận định. 
+Live Drive tương tự với dịch vụ “Gdrive” được Google giới thiệu cách đây 2 năm, lưu trữ và truy cập dữ liệu trên Internet. Nhờ đó, người dùng có thể sử dụng tài liệu dù ở trên thiết bị nào. 
+N.Hương Theo TechWorld

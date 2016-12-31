@@ -1,0 +1,27 @@
+﻿ Cài_đặt Tình_Yêu
+Khách_hàng ( KH ) : . . Tôi không rành kỹ_thuật chuyên_môn lắm nhưng tôi nghĩ mình có_thể tiến_hành cài_đặt ngay được rồi , phải làm_gì đầu_tiên đây ?
+Chuyên_viên kỹ_thuật ( CVKT ) : Bước đầu_tiên là phải mở TRÁI_TIM . Bạn có xác_định được đường_dẫn đến đó chưa ạ ?
+KH : Vâng , được rồi , nhưng có vài chương_trình đang chạy . Cài_đặt trong khi chúng vẫn hoạt_động không gây ra vấn_đề gì chứ ?
+CVKT : Những chương_trình gì đang chạy vậy ?
+KH : Để coi … tôi thấy có VẾT_THƯƠNG_LÒNG . EXE , THIẾU_TÔN_TRỌNG . EXE , HẬN_THÙ . EXE và BỰC_BỘI . COM đang hoạt_động .
+CVKT : Không vấn_đề gì . TÌNH_YÊU sẽ tự_động xóa VẾT_THƯƠNG_LÒNG . EXE từ hệ_thống đang hiện_hành . Nó vẫn có_thể còn nằm trong bộ_nhớ vĩnh_viễn nhưng sẽ không còn gây ảnh_hưởng đến các chương_trình khác được nữa . TÌNH_YÊU cuối_cùng sẽ ghi chồng lên THIẾU_KÍNH_TRỌNG . EXE bằng một Module của chính nó có tên là TÔN_TRỌNG . EXE . Tuy_nhiên , bạn phải đóng hoàn_toàn chương_trình HẬN_THÙ . EXE và BỰC_BỘI . COM vì những trình này có_thể ngăn_cản quá_trình cài_đặt bình_thường của TÌNH_YÊU . Bạn đã đóng chúng chưa vậy ?
+KH : Tôi không biết làm_sao để đóng chúng nữa . Anh vui_lòng chỉ hộ .
+CVKT : Dĩ_nhiên rồi ạ . Từ menu Start hãy gọi THA_THỨ . EXE . Lặp lại thao_tác này nhiều lần cho_đến khi HẬN_THÙ . EXE và BỰC_BỘI . COM bị xóa sạch .
+KH : OK , xong rồi . TÌNH_YÊU đã bắt_đầu quá trính cài_đặt tự_động . Mọi việc diễn ra như_thế là bình_thường chứ ?
+CVKT : Vâng , đúng vậy . Bạn có_thể nhận được một hộp_thoại báo rằng chương_trình sẽ tái chỉnh_sửa những thông_số về cuộc_sống của TRÁI_TIM . Bạn có thấy hộp_thoại đó không ?
+KH : Vâng , đã thấy . Như_thế là quá_trình cài_đặt hoàn_thành rồi chứ ?
+CVKT : Đúng vậy . Nhưng bạn nhớ đây chỉ là chương_trình nguyên_mẫu . Bạn phải bắt_đầu nối_mạng với những TRÁI_TIM khác để cập_nhật bản nâng_cấp .
+KH : Ủa … Hình_như có thông_báo lỗi . Tôi phải làm_gì đây ?
+CVKT : Thông_báo nói_gì vậy ?
+KH : Nó báo : “ LỖI 412 - CHƯƠNG_TRÌNH_KHÔNG_CHẠY_TRONG_CÁC_THÀNH_PHẦN_NỘI_BỘ” . Vậy nghĩa_là gì ?
+CVKT : Bạn đừng lo , đó là một lỗi thông_thường . Nó có nghĩa_là chương_trình TÌNH_YÊU vừa cài_đặt có_thể chạy trong các TRÁI_TIM bên ngoài nhưng chưa hoàn_toàn hoạt_động trong TRÁI_TIM của bạn . Đây là cái rắc_rối của chương_trình này , nói một_cách nôm_na là bạn phải tiến_hành thao_tác “ LOVE” cho chính máy của mình trước khi “ LOVE” những máy khác ” .
+KH : Vậy phải làm_gì đây ?
+CVKT : Bạn có tìm ra thư_mục CHẤP_NHẬN_BẢN_THÂN trong máy không ?
+KH : Tôi thấy rồi
+CVKT : Xuất_sắc , bạn sẽ giải_quyết vấn_đề nhờ vào thư_mục này . Bây_giờ hãy sao_chép các tập_tin dưới đây vào thư_mục MYHEART : TỰ_THA_THỨ . DOC , TÔN_TRỌNG_BẢN_THÂN . TXT , NHẬN_LỖI . TXT và LÒNG_TỐT . DOC . Hệ_thống sẽ tự_động ghi đè lên các file đối_lập và bắt_đầu quá_trình chắp_vá các trình bị lỗi . Bạn cũng cần phải xóa TỰ_CHỈ_TRÍCH . EXE khỏi mọi thư_mục trong máy và sau đó thực_hiện thao_tác Emty recycle bin để chắc_chắn rằng nó hoàn_toàn biến_mất và sẽ không trở_lại vào một ngày đẹp trời nào_đó .
+KH : Có rồi ! Bây_giờ tôi có_thể nhận ra NỤ_CƯỜI . MPG đang hiện lên trên màn_hình và hình_như nó cũng cho thấy là NHIỆT_TÌNH . COM , BÌNH_AN . EXE và MÃN_NGUYỆN . COM đang tự copy trong TRÁI_TIM tôi .
+CVKT : Sau khi đã cài_đặt xong TÌNH_YÊU , còn một điều mà tôi phải thông_báo trước khi kết_thúc
+KH : Gì vậy ?
+CVKT : TÌNH_YÊU là phần_mềm miễn_phí . Bạn hãy chắc rằng mình sẽ tải nó cho nhiều người khác mà bạn gặp . Sau đó họ sẽ chia_sẻ nó cho nhiều người khác và có_thể họ sẽ gởi vài bản nâng_cấp lại cho bạn .
+KH : Tôi sẽ . Cảm_ơn sự giúp_đỡ của anh .
+DUY_LINH ( Theo Inspirational )

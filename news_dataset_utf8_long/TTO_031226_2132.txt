@@ -1,0 +1,31 @@
+﻿Phần mềm trợ giúp luyện thi đại học
+
+LTĐH có ba môn: 
+- Toán : Bao gồm kiến thức, trắc nghiệm, Mathtool. Phần kiến thức ôn lại kiến thức toàn bộ chương trình phổ thông. Phần trắc nghiệm có hơn 300 câu hỏi, được chia thành nhiều đề, hoặc sắp xếp theo từng chủ đề để người dùng tiện trong việc kiểm tra kiến thức. 
+- Lý : Macro và trắc nghiệm. Phần trắc nghiệm có hơn 300 câu hỏi trải dài chương trình từ lớp 11 đến lớp 12, các bạn có thể chọn làm theo các đề được đánh số từ 1 - 20 hoặc chọn các chủ đề để kiểm tra. 
+- Hóa : Dictionary và trắc nghiệm. Dictionary là từ điển hóa học dùng để tra cấu tạo, tính chất hóa học và lý tính của các chất hóa học. Phần trắc nghiệm với hơn 350 câu hỏi trải dài chương trình từ lớp 10 đến lớp 12, bạn có thể chọn làm theo các đề được đánh số từ 1 - 20 hoặc chọn các chủ đề để kiểm tra. 
+LTĐH còn có công cụ toán học Mathtool để người dùng kiểm chứng lại các bài toán phức tạp xem mình đã làm đúng hay chưa. Đây là công cụ toán học đầy đủ, đặc biệt hữu hiệu khi dùng để tính các biểu thức phức tạp, cách bấm rất dễ dàng chứ không phức tạp như khi dùng máy tính bỏ túi. Ngoài các chức năng thông thường của máy tính Casio-Fx500A thông dụng, Mathtool còn vô số các chức năng cao cấp khác và rất cần thiết đối với người dùng : 
+- Hiển thị biểu thức tính toán theo dạng toán học. 
+- Tính toán theo biểu thức. 
+- Có thể vẽ đồ thị một hàm hoặc nhiều hàm cùng lúc. 
+- Người dùng có thể chọn trục tọa độ, chọn đơn vị để vẽ đồ thị. 
+- Gồm đầy đủ các hàm toán học . 
+- Công cụ tính lim một biểu thức, có thể tính được giá trị lim của hàm số bất kỳ. 
+- Tính tích phân xác định và đạo hàm tại một điểm. 
+- Đầy đủ chức năng giải phương trình bậc 2, giải hệ phương trình bậc một 2 ẩn, 3 ẩn. 
+- Chức năng giải phương trình tổng quát fx= 0, có thể tìm nghiệm của bất kỳ phương trình nào. 
+- Dễ dàng tính các giá trị của hàm số theo X . 
+Ngoài ra, còn có Macro là công cụ vật lý cho phép bạn áp dụng các công thức vật lý một cách nhanh chóng và tiện lợi, bạn không phải lo lắng gì về việc đổi đơn vị, physical macro sẽ làm việc đó. Macro có đầy đủ các công thức vật lý, hệ thống các đơn vị được chọn lọc gần với từng công thức, bao gồm gần 100 công thức định sẵn. 
+Từ điển hóa học : Gồm các chất vô cơ trong toàn bộ chương trình phổ thông.Với các đặc điểm: 
+- Hơn 1.000 phương trình hóa học được minh họa. 
+- Đầy đủ các mục: Lý tính, cấu hình, khối lượng (nguyên, phân tử), tính chất hóa học, điều chế. 
+- Các phương trình hóa học đều áp dụng kỹ thuật “Hightlight Syntax”. 
+- Tra cứu nhanh các chất bằng công thức và tên chất. 
+- Hệ thống tiếng Việt độc lập, cho phép gõ tiếng Việt mà không dùng các bộ gõ khác. 
+- Người dùng có thể sắp xếp lại các chất trong danh sách theo thứ tự bảng chữ cái. 
+Chương trình chạy được trên nhiều hệ điều hành Windows và DOS. Chỉ cần máy tính từ 486 trở lên, bộ nhớ RAM 4 MB, đĩa cứng còn trống 8 MB. 
+Download LTĐH phiên bản cho Win32 ( Win95/ 98/ Me/ NT/ 2000/ XP ) 
+Phiên bản cho Dos32 (không chạy trên WinXP,WinNT,Win2000) 
+Phiên bản cho Dos16 (Phiên bản này hạn chế một số chức năng so với hai phiên bản trên)
+
+PV

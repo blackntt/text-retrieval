@@ -1,0 +1,9 @@
+﻿ Nhật_Bản bị rò_rỉ 4 triệu dữ_liệu cá_nhân
+Thông_tin cá_nhân , gồm tên , địa_chỉ , số điện_thoại của gần 4 triệu khách_hàng của nhà_cung_cấp dịch_vụ viễn_thông nước này KDDI vừa bị lọt ra ngoài .
+KDDI cho_biết , tất_cả dữ_liệu của 3.996.789 thuê_bao của họ từ ngày 18/12/2003 bị kẻ_gian ăn_cắp . Ngoài_ra còn có thông_tin về giới_tính , ngày sinh_nhật và địa_chỉ e - mail của những khách_hàng này .
+Yoko_Watanabe , phát_ngôn_viên của hãng viễn_thông có trụ_sở ở Tokyo , cho_biết , KDDI phát_hiện ra thảm_họa này vào ngày 31/5 sau khi nhận được một cuộc điện_thoại của một người cho_biết đang sở_hữu đĩa CD-ROM chứa những thông_tin về khách_hàng của họ .
+Cũng trong ngày 31/5 , cảnh_sát Tokyo đã bắt được 2 người đàn_ông bị tình_nghi đã ăn_trộm 5 triệu – 10 triệu Yen của KDDI . Hai người này thú_nhận là thủ_phạm ăn_trộm 4 triệu thông_tin cá_nhân của khách_hàng KDDI .
+Trong thời_gian gần đây xảy_ra nhiều vụ rò_rỉ thông_tin rất dáng báo_động . Một_số công_ty bị mất dữ_liệu cá_nhân rất nhiều lần vì virus đột_nhập vào máy_tính để chạy các chương_trình chia_sẻ file . Tin_tặc giả_danh một tổ_chức nào_đó gửi phiếu thanh_toán và gọi điện yêu_cầu người dùng trả phí cho những dịch_vụ mà họ không dùng . Người dùng thường bị lừa gửi tiền rồi mới phát_hiện ra_trò gian_lận tinh_vi này .
+Thời_gian qua , Nhật_Bản cũng ghi_nhận một_số vụ gian_lận tương_tự .
+KDDI là hãng cung_cấp dịch_vụ viễn_thông lớn thứ 2 Nhật_Bản . Hãng hoạt_động trên mạng điện_thoại cố_định , Internet dial - up , băng_thông_rộng và cả điện_thoại_di_động .
+N . H_Theo_Tech World

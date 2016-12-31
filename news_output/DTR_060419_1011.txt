@@ -1,0 +1,7 @@
+﻿ Ổ_cứng đầu_tiên truyền dữ_liệu 100 MB/giây
+Hãng sản_xuất ổ_cứng lưu_trữ Seagate ( Mỹ ) chuẩn_bị ra_mắt dòng ổ_cứng Cheetah 3,5 inch có dung_lượng 300 GB , với vòng quay lên tới 15.000 vòng/phút . Đây là ổ_cứng đầu_tiên có tốc_độ truyền dữ_liệu lên tới 100 MB/giây .
+Seagate cho_biết đây là ổ_đĩa 3,5 inch đầu_tiên của hãng sử_dụng công_nghệ ghi trực_giao ( perpendicular ) . Theo hãng sản_xuất ổ_cứng máy_tính , ổ_cứng Cheetah 300 GB này lưu_trữ gấp đôi dung_lượng ổ_đĩa Cheetah cùng loại trước_đây và tốc_độ truyền dữ_liệu cũng nhanh hơn 30% .
+Seagate nhận_định , đây là ổ_cứng đầu_tiên có tốc_độ truyền dữ_liệu đạt 100 MB/giây .
+Công_nghệ ghi trực_giao ghi dữ_liệu theo phương thẳng_đứng , cho_phép lưu_trữ dữ_liệu nhiều gấp 30% so với ổ_đĩa thông_thường . Kỹ_thuật ghi trực_giao sẽ thay_thế phương_pháp lưu_trữ theo chiều dọc vẫn được dùng trong lĩnh_vực ổ_cứng từ trước đến nay . Cách lưu_trữ theo chiều dọc đặt các bit dữ_liệu song_song với bề_mặt của đĩa còn phương_pháp lưu_trữ trực_giao đặt các bit này theo chiều thẳng_đứng và do_đó cho_phép nén nhiều dữ_liệu hơn trên đĩa .
+Seagate đã sử_dụng công_nghệ ghi trực_giao trên ổ_đĩa 2,5 inch và bây_giờ mở_rộng sang dòng 3,5 inch . Sản_phẩm sẽ có_mặt trên thị_trường trong tháng 6 .
+S.Hương Theo Tech World

@@ -1,0 +1,7 @@
+﻿ Windows " dính " 3 lỗ_hổng nghiêm_trọng
+Hôm_qua , hãng phần_mềm khổng_lồ Mỹ khuyến_cáo về 3 khiếm_khuyết nghiêm_trọng xuất_hiện trong hệ_điều_hành Windows , cho_phép tin_tặc chiếm quyền kiểm_soát máy_tính , virus tự nhân_bản mà không cần sự tác_động của người dùng .
+Microsoft nhận_định đây là các khiếm_khuyết có cấp_độ “ nghiêm_trọng ” . Một trong ba lỗi này xuất_hiện trong một_số phiên_bản của trình_duyệt Internet_Explorer của Microsoft nên hacker lợi_dụng trình_duyệt web để chiếm toàn_quyền hệ_thống máy_tính của người dùng . Hai lỗ_hổng nguy_hiểm khác “ nằm ” trong hệ_điều_hành Windows .
+Một lỗi được xác_định là rất “ quan_trọng ” , giúp kẻ phá_hoại đột_nhập vào hệ_thống và ăn_cắp thông_tin nhạy_cảm của người dùng nhưng lại không nhân_bản sang các máy_tính khác , Microsoft cho_biết .
+Microsoft đã mất hơn 3 năm để nâng_cấp hệ_thống an_ninh của hệ_điều_hành nhưng ngày_càng nhiều phần_mềm nguy_hiểm tấn_công các điểm yếu trong Windows và các ứng_dụng khác của Microsoft .
+Microsoft phát_hành bản vá các lỗi này trong bản nâng_cấp của tháng 4 . Cập_nhật bản sửa lỗi tại đây .
+S . H_Theo_Reuters

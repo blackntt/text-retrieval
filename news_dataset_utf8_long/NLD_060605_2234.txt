@@ -1,0 +1,4 @@
+﻿Game: Air Guard – Bầu trời chiến tranh
+
+Air Guard tái hiện những trận không chiến ác liệt trên bầu trời châu Âu trong chiến tranh thế giới II. Bạn sẽ lái máy bay cường kích của lực lượng Đồng Minh chống lại máy bay phát xít Đức.
+Game có 2 chế độ chơi là Campaign (thực hiện nhiệm vụ được giao) và Battle (chỉ đơn thuần là chiến đấu). Bạn dùng chuột di chuyển để điều khiển máy bay, nhấn chuột trái và chuột phải để bắn tên lửa và ném bom. Cấu hình tối thiểu để chơi Air Guard là Pentium 500 Mhz, 128 MB RAM, DirectX 8.1. Dung lượng: 4,39 MB. Download: www.tomdownload.com/games/simulations/air_guard.htm

@@ -1,0 +1,6 @@
+﻿ Tự làm lấy trò_chơi ghép hình
+Điểm hay nhất của chương_trình này là nó cho_phép bạn chọn hình_ảnh bất_kỳ trên đĩa_cứng để tạo ra những mảnh ghép , chứ không phải chỉ là hình_ảnh tạo trước của chương_trình . Do_vậy , lượng tranh ghép hình của bạn sẽ rất phong_phú . Sau khi tạo xong bạn có_thể xuất sang dạng EXE để chạy bất_cứ khi nào cần .
+- Thao_tác sử_dụng rất đơn_giản , bạn chọn hình_ảnh trong mục Picture . Bạn có_thể tạo_hình nền trong mục Background . Sau khi lựa_chọn xong , nhấn Make puzzle để tạo tập_tin dạng EXE . Sau khi tạo xong chương_trình sẽ hiện ra hộp_thoại để xác_nhận bạn muốn chạy thử không . Nhấn_Yes để chạy .
+- Cách điều_khiển : Nhắp giữ chuột phải để kéo các mảnh nhỏ của tranh đến vị_trí mong_muốn . Nhấn chuột phải để quay hình . Nhấn phím V để xuất_hiện hình_mẫu chuẩn . Phím J dùng để đưa từng hình vào đúng vị_trí ( bạn đừng lạm_dụng phím này nhé ! ) . Phím A dùng để lần_lượt đưa hình ( khác với phím J chỉ đưa một hình cho một lần nhắp chuột . ) .
+Ngoài_ra , bạn có_thể sử_dụng các nút công_cụ để điều_khiển thêm một_số tính_năng khác .
+Theo LBVMVT

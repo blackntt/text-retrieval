@@ -1,0 +1,4 @@
+﻿ Thử_nghiệm thành_công chơi game online trên ĐTDĐ
+Tập_đoàn Siemens và Time_Warner_Cable vừa thử_nghiệm thành_công công_nghệ băng_thông tích_hợp đường truyền cố_định , di_động và WiFi qua hệ_thống IMS ( IP Multimedia_Subsystem ) tại Hoa_Kỳ , nhằm cung_cấp khả_năng hội_tụ di_động cố_định ( FMC ) .
+Một trong những công_nghệ được trình_diễn là các trò_chơi trực_tuyến tích_hợp cả hai mạng điện_thoại chuyển mạch kênh và chuyển mạch gói cũng_như các công_nghệ không dây và cố_định khác_nhau . Người sử_dụng có_thể dễ_dàng chuyển từ thiết_bị không dây sang thiết_bị cố_định và ngược_lại mà không cảm_thấy sự khác_biệt . Siemens dự_kiến sẽ phát_triển công_nghệ này tại VN trong thời_gian tới đây .
+T.Dũng

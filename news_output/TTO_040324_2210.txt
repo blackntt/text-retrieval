@@ -1,0 +1,8 @@
+﻿ Đặt_Password bảo_vệ File và Folder trong WinXP
+Cách bình_thường nhất_là bạn định_dạng ổ_cứng là NTFS để tăng khả_năng bảo_mật . Nhưng cũng có một_cách khác để đặt password trong WinXP mà không cần quan_tâm đến việc ổ_cứng được định_dạng thế_nào .
+Trước_tiên bạn hãy kiểm_tra chức_năng folder compression đã được cài_đặt trên PC : chọn Start - Settings - Control_Panel . Sau đó double - click vào Add/Remove Programs và click vào tab Windows_Setup . Chon_System_Tools và click Details . Nếu_không có dấu check ở mục Compressed_Folders hãy check vào . Cuối_cùng chọn OK .
+Nén folder hay file :
+Để nén một folder hay file , click chuột phải trên desktop hoặc bên trong bất_cứ thư_mục nào , chọn New - Compressed ( zipped ) Folder . Thao_tác này sẽ khởi tạo một folder mới với tên là New_Compressed_Folder . Gõ tên theo ý bạn và nhấn Enter . Ta tạm gọi đó là thư_mục NEN . Sau đó double click vào thư_mục đó để mở nó .
+Bây_giờ mở Windows_Explorer , chọn thư_mục hay tập_tin bạn muốn đặt password bảo_vệ . Sao đó sử_dụng nút phải chuột và drag nó vào thư_mục NEN . Khi bạn bỏ nút chuột ra , hãy chọn Move_Here .
+Kế_tiếp trong thư_mục NEN , bạn chọn menu File , chọn Add a password . Gõ password trong Password và gõ lại trong Confirm_Password , sau đó OK . Kể từ bây_giờ , mỗi lần truy_cập vào thư_mục hay tập_tin này , Windows sẽ hỏi bạn nhập password . Vì_vậy chỉ có bạn biết password mới có quyền truy_cập vào .
+ANH_TUẤN

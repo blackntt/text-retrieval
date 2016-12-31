@@ -1,0 +1,6 @@
+﻿ Red_Hat cung_cấp Linux cho máy_tính_để_bàn
+Red_Hat_Desktop sẽ gồm có một hệ_điều_hành Linux , trình_duyệt web Mozilla , chương_trình e - mail Evolution và bộ công_cụ văn_phòng OpenOffice 1.1 . Phần_mềm nguồn mở trọn_gói này sẽ được cung_cấp miễn_phí .
+Matthew_Szulik – Giám_đốc điều_hành Red_Hat phát_biểu rằng “ hiện_nay nhiều doanh_nghiệp có nhu_cầu mua máy_tính mới và sẽ lựa_chọn giữa Windows và Linux . Với tính bảo_mật cao , hoàn_toàn miễn_phí , Red_Hat_Desktop sẽ là giải_pháp tốt nhất cho mọi tổ_chức và cá_nhân ” .
+Ông Szulik cho_biết thị_trường châu Âu sẽ là cơ_hội lớn cho Red_Hat bán dịch_vụ của họ cho các hệ_thống Linux , sau khi một_số công_ty châu Âu không ký thỏa_thuận sử_dụng phần mền mới nhất hiện_nay của Microsoft . “ Đây là một thị_trường cực_kỳ tiềm tăng ” , Szulik nói .
+Tuy_nhiên , nhắm vào các doanh_nghiệp châu Âu , Red_Hat sẽ phải cạnh_tranh trực_tiếp với Novell – một đại_gia khổng_lồ về Linux vừa mua lại nhà phân_phối Linux của Đức vào tháng 1 vừa_qua . Do_đó con đường chinh_phục của Red_Hat có_thể cũng chẳng dễ_dàng gì .
+T . M ( Theo Itnews )

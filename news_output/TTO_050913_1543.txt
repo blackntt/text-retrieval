@@ -1,0 +1,38 @@
+﻿ Điểm_chuẩn NV2 và xét tuyển NV3 nhiều trường
+& gt ; & gt ; Mời bạn BẤM_VÀO_ĐÂY để xem danh_sách trúng_tuyển NV2 vào Trường ĐHDL Hùng_Vương
+& gt ; & gt ; Mời bạn BẤM_VÀO_ĐÂY để xem danh_sách trúng_tuyển NV2 vào Trường ĐHDL Văn_Hiến
+& gt ; & gt ; Mời bạn BẤM_VÀO_ĐÂY để xem danh_sách trúng_tuyển NV2 vào Trường ĐH Mở bán_công TP.HCM
+& gt ; & gt ; Mời bạn BẤM_VÀO_ĐÂY để xem danh_sách trúng_tuyển NV2 vào Trường ĐH bán_công Tôn_Đức_Thắng
+Theo đó , điểm_chuẩn dành cho học_sinh phổ_thông - khu_vực 3 . Mỗi đối_tượng ưu_tiên cách nhau 1 điểm , mỗi khu_vực ưu_tiên cách nhau 0.5 điểm .
+Trường ĐH bán_công Tôn_Đức_Thắng
+Khối A : các ngành Công_nghệ_thông_tin , Toán - Tin ứng_dụng , Kỹ_thuật điện - điện_tử và viễn_thông , Bảo_hộ_lao_động , Xây_dựng dân_dụng và công_nghiệp , Xây_dựng cầu_đường , Cấp_thoát_nước - môi_trường , Quy_hoạch_đô_thị , Khoa_học môi_trường , Quản_trị kinh_doanh , Quản_trị kinh_doanh quốc_tế , Quản_trị kinh_doanh Nhà_hàng - khách_sạn : 15 điểm . Ngành Tài chính - Tín_dụng : 16 điểm . Ngành Công nghệ hóa_học , Kế_toán - Kiểm_toán : 17 điểm .
+Khối B : các ngành Bảo_hộ_lao_động , Cấp_thoát_nước - môi_trường , Khoa_học môi_trường : 15 điểm . Ngành Công nghệ hóa_học , Công_nghệ_sinh_học : 17 điểm .
+Khối C : ngành Xã_hội_học : 14 điểm .
+Khối D : các ngành Công_nghệ_thông_tin , Quản_trị kinh_doanh , Quản_trị kinh_doanh quốc_tế , Quản_trị kinh_doanh Nhà_hàng - khách_sạn , Xã_hội_học , Tiếng_Anh , Tiếng_Trung_Quốc : 14 điểm . Ngành Tài chính - Tín_dụng : 16 điểm . Ngành Kế toán kiểm_toán : 17 điểm .
+Khối H : ngành Mỹ_thuật_công_nghiệp : 19 điểm ( chỉ tuyển thí_sinh thi khối H ở Trường ĐH Kiến_trúc TP.HCM ) .
+Thí_sinh thi khối A đăng_ký ngành Tài_chính - Tín_dụng và Kế_toán - Kiểm_toán không trúng_tuyển sẽ được chuyển sang ngành Quy_hoạch và Quản_lý đô_thị .
+Thí_sinh thi khối A đăng_ký vào ngành Công_nghệ hóa_học không trúng_tuyển sẽ được chuyển sang Toán - Tin ứng_dụng .
+Thí_sinh thi khối D1 đăng_ký ngành Tài_chính - Tín_dụng và Kế_toán - Kiểm_toán sẽ được chuyển sang ngành Tiếng_Anh .
+Thí_sinh thi khối B đăng_ký vào ngành Công_nghệ hóa_học không trúng_tuyển được chuyển sang ngành Bảo_hộ_lao_động .
+Thí_sinh thi khối B đăng_ký ngành Công_nghệ_sinh_học không trúng_tuyển được chuyển sang ngành Cấp_thoát_nước - môi_trường nước .
+Trường ĐH bán_công Tôn_Đức_Thắng cho_biết trường tuyển NV3 với mức điểm xét tuyển bằng điểm_sàn của Bộ GD - ĐT trở_lên với các khối thi tương_ứng cho các ngành : Công_nghệ_thông_tin ( 80 chỉ_tiêu - CT ) , Toán ứng_dụng ( 40 CT ) , Điện - điện_tử ( 100 CT ) , Bảo_hộ_lao_động ( 60 CT ) , Xây_dựng cầu_đường ( 60 CT ) , Cấp_thoát_nước - môi_trường nước ( 60 CT ) , Quy_hoạch_đô_thị ( 70 CT ) , Xã_hội_học ( 80 CT ) , Tiếng_Anh ( 60 CT ) , Tiếng_Trung_Quốc ( 40 CT ) .
+Trường ĐH Sư_phạm Đồng_Tháp
+Khối A , 15 điểm : các ngành Sư_phạm Tin_học , Sư_phạm Kỹ_thuật công_nghiệp , Khoa_học máy_tính , Quản_trị kinh_doanh .
+Khối D , 14 điểm : Công_tác xã_hội , Sư_phạm Giáo_dục tiểu_học .
+Hệ cao_đẳng : Sư_phạm Toán_học : 16.5 điểm , Sư_phạm Tin_học : 12 điểm , Sư_phạm Vật_lý - Kỹ_thuật công_nghiệp : 15 điểm , Sư_phạm Hóa_học - Sinh_học : 15.5 điểm , Sư_phạm Sinh_học - Hóa_học : 16.5 điểm , Sư_phạm Kỹ_thuật nông_nghiệp - Kinh_tế gia_đình : 12 điểm , Sư_phạm Ngữ_văn : 15 điểm , Sư_phạm Địa_lý - Công_tác Đội : 15 điểm , Sư_phạm Giáo_dục tiểu_học : 12.5 điểm , Tin_học : 12 điểm , Thư_viện - Thông_tin : 11 điểm .
+Trường ĐH Sư_phạm Đồng_Tháp không xét tuyển NV3 .
+Trường ĐH Mở bán_công TP.HCM
+Điểm_chuẩn trúng_tuyển NV2 bằng điểm_sàn của Bộ GD - ĐT , khối A - B : 15 điểm , khối C - D : 14 điểm .
+Trường ĐH Mở bán_công TP.HCM không xét tuyển NV3 .
+Trường ĐHDL Hùng_Vương
+Điểm_chuẩn trúng_tuyển NV2 và điểm xét tuyển NV3 cho hệ ĐH bằng với điểm_sàn . Trong đó các ngành còn nhiều chỉ_tiêu NV3 là : Toán - Tin ứng_dụng , Tiếng_Anh , Tiếng_Pháp , Tiếng_Trung , Tiếng_Nhật .
+& gt ; & gt ; Mời bạn BẤM_VÀO_ĐÂY để xem danh_sách trúng_tuyển NV2 vào Trường ĐHDL Hùng_Vương
+Trường ĐHDL Hồng_Bàng
+Điểm_chuẩn NV2 và điểm xét tuyển NV3 bằng điểm_sàn .
+Trường ĐHDL Công_nghệ Sài_Gòn
+Mức điểm xét tuyển NV3 bằng điểm_sàn .
+Trường ĐHDL Văn_Hiến
+Điểm_chuẩn NV2 tất_cả các ngành và điểm xét tuyển NV3 bằng điểm_sàn của Bộ GD - ĐT . Trong đó các ngành còn nhiều chỉ_tiêu cho NV3 là : Công_nghệ_thông_tin , Điện_tử viễn_thông , Tiếng_Anh , Tiếng_Pháp , Tiếng_Trung_Quốc , Tiếng_Nhật .
+Trường ĐHDL Lạc_Hồng
+Trường tuyển được 693 chỉ_tiêu NV2 bằng điểm_sàn và xét tuyển NV3 với mức điểm bằng điểm_sàn .
+NHÓM_PHÓNG_VIÊN_TTO

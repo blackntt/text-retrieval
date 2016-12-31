@@ -1,0 +1,8 @@
+﻿Cảnh giác với lỗi mới của Windows MetaFile (WMF)
+
+Microsoft khám phá ra bốn cách thức có thể khai thác lỗi và chỉ có người dùng sử dụng Internet Explorer 5.01 Service Pack 4 trên Windows 2000 Service Pack 4 và Internet Explorer 5.5 Service Pack 2 trên Windows Millennium chịu nguy cơ ảnh hưởng bởi lỗi này. 
+Các hacker có thể lưu giữ những tập tin ảnh WMF nguy hiểm và dẫn dụ người dùng truy cập vào website chứa những tập tin này hoặc tải về các tập tin đính kèm bên trong email. Tuy nhiên, những kẻ lợi dụng lại không thể bắt buộc người dùng truy cập vào những website chứa mã hiểm độc, theo như Microsoft cho biết. Hiện tại, Microsoft vẫn đang tiếp tục nghiên cứu và sẽ sớm cho ra bản vá lỗi. 
+Một lỗi mới cũng vừa được công bố ngay sau đó nằm trong Windows Service ACL có thể tham khảo tại đây và thông tin về WMF tại đây . 
+Vẫn những lời khuyên cũ nhưng lại rất hữu ích cho người dùng: Kích hoạt tường lửa, cập nhật thường xuyên những phần mềm đang sử dụng trên máy tính, nhất là cài đặt và cập nhật cho chương trình antivirus.
+
+THANH TRỰC (Tổng hợp)

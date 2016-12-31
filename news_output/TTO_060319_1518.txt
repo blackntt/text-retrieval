@@ -1,0 +1,6 @@
+﻿ Phần_mềm tra_cứu thuốc_trừ_sâu cho nông_dân
+Công_cụ chuyên_dùng để tra_cứu tên thuốc cũng_như công_dụng của các loại thuốc_trừ_sâu này được thiết_kế với giao_diện đơn_giản và rất trực_quan , tạo điều_kiện cho bà_con nông_dân dễ_dàng tìm được bất_kỳ loại thuốc bảo_vệ thực_vật nào phù_hợp với nhu_cầu sử_dụng của mình . Phần_mềm tra_cứu nông_dược này cung_cấp đầy_đủ thông_tin về tên thương_mại , tên hoạt_chất , tính_năng , tên công_ty bán ra sản_phẩm … rất tiện khi tra_cứu .
+Có gần 500 tên thuốc trong Danh_mục “ Thuốc bảo_vệ thực_vật được phép sử_dụng tại Việt_Nam ” , 200 tên các loại thuốc được sử_dụng trên rau và tên của khoảng gần 1.500 loại nông_dược hiện đang có_mặt trên thị_trường .
+Phần_mềm có 3 danh_mục tìm_kiếm chính là tìm theo tên thương_mại , tìm theo tên hoạt_chất và tìm theo công_dụng . Dựa theo 3 danh_mục tìm_kiếm này , người nông_dân có_thể truy ra được nguồn_gốc hoạt_chất , công_dụng và nơi cung_cấp của hầu_hết mọi loại thuốc bảo_vệ thực_vật hiện có trên thị_trường hiện_nay .
+“ Phần_mềm tra_cứu nông_dược ” có dung_lượng khoảng 6 MB , người dùng cũng có_thể xem “ phần hồn ” của công_cụ tra_cứu này bằng cách dùng chương_trình Access mở ra xem file DMthuoc2005.mdb dung_lượng 1,4 MB nằm trong thư_mục cài_đặt .
+THIÊN_TRANG

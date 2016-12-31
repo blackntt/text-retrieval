@@ -1,0 +1,8 @@
+﻿IBM tuyệt đối ủng hộ Firefox
+
+IBM đã chính thức xem Firefox là trình duyệt thay thế cho Internet Explorer và khuyến khích mọi nhân viên của mình trên toàn cầu sử dụng trình duyệt này bằng cách tạo điều kiện tối ưu cho mọi người tải Firefox về dùng trên các máy chủ nội bộ, hoặc cài đặt sẵn Firefox vào mọi máy tính của công ty. IBM cũng đoan chắc mọi ứng dụng nội bộ của công ty đều tương thích hoàn toàn với Firefox. 
+Việc chuyển sang sử dụng Firefox của IBM là hợp lý và xuất phát từ khá nhiều nguyên nhân. Ngoài việc tránh sự phụ thuộc vào đối thủ cạnh tranh là Microsoft, IBM cũng là một trong những công ty hàng đầu ủng hộ giới mã nguồn mở, cho nên việc sử dụng các chuẩn mã mở là một trong những tiêu chí cơ bản. 
+IBM đã thừa nhận Firefox là một trong những chuẩn công nghiệp có khả năng chống lại các công nghệ độc quyền và tạo điều kiện tối đa cho chuẩn này được vận hành trơn tru trên mọi sản phẩm của mình. Ngoài ra IBM cũng chỉ trích Microsoft đã ứng dụng nhiều công nghệ độc quyền một cách phi lý, điển hình là trình ActiveX không thể hoạt động được trên các sản phẩm không phải do Microsoft làm ra. 
+Việc ủng hộ toàn phần cho trình duyệt Firefox của một công ty đa quốc tầm cỡ toàn cầu như IBM chắc chắn sẽ tạo ra ảnh hưởng không nhỏ đối với mọi người dùng khắp nơi. Nhưng quả thật để soán ngôi của Internet Explorer thì hoàn toàn không đơn giản. Chuyên gia phân tích Paul Kirby của công ty AMR nhận định:”Tâm lý chung của mọi người là không thích thay đổi công nghệ nền tảng trừ phi lâm vào thế bắt buộc. Rất nhiều công ty hiện nay “lỡ” theo Internet Explorer quá lâu vì họ đã xây dựng nhiều ứng dụng tương thích với Internet Explorer từ nhiều năm qua, việc thay đổi một lúc là hoàn toàn không đơn giản”.
+
+HOÀNG HẢI (Theo NewsFactor Network)

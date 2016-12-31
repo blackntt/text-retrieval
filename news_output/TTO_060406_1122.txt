@@ -1,0 +1,27 @@
+﻿ 1 . Tỉ_trọng lý_thuyết giảm đáng_kể : Chỉ còn chiếm 10% tổng điểm thi ( so với 25% năm 2002 và 20% năm 2003 ) . Câu_hỏi lý_thuyết cũng yêu_cầu đơn_giản hơn . Thí_dụ : Công_dụng và cách ngắm chừng ảnh của kính_hiển_vi .
+Các câu_hỏi phức_tạp , yêu_cầu cao , phải vận_dụng trí_óc , lập so_sánh sự giống nhau và khác_nhau của hiện_tượng vật_lý như : phóng_xạ và phân_hạch ( năm 2002 ) ; quang_điện bên ngoài và quang_điện bên trong ( n ăm 2003 ) có xu_hướng giảm hẳn .
+Để trả_lời các câu_hỏi lý_thuyết hiện_nay bạn có_thể dùng trực_tiếp kiến_thức từ sách_giáo_khoa lớp 12 .
+2 . Tỉ_trọng bài_tập tăng và phân_bố rải khắp các chương vật_lý lớp 12 : tổng điểm bài_tập so với toàn đề 2005 lên đến 90% bao_gồm 30% cho điện xoay chiều ; 20% quang lý ; 20% cơ ; 10% hạt_nhân và chỉ có 10% quang hình .
+Do đề có mục_đích tiến đến thi_trắc_nghiệm vật_lý nên dự_báo đề thi 2006 sẽ còn dễ hơn 2005 .
+Vẫn phân_bố rải đều , không có các hệ cơ_học phức_tạp , không có bài_tập yêu_cầu cách giải xa_lạ , dùng các hiện_tượng vật_lý phức_tạp hay thuật_ngữ khó hiểu .
+Phần gây khó_khăn cho học_sinh vì tính bao_quát , khó tổng_kết các dạng bài là quang hình ; đặc_biệt là các định_luật cơ_bản , lăng_kính , phản_xạ toàn_phần ... không còn được khai_thác nhiều trong những năm gần đây . Việc nhấn_mạnh bài_tập điện xoay chiều , đặc_biệt là quang vật_lý và hạt_nhân ( 60% ) giúp học_sinh kết_thúc bài thi kịp giờ vì giải chúng đơn_giản hơn quang hình và cơ_học và là sở_trường của học_sinh trung_bình – khá .
+3 . Yêu_cầu đơn_giản – câu_hỏi rõ_ràng : một đặc_trưng đáng chú_ý là các câu_hỏi bài_tập hiện_nay khá đơn_giản và rất rõ_ràng .
+Thí_dụ : bài_tập phóng_xạ ; phản_ứng hạt_nhân chỉ cần dùng định_luật_bảo_toàn số khối - điện_tích và để tìm ra kết_quả chỉ thay số vào định_luật phóng_xạ ( 2005 ) mà không cần chứng_minh kiểu dạng D t = T/ln2 ( năm 2003 ) nên thuận_lợi cho học_sinh trung_bình , siêng học .
+Phần cơ_học yêu_cầu dùng các công_thức sóng cơ_học , sóng dừng đơn_giản . Bài_tập dao_động là loại viết phương_trình dao_động , tìm các đại_lượng vật_lý quen_thuộc , dạng 1 bài_toán xuôi . Đề thi cũng giảm những bẫy kiểu như “ Kéo cho lò_xo dãn ( từ đâu ? ) ” ( đề 2002 ) , hay dùng thuật_ngữ dễ gây hiểu lầm . Hai bài quang vật_lý 2005 chỉ dừng ở mức áp_dụng công_thức vị_trí vân ; U h ; tìm các l cho vân sáng trùng nhau . Mỗi bài nếu chuẩn_bị tốt học_sinh chỉ giải mất 10 phút .
+Trên cơ_sở phân_tích xu_hướng đề thi 2005 và dự_báo đề thi 2006 , để có_thể học tốt và làm bài thi hiệu_quả , học_sinh cần :
+- Phân_bố thời_gian và ôn đều các phần vật_lý thuộc chương_trình lớp 12 . Không phải học thuộc_lòng lý_thuyết mà chỉ cần nắm ý chính , các hiện_tượng vật_lý .
+- Phải thuộc_lòng tất_cả các công_thức vật_lý : trong khi học cần phân_biệt công_thức nào có_thể dùng trực_tiếp và nhớ cách chứng_minh các công_thức không được phép dùng ngay . Nên có 1 sổ_tay loại bỏ_túi để ghi chúng kèm đơn_vị và qui_ước về dấu rõ_ràng để có_thể xem đi xem_lại bất_cứ lúc_nào , và bất_cứ nơi đâu . Nên giải qua các dạng bài_tập đã học và chú_ý thêm : tổng_hợp dao_động ; kính_thiên_văn ; máy biến_thế ; máy_phát_điện ; chuyển_tải điện_năng , tia X và mẫu Bohr .
+- Trong khi giải bài_tập cần :
++ Gạch dưới các câu , đoạn văn quan_trọng của bài đang đọc để không bị hiểu lầm về dấu các đại_lượng vật_lý .
++ Liệt_kê hết các số_liệu của từng câu đang đọc vào giấy , bên trái .
++ Đổi chúng ra hệ SI .
++ Các đại_lượng cần tìm nên đánh_dấu hỏi .
++ Phân_loại câu_hỏi thuộc vấn_đề nào ( Thí_dụ : tính U h hay V max ) dạng nào ( bài_toán xuôi hay ngược ; cực_trị hay khảo_sát ... )
++ Kết_nối ( link ) đại_lượng đánh_dấu hỏi với các đại_lượng đã liệt_kê giúp ta nhớ ngay công_thức đã học có chứa những đại_lượng này . Thí_dụ : cho f , k và l mà hỏi v = ? thì_phải nhớ đến v = ( 2l / k ) f
++ Trước khi viết một công_thức nên xem có cần dẫn_dắt , chứng_minh nó không ? Thí_dụ có l , h , c ; v 0max muốn tìm U h = ? thì_phải dẫn_dắt từ phương_trình Einstein và định_lý động_năng mới dùng được ( hc ) / l = ( 1/2 ) m . v 0max + | e | . U h
++ Đối_với bài_toán ngược của quang hình : gương , mắt ; kính_lúp ... việc vẽ mô_hình vào giấy ( không cần vẽ tia_sáng ) giúp học_sinh lập phương_trình nhanh và chính_xác . Bài_toán viết phương_trình dao_động ; sóng cơ_học cần vẽ vào bài_làm trục Ox để gán dấu cho x 0 , v 0 hoặc a 0 nhanh và đúng nhằm chọn nghiệm thích_hợp .
++ Phần bài_tập luôn_luôn có :
+( i ) đáp_số chính_xác ; ( ii ) ghi đơn_vị ( không cần ghi cho các tính_toán trung_gian ) và ( iii ) bài_làm phải dẫn_dắt rõ_ràng .
+Cuối_cùng : “ Hiệu_quả bài_làm tỉ_lệ_thuận với sức_khỏe mỗi học_sinh ” nên cần phân_bố thời_gian khoa_học ; đều_đặn cho môn vật_lý mỗi ngày từ nay đến khi thi . Có chế_độ ăn_uống hợp_lý ; không thức quá khuya và cần nghỉ_ngơi hoàn_toàn trước khi thi vài ngày .
+Chúc các em thành_công !
+NGUYỄN_HỮU_LỘC ( giảng_viên ĐH Kinh_tế - Trung_tâm luyện thi Vĩnh_Viễn )

@@ -1,0 +1,10 @@
+﻿Không mở tệp đính kèm, Yahoo Mail vẫn nhiễm sâu
+
+Hãng bảo mật Mỹ Symantec cảnh báo một biến thể sâu mới mang tên Yamanner đang tấn công hệ thống máy tính của người sử dụng dịch vụ e-mail hoạt động trên web của Yahoo, trừ phiên bản thử nghiệm mới nhất. 
+ 
+Yamanner xuất hiện trong hòm thư qua e-mail với tiêu đề "New Graphic Site" (Trang đồ họa mới). Ngay khi thông điệp được mở, sâu này sẽ chủ động xâm nhập vào danh sách liên lạc trong Yahoo Mail và gửi những địa chỉ e-mail đó tới một máy chủ trực tuyến từ xa để kẻ tấn công dùng trong các chiến dịch spam. 
+“Sâu này được trang bị phương pháp tấn công khá hiệu quả. Nó tận dụng lỗi JavaScript, do đó người sử dụng không hề mở file đính kèm cũng vẫn bị tác động”, chuyên gia bảo mật Dean Turner của Symantec nhận xét. 
+Yamanner bắt đầu được phát tán từ sáng qua và đã gửi tín hiệu kèm địa chỉ e-mail đến server từ xa hơn 100.000 lần. Symantec đánh giá lỗ hổng mới ở mức nguy hiểm 2/5. 
+Những hệ thống bị ảnh hưởng bao gồm Windows 2000, Windows 95, Windows 98, Windows Me, Windows NT, Windows Server 2003 và Windows XP. 
+“Chúng tôi đã nhanh chóng khắc phục lỗi và bản vá đang được phân phối tự động cho người sử dụng”, đại diện của Yahoo khẳng định. Cả Yahoo và Symantec đều khuyến khích khách hàng nhanh chóng cập nhập phiên bản diệt virus trên máy tính. 
+Theo T.N. VnExpress/CNet

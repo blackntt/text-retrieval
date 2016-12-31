@@ -1,0 +1,9 @@
+﻿ Quá_khứ của file Word
+Một hộp_thoại Properties hiện ra mô_tả kích_thước file , ngày tạo ra file , ngày sửa_đổi file . Nhưng như_vậy vẫn chưa đủ thông_tin .
+Muốn biết thêm nhiều thông_tin hơn_nữa như tên người tạo , tên người sửa_đổi , số dòng , số đoạn , số_từ , số chữ và thậm_chí cả số khoảng trắng … bạn cần làm theo các bước sau : mở chương_trình Microsoft_Word , vào File chọn Open để mở một file Word nào_đó , sau đó vào File chọn Properties . Một hộp_thoại Properties mở ra với năm thẻ thông_tin :
+- Thẻ_General : cho bạn biết đường_dẫn file ( Location ) , kích_thước ( Size ) , ngày tạo ( Created ) , ngày sửa_đổi ( Modified ) , thuộc_tính ( Attributes ) gồm : dạng chỉ đọc ( Read only ) , ẩn ( Hidden ) , lưu_trữ ( Archive ) .
+- Thẻ_Summary : trình_bày tên file ( Title ) , tên tác_giả ( Author ) , chức_vụ tác_giả ( Manager ) , tên công_ty ( Company ) , lời ghi_chú ( Comment ) .
+- Thẻ_Statistic : trình_bày tên người lưu file lần cuối hay người sửa_đổi ( Last saved by ) , thời_gian viết file ( Total editing time ) , số lần đọc lại file ( Revision number ) , số trang ( Pages ) , số dòng ( Lines ) , số đoạn ( Paragraphs ) , số_từ ( Words ) , số chữ ( Character ) , số khoảng trắng ( Character with spaces ) …
+- Thẻ_Content : trình_bày tiêu_đề của văn_bản .
+- Thẻ_Custom : ở mục Name cho_biết văn_bản thuộc bộ_phận nào của công_ty như khách_hàng ( Client ) , cục - sở - ban ( Department ) …
+TRẦN_MẠNH_HÀ

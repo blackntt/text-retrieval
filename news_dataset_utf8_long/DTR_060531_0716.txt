@@ -1,0 +1,9 @@
+﻿Calibri "tiếm ngôi" Times New Roman
+
+Phông (font) mặc định trong trình xử lý văn bản Microsoft Word này đã quá phổ biến đến mức chẳng mấy khi người ta tự hỏi sao họ lại chọn nó để soạn thảo. Tuy nhiên, Times New Roman đang có nguy cơ bị Calibri phế truất. 
+ Chủ tịch tập đoàn phần mềm Mỹ Bill Gates muốn mọi người cảm thấy thoải mái hơn mỗi khi sử dụng máy tính, do đó cải tiến việc đọc tài liệu hiển thị trên màn hình là một trong năm ưu tiên hàng đầu của ông. Từ đầu năm 2006, Microsoft tuyên bố sẽ xuất xưởng hệ điều hành và những sản phẩm phần mềm khác kèm 6 bộ chữ in được thiết kế dành riêng cho những văn bản soạn trên máy tính. 
+Các chuyên gia phát triển gói ứng dụng văn phòng MS Office tỏ ra ưu ái kiểu chữ không có chân (sanserif) như Calibri và đã chọn nó làm font mặc định trong Office 2007 thay cho Times New Roman 
+Calibri có các góc được vuốt tròn mềm mại và mang lại cảm giác nhẹ nhàng, gần gũi hơn những bộ font như Arial hay Helvetica . Lucas de Groot, chuyên gia thiết kế Calibri , nhận xét: "Độ cân xứng của kiểu chữ này rất phù hợp trong e-mail, thiết kế web, tạp chí và các tài liệu nói chung, dù được dùng với cỡ to - nhỏ hay ở dạng in thường, in đậm hoặc in nghiêng". 
+Trong số năm font còn lại, Cambria trông khá cứng cáp và mạnh mẽ, nhưng kiểu chữ Candara lại không mang lại cảm giác linh hoạt, còn Consolas đơn điệu giống bộ Courier , chủ yếu được dùng trong môi trường lập trình để giúp các chuyên gia đỡ mỏi mắt. 
+Trong khi đó, Constantina được đánh giá cao bởi sự tinh tế và rõ ràng. "Cho đến nay, người ta thường không hài lòng khi sử dụng cùng một kiểu chữ để đọc trên màn hình và in ra giấy. Constantia sẽ loại bỏ được nhược điểm đó", nhà thiết kế John Hudson khẳng định. Font cuối cùng trong 6 kiểu chữ mới - Corbel - được chuyên gia Jeremy Tankard mô tả là "đỡ rối, rất rành mạch, quyết đoán" và hứa hẹn sẽ là sự thay thế hoàn hảo cho Arial, Trebuchet hoặc Verdana . 
+Theo P.T. VnExpress/Poynter

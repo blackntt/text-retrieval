@@ -1,0 +1,40 @@
+﻿THÔNG BÁO TUYỂN DỤNG
+
+Công ty Cổ phần Truyền thông di dộng MobiCom – Mobile Communications Corp là một trong những công ty hàng đầu trong việc cung cấp các dịch vụ thương mại, giải trí, tương tác trên Internet, điện thoại, truyền hình và các phương tiện truyền thông mới. Là một trong những Công ty đầu tiên của Việt Nam cung cấp các giải pháp phần mềm, viễn thông và truyền thông trực tuyến, MobiCom đang xây dựng thành công một hệ thống truyền thông hoàn chỉnh, tích hợp mạng di động - mạng điện thoại- mạng máy tính và mạng lưới truyền hình… 
+ Không ngừng áp dụng những ý tưởng táo bạo nhất, những công nghệ tiên tiến nhất và những cách làm tốc độ nhất, chúng tôi luôn mong muốn kết hợp hài hòa giữa nhân tố công nghệ và nhân tố con người để đem lại sự thành công và thịnh vượng cho mỗi cá nhân, cho Công ty và cho đất nước. Phục vụ cho kế hoạch sắp tới trong các lĩnh vực thương mại điện tử, Games online, dịch vụ tương tác trên mạng di động và các phương tiện truyền thông khác, chúng tôi cần tuyển những ứng viên tài năng, sáng tạo và luôn cháy bỏng khát vọng khẳng định mình. 
+II. Các vị trí tuyển dụng. 
+1 . Phát triển Web (MB01: 10 người) 
+- Lập trình Web bằng ngôn ngữ C# (ASP.NET ) hoặc JSP 
+- Làm việc với các hệ quản trị CSDL : Oracle, SQL Server . 
+2. Phát triển dịch vụ viễn thông (MB02: 10 người) 
+- Lập trình phát triển các dịch vụ bằng ngôn ngữ Java 
+- Làm việc với các hệ quản trị CSDL : Oracle, SQL Server. 
+3. Phát triển phần mềm tiện ích (MB03: 5 người) 
+- Lập trình phát triển các ứng dụng desktop bằng ngôn ngữ Delphi . 
+4. Nhân viên bảo mật (MB04: 5 người) 
+- Yêu thích và có kiến thức về bảo mật Web, mạng, hệ điều hành… 
+5. Nhân viên trực dịch vụ (MB05: 2 người) 
+- Quản trị các dịch vụ gia tăng của công ty, trực kỹ thuật. 
+- Có kiến thức tốt về quản trị CSDL Oracle, ngôn ngữ lập trình Java, hệ điều hành Windows Server 2003 và mạng LAN, WAN… 
+- Thời gian làm việc từ 17h 30 – 22h hàng ngày (riêng Chủ nhật làm cả ngày) 
+6. Nhân viên quản trị hệ thống viễn thông (MB06: 2 người) 
+- Quản trị các hệ thống mạng, Máy chủ tại công ty 
+- Quản trị các cáp, thiết bị viễn thông từ công ty sang các trung tâm của Vinaphone, Mobiphone, Viettel, Sfone…. 
+Yêu cầu chung: 
+· Tốt nghiệp Đại học chuyên ngành phù hợp với công việc 
+· Giao tiếp tốt, nhanh nhẹn,có khả năng sắp xếp tổ chức &amp; ham học hỏi . 
+· Trình độ ngoại ngữ Anh giao tiếp 
+· Ưu tiên người có kinh nghiệm làm việc 
+Chế độ đãi ngộ: 
+· Làm việc trong một môi trường năng động , nhiều thử thách và cơ hội phát triển năng lực cá nhân 
+· Hưởng mức lương thỏa đáng theo khả năng làm việc . 
+Hồ sơ gồm: 
+· Đơn xin việc (bằng Tiếng anh), sơ yếu lý lịch tự thuật (bằng Tiếng Anh hoặc tiếng Việt), bản sao các văn bằng chứng chỉ liên quan, và 02 ảnh cỡ 4x6 mới nhất . 
+· Ghi rõ vị trí tuyển dụng, số điện thoại và địa chỉ liên lạc . 
+Hồ sơ xin gửi về theo địa chi 
+CÔNG TY CỔ PHẨN TRUYỀN THÔNG DI ĐỘNG MOBICOM 
+Địa chỉ: Tầng 4 – Tòa nhà Công ty Máy tính Việt Nam 18 Nguyễn Chí Thanh - Hà nội 
+Ms Minh Tel: 04.7712488 / 0904139949 
+Email: hr@mobicom.com.vn hoặc minhnb@mobicom.com.vn 
+Hạn cuối: 30/06/2006 
+Lưu ý: Chỉ những hồ sơ được xét tuyển mới được mời phỏng vấn Không hoàn lại hồ sơ nếu không trúng tuyển

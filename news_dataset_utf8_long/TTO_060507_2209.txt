@@ -1,0 +1,8 @@
+﻿Phát hiện protein hệ miễn dịch làm cho HIV dễ lây nhiễm
+
+Theo các nhà nghiên cứu tại Trường ĐH London, cyclophilin A được tìm thấy bên trong HIV-1 khi virus này tấn công các tế bào người và khỉ được thí nghiệm. 
+Họ phát hiện nó làm biến đổi hình dáng các phân tử của virus này, khiến cho nó dễ bị TRIM5-alpha có trong hệ miễn dịch bẩm sinh của khỉ tấn công, ngăn không cho nó đi vào bên trong. Điều này khác hẳn khi chúng nhiễm vào các tế bào người: các nhà nghiên cứu phát hiện cyclophilin A ở con người cũng làm thay đổi hình dáng các phân tử virus HIV, không chỉ làm cho chúng dễ lây nhiễm hơn mà còn giúp virus này tái tạo. 
+Trưởng nhóm nghiên cứu Greg Towers nói hiện nhóm ông đang tiến một bước gần hơn trong việc hiểu về hệ miễn dịch bẩm sinh và hoạt động của virus HIV, và khám phá các mối tương tác cho phép virus này đi qua chướng ngại loài. 
+“Việc hiểu biết thêm này sẽ giúp chúng tôi phác họa các liệu pháp điều trị HIV tốt hơn”, Towers nói.
+
+T.VY (Theo Xinhua, New Scientist)

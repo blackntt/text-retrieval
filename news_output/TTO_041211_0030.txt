@@ -1,0 +1,5 @@
+﻿ Đưa vào vận_hành công_trình cáp ngầm Nhà_Bè - Tao_Đàn
+Công_trình đường_dây 220kV Nhà_Bè - Tao_Đàn có tổng chiều dài 10km , trong đó đường_dây trên không 3,7 km và đoạn cáp ngầm 6,3 km , xuất_phát từ trạm Nhà_Bè đi qua địa_bàn quận 4 , quận 1 để đến trạm Tao_Đàn .
+Riêng trạm GIS 220kV Tao_Đàn được thiết_kế cho bốn máy biến_áp ( công_suất 63MVA - 250MVA ) sử_dụng công_nghệ cách_điện bằng khí SF6 - là dạng trạm biến_áp hiện_đại bậc nhất hiện_nay .
+Công_trình có tổng mức vốn đầu_tư ban_đầu 650 tỉ đồng , nhưng qua quá_trình đấu_thầu mức vốn đầu_tư hạ xuống còn 490 tỉ đồng .
+QUANG_KHẢI

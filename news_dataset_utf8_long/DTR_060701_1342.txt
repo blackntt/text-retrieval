@@ -1,0 +1,8 @@
+﻿Microsoft ra mắt bản IE7 beta 3
+
+Hôm qua, hãng phần mềm khổng lồ phát hành bản beta 3 của trình duyệt Internet Explorer 7 (IE 7). Bản thử nghiệm thứ ba này có nhiều thay đổi về giao diện người dùng và hệ thống RSS. 
+ 
+IE 7 cho phép người sử dụng đưa thêm phím bấm e-mail vào thanh công cụ của IE hoặc thay đổi trật tự các thanh tab chỉ bằng thao tác kéo - thả... Bản Beta mới nhất cũng hỗ trợ cập nhật dễ dàng các nguồn tin RSS. 
+Microsoft đã cải tiến khả năng tương thích trên website và các ứng dụng, đồng thời sửa lỗi hiển thị trang. IE 7 sẽ được phát hành như một trình duyệt độc lập đối với hệ điều hành Windows XP và được tích hợp trong Windows Vista. 
+"Trong quá trình phát triển, chúng tôi luôn lắng nghe các ý kiến phản hồi từ phía khách hàng, do đó bản Beta 3 đã nâng cao đáng kể khả năng bảo mật và tương tác", một đại diện của nhà phát triển trình duyệt Mỹ khẳng định. 
+Theo T.N. VnExpress/CNet

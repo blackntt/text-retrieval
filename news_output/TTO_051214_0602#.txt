@@ -1,0 +1,4 @@
+﻿ Sinh_viên tư_vấn hướng_nghiệp cho sinh_viên
+Đây là chương_trình hỗ_trợ định_hướng nghề_nghiệp và cung_cấp những thông_tin , kiến_thức cần_thiết cho các HS được khoa kinh_tế thực_hiện tại tám trường THPT thuộc khu_vực Đông_Nam bộ ( hiện đã được năm trường với 2.300 HS được tư_vấn ) .
+Theo chủ_tịch Hội SV khoa kinh_tế Trần_Minh_Đức , mô_hình tư_vấn hướng_nghiệp này được khoa kinh_tế áp_dụng lần đầu trong cả nước ; nhằm cung_cấp nội_dung , đặc_điểm của các ngành được đào_tạo và các tư_vấn viên SV vốn gần trang_lứa với tuổi học_trò nên có_thể tiếp_cận tâm_lý , nguyện_vọng và trao_đổi những thắc_mắc của HS .
+TRUNG_CƯỜNG - MY_LĂNG

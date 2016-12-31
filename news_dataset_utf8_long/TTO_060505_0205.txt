@@ -1,0 +1,10 @@
+﻿Máy phơi quần áo
+
+Chỉ hai tháng sau khi đề tài “Ứng dụng vi điều khiển vào cuộc sống” của Trường đoạt giải nghiên cứu khoa học cấp trường, chiếc máy phơi quần áo tự động ra đời (dạng mô hình) trong niềm hân hoan của “ông chủ sáng chế tội nghiệp”. Một thành quả được đánh đổi bằng công sức miệt mài và phân nửa đồ đạc trong nhà “rủ nhau” ra cửa hàng cầm đồ. 
+Th.S Bùi Văn Hậu (khoa điện - điện tử, Trường ĐH Công nghiệp I Hà Nội): 
+“Chúng tôi đánh giá rất cao ý tưởng của sản phẩm này bởi sự linh hoạt và dễ dàng trong thiết kế. Đặc biệt là khả năng ứng dụng vào thực tế rất lớn”. Máy hoạt động khá đơn giản trên nguyên lý cảm biến theo thời tiết và nhiệt độ thông qua các bộ cảm biến. Bất cứ một biến đổi nào về thời tiết hay sự thay đổi về nhiệt độ đến những dòng cảnh báo cho thiết bị khi quá tải, hoặc những tác động bên ngoài sẽ được thông báo qua màn hình LCD. Bộ cảm biến sẽ tiếp nhận và sử dụng vi điều khiển để xử lý những tín hiệu đã được lập trình sẵn. 
+Hệ thống ròng rọc sẽ đưa quần áo ra khi trời nắng ấm và thu lại khi trời tối hoặc mưa. Tất cả sử dụng động cơ điện một chiều cùng một bo mạch đơn giản. 
+Chàng trai người Sơn La này cho rằng thiết kế dễ dàng (linh hoạt với nhiều không gian kiến trúc) với những linh kiện có sẵn giá rẻ ngoài thị trường, chỉ 200.000 - 300.000đ cho thiết bị chức năng bình thường và khoảng 500.000đ cho thiết bị cao cấp nhiều chức năng hơn. 
+Tác giả cũng không giấu giếm ý định phát triển sản phẩm cao hơn: có thể xử lý khi quần áo khô sẽ không phơi ra nữa. đồng thời sẽ thông báo các yếu tố về thời tiết và các cảnh báo cho người sử dụng nhờ khả năng mở rộng giao tiếp máy tính - điều khiển từ xa cùng chức năng kết nối với thiết bị ngoại vi hiện đại khác. “Trọng tải” (30kg hiện tại) cũng sẽ được nâng lên cao hơn.
+
+NHẬT MINH (ĐH KHXH&amp;NV Hà Nội)

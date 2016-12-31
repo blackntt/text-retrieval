@@ -1,0 +1,4 @@
+﻿ Mô_hình dự_báo thời_tiết MM5 được đầu_tư 522 triệu đồng
+Giai_đoạn 1 MM5 được đầu_tư 328 triệu đồng , giai_đoạn 2 là 522 triệu đồng . MM5 là mô_hình có khả_năng dự_báo thời_tiết trong vòng 16 ngày , nhưng điều_kiện kỹ_thuật ở Việt_Nam chỉ cho kết_quả 3 ngày và 7 ngày , hiện_tại là dự_báo cho 3 ngày ( xem tại www . imh.ac.vn ) .
+Viện_Khí tượng thủy_văn sẽ áp_dụng MM5 vào dự_báo mưa lớn cho tất_cả các vùng , lãnh_thổ Việt_Nam vì MM5 có nhiều khả_năng dự_báo mưa lớn chính_xác cho các khu_vực : khả_năng lồng_ghép các miền dự_báo , xây_dựng được các sơ_đồ ở mọi khu_vực , mọi địa_hình kể_cả địa_hình nhỏ , phức_tạp ; chứa thư_viện các sơ_đồ tham_số hóa vật_lý bao_gồm nhiều sơ_đồ khác_nhau , cho_phép chạy thử_nghiệm để lựa_chọn một sơ_đồ cho kết_quả chính_xác nhất hoặc cho_phép dự_báo tổ_hợp . Dự_báo tổ_hợp thích_hợp với dự_báo mưa lớn , cho kết_quả chính_xác hơn rất nhiều so với các dự_báo từng phần hiện đang được sử_dụng phổ_biến ở nước ta .
+Theo Thanh niên

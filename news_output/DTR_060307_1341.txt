@@ -1,0 +1,8 @@
+﻿ Mac OS_X bị khống_chế chỉ sau 30 phút
+Theo " nhà_vô_địch " trong cuộc đua tấn_công hệ_điều_hành của Apple diễn ra tháng trước , việc giành quyền kiểm_soát máy Mac chỉ là " chuyện nhỏ " đối_với các hacker .
+Ngày 22/2 , một người tại Thụy_Điển đã thiết_lập Mac_Mini thành một server và mời các hacker đột_nhập qua lớp bảo_mật hệ_thống để quản_lý , xóa tệp_tin , thư_mục hoặc cài ứng_dụng vào máy .
+Chỉ 6 tiếng sau , cuộc đua mang tên " rm-my-mac " đã kết_thúc . Người chiến_thắng , biệt_danh Gwerdna , cho_biết : " Tôi đã tìm ra cách khống_chế Mac OS_X trong khoảng 20 - 30 phút . Ban_đầu , tôi xem_xét xung_quanh để tìm_kiếm lỗi cấu_hình , nhưng sau đó tôi quyết_định sử_dụng một trong số những lỗ_hổng chưa từng được công_bố , mà lỗi Mac OS_X thì nhan_nhản " , Gwerdna mỉa_mai .
+Apple OS_X mấy tuần nay đã bị chỉ_trích khá nhiều với sự xuất_hiện của 2 virus mới và một loạt lỗ_hổng nghiêm_trọng bị phát_hiện .
+Trong tháng 1 , chuyên_gia nghiên_cứu Neil_Archibald người Australia cũng tuyên_bố rằng một_vài lỗi trong hệ_điều_hành này có_thể bị kẻ xấu lợi_dụng . " Mac OS_X hiện còn tương_đối an_toàn do thị_phần của nó quá thấp so với Microsoft_Windows và những nền_tảng Unix phổ_biến khác " , Archibald khẳng_định .
+Đại_diện của Apple từ_chối bình_luận về vấn_đề này .
+Theo T . N . VnExpress/CNet

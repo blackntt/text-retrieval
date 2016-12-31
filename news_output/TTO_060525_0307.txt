@@ -1,0 +1,35 @@
+﻿ Bạn có dành nhiều thời_gian cho gia_đình ?
+Bản trắc_nghiệm nhỏ sau đây có_thể giúp bạn có lời_giải .
+1 . Bạn có một thời_gian_biểu nhất_định dành cho việc quây_quần , chơi_đùa với mọi thành_viên trong gia_đình ?
+a . Có b . Không
+2 . Bạn có thảo_luận về những qui_tắc chung của gia_đình , những hậu_quả nếu vi_phạm và ngồi lại đánh_giá tính đúng_đắn của chúng mỗi 6 tháng hay hơn_nữa ?
+a . Có b . Không
+3 . Bạn vùi_đầu vào việc chăm_bẵm đứa con_nhỏ mỗi đêm khi bạn ở nhà hay_là dành thời_gian cho đứa lớn hơn ?
+a . Có b . Không
+4 . Bạn cùng ăn với mọi người ít_nhất một bữa trong ngày ?
+a . Có b . Không
+5 . Những trò_đùa “ vô văn_hóa ” có bị cấm trong nhà bạn ?
+a . Có b . Không
+6 . Tuần này bạn cùng vui_cười với các thành_viên trong gia_đình ít_nhất là một lần ?
+a . Có b . Không
+7 . Bạn vẫn lắng_nghe người khác một_cách điềm_tĩnh và trân_trọng cho_dù họ có_điều gì khiến bạn không đồng_ý ?
+a . Có b . Không
+8 . Bạn thường biết rõ con mình có_điều gì lo_lắng ?
+a . Có b . Không
+9 . Bạn có kể về gia_phả của gia_đình , những truyền_thống tốt_đẹp cho mọi thành_viên cùng biết ?
+a . Có b . Không
+10 . Bạn biết cách sắp_xếp sao cho mọi thành_viên trong gia_đình có_thể phát_biểu ý_kiến thông_qua các hình_thức như họp_mặt gia_đình , các buổi vừa đi dạo vừa tâm_sự ... ?
+a . Có b . Không
+11 . Bạn biết nhiều về những bài hát ưa_thích , những nhóm nhạc hoặc các thần_tượng thể_thao của con bạn ?
+a . Có b . Không
+12 . Gia_đình bạn xem tivi ít hơn 7 giờ đồng_hồ một tuần ?
+a . Có b . Không
+13 . Bạn không mong_chờ sự hoàn_hảo . Cố_gắng và học_hỏi từ những thất_bại được coi_trọng hơn ?
+a . Có b . Không
+14 . Gia_đình bạn sống theo nghĩa “ tốt đạo , đẹp đời ” và bạn luôn nói_chuyện với các thành_viên để làm_sao có_thể duy_trì lối sống ấy ?
+a . Có b . Không
+Kết_quả : mỗi câu trả_lời Có , bạn cho mình 1 điểm , còn Không sẽ là 0 điểm .
+• 1 - 8 : gia_đình bạn thật_sự cần nhiều thời_gian hơn để quan_tâm lẫn nhau .
+• 9 - 11 : một sự khởi_đầu khá tốt nhưng gia_đình bạn vẫn cần làm nhiều hơn_nữa những cử_chỉ , hành_động quan_tâm lẫn nhau .
+• 12 - 14 : xin chúc_mừng ! Bạn quả rất khéo lèo_lái con thuyền gia_đình trong những bão_giông của cuộc_đời bằng các hành_động , cử_chỉ cân_bằng tuyệt_hảo .
+BÙI_NGUYỄN_QUÝ_ANH ( Theo Parentings )

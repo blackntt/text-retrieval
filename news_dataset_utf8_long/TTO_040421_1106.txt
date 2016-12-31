@@ -1,0 +1,10 @@
+﻿Chuyển file ghi âm bằng điện thoại di động sang file wav
+
+Nó đặc biệt hữu ích khi tín hiệu bạn ghi âm được quá yếu, không thể nghe rõ bằng điện thoại được. Lúc này bạn sẽ dùng phần mềm VMO2WAV chuyển thành tập tin dạng .wav, tiếp đó dùng các phần mềm biên tập âm thanh (ví dụ như Cool Edit Pro 2.0 chẳng hạn) chỉnh sửa lại để có thể nghe được rõ ràng. 
+Phần mềm này tương thích với mọi phiên bản của Windows: 95/98/Me/2000/XP, và đặc biệt là bạn có thể sử dụng được trong MS-DOS. 
+Cách sử dụng : Copy tập tin có định dạng .vmo vào cùng thư mục với tập tin vmo2wav.exe 
+- Trong MS-DOS: Vào thư mục chứa tập tin vmo2wav.exe và gõ lệnh vmo2wav filename.vmo (ở đây “filename” là tên của tập tin Voice Memo). 
+- Trong Windows: Chọn Start &gt; Run &gt; Browse. Tìm đến thư mục chứa tập tin vmo2wav.exe, chọn tập tin đó. Trong hàng lệnh Open, gõ cách một khoảng trắng sau chữ vmo2wav.exe rồi gõ vào đầy đủ tên tập tin Voice Memo (có cả phần mở rộng .vmo) &gt; OK. (Ví dụ: D:\Downloads\vmo2wav.exe filename.vmo) 
+Để thuận tiện cho việc thực hiện, bạn có thể copy tập tin vmo2wav.exe vào thư mục Windows. Sau này, khi cần chuyển đổi tập tin Voice Memo nào, bạn cứ việc copy tập tin đó vào thư mục Windows, sau đó chọn Start &gt; Run, gõ vào vmo2wav filename.vmo. Theo mặc định, phần mềm này sẽ tự động chuẩn hóa lại mức độ tín hiệu. Để loại bỏ tính năng này, bạn gõ thêm tham số -n vào dòng lệnh: vmo2wav -n filename.vmo.
+
+Theo LBVMVT

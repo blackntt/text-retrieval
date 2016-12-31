@@ -1,0 +1,8 @@
+﻿Windows XP SP2 có thể sẽ phá vỡ một số ứng dụng
+
+Theo cảnh báo của Microsoft, SP2 sẽ tạo ra nhiều thay đổi đáng kể đối với các phần mềm được thiết kế nhằm nâng cấp khả năng bảo mật. Những thay đổi này có thể làm một số ứng dụng không thể triển khai được. 
+Những phần bị tác động mạnh nhất là Giao thức ra lệnh từ xa RPCs (Remote Procedure Calls), Mô hình phân bổ đối tượng thành phần DCOM (Distributed Component Object Model), hệ thống firewall, và tính năng bảo vệ ứng dụng. 
+Để giúp các nhà phát triển, Microsoft đã nhanh chóng triển khai một khoá đào tạo trực tuyến, đưa ra các chi tiết liên quan khi cài SP2 vào Windows XP, cũng như các tác động ảnh hưởng tới một số ứng dụng đang được triển khai trên hệ thống. Được biết, đây là lần đầu tiên Microsoft triển khai một khoá "đào tạo" theo kiểu này. 
+Hiện các nhà phát triển phần mềm đang nghiên cứu kỹ thông tin do Microsoft cung cấp, nhằm đảm bảo phần mềm của họ không xung đột với SP2.
+
+Theo InfoWorld

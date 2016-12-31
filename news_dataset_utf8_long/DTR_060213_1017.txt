@@ -1,0 +1,12 @@
+﻿Chip bốn lõi sẽ xuất xưởng trong năm 2007
+
+Tập đoàn sản xuất chip lớn nhất thế giới Intel hy vọng sẽ có thể tung ra lô chip máy chủ bốn lõi đầu tiên vào đầu năm 2007, một nỗ lực nhằm giành lại thị phần đã mất vào tay AMD. 
+
+ Cũng theo dự đoán, số lượng chip lõi kép mà hãng này bán ra thị trường trong năm nay sẽ đạt 60 triệu, chiếm khoảng 25% tổng doanh thu vi xử lý của Intel. 
+Rõ ràng là Intel đang đặt cược rất lớn cho chip đa lõi, khi mà những nền móng đầu tiên cho căn nhà đã được thiết lập. Chip bốn lõi mới (tên là Clovertown) sẽ nén bốn bộ vi xử lý độc lập vào chung một gói, cho phép máy tính vừa xử lý dữ liệu nhanh hơn, vừa chạy được nhiều ứng dụng cùng lúc hơn, trong khi lượng điện tiêu thụ lại ít hơn thiết kế chip đơn lõi. 
+Tuy nhiên, khi được hỏi là liệu có phải cả bốn lõi này đều nằm trên một lớp silicon duy nhất hay không, hay là Clovertown sẽ sử dụng hai con chip lõi kép ép chặt với nhau thì Intel từ chối tiết lộ. Clovertown được nhắm riêng đến đối tượng máy chủ ở các mạng tập đoàn hoặc lưu ký Web site trên mạng Internet. 
+Hiển nhiên, việc cả bốn lõi cùng nằm trên một nền sẽ hiệu quả hơn, vì chúng có thể trao đổi thông tin và chia sẻ nguồn lực dễ dàng hơn. Việc ép dính hai con chip lõi kép với nhau chỉ được coi như một giải pháp tình thế, "chữa cháy" để nhanh chóng bắt kịp đối thủ AMD mà thôi. 
+Sản phẩm chip lõi kép của AMD đã giúp hãng này giành được thị phần đáng kể từ tay Intel, đặc biệt là trong thị trường máy chủ. Nếu như thị phần của Intel trên toàn thị trường PC nói chung vẫn là 85% thì thị phần máy chủ của hãng này đã giảm xuống dưới 75% trong năm qua. 
+Nhìn vào các dòng sản phẩm của Intel so với AMD, có thể thấy rõ Intel yếu nhất ở khâu máy chủ nhưng mạnh nhất ở mắt xích notebook. Từ đó, có thể dự đoán Intel rất muốn tạo ra một ấn tượng mạnh cho người dùng rằng họ đang thu hẹp khoảng cách với AMD, nhà phân tích Nathan Brookwood của Insight64 cho biết. 
+Intel thậm chí còn tiến xa hơn khi mơ về một ngày, mỗi một con chip sẽ có hàng chục, hoặc thậm chí là hàng trăm lõi, cũng giống như thời kỳ đầu của ngành công nghiệp điện tử, khi các hãng chạy đua trong việc nén càng nhiều transistor lên một con chip càng tốt. Tuy nhiên, hai mốc 8 lõi và 16 lõi sẽ là thách thức cực khó vượt qua, bởi người ta sẽ phải giải quyết được bài toán bộ nhớ hệ thống cũng như viết được những phần mềm phát huy được ưu thế của chúng. 
+Theo Thiên Ý VietNamNet/Reuters

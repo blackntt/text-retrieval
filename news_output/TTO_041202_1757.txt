@@ -1,0 +1,6 @@
+﻿ G . Fraser , tác_giả CMSNET lên_tiếng
+“ Thông_báo chính_thức của Stephen R . G . Fraser về việc mã nguồn bị đánh_cắp : tôi khẳng_định , CMS.NET đã bị sử_dụng mà không được phép và bị thương_mại_hóa một_cách bất_hợp_pháp .
+ĐÂY_LÀ_THÔNG_BÁO_VỀ_BẢN_QUYỀN
+Copyright © 2002 by Stephen_Fraser . Không được phép xuất_bản lại hoặc chuyển_đổi sang bất_cứ dạng nào , bằng bất_cứ phương_pháp nào , điện_tử hay cơ_học , bao_gồm cả photocopy , ghi_âm , hay bất_cứ hệ thông lưu_trữ và truy_cập thông_tin nào , mà không có sự đồng_ý trước của cả người sở_hữu bản_quyền và nhà_xuất_bản .
+Và cả tôi , cũng_như nhà_xuất_bản của tôi , đều đã không cung_cấp quyền này dưới dạng văn_bản giấy . Theo tôi hiểu , những người này phải gỡ bỏ khỏi phần_mềm của họ tất_cả mã nguồn lấy từ quyển sách của tôi , trừ khi cả tôi và nhà_xuất_bản cùng cho_phép dưới dạng văn_bản giấy . Và nếu họ thực_hiện việc gỡ bỏ mã , tôi chắc_chắn là phần_mềm đó sẽ không_thể chạy được nữa . Giá_như các tác_giả i CMS có hỏi ý_kiến của tôi trước khi bắt_đầu , tôi sẽ cho_phép họ sử_dụng ngay_lập_tức , như trước_đây tôi đã nhiều lần cho_phép người khác làm như_vậy . Tôi chỉ yêu_cầu những người xin_phép phải công_nhận những gì tôi đã làm , và phải đóng_góp đáng_kể vào việc phát_triển từ phiên bản_gốc .
+Stephen R . G . Fraser

@@ -1,0 +1,7 @@
+﻿ Công_cụ chơi nhạc MP3 , ghi_âm cho ĐTDĐ
+Có giao_diện hiển_thị rất dễ hiểu và cung cung_cấp đầy_đủ các thông_tin , thông_số , chức_năng cho_phép bạn thao_tác dễ_dàng hơn , có_thể chơi Playback với chất_lượng cao , chuyển_đổi giữa các Track với nhau rất dễ_dàng , thay_đổi Volume bằng bánh_xe Jog_Dial … việc cài_đặt cũng rất dễ_dàng , không chiếm nhiều dung_lượng hệ_thống và có_thể chạy từ trên thẻ nhớ .
+Ở chức_năng chơi nhạc bạn có_thể đặt các danh_sách bài hát , lập các chỉ mục , hỗ_trợ các file MP3 , WAV , M3U , khả_năng điều_chỉnh các mức âm_lượng ở 3 Band , 4 kiểu Playback , có_thể đồng_bộ với Winamp . Giao_diện hiển_thị khi chơi rất rõ_ràng , cung_cấp các nút chức_năng Play , Pause , Stop … cùng các thông_tin về file nhạc .
+Công_cụ ghi_âm rất hay , bạn có_thể ghi_âm không giới_hạn chỉ phụ_thuộc vào bộ_nhớ của máy bạn , file ghi_âm được định_dạng MP3 , WAV có dung_lượng nhỏ gọn , chỉ cần kích_hoạt chức_năng Voice ( VAS ) nhấn Start và quá_trình ghi_âm sẽ bắt_đầu .
+Đặc_biệt hơn phần_mềm còn tích_hợp công_cụ quản_lý file giúp bạn dễ_dàng tiếp_cận với các file nhạc , công_cụ quản_lý , sửa_đổi thẻ ID3 của file MP3 , hỗ_trợ đọc thông_tin từ thẻ nhớ SD/MMC/CF , tự_động cài_đặt các thông_số về file nhạc theo cách mà bạn chọn .
+Phần_mềm có dung_lượng nhỏ gọn ( 195 KB ) , tương_thích các SmartPhone Symbian UIQ . Tải về dùng thử tại đây .
+CHÁNH_TRUNG

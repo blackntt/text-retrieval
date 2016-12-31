@@ -1,0 +1,20 @@
+﻿Công trình lớn của những người nhỏ
+
+Làm quen với máy tính từ năm lên 6, Đại dường như có niềm đam mê mãnh liệt với các thuật toán, phần mềm...Tám tuổi, cậu đã học xong Turbo Pascal và Borland Delphi, 9 tuổi Đại học qua Microsoft Access và Visual Basic. 
+Năm lên 10, cậu làm quen với môi trường Web và Adobe Photoshop. Đến nay, Đại đã “nghiền” xong ngôn ngữ lập trình HTML và ASP, ngôn ngữ kịch bản JavaScrip. 
+Đại đã vận dụng tất cả những điều học được để tạo nên website “thế giới động vật” của mình. Một thành viên BGK đã phải thốt lên khi chấm sản phẩm của Đại: “Chúng tôi hoàn toàn bị “chinh phục” bởi đây là một website có dung lượng đồ sộ về dữ liệu, được xây dựng trên môi trường ngôn ngữ lập trình rất mạnh thường chỉ dành cho sinh viên đại học”. 
+Website được hoàn thành trong 3 tháng ngắn ngủi, có đầy đủ những công cụ của một site mạnh như: công cụ tìm kiếm từ tên các con vật; thư viện hình ảnh về các loài vật trong website; phần hướng dẫn sử dụng; có thể kiểm tra xem con vật đã tồn tại trong cơ sở dữ liệu hay chưa ... 
+Đặc biệt, duy nhất site của Đại trong cuộc thi lần này là có tính năng có thể thêm các dữ liệu vào một cách đơn giản. 
+Cậu học sinh lớp 5 trường tiểu học Bạch Mai cho biết, thời gian tới cậu sẽ nâng cấp website của mình các phần như: “Trắc nghiệm kiến thức về các con vật” và “Âm thanh các con vật” để các bạn yêu động vật có thể tìm hiểu kỹ lưỡng hơn về thế giới động vật. 
+Trở thành lập trình viên cũng là ước mơ của Đại. Và “lập trình viên” nhí này còn đang ấp ủ một website về “Thế giới thực vật”. 
+Nguyễn Đức Lân: Ý tưởng về website bầu cử trực tuyến 
+Nguyễn Đức Lân Đây cũng là thí sinh duy nhất “ẵm” tới 2 giải Nhất của Hội thi phần mềm sáng tạo và phần thi chung giải toán bằng Pascal. Sản phẩm đoạt giải Nhất phần thi Phần mềm sáng tạo của thí sinh đoàn Đà Nẵng này là website đào tạo trực tuyến. 
+Điều đáng nói là phần mềm chỉ được Lân viết trong vòng 2 tháng trước khi diễn ra Hội thi toàn quốc. Là người rất đam mê CNTT ngay từ khi còn học lớp 7, Lân thường xuyên phải vào mạng tìm kiếm thông tin để mày mò tự học. 
+“Dù có thể tìm kiếm được rất nhiều thông tin nhưng việc lựa chọn lại rất khó khăn. Do vậy em đã nảy ra ý tưởng viết phần mềm này để mọi người có thể dễ dàng tiếp cận với những thông tin cần thiết không chỉ trong lĩnh vực CNTT mà tất cả những lĩnh vực khác nữa” – Lân kể. 
+Theo đánh giá của BGK, phần mềm có rất nhiều tiện ích và tác giả đã có nhiều cải tiến so với những website đào tạo trực tuyến hiện tại. Để sử dụng website, chỉ cần sử dụng account (tài khoản) đăng nhập là có thể “vào” được lớp hoặc chương trình mình đang theo học. 
+Với rất nhiều tiện ích, giáo viên có thể post (đưa) bài giảng đến các lớp học ảo và kiểm tra năng lực học sinh. Nếu thi đạt học viên mới có thể tiếp tục được “vào” học ở những chương trình cấp cao hơn. 
+Rất tiếc, hiện website này mới chỉ có bản trình diễn (demo) chưa có trên mạng Internet. Lân cho biết sẽ “kêu gọi” sự giúp đỡ của các thầy và Thành Đoàn Đà Nẵng để mọi người có thể sử dụng website miễn phí trong thời gian tới. 
+Năm ngoái, cậu học sinh lớp 11/6 THPT Lê Quý Đôn (Đà Nẵng) đã mang website bầu cử trực tuyến - sản phẩm ấp ủ từ lâu đi dự thi Hội thi Tin học không chuyên toàn quốc lần thứ 10. Tuy nhiên, do tính bảo mật chưa cao nên sản phẩm đã không đoạt giải. 
+Song, ban giám khảo đã đánh giá cao ý tưởng độc đáo này. “Em sẽ theo đuổi ý tưởng này đến cùng. Hy vọng khi Nhà nước có hệ thống tin học hóa hoàn chỉnh, sản phẩm của em sẽ hữu ích” - Lân nói.
+
+Theo Tiền Phong

@@ -1,0 +1,11 @@
+﻿ Polyglot 3000 - Đoán ngôn_ngữ
+Rào_cản ngôn_ngữ sẽ không còn gây khó_khăn cho bạn như hồi “ ngày_xửa_ngày_xưa ” vì giờ_đây đã có sự hiện_diện của những dịch_vụ chuyển_đổi ngôn_ngữ trực_tuyến như Babel_Fish , WorldLingo ...
+Tuy_nhiên , nếu các trang_web bạn thu được không sử_dụng ngôn_ngữ thông_dụng như tiếng Anh , tiếng Pháp mà_lại dùng một thứ tiếng nào_đó lạ_hoắc thì_sao ? Hãy để chương_trình Polyglot 3000 “ đoán ” đó là tiếng nước nào để bạn có cơ_sở thực_hiện việc chuyển_đổi qua loại ngôn_ngữ thường dùng của mình .
+Polyglot 3000 thuộc dạng miễn_phí , tương_thích với Windows 9x/NT/ME/2000/XP , dung_lượng gần 4 MB , tải về tại : www.polyglot3000.com/download/poly3000.exe .
+Cách sử_dụng
+Bước 1 : Bôi_đen một đoạn văn_bản trên trang_web rồi copy - paste qua Notepad , sau đó lưu lại thành file . TXT ( Polyglot 3000 có hỗ_trợ Unicode ) .
+Lưu_ý : Đoạn văn_bản càng dài thì tính chính_xác của chương_trình sẽ càng cao .
+Bước 2 : Kích_hoạt Polyglot 3000 , trong cửa_sổ chương_trình , các bạn vào menu File & gt ; Open text để chỉ ra file . TXT mà mình vừa tạo ở bước 1 . Sau đó các bạn nhấn phím F9 rồi nhìn xuống bên dưới để xem “ lời tiên_đoán ” của chương_trình :
+- Language recognized : tên ngôn_ngữ .
+- Recognition accuracy : độ_chính_xác . - Similar language : những ngôn_ngữ “ na_ná ” kết_quả đưa ra ở trên .
+Trần_Đức_Khiêm

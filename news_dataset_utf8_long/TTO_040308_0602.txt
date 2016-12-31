@@ -1,0 +1,23 @@
+﻿10 câu hỏi cho Bill Gates
+
+- Có thể nói như vậy. Nếu bạn có cơ hội tham gia giai đoạn đầu bước chuyển mình của một mô thức, thì rời trường một hoặc hai năm để xem bạn có thành công trong lĩnh vực ấy hay không là điều có lý. Tuy nhiên, nói chung thì hoàn thành chương trình giáo dục là việc lớn cần làm. 
+2. Điều quan trọng nhất mà tôi học được ở nhà trường là có rất nhiều người giỏi giang hơn tôi. Còn với ông thì sao? 
+- Đương nhiên tôi cũng học được điều đó. Tôi từng học ở lớp toán 55 này, nơi mọi học sinh đều đạt 800 điểm môn SAT và 5 điểm môn AP (điểm số tối đa). Đó là một trải nghiệm đẹp. 
+3. Những gì là cần thiết đối với chúng ta trước khi việc sử dụng máy tính trở nên thật sự thân thiện và dễ dàng? 
+- Nó sẽ trở nên tốt hơn theo năm tháng. Máy tính là công cụ mạnh nhất mà con người từng sáng tạo. Không gì có thể sánh được với thiết bị này nếu xét về tốc độ cải tiến và những khả năng mới mà con người tạo ra với nó: cho phép bạn sắp xếp ký ức, rồi chia sẻ và xem lại sau này... những điều ngày nay chúng ta chưa làm được. Khuynh hướng mạnh mẽ nhất ngày nay là nhiếp ảnh kỹ thuật số và chúng tôi sẽ đi theo khuynh hướng này. 
+4. Những thư rác (spam) gần đây làm nhiều người rất khó chịu khi mở hộp thư. Liệu vấn đề này có thể giải quyết được không? 
+- Có. Nói chung là giải quyết được. Những chương trình mới đòi hỏi phải mất vài năm làm việc, hợp tác và triển khai. Giải pháp cho vấn đề này nằm ở cả mặt trận pháp lý và mặt trận kỹ thuật. 
+5. Microsoft dự định làm gì để đối phó với spam? 
+- Chúng tôi đang tạo ra những phần mềm làm thay đổi những nguyên tắc xác nhận e-mail. Chúng tôi gọi đó là thẻ căn cước của e-mail. Mục đích của việc này là để thư của những người bạn sẽ luôn được chấp nhận và trong những trường hợp ngoại lệ, khi một người lạ gửi thư cho bạn, lá thư đó sẽ không bị nhầm với thư rác. Chúng tôi đoan chắc rằng những nhà sản xuất hệ thống thư điện tử cũng nhận thức được điều này để tham gia và trở thành một phần của giải pháp. 
+6. Tôi nghe nói nhân viên của ông đang xây dựng một công cụ tìm kiếm mới. Trang này sẽ có những gì mà Google không có? 
+- Chúng tôi đưa ra được rất nhiều phát minh mới về nhận biết ngôn ngữ tự nhiên. Ngày nay, nếu gõ vào công cụ tìm kiếm từ chip chẳng hạn, ta sẽ nhận được những thông tin về khoai tây rán và chip vi xử lý của máy tính. Thường xuyên bạn nhận được những thứ khá nực cười như vậy. Người sử dụng thật sự cần máy tính có khả năng đọc các bài báo và hiểu được chút ít nội dung trong đó. 
+7. Việc thuê nhân công giá rẻ ở các nước (outsourcing) sẽ tác động như thế nào đến thị trường việc làm trong lĩnh vực công nghệ? 
+- Những kỹ năng hàng đầu này do các trường đại học Mỹ tạo ra luôn được cần đến. Thử thách đặt ra là Mỹ luôn phải có tỉ lệ ngày càng cao nguồn nhân lực có những kỹ năng xuất sắc mà cả thế giới cần đến này. 
+8. Quỹ từ thiện mang tên ông có vốn cung ứng là 26 tỉ USD. Ông làm thế nào để quyết định sẽ trao tiền cho ai? 
+- Ưu tiên lớn nhất là y tế thế giới. Và chúng tôi đánh giá điều này bằng cách đặt câu hỏi: “Làm thế nào chúng ta có thể cứu được nhiều mạng người nhất?”. Và rõ ràng là khoảng 30 căn bệnh hiện nay đang cần dược phẩm hoặc văcxin tốt hơn để loại trừ chúng. 
+9. Ông đã cho các con ông biết rằng ông sẽ cho đi phần lớn tài sản mà lẽ ra chúng được thừa kế chưa? 
+- Con lớn nhất của tôi mới lên 7 tuổi. Vì vậy nó sẽ biết khi gia đình tôi đi châu Phi hoặc Ấn Độ, rằng chúng tôi đã may mắn có một số tiền để chăm sóc y tế cho những người ở đó và trao tặng khoản tiền ấy một cách đúng đắn. Nhờ đó bọn trẻ sẽ có khái niệm về chuyện này. 
+10. Các con ông sẽ thoải mái về vấn đề này chứ? 
+- Khi nào chúng 21 tuổi, ông hãy gọi điện đến hỏi chúng xem.
+
+NGUYỄN QUANG (Theo Time)

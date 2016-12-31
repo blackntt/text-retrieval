@@ -1,0 +1,40 @@
+﻿ Môn hóa : Để lấy_được điểm_cao
+a ) Các vấn_đề liên_quan đến phản_ứng oxy_hóa khử :
+- Quy_tắc tính số oxy_hóa .
+- Các mức oxy_hóa thường gặp và quy_luật biến_đổi chúng trên phản_ứng của các nguyên_tố quan_trọng : Cl , Br , I , S , N , Fe , Mn .
+- Phải_biết cân_bằng tất_cả các phản_ứng khi gặp ( đặc_biệt bằng phương_pháp cân_bằng điện_tử ; chú_ý các phản_ứng của sắt , ôxít sắt , muối sắt ) .
+- Phải nắm thật chắc các công_thức viết phản_ứng gồm : ôxít ; kim_loại ; muối phản_ứng với axit ; muối phản_ứng với muối ; kim_loại phản_ứng với muối ; phản_ứng nhiệt_luyện .
+b ) Các phản_ứng của nhóm nguyên_tố halogen ( Cl , Br , I ) ; S : Chỉ cần đọc để viết được các phản_ứng coi như_là đủ .
+c ) Cấu_tạo nguyên_tử - Bảng hệ_thống tuần_hoàn :
+- Yêu_cầu phải nắm chắc đặc_điểm cấu_tạo ; khái_niệm về hạt ; mối liên_hệ giữa các loại hạt .
+- Đặc_điểm , nguyên_tắc xếp nguyên_tố ; quy_luật biến_thiên tuần_hoàn .
+- Viết được cấu_hình electron ; xác_định vị_trí nguyên_tố trên bảng hệ_thống tuần_hoàn .
+- Sự tạo thành ion .
+2 . Các vấn_đề ở chương_trình lớp 11 , ở phần này cần xem_lại các vấn_đề sau :
+a ) Các bài_toán về nồng_độ dung_dịch , độ p H , độ điện_ly , hằng_số điện_ly .
+b ) Nắm chắc bảng tính tan , để xây_dựng các phản_ứng xảy_ra trong dung_dịch theo cơ_chế trao_đổi ion ( ví_dụ phải nhớ trong dung_dịch phản_ứng giữa các ion với nhau phải thỏa điều_kiện là sinh_ra chất kết_tủa hay chất bay_hơi hoặc chất điện_ly yếu ) .
+c ) Xem_lại các quy_luật giải toán bằng phương_pháp ion : cách viết phương_trình phản_ứng dạng ion ; biết dựa trên phương_trình ion giải_thích các thí_nghiệm mà trên phân_tử không giải_thích được ( ví_dụ khi cho Cu vào dung_dịch hỗn_hợp gồm Cu ( NO3 ) 2 , HCl thấy có khí NO bay ra hay cho Al vào dung_dịch hỗn_hợp gồm NaOH , NaNO3 , NaNO2 , thấy sinh_ra hỗn_hợp 2 khí có mùi khai ; ... )
+d ) Các khái_niệm axit , bazơ , lưỡng tính , trung_tính theo Bronsted :
+Vì phần này các em thiếu dấu_hiệu nhận_biết chúng , nên khi gặp các em lúng_túng và thường kết_luận theo cảm_tính , do_đó chúng_tôi gợi_ý nhanh các dấu_hiệu nhận_biết axit , bazơ , lưỡng tính , trung_tính :
+Các gốc axit của axit mạnh ( Cl - , NO - 3 , SO2 - 4 , ... ) và các gốc bazơ của bazơ mạnh ( Na + , Ka + , Ba2 + , Ca2 + ) được xem là trung_tính .
+Các gốc axit của axit yếu ( ClO - , NO - 2 , SO2 - 3 , ... ) được xem là bazơ .
+Các gốc bazơ của bazơ yếu ( NH+ 4 , Al ( H2O ) 3 + ) và các gốc axit ( có H phân_ly thành H+ ) của axit mạnh được xem là axit .
+Các gốc axit ( có H phân_ly thành H+ ) của axit yếu : lưỡng tính .
+e ) Cách áp_dụng các định_luật_bảo_toàn điện_tích , định_luật_bảo_toàn_khối_lượng trong các bài_toán dung_dịch .
+f ) Xem kỹ các phản_ứng của nitơ và hợp_chất nitơ ; phốt_pho ( xem sách_giáo_khoa lớp 11 và các bài_tập chương này ở quyển bài_tập hóa_học lớp 11 ) .
+g ) Các phản_ứng của hydrocacbon :
+- Phản_ứng cracking . - Phản_ứng đề hydro hóa - Phản_ứng hydro hóa . - Phản_ứng cộng Br2 . - Phản_ứng cộng nước của anken , ankin . - Phản_ứng của ankin - 1 với Ag2O/NH3 . - Phản_ứng tạo P . E ; P . V . C ; T . N . T ; cao_su Buna ; cao_su .
+Bu na - S . - Phản_ứng của benzen ; toluen ; styren .
+3 . Các nội_dung của chương_trình 12 :
+a ) Với các hợp_chất chứa hữu_cơ chứa C , H , O : Chủ_yếu xem các phản_ứng của rượu ; andehyt ; axit ; este ; phenol ; gluxit .
+b ) Nhóm nguyên_tố C , H , N : Các phản_ứng của amin với axit , đặc_biệt xem kỹ anilin , chú_ý phenylamoniclorua .
+c ) Cuối_cùng xem nhóm nguyên_tố C , H , O , N gồm các hợp_chất quan_trọng sau đây :
+- Axit_amin : chủ_yếu có phản_ứng trung_hòa , phản_ứng tạo nhóm peptit ; phản_ứng thủy_phân nhóm peptit .
+- Este của axit_amin : có 2 phản_ứng chính .
+- Muối amoni đơn_giản ( R-COO-NH4 ) cũng viết 2 phản_ứng chính .
+- Muối của amin đơn_giản R-COO-NH3 - R’ .
+- Hợp_chất Nitro R - ( NO2 ) n : Xem phản_ứng điều_chế và chỉ có phản_ứng tạo amin ( phản_ứng với [ H} ) .
+- Các hợp_chất đặc_biệt : Urê , Caprolactam ; tơ nilon - 6,6 ; tơ caprôn .
+d ) Phần vô_cơ : Xem các phản_ứng của Al ; Fe ; Na , K ; Mg , Ca .
+e ) Đặc_biệt cần để_ý thêm phần ăn_mòn_kim_loại ; nước_cứng ; điều_chế kim_loại ; các bài_toán áp_dụng phản_ứng nhiệt_luyện , các bài_toán kim_loại phản_ứng với axit ; phản_ứng với muối .
+Theo Người_Lao_Động

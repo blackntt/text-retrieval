@@ -1,0 +1,17 @@
+﻿Những chiêu lừa trong thế giới ảo
+
+Đó là tên một chủ đề của trang web Võ lâm truyền kỳ (VLTK), nhằm cảnh báo các game thủ khi hành hiệp coi chừng bị lừa đảo. Thế giới thực bao nhiêu trò lừa đảo thì thế giới ảo cũng có bấy nhiêu. 
+Trước khi phiên bản "Sơn hà xã tắc" ra đời, hầu hết các game thủ đều nhận được mail mang tên VLTK với nội dung "đề nghị các game thủ xác nhận vào một đường link (đường dẫn) để chuẩn bị chuyển qua phiên bản mới". Game thủ nào ngờ nghệch tưởng thật xác nhận vào thì coi như... tiêu vì sẽ bị hack ngay. 
+Một hình thức lừa đảo nữa là thông qua các phần mềm "auto kill" (tự động đánh) vốn đều có chứa virus, trojan, một virus chuyên ăn cắp thông tin, và từ đó người nào dùng sẽ bị hack sạch. 
+Từ lừa đảo trên mạng, các game thủ còn phải chịu cảnh lừa đảo thật ngoài đời. Một game thủ của trò "PTV - giành lại miền đất hứa" đã được một game thủ khác đề nghị mua một món đồ với giá 500 USD. 
+Người mua cho rằng cuối tuần nên ngân hàng chưa làm việc và sẽ chuyển vào sáng hôm sau. Hôm sau, người bán kiểm tra tài khoản và đúng là có tiền nhưng thay cho 500 USD là… 50 USD và người mua đã biến mất. 
+Trường hợp khác, một game thủ ở trò chơi VLTK đã phải ngậm đắng nuốt cay khi đến một điểm Internet giao dịch. Trước đó game thủ này đã thông báo bán 30 ngàn vạn ngân lượng (với giá 3 triệu đồng) và hẹn giao dịch tại một tiệm Internet. 
+Đến nơi sau khi bán xong, game thủ này nhận được... 30.000 đồng! Người mua là một gã "mặt lạnh băng", đi chung với một nhóm bạn "mặt cũng lạnh như tiền". Và dĩ nhiên, game thủ kia đành phải tức tối nhận 30.000 đồng mà ra về vì chẳng biết làm sao! 
+Ai bảo vệ quyền lợi người chơi? 
+Khi tung game MU online, nhà cung cấp tuyên bố “MU VN không thể bị hack” và vô tình FPT (đơn vị cung cấp game này) đã châm ngòi cho cuộc chiến ảo giữa các hacker chuyên nghiệp và đội ngũ game master (quản lý game). 
+Đáp trả lại những tuyên bố ngạo nghễ của nhà cung cấp, giới hacker ra tay làm mưa làm gió trong game bằng những chương trình hack autokill, dupe đồ (nhân đôi món đồ). Và cũng từ điều này, Công ty FPT phải tức tốc cho nhân viên của mình viết bản chống hack. 
+Ông Huỳnh Ngọc Hải, trưởng nhóm GM game FPT, cho biết mỗi món đồ có một serial riêng mặc dù bề ngoài của chúng giống nhau đến từng chi tiết. Hệ thống sẽ quản lý sự ra đời hay biến mất của các món đồ dựa trên serial của chúng. 
+Ngày 28-4-2006 vừa qua, trò chơi "MU xứng danh anh hùng" chính thức thương mại hóa và cùng lúc đó FPT cũng đưa ra một số dịch vụ đi kèm dành cho người chơi mua gói chơi trọn đời. 
+Hiện nhà cung cấp này cũng đưa ra những hình thức để bảo vệ game thủ của mình như cập nhật những trình hack cho hệ thống, những báo cáo của người chơi về các vấn đề gian lận trong game qua hệ thống 1-chạm (bảo vệ và khôi phục tài sản người chơi), chat trực tuyến với game master... FPT cho rằng game MU VN là game trực tuyến duy nhất tại VN hiện nay có biện pháp bảo vệ người chơi tới cùng thông qua hệ thống này (!?).
+
+NAM HƯNG

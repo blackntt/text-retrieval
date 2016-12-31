@@ -1,0 +1,5 @@
+﻿ Hòa_hợp CDMA và GSM bằng điện_thoại hai mạng
+Luis_Pineda , Phó_chủ_tịch Qualcomm , nhà khởi_xướng công_nghệ CDMA nói , nhiều công_ty viễn_thông Trung_Quốc đã sử_dụng cả hai công_nghệ GSM và CDMA dự_kiến sẽ sớm giới_thiệu điện_thoại 2 chế_độ .
+Frank_Meng , Chủ_tịch Qualcomm_China nói , nhà khai_thác lớn China_Unicom của Trung_Quốc đã quảng_cáo điện_thoại này từ giữa năm nay để cho_phép thuê_bao dùng mạng đứng đầu GSM cho thoại và mạng CDMA của họ để download dữ_liệu nhanh . Thiết_bị hai chế_độ cũng tiện_lợi cho người dùng CDMA khi họ đi đến những nước_dùng GSM .
+Cho_đến nay , chỉ có Samsung , LG và Motorola sản_xuất ĐTDĐ_GSM / CDMA nên giá vẫn còn cao , 500 USD mỗi chiếc . Điện_thoại này dùng chipset MSM6300 để thực_hiện liên_thông giữa hai hệ_thống GSM và CDMA .
+ĐÔNG_HẢI ( Theo The_Nation - Qualcomm )

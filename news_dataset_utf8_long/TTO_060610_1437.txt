@@ -1,0 +1,13 @@
+﻿Ghép ảnh nghệ thuật dễ dàng với Magicphoto
+
+Thực ra về mức độ tinh vi và quy mô thì Magicphoto quả không thể sánh kịp với các công cụ biên tập ảnh số cỡ như Photoshop, nhưng về mức độ thân thiện và dễ sử dụng thì Magicphoto đã vượt xa nhiều lần. Bạn chỉ tốn khoảng 15 phút là đã có thể sử dụng thành thạo công cụ này trong khi đó phải mất đến khoảng 15 giờ học tập chuyên cần với Photoshop để tạo ra hiệu ứng tương tự. 
+Khi khởi động thành công, Magicphoto đã cung cấp sẵn cho bạn một khung cảnh liễu rủ bên hồ thơ mộng để bạn có thể ghép hình của mình vào đó, nhưng bạn nên sử dụng toàn bộ những tấm ảnh số của mình để tạo ra những phong cách đặc trưng nhất. Cách làm như sau: 
+- Để chọn một ảnh làm nền chính cho các ảnh khác ghép vào thì bạn nhấn vào nút “Backdrop” -&gt; tìm đến ảnh số làm nền chính -&gt; nhấp đúp hoặc Open để hiện ra ảnh nền. 
+- Để chèn các hình ảnh khác vào hình nền chính thì bạn nhấn vào nút “Photo” -&gt; tìm đến ảnh cần chèn -&gt; sau khi chọn là ảnh cần chèn sẽ được lồng vào ngay ảnh nền. 
+- Để chọn hình dáng khung cho ảnh cần chèn, bạn nhấn vào nút “Mask”. Tính năng này sẽ cung cấp cho bạn hàng chục kiểu khung chèn với đủ hình dạng khác nhau: vuông, tròn, bầu dục, thang, thoi, trăng, sao, trái tim… cùng nhiều kiểu đổ bóng mờ cực đẹp. Bạn chỉ cần click vào hình đã chèn, sau đó chọn kiểu “Mask” là khung hình đã chọn sẽ lập tức tác động lên ảnh chèn. 
+- Magicphoto cũng cung cấp sẵn cho bạn hàng chục kiểu hoa để bạn trang trí cho tấm ảnh ghép của mình. Chỉ cần nhấn vào nút “Flower” và chọn kiểu hoa vừa mắt. 
+- Bạn cũng có thể chú thích trực tiếp vào tấm ảnh ghép các dòng văn bản bằng cách nhấn vào nút “Text”. Khung văn bản này làm việc rất tốt với các font chữ Unicode tiếng Việt và bạn cũng có thể chỉnh sửa kích thước khung văn bản này theo nhiều hướng sao cho vừa mắt. 
+Bạn có thể chỉnh sửa kích thước của ảnh đã chèn bằng cách dùng chuột tác động vào các điểm chỉnh kích thước màu đỏ. Chính nhờ tính năng này mà bạn có thể chèn rất nhiều ảnh vào ảnh nền đã chọn, dĩ nhiên chèn càng nhiều thì kích thước ảnh chèn cũng phải cần chỉnh cho nhỏ đi cho đủ chỗ. Óc sáng tạo của bạn trong quá trình chèn sẽ quyết định tính nghệ thuật của bức ảnh cao hay thấp. 
+Công ty PicGet đang bán ra công cụ hấp dẫn này với giá là 15 USD. Bạn có thể vào đây để tải về bản dùng thử với dung lượng khoảng 2,5MB hoặc tìm mua tại các cửa hàng phần mềm.
+
+HOÀNG KIM ANH

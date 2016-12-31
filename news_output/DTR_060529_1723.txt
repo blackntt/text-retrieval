@@ -1,0 +1,61 @@
+﻿ 17 tên_miền bị thu_hồi đã có chủ
+( Dân_trí ) – Từ đầu tháng 5 , trung_tâm Internet_Việt_Nam ( VNNIC ) đã tiến_hành cấp_phát lại các tên_miền bị xử_lý thu_hồi gần đây do không được sử_dụng đúng mục_đích . Cho_đến thời_điểm này , đã có 17 tên_miền bị thu_hồi đã có chủ .
+Trong thời_gian ưu_tiên nhận hồ_sơ VNNIC đã nhận được trên 60 hồ_sơ của các tổ_chức có liên_quan xin đăng_ký các tên_miền này . Tuy_nhiên VNNIC chỉ duyệt cấp_phát theo tiêu_chí tên_miền phải đảm_bảo cấp cho đúng người , đúng việc để các tên_miền sau khi cấp_phát đi vào hoạt_động hiệu_quả .
+Các chủ_thể có tên_miền trong danh_sách đồng_ý cấp_phát trên phải hoàn_tất việc nộp phí đăng_ký , duy_trì trước 16h30 ngày 5/6/2006 . Đến hết 16h30 ngày 5/6/2006 nếu_không hoàn_tất việc đóng phí quyền ưu_tiên sẽ bị hủy , tên_miền sẽ chuyển về trạng_thái tự_do cho các chủ_thể khác đăng_ký .
+Đối_với những tên_miền chưa được xét cấp trong số 26 tên_miền đã thu_hồi bao_gồm : finance.com.vn ; invest.com.vn ; gate.com.vn ; legal.com.vn ; name.com.vn ; sky.com.vn ; vnn.com.vn ; vuquy.com.vn ; 000.com.vn và những tên_miền được đồng_ý cấp_phát trong giai_đoạn ưu_tiên nhưng không nộp phí đúng hạn thì các tổ_chức , cá_nhân có_thể nộp hồ_sơ đăng_ký tự_do kể từ sau 16h30 ngày 5/6/2006 theo quy_trình , thủ_tục hiện_tại ( đăng_ký trước được xét cấp trước ) .
+Hồ_sơ đăng_ký có_thể nộp trực_tiếp tại VNNIC trong giờ_hành_chính hoặc nộp thông_qua các nhà đăng_ký tên_miền ( 24/24 ) kể_cả thứ_bảy và chủ_nhật tại Công_ty Hi-Tek ( http : / / www.dot.vn ) , Công_ty FPT ( http : / / trade.fpt.vn ) , Công_ty Tin_học bưu_điện TP . Hồ chí Minh_Netsoft ( http : / / www.netsoft.com.vn ) , VDC , Viettel , Saigonnet , công_ty PA Vietnam … . .
+Các tên_miền đồng_ý cấp_phát cho các chủ_thể gồm :
+Stt
+Tên_miền
+Chủ_thể
+1
+aaa.com.vn
+Công_ty Cổ_phần Bảo_Hiểm AAA
+2
+adam.com.vn
+Công_ty TNHH Ánh_Dương_An_Mộc ( ADAM )
+3
+auto.com.vn
+Công_ty liên_doanh ôtô Giải_Phóng
+4
+autos.com.vn
+Công_ty TNHH Phụ_tùng và Tư_vấn Ôtô
+5
+brand.com.vn
+Công_ty Cổ_phần Dola
+6
+coffee.com.vn
+Công_ty Cổ_phần Tư_vấn thiết_kế kiến_trúc và Thương_mại W . E . D . O
+7
+edu.com.vn
+Trung_Tâm tin_học Trường ĐH Thủy_Lợi
+8
+eva.com.vn
+Công_ty TNHH Quảng_cáo Trường_Sinh ( EVA )
+9
+mtv.com.vn
+Công_ty_cổ_phần tư_vấn truyền_thông Việt_Nam
+10
+oto.com.vn
+Công_ty_cổ_phần ôtô Cửu_Long_Giang
+11
+software.com.vn
+Công_ty TNHH Đầu_tư và Phát_triển phần_mềm mạng Việt_Nam
+12
+taxi.com.vn
+Công_ty Cổ_phần Hà_Nội_Tourist_Taxi
+13
+thuonghieu.com.vn
+Công_ty TNHH Thương_Hiệu
+14
+tintuc.com.vn
+Công_ty TNHH Truyền_thông INET
+15
+top.com.vn
+Công_ty Cổ_phần Tư_vấn thiết_kế kiến_trúc và Thương_mại W . E . D . O
+16
+travel.com.vn
+Công_ty du_lịch và tiếp_thị GTVT - Bộ GTVT
+17
+tuyendung.com.vn
+Công_ty TNHH Tư_vấn đầu_tư thương_mại và dịch_vụ Phương_Bắc_Bảo_Trung

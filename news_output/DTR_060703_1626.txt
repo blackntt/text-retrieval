@@ -1,0 +1,7 @@
+﻿ Malware bỏ_qua email , “ làm_ăn ” trên website
+Tác_giả của những phần_mềm nguy_hiểm ( malware ) không còn mặn_mà với chiêu phát_tán virus qua các file đính kèm trong email nữa , thay vào đó là tấn_công bằng các website đặc_biệt .
+Người dùng bị lừa download malware vào hệ_thống và tin_tặc sẽ chiếm quyền kiểm_soát máy_tính .
+Công_ty bảo_mật BlackSpider Technologies cho_biết họ đã ghi_nhận sự giảm_sút số virus được đính kèm trong email kể từ đầu năm nay . Tháng 6 chứng_kiến một con_số thấp kỷ_lục , chỉ có 0,68% email chứa malware , giảm so với 0,73% của tháng 5 .
+Cũng theo công_ty này , tổng_số thư rác spam cũng đang có xu_hướng giảm . Số thư rác bất_hợp_pháp chiếm 87,7% trong lưu_lượng email của tháng 5 đã giảm còn 78,1% trong tháng 6 .
+BlackSpider Technologies khuyến_cáo chính_sách mới này của tin_tặc buộc_lòng các hãng an_ninh cũng_như người dùng phải thay_đổi cơ_chế bảo_mật . Hiện_nay , các doanh_nghiệp thường lọc email để loại_bỏ virus và Trojan , song , theo xu_hướng này , các hãng bảo_mật phải mở_rộng công_nghệ lọc web để ngăn_chặn hiệu_quả malware , BlackSpider gợi_ý .
+N . H_Theo VNuNet

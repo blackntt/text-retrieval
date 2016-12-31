@@ -1,0 +1,7 @@
+﻿Kỷ lục mới của mạng di động đạt 7,2Mb/giây
+
+(Dân trí) – Cuối tuần qua, hai công ty Nortel và Qualcomm đã thử nghiệm thành công các cuộc gọi di động trên mạng băng thông rộng HSDPA tốc độ siêu nhanh 7,2Mb/giây, tốc độ nhanh nhất cho đến thời điểm hiện nay. 
+ Mạng HSDPA là một giao thức di động mới, còn được gọi là mạng 3,5G hay 4G, được thiết kế để nâng tốc độ truyền dữ liệu nhanh gấp bốn lần đồng thời cho phép số người download không dây trên một trạm phát sóng nhiều gấp đôi trên một trạm phát sóng (cell) so với mạng hiện UMTS hiện tại ( Universal Mobile Telecommunications Service) hay 3G . Khai thác tối đa các khả năng kết nối mạng hiện nay, HSDPA giúp giảm chi phí hoạt động bằng cách truyền dữ liệu cho người dùng với tốc độ siêu nhanh. 
+Công ty sản xuất thiết bị viễn thông Nortel và nhà sản xuất chip không dây Qualcomm đã thử nghiệm các cuộc gọi HSDPA bằng cách sử dụng các máy đầu cuối là modem MSM6280 của Qualcomm và thiết bị mạng HSDPA của Nortel. 
+Tốc độ kỷ lục của mạng di động này sẽ cạnh tranh với các công nghệ di động thế hệ tiếp theo, như EVDO – tốc độ tải trung bình chỉ trong khoảng 400Kb/giây – 700Kb/giây, thậm chí cả các công nghệ băng thông rộng không dây có nhiều triển vọng hiện nay, như WiMax – tốc độ truyền dữ liệu khoảng 20 Mbgiây, tỷ lệ trung bình người dùng dữ liệu là 1 Mb/giây – 4 Mb/giây. 
+S.Hương Theo VnuNet, CNet

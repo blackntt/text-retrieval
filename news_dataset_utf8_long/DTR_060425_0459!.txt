@@ -1,0 +1,9 @@
+﻿Nước tiểu giúp dự đoán phản ứng thuốc
+
+Các nhà nghiên cứu ĐH Imperial tại London (Anh) đang phát triển phương pháp dự đoán phản ứng thuốc của bệnh nhân thông qua nước tiểu, bước tiến đầu tiên tới công nghiệp sản xuất thuốc theo đặc điểm từng người. 
+ Phương pháp kết hợp phân tích hóa học tiên tiến với mô hình toán học để dự đoán phản ứng thuốc của bệnh nhân, chủ yếu dựa trên phân tích các sản phẩm trao đổi chất của cơ thể. 
+Các nhà khoa học tin rằng xét nghiệm mẫu sản phẩm trao đổi chất sẽ giúp chẩn đoán bệnh, đoán trước những bệnh một người mắc phải trong tương lai và phản ứng của họ với việc điều trị. 
+Để thử nghiệm, các nhà khoa học tiến hành thí nghiệm trên chuột. Họ đưa paracetamol vào cơ thể chuột, đo xem thuốc có ảnh hưởng đến chúng như thế nào và được bài tiết ra khỏi cơ thể ra sao. N ước tiểu chuột trước và sau khi tiêm thuốc được so sánh qua mô hình trên máy tính. 
+Trưởng nhóm nghiên cứu, GS. Jeremy Nicholson cho biết phương pháp giúp xác định sự khác biệt trong hấp thụ và xử lý thuốc ở cơ thể từng cá nhân. Sự khác biệt này phụ thuộc các yếu tố như số lượng và loại vi khuẩn có trong ruột. 
+Theo GS. Nicholson, phương pháp mới có ý nghĩa tiềm năng quan trọng đối với công nghiệp dược và chăm sóc sức khỏe cộng đồng trong tương lai song vẫn đang ở thời kỳ mới mẻ và cần được thử nghiệm trên người để đánh giá tính khả thi khi đem vào ứng dụng. 
+Huyền Trang Theo BBC

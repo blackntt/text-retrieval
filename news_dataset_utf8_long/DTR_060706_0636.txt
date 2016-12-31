@@ -1,0 +1,9 @@
+﻿Kiểm tra hệ thống với tiện ích CPU-Z 1.35
+
+CPU-Z 1.35 là một tiện ích miễn phí cho phép xem thông tin về một số thiết bị phần cứng như chip (CPU), Main, Ram … trên máy đang sử dụng, đặc biệt thông tin rất chi tiết về chip. 
+ Giao diện chương trình được thiết kế đơn giản, mỗi mục chia làm các Tag thuận tiện cho việc tra cứu thông tin. Bạn có thể tra cứu thông tin một cách rất rõ ràng và rành mạch. 
+Với CPU chương trình đặc biệt phân tích rất rõ từ dòng Vi xử lý, tốc độ, socket, model, tên chip, tên code, công nghệ sản xuất… Đặc biệt chương trình còn có đồng hồ đo số Vol (hiệu điện thế) cấp cho CPU, tốc độ xử lý, bus thực của hệ thống tại thời điểm hiện tại. 
+Ngoài ra chương trình còn cung cấp cho bạn Hãng, Model và ngày sản xuất thiết bị phần cứng đó, giúp bạn có thể kiểm tra được thiết bị trên máy tính của mình có phải là hàng chính hãng hay không. 
+Chương trình hoàn toàn miễn phí, nhỏ gọn (chỉ với 0,98 Mb) và chạy ngay mà không cần cài đặt, tương thích với hệ điều hành Windows : 98/ME/2000/XP/2003. 
+Các bạn có thể tải bản cài đặt của chương trình tại địa chỉ : 
+http://www.cpuid.com/download/cpu-z-135.zip Quốc Trung

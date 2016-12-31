@@ -1,0 +1,9 @@
+﻿Xem phim phụ đề tuyệt vời hơn
+
+Tuy nhiên, điểm duy nhất đã giúp nó không sợ bị “đụng hàng” với những “đồng nghiệp” của mình vẫn chính là chức năng cho phép người dùng hiệu chỉnh tốc độ hiển thị của các loại phụ đề nhưng không gây ảnh hưởng đến chất lượng hình ảnh và âm thanh của phim. 
+Tính năng độc nhất vô nhị IQ Text (phụ đề thông minh) của AP sẽ giúp bạn không còn phải “thở hổn hển” mỗi khi thưởng thức các phim có phụ đề chạy như tên bắn! 
+1. Sau khi mở file chứa phim bạn hãy đánh dấu kiểm cho nút On/Off Subtitles (nằm ngay cạnh nút Filters). Nhấn nút Open Subtitles, chọn mục nằm ở dưới cùng của menu, xác định đường dẫn đến tập tin lưu trữ phụ đề trên đĩa phim (thường có chuẩn định dạng là .txt) rồi nhấn nút Open để nạp nó vào trình đa phương tiện AP. 
+2. Liên tục nhấn nút có đề chữ Volume cho đến khi chuyển sang chế độ TXT. Hãy di chuyển thanh trượt nằm ngay cạnh nút này để tăng/giảm tốc độ hiển thị của phụ đề theo ý muốn. Để thiết lập những tùy biến cụ thể hơn cho phụ đề, bạn hãy nhấn nút Setup (Program settings) rồi thực hiện những thay đổi cần thiết ở hai thẻ Subtitles và IQ Text. 
+Với dung lượng khá gọn (chỉ 1,03 MB), tương thích trên các hệ điều hành Windows như 9x/Me/NT/2000/XP và mọi trình điều khiển Direct X, phiên bản miễn phí (freeware) của AP được cung cấp tại đây .
+
+THIÊN LONG

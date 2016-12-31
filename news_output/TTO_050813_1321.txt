@@ -1,0 +1,229 @@
+﻿ ĐH Quốc_gia TP.HCM công_bố điểm_chuẩn
+Theo đó , điểm này dành cho thí_sinh thuộc KV3 và đối_tượng là học_sinh phổ_thông . Dưới đây là danh_sách điểm_chuẩn của các trường , khoa trực_thuộc ĐH Quốc_gia TP.HCM .
+Các trường
+Ngành đào_tạo
+Mã ngành
+Điểm_chuẩn
+ĐH Bách_khoa TP.HCM
+Công_nghệ_thông_tin
+106
+25.5
+Điện - Điện_tử
+108
+25
+Cơ_khí
+111
+25
+Kỹ_thuật nhiệt
+113
+18
+Công_nghệ dệt_may
+112
+18
+Công_nghệ hóa – thực_phẩm
+118
+26.5
+Xây_dựng
+119
+24.5
+Kỹ_thuật địa_chất
+120
+18
+Quản_lý công_nghiệp
+123
+21.5
+Kỹ_thuật và quản_lý môi_trường
+125
+20.5
+Kỹ_thuật giao_thông
+126
+22
+Kỹ_thuật hệ_thống công_nghiệp
+127
+20
+Cơ điện_tử
+128
+27
+Công_nghệ vật_liệu
+129
+20.5
+Trắc_địa
+130
+18
+Vật_liệu và cấu_kiện xây_dựng
+131
+18
+Thủy_lợi - Thủy_điện - Cấp_thoát_nước
+132
+18.5
+Cơ kỹ_thuật
+133
+18
+Công_nghệ_sinh_học
+134
+25.5
+Vật_lý kỹ_thuật
+135
+18
+ĐH Khoa_học_tự_nhiên TP.HCM
+Toán - Tin_học
+101
+17.5
+Vật_lý
+104
+16
+Điện_tử viễn_thông
+105
+19
+Hải_dương_học
+109
+16.5
+Công_nghệ_thông_tin
+107
+22
+Hóa_học
+201
+19
+Địa_chất
+203
+16
+Khoa_học môi_trường
+205
+A : 18
+B : 18
+Khoa_học vật_liệu
+207
+16
+Sinh_học
+301
+17
+Công_nghệ_sinh_học
+312
+A : 20
+B : 24
+Tin_học ( hệ CĐ )
+C67
+12
+ĐH Khoa_học_xã_hội & amp ; Nhân_văn TP.HCM
+Ngữ_văn
+601
+C : 16
+D : 15
+Báo_chí
+603
+C : 18
+D : 20
+Lịch_sử
+604
+C : 16.5
+D : 15.5
+Nhân học
+605
+15
+Triết_học
+607
+15
+Địa_lý
+608
+C : 15
+D : 15.5
+Xã_hội_học
+609
+C : 15
+D : 15.5
+Thư_viện thông_tin
+610
+15
+Giáo_dục_học
+612
+15
+Lưu_trữ học
+613
+15
+Đông phương
+611
+18
+Ngữ_văn Anh
+701
+18
+Song_ngữ Nga - Anh
+702
+D1 : 15
+D2 : 15.5
+Ngữ_văn Pháp
+703
+15.5
+Ngữ_văn Trung_Quốc
+704
+15
+Ngữ_văn Đức
+705
+15.5
+Quan_hệ quốc_tế
+706
+17
+ĐH Quốc_tế TP.HCM
+Do ĐH Quốc_tế cấp bằng
+Công_nghệ_thông_tin
+150
+18
+Quản_trị kinh_doanh
+450
+21
+Công_nghệ_sinh_học
+350
+17.5
+Điện_tử - Viễn_thông
+151
+17.5
+Do ĐH Nottingham cấp bằng
+Công_nghệ_thông_tin
+160
+17.5
+Quản_trị kinh_doanh
+460
+18.5
+Công_nghệ_sinh_học
+360
+17
+Điện_tử - Viễn_thông
+161
+17
+Đo ĐH West of England cấp bằng
+Công_nghệ_thông_tin
+162
+17
+Quản_trị kinh_doanh
+461
+18
+Điện_tử - Viễn_thông
+163
+17
+Khoa_Kinh tế - ĐH Quốc_gia TP.HCM
+Kinh_tế_học
+401
+16
+Kinh_tế đối_ngoại
+402
+A : 21.5
+D : 20.5
+Kinh_tế công_cộng
+403
+15
+Tài_chính - Ngân_hàng
+404
+19.5
+Kế_toán - Kiểm_toán
+405
+A : 21.5
+D : 20.5
+Hệ_thống thông_tin quản_lý
+406
+16
+Luật kinh_doanh
+501
+17
+Luật thương_mại quốc_tế
+502
+16
+QUỐC_DŨNG

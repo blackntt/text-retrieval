@@ -1,0 +1,10 @@
+﻿ Samsung xuất_xưởng chip đồ_họa PC nhanh_nhất
+Tập_đoàn điện_tử Samsung , nhà_cung_cấp DRAM số 1 , đã bắt_đầu tung ra thị_trường hàng_loạt bộ_nhớ GDDR4 cho card đồ_họa . GDDR4 là bộ_nhớ DRAM nhanh_nhất cho máy_vi_tính PC , giúp tăng đến 33% tốc_độ xử_lý hình_ảnh .
+Chip đồ_họa GDDR4 ( chuỗi 4 bộ_nhớ đồ_họa loại mật_độ kép ) tiết_kiệm tới 45% năng_lượng so với GDDR3 , “ tiền_bối ” của bộ đồ_họa nhanh_nhất . Khuynh_hướng giảm tiêu_thụ năng_lượng này rõ_ràng là ưu_điểm nổi_trội . GDDR4 được chế_tạo dựa trên công_nghệ xử_lý 80nm và có tốc_độ xử_lý dữ_liệu tối_đa là 2,4 Gbit / s . Trong khi đó , GDDR3 chỉ có tốc_độ là 2,0 Gbit / s .
+Bộ_nhớ 512Mbit GDDR4 sẽ được chế_tạo trong cấu_hình bus dữ_liệu 32-bit . Để hỗ_trợ tốc_độ thực_hiện lệnh nhanh hơn_nữa , nó sử_dụng chuẩn JEDEC cho việc giảm tạp_âm tín_hiệu , có cả việc đảo bus dữ_liệu .
+Các đặc_điểm kỹ_thuật cho bộ_nhớ tốc_độ cao đã được phát_triển riêng từ các công_ty gia_tốc đồ_họa như_là Nvidia và ATI . Nvidia và ATI đều gắn trong Samsung 80nm GDDR4 . ATI hy_vọng sẽ tung ra thị_trường card đồ_họa R580 + . Card này cơ_bản vẫn là R580 ( Radeon X1900 ) ASIC với bộ_nhớ GDDR4 được gắn vào R520 và R580 . Nvidia cũng dự_kiến có GDDR4 trong thế_hệ GPU tiếp_theo .
+Tuy_nhiên Samsung không phải là nhà_sản_xuất duy_nhất trong thị_trường GDDR4 . Hynix thông_báo rằng họ đã chế_tạo được GDDR4 chạy với tốc_độ lên tới 2,9 Gbit / s .
+Theo Tony_Tamasi , phó_giám_đốc marketing kỹ_thuật của Nvidia : “ Công_nghiệp đồ_họa có một nhu_cầu vô_hạn về các bộ_nhớ băng_thông cao và GDDR4 đã sẵn_sàng để trở_thành bước phát_triển tiếp_theo của bộ_xử_lý đồ_họa " .
+Jon_Peddie của công_ty nghiên_cứu thị_trường Jon_Peddie_Research , nói : " So với năm 2005 , nhu_cầu về bộ_nhớ hiệu_suất cao đã tăng 15% và GDDR4 sẽ đáp_ứng yêu_cầu đó " .
+Công_ty này dự_đoán rằng thị_trường bộ_nhớ đồ_họa không tích_hợp sẽ tăng_trưởng từ 2,3 tỉ USD năm 2005 lên đến hơn 4 tỉ USD vào cuối năm 2008 .
+Thành_Nam_Theo_Daily_Tech , Electronic_News

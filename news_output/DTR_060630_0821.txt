@@ -1,0 +1,16 @@
+﻿ ĐTDĐ - Chiến_trường mới của Linux !
+Chim_cánh_cụt được dự_báo sẽ gây nên một “ cuộc cách_mạng ” trong lĩnh_vực phần_mềm dành cho điện_thoại_di_động và các thiết_bị cầm tay .
+Theo Eirik_Chambe - Eng , người sáng_lập ra Trolltech - một trong những nền_tảng Linux di_động phổ_biến nhất hiện_nay , thì chắc_chắn trong thời_gian tới , Linux sẽ liên_tục xuất_hiện trên mặt báo và khuấy_đảo thị_trường thiết_bị di_động .
+“ Tôi tin là chúng_ta chỉ mới đang ở giai_đoạn đầu của cuộc cách_mạng ” , Eirik phát_biểu trước thính_giả của cuộc hội_thảo Open_Source_Business . Theo Eirik , “ 5 C” , tức quyền kiểm_soát , khả_năng tùy biến , chi_phí , cộng_đồng và độ phức_tạp là 5 động_cơ để nhà_sản_xuất muốn chuyển sang dùng Linux .
+“ Linux giao toàn_quyền kiểm_soát cho nhà_sản_xuất ” , trong khi Windows_Mobile và Symbian - hai đối_thủ chính của Linux trên thị_trường di_động - đều là hệ_điều_hành độc_quyền kèm theo vô_số quy_định ràng_buộc khắc_nghiệt . Đó là chưa kể tới việc giá của hai phần_mềm này luôn rất đắt .
+Gót chân Asin
+Dẫn lại việc Siemens bán đứt bộ_phận di_động cho BenQ hồi năm_ngoái , Eirik cho rằng đây chỉ là một trong vô_số trường_hợp mà các nhà_sản_xuất phải bỏ_cuộc giữa_chừng do quá đau_đầu với hệ_điều_hành độc_quyền . “ Sự rắc_rối và phức_tạp của phần_mềm đã trở_thành gót chân Asin của ngành công_nghiệp điện_thoại_di_động ngày_nay ” .
+Nhận_thức được điều đó , nhiều đại_gia đã rục_rịch quay sang dùng Linux , mà Nokia có_thể coi là gương_mặt tiên_phong . Model_Tablet PC 770 của hãng sử_dụng hoàn_toàn hệ_điều_hành nguồn mở , không có tính_năng điện_thoại nhưng trang_bị đầy_đủ những chức_năng văn_phòng , quản_lý và lướt web .
+Tuy có nhiều ưu_thế về độ linh_hoạt so với phần_mềm độc_quyền , song cũng không_thể phủ_nhận Linux vẫn tồn_tại nhiều thiếu_sót . Trước_hết , những mẫu Smartphone_Linux hiện có gần_như bị “ cô_lập ” vì thiếu một môi_trường ứng_dụng chuẩn_hóa .
+Điều này có nghĩa_là các hãng phần_mềm thứ_ba sẽ không_thể viết được những ứng_dụng tiện_ích dành cho thiết_bị Linux giống như với Windows_Mobile hay Symbian được . Ngoài_ra , cấu_hình phần_cứng mà Linux đòi_hỏi cũng quá cao để có_thể phù_hợp với những mẫu điện_thoại sơ_cấp , giá rẻ .
+Quan_tâm nghiêm_túc
+Mặc_dù vậy , một liên_minh mới_đây giữa các nhà_sản_xuất với mạng di_động ( gồm cả Vodafone ) có_thể là bước_đi quan_trọng trong việc Linux hóa thị_trường di_động .
+“ Một_khi một đại_gia như Vodafone cũng bày_tỏ sự quan_tâm của mình đối_với Linux , bạn cần hiểu cơ_hội của Linux là có thật , dẫu rằng Vodafone chưa hề tiết_lộ họ sẽ ứng_dụng hay hỗ_trợ Linux như_thế_nào ” , nhà_phân_tích Tony_Cripps nói .
+Vài tháng trở_lại đây , Linux đột_nhiên trở_nên phổ_biến trong dòng điện_thoại smartphone của châu Á . Song ông Eirik dự_đoán là với con điện_thoại nghe nhạc ROKR_E2 sắp ra_mắt của Motorola , thị_trường châu Âu cũng sẽ đón_nhận điện_thoại Linux nồng_nhiệt .
+Trolltech chính là hãng phát_triển nền_tảng ứng_dụng có tên Qtopia dành cho các thiết_bị nhúng .
+Theo Thiên Ý_Viet NamNet/CNET

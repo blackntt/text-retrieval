@@ -1,0 +1,17 @@
+﻿IPTV sẽ là ngành công nghiệp tiền tỷ trong 3 năm tới
+
+Hiện nay, nhiều hãng truyền thông lớn đã quyết định đầu tư mạo hiểm cho IPTV và truyền hình tương tác. 
+Nguyên nhân thôi thúc họ đặt cược vào một dịch vụ thu hút chưa đến 10 triệu thuê bao trên toàn cầu đơn giản chỉ là tiềm năng lợi nhuận của nó quá lớn. 
+IPTV (Internet Protocol Television) là dịch vụ truyền tải hình ảnh kỹ thuật số tới người sử dụng qua giao thức Internet với kết nối băng thông rộng. Nó thường được cung cấp kết hợp với VoIP, video theo yêu cầu... nên còn được gọi là công nghệ tam giác (dữ liệu, âm thanh và hình ảnh). 
+Nhưng trong một môi trường mà thách thức nhân lên theo cấp số mũ và công nghệ phải liên tục được cập nhật, bộ ba dịch vụ nói trên đã chuyển thành bộ tứ khi có thêm xem truyền hình Internet qua điện thoại di động. 
+Khả năng của IPTV gần như là vô hạn và nó hứa hẹn mang đến những nội dung kỹ thuật số chất lượng cao như video theo yêu cầu (VoD - Video on demand), hội thảo, truyền hình tương tác/trực tiếp, game, giáo dục từ xa, video blogging (vlog), tin nhắn nhanh qua TV... 
+Dù cơ sở khách hàng còn nhỏ bé và mới đang trong giai đoạn đầu phát triển, hơn 240 nhà cung cấp dịch vụ đã phát hành IPTV. Tính đến tháng 1-2006 đã xuất hiện 1.200 kênh truyền hình miễn phí trên Internet. 
+Công ty nghiên cứu thị trường Infonetics (Mỹ) dự đoán số người sử dụng IPTV sẽ tăng lên 53,7 triệu và đạt doanh thu 44 tỷ USD vào năm 2009. Hãng ABI Research còn mạnh dạn hơn khi tuyên bố sẽ có khoảng 120 triệu thuê bao vào năm 2010. 
+Châu Âu, Trung Đông và châu Á sẽ là những khu vực dẫn đầu về doanh thu IPTV. Riêng châu Á - Thái Bình Dương hiện thu hút vỏn vẹn một triệu khách hàng nhưng hãng nghiên cứu thị trường IDC khẳng định con số này sẽ tăng lên 20 lần trong vòng 3 năm tới. 
+Trước đây, công nghệ này gần như không thể hoạt động được do tốc độ kết nối quay số quá chậm. Nhưng trong vài năm nữa, IPTV sẽ trở nên thịnh hành bởi hơn 100 triệu hộ gia đình trên toàn thế giới đã đăng ký thuê bao băng thông rộng. Các nhà cung cấp dịch vụ coi IPTV như một cơ hội để tăng doanh thu trên thị trường và là vũ khí lợi hại chống lại sự bành trướng của truyền hình cáp. 
+Nhiều công ty viễn thông đang tận dụng cơ sở hạ tầng sẵn có để phân phối IPTV, nhưng bài toán đặt ra là làm sao để đáp ứng đủ nhu cầu về băng rộng. Hiện tại, một số công nghệ nén mới nhất đã có mặt trên thị trường, giúp họ dễ dàng truyền tải video theo định dạng MPEG-4 chất lượng cao. 
+Một vấn đề khác là lợi nhuận trung bình còn tương đối thấp và niềm hy vọng được đặt vào doanh thu quảng cáo. Tuy nhiên, nhiều chuyên gia phân tích nghi ngờ tính hiệu quả của việc quảng bá thương hiệu trên IPTV do người sử dụng có thể tua nhanh hoặc thực hiện bất cứ thao tác nào để không phải tốn thời gian xem những đoạn họ không thích. 
+Một số hãng cung cấp dịch vụ cũng đang dự định phát sóng chương trình kèm quảng cáo đối với thuê bao giá rẻ, như dưới 25 USD/tháng và cung cấp nội dung không có hoặc có rất ít quảng cáo cho những thuê bao chịu trả trên 80 USD. 
+Theo đó, phát triển song song với hiện tượng "văn hóa clip", IPTV sẽ mang đến cho khán giả một cái nhìn đa chiều cùng những hình thức giải trí và cập nhật thông tin phong phú, đa dạng. Mọi người có thể truy cập tại nhà, văn phòng, trên đường đi, thậm chí cả... trên trời bởi năm ngoái, hãng hàng không Singapore đã cung cấp dịch vụ IPTV cho một số chuyến bay nhất định.
+
+Theo VNExpress

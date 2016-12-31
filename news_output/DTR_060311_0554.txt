@@ -1,0 +1,7 @@
+﻿ Mã_hóa kép cho máy_tính_xách_tay
+Công_ty Seagate và Secude ( Thụy_Sỹ ) cùng hợp_tác phát_triển loại laptop “ uy_lực ” , được trang_bị tính_năng an_ninh mạnh_mẽ , mã_hóa toàn_bộ ổ_cứng và phần_mềm để dễ_dàng quản_lý mật_khẩu riêng .
+Theo công_ty chuyên sản_xuất ổ_cứng Seagate , loại máy_tính_xách_tay này sử_dụng ổ_cứng ( hard drive ) đã được mã_hóa 5400 FDE ( full-disk encryption ) để khóa dữ_liệu . Hard drive sẽ tự_động mã_hóa tất_cả dữ_liệu trong ổ , tăng thêm độ an_toàn cho hệ_thống . Seagate còn cho_biết , loại ổ_cứng này có_thể được xóa từ xa .
+Laptop được mã_hóa kép sử_dụng phần_mềm quản_lý truy_cập có tên TiDoCoMi của công_ty Secude . Với phần_mềm này , các nhà quản_trị hệ_thống có_thể kiểm_soát các tính_năng an_ninh bổ_sung khác , như thẻ thông_minh , hệ_thống ID sinh trắc học . TiDoCoMi lưu các mật_khẩu .
+Công_ty sản_xuất phần_mềm Secude cũng vừa tung ra một_số phần_mềm an_ninh . Ứng_dụng Secude_Secure_Notebook 7.1.1 giúp mã_hóa toàn_bộ ổ_cứng và khóa tất_cả dữ_liệu trên các thiết_bị lưu_trữ bên ngoài , Secude giới_thiệu . Phần_mềm này có_thể được cấu_hình chỉ cho_phép truy_cập bằng thẻ thông_minh .
+Phần_mềm Secure_Mail 4.0 của Secude giúp các nhà quản_trị tạo các quy_định cho nh ững ai có_thể đọc thư ( mail ) mã_hóa .
+S.Hương Theo Tech World

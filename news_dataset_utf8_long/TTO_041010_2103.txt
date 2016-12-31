@@ -1,0 +1,8 @@
+﻿Xét nghiệm máu bằng "Môbai"
+
+LG KP84000 là tên của sản phẩm độc nhất này và được thiết kế như là một tiện ích dành cho những người bị bệnh tiểu đường. 
+Để có thể kiểm tra lượng đường trong máu của mình người sử dụng sẽ nhỏ một vài giọt máu lên 1 dải giấy thử. Sau đó đưa vào một khe hở nhỏ (đặt ở gần bộ phận chứa Pin của máy), bên trong khe có gắn một cảm biến và nó sẽ phân tích mẫu máu vừa được đưa vào. Sau khi phân tích, ĐTDĐ sẽ hiển thị các thông số về lượng đường trong máu trên màn hình điện thoại để bạn đọc các thông tin. 
+Các dữ liệu sẽ được lưu lại hay Upload lên cơ sở dữ liệu Online để xem lại sau này. Tuy có kích thước khá lớn về bề rộng (do phải thiết kế cả Pin và cảm biến) nhưng bù lại máy lại rất nhẹ chỉ có 85g, màn hình bên trong TFT 262 K màu, màn hình bên ngoài STN 65 K màu, Camera CIF ( 352 288 Pixel ) gắn trong, chuông 64 âm sắc. 
+Sản phẩm này được phát triển bởi Công ty trang thiết bị chắm sóc sức khỏe Heathpia và nó có giá khoảng 380 USD tại Hàn Quốc. Có thể nói với những người bị bệnh tiểu đường thì việc kiểm tra lượng đường trong máu là một việc làm hết sức thường xuyên và cần thiết do đó LG KP8400 chắc chắn sẽ được người tiêu dùng hoan nghênh.
+
+CHÁNH TRUNG

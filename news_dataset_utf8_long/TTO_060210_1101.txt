@@ -1,0 +1,27 @@
+﻿Khám phá chỉ số FEA
+
+Qui ước : Với mỗi câu hỏi chúng tôi đưa ra ở mỗi phần, bạn hãy lựa chọn duy nhất một đáp án phù hợp với bạn nhất. Tương ứng với mỗi đáp án là một số điểm khác nhau. 
+Ở mỗi phần, sau khi check xong, hãy tổng kết số điểm mà bạn đạt được. Sau cùng, bạn áp dụng “công thức bí mật” được “bật mí” ở cuối bài test để tìm ra chỉ số FEA cho riêng mình. 
+Bảng điểm phần 1: 
+Hãy cộng số điểm của 4 câu trên lại, để có số F: ................../20đ. 
+Bảng điểm phần 2: 
+Hãy cộng số điểm của 5 câu trên lại, rồi nhân lên cho 2 để có số E: ................/50đ. 
+Bảng điểm phần 3: 
+Hãy cộng số điểm của 5 câu trên lại, rồi nhân lên cho 2 để có số A: .............../50đ. 
+Công thức: 
+Chỉ số thân thiện, hòa đồng (FEA) = F + 2E + 2A = .........../120đ. 
+Đoán tính cách qua chỉ số FEA: 
+Từ 30 điểm trở xuống 
+Bạn là người quá kín đáo, không thích giao lưu với mọi người. Bạn cũng hơi thiếu tự tin và vì suy nghĩ rất lí trí nên đôi khi bạn quên mất rằng có những chuyện cần trái tim nhiều hơn là bộ não. 
+Bạn bè: Bạn bè không những không làm bạn vui vẻ, mà ngược lại còn mang đến cho bạn sự phiền phức. Nếu suy nghĩ như thế thì bạn khó mà có được những người bạn tốt. 
+Từ 31 đến 60 điểm 
+Bạn là một người trầm tính vì thế mọi người có thể cho rằng thật khó thân thiện với bạn. Không thích có những thay đổi trong cuộc sống và bạn thấy khó chịu khi những người xung quanh mình thay đổi (hơ hơ). Tuy nhiên, bạn có tính thương người. 
+Bạn bè: Khi bạn bè gặp khó khăn, bạn khó có thể đưa ra những ý kiến hay, dần dần bạn bè thường không có lòng tin vào bạn. 
+Từ 61 đến 90 điểm 
+Tự nhiên, thân thiện và thực tế là những ưu điểm của bạn. Bạn dễ hòa đồng, dễ thích nghi với môi trường và những người bạn mới. Vì vậy, ai mới quen cũng sẵn sàng bỏ cả tiếng đồng hồ để “tám” với bạn. 
+Bạn bè: Bạn luôn dành nhiều thời gian và tâm huyết cho việc học nên bạn bè “cần phải” hết sức thông cảm cho bạn. Tuy nhiên nếu đã chơi thì bạn sẵn sàng chơi hết mình. 
+Từ 91 điểm trở lên 
+Bạn là người lạc quan, vui tính, năng động, khoan dung, thân thiện, đồng thời biết tôn trọng người khác. Bạn luôn là trung tâm của mọi cuộc vui. Vì bạn ngọt ngào như một cây kẹo mút dzậy nên rất dễ tiếp cận và làm quen với bạn. 
+Bạn bè: Bạn quan niệm đã là bạn thì đôi bên cùng có lợi, cả hai phải độc lập. Chính điều này bạn bè đều cảm thấy thoải mái, vui vẻ khi ở bên bạn.
+
+Theo Mực tím

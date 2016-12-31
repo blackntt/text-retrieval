@@ -1,0 +1,6 @@
+﻿ Máy_tính_xách_tay với pin nhiên_liệu 14 giờ
+Công_ty UltraCell ( California , Mỹ ) vừa ra_mắt một mẫu pin có trọng_lượng 0,9 kg tại diễn_đàn các nhà_phát_triển Intel ( IDF ) , hỗ_trợ laptop hoạt_động liên_tục trong gần 15 giờ .
+William_Hill , Phó_giám_đốc thị_trường của UltraCell , khẳng_định những mẫu máy_tính này sẽ có_mặt trong năm 2007 với giá chưa đến 500 USD .
+Sản_phẩm của UltraCell , sử_dụng chất methanol , có_giá khoảng 4 USD/bình . Những bình methanol này có_thể được tái_sản_xuất . Pin nhiên_liệu chuyển_đổi oxy và hydro thành nước và điện_năng . Tuy_nhiên , sự phức_tạp cùng chi_phí_sản_xuất cao đã khiến chúng chưa_thể xuất_hiện trên thị_trường . Hiện_nay , nhiều nhà_nghiên_cứu đang tìm cách ứng_dụng công_nghệ trong ôtô , điện_thoại_di_động và nhiều thiết_bị điện_tử khác .
+Trong khi đó , Intel tỏ ra thận_trọng khi nói về tương_lai của pin nhiên_liệu . Hãng sản_xuất chip không mấy tin_tưởng rằng máy_tính_xách_tay sử_dụng công_nghệ này sẽ phát_triển sớm . Họ vạch ra nhiều thách_thức như những cản_trở về phân_phối , điều_tiết , giấy_phép chấp_thuận cho sử_dụng trên máy_bay ... và khẳng_định pin nhiên_liệu sẽ phải mất ít_nhất 10 năm nữa mới có_thể thịnh_vượng .
+Theo T . N . VnExpress/CNet

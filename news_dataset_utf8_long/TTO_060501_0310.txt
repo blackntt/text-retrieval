@@ -1,0 +1,6 @@
+﻿Trojan cũng “bắt cóc tống tiền”!
+
+Trojan mang tên Ransom-A này khi tấn công máy tính sẽ lập tức giấu dữ liệu vào một số thư mục ẩn, đồng thời hiện thông báo đe dọa cứ cách 30 phút sẽ... “xử” một “con tin” nếu người chủ xấu số không chịu trả 10,99 USD, kèm theo đó là hướng dẫn đầy đủ cách nộp “tiền chuộc”... 
+Các chuyên gia Sophos khuyến cáo mọi người nên sao lưu dữ liệu thường xuyên hơn để đề phòng. Tháng trước, chính Sophos cũng đã phát hiện một trojan khác (mang tên Zippo) cũng tấn công đòi tiền chuộc. Các chuyên gia của hãng sau đó đã vô hiệu hóa được trojan này và công bố mật mã để người có máy tính bị nhiễm mở khóa dữ liệu của mình.
+
+NGUYỄN HOÀNG MINH (Theo Sophos.com)

@@ -1,0 +1,11 @@
+﻿ SV làm phần_mềm : càng sớm càng tốt !
+- Chúng_tôi có nhiều sản_phẩm do SV làm ứng_dụng vào việc quản_lý mà đến nay khoa vẫn đang dùng . Những sản_phẩm này có ý_nghĩa lớn về mặt học_thuật , đóng_góp cho xã_hội nhưng tiếc là hiệu_quả kinh_tế không có . Riêng sản_phẩm đầu_tiên của Tiến và Anh thì lỗ ! Làm phần_mềm lấy công làm lời thôi . Ngay khi sản_phẩm này tung ra thị_trường , hacker đã có_thể mở khóa được , muốn bít lỗ_hổng thì cần kinh_phí quá lớn .
+Sản_xuất là một chuyện , đưa nó vào thị_trường là cả một vấn_đề ? Và SV được khuyến_khích , tận_dụng như_thế_nào để tham_gia quá_trình đó ?
+- Đúng là cả vấn_đề . Ví_dụ qui_trình làm sản_phẩm đến khi ra thị_trường là 10 phần . Chúng_tôi nhuần_nhuyễn tám phần , nghĩa_là những phần kỹ_thuật . Hai phần còn lại là hoàn_thiện : chẳng_hạn bao_bì , đóng_gói , marketing ... thì đó không phải “ nghề ” .
+Tiê ́ n si ̃ Dương_Anh_Đư ́ c Song chúng_tôi hiện đang có hai hướng : một , chủ_động nguồn nghiên_cứu ; hai , làm theo đơn đặt_hàng của các đơn_vị . Trong các dự_án phần_mềm , SV đóng vai_trò rất quan_trọng : có ý_tưởng , thiết_kế và thực_hiện . Sức SV làm_tới đâu , chúng_tôi để SV thoải_mái đến đó , không có hạn_chế nào .
+Thưa tiến_sĩ , xưởng sản_xuất phần_mềm của khoa được đầu_tư kinh_phí 6,8 tỉ đồng , chủ_yếu dành cho giảng_viên , còn SV mới chỉ tham_gia chừng_mực ?
+- Xưởng phục_vụ nghiên_cứu của nhiều đối_tượng nên phải tính ưu_tiên . Hiện có 40 chỗ dành cho SV , chiếm khoảng 10% số SV của khoa , thường là những nhóm nghiên_cứu có triển_vọng . Song có nhiều SV rất năng_động .
+Như trường_hợp một SV năm 3 lên xin được hướng_dẫn . Ban_đầu tôi không chấp_nhận vì thấy game là một hướng khó triển_khai . Nhưng bạn trẻ này rất kiên_trì , cuối_cùng đã thuyết_phục được tôi . Bây_giờ sản_phẩm đó đã được áp_dụng tại một công_ty . SV đó giờ “ ngon_lành ” lắm .
+Thế 90% SV còn lại chỉ học lý_thuyết ?
+- Số SV còn lại cũng làm đề_tài phần_mềm , điều này là bắt_buộc . Gần đây chúng_tôi cũng “ bù_đắp ” bằng cách liên_kết với gần chục công_ty , đơn_vị sản_xuất để SV thực_tập làm phần_mềm , giải_quyết thêm được 5% SV nữa .
+ĐẶNG_TƯƠI thực_hiện

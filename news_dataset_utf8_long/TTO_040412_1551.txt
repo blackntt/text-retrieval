@@ -1,0 +1,17 @@
+﻿Tăng tốc cho Từ điển mtd2002
+
+Chắc hẳn các bạn rất bực mình mỗi khi khởi động mtd2002 thì có một bảng thông báo “chình ình” yêu cầu bạn cho biết đường dẫn của thư viện multimedia và bạn phải mất công bấm Cancel. Để bỏ bảng thông báo này chúng ta có thể làm bằng 2 cách sau: 
+- Chép tập tin LVMEDIA.MIT từ thư mục Data\Media trên đĩa cài vào thư mục x:\data\media với x là đường dẫn thư mục cài mtd2002, thường là C:\Program Files\mtd2002. 
+Ưu điểm của cách làm này là sau khi chép tập tin trên chúng ta sẽ có thêm một thư viện trong mtd đó là thư viện hình. Khuyết điểm là nó sẽ làm thời gian khởi động của mtd2002 lâu hơn, và thực ra không phải ai cũng cần dùng đến thư viện đó. 
+- Tạo một tập tin LVMEDIA.MIT (không cần nội dung chỉ cần trùng tên) trong thư mục x:\data\media với x là đường dẫn như trên. 
+Ưu điểm rất rõ là mtd2002 sẽ không “la làng” mỗi khi ta khởi động nữa, và thời gian khởi động sẽ nhanh hơn. Khuyết điểm tương đối nhỏ, đó là chúng ta sẽ không truy cập được thư viện hình. 
+Tăng tốc khởi động 
+- Bỏ bớt các từ điển không dùng: Chúng ta có thể bỏ bằng cách xóa tập tin tương ứng hay chuyển tập tin đó qua một thư mục tạm để khi có nhu cầu có thể sử dụng được, đó là các tập tin: 
+Lvcom2002.dit: đây là từ điển chuyên ngành máy tính. 
+Lven2000.dit : đây là từ điển Anh-Anh của Webster, bản thân tôi cảm thấy từ điển này trình bày khá ư là nghiệp dư so với 2 bộ từ điển Anh-Việt và Việt-Anh cùng trong bộ mtd2002 và nếu các bạn muốn tra từ điển Anh-Anh thì phần mềm Babylon Pro 4.0 có thể làm việc tốt hơn nhiều. 
+- Chọn loại giao diện mtd2002 khởi động: Bình thường thì khi mtd2002 được cài xong sẽ có shortcut chính là tập tin mtd2002EVA.exe. Tập tin này khi chạy sẽ hiển thị một giao diện đầy màn hình để ta tra từ điển cùng với một icon trên taskbar. Nếu các bạn thích nhanh thì có thể thay thế shortcut trên bằng shortcut tới mtdshelf.exe, tập tin này khi chạy sẽ chỉ tạo một icon ở system tray. Lúc này bạn có thể dùng tính năng AutoLookup để tra từ trong ứng dụng khác, double click chuột trái lên icon để hiện cửa sổ QuickView hay click chuột phải chọn LacViet mtd2002-EVA để trở lại giao diện đầy màn hình. 
+- Một số thứ linh tinh khác: Có thể bỏ thư mục x:\BKGBMP (x là đường dẫn như đã nói trên). Đây là thư mục chứa các hình nền để chúng ta thay đổi giao diện cho mtd2002. Có thể việc bỏ này không làm chương trình khởi động nhanh hơn, nhưng sẽ giúp tiết kiệm khoảng 6 MB dĩa cứng. 
+Ngoài ra, chúng ta có thể bỏ việc nạp tập tin mtdserver.exe trong phần Startup (đây là tập tin để mtd2002 tạo một kết nối trước đến nơi chứa từ điển), điều này chỉ có ích khi bạn không thường xuyên sử dụng mtd2002 và muốn Windows khởi động càng nhanh càng tốt. 
+Thực hiện bằng cách vào Start &gt; Run, gõ regedit và bấm OK, sau đó tới khóa HKEY_CURRENT_USER\ SOFTWARE\ Microsoft\Windows\ CurrentVersion\ Run và xóa mục mtd2002Svr ở khung bên phải.
+
+Theo LBVMVT

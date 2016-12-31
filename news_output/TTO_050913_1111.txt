@@ -1,0 +1,8 @@
+﻿ Danh_sách trúng_tuyển và điểm_chuẩn NV2 ĐH Cần_Thơ
+Đây là điểm không nhân hệ_số , áp_dụng đối_với học_sinh phổ_thông - khu_vực 3 , điểm chênh_lệch giữa hai nhóm đối_tượng kế_tiếp là 1 điểm , giữa hai khu_vực kế_tiếp là 0.5 điểm .
+- Khối A : các ngành Thủy_công đồng_bằng ( mã ngành 106 ) có điểm_chuẩn : 16 điểm ; Kỹ_thuật môi_trường ( 109 ) : 16.5 điểm ; Cơ_khí bảo quản_chế nông_sản thực_phẩm ( 116 ) : 15 điểm ; Quản_lý công_nghệ ( 117 ) : 15 điểm ; Hóa_học ( 204 ) : 18.5 điểm ; Hoa_viên và cây_cảnh ( 315 ) : 15 điểm ; Kinh_tế nông_nghiệp ( 404 ) : 15.5 điểm ; Quản_lý nghề cá ( 407 ) : 15 điểm ; Luật ( 501 ) : 16 điểm .
+- Khối B : các ngành Trồng_trọt ( 302 ) : 17 điểm ; Khoa_học đất ( 313 ) : 16.5 điểm .
+- Khối C : các ngành Ngữ_văn ( 604 ) : 15 điểm ; Sư_phạm Giáo_dục công_dân ( 605 ) : 15 điểm ; Du_lịch ( 606 ) : 15 điểm .
+- Khối D : ngành Sư_phạm Pháp ( 703 ) : 15,5 điểm .
+- Hệ_Cao đẳng Tin_học ( C65 ) : 13 điểm .
+PHẠM_DIỄM
