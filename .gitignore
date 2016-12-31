@@ -1,6 +1,6 @@
-.settings
-bin
+.settings/*
+bin/*
 tokenizer.log
 tokenizer.log.1
 tokenizer.log.lck
-project
+project/*
