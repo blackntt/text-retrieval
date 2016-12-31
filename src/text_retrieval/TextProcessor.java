@@ -86,8 +86,6 @@ public class TextProcessor {
 	 * @return string - "" if the input is a stop word
 	 * */
 	private static String removeStopWord(String str){
-		/*String[] stopwords = {" ", ",",".","!","\"",";",":","(",")","...","?","“","…","”","-"," ","?","&","/","\\"," ",
-				" ","_"};*/
 		String[] stopwords = UTF8FileUtility.getLines(REMOVED_WORDS_FILE);
 		
 		for (String stopw:stopwords) {
