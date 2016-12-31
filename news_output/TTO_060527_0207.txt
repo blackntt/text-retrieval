@@ -1,6 +1,0 @@
-﻿ Hải_quan cải_tiến thủ_tục thông_quan hàng_hóa
-Trong trường_hợp có nhiều công_chức HQ cùng thực_hiện trong một bước của qui_trình thủ_tục , thì công_chức HQ thực_hiện khâu cuối_cùng sẽ ký xác_nhận hoặc công_chức do lãnh_đạo HQ chỉ_định sẽ đảm_trách nhiệm_vụ này .
-Cũng theo qui_trình mới , năm bước thủ_tục cơ_bản để thông_quan hàng_hóa đã được sắp_xếp lại , gồm : tiếp_nhận hồ_sơ , kiểm_tra sơ_bộ , đăng_ký tờ khai , quyết_định hình_thức và mức_độ kiểm_tra ; kiểm_tra chi_tiết hồ_sơ , giá , thuế ; kiểm_tra thực_tế hàng_hóa ; thu lệ_phí HQ , đóng_dấu “ đã làm thủ_tục HQ” và trả hồ_sơ ; cuối_cùng là phúc tập hồ_sơ .
-Trao_đổi với một cán_bộ phòng nghiệp_vụ ( Cục HQ_TP . HCM ) cho_biết qui_trình mới có cải_tiến , đó là việc quyết_định hình_thức và mức_độ kiểm_tra được thực_hiện ngay từ bước một , thay_vì chia ở hai bước như qui_trình cũ ( đề_xuất ở bước 1 nhưng lãnh_đạo quyết_định ở bước 4 ) , hạn_chế được tình_trạng hồ_sơ phải chạy lòng_vòng nếu xảy_ra trục_trặc .
-Đặc_biệt , theo qui_trình mới , thẩm_quyền quyết_định thông_quan hàng_hóa và ký vào hồ_sơ thông_quan hàng_hóa đều do cán_bộ công_chức quyết_định . Với qui_trình mới này , lãnh_đạo HQ không còn phải tốn nhiều thời_gian cho việc ký hồ_sơ , tránh hiện_tượng lãnh_đạo HQ phải ký đến ... 4.000 chữ_ký mỗi ngày như trước_đây .
-H . ĐĂNG

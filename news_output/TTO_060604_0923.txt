@@ -1,7 +1,0 @@
-﻿ Vì_sao không nên sử_dụng ĐTDĐ tại các trạm xăng ?
-PGS-TS LÊ_TIẾN_THƯỜNG ( ảnh - chuyên_ngành điện_tử - viễn_thông , ĐH Bách_khoa - ĐH Quốc_gia TP.HCM ) :
-- Hầu_hết ĐTDĐ đều có bộ_phận thu phát_sóng vô_tuyến với công_suất 800-900 MHz , gần bằng với sóng của lò_vi_ba ( nấu chín thức_ăn bằng sóng với tần_số lớn ) . Khi ĐTDĐ ở trạng_thái chờ , tín_hiệu thu phát vẫn hoạt_động nhưng công_suất thấp .
-Khi điện_thoại đổ chuông và bấm kết_nối , công_suất của ĐTDĐ tăng mạnh lên nhiều lần mới có_thể kết_nối với trạm gốc và nối_mạng về trung_tâm . Trong điều_kiện không_khí bình_thường thì điều này không có gì nguy_hiểm .
-Thế_nhưng nếu sử_dụng ĐTDĐ ở cây_xăng thì lại khác , do xung_quanh cây_xăng luôn bị bao_bọc bởi lớp hơi xăng , hơi gas bốc lên từ quá_trình bơm xăng , dầu . Lớp hơi này tạo thành một đám mây mỏng chứa điện_từ với nhiều ion điện và rất dễ gây cháy nổ . Trong trường_hợp có sự cộng_hưởng , sóng của ĐTDĐ cũng có_thể kích hơi xăng để phát_hỏa .
-Để đảm_bảo an_toàn , tốt nhất nên hạn_chế tối_đa việc kết_nối cuộc_gọi trong khi bơm xăng hoặc tránh xa trạm bơm xăng 2-3m rồi mới nên nhận điện_thoại .
-PV

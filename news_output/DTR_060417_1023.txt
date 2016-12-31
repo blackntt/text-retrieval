@@ -1,7 +1,0 @@
-﻿ Google cải_tiến tìm_kiếm nhờ thuật_toán Orion
-Trong nỗ_lực nhằm cải_thiện mức_độ chính_xác của kết_quả search , Google đã mua lại thuật_toán tìm_kiếm mới của sinh_viên người Israel , học tại ĐH New_South_Wales , Úc .
-Giải_thuật có tên Orion của cậu sinh_viên Allon , 26 tuổi , cho_phép giảm bớt thời_gian tìm_kiếm bằng cách tập_trung vào sự liên_quan trong các tìm_kiếm văn_bản .
-Ý_tưởng của thuật_toán này là nếu người dùng có_thể nhanh_chóng tìm thấy thông_tin phù_hợp thì họ có_thể tiết_kiệm thời_gian cần_thiết để duyệt qua các trang_web không phù_hợp với các tìm_kiếm của mình .
-Do khả_năng hoạt_động với các công_cụ tìm_kiếm hiện_tại nên Orion có_thể mở_rộng chức_năng và làm cho các công_cụ này trở_nên linh_hoạt hơn mà không phải thay_đổi những gì đã có .
-Thay_vì tìm_kiếm các trang_web chứa các từ_khóa được sử_dụng trong tìm_kiếm của người dùng và cung_cấp các liên_kết dựa trên những từ_khóa này , thuật_toán mới có_thể cung_cấp một đoạn văn_bản kèm theo kết_quả trả về . Về mặt lý_thuyết , phương_pháp này sẽ tránh cho người dùng phải xem tất_cả các trang_web mà nhìn qua có_vẻ phù_hợp với tiêu_chí tìm_kiếm
-Một ưu_điểm tiềm_tàng khác của thuật_toán này là nó có khả_năng cung_cấp một danh_sách các chủ_đề liên_quan tới tìm_kiếm của người dùng , do_đó có_thể giảm thời_gian tìm_kiếm bằng cách giảm sự cần_thiết phải tra_cứu trên một tập_hợp từ_khóa đa_dạng . Theo AI VietNam/Toptechnews

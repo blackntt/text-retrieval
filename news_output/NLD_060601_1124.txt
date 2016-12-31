@@ -1,9 +1,0 @@
-﻿ Trojan dùng " sex " để nhử mồi
-Người dùng được hứa_hẹn cung_cấp truy_cập miễn_phí tới các nội_dung " mát_mắt " nhưng cuối_cùng lại phát_hiện thấy mình đang bị ... tống_tiền .
-Sử_dụng những trang_web khiêu_dâm đầy hấp_dẫn làm mồi nhử , chương_trình spyware mới đã âm_thầm lây_nhiễm vào hệ_thống rồi trơ_trẽn đòi người dùng phải mua chương_trình ... tiêu_diệt chính nó .
-Theo hãng bảo_mật Panda_Software , Trojan_Digi KeyGen đánh trúng điểm yếu trong tâm_lý người dùng khi dụ_dỗ họ bằng những mật_khẩu ( được cho là ) sẽ truy_cập được vào nhiều website xxx trả tiền . Nhưng khi click vào file đính kèm , một chương_trình spyware và một ứng_dụng diệt spyware cũng tự_động cài_đặt vào máy_tính mà người dùng không hề hay_biết .
-Sau đó , DigiKeyGen sẽ ra_mặt cảnh_báo người dùng rằng máy_tính họ đang nhiễm spyware , và rằng nạn_nhân chỉ có_thể dọn_dẹp sạch_sẽ hệ_thống bằng phần_mềm diệt spyware đi kèm với giá 50 USD .
-" Bạn luôn phải thận_trọng với những lời chào_mời hấp_dẫn , cho không , mà chẳng đòi_hỏi điều gì đổi lại " , Luis_Corrons , giám_đốc Panda_Software nói . Ông Luis cũng nhấn_mạnh lại là kỹ_thuật này của hacker hoàn_toàn không có gì mới_mẻ .
-" Bọn tội_phạm mạng thường áp_dụng những thủ_thuật lừa_đảo rất truyền_thống , rất quen_thuộc nhưng người dùng vẫn bị mắc_lừa . Chủ_yếu vì họ chủ_quan và không hề biết rằng nguy_cơ đang rình_rập mình sau mỗi hành_động tưởng như vô_hại , tì như download một chương_trình nhỏ hoặc truy_cập một website nào_đó " .
-Sáng nay , các hãng bảo_mật cũng đã cảnh_báo người dùng về một Trojan mạo_nhận gửi đi từ Microsoft để đánh_cắp mật_khẩu người dùng . Trojan này nói rằng Microsoft vừa phát_hiện được một lỗ_hổng bảo_mật và chỉ_dẫn cho người nhận cách download miếng vá . Nhưng đường link cung_cấp lại dẫn nạn_nhân tới một website ma và Trojan sẽ tự_động cài_đặt vào máy tại đây .
-Theo VNN

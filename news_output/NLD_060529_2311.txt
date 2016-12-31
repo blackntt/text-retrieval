@@ -1,4 +1,0 @@
-﻿ Game : Kinh_doanh đồ kim_hoàn
-Trong game này , bạn sẽ đóng vai một người thợ kiêm nhà_buôn kim_hoàn . Công_việc của bạn là chế_tác dây_chuyền , vòng đeo tay , bông_tai , nhẫn bằng cách dùng chuột kéo những viên đá_quý ( hồng_ngọc , lam ngọc ... ) lại gần nhau để tạo thành một hàng gồm 3 viên cùng màu trở_lên .
-Bạn có_thể theo_dõi tiến_độ sản_xuất thông_qua Jewelry_Meter . Khi nào Meter chạm đỉnh là sản_phẩm hoàn_tất và có_thể giao cho khách . Bạn phải hoàn_thành sản_phẩm càng sớm càng tốt vì khách_hàng của bạn toàn là VIP , chỉ cần chờ lâu một_chút là họ sẽ cau mặt ngay . Để giúp khách thư_giãn trong khi chờ_đợi , bạn có_thể mời họ dùng sô - cô-la , cà_phê và tặng những món quà nhỏ .
-Khi khách vui , họ sẽ trả_giá cao hơn cho món hàng . Bạn sẽ là người chiến_thắng ở một level nếu bạn đạt được chỉ_tiêu về doanh_thu định ra lúc đầu và phục_vụ hết lượng khách đang đợi . Dung_lượng : 8,82 MB . Download : ftp : / / ftp.gamehouse.com/pub/GemShopInstall.exe

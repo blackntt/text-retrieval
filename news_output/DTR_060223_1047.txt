@@ -1,9 +1,0 @@
-﻿ Bản thử_nghiệm Windows_Vista hoàn_chỉnh ra_mắt
-Microsoft cho_biết bản duyệt trước công_nghệ ( CTP ) lần thứ 4 đã được trang_bị đầy_đủ mọi đặc_điểm cần_thiết và công_ty sẽ không tích_hợp thêm bất_cứ tính_năng nào vào trong hệ_điều_hành thế_hệ mới .
-Bản CTP tháng 2 được thiết_kế chủ_yếu để phục_vụ các doanh_nghiệp muốn giảm_thiểu chi_phí vận_hành và duy_trì hàng trăm_nghìn máy_tính trong công_ty .
-Giống như bộ Widget trong Mac OS_X và Yahoo , Windows_Vista cũng tích_hợp Gadget - những chương_trình được xây_dựng với mục_đích cụ_thể như hiển_thị thời_tiết , thời_gian , ảnh trượt ( slide show ) hay RSS feed từ những website mà người dùng yêu_thích . Tuy_nhiên , không như Widget , chương_trình mới của Vista có_thể di_chuyển tự_do trên desktop hoặc nằm trong Sidebar .
-Microsoft đã giới_thiệu Gadget từ lâu nhưng chưa từng cài trong các bản thử_nghiệm trước đó . Người dùng có_thể làm phong_phú kho chứa Gadget với hàng_loạt chương_trình xuất_hiện trên Live.com .
-Tập_đoàn phần_mềm cho rằng các doanh_nghiệp nên cài CTP 4 như một bước đệm trước khi Vista chính_thức được ra_mắt cuối năm . Theo Microsoft , quá_trình triển_khai thủ_công một hệ_điều_hành trên desktop trong công_ty trung_bình mất khoảng 1.000 USD/PC . Trong khi đó , CTP 4 chứa nhiều công_cụ cải_tiến , hỗ_trợ doanh_nghiệp lên kế_hoạch thử_nghiệm , xây_dựng , thiết_lập và quản_lý Vista chỉ với mức dưới 100 USD .
-Ngoài_ra , nhà_sản_xuất thiết_bị gốc ( OEM ) cũng có_thể tùy biến giao_diện Welcome_Center của Vista thông_qua Start_Menu / Control_Panel và All_Programs .
-Tuy đã hoàn_thiện tính_năng , Microsoft cho_biết họ sẽ " gọt_giũa " hệ_điều_hành khi cung_cấp các bản thử_nghiệm . Windows_Vista CTP 4 được phân_phối theo chương_trình Windows_Vista_Technical_Beta_Program hoặc cho những_ai đăng_ký Microsoft_Developer_Network và TechNet .
-Theo P . T . VnExpress/PCWorld , CNet

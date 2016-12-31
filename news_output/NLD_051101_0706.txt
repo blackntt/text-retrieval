@@ -1,4 +1,0 @@
-﻿ Sub_Commander
-Trong game này , bạn được giao nhiệm_vụ lái tàu_ngầm đến tăng_viện cho quân đồng_minh ở khu_vực phía Đông quần_đảo Solomon .
-Cách điều_khiển con tàu khá đơn_giản . Bạn rê chuột qua phải để tăng_tốc , qua trái để giảm_tốc và click chuột trái để leo qua núi . Trên đường đi , bạn phải cố_gắng vượt qua tất_cả chướng_ngại , bao_gồm núi ngầm , băng trôi , mìn , ngư_lôi , tàu_chiến của đối_phương v . v ... đồng_thời lấy_được càng nhiều phần_thưởng ( bonus ) càng tốt . Game đòi_hỏi bạn phải có sự kiên_nhẫn và khéo_léo vì chỉ cần lạc “ tay_lái ” một_chút là tàu chìm . Sub_Commander có dung_lượng 1,05 MB , chạy trực_tiếp , không cần cài_đặt . Tải bản miễn_phí tại www . miniclip.com/download .
-T . T

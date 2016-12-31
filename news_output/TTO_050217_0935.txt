@@ -1,4 +1,0 @@
-﻿ Viện_Pasrteur TP.HCM : Triển_khai chương_trình giám_sát bệnh cúm
-Các điểm giám_sát gồm BV Nhi trung_ương , Viện Y_học lâm_sàng các bệnh nhiệt_đới , BV Đa_khoa Khánh_Hòa , BV Đa_khoa Đắc_Lắc . Riêng tại TP.HCM có hai đơn_vị là BV Nhi_Đồng 1 và BV Bệnh nhiệt_đới . Chương_trình này nhằm phác_thảo bức tranh về cúm ở VN : bao_nhiêu ca cúm / năm và các chủng virus lưu_hành .
-Ở_VN , cho_đến nay dịch cúm_gia_cầm do chủng virus A/H5N1 đã xảy_ra ba đợt ở người : đợt 1 từ 26-12-2003 đến 10-3-2004 , có 23 trường_hợp mắc - trong đó có 16 ca tử_vong ; đợt 2 từ 19-7 đến 26-8-2004 , có bốn trường_hợp mắc và tất_cả đều tử_vong ; đợt 3 từ 16-12-2004 đến nay , tính riêng khu_vực phía Nam có 11 ca dương_tính ( trong đó có một ca người Campuchia ) , tất_cả đều tử_vong .
-KIM_SƠN

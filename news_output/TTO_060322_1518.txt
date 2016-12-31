@@ -1,6 +1,0 @@
-﻿ Aptech bắt_đầu đào_tạo chuyên_gia Hệ_thống thông_tin
-Đây là chương_trình đào_tạo mới nhất của Aptech , tập_trung vào việc thiết_kế , xây_dựng , quản_lý hệ_thống mạng máy_tính và thiết_lập các tuyến phòng_thủ , chính_sách bảo_mật thông_tin .
-Đối_tượng học_viên là những HSSV yêu_thích Công_nghệ_thông_tin ( CNTT ) có mong_muốn trở_thành chuyên_gia trong lĩnh_vực quản_trị và bảo_mật mạng máy_tính và các chuyên_viên quản_trị mạng máy_tính trong các doanh_nghiệp .
-Chương_trình ACNP kéo_dài 6 tháng , gồm hai học_phần là Quản_trị hệ_thống ( ACNA ) và Bảo_mật thông_tin ( ACSP ) với giáo_trình bằng tiếng Việt . Kết_thúc khóa học , học_viên được cấp chứng_chỉ của Tập_đoàn Aptech ( Ấn Độ ) , đồng_thời được trang_bị các kiến_thức cần_thiết để phục_vụ cho việc thi chứng_chỉ MCSA , MCSE của Microsoft .
-Đặc_biệt , Aprotrain-Aptech cho_biết sẽ ưu_đãi 10% học_phí cho 50 học_viên đầu_tiên nhập_học ACNP . Đối_với các học_viên đã và đang học tại các cơ_sở của Aptech ưu_đãi 20% học_phí . Mọi chi_tiết liên_hệ : Trung_tâm Đào_tạo Lập_trình_viên Quốc_tế Aprotrain-Aptech , 285 Đội_Cấn , Q.Ba Đình , Hà_Nội ; ĐT : ( 04 ) 7623654 ; Email : aptech@aprotrain.com
-AN_KHANH

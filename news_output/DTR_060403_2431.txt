@@ -1,6 +1,0 @@
-﻿ Kỷ_lục mới của mạng di_động đạt 7,2 Mb/giây
-( Dân_trí ) – Cuối tuần qua , hai công_ty Nortel và Qualcomm đã thử_nghiệm thành_công các cuộc_gọi di_động trên mạng băng_thông_rộng HSDPA tốc_độ siêu nhanh 7,2 Mb/giây , tốc_độ nhanh_nhất cho_đến thời_điểm hiện_nay .
-Mạng HSDPA là một giao_thức di_động mới , còn được gọi_là mạng 3,5 G hay 4G , được thiết_kế để nâng tốc_độ truyền dữ_liệu nhanh gấp bốn lần đồng_thời cho_phép số người download không dây trên một trạm phát_sóng nhiều gấp đôi trên một trạm phát_sóng ( cell ) so với mạng hiện UMTS hiện_tại ( Universal_Mobile_Telecommunications_Service ) hay 3G . Khai_thác tối_đa các khả_năng kết_nối mạng hiện_nay , HSDPA giúp giảm chi_phí hoạt_động bằng cách truyền dữ_liệu cho người dùng với tốc_độ siêu nhanh .
-Công_ty sản_xuất thiết_bị viễn_thông Nortel và nhà_sản_xuất chip không dây Qualcomm đã thử_nghiệm các cuộc_gọi HSDPA bằng cách sử_dụng các máy đầu_cuối là modem MSM6280 của Qualcomm và thiết_bị mạng HSDPA của Nortel .
-Tốc_độ kỷ_lục của mạng di_động này sẽ cạnh_tranh với các công_nghệ di_động thế_hệ tiếp_theo , như EVDO – tốc_độ tải trung_bình chỉ trong khoảng 400Kb/giây – 700Kb/giây , thậm_chí cả các công_nghệ băng_thông_rộng không dây có nhiều triển_vọng hiện_nay , như WiMax – tốc_độ truyền dữ_liệu khoảng 20 Mbgiây , tỷ_lệ trung_bình người dùng dữ_liệu là 1 Mb/giây – 4 Mb/giây .
-S.Hương Theo Vnu Net , CNet

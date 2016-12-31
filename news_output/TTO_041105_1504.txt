@@ -1,6 +1,0 @@
-﻿ Abobe để_mắt đến Linux
-Trước_đây Adobe đã đứng bên ngoài trong cuộc đua đưa Linux thâm_nhập vào các máy_để_bàn , nhà phần_mềm khổng_lồ này chỉ chăm_chút cho các sản_phẩm chạy trên Microsoft_Windows . Nhưng hiện_nay công_ty này đã đóng vai_trò tích_cực hơn trong liên_minh Linux hiện ngày_càng lớn_mạnh . Adobe đang xúc_tiến các dự_án phát_triển nhắm đến mã nguồn mở của mình và cũng nhằm gia_tăng sức_mạnh cho cộng_đồng mã nguồn mở .
-Adobe hiện đang xúc_tiến tìm_kiếm nhân_sự là một giám_đốc phát_triển thị_trường Linux có khả_năng " nhận_định và đánh_giá chính_xác các chiến_lược của Adobe dành cho Linux cũng_như lượng giá được thị_trường máy_để_bàn ứng_dụng mã nguồn mở " và " định_dạng các dự_án của Adobe dựa trên môi_trường Linux dành cho máy_để_bàn " .
-Hiện_Adobe cũng đã gia_nhập vào Liên_minh phát_triển mã nguồn mở ( OSDL ) , đây là một liên_hiệp công_nghệ do chính cha_đẻ của Linux là Linus_Torvalds lãnh_đạo .
-Một trong những mối quan_tâm đơn_giản của người dùng hiện_nay là bản cập_nhật của chương_trình Acrobat_Reader dành cho Linux để người dùng có_thể xem các tài_liệu dạng PDF .
-HOÀNG_HẢI ( Theo CNET )

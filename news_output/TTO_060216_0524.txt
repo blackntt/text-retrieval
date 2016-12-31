@@ -1,9 +1,0 @@
-﻿ Sẽ cho thí_sinh đăng_ký dự thi ĐH trên mạng ?
-- Lợi_ích dễ thấy nhất_là cổng thông_tin tuyển_sinh cung_cấp miễn_phí và nhanh_chóng toàn_bộ cơ_sở_dữ_liệu về kỳ thi ĐH , CĐ cho thí_sinh ( TS ) . Các công_cụ tin_học giúp TS tra_cứu rất nhanh về trường , mã_số ngành học , các chỉ_tiêu tuyển_sinh ...
-Hơn_nữa , tất_cả thông_tin khác về tư_vấn tuyển_sinh , điểm_chuẩn các năm , các dữ_liệu thống_kê , phân_tích cũng được đưa lên đây giúp TS tham_khảo để chọn trường phù_hợp .
-Đối_với các trường , cổng thông_tin là cơ_sở_dữ_liệu để các trường có những số_liệu thống_kê cần_thiết , nhanh_chóng . Đặc_biệt với một mật_khẩu riêng , các trường có_thể cập_nhật thông_tin về các ngành học mới .
-Ngoài chức_năng của một cuốn cẩm_nang online , cổng thông_tin còn cung_cấp những tiện_ích nào khác nữa không , thưa ông ?
-- Hiện chúng_tôi đang đề_nghị bộ cho_phép TS có_thể khai giấy đăng_ký dự thi trên mạng , in ra rồi xin xác_nhận của trường THPT hay phường , xã để nộp ban tuyển_sinh thay cho việc mua hồ_sơ từ các sở GD - ĐT và nộp ban tuyển_sinh tỉnh .
-Đặc_biệt , hệ_thống còn cho_phép TS đăng_ký nguyện_vọng ( NV ) 2 , NV3 . Với TS , NV2 online cũng tránh được rủi_ro khi chỉ có trong tay một tờ giấy ghi NV duy_nhất . TS có_thể đăng_ký nháp và theo_dõi trên mạng , căn_cứ vào biểu_đồ điểm trúng_tuyển để điều_chỉnh NV của mình .
-Ví_dụ , hôm_nay trường A muốn tuyển 50 TS_NV2 mà ngày đó đã có khoảng 100 TS đăng_ký với mức điểm định tuyển là 22 thì những TS dưới 22 điểm có_thể “ chạy đi ” chỗ khác . Sau khi chắc_chắn , TS mới chính_thức gửi hồ_sơ xét tuyển đến các trường .
-NGUYỆT_ANH thực_hiện

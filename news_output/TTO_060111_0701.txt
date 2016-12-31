@@ -1,4 +1,0 @@
-﻿ Phức_tạp sao in đề thi thử trắc_nghiệm
-Lý_do : theo các chuyên_viên , qui_trình sao in đề trắc_nghiệm do bộ đưa ra khá chi_li , phức_tạp . Hội_đồng sao in phải làm bảy bộ đề : tiếng Anh ba năm , bảy năm ; tiếng Pháp ba năm , bảy năm ; tiếng Nga , tiếng Trung , tiếng Anh phân_ban và mỗi bộ đề gồm bốn mã_đề khác_nhau . Mỗi phòng thi có 25 thí_sinh với bốn mã_đề phải được người sao in xếp theo thứ_tự để cho vào một túi .
-Như_vậy TP.HCM có hơn 2.000 phòng thi của 108 hội_đồng thi phải có 2.000 túi đề . Trong khi đó , ở những kỳ thi trước_đây mỗi hội_đồng thi chỉ cần 2-3 túi đề .
-K.LI ÊN

@@ -1,5 +1,0 @@
-﻿ Hà_Nội : Áp_dụng thẻ từ thay_thế vé xe_buýt
-Đây là loại “ thẻ từ thông_minh ” , bên trong có bộ_vi_xử_lý chứa_đựng thông_tin nhận_dạng của người sử_dụng thẻ , thông_tin về số tiền nạp trên thẻ và thông_tin giao_dịch , không_chỉ sử_dụng được để thay_thế vé xe_buýt thông_thường mà_còn có_thể sử_dụng trong nhiều dịch_vụ khác với mức_độ an_toàn cao tương_đương với các loại thẻ rút_tiền của ngân_hàng .
-Giá_thành làm một thẻ khoảng 40.000 đồng , có_thể sử_dụng tới 5 năm .
-Theo Trung tâm Quản_lý và điều_hành giao_thông đô_thị Hà_Nội , trong giai_đoạn thí_điểm , các xe_buýt thuộc 2 tuyến nói trên sẽ được trang_bị 50 máy kiểm_tra thẻ tự_động , cùng_với 20 máy đọc thẻ xách tay của bộ_phận giám_sát .
-Theo TTXVN

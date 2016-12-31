@@ -1,6 +1,0 @@
-﻿ Microsoft tiêu_thụ được 210 triệu bản Windows XP
-Trong khi Microsoft đang có chuẩn_bị thêm một_số tính_năng mới vào Windows trước khi tiến_hành một đợt nâng_cấp lớn thì con_số cho thấy số người dùng mua bản Windows XP vẫn đang tăng rất nhanh .
-Trong liên_tiếp 9 tháng gần đây , trung_bình có khoảng 10 triệu bản Windows XP được tiêu_thụ trong mỗi tháng . Nhiều chuyên_gia đánh_giá đây là điều_hành tốt nhất cho PC . Tuy_nhiên , Microsoft cho rằng con_số người dùng Windows XP thực_tế còn cao hơn nhiều , vì trong số 210 triệu bản XP trên chưa tính đến những thỏa_thuận Windows XP với số_lượng cho doanh_nghiệp .
-Hiện_nay Microsoft đang chuẩn_bị đang cấp Windows XP gọi_là Service_Pack 2 nhằm tăng_cường khả_năng bảo_mật và tính ổn_định cho hệ_điều_hành . Chương_trình này sẽ được cung_cấp miễn_phí cho người dùng .
-Cùng ngày , Microsoft ra_mắt phần_mềm chống sao_chép mới có mã_hiệu là Janus , hỗ_trợ cho việc phân_phối các nội_dung giải_trí đa_phương_tiện thông_qua mạng Internet . Chương_trình này cho_phép chuyển nội_dung từ máy_tính_để_bàn sang các thiết_bị di dộng , cho_phép người dùng thưởng_thức các file nội_dung giải_trí đa_phương_tiện trên nhiều thiết_bị phần_cứng khác_nhau như các máy nghe nhạc di_động , ĐTDĐ và PDA .
-T . M ( Theo Reuters )

@@ -1,8 +1,0 @@
-﻿ Microsoft_Excel liên_tục “ dính ” lỗi
-Một lỗ_hổng trong ứng_dụng bảng tính nổi_tiếng của Microsoft vừa được phát_hiện có_thể cho_phép tin_tặc chiếm quyền kiểm_soát máy_tính . Chưa đầy một tháng , phần_mềm Microsoft_Excel đã “ thủng ” đến 3 lần .
-Theo đội phản_ứng nhanh an_ninh của Pháp , lỗ_hổng này phát_sinh từ lỗi gián_đoạn bộ_nhớ , xảy_ra trong khi phần_mềm xử_lý hoặc sửa_chữa một file tài_liệu quá dài .
-Lỗi ảnh_hưởng đến các bản Excel 2000 , 2002 , 2003 và các phần_mềm xử_lý văn_phòng , như Office 2000 , XP , 2003 “ cũng có nguy_cơ bị hacker thực_thi các mã lệnh chuyên_biệt bằng cách lừa người dùng mở và sửa một file Excel nguy_hiểm ” , bản cảnh_báo trên trang của đội phản_ứng nhanh an_ninh Pháp .
-Phát_ngôn_viên của Microsoft cho_biết hãng đang điều_tra về thông_báo này nhưng hiện_tại , họ vẫn chưa nhận được báo_cáo về vụ tấn_công liên_quan đến lỗi trong Excel này . Người này khẳng_định , khiếm_khuyết lần này chỉ tác_động đến người dùng các phiên_bản tiếng Nhật , Hàn_Quốc và Trung_Quốc .
-“ Chỉ khi nào người dùng mở một file Excel nguy_hiểm được gửi đính kèm trong email thì hacker mới tấn_công được vào máy_tính nạn_nhân ” , đại_diện của Microsoft nói . “ Mọi người nên cẩn_thận khi mở file đính kèm Excel trong email ” .
-Từ gần 1 tháng nay , tin_tặc thực_sự bận_rộn với các lỗi liên_tiếp trong Excel . Ngày 16/6 , các chuyên_gia đã cảnh_báo về sự_cố đầu_tiên xuất_hiện trong phần_mềm bảng tính của Microsoft . Cách đây 2 tuần , một lỗ_hổng nữa lại được phát_hiện . Lỗi này có_thể đánh sập cả chương_trình nếu người dùng mở file Excel đính kèm nguy_hiểm .
-N . H_Theo CNet

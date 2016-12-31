@@ -1,5 +1,0 @@
-﻿ Chuyến bay đầu_tiên hỗ_trợ kết_nối Wi-Fi
-Hệ_thống ( mang tên FlyNet ) có sự hỗ_trợ của vệ_tinh cho_phép hành_khách duyệt web , gửi email thông_qua công_nghệ kết_nối không dây Wi-Fi . Được biết FlyNet đã được cài_đặt trên 5 máy_bay của Lufthansa . Dự_kiến , sẽ có tổng_cộng 80 máy_bay của hãng hàng_không hàng_đầu nước Đức được trang_bị dịch_vụ này vào cuối năm 2006 .
-Nguồn tin từ Lufthansa tiết_lộ , FlyNet cho_phép tốc_độ download và upload tương_ứng 5Mbs và 1Mbps - tương_đương với tốc_độ trung_bình của chuẩn kết_nối không dây Wi-Fi khi được triển_khai trong một văn_phòng nhỏ . Giá dịch_vụ là 10 USD cho những chuyến bay không quá 30 phút . Trong khi đó chi_phí dùng net trên chọn chuyến bay ( không phụ_thuộc lộ_trình ) là 30 USD .
-Theo thống_kê của Forrester_Research , 38% hành_khách thường_xuyên chấp_nhận trả ít_nhất 25 USD cho mỗi chuyến bay để có_thể truy_nhập web . Công_ty này cũng dự_báo doanh_thu từ loại_hình dịch_vụ " ngồi máy_bay truy_nhập mạng " ước đạt 2 tỷ USD vào năm 2014 .
-Theo VDC-New Scientist

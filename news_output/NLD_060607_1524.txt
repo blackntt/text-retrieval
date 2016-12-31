@@ -1,9 +1,0 @@
-﻿ Phần_mềm tống_tiền ồ_ạt xuất_hiện
-Một thế_hệ phần_mềm hiểm_độc mới , mang tên ransomware đang nổi lên - chuyên " bắt_cóc " ( hijack ) máy_tính và tống_tiền người dùng , đưa họ vào thế khóc_dở_mếu_dở .
-Phiên_bản virus tống_tiền mới nhất vừa được hãng bảo_mật Kaspersky_Lab phát_hiện . Với tên gọi Win32.GpCode.ae , con virus này đang phát_tán cực nhanh trên mạng Internet tại Nga .
-Một_khi được download về máy , con virus sẽ mã_hóa các khu_vực dữ_liệu được hacker chỉ_định trong máy_tính của nạn_nhân . Những dữ_liệu này sẽ chỉ được giải_mã sau khi đòi_hỏi về " tiền chuộc " của tác_giả virus được nạn_nhân đáp_ứng .
-" Đây là biến_thể mới nhất của dòng virus GpCode và chắc_chắn trong thời_gian tới , chúng_ta sẽ còn chứng_kiến sự sinh_sôi nảy_nở mãnh_liệt của loại_hình tống_tiền mạng này " , ông David_Emm , chuyên_gia cao_cấp của Kaspersky nhận_định .
-Mặc_dù hiện_tại con virus này mới chỉ hoành_hành tại Nga , song Kaspersky cho rằng người dùng máy_tính trên toàn thế_giới vẫn phải dè_chừng .
-Trước đó , vào tuần trước , hãng thông_tấn BBC của Anh đã đưa tin về trường_hợp cô Helen_Barrow , một phụ_nữ 30 tuổi sống tại Anh trở_thành nạn_nhân mới nhất của ransomware . Hacker giấu mặt đã " bắt_cóc " máy_tính và mã_hóa tất_cả các file trong đó bằng một mật_khẩu dài tới ... 30 ký_tự .
-Hacker để lại lời nhắn cho khổ_chủ rằng máy_tính của cô đã bị nhiễm virus và yêu_cầu cô phải mua thuốc tại một site bán dược_phẩm trực_tuyến ở Nga thì mới được biết mật_khẩu . Theo David_Emm thì Win32.GpCode.ae khác với những biến_thể khác ở chỗ nó sử_dụng công_nghệ RSA 260-bit để mã_hóa dữ_liệu người dùng . Công_nghệ này khó bẻ gãy hơn rất nhiều so với RSA 67-bit được sử_dụng trong những phiên_bản trước đó .
-Theo VNN

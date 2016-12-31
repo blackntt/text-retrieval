@@ -1,6 +1,0 @@
-﻿ Thu gọn Huế vào lòng bàn_tay
-Mai_Phước_Nguyên , sinh năm 1984 , chắc_chắn sẽ là thí_sinh đầu_tiên của đất thần_kinh tham_dự cuộc_thi NTĐV 2006 . Nguyên đã hoàn_tất và đang tiếp_tục hoàn_thiện thêm phần_mềm “ Hệ_thống hướng_dẫn du_lịch cho PDA” để tham_dự cuộc_thi .
-Với chiếc điện_thoại PDA hoặc pocket PC sử_dụng hệ_điều_hành Windows_Mobile có cài phần_mềm này , du_khách tới Huế sẽ hiểu Huế thậm_chí hơn cả người bản_địa . Phần_mềm cài ra có dung_lượng khoảng 600Kb , sẽ là một cuốn cẩm_nang bách_khoa về Huế , bao_gồm những thông_tin cần_thiết cho du_lịch như nhà_hàng , khách_sạn , các điểm vui_chơi , các di_tích ...
-Nhưng điểm hay và đáng_kể nhất lại nằm ở chỗ khác . Phần_mềm này có khả_năng chỉ đường rất hay . Giả_sử ai đó cần đi từ A - B ở Huế , sử_dụng phần_mềm này sẽ tìm được phương_án đường đi ngắn nhất . Giả_thiết trong khi đi , đường tắc , phần_mềm sẽ tiếp_tục tính_toán ra những cung đường khác .
-Phần_mềm chạy trên máy PDA .
-Hiện_tại , phần_mềm này đã hoàn_thành và đã được CH điện_thoại 27 Đội_Cung ( TP . Huế ) cài vào một_số máy PDA cho khách_hàng . Nguyên hy_vọng , trong tương_lai sẽ tiếp_tục tích_hợp các thành_phố du_lịch khác vào sản_phẩm để sản_phẩm sẽ trở_thành không_thể thiếu cho bất_kỳ ai sử_dụng PDA khi đi du_lịch ở Hà_Nội , TPHCM hoặc những thành_phố tương_tự . B.Trung

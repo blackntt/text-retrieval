@@ -1,6 +1,0 @@
-﻿ Chuyển chữ_cái Latin sang chữ_cái … Ai_Cập cổ_đại !
-Phần_mềm Imhotext của Direct_Logic sẽ giúp chúng_ta “ dịch ” các chữ_cái từ bảng_chữ_cái Latin sang “ bảng_chữ_cái ” của ngôn_ngữ Ai_Cập cổ_đại một_cách nhanh_nhất .
-Giao_diện ban_đầu của Imhotext là một bảng chữ tượng_hình chìm màu vàng . Nhập câu văn bạn cần dịch vào ô “ Enter_Text_To_Convert ” với tối_đa là 96 ký_tự và nhấn vào nút “ Convert to Hieroglyphics ” để Imhotext “ chuyển_ngữ ” sang tiếng Ai_Cập cổ_đại . Người dùng có_thể in ra những “ bản dịch ” này bằng máy_in màu để có được những thông_điệp trang_trí “ không đụng hàng ”
-Direct_Logic cũng cung_cấp sẵn cho người dùng bảng_chữ_cái của tiếng Ai_Cập cổ tương_thích với từng chữ_cái của bảng_chữ_cái Latin ! Người dùng có_thể vào thư_mục cài_đặt chương_trình Imhotext để tham_khảo thêm .
-Chưa rõ tính khoa_học và chính_xác của công_cụ chuyển_ngữ kỳ_lạ này đến đâu nhưng Direct_Logic cũng đang bán ra phần_mềm này với giá là 15 USD . Người dùng có_thể vào đây để tải về bản dùng thử có dung_lượng khoảng 1,8 MB . Hiện bản Imhotext 1.0 đã có_mặt tại các cửa_hàng phần_mềm tại Việt_Nam .
-THỤY_KHANH

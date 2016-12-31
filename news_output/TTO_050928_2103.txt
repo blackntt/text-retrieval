@@ -1,7 +1,0 @@
-﻿ Robot " bay " bảo_vệ môi_trường
-Khí_cầu này , hay còn được gọi_là máy_bay_không_người_lái ( UAV ) , sẽ được đưa vào bầu_trời vào ngày_mai 29-9 , mang theo các thiết_bị kỹ_thuật dùng để đánh_giá chất_lượng nước và không_khí . Thành_phần đất trồng cũng sẽ được đánh_giá bằng cách sử_dụng một camera hồng_ngoại gắn trên khí_cầu .
-“ Thiết_bị tiên_tiến này sẽ cho_phép chúng_tôi lấy mẫu thử của các chất như phân_tử bụi nguyên_chất , carbon dioxide và nitrous oxide trong không_khí ” , Ernesto_Landi , chủ_tịch hội sinh_học quốc_gia Ý cho_biết . “ Nó cũng có_thể được sử_dụng trong các trường_hợp khẩn_cấp , ví_dụ như phân_tích các đám mây độc sau khi xảy_ra các sự_cố công_nghiệp ” .
-Khí_cầu này được điều_khiển bởi một máy_tính trung_tâm và có_thể truyền dữ_liệu về trạm kiểm_soát ở mặt_đất ngay_lập_tức . Nó không gây tiếng ồn cũng_như không gây ô_nhiễm môi_trường do sử_dụng hai động_cơ_điện . Hai động_cơ này cũng cho_phép nó bay lơ_lửng trong không_trung tại một điểm ở bất_kỳ độ cao nào .
-Một trong các điểm đặc_biệt quan_trọng nhất của khí_cầu này là có khả_năng lên xuống các độ cao khác_nhau mà không làm nhiễu_loạn không_khí , nhờ đó không làm ảnh_hưởng đến độ_chính_xác của các phân_tích .
-Khí_cầu dài 12 m này là khí_cầu robot đầu_tiên của Ý không dùng vào mục_đích quân_sự . Theo các nhà_chế_tạo , phạm_vi ứng_dụng của nó khá rộng : kiểm_soát các khu rừng và các công_viên tự_nhiên , đánh_giá mức_độ ô_nhiễm không_khí , nghiên_cứu các khu_vực bị ảnh_hưởng bởi các thảm_họa thiên_nhiên và do con_người gây ra .
-T.VY ( Theo ANSA.it )

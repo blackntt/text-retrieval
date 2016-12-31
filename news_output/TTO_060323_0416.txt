@@ -1,6 +1,0 @@
-﻿ Di_chuyển các thư_mục ứng_dụng
-1 . “ Move and Map ” là tính_năng giúp bạn chuyển tất_cả file và folder đến bất_kỳ vị_trí nào trong ổ_cứng kèm theo toàn_bộ bản_đồ kết_nối nó với hệ_thống Windows . Bạn chỉ cần kéo và thả thư_mục cần “ giải_tỏa ” vào thư_mục hoặc phân_vùng đĩa_cứng đã định và EZ File_Transplanter sẽ chu_toàn cho bạn mọi việc sau đó . Để quá_trình di_dời diễn ra êm thắm , bạn nên đánh_dấu di_chuyển toàn_bộ shortcuts , registrys , settings và sau đó nhấn Start là xong .
-2 . “ Switch_Driver ” giúp bạn chuyển toàn_bộ nội_dung của một phân_vùng đĩa_cứng này sang một phân_vùng đĩa_cứng khác , nhưng toàn_bộ ứng_dụng đã cài_đặt trên phân_vùng đĩa_cứng cần chuyển vẫn hoạt_động hoàn_hảo khi quá_trình chuyển_đổi hoàn_tất .
-3 . “ Map_Only ” là tính_năng giúp bạn tìm_kiếm và xác_lập lại các đường kết_nối vào hệ_thống để thay_đổi nó cho phù_hợp với vị_trí mới . Tính_năng này thường ít đụng đến đối_với đa_số người dùng bình_thường .
-Người dùng có_thể tải bản dùng thử trong 30 ngày với dung_lượng chỉ là 777KB tại http : / / superwin.swmirror.com/ezxplanz.exe . Hiện EZ File_Transplanter đã có_mặt tại các cửa_hàng phần_mềm .
-HOÀNG_KIM_ANH

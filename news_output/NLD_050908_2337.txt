@@ -1,3 +1,0 @@
-﻿ Đại_học Quốc_gia TPHCM trở_thành Học_viện mạng cấp khu_vực của Cisco
-( NLĐ ) - Ngày 8-9 , Khu_Công nghiệp phần_mềm Đại_học Quốc_gia TPHCM chính_thức trở_thành Học_viện mạng cấp khu_vực của Cisco tại VN chuyên phụ_trách giáo_trình Cisco_Certified_Network_Associate ( CCNA ) . CCNA là một giáo_trình gồm 4 thành_phần riêng_biệt . Giáo_trình này nhấn_mạnh tới việc sử_dụng các kỹ_thuật xử_lý sự_cố và quyết_định xử_lý sự_cố đối_với những vấn_đề liên_quan tới hệ_thống mạng . Các học_viên sẽ học cách giải_quyết sự_cố cấp_độ 1 , nâng cao hiệu_suất hoạt_động và tính bảo_mật của hệ_thống mạng . Các khóa đào_tạo còn bao_gồm việc sử_dụng các công_cụ và thiết_bị phần_mềm mạng ...
-T.Dũng

@@ -1,5 +1,0 @@
-﻿ Năm 2004 : Doanh_thu phần_mềm toàn_cầu tiếp_tục tăng
-Đây là một tin_vui cho giới phát_triển phần_mềm toàn_cầu và đánh_bạt nỗi âu_lo khi phải chứng_kiến tỷ_lệ tăng_trưởng âm ( - 0,5% ) lần đầu_tiên trong lịch_sử công_nghệ_phần_mềm vào năm 2002 . Tuy_nhiên năm 2004 vẫn chưa phải là năm đột_phá để bắt_đầu một thời_kỳ tăng_trưởng mới đạt đến 2 con_số .
-Thị_trường phần_mềm ngày_càng phức_tạp và mức_độ bán ra khá chậm . Phức_tạp nhất_là các phần_mềm doanh_nghiệp vừa_mới được các công_ty " tậu về " trong thời_gian gần đây . Sự hỗn_tạp của thị_trường phần_mềm doanh_nghiệp hiện_nay đã làm cho các công_ty hết_sức bối_rối trong việc lựa_chọn và cài_đặt . Tính về mức_độ trung_bình thì số công_ty sắm mới phần_mềm hiện_nay đã giảm_thiểu so với giai_đoạn trước .
-Hiện đang có sự gia_tăng của hình_thức kinh_doanh " Cung_cấp phần_mềm như_là một dịch_vụ " . Trước_đây công_ty Siebel là người tiên_phong trong lĩnh_vực này nhưng hiện_nay Siebel đang bị công_ty RightNow và Salesforce.com cạnh_tranh quyết_liệt bằng cách tiếp_thị hàng_hóa cũng_như các dịch_vụ của mình trên web với một giá rất hạ .
-HOÀNG_HẢI ( Theo Newsfactor )

@@ -1,7 +1,0 @@
-﻿ Đĩa_cứng mini cho ĐTDĐ của Cornice và Seagate
-Seagate đã giới_thiệu loại đĩa_cứng mini ST1 . 3 0,85 inch với dung_lượng đạt đến 12 GB . Loại đĩa_cứng ST1 . 3 12 GB này có mức tiêu_thụ năng_lượng thấp hơn đến 30% so với loại ST1 . 3 6 GB đã từng giới_thiệu trước_đây .
-Cornice cũng giới_thiệu 2 loại đĩa_cứng mini 0,85 inch thuộc dòng Cornice_Dragon với dung_lượng 8 và 10 GB . Dòng đĩa_cứng Cornice_Storage_Element dung_lượng 3 GB đã được Samsung dùng để trang_bị cho ĐTDĐ thông_minh chuyên_dùng để nghe nhạc của mình là chiếc SGH-1300 .
-Seagate cho_biết loại đĩa_cứng mini ST1 . 3 của mình đã được chế_tạo theo công_nghệ ghi đĩa trực_giao hiện_đại nhất hiện_nay . Các đĩa_cứng này được các công_ty đem ra giới_thiệu trong lần này thật_sự được xem là mini khi kích_thước của nó chỉ là : dài 4 cm , rộng 3 cm và dày chỉ 0,5 cm .
-Cornice còn trang_bị cho 2 loại đĩa_cứng mini của mình công_nghệ độc_đáo mang tên Drop_Safe . Tức đĩa_cứng mini của Cornice có khả_năng “ cảm_nhận ” được thiết_bị đang trong quá_trình bị rơi , để tự_động ngưng hoạt_động nhằm bảo_vệ cho đĩa_cứng an_toàn trước khi thiết_bị tiếp đất ở mức … vỡ tan_tành .
-Cornice sẽ tung ra các kiểu đĩa_cứng mini của mình trong quý này , còn người dùng yêu_thích sản_phẩm vượt_trội của Seagate phải đợi đến tận quý 3 năm nay .
-HOÀNG_KIM_ANH ( Theo Tech Web )

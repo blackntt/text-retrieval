@@ -1,4 +1,0 @@
-﻿ Game : Chiến_đấu vì pho_mát và bánh pizza
-Trong game , bạn sẽ giúp chim_cánh_cụt Frank dùng súng_máy Pengapoppers phá vỡ các bức tường xây bằng những trái banh đầy màu_sắc để lấy phần_thưởng là pho_mát và bánh pizza .
-Bạn rê chuột để nhắm và nhấp chuột trái để bắn banh . Để phá một mảng tường , bạn phải tạo được một hàng gồm ít_nhất 3 trái banh cùng màu . Chừng nào lấy hết được phần_thưởng , bạn mới được qua vòng kế_tiếp . Âm_nhạc và hiệu_ứng âm_thanh của Pengapop rất vui_nhộn , phù_hợp với mọi lứa tuổi . Dung_lượng : 4,59 MB . Download : www.miniclip.com/Flash/pengapop.exe
-THANH_TÙNG

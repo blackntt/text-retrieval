@@ -1,8 +1,0 @@
-﻿ Yankee : Windows đáng tin_cậy hơn Linux
-Theo khảo_sát hàng năm về độ tin_cậy của máy_chủ của hãng nghiên_cứu thị_trường Mỹ_Yankee , chỉ có các hệ_điều_hành chạy trên Unix , như HP-UX và Sun_Solaris 10 mới đánh_bật được Windows về thời_gian vận_hành hiệu_quả , còn Linux thì vẫn thua xa " đối_thủ " Windows về khoản này .
-Yankee khẳng_định , Windows 2003 Server là hệ_điều_hành máy_chủ hoạt_động tốt hơn Linux . Bộ Windows này có khả_năng vận_hành tốt hơn 20% so với phiên_bản Red_Hat_Enterprise_Linux .
-Nhà_phân_tích của Yankee_Laura_Di Dio nhận_định , thực_tế , các phiên_bản hệ_điều_hành server lớn đều có tính tin_cậy cao và những bản này đã được cải_tiến trong 3 – 5 năm qua .
-Trung_bình mỗi bản Windows , Linux và Unix dành cho máy_chủ đều bị lỗi 3 – 5 lần/năm trong 2005 , làm thời_gian vận_hành của máy_chủ bị chậm_trễ đến 10 – 19,5 tiếng mỗi năm .
-Tuy_nhiên , theo ghi_nhận của Yankee , bản Red_Hat_Enterprise_Linux và các phiên_bản khác của Linux của phần_mềm mã nguồn mở bị ngắt_quãng nhiều hơn và lâu hơn so với các đối_thủ Windows hay Unix . Yankee cho rằng lý_do vì khan_hiếm tài_liệu Linux và mã nguồn mở .
-Hãng này nhấn_mạnh khảo_sát tiền hành không được sự tài_trợ hay hỗ_trợ của bất_cứ hãng sản_xuất hệ_điều_hành dành cho máy_chủ nào .
-N.Hương Theo Inquirer , InformationWeek

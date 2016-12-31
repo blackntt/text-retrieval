@@ -1,6 +1,0 @@
-﻿ Cảnh_giác với lỗi mới của Windows_Meta File ( WMF )
-Microsoft khám_phá ra bốn cách_thức có_thể khai_thác lỗi và chỉ có người dùng sử_dụng Internet_Explorer 5.01 Service_Pack 4 trên Windows 2000 Service_Pack 4 và Internet_Explorer 5.5 Service_Pack 2 trên Windows_Millennium chịu nguy_cơ ảnh_hưởng bởi lỗi này .
-Các hacker có_thể lưu_giữ những tập_tin ảnh WMF nguy_hiểm và dẫn_dụ người dùng truy_cập vào website chứa những tập_tin này hoặc tải về các tập_tin đính kèm bên trong email . Tuy_nhiên , những kẻ lợi_dụng lại không_thể bắt_buộc người dùng truy_cập vào những website chứa mã hiểm_độc , theo như Microsoft cho_biết . Hiện_tại , Microsoft vẫn đang tiếp_tục nghiên_cứu và sẽ sớm cho ra bản vá lỗi .
-Một lỗi mới cũng vừa được công_bố ngay sau đó nằm trong Windows_Service ACL có_thể tham_khảo tại đây và thông_tin về WMF tại đây .
-Vẫn những lời khuyên cũ nhưng lại rất hữu_ích cho người dùng : Kích_hoạt tường lửa , cập_nhật thường_xuyên những phần_mềm đang sử_dụng trên máy_tính , nhất_là cài_đặt và cập_nhật cho chương_trình antivirus .
-THANH_TRỰC ( Tổng_hợp )

@@ -1,3 +1,0 @@
-﻿ Ứng_dụng CNTT quản_lý nguyên_liệu nhập_khẩu
-Theo đó , doanh_nghiệp có_thể chủ_động chuẩn_bị số_liệu trước khi khai_báo với HQ và được quyền khai_báo bằng nhiều phương_thức khác_nhau ( thủ_công , website , đĩa_mềm chứa thông_tin … ) , hạn_chế được những sai_sót về đơn_vị tính ... Về phía HQ có_thể giảm hơn 60% nhân_lực trong việc thu_thập dữ_liệu trong các khâu đăng_ký định_mức , tờ khai , đồng_thời có cơ_sở_dữ_liệu phục_vụ khâu kiểm_tra sau thông_quan . Được biết mô_hình này được thí_điểm tại Chi_cục HQ_TP . Biên_Hòa , Đồng_Nai .
-H . ĐĂNG

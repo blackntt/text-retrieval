@@ -1,5 +1,0 @@
-﻿ Thanh công_cụ cho người mê bóng_đá
-Được phát_triển bởi Eyal_Zoref cho người dùng Mozilla như_là một phần mở_rộng , thanh công_cụ world _ cup _ 2006 mang đến tất_cả thông_tin cần_thiết về World_Cup 2006 sắp diễn ra tại Đức bao_gồm tính_năng tìm_kiếm và các tùy chọn hỗ_trợ hữu_ích trong việc tìm thông_tin về World_Cup cũng_như các liên_kết hay cho người dùng tham_khảo .
-Ngoài_ra , thanh công_cụ cũng tích_hợp Weather_Component cho_phép hiển_thị thông_tin thời_tiết và tính_năng đánh_dấu .
-Hoàn_toàn miễn_phí và gọn_nhẹ ( 5KB ) , hoạt_động trên tất_cả các phiên_bản của hệ_điều_hành Windows và yêu_cầu sử_dụng Mozilla . Thanh công_cụ FIFA World_Cup 2006 có_thể tải về tại đây .
-TUYẾT_PHẤN

@@ -1,9 +1,0 @@
-﻿ Trojan chiếm 85% phần_mềm nguy_hiểm tháng 5
-Hãng bảo_mật Anh Sophos cho_biết số e - mail chứa virus và sâu đang tiếp_tục giảm mạnh do hacker đã chuyển sang sử_dụng Trojan để tấn_công có chọn_lọc hơn . Tuy_nhiên , sâu Netsky . P vẫn đứng đầu_bảng xếp_hạng 10 biến_thể nguy_hiểm nhất 31 ngày qua .
-Netsky . P , được phát_hiện lần đầu_vào tháng 3/2004 , vẫn là chương_trình phát_tán rộng_rãi nhất qua e - mail . " Đội_ngũ " sâu Mytob cũng đã thâm_nhập vào rất nhiều hệ_thống máy_tính trên toàn thế_giới với 5 biến_thể xuất_hiện trong bảng_tổng_sắp .
-Tháng 5 vẫn được coi là tháng của những " con ngựa thành Troa " khi loại phần_mềm này chiếm tới 85,1% trong số 1.538 nguy_cơ mới được ghi_nhận , nâng số biến_thể được Sophos phát_hiện từ trước tới nay lên 122.634 . Trong tháng 5/2005 , cứ 38 e-mail thì_có một thư chứa chương_trình độc_hại , tuy_nhiên hiện_nay tỷ_lệ này đã giảm xuống 1/141 .
-" Mọi người không nên nhìn vào vị_trí hàng_đầu của Netsky . P và số e - mail nhiễm sâu mà cho rằng phần_mềm nguy_hiểm chỉ là sản_phẩm của quá_khứ . Tội_phạm mạng hiện_nay thậm_chí còn khôn_ngoan và ranh_mãnh hơn . Chúng sử_dụng công_nghệ gián_điệp để thăm_dò trước các doanh_nghiệp và cá_nhân , sau đó tấn_công vào những mục_tiêu xác_định " , Carole_Theriault , cố_vấn bảo_mật của Sophos , nhận_xét .
-10 virus nguy_hiểm nhất tháng 5/2006 ( trong ngoặc là tỷ_lệ thông_báo mà Sophos nhận được ) :
-1 . Netsky . P ( 16,7% ) 2 . Zafi . B ( 11,4% ) 3 . Nyxem . D ( 7,5% ) 4 . Mytob.AS ( 6,3% ) 5 . Mytob . P ( 5,3% ) 6 . Mytob . M ( 5,3% ) 7 . Netsky . D ( 3,7% ) 8 . MyDoom . O ( 3,6% ) 9 . Mytob.FO ( 2,9% ) 10 . Mytob . C ( 2,1% )
-Các loại khác : 35,2%
-Theo T . N . VnExpress/Sophos

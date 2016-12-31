@@ -1,4 +1,0 @@
-﻿ Virus “ tống_tiền ”
-Được phát_hiện trong tuần vừa_qua , sau khi lây_nhiễm vào máy , virus này sẽ đi thu_gom , nén và mã_hóa các tập_tin tài_liệu ( . doc , . jpg , . gif ) chúng nhìn thấy . Sau đó , những tập_tin gốc sẽ bị xóa và virus sẽ “ tự kết_liễu ” . Có 44 định_dạng tập_tin sẽ bị nhận_diện bởi virus .
-Dấu_vết để lại chỉ là một tập_tin văn_bản yêu_cầu và hướng_dẫn người dùng gửi khoảng 300 USD vào một trong gần 100 tài_khoản của website chuyển_tiền điện_tử E-Gold , nếu_như họ muốn lấy lại quyền truy_xuất những tập_tin này . Không còn virus , không có mật_mã , không biết tình_hình sẽ được giải_quyết ra_sao . Phương_pháp lây_nhiễm hiện cũng chưa xác_định được . May_mắn là tốc_độ lây_nhiễm của loại Trojan này rất thấp .
-TRẦN_HUY

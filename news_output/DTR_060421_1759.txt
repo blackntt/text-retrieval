@@ -1,8 +1,0 @@
-﻿ VNPT giảm cước ADSL Mega VNN
-Tập_đoàn Bưu_chính Viễn_thông Việt_Nam ( VNPT ) ngày 18/4 đã ban_hành Quyết_định 1040 / QĐ - GCTT về việc giảm cước dịch_vụ truy_nhập Internet tốc_độ cao ADSL Mega VNN .
-Theo đó từ ngày 1/6 , cước thuê_bao Mega VNN được áp_dụng mức cước từ 28.000 - 500.000 đồng/tháng tùy theo gói cước khách_hàng sử_dụng .
-Đối_với gói cước 512Kbps/256Kbps và 768Kbps/384Kbps , cước sử_dụng theo lưu_lượng sử_dụng gửi và nhận vào giờ thấp_điểm được tính là 27 đồng cho 3.000 Mb đầu_tiên và 25 đồng cho các Mb tiếp_theo
-Đối_với gói cước 1.024Kbps/512Kbps và 2.048Kbps/640Kbps , cước sử_dụng theo lưu_lượng gửi và nhận vào giờ thấp_điểm là 33 đồng/6.000 Mb đầu_tiên và 25 đồng các Mb tiếp_theo .
-Đối_với gói cước 4.096Kbps/640Kbps , cước thuê_bao tháng là 500.000 đồng/tháng ; cước sử_dụng theo lưu_lượng gửi và nhận là 40 đồng/Mb .
-Ngoài những mức cước này mỗi gói cước sẽ có mức cước trần theo tổng cước thuê_bao tháng cho nhu_cầu của từng đối người tiêu_dùng lựa_chọn .
-Các mức cước trên chưa bao_gồm cước thuê_bao điện_thoại nội_hạt , cước liên_lạc điện_thoại trong nước và quốc_tế , cước các dịch_vụ giá_trị gia_tăng trên Internet và thuế_giá_trị_gia_tăng . Thanh_Ngọc

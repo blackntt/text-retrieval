@@ -1,5 +1,0 @@
-﻿ Cài_đặt số máy mặc_định để gửi tin nhắn
-Nếu bạn luôn thường_xuyên gửi tin nhắn đến một người nào_đó , để khỏi tốn công nhập vào số điện_thoại của họ trong mỗi lần gửi bạn có_thể thiết_lập số điện_thoại mặc_định để gửi tin nhắn là số máy của chính người ấy .
-Cách thực_hiện như sau ( minh_họa ở đây là điện_thoại Nokia dòng xêri 40 ) :
-Trên điện_thoại_di_động của mình , bạn vào menu Tin nhắn & gt ; Cài_đặt tin nhắn & gt ; Tin nhắn văn_bản & gt ; Cấu_hình gửi & gt ; Mặc_định & gt ; Số máy mặc_định để nhận tin . Bạn nhập vào số điện_thoại_di_động sẽ nhận tin nhắn , sau đó bấm Chọn & gt ; Đồng_ý để lưu lại thiết_lập vừa tạo . Từ giờ trở đi , sau khi soạn xong một tin nhắn và ngay sau khi chọn lệnh Gửi , bạn sẽ thấy số điện_thoại được thiết_lập sẽ tự_động hiện ra , bạn chỉ việc bấm chọn OK là xong .
-NGỌC_PHƯỢNG

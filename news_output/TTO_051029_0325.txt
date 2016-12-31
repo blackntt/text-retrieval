@@ -1,4 +1,0 @@
-﻿ TP.HCM tôn_vinh các nhà_khoa_học nhận giải_thưởng
-Đó là công_trình : “ Khôi_phục và phát_triển bền_vững hệ_sinh_thái rừng ngập_mặn Cần_Giờ ” ( TS Lê_Văn_Khôi và cộng_sự ) được trao_tặng Giải_thưởng Hồ_Chí_Minh . Các công_trình được trao Giải_thưởng nhà_nước về khoa_học - công_nghệ : “ Nghiên_cứu thiết_kế chế_tạo một_số thiết_bị đo_lường và điều_khiển phục_vụ sản_xuất ” ( GS.TS Ngô_Kiều_Nhi và cộng_sự ) .
-“ Nghiên_cứu tổng_hợp và triển_khai công_nghệ chế_tạo , ứng_dụng một_số vật_liệu , tổ_hợp vật_liệu polymer và composite ” ( GS.TS Nguyễn_Hữu_Niếu và cộng_sự ) ; “ Thụ_tinh trong ống_nghiệm ” ( BS Nguyễn_Thị_Ngọc_Phượng và cộng_sự ) .
-QUỐC_THANH

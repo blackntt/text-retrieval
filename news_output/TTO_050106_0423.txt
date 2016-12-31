@@ -1,3 +1,0 @@
-﻿ Công_cụ bảo_vệ dữ_liệu nhạy_cảm
-Ngoài tính_năng mã_hóa và giải_mã file như_thường thấy ở các phần_mềm cùng loại , ZFC còn cho_phép bạn giải_mã trực_tiếp vào bộ_nhớ để xem tạm . Với chức_năng này , dữ_liệu được bảo_vệ tối_đa vì sau khi tắt chương_trình , dữ_liệu được giải_mã cũng biến_mất chứ không_lưu lại trên đĩa_cứng . ZFC còn có chức_năng xóa dữ_liệu không_thể phục_hồi ( wipe file ) , rất cần_thiết trong trường_hợp bạn cần xóa dữ_liệu quan_trọng có_thể bị xem trộm . Loại : miễn_phí . Dung_lượng : 3,1 MB . Địa_chỉ tải : http : / / users.hol.gr / ~ katkon/files/zero _ footprint _ setup.exe
-NGUYỄN_NGÔ_TRUNG_HIẾU

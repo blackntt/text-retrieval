@@ -1,9 +1,0 @@
-﻿ FPT_APTECH mở khoá đào_tạo về CNTT
-Đây là chương_trình nhằm đào_tạo một đội_ngũ nhân_lực CNTT chất_lượng cao kết_hợp những kiến_thức nền_tảng của hệ_thống giáo_dục đại_học trong nước với kỹ_năng lập_trình , kinh_nghiệm thực_hiện dự_án phần_mềm , khả_năng giao_tiếp làm_việc nhóm ( Teamwork ) và năng_lực nắm_bắt công_nghệ mới từ chương_trình quốc_tế Aptech .
-Chương_trình gồm có các module : Module dot NET , Module J2EE và Module_Soft skill & amp ; Project .
-Khóa học sẽ kéo_dài 08 tháng với bằng_cấp Aptech_Certified_Briding to Software_Engineer có giá_trị quốc_tế . Khóa học được đào_tạo theo quy_trình chất_lượng ISO và công_nghệ đào_tạo của Aptech .
-Sau khi tốt_nghiệp , sinh_viên có_thể tham_gia học lấy bằng Diploma_Quản trị Dự_án ( khoảng 4,5 tháng ) nhằm đào_tạo đội_ngũ teamleader , chỉ dành riêng cho sinh_viên có bằng Aptech HDSE ( Higher_Diploma in Software_Engineering ) và ACBE ( Aptech_Certified_Bridging to Software_Engineer ) .
-Trong dịp khai_giảng lớp đầu_tiên , FPT Aptech sẽ có nhiều suất học_bổng dành cho SV học_lực giỏi dựa trên kết_quả đang học Đại_học . Trị_giá học_bổng sẽ là 100% hoặc 70% ( học_phí khóa học là : 685 USD nếu học_viên đóng 1 lần/khóa ; 250 USD / 1 lần nếu học_viên đóng 3 lần/khóa ) .
-Ngoài_ra , còn có chương_trình trả trước 30% học_phí , phần còn lại sẽ trả khi đi làm có thu_nhập để hỗ_trợ các bạn sinh_viên có hoàn_cảnh gia_đình khó_khăn tài_chính .
-Đây là chương_trình đầu_tiên của Aptech được áp_dụng tại TP_HCM và Hà_Nội . Sinh_viên tham_gia sẽ đăng_ký tại các trung_tâm của FPT Aptech tại TP_HCM và Hà_Nội theo địa_chỉ : tại TP_HCM : 2bis Nam_Quốc_Cang , Q1 – ĐT : 08 . 925255 và 590 CMT8 , Q3 ( đối_diện CV Lê_Thị_Riêng ) – ĐT : 08 . 8460846 , tại Hà_Nội : 1A Yết_Kiêu ( Cung_Văn_Hóa_Việt_Xô ) – ĐT : 04 . 8224880 .
-T . LÊ

@@ -1,3 +1,0 @@
-﻿ Viện_Tim TP.HCM : Chấm_dứt nạn “ cò ” ở phòng_khám
-Khu khám bệnh có năm phòng , mỗi phòng hai bác_sĩ và một bộ_phận thu_ngân . Người_bệnh tự đăng_ký và đóng tiền tại một trong năm phòng_khám do mình chọn . Sau đó chờ và theo_dõi số thứ_tự đã được in trên phiếu thu tiền , không còn phải xin số như trước_đây . Khi đến lượt khám , nếu bác_sĩ có chỉ_định làm xét_nghiệm hoặc siêu_âm , bệnh_nhân tiếp_tục đóng tiền tại phòng_khám đã chọn , đến các phòng để làm các chỉ_định . Khi có kết_quả , trở_lại phòng_khám để được chẩn_đoán và cho toa .
-KIM_SƠN

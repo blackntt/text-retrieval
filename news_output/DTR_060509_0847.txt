@@ -1,8 +1,0 @@
-﻿ Bộ BCVT điều_chỉnh cước Internet của VNPT
-Bộ BCVT vừa có quyết_định số 14/2006 / QĐ - BBCVT về việc điều_chỉnh cước dịch_vụ truy_nhập Internet qua mạng điện_thoại công_cộng ( PSTN ) của Tập_đoàn Bưu_chính Viễn_thông Việt_Nam .
-Theo đó , Mức cước truy_nhập Internet qua mạng điện_thoại công_cộng cao nhất ( cước trần ) là : 180đ/phút . Tập_đoàn Bưu_chính Viễn_thông Việt_Nam căn_cứ vào mức cước trần truy_nhập Internet qua mạng điện_thoại công_cộng quyết_định mức cước truy_nhập Internet qua mạng điện_thoại công_cộng của Tập_đoàn .
-Tuy_nhiên , giá cước do Tập_đoàn quy_định phải dựa trên cơ_sở giá_thành , đảm_bảo hiệu_quả đầu_tư , hiệu_quả kinh_doanh và tuân_thủ các quy_định về quản_lý giá cước của Nhà_nước .
-Nếu thuê_bao sử_dụng dịch_vụ điện_thoại quốc_tế mạng NGN 64 Kbps dùng thẻ trả trước , mức cước tối_đa không cao hơn so với mức cước liên_lạc điện_thoại quốc_tế mạng PSTN tương_ứng và mức cước tối_thiểu không thấp hơn 10% so với mức cước liên_lạc điện_thoại quốc_tế mạng PSTN tương_ứng .
-Cước dịch_vụ điện_thoại IP quốc_tế ( VOIP ) trả sau có mức cước tối_đa là 0,51 USD/phút ; cước tối_thiểu là 0,40 USD/phút . Dịch_vụ điện_thoại IP quốc_tế sử_dụng thẻ trả tiền trước có mức cước tối_đa là 0,42 USD/phút và tối_thiểu là 0,33 USD/phút .
-Lần này , Bộ Bưu chính Viễn_thông cho_phép doanh_nghiệp tự lựa_chọn phương_thức tính cước , tuy_nhiên , đơn_vị tính cước đầu_tiên và các đơn_vị tính cước tiếp_theo phải đáp_ứng điều_kiện : đơn_vị tính cước đầu_tiên không thấp hơn Block 6 giây và đơn_vị tiếp_theo không thấp hơn Block 1 giây .
-Trước khi ban_hành giá cước , Tập_đoàn phải đăng_ký với Bộ Bưu chính , Viễn_thông . Bảo_Trung

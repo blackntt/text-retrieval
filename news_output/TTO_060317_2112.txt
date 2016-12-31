@@ -1,7 +1,0 @@
-﻿ Blogsites “ Hacker mũ xanh ”
-Website này cũng đăng_tải luôn những thông_tin , hình_ảnh , các phát_biểu , những đoạn video phỏng_vấn những người đại_diện , những cá_nhân đã có đóng_góp ít_nhiều cho tổ_chức Hacker_Mũ xanh . Đại_hội được tổ_chức từ ngày 8 đến ngày 10 tháng 3 vừa_qua tại chi_nhánh Redmond của Microsoft ở Washington đề_cập sâu đến các vấn_đề như lỗi bảo_mật trong các ứng_dụng web , cách_thức để xâm_nhập vào các cơ_sở_dữ_liệu …
-Website này có tên " Bluehat_Security_Briefing " , được Microsoft bắt_đầu hơn một năm nay . Mục_đích là có những cuộc đối_thoại giữa đội_ngũ về bảo_mật của công_ty với các cao_thủ nghiên_cứu bảo_mật bên ngoài . Đây là một hình_thức hợp_tác với hacker để phát_triển của Microsoft . Rất nhiều lỗi bảo_mật nghiêm_trọng đã được " nhóm Hacker mũ xanh này phát_hiện " .
-Có_thể hiểu , các thành_viên của Bluehat được xem như những nhân_viên được ưu_đãi của Microsoft trong bước_đường công_ty này dần hoàn_thiện các sản_phẩm của mình . Và_Bluehat_Brief là một trong những phương_tiện để các thành_viên có_thể trao_đổi về những vấn_đề bảo_mật mà họ phát_hiện , dưới dạng blogs thay_vì trên một forum .
-Hội_thảo Bluehat lần 3 có hơn 650 thành_viên tham_dự . Được biết đây là một nhóm gần_như là ở thế đối_đầu với " Hacker mũ đen " . Màu xanh được lấy từ các huy_hiệu mà nhân_viên của Microsoft mang khi tham_gia hội_thảo này .
-Bạn_đọc quan_tâm có_thể vào đây để tìm_hiểu và theo_dõi những thông_tin .
-TRẦN_HUY

@@ -1,5 +1,0 @@
-﻿ Phát_hành CD-ROM : Chứa 22 ngàn văn_bản pháp_luật tiếng Việt và tiếng Anh
-Sau bốn năm xây_dựng , chiều_hôm qua , Viện_Khoa học Pháp_lý – Bộ Tư pháp đã phát_hành đĩa CD-ROM nói trên .
-Phiên_bản 2.0 được bổ_sung thêm một_số tính_năng mới và mạnh như : Cập_nhật dữ_liệu tự_động với hệ_thống trên Internet/Intranet . Tích_hợp khả_năng tìm_kiếm toàn_văn với tìm_kiếm theo các thuộc_tính của văn_bản . Cho_phép liên_kết chéo giữa văn_bản tiếng Việt và tiếng Anh , cho_phép in_ấn , đánh_dấu , ghi_chú . Hỗ_trợ hoàn_toàn tiếng Việt_Unicode theo chuẩn TCVN-6909 : 2001 …
-Dự_kiến CD-ROM được bán với giá khoảng 200 ngàn đồng . Các sở , phòng Tư_pháp được cấp miễn_phí .
-Theo Pháp luật

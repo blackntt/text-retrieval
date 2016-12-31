@@ -1,7 +1,0 @@
-﻿ Trích xuất một đoạn phim DVD bằng DVD Knife
-Cách thực_hiện :
-Mở chương_trình ra bằng cách truy_cập vào trình đơn Start & gt ; Programs & gt ; DVD knife & gt ; DVD knife . Tiếp đến , bạn nhấn nút Open mở đoạn phim cần trích xuất ra .
-Chọn điểm đầu cần cắt bằng cách di_chuyển thanh trượt đến vị_trí muốn cắt , sau đó nhấn nút Select_Start . Mục_Begin_Position cho bạn biết thời_gian của đoạn phim được tính_từ lúc mở đoạn phim ra đến vị_trí bạn chọn điểm đầu .
-Tương_tự như phần chọn điểm đầu nhưng thay_vì chọn Select_Start , bạn chọn Select_End . Mục_End_Position cho_biết thời_gian của đoạn phim được tính_từ lúc mở đoạn phim ra đến vị_trí bạn chọn điểm cuối . Mục_Length cho_biết thời_gian của đoạn phim được cắt ra .
-Cuối_cùng bạn nhấn Save để lưu đoạn phim này lại .
-HỒ_VĂN_QUỐC

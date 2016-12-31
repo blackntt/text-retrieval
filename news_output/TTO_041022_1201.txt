@@ -1,9 +1,0 @@
-﻿ Thêm một công_cụ nén và giải nén mạnh
-Lần này mời các bạn hãy sử_dụng một công_cụ khác cũng đầy uy_lực , giao_diện khá đẹp và hoàn_toàn miễn_phí : đó là ZipItfast 3.0 của MicroSmarts Enterprise . Tải về từ địa_chỉ www . zipitfast.com , dung_lượng 2,4 MB tương_thích với mọi Windows hiện_hành .
-- Với_Zip ItFast 3.0 có_thể tạo ra file nén lưu_trữ dạng : ZIP , TAR , CAB , JAR , GZIP , LHA và một định_dạng mới là BlackHole ( BH ) .
-- Hỗ_trợ các định_dạng lưu_trữ - nén thông_dụng khác như ACE , ARC , PK3 …
-- Có_thể mã_hoá file dạng UUE , XXE hỗ_trợ email .
-- Tạo file nén tự bung . EXE
-- Hỗ_trợ cách kéo - thả trong môi_trường Windows .
-Giao_diện và cách_thức gần giống với các phần_mềm khác như WinZip , WinRar . Do_vậy , bạn có_thể dễ_dàng sử_dụng nó khi đã quen với các phần_mềm kia .
-TẠ_XUÂN_QUAN

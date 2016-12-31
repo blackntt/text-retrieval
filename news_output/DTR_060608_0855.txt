@@ -1,7 +1,0 @@
-﻿ Microsoft ra_mắt bản thử_nghiệm Vista rộng_rãi
-Sau nhiều tháng chạy thử_nghiệm giới_hạn , hôm_qua , hãng phần_mềm khổng_lồ tung ra một phiên_bản beta của Windows_Vista cho_phép người dùng thoải_mái download để kiểm_tra chất_lượng của hệ_điều_hành thế_hệ mới sắp được phát_hành .
-Microsoft cho_biết , phiên_bản “ Customer_Preview_Program ” ( CCP ) nhằm giúp đông_đảo người dùng tiếp_cận với các bản thử_nghiệm của Vista trước khi chính_thức tung ra thị_trường vào tháng 1/2007 . Hãng này dự_định sẽ kết_thúc giai_đoạn thử_nghiệm và phát_triển Vista vào cuối năm nay .
-Tháng trước , bản Beta 2 đã được phân_phối tới một nhóm hạn_chế những người thử_nghiệm .
-Trong phiên_bản thử_nghiệm rộng_rãi này , Microsoft khuyến_cáo rằng bản beta này không dành cho những người dùng không am_hiểu lắm về công_nghệ . Thực_tế , CPP thích_hợp với các nhà_phát_triển công_nghệ , những nhân_viên làm về vi_tính cũng_như mọi người yêu_thích công_nghệ . Microsoft cũng khuyến_khích những người muốn tải CPP nên chạy một công_cụ tư_vấn mới được hãng cung_cấp gần đây để nhận_biết liệu máy của mình có tương_thích với Vista hay không .
-Người dùng quan_tâm có_thể cài_đặt Vista thử_nghiệm tại đây .
-Hương_Nguyên_Theo CNet

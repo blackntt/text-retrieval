@@ -1,7 +1,0 @@
-﻿ Xem phim phụ_đề tuyệt_vời hơn
-Tuy_nhiên , điểm duy_nhất đã giúp nó không sợ bị “ đụng hàng ” với những “ đồng_nghiệp ” của mình vẫn chính là chức_năng cho_phép người dùng hiệu_chỉnh tốc_độ hiển_thị của các loại phụ_đề nhưng không gây ảnh_hưởng đến chất_lượng hình_ảnh và âm_thanh của phim .
-Tính_năng độc_nhất_vô_nhị IQ Text ( phụ_đề thông_minh ) của AP sẽ giúp bạn không còn phải “ thở hổn_hển ” mỗi khi thưởng_thức các phim có phụ_đề chạy như tên bắn !
-1 . Sau khi mở file chứa phim bạn hãy đánh_dấu kiểm cho nút On/Off Subtitles ( nằm ngay cạnh nút Filters ) . Nhấn nút Open_Subtitles , chọn mục nằm ở dưới cùng của menu , xác_định đường_dẫn đến tập_tin lưu_trữ phụ_đề trên đĩa phim ( thường có chuẩn định_dạng là . txt ) rồi nhấn nút Open để nạp nó vào trình đa_phương_tiện AP .
-2 . Liên_tục nhấn nút có đề chữ Volume cho_đến khi chuyển sang chế_độ TXT . Hãy di_chuyển thanh trượt nằm ngay cạnh nút này để tăng / giảm tốc_độ hiển_thị của phụ_đề theo ý_muốn . Để thiết_lập những tùy biến cụ_thể hơn cho phụ_đề , bạn hãy nhấn nút Setup ( Program settings ) rồi thực_hiện những thay_đổi cần_thiết ở hai thẻ Subtitles và IQ Text .
-Với dung_lượng khá gọn ( chỉ 1,03 MB ) , tương_thích trên các hệ_điều_hành Windows như 9x/Me/NT/2000/XP và mọi trình điều_khiển Direct X , phiên_bản miễn_phí ( freeware ) của AP được cung_cấp tại đây .
-THIÊN_LONG

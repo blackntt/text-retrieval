@@ -1,7 +1,0 @@
-﻿ Mỗi ngày_một lỗ_hổng trình_duyệt
-Một hacker nổi_tiếng đã phát_hiện khá nhiều vấn_đề trong các browser và dự_định sẽ tiết_lộ dần trong 31 ngày tới . Ông tuyên_bố tháng này sẽ là " tháng của lỗi bảo_mật trình_duyệt "
-Tính đến hôm_nay , HD Moore , tác_giả của Metasploit_Framework - công_cụ kiểm_tra xem một hệ_thống có thực_sự an_toàn trước các cuộc thâm_nhập , đã công_bố tất_cả ba sự_cố của Microsoft_Internet_Explorer , một trong Mozilla_Firefox và một lỗi của Apple_Safari .
-" Web cá_nhân của tôi sẽ là nơi nghiên_cứu và trao_đổi về những vấn_đề bảo_mật xuất_hiện trong browser trên Internet . Tôi sẽ chứng_minh mối nguy_hiểm nhưng cố_gắng không hướng_dẫn trực_tiếp để tránh nguy_cơ “ vẽ đường ” cho hacker xử_lý mã từ xa " , Moore khẳng_định .
-Moore cho_biết ông đã thông_báo 2 rắc_rối của Internet_Explorer với Microsoft trong tháng 3 nhưng công_ty này cho rằng chúng chẳng có gì nghiêm_trọng cả .
-HD Moore không đánh_giá cụ_thể mức_độ nghiêm_trọng của các lỗ_hổng mà ông đăng trên blog mấy ngày qua , nhưng hãng bảo_mật Đan_Mạch_Secunia đã xếp một lỗi mà Moore đặt tên là Internet.HHCtrl Image_Property ở mức " rất nguy_hiểm " .
-Theo T . N . VnExpress/CNet

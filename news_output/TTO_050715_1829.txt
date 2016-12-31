@@ -1,6 +1,0 @@
-﻿ Gần 400 đội từ hơn 30 quốc_gia trên thế_giới tham_gia RoboCup 2005
-Cuộc_thi năm nay có chủ_đề “ Phát_triển một đội bóng với các robot giống người hoàn_toàn tự_động để có_thể chiến_thắng các cầu_thủ của đội vô_địch thế_giới ở môn bóng_đá vào năm 2050 " . Bắt_đầu_từ năm nay , cúp liên_đoàn robot giống người sẽ nâng_cấp cuộc_thi từ dạng trò_chơi một chọi một thành trận đấu đồng_đội hai chọi hai : hai robot sẽ chơi theo kiểu một con tấn_công và một con phòng_thủ , cùng hợp sức để giành chiến_thắng .
-Cúp liên_đoàn robot giống người thành_lập từ năm 2002 là các trận đấu dành cho các robot hai chân tự_động . Ở năm thi_đấu đầu_tiên , các robot tham_gia được thiết_kế chỉ có khả_năng chạy và đá bóng . Qua 4 năm , khả_năng đi bằng hai chân của các cầu_thủ robot không còn là điều khó_khăn nữa và vì_vậy mà có nhiều thách_thức cao hơn được đưa ra cho các đội tham_gia năm nay .
-Nằm trong khuôn_khổ RoboCup 2005 là Robotrex , một triển_lãm về các sản_phẩm và công_nghệ robot , cũng đồng_thời được tổ_chức tại Osaka .
-“ RoboCup là cuộc_thi quan_trọng để đáng_giá ngành công_nghiệp chế_tạo robot . Triển_lãm Robotrex trong khuôn_khổ RoboCup tại Nhật_Bản là một cố_gắng về phương_diện này ” , Minoru_Asada , giáo_sư tại Trường ĐH Osaka , chủ_tịch Liên_đoàn RoboCup cho_biết .
-KIM_NHUNG ( Theo Informationweek )

@@ -1,5 +1,0 @@
-﻿ CD tổng_hợp vá lỗi bảo_mật cho Windows
-Microsoft sẽ cung_cấp tất_cả bản vá lỗi bảo_mật nguy_hiểm cao hoặc bản cập_nhật cho Windows trong từng tháng vào trong tập_tin ảnh của CD ( ISO ) . “ Việc này sẽ không tác_động nhiều đến người dùng cuối vì nó sẽ không tự_động dò_tìm được phiên_bản hiện_tại của người dùng đang sử_dụng ” , Craig_Gehre từ Microsoft_Security_Response_Center giải_thích thêm . “ Nhưng thay vào đó , nó sẽ thật_sự hữu_ích cho người dùng thường tải và quản_lý nhiều bản cập_nhật . Ví_dụ như lỗi bảo_mật MS06-002 có đến 125 gói bảo riêng_biệt cho tất_cả ngôn_ngữ và phiên_bản ” .
-Người dùng phải sử_dụng phần_mềm từ hãng thứ 3 để ghi tập_tin ảnh ( ISO-9660 ) lên CD . Thông_tin về CD tổng_hợp lỗi bảo_mật và cập_nhật có_thể xem tại đây .
-Microsoft cũng phát_hành tập_tin ảnh CD đầu_tiên cho tháng 1-2006 này , tổng_hợp 2 lỗi bảo_mật là KB912919 ( MS06-001 ) và KB908519 ( MS06-002 ) . Với dung_lượng 98.7MB , người dùng có_thể tải về hoàn_toàn miễn_phí tại đây .
-THANH_TRỰC

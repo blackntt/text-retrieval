@@ -1,9 +1,0 @@
-﻿ Chèn chữ_ký trong Microsoft_Word
-Đầu_tiên , bạn hãy scan chữ_ký của mình vào máy_tính . Giả_sử bạn đã có máy scan , viết chữ_ký của mình lên một tờ giấy trắng và đặt vào máy .
-Kế_tiếp , chọn menu Insert - Picture - From_Scanner or Camera . Nếu máy scan được cài_đặt , Word sẽ mở hộp_thoại Insert_Picture from Scanner or Camera . Bạn có_thể chọn máy scan từ danh_sách Device và chọn Custom_Insert để mở driver điều_khiển của máy scan .
-Nếu máy scan chưa được cài_đặt , Word sẽ hỏi bạn có cài_đặt nó hay không . Bạn tùy_ý chọn_lựa cài_đặt hay sử_dụng chương_trình thường dùng để scan . Bạn cũng cần lựa_chọn loại_hình scan , độ_phân_giải và kích_thước . Thông_thường nên scan ở chế_độ 1 bit - vì chỉ cần hai màu trắng_đen . Bạn không nên chọn chế_độ ảnh trắng_đen vì như_thế hình_ảnh của chữ_ký có_thể bị nhòe .
-Nếu bạn scan từ trong Word , chữ_ký sẽ được chèn vào document . Nếu bạn scan từ chương_trình khác , hãy lưu nó lại dưới dạng BMP hay TIFF . Sau đó chọn menu Insert - Picture - Form_File để đặt chữ_ký vào document .
-Trong_Word , click chọn chữ_ký và chọn menu Format - Picture , chọn tab Layout . Trong phần Wrapping_Style chọn chế_độ In line with Text . Khi ấy Word sẽ hiểu ảnh có chữ_ký của bạn là một chuỗi ký_tự có size lớn .
-Cuối_cùng , bạn chọn menu Insert - AutoText - New , nhập vào từ đại_diện chẳng_hạn như sig . Kể từ bây_giờ , bất_cứ khi nào muốn , bạn chỉ cần nhập từ sig và nhấn F3 , chữ_ký sẽ xuất_hiện trong tài_liệu của bạn .
-Ghi_chú : Khi scan bạn nên thử các độ_phân_giải 600-1200 dpi hay 720-1440 dpi và xem cái nào cho hình_ảnh chữ_ký đẹp nhất thì chọn .
-ANH_TUẤN ( PC Magazine )

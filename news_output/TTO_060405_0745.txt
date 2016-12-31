@@ -1,8 +1,0 @@
-﻿ Bao_giờ có ngân_hàng đề thi giấy_phép lái_xe 2 bánh ?
-- Cục Đường bộ VN đã công_bố trên mạng chương_trình đào_tạo thi giấy_phép lái ôtô và môtô . Đồng_thời đã chỉ_đạo các cơ_sở đào_tạo lái_xe ( CSĐTLX ) phải thực_hiện đúng chương_trình này và yêu_cầu thực_hiện hợp_đồng với học_viên trong việc giảng_dạy đúng chương_trình .
-Trường_hợp các CSĐTLX dạy_học mẹo , học tủ là sai_phạm , các học_viên có quyền yêu_cầu phải thực_hiện đúng chương_trình và có quyền khiếu_nại với cơ_quan quản_lý CSĐTLX là các sở giao_thông vận_tải hoặc giao_thông công_chính tỉnh , TP .
-Có ý_kiến cho rằng nếu có ngân_hàng đề thi giấy_phép lái_xe thì việc dạy mẹo , dạy tủ sẽ không có kết_quả . Xin ông cho_biết bao_giờ có ngân_hàng đề thi giấy_phép lái_xe hai bánh ?
-- Chúng_tôi đã lập chương_trình phần_mềm thi lý_thuyết lái ôtô trên máy_vi_tính . Theo đó , với 300 câu_hỏi của đề thi này có_thể được chuyển thành hàng ngàn bộ đề thi khác_nhau . Tuy_nhiên , hiện_nay chưa_thể thực_hiện việc thi lý_thuyết trên máy_vi_tính đối_với lái_xe hai bánh vì nhiều vùng_xa , vùng_sâu chưa có điều_kiện trang_bị máy_vi_tính .
-Vậy đến lúc_nào mới đủ điều_kiện tổ_chức thi lý_thuyết trên máy_vi_tính đối_với lái_xe hai bánh ?
-- Việc tổ_chức thi lý_thuyết trên máy_vi_tính sẽ hạn_chế được tình_trạng học tủ , học mẹo . Hiện_nay chưa xác_định được thời_điểm qui_định bắt_buộc về việc này . Cục Đường bộ chỉ mới khuyến_khích sở giao_thông vận_tải , giao_thông công_chính tổ_chức cho thí_sinh ở TP hoặc thị_xã thi lý_thuyết lái môtô trên máy_vi_tính mà thôi .
-NGỌC_ẨN thực_hiện

@@ -1,5 +1,0 @@
-﻿ Badaboom – Chạy_đua với pháo_thăng_thiên
-Luật_chơi của game này như sau : Người_ta cho bạn một hũ kẹo bên trong có 4 cây pháo_thăng_thiên . Nhiệm_vụ của bạn là dùng chuột chọn càng nhiều viên kẹo cùng màu càng tốt trong khoảng thời_gian 60 giây để ghi_điểm và tránh để hũ kẹo đầy tràn .
-Việc này không đơn_giản vì cái hũ này sẽ tự xoay liên_tục , làm xáo_trộn vị_trí của các viên kẹo , khiến cho bạn rối mắt .
-Chú_ý sợi dây cháy chậm bên phải hũ kẹo . Khi bạn bắt_đầu chơi , sợi dây này sẽ tự bắt lửa . Đến khi hết giờ , nó sẽ châm ngòi cho các quả pháo_thăng_thiên và ... “ Badaboom ! ” . Nhạc game nghe rất vui_tai . Dung_lượng : 3,73 MB . Download : www.miniclip.com/Flash/badaboom.exe
-T . Tùng

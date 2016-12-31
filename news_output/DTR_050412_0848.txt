@@ -1,6 +1,0 @@
-﻿ Phạt cửa_hàng , siêu_thị không dùng hoá_đơn bán_lẻ
-Tổng_cục Thuế vừa có công_văn gửi Cục Thuế , Chi_cục Thuế các địa_phương đề_nghị tiến_hành rà_soát toàn_bộ các cơ_sở kinh_doanh có cửa_hàng , siêu_thị ... sử_dụng máy_tính tiền để bán_lẻ hàng_hoá , dịch_vụ và có thông_báo yêu_cầu các đơn_vị thực_hiện việc đăng_ký sử_dụng hoá_đơn bán_lẻ tự in cho máy_tính tiền theo đúng quy_định hiện_hành .
-Ngành Thuế yêu_cầu tất_cả các cơ_sở kinh_doanh có cửa_hàng , siêu_thị ... sử_dụng máy_tính tiền để bán_lẻ hàng_hoá , dịch_vụ thì đều phải dùng hoá_đơn bán_lẻ tự in cho máy_tính tiền . Loại hoá_đơn này được sử_dụng làm căn_cứ để tính thuế .
-Hoá_đơn bán_lẻ sử_dụng cho máy_tính tiền do Bộ Tài chính phát_hành hoặc tổ_chức , cá_nhân tự in phải đăng_ký với Cục Thuế tỉnh , thành_phố trực_thuộc Trung_ương .
-Mẫu hoá_đơn bán_lẻ sử_dụng cho máy_tính tiền phải có các chỉ_tiêu như : tên , địa_chỉ , mã_số thuế đơn_vị bán hàng , số_lượng , đơn_giá , thành tiền , thuế_suất thuế_giá_trị_gia_tăng ( GTGT ) , tiền thuế GTGT . Hoá_đơn phải có từ 2 liên trở_lên , liên 1 : lưu , liên 2 : giao cho khách_hàng .
-Hồng_Phúc_Theo_Viet Namnet

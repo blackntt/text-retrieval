@@ -1,9 +1,0 @@
-﻿ Mỹ đưa vào sử_dụng hệ_thống cảnh_báo an_ninh mạng quốc_gia
-Theo Giám đốc NCSD Amit_Yoran , NCAS là hệ_thống cấp quốc_gia đầu_tiên dành riêng " để xác_định , phân_tích và đối_phó đối_với các mối đe_doạ lây_lan qua đường Internet " .
-Người truy_cập Internet khi đã đăng_ký tham_gia hệ_thống sẽ nhận được e - mail cảnh_báo về sự xuất_hiện những loại sâu như Mydoom , đồng_thời được hướng_dẫn các phương_cách đảm_bảo an_toàn cho PC .
-Nhà_chức_trách Bộ an_ninh nội_địa Mỹ cho_biết , họ hy_vọng bước_tiến này sẽ góp_phần hạn_chế và làm chậm lại sự lan_rộng của các cuộc tấn_công trực_tuyến bằng cách thông_báo kịp_thời cho công_chúng biết và ý_thức được những điểm yếu cụ_thể trong hệ_thống có_thể bị khai_thác .
-Hệ_thống của Bộ an_ninh nội_địa Mỹ cũng là một kênh chuyển_tiếp những cảnh_báo từ các công_ty an_ninh mạng như Symantec . Điểm khác_biệt của DHS so với hệ_thống cảnh_báo khủng_bố là nó sẽ không thông_báo cấp_độ nguy_hiểm theo màu_sắc .
-Trước khi NCAS được đưa vào sử_dụng , mọi cảnh_báo về an_ninh mạng đều do các công_ty bảo_mật , các trung_tâm nghiên_cứu hoặc chính_phủ cung_cấp .
-Thông_tin chi_tiết cũng_như thủ_tục đăng_ký dịch_vụ được đăng_tải tại website http : / / www.us-cert.gov . Cảnh_báo được chuyển dưới dạng email và nội_dung được phân_định thành 2 loại : non-technical dành cho người sử_dụng bình_thường và technical dành cho người sử_dụng có kinh_nghiệm hoặc các nhà quản_trị .
-Tuy_nhiên , không phải tất_cả đều có thái_độ vui_mừng với sự ra_đời dịch_vụ cảnh_báo , thậm_chí nhiều người còn lo_ngại đây sẽ trở_thành một con mồi mới cho tin_tặc gài virus .
-Theo Tech Web , Reuters

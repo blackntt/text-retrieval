@@ -1,6 +1,0 @@
-﻿ Thay_thế Calculator bằng Moffsoft_Free Calc
-Giao_diện sử_dụng của Moffsoft_Free Calc hoàn_toàn hơn hẳn so với Calculator : chữ_số và các dấu cộng trừ nhân chia to và rất rõ_ràng , hỗ_trợ thêm hai phím 00 và 000 để thể_hiện những chữ_số có nhiều số 0 ; thêm vào hai phím chức_năng là M - và CT .
-Nhưng đột_phá độc_đáo nhất của Moffsoft_Free Calc chính là khả_năng lưu lại toàn_bộ các tính_toán trước đó để người dùng có_thể sử_dụng lại trong các lần tính_toán tiếp_theo . Phía bên tay_phải của Moffsoft_Free Calc có một ô trống , trong đó sẽ lưu lại toàn_bộ mọi phép_tính dưới dạng văn_bản tính_toán hết_sức trực_quan . Bạn có_thể sao_chép toàn_bộ những con_số trong bảng lưu này để sử_dụng cho các lần tính_toán tiếp_theo ; lưu lại dưới dạng văn_bản TXT hoặc in ra để xem ... Bạn cũng có_thể copy toàn_bộ kết_quả trong bảng này rồi dán vào Word hay Excel để sử_dụng .
-Để trang_trí cho Moffsoft_Free Calc , bạn có_thể vào Options - & gt ; Chọn_Color_Scheme để chọn một trong sáu màu nền cho Moffsoft_Free Calc .
-Bạn_đọc có_thể tải miễn_phí chương_trình này tại địa_chỉ : http : / / www.moffsoft.com .
-THIÊN_TRANG

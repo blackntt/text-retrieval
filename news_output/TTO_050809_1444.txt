@@ -1,7 +1,0 @@
-﻿ New_York diễn_tập đối_phó khi bị tấn_công bằng hóa_chất
-Đây là cuộc diễn_tập nhằm kiểm_tra các đường_phố và đường xe_điện_ngầm ở New_York trong trường_hợp bị tấn_công bằng hóa_chất nguy_hiểm .
-Cuộc kiểm_tra này là một phần trong dự_án trị_giá 10 triệu USD do Bộ An ninh quốc_gia Mỹ tài_trợ , nhằm giúp xác_định xem các hóa_chất hoặc khí lan_tỏa trên các tuyến đường , đường điện ngầm và trong các tòa cao_ốc như_thế_nào . Điều này có_thể giúp chính_quyền quyết_định phương_cách di_tản người_dân trong trường_hợp bị tấn_công bằng hóa_chất hay vũ_khí_sinh_học .
-Đây là đợt thử_nghiệm đầu_tiên trong số 6 đợt thử_nghiệm riêng_lẻ dự_định sẽ diễn ra trong vòng 3 tuần tới , mà theo kế_hoạch ban_đầu sẽ diễn ra_vào cuối tuần này nhưng đã hoãn lại do vấn_đề thời_tiết . Vào tháng 3 , chất_khí đã được thải ra ở các khu_vực của Manhattan nhằm giúp các nhà_khoa_học nghiên_cứu các sơ_đồ thoát hiểm trong thành_phố .
-Các nhà_khoa_học sẽ tiến_hành cuộc thử_nghiệm thứ_ba tại New_York vào tháng 3 năm tới , và dự_định sẽ hoàn_thành nghiên_cứu này vào năm 2007 .
-Thị_trưởng New_York , Michael_Bloomberg , hôm_qua cho_biết an_ninh công_cộng sẽ được bảo_đảm nhờ các thử_nghiệm này . “ Nó là dịp để chúng_ta diễn_tập phản_ứng lại nếu xảy_ra trường_hợp bị tấn_công bằng hóa_chất ” , ông nói .
-T.VY ( Theo Xinhua )

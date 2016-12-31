@@ -1,9 +1,0 @@
-﻿ Nâng_cấp hệ_thống lưu_trữ : quá rủi_ro
-Hơn 2/3 các công_ty công_nghệ IT lo_sợ việc nâng_cấp hệ_thống dữ_liệu sẽ làm thất_thoát dữ_liệu khi chuyển thông_tin sang một hệ_thống khác , nghiên_cứu do công_ty tích_hợp công_nghệ Morse nhận thấy .
-Công_ty Morse cho_biết hơn 1/3 giám_đốc IT kinh_hoàng với việc nâng_cấp hệ_thống lưu_trữ , trong đó 2/3 người được hỏi nói rằng họ sợ việc này sẽ làm thất_thoát , mất_cắp dữ_liệu và 39% giám_đốc công_ty lo_sợ rằng dữ_liệu sẽ bị thay_đổi .
-Morse khuyến_cáo nếu_không khai_thác tối_đa công_nghệ lưu_trữ mới thì hiệu_quả hoạt_động của công_ty sẽ bị ảnh_hưởng .
-“ Điều này thật dễ hiểu khi các các giám_đốc công_nghệ coi việc di_chuyển dữ_liệu kinh_doanh là nỗi kinh_hoàng ” , Wes van den Berg , nhà tư_vấn lưu_trữ của công_ty Morse , cho_biết . “ Tuy_nhiên , những người đứng đầu công_ty này không nên vì sự lo_lắng đó mà bỏ lỡ công_nghệ mới giúp giảm thời_gian và tiền_bạc để quản_lý dữ_liệu cá_nhân ” .
-Cùng_với nỗi ám_ảnh về việc thất_thoát và mất_cắp dữ_liệu , 52% người được hỏi khẳng_định việc_làm ngưng_trệ hệ_thống trong quá_trình di_chuyển lưu_trữ cũng đủ để ngăn_cản họ thực_hiện dự_án nâng_cấp hệ_thống lưu_trữ .
-Tuy_nhiên , 3/4 các chuyên_gia IT khẳng_định học sẽ thoải_mái di_chuyển dữ_liệu nếu có một_cách nào_đó giúp tránh hoàn_toàn rủi_ro nguy_hiểm .
-Khảo_sát tiền hành trên 100 giám_đốc IT trong các doanh_nghiệp lớn ở Anh . 64% người được hỏi cho_biết họ cố_gắng củng_cố lại hệ_thống lưu_trữ của công_ty .
-N.Hương Theo VNuNet

@@ -14,19 +14,15 @@ import vn.hus.nlp.utils.UTF8FileUtility;
  *
  */
 public class TextProcessor {
-	
-	
 	private static final String NEWS_DATA_FOLDER= "news_data_utf8";
 	private static final String NEWS_DATA_KEY_VALUE_FOLDER= "news_output_key_value";
 	private static final String NEWS_DATA_VECTOR_FOLDER= "news_output_vector";
-	private static final String WORDS_COUNT_FILE= "words_count.txt";//vocabulary
+	private static final String WORDS_COUNT_FILE= "words_count.txt";
 	private static final String REMOVED_WORDS_FILE = "removed_words.txt";
 	private static final String TOKENIZER_PROPERTY_FILE = "tokenizer.properties";
 	
 	public static void tokenize_and_count_frequent_in_docs(){
 		
-		//String inputDir = NEWS_DATA_FOLDER;
-		//String outputDir = NEWS_DATA_KEY_VALUE_FOLDER;
 		TextFileFilter fileFilter = new TextFileFilter(TokenizerOptions.TEXT_FILE_EXTENSION);
 		File inputDirFile = new File(NEWS_DATA_FOLDER);
 		
@@ -239,7 +235,6 @@ public class TextProcessor {
 			for(String l:lines){
 				String[] word_count = l.trim().split(" ");
 				if(word_count[0].toUpperCase().equals(term.toUpperCase())){
-					//count += Integer.parseInt(word_count[1]);
 					count++;
 					break;
 				}
@@ -251,8 +246,7 @@ public class TextProcessor {
 	
 	public static List<Double> counttf_idf_Afile(String docFile,List<String> Voca, List<Double> IDF){
 		List<Double> tf_idf = new ArrayList<Double>();
-		//String currentDir = new File(".").getAbsolutePath();
-		String inputFilePath = docFile;//currentDir + File.separator +docFile;
+		String inputFilePath = docFile;
 		
 		String[] lines = UTF8FileUtility.getLines(inputFilePath);
 		
@@ -283,12 +277,12 @@ public class TextProcessor {
 	
 	public static void createVector(){
 		String currentDir = new File(".").getAbsolutePath();
-		String inputDocs = NEWS_DATA_KEY_VALUE_FOLDER;//"news_output_key_value";//currentDir + File.separator +"news_output_key_value";
-		String outputDocs = currentDir + File.separator + NEWS_DATA_VECTOR_FOLDER;//"news_output_vector";
+		String inputDocs = NEWS_DATA_KEY_VALUE_FOLDER;
+		String outputDocs = currentDir + File.separator + NEWS_DATA_VECTOR_FOLDER;
 		
 		List<String> Vocabulary = new ArrayList<String>();
 		List<Double> IDFofVocab = countIDF();
-		String vocabPath = currentDir + File.separator + WORDS_COUNT_FILE;//"words_count.txt";
+		String vocabPath = currentDir + File.separator + WORDS_COUNT_FILE;
 		String[] lines = UTF8FileUtility.getLines(vocabPath);
 		for(String l:lines){
 			Vocabulary.add(l.trim().split(" ")[0]);
@@ -371,7 +365,7 @@ public class TextProcessor {
 		String currentDir = new File(".").getAbsolutePath();
 		List<String> Voca = new ArrayList<String>();
 		List<Double> IDF = countIDF();
-		String vocabPath = currentDir + File.separator + WORDS_COUNT_FILE;//"words_count.txt";
+		String vocabPath = currentDir + File.separator + WORDS_COUNT_FILE;
 		String[] lines = UTF8FileUtility.getLines(vocabPath);
 		for(String l:lines){
 			Voca.add(l.trim().split(" ")[0]);
@@ -397,19 +391,15 @@ public class TextProcessor {
 		File[] inputFiles = FileIterator.listFiles(inputDirFile, fileFilter);
 		List<Double> cosine_list = new ArrayList<Double>();
 		List<String> filenames = new ArrayList<String>();
-		//List<List<Double>> list_of_vectors = new ArrayList<List<Double>>();
 		for (File file : inputFiles) {
 			String[] features = UTF8FileUtility.getLines(file.getAbsolutePath());
 			List<Double> vector = new ArrayList<Double>();
 			for (String string : features) {
 				vector.add(Double.parseDouble(string));
-			}
-			//list_of_vectors.add(vector);
-		
+			}		
 			cosine_list.add(cosineSimilarity(tf_idf, vector));
 			filenames.add(file.getName());
-		}
-		
+		}		
 		
 		for (int i = 0; i < cosine_list.size()-1; i++) {
 			int m = i;

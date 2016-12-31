@@ -1,9 +1,0 @@
-﻿ PC tương_lai biết được từng hoạt_động của người dùng
-Máy_tính trong tương_lai không xa sẽ biết lúc_nào người dùng đang họp hoặc lúc_nào chủ_nhân của nó đang đi dạo trong công_viên , và từ đó sẽ điều_chỉnh cách_thức liên_lạc khi cần_thiết .
-Một dự_án nghiên_cứu do Intel và trường Đại_học Washington thực_hiện sẽ sử_dụng một hệ_thống gồm 8 bộ cảm_ứng để thu_thập dữ_liệu về ánh_sáng xung_quanh , ánh_sáng hồng_ngoại , chuyển_động của cơ_thể , mức_độ âm_thanh , độ_ẩm_không_khí và áp_suất không_khí .
-Những bộ cảm_ứng này cho_phép một thiết_bị xác_định tư_thế của người dùng , như đang đi dạo , đi tập_thể_dục hay đang ngồi trên ghế .
-Kết_hợp với dữ_liệu từ lịch làm_việc của người dùng , máy_tính có_thể biết được người đó đang họp với ban giám_đốc hay chỉ đang chat trong phòng điều_hòa .
-Theo Intel , điện_thoại_di_động hay máy_tính_cá_nhân có_thể sử_dụng thông_tin này để thực_hiện các cách liên_lạc khác_nhau , như chỉ gọi điện khi có việc quan_trọng trong thời_gian người đó đang họp hoặc chuyển cuộc_gọi vào hộp thư_thoại khi người đó đang tập_thể_dục .
-Tanzeem_Choudhury , nhà_nghiên_cứu của phòng_thí_nghiệm Seattle của Intel , cho_biết tại Hội_thảo “ Ngày_Intel ” , thiết_bị cũng có các ứng_dụng quản_lý cơ_thể và chăm_sóc sức_khỏe cho người dùng .
-Theo Choudhury , một phần_mềm trung_gian có_thể sử_dụng bộ cảm_ứng này để theo_dõi những thay_đổi về sức_khỏe , như tốc_độ đi bộ chậm hơn là một dấu_hiệu cho thấy sự giảm_sút về sức_khỏe .
-N . H_Theo VNuNet

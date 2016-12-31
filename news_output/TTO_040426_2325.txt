@@ -1,8 +1,0 @@
-﻿ 71 biểu_mẫu trong xây_dựng , đất_đai , nhà_ở
-Hiện TTO đã chuyển sang font unicode và tách ra thành từng phần riêng_biệt để bạn_đọc dễ theo_dõi . Tuy_nhiên , vẫn còn một_số sai_sót nhỏ , bạn_đọc có_thể so_sánh với bản_chính để chỉnh_sửa lại cho phù_hợp .
-1 . Quyết_định 58 do UBND_TP . HCM ban_hành .
-2 . 13 biểu_mẫu liên_quan đến cấp phép xây_dựng nhà_ở riêng_lẻ .
-3 . 14 biểu_mẫu liên_quan đến thuê nhà , mua nhà thuộc sở_hữu nhà_nước .
-4 . 23 biểu_mẫu liên_quan đến thuê đất , giao đất ...
-5 . 21 biểu_mẫu về công_chứng liên_quan đến giao_dịch bất_động_sản thuộc sở_hữu tư_nhân .
-P . V

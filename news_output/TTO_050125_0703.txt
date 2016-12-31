@@ -1,5 +1,0 @@
-﻿ 10 điểm luận_án thạc_sĩ tin_học
-TS Dương_Anh_Đức - trưởng khoa Công_nghệ_thông_tin - cho_biết đây là trường_hợp đầu_tiên sau 12 khóa đào_tạo .
-Đề_tài mang tên “ Nghiên_cứu một_số vấn_đề bảo_vệ thông_tin về ứng_dụng ” . Tác_giả đã xây_dựng một_số qui_trình bảo_vệ thông_tin tương_đối hiệu_quả , an_toàn như bộ thư_viện SmartCryptoLib cung_cấp cho người sử_dụng khả_năng xây_dựng dễ_dàng các chức_năng bảo_vệ thông_tin trong các hệ_thống phần_mềm khác_nhau : ứng_dụng mã_hóa và chữ_ký điện_tử trên PDA , tương_thích với nhiều hệ_điều_hành khác_nhau nhằm bảo_vệ thư_điện_tử ; ứng_dụng điều_khiển_từ_xa tăng cường_độ bảo_mật của thông_tin trong liên_lạc trên mạng không dây ; ứng_dụng những thông_tin bí_mật vào tập_tin âm_thanh ...
-Được biết , Trần_Minh_Triết đã có gần 20 công_trình nghiên_cứu , báo_cáo trong nước và quốc_tế ( Mỹ , Singapore , Thái_Lan ... ) .
-ĐẶNG_TƯƠI

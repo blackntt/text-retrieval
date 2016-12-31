@@ -1,6 +1,0 @@
-﻿ Vẽ đồ_thị toán_học với Graph_Plotter
-Graph_Plotter 1.2.2 mới nhất được phát_hành mang theo nhiều hỗ_trợ hơn về các tính_năng cho đồ_thị . Graph_Plotter không_chỉ giúp bạn vẽ các đồ_thị mà_còn có_thể phân_tích nhiều loại biểu_đồ số_học khác_nhau , và cũng trong phiên_bản 1.2.2 mới , Graph_Plotter có_thể tìm các đường_tiệm_cận , vô_cực hay đạo_hàm cùng nhiều chức_năng khác .
-Hỗ_trợ các loại đồ_thị khác_nhau , Graph_Plotter có khả_năng xử_lý 20 đồ_thị cùng một lúc với các dạng như x ( y ) , ( y ) x ; các hàm biến_thiên , có cực y ( t ) x ( t ) , tham_số f ( x , y ) = 0 , hai biểu_thức bằng nhau f ( x , y ) & gt ; = 0 f ( x , y ) & lt ; = 0 … và chức_năng xử_lý bảng . Bạn có_thể sử_dụng các chức_năng của Graph_Plotter để vẽ đồ_thị hipebon , đồ_thị lượng_giác ( với tất_cả 20 chức_năng ) hay hằng_số ( pi , e ) .
-Chức_năng tìm_kiếm cũng là một trong những điểm mạnh của Graph_Plotter . Có_thể tìm và vẽ các đồ_thị với đường_tiệm_cận ngang - dọc-xiên , điểm vô_cực , đạo_hàm , tìm và vẽ các đường tiếp_tuyến … và lưu lại với định_dạng . bmp hay . jpg .
-Cuối_cùng , Graph_Plotter hơn các chương_trình có cùng chức_năng khác là khả_năng phân_tích nhanh_nhạy và viết các điểm đó lên một “ cây phân_tích ” , chức_năng này giúp bạn nhanh_chóng tìm ra kết_quả hay kiểm_tra lại thong số cho chính_xác . Tải về dùng thử tại đây .
-TRẦN_THANH_TRỰC

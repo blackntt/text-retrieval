@@ -1,5 +1,0 @@
-﻿ Tại_sao Windows mất vị_trí dẫn_đầu trên thị_trường ?
-“ Nhiều hệ_điều_hành sẽ không mất đi và chúng_ta sẽ không_chỉ sử_dụng một nền_tảng duy_nhất . Nhiều nhu_cầu khác_nhau sẽ yêu_cầu nhiều hệ_điều_hành khác_nhau . Do_đó chính những thiết_bị mới phục_vụ cho những nhu_cầu này sẽ khiến thị_phần của Microsoft bị thu_hẹp ” , ông Saxena cho_biết .
-IDC dự_báo , đến năm 2007 , Windows trên PC sẽ chỉ chiếm 58% thị_trường hệ_điều_hành toàn_cầu , trong khi hệ_điều_hành Symbian cho các thiết_bị di_động giữ 17% . Theo IDC , chỉ có những chiếc điện_thoại thông_minh có khả_năng chạy nhiều ứng_dụng mới được coi là có hệ_điều_hành thực_sự . Windows dùng trên thiết_bị di_động chỉ chiếm khoảng 6% thị_trường , còn Linux dành cho máy thu video kỹ_thuật_số chiếm 5% .
-Về thị_trường máy_chủ , Unix vẫn chiếm vị_trí độc_tôn với 36% , Windows 35% và Linux 15% .
-T . M ( Theo PCW )

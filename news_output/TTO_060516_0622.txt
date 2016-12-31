@@ -1,5 +1,0 @@
-﻿ Robot cá bơi bằng vây đầu_tiên trên thế_giới
-Đây là sản_phẩm của các giáo_sư và sinh_viên trường ĐH Kỹ_thuật Nanyang ( Singapore ) . Để cho ra_đời chú robot cá biết bơi bằng vây , họ phải mất 2 năm nghiên_cứu và chế_tạo .
-Chú robot thân_thiện với môi_trường này có_thể bơi yên_tĩnh ở dưới nước , tuy không nhanh như các robot sử_dụng chân_vịt thông_thường . Các nhà_nghiên_cứu hy_vọng sẽ tiến_hành nhiều cuộc nghiên_cứu hơn_nữa để một ngày nào_đó cá robot bơi bằng vây sẽ thay cho cá robot sử_dụng chân_vịt .
-Họ hy_vọng sản_phẩm thông_minh này có_thể được dùng trong việc giám_sát , theo_dõi , thăm_dò các mỏ , vẽ bản_đồ đáy biển hoặc nghiên_cứu sinh_vật_học bằng cách trang_bị cho nó các camera hay các compa .
-KIM_NHUNG ( Theo Xinhua )

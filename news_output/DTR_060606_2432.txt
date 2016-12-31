@@ -1,9 +1,0 @@
-﻿ Lenovo “ hắt_hủi ” Linux ?
-Một đại_diện của hãng máy_tính khổng_lồ Trung_Quốc không khẳng_định nhưng cũng có ngụ_ý rằng Lenovo sẽ không cài_đặt hệ_điều_hành Linux trong các máy_tính_cá_nhân và máy_tính_xách_tay ThinkPad , series 3000 của họ .
-“ Chúng_tôi sẽ không sản_xuất sản_phẩm nào sử_dụng Linux và cũng không có đợt đặt_hàng nào cả ” , ông Frank_Kardonski , Giám_đốc sản_phẩm toàn cẩu của Lenovo , khẳng_định trên tờ CRN . “ Trong thời_điểm nay , Windows vẫn là nhất ” .
-Tuy_nhiên , tập_đoàn này lại cố_gắng giải_thích về thông_tin sai_lệch mà ông Kardonski cung_cấp . Theo họ , Lenovo vẫn tiếp_tục hỗ_trợ Linux trong dòng ThinkPad . “ Sẽ không có sự thay_đổi trong cam_kết của chúng_tôi với cộng_đồng mã mở Linux , với khách_hàng và cả các đối_tác kinh_doanh ” , Marc_Godin , Phó_giám_đốc marketing bộ_phận máy_tính_xách_tay của Lenovo cho_biết .
-Tuyên_bố hùng_hồn này bắt_đầu sau vài tuần Lenovo ký hợp_đồng 1 năm với Microsoft , mua lại phần_mềm trị_giá 1,2 tỷ USD của hãng này .
-Ông Godin nói , chắc là Kardonski nhần lẫn giữa chiến_lược Lenovo cung_cấp giấy_phép ( License ) Linux với cung_cấp các phiên_bản tải trước của phần_mềm . Bởi_vì rất nhiều công_ty đang sử_dụng các cấu_hình của hệ_điều_hành Linux trên máy_tính_xách_tay ThinkPad , Lenovo không cung_cấp license cho phần_mềm đó . Do_đó , nều người dùng đã mua giấy_phép thì Lenovo sẽ cài_đặt trước cho ThinkPad một cấu_hình mong_muốn .
-Phó_giám_đốc marketing của Lenovo cho_biết thêm , thực_ra , hãng đã có kế_hoạch hợp_tác với Novell để hỗ_trợ Linux trên dòng ThinkPad bắt_đầu_từ quý 3 tới .
-Năm_ngoái , Lenovo đã mua lại bộ_phận PC của IBM . Và IBM là nhà_đầu_tư chính đối_với hệ_điều_hành Linux và mã nguồn mở . Tháng trước , tập_đòan này đã tuyên_bố đang xây_dựng trung_tâm phát_triển Linux trị_giá 2,2 triệu USD ở Brazil .
-Hương_Nguyên_Theo CNet

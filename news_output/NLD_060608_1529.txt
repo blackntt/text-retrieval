@@ -1,6 +1,0 @@
-﻿ VIB Bank triển_khai mạng thanh_toán trực_tuyến
-( NLĐO ) - Ngân_hàng Quốc_tế ( VIB Bank ) hôm_qua ( 7-6 ) đã chính_thức công_bố thành_công trong việc triển_khai hệ_thống ngân_hàng đa_năng SYMBOL do hãng System_Access ( Singapore ) cung_cấp .
-Giải_pháp ngân_hàng đa_năng được triển_khai trên một hạ_tầng công_nghệ_thông_tin hiện_đại , cho_phép VIB Bank xây_dựng mạng thanh_toán trực_tuyến trong trong toàn hệ_thống đảm nhanh_chóng và chính_xác .
-Bên_cạnh đó , hệ_thống này còn cho_phép giảm_thiểu các khâu trung_gian , đồng_thời kiểm_soát hành_động và phòng_ngừa rủi_ro tốt hơn .
-Ngoài_ra , VIB Bank còn có_thể ứng_dụng thanh_toán điện_tử liên ngân_hàng toàn_cầu , phát_triển dịch_vụ mobile banking , Internet_Banking và hệ_thống ATM trên hệ_thống SYMBOL . Với hệ_thống mới này , VIB Bank loại_bỏ hệ_thống VIB online đang áp_dụng . Hệ_thống mới được hy_vọng trở_thành nền_tảng cho việc ứng_dụng các dịch_vụ trực_tuyến trong tương_lai , mở_rộng và tăng_cường khả_năng cạnh_tranh .
-G.Linh

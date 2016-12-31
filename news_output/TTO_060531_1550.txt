@@ -1,5 +1,0 @@
-﻿ Robot tắc_kè !
-Robot_Stickybot - Ảnh : Trường ĐH Stanford_Robot tắc_kè có_thể trèo lên tường và đi qua trần nhà nhờ hàng triệu chiếc lông cứng nhỏ_xíu trên bề_mặt chân nó . Mỗi chân của robot bị hút vào tường bởi một lực gian phân_tử được gọi_là lực van der Waals , cho_phép chân robot bám chặt vào tường .
-Robot có tên Stickybot này do Mark_Cutkosky và nhóm nghiên_cứu tại Trường ĐH Stanford ở California chế_tạo . Chân của Stickybot có nhiều chiếc lông nhân_tạo được làm từ một chất đàn_hồi , đảm_bảo cho khu_vực tiếp_xúc rộng_lớn giữa chân robot và tường .
-Lầu năm góc rất thích_thú trong việc phát_triển những đôi giày và găng_tay phục_vụ cho leo_trèo khéo_léo như tắc_kè . Cutkosky nói một kiểu robot như Stickybot cũng có_thể được dùng để khám_phá các hành_tinh hay phục_vụ như robot giải_cứu .
-TƯỜNG_VY ( Theo Newscientist )

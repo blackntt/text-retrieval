@@ -1,5 +1,0 @@
-﻿ Hướng_dẫn cơ_bản để phát_triển J2ME trên ĐTDĐ
-- Phát_triển ứng_dụng với J2ME , hướng_dẫn bạn từng bước cách lập_trình cho các thiết_bị di_động sử_dụng bộ công_cụ Wireless_Toolkit 1.0 của Sun .
-- Hướng_dẫn sử_dụng Samsung SDK 1.0 , giúp bạn làm_quen với việc kiểm_nghiệm các ứng_dụng của bạn trên Samsung SDK 1.0 hỗ_trợ MIDP 1.0 như X600 .
-- Phát_triển ứng_dụng J2ME với Samsung_Ja Umi SDK 2.0 . Đây là bộ công_cụ phát_triển mới nhất của Samsung , JaUmi 2.0 giúp bạn phát_triển và kiểm_nghiệm các ứng_dụng MIDP 1.0 và 2.0 có sử_dụng thêm các tính_năng của điện_thoại Samsung .
-BTC

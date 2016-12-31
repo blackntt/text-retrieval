@@ -1,8 +1,0 @@
-﻿ Laptop dễ bị hỏng phần_cứng
-Trong khi máy_tính_xách_tay dần trở_thành phương_tiện làm_việc chính của người dùng thì theo khảo_sát của Gartner , gần 1/5 laptop bị “ đứt gánh ” phần_cứng trong khi các bộ_phận khác của máy đều hoạt_động tốt .
-Khảo_sát của Gartner nhận thấy , có những phần bị hỏng rất đơn_giản , như mấu then gắn hai_thân của laptop , hay những bộ_phận thường_xuyên hỏng nhất , trong đó có bo_mạch_chủ ( motherboard ) và ổ_cứng .
-Máy_tính_để_bàn cũng có nguy_cơ bị hỏng tương_tự nhưng thực_tế lại rất ít khi xảy_ra . Gartner ước_tính chỉ 5% trong số PC bán ra năm 2005 – 2006 bị lỗi phần_cứng trong 1 năm đầu_tiên và 12% bị lỗi trong 4 năm sau đó . Trong khi đó , 15% laptop bị hỏng_hóc trong năm đầu_tiên sử_dụng và 22% bị lỗi phần_cứng trong 4 năm sau .
-Trong những năm gần đây , hỏng màn_hình là lỗi phổ_biến nhất trong laptop . Tuy_nhiên , mọi sự đã thay_đổi , bà Leslie_Fiering , Phó_giám_đốc nghiên_cứu của Gartner , khẳng_định . Các công_ty sản_xuất laptop đã cải_thiện thiết_kế , giúp giảm rủi_ro bị vỡ màn_hình bằng cách bổ_sung thêm vật_liệu cứng khi sản_xuất vỏ máy_tính và gờ để lắp mặt màn_hình . Các công_ty này cũng đồng_thời tăng thêm khoảng_cách giữa màn_hình và bàn_phím để không bị va_chạm khi đóng máy .
-Bo_mạch_chủ đang trở_nên phức_tạp hơn . Trước_đây , các nhân_viên IT có_thể thay_thế riêng_rẽ các bộ_phận , như card mạng hay modem nhưng bây_giờ thì những bộ_phận này đều được tích_hợp trên bo_mạch . Do_đó , để sửa từng bộ_phận thì_phải thay_thế toàn_bộ motherboard .
-Mặc_dù vậy , các công_ty sản_xuất máy_tính đang cố_gắng sản_xuất những model bền_bỉ hơn , bà Fiering ghi_nhận .
-N . H_Theo PCWorld

@@ -1,8 +1,0 @@
-﻿ Windows thế_hệ mới sẽ ra_mắt vào năm 2006
-Tại hội_thảo các nhà_lập_trình cao_cấp của Microsoft , Chủ_tịch Gates cho rằng Longhorn là phần_mềm cải_tiến lớn nhất kể từ phiên_bản Windows 95 ( chạy trên hơn 90% máy_tính_để_bàn ) . Phần_mềm này cung_cấp các phương_thức lưu_trữ file mới , bảo_mật cao hơn và ít gây khó_chịu khi khởi_động lại . Bốn yếu_tố quyết_định của Longhorn là bảo_mật , hệ_thống đồ_hoạ , hệ_thống lưu_trữ thông_tin và dịch_vụ web .
-Hệ_thống lưu file tin thống_nhất Windows_Future_Storage ( WinFS ) mới dựa trên công_nghệ cơ_sở_dữ_liệu SQL Server cho_phép người dùng dễ_dàng tìm_kiếm thông_tin trên ổ_cứng hoặc trên mạng . WinFS sẽ thay_thế hệ_thống file NTFS và FAT32 đang được sử_dụng trong Windows XP và các bản trước đó .
-Longhorn còn có tính_năng mới khác là một dải dọc cạnh màn_hình cung_cấp nhiều thông_tin quan_trọng , chẳng_hạn như ngày_tháng , danh_sách nhắn_tin , đường link tới các trang_web hoặc giá cổ_phiếu mới nhất .
-Microsoft dự_tính thêm tính_năng mạng ngang_hàng trong sản_phẩm mới nhằm cho_phép nhân_viên gửi tài_liệu cho nhau rồi cùng cùng xem và chú_thích . Hệ_điều_hành mới cũng hỗ_trợ tất_cả các chuẩn DVD ghi , như DVD-RAM , DVD+ RW , DVD+ R và thậm_chí cả công_nghệ laser xanh , đồng_thời , hỗ_trợ tốt khả_năng nhận lệnh qua giọng nói , dịch_vụ điện_thoại tích_hợp và chất_lượng hình_ảnh .
-Bên_cạnh đó , Microsoft còn cho công_bố một công_cụ có tên " WinFX " , được mô_tả như một model lập_trình ứng_dụng mới cho hệ_điều_hành Windows và là một " cuộc cách_mạng " cho nền_tảng lập_trình . NET .
-Với những tính_năng mới , Microsoft hy_vọng tạo ra một cuộc cách_mạng khi chính_thức giới_thiệu Longhorn vào năm 2006 .
-THÙY_MINH tổng_hợp

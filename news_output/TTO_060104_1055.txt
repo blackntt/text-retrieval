@@ -1,7 +1,0 @@
-﻿ AllPeer , công_cụ peer - to-peer dành cho Firefox
-Đây được xem như_là một điều tuyệt_vời nhất dành cho trình_duyệt Firefox kể từ khi Firefox chào_đời .
-Theo như giới_thiệu , AllPeers là một sự kết_hợp tuyệt_vời thế mạnh của FireFox và BitTorrent , làm cho trình_duyệt của bạn thành một công_cụ tuyệt_vời để chia_sẻ các tập_tin media qua Internet .
-Công_cụ này tuy chưa có_mặt chính_thức , tuy_nhiên các fan của Firefox đều rất quan_tâm . Theo như công_cụ tìm_kiếm blogs ( một loại nhật_ký trên mạng ) là Technoraty , chỉ trong một_vài ngày gần đây , giới làm blogs trên mạng đã thực_hiện hơn 50 blogs nói về công_cụ này . Phần_lớn đều cho rằng , công_cụ này sẽ làm tăng số người sử_dụng Firefox , chính vì_thế sẽ tăng thị_phần của FireFox trước đối_thủ chính là Internet_Explorer của Microsoft . Tuy_nhiên cũng có một_số chưa đưa ra chính_kiến cụ_thể vì cho rằng , dù_sao thì AllPeers vẫn chưa ra_đời .
-Theo ghi_nhận cho thấy , những người viết blog bằng tiếng Hoa , Đức , Ý , Nga và Tây_Ban_Nha cũng có quan_tâm đến phần mở_rộng mới này .
-Bạn có_thể vào tham_khảo thêm thông_tin về phần_mềm này tại địa_chỉ http : / / www.allpeers.com/more _ f.htm
-H& amp ; Q ( theo Zdnet )

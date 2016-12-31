@@ -1,8 +1,0 @@
-﻿ Từ 1-6 , triển_khai đăng_ký thẻ xe_buýt qua mạng
-Theo Sở GTCC Thành_phố Hồ_Chí_Minh , hành_khách có_thể thực_hiện việc đăng_ký thẻ xe_buýt tháng qua mạng ( www.sgtcc.hochiminhcity.gov.vn ) theo trình_tự :
-Bước 1 : Hành_khách nhấp chọn biểu_tượng “ Đăng_ký thẻ xe_buýt qua mạng ” tại cột bên phải , sau đó màn_hình sẽ hiển_thị phiếu đăng_ký thẻ xe_buýt tháng .
-Bước 2 , điền đầy_đủ thông_tin theo yêu_cầu trên biểu_mẫu và đính kèm theo file hình_ảnh bitmap với kích_thước 2x3cm và độ_phân_giải là 200 pixels .
-Bước 3 , chọn nút “ Đăng_ký ” nằm tại vị_trí dưới cuối màn_hình để gửi đến cho Sở GTCC và cuối_cùng là tự ghi lại các thông_tin cá_nhân đã đăng_ký hoặc tải biểu_mẫu “ Bản đăng_ký làm thẻ đi xe_buýt tháng ” về máy của mình , in ra và điền đầy_đủ thông_tin trên biểu_mẫu để đối_chiếu khi nhận thẻ tại Sở GTCC .
-Sau 4 ngày đăng_ký qua mạng thành_công , hành_khách mang theo phiếu đăng_ký thẻ xe_buýt tháng đã in ( hoặc phiếu tự ghi lại các thông_tin cá_nhân đã đăng_ký ) đến đối_chiếu và nhận thẻ tại : Quầy số 7 , Phòng tiếp_nhận và trả hồ_sơ , Sở GTCC , số 63 Lý_Tự_Trọng , quận 1 , TP Hồ_Chí_Minh ( Chi_phí làm thẻ xe_buýt tháng là 5.000 đồng / thẻ ) .
-Để sử_dụng loại thẻ này , hành_khách phải mua tem tháng gồm các loại như : Loại tem đi 1 tuyến với giá 72.000 đồng / tháng ; loại tem đi 2 tuyến giá 108.000 đồng / tháng và loại tem liên tuyến giá 126.000 đồng / tháng .
-Theo TTXVN

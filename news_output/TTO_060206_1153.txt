@@ -1,6 +1,0 @@
-﻿ Hacker_Nga bán rẻ mã nguồn tấn_công Windows
-Kaspersky_Lab cho_biết rằng nhóm cao_thủ hacker của Nga bán ra_bộ mã nguồn này đã chịu trách_nhiệm về một_số vụ tấn_công vào lỗi WMF của một_số hệ_thống máy_tính chạy Windows vào tháng 12-2005 . Kaspersky , giám_đốc của Kaspersky_Lab nhận_định rằng đây là hành_động thuộc dạng “ mua_bán vũ_khí ” giữa các băng_nhóm xã_hội_đen kỹ_thuật_số và chắc_chắn sẽ là một mối nguy_hiểm tiềm_tàng cho người dùng Windows khắp mọi nơi .
-Lỗi bảo_mật WMF tạo điều_kiện cho đủ loại mã độc như virus , trojan , spyware xâm_nhập vào Windows và giúp cho hacker chiếm_đoạt hoàn_toàn máy_tính . Hệ_thống máy_tính của nghị_viện Anh cũng đã từng bị tấn_công thông_qua việc lợi_dụng lỗi bảo_mật WMF này .
-MessageLabs , công_ty phụ_trách bảo_mật e - mail chính_phủ Anh cho_biết rằng đã có rất nhiều e - mail chứa mã độc chuyên tấn_công vào lỗi WMF đã được gửi đến cho tất_cả mọi cơ_quan của chính_phủ Anh trong tháng qua . Kaspersky_Lab cũng đã dò ra được hàng ngàn e - mail có chứa mã độc khai_thác lỗi WMF trong một tuần .
-Lỗi bảo_mật WMF đã được Microsoft sửa_chữa xong nhưng hiện vẫn còn rất nhiều chủ_nhân máy_tính Windows nối_mạng Internet vẫn không cần biết đến khái_niệm “ Update ” là gì , nên giới hacker xã_hội_đen vẫn còn rất nhiều đất sống .
-THỤY_KHANH ( Theo ZDNet )

@@ -1,6 +1,0 @@
-﻿ Xuất_hiện lỗi bảo_mật trong Symantec_Antivirus
-Hãng_Symantec chưa có một nhận_định nào về sự tồn_tại của lỗi bảo_mật nói trên , cho_nên hiện_tại cũng chưa có các bản vá lỗi . Riêng hãng e Eye_Digital cũng chỉ mới đưa ra một_số thông_tin về lỗi bảo_mật này . Bạn có_thể vào đây để biết thêm thông_tin về lỗi này .
-Ông Mike_Puterbaugh , phó_giám_đốc Marketing của e Eye cho_biết , lỗi này thuộc vào dạng rất nguy_hiểm , có_thể tạo điều_kiện cho các hacker chiếm quyền điều_khiển máy_tính . Hãng_Symantec cho_biết , đang tìm_hiểu sự_thật và nếu có đưa ra giải_pháp khắc_phục cho khách_hàng sớm nhất có_thể . Hãng e Eye thì cho rằng , Symantec có_thể sẽ mất từ 1 đến 2 tháng để có_thể khắc_phục hoàn_toàn lỗi này .
-Các sản_phẩm bị ảnh_hưởng của lỗi bảo_mật này , theo e Eye là Symantec_Antivirus 10 . x và Symantec_Client 3 . x . Các dòng sản_phẩm khác cũng có nguy_cơ bị ảnh_hưởng .
-Symantec_Antivirus cũng từng bị phát_hiện lỗi trong hệ_thống quét tập_tin vào tháng 10 năm_ngoái .
-TRẦN_HUY ( theo e Eye_Digital )

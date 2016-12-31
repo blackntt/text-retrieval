@@ -1,6 +1,0 @@
-﻿ Trojan theo_dõi hoạt_động của chuột máy_tính
-Các tác_giả viết virus vừa tạo ra một loại chương_trình nguy_hiểm mới , không_chỉ lưu các thông_tin nhập từ bàn_phím mà_còn có khả_năng ghi lại những lần click chuột .
-Thông_thường , Trojan dạng keylogger có_thể thu_thập thông_tin nhạy_cảm gõ trên bàn_phím như mật_khẩu , ID ... và gửi trở_lại cho kẻ phát_tán . Nhưng gần đây , một biến_thể của phần_mềm PWSteal.Bancos . Q lại lần theo các chuyển_động của chuột máy_tính và chụp màn_hình những trang_web ngân_hàng nhất_định .
-Trojan này hướng mục_tiêu tấn_công vào những tổ_chức tài_chính như Westpac ( Mỹ ) , hiện sử_dụng bàn_phím ảo để đảm_bảo an_toàn cho khách_hàng khi điền thông_tin tài_khoản .
-Chuyên_gia bảo_mật Internet_Allen_Bell cho_biết nhiều ngân_hàng trực_tuyến đang triển_khai công_nghệ bàn_phím ảo để tránh bị Trojan khai_thác , nhưng hacker đã lập_tức thay_đổi chiến_thuật . " Vỏ_quýt_dày_có_móng_tay_nhọn . Dù bạn có cải_tiến phương_pháp phòng_vệ thế_nào , tội_phạm mạng cũng sẽ tìm ra cách phá vỡ nó " , Bell khẳng_định .
-Theo T . N . VnExpress/AP

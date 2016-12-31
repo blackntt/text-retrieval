@@ -1,4 +1,0 @@
-﻿ Xóa file tạm khi truy_cập Internet
-Một_số chương_trình xóa file tạm khi truy_cập Internet trong IE Cookies , Cache và Typed URLs thường “ nhanh_nhảu ” xóa file mà không cho ta biết nội_dung hiện_tại của chúng .
-Computer_Sweeper thì khác . Chương_trình cung_cấp cho ta một danh_sách chi_tiết về những gì đang lưu_trữ trong những thư_mục này . Nhờ vậy , bạn biết rõ mình nên xóa cái nào và để lại cái nào . Dung_lượng 645 KB , hoạt_động tương_thích với mọi Windows , phần_mềm Toplang_Software sản_xuất và bán với giá 27,95 USD . Phần_mềm này dễ sử_dụng , có hiển_thị danh_sách file tạm , nhưng tốc_độ làm_việc chỉ ở mức trung_bình . Download : www.toplang.com/csweeper.exe
-T . Tùng

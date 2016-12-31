@@ -1,7 +1,0 @@
-﻿ Cho văn_bản rực_rỡ với CoolColor Text_Generator
-CTG chỉ có đúng một giao_diện sử_dụng duy_nhất và vô_cùng thân_thiện . Muốn tạo đoạn văn_bản “ long_lanh 7 sắc cầu_vồng ” thì bạn check vào ô “ Rainbow ” ; tạo đoạn văn_bản chuyển_tiếp giữa 2 tông màu tự chọn thì check vào “ Gradual_Color ” ; còn muốn văn_bản của mình có màu_sắc “ búa_xua ” thì chọn “ Ramdom_Color ” . Sau đó bạn chỉ cần gõ hoặc dán đoạn văn_bản đã soạn sẵn vào ô “ Text ” là CTG sẽ tự_động biến màu_sắc của đoạn văn_bản trở_nên long_lanh như_ý .
-Nếu tạo văn_bản ở mức_độ 7 sắc cầu_vồng thì CTG sẽ cung_cấp cho ta 3 hiệu_ứng là màu_sắc đảo nghịch , màu_sắc đối_xứng và “ Crazy_Text ” , tức các ký_tự trong văn_bản sẽ to_nhỏ bất_thường không theo 1 quy_luật nào cả . CTG sẽ cung_cấp cho bạn một bảng_màu đầy_đủ để bạn tự chọn màu ở chế_độ chuyển tông giữa hai màu .
-CTG không làm_việc được với bảng mã Unicode_Việt_Nam nhưng hoạt_động tốt với các bảng mã thông_dụng như VNI Windows , TCVN_ABC… cho_nên việc tạo văn_bản bằng tiếng Việt cũng không gặp gì khó_khăn .
-Bạn nên chọn chế_độ lưu file là HTML để xuất file văn_bản ra dưới dạng web , từ đó bạn có_thể dán qua Microsoft_Word để gián_tiếp tạo ra hiệu_ứng màu_sắc văn_bản lạ_mắt , mà rất khó làm được bằng các trình xử_lý_văn_bản .
-Công_ty DicotSoft đang bán ra công_cụ này với giá là 9,95 USD . Người dùng có_thể vào đây để tải bản CoolColor Text_Generator 1.0 về dùng thử với dung_lượng chỉ khoảng 580 KB . Hiện CTG đã có_mặt tại các cửa_hàng phần_mềm .
-HOÀNG_KIM_ANH

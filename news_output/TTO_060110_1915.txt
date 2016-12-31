@@ -1,7 +1,0 @@
-﻿ Xuất_hiện thêm 2 lỗi bảo_mật từ lỗ_hổng WMF
-Lỗi đầu_tiên là có_thể lợi_dụng lỗ_hổng WMF này để tung ra các cuộc tấn_công từ_chối dịch_vụ . Lỗi thứ_hai là nó đã ảnh_hưởng đến một file hạt_nhân của Windows là explorer . exe và sẽ gây nên hiện_tượng sập hệ_thống Windows khi người dùng ngây_thơ lỡ bật ra xem các file ảnh WMF đã được chế_tạo chuyên_dùng để tấn_công vào lỗi bảo_mật này . Trình_Explorer ảnh_hưởng đến toàn_bộ giao_diện Windows bao_gồm cả Start_Menu , Taskbar , Desktop và File manager .
-Microsoft đã công_nhận sự tồn_tại của lỗi này sau khi nhận được thông_báo . Họ đã nhận_diện được lỗi này trước khi nhận được thông_báo của n Cicle và hứa sẽ đưa ra bản vá lỗi phát_sinh này trong thời_gian sớm nhất .
-Microsoft cũng phản_đối quan_điểm cho rằng dạng lỗi này sẽ làm sập hệ_thống Windows mà chỉ cho rằng nó chỉ ảnh_hưởng đến các ứng_dụng dùng để xem dạng file ảnh WMF , như Windows_Picture hoặc Fax_Viewer chẳng_hạn .
-Mike_Murray , giám_đốc công_ty bảo_mật n Circle tại San_Francisco nhận_định : ” Hoàn_toàn không có gì ngạc_nhiên khi phát_sinh thêm một_vài lỗi bảo_mật từ lỗ_hổng WMF . Cũng chẳng lạ_lùng gì khi chỉ 1 hoặc 2 tuần nữa sẽ xuất_hiện thêm một chương_trình khác chuyên khai_thác lỗi bảo_mật mới phát_sinh này ” .
-Hiện chưa có báo_cáo chính_thức nào về thiệt_hại do lỗi bảo_mật này gây ra .
-HOÀNG_HẢI ( Theo CNET )

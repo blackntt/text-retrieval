@@ -1,7 +1,0 @@
-﻿ Anh : hầu_hết máy_tính đều bị nhiễm spyware
-Bình_quân một máy PC có chứa đến 20 đoạn mã liên_quan đến các phần_mềm gián_điệp bao_gồm mã của đủ loại phần_mềm vô_hại hoặc nguy_hiểm ( có chức_năng theo_dõi hoạt_động của hệ_thống hay cài trojan … ) .
-Công_ty bảo_mật Webroot_Software đã tiến_hành cuộc nghiên_cứu này trên 10.000 máy_tính của 4.100 công_ty tại Anh .
-Đa_số các phần_mềm gián_điệp này đều tỏ ra vô_hại , chủ_yếu là các adware có tác_dụng kích_hoạt quảng_cáo , lây_lan quảng_cáo hoặc gửi dữ_liệu quảng_cáo đi đến những máy_tính khác . Nhưng 5% trong tổng_số các phần_mềm gián_điệp có tác_dụng giám_sát hệ_thống tức có_thể theo_dõi hoạt_động của nguời dùng đang online và khoảng 5,5% có tác_dụng cấy Trojans vào máy_tính .
-Các loại Trojan này có_thể sử_dụng để cài_đặt các “ cổng hậu ” trong máy_tính , cho_phép kẻ tấn_công truy_cập được vào máy_tính để tung spam , ăn_cắp thông_tin nhạy_cảm của doanh_nghiệp , hoặc tấn_công bằng kỹ_thuật từ_chối dịch_vụ …
-Trong bản thông_báo chính_thức của mình , Richard_Stiennon phó_chủ_tịch của Webroot cho_biết : " Tất_cả mọi thông_tin về công_ty , khách_hàng , tiền_lương , sản_phẩm , mã nguồn … đều là mục_tiêu của spyware " .
-HOÀNG_HẢI ( Theo ZDNet )

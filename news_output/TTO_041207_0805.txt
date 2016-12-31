@@ -1,7 +1,0 @@
-﻿ Hòa_nhịp Tiger_Cup 2004 bằng Tiger_Cup_Mobile
-TigerCupMobile cho_phép người sử_dụng điện_thoại_di_động tra_cứu nhanh lịch thi_đấu của các đội_tuyển ( thời_gian , địa_điểm , cặp đấu ) . Người sử_dụng cũng có_thể tự_động cập_nhật tỉ_số của các trận đấu diễn ra trong giải qua hai hình_thức : tự nhập bằng tay sau khi biết tỉ_số hoặc truy_cập qua WAP để cập_nhật tất_cả các dữ_liệu mới về giải đấu này .
-Khi nhập tỉ_số trận đấu , chương_trình sẽ cho bạn biết những thông_số về bảng đấu như : đội nào đang đứng nhất bảng , hệ_số bàn thắng , bàn thua , đội nào sẽ được vào Bán_kết hay Chung_kết . Với phần_mềm này người sử_dụng sẽ có một cái nhìn một_cách tổng_quát nhất về giải đấu Tiger_Cup 2004 .
-Phần_mềm TigerCupMobile được phát_triển thành hai phiên_bản tiếng Việt và tiếng Anh , đồng_thời hỗ_trợ người sử_dụng xem lịch thi_đấu theo bất_cứ giờ nào của các nước Đông_Nam Á . Bên_cạnh đó , chương tri ̀ nh se ̃ cho ba ̣ n biê ́ t thông_tin ngă ́ n go ̣ n vê ̀ li ̣ ch sư ̉ ca ́ c gia ̉ i đâ ́ u TigerCup trươ ́ c , cùng_với những thay đô ̉ i mơ ́ i nhâ ́ t cu ̉ a gia ̉ i TigerCup 2004 vê ̀ gia ̉ i thươ ̉ ng , ca ́ ch thư ́ c đâ ́ u loại ...
-Chương_trình đã được kiểm_tra và chạy tốt trên các đời máy sau : Samsung : D410 , E600 , E700 , E800 , S200 , S300 , C100 , X600 , X120 ; Nokia : 6600 , 3100 , 7600 , 6610 , 7610 ; Sony_Ericsson : T610 .
-Tải về hướng_dẫn sử_dụng chương_trình tại đây . Nếu dùng điện_thoại_di_động thì tải về từ trang wap : wap.fptmobile.com.vn hoặc vào http : / / www.antsvn.com để tải về bằng máy_tính .
-ĐÔNG_HẢI

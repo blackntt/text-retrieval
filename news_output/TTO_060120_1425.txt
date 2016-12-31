@@ -1,6 +1,0 @@
-﻿ 90% doanh_nghiệp Mỹ bị tin_tặc tấn_công
-Theo “ Báo_cáo điều_tra tội_phạm máy_tính 2005 ” FBI cho_biết rằng có đến 87% số doanh_nghiệp Mỹ thừa_nhận rằng doanh_nghiệp mình đã bị tấn_công tối_thiểu là vài lần trong năm 2005 bằng nhiều hình_thức . Khoảng 20% số doanh_nghiệp Mỹ đã bị tấn_công từ 20 lần trở_lên trong năm 2005 .
-Hầu_hết các công_ty bị tấn_công đều thừa_nhận rằng dù có kỹ_lưỡng đến đâu thì các máy_tính của công_ty cũng đều có khả_năng bị nhiễm mã độc . Virus và phần_mềm gián_điệp là 2 dạng mã độc được mọi kẻ tấn_công ưa_thích sử_dụng nhất .
-FBI cho_biết chỉ có 33% số doanh_nghiệp Mỹ là sử_dụng các đường truyền được trang_bị các cổng quét virus , đa_số còn lại đều hoạt_động với loại mạng mà virus được phép “ oanh_kích tự_do ” . Có khoảng 64% số doanh_nghiệp cho_biết rằng mình đã bị thiệt_hại do bị hacker tấn_công các kiểu , chủ_yếu là tấn_công lừa_đảo tài_chính với số tiền thất_thoát trung_bình là 24.000 USD/doanh nghiệp . Như_vậy tổng_số tiền mà mọi doanh_nghiệp tại Mỹ đã “ cúng ” cho bọn tội_phạm kỹ_thuật_số trong năm 2005 có_thể lên đến con_số khổng_lồ là 67,2 tỷ USD , trong khi năm 2004 chỉ là 52,6 tỷ USD .
-Cuộc nghiên_cứu này do Trung_tâm điều_tra tội_phạm máy_tính của FBI kết_hợp với Viện bảo_mật máy_tính Hoa_Kỳ thực_hiện . Bạn_đọc quan_tâm có_thể vào đây để tham_khảo toàn văn_bản báo_cáo này của FBI .
-THỤY_KHANH ( Theo Tech Web )

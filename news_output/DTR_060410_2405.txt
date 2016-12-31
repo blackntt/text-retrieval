@@ -1,6 +1,0 @@
-﻿ Virus mới " gây_hấn " cả Linux và Windows
-Tuy mức_độ nguy_hiểm của virus Linux.Bi . A hoặc Win32.Bi . A không cao , nó là dấu_hiệu rõ_ràng cho thấy những chương_trình nguy_hiểm , có khả_năng hoạt_động trên đa nền_tảng khác_nhau , bắt_đầu hình_thành .
-Theo công_ty bảo_mật Nga_Kaspersky , phiên_bản Linux.Bi . A hoặc Win32.Bi . A có_thể xâm_nhập vào các tệp_tin trong thư_mục hiện_hành ( current directory ) nhưng không gây thiệt_hại lớn và cũng không tự_động phát_tán rộng .
-Do được thiết_kế để chạy trên cả hai hệ_điều_hành , Bi . A không_thể khai_thác triệt_để mọi điểm yếu trong từng nền_tảng . Hơn_nữa , Linux hiện chủ_yếu được trang_bị cho máy_chủ nên rất ít người sử_dụng gặp rắc_rối . " Không có ai phải thức trắng đêm để đối_phó với Bi . A . Nhưng đây thực_sự là một mốc quan_trọng trong quá_trình tiến_hóa của virus " , hãng bảo_mật Trend_Micro ( Mỹ ) nhận_xét .
-Bi . A có_vẻ được một tin_tặc kiểu " truyền_thống " soạn ra , nghĩa_là hacker đó chỉ muốn chứng_tỏ kỹ_năng lập_trình của mình hơn là muốn kiếm tiền bất_chính . Kaspersky khuyến_cáo rằng đoạn mã trong Bi . A sẽ sớm bị các nhóm tội_phạm mạng để_mắt tới và biến nó thành cơ_sở để xây_dựng những phiên_bản được phát_tán trên đa_hệ điều_hành khác_nhau .
-Theo T . N . VnExpress/ComputerWorld

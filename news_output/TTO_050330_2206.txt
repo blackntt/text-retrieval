@@ -1,7 +1,0 @@
-﻿ Chế_tạo robot phẫu_thuật trên chiến_trường
-Người_ta cho_biết kết_quả của cuộc nghiên_cứu này sẽ là một bước_tiến rất lớn trong việc cứu sống con_người . Sắp tới Lầu_Năm_Góc sẽ được xem một đoạn băng của nhà_sản_xuất cho thấy khả_năng của robot này có_thể phẫu_thuật một binh_lính ngay giữa đạn_bom rồi sau đó chuyển người lính đến_nơi an_toàn .
-Kỹ_thuật chế_tạo robot này sẽ dựa trên và cải_tiến kỹ_thuật phẫu_thuật Da_Vinci . Đây là một kiểu phẩu thuật dân_sự dùng robot có 3 tay ( 2 tay_cầm dụng_cụ phẫu_thuật và 1 tay_cầm máy_quay_phim được đưa vào cơ_thể bệnh_nhân thông_qua 3 vết rạch dài 1 cm ) nối với bác_sĩ phẫu_thuật , bác_sĩ không trực_tiếp đụng vào người bệnh_nhân mà thao_tác cách bệnh_nhân vài mét và quan_sát diễn_tiến ca mổ thông_qua một màn_ảnh 3 chiều , robot sẽ thực_hiện đúng tất_cả hững thao_tác của bác_sĩ giải_phẫu . Hiện_nay kỹ_thuật này thường được dùng để phẫu_thuật cắt bỏ khối_u tuyến_tiền_liệt hoặc phẫu_thuật van tim .
-Tuy_nhiên để chế_tạo được loại robot phẫu_thuật ngay tại chiến_trường , các nhà_khoa_học phải vượt qua được 2 thử_thách chính đó là :
-- Trong kỹ_thuật phẫu_thuật Da_Vinci thì y_tá sẽ là người thay dụng_cụ mổ cho robot trong khi nếu ra ngoài chiến_trường thì công_việc này sẽ được thực_hiện tự_động .
-- Khi ra chiến_trường sẽ không còn dây nối giữa robot và bác_sĩ phẫu_thuật do_đó robot phải là một thiết_bị không dây đồng_thời nó còn phải né được quân_thù .
-KINH_LUÂN ( Theo BBC_NEWS )

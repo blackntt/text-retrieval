@@ -1,5 +1,0 @@
-﻿ Tự_động tạo liên_kết web
-Chương_trình sẽ giúp bạn tạo ra một trang HTML/HTM chứa các siêu_liên_kết ( hyperlink ) đến những tập_tin và thư_mục con nằm trong thư_mục mà bạn chỉ_định .
-Bạn được quyền giới_hạn các dạng tập_tin , lên danh_sách các thư_mục con cần bỏ_qua , lựa_chọn kiểu trang xuất theo các mẫu cho sẵn . Liên_kết có_thể có hoặc không có đuôi tập_tin , kích_cỡ , ngày/tháng tạo_lập ; tạo liên_kết theo dạng đường_dẫn tương_đối ( relative path ) ; tự_động biến_đổi những khoảng trắng_trong mã liên_kết thành % 20 và nhiều hiệu_chỉnh đặc_biệt khác .
-Ngoài_ra , chương_trình còn hỗ_trợ việc thiết_lập frame cho trang_web thành_phẩm . Phiên_bản dirhtml 4.6 có dung_lượng khoảng 487 KB , tải tại http : / / home.pacbell.net/nitzsche/dirhtml.html .
-NGUYỄN_NGÔ_TRUNG_HIẾU

@@ -1,5 +1,0 @@
-﻿ Bản beta của My_Yahoo_Search có thêm nhiều tính_năng mới
-Bản beta của My_Yahoo_Search chỉ dành cho những người dùng đã đăng_ký sử_dụng dịch_vụ của Yahoo . Hiện_tại có khoảng 20 triệu đã đăng_ký vào My_Yahoo , Yahoo dự_tính rằng sẽ có khoảng 150 triệu người dùng sẽ đăng_ký sử_dụng dịch_vụ này trong thời_gian tới .
-Jeff_Weiner , phó_chủ_tịch của Yahoo cho_biết : " Chúng_tôi hiểu rằng người dùng ngày_càng đòi_hỏi cao hơn về tính linh_hoạt và khả_năng nắm_bắt thông_tin trong các bộ tìm_kiếm . Chúng_tôi tin_tưởng rằng chúng_tôi đã cung_cấp cho người dùng một công_cụ tìm_kiếm có tính định_hướng rất tốt có_thể đáp_ứng được từng yêu_cầu thông_tin chuyên_biệt ” .
-My_Yahoo_Search cho_phép mọi người tìm_kiếm thông_tin theo chuẩn Web bình_thường nhưng cung_cấp nhiều phương_pháp để sử_dụng kết_quả tìm được . Các kết_nối có_thể được lưu lại trong một hồ_sơ và người sử_dụng có_thể ghi_chú lại đường_dẫn đến kết_quả đó cũng_như nhập nó vào một folder độc_lập nào_đó . Yahoo hiện đã áp_dụng công_nghệ RSS ( cấu_trúc tin_tức giản_lược ) .
-HOÀNG_HẢI ( Theo News Factor )

@@ -1,6 +1,0 @@
-﻿ “ Cứu ” dữ_liệu bằng Any_Reader
-Thật_là “ bi_kịch ” khi những phương_tiện chứa dữ_liệu như đĩa_cứng , đĩa_mềm , thẻ nhớ flash , CD , DVD ... bị hư_hỏng vì nhiều lý_do . Khi_Windows đã bó_tay vì không_thể đọc được bất_kỳ dữ_liệu nào thì chúng_ta hãy cố_gắng cứu bằng Any_Reader .
-Công_cụ này có khả_năng đọc và ghi lại tất_cả những phần dữ_liệu còn có_thể đọc được và lưu chúng lại với đúng định_dạng gốc mà ta có_thể mở ra để xem những phần còn “ vớt_vát ” lại được . Any_Reader có_thể moi dữ_liệu còn sót lại ở đĩa_cứng , thẻ nhớ flash bị hỏng sector hàng_loạt , hoặc có tác_dụng ngay cả với những đĩa CD , DVD bị hư_hại vật_lý như cong vênh , mẻ tróc , mốc_meo …
-Any_Reader có bốn chức_năng phục_hồi chính là : sao_chép file từ một đĩa_cứng đã bị hỏng , sao_chép file từ các đĩa CD/DVD bị hỏng , sao_chép file từ những mạng có độ ổn_định không cao và kết_nối những file hư_hỏng đồng_dạng lại với nhau . Khi đã hoàn_tất quá_trình sao_chép , nhấn Next để qua Step 5 và nhấn vào nút “ Explorer copied files ” để xem_lại kết_quả sao lưu .
-Công_ty Regall LLC đang bán bản Any_Reader mới nhất với giá 29,95 USD . Người dùng có_thể vào http : / / www.anyreader.com / để tải về bản dùng thử .
-Theo Thụy_Khanh_Tuổi trẻ

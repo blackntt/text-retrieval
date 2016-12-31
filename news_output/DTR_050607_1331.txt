@@ -1,8 +1,0 @@
-﻿ Incombank mở dịch_vụ Internet_Banking
-Ngân_hàng Công_thương Việt_Nam ( Incombank ) vừa đưa ra thị_trường sản_phẩm ngân_hàng điện_tử Internet_Banking . Đây là kênh giao_dịch điện_tử thuộc hệ_thống INCAS ( Incombank_Advanced_System ) sử_dụng môi_trường Internet để cung_cấp dịch_vụ cho khách_hàng .
-Incombank_Internet_Banking có nhữngchức năng như vấn tin tài_khoản , sao kê , nhật_ký giao_dịch , chuyển_khoản ( cho_phép người sử_dụng chuyển_khoản từ tài_khoản này sang tài_khoản khác của cùng người sử_dụng hoặc chuyển_khoản cho người khác trong hệ_thống INCAS ) .
-Dịch_vụ cũng cho_phép thực_hiện thanh_toán dịch_vụ tiện_ích như hóa_đơn điện , nước , điện_thoại … hoặc cho_phép khách_hàng trả nợ tiền vay vào tài_khoản ngân_hàng … .
-Theo Incombank , hiện_tại Internet_Banking mới thực_hiện cung_cấp chức_năng vấn tin tài_khoản Incombank và vấn tin lịch_sử giao_dịch , các chức_năng khác sẽ được Incombank triển_khai trong thời_gian tới .
-Chỉ tính riêng tại Sở_giao_dịch II - Incombank đến nay đã có trên 60 khách_hàng đăng_ký sử_dụng dịch_vụ này . Để có_thể sử_dụng tất_cả các dịch_vụ Internet_Banking một_cách hiệu_quả nhất , khách_hàng nên đăng_ký sử_dụng dịch_vụ Incombank_Internet_Banking với ít_nhất hai tài_khoản đã mở tại các chi_nhánh Incombank .
-Khách_hàng chỉ cần điền vào mẫu đăng_ký in sẵn và chuyển lại cho chi_nhánh Incombank . Khách_hàng sẽ được truy_cập sau khi có mật_khẩu và mã sử_dụng do ngân_hàng cấp .
-Hiện_tại Incombank đã triển_khai thành_công giai_đoạn 2 dự_án hiện_đại_hóa ngân_hàng cho các chi_nhánh Incombank trên địa_bàn TPHCM . Đây là một trong 7 tiểu dự_án do Ngân_hàng Thế_giới tài_trợ với 12 module nghiệp_vụ và 3 module kỹ_thuật , được đánh_giá là một trong những dự_án hiệu_quả nhất tại Việt_Nam . Theo SGGP

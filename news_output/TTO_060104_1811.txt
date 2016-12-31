@@ -1,5 +1,0 @@
-﻿ Bộ làm mát bằng chất_lỏng cho Xbox 360
-Bên trong Xbox 360 , cả GPU hay CPU là nguyên_do của hầu_hết các lỗi trục_trặc phần_cứng vì vấn_đề nhiệt_độ quá_tải . Các quạt làm mát của Xbox 360 chỉ tập_trung vào IBM PowerPC CPU . Điều này có_nghĩa rằng PowerPC khi hoạt_động có nhiệt_độ rất nóng và cần được làm mát hoặc GPU không được giảm nhiệt đủ . Mặc_dù Microsoft đã cải_tiến bộ giảm nhiệt nhưng tình_hình vẫn không cải_thiện được gì nhiều . Hơn_nữa , để làm cho hệ_thống hoạt_động “ im hơi lặng tiếng ” , Microsoft đã cho các quạt hoạt_động chậm đi .
-CoolIT Systems đã thiết_kế ra một trang_thiết_bị mới cho Xbox 360 , giúp người dùng an_tâm về vấn_đề nhiệt_độ khi sử_dụng Xbox 360 . Bộ làm mát này sẽ chuyển_đổi làm mát bằng không_khí sang chất_lỏng với công_nghệ MTEC .
-Được giới_thiệu như_là thiết_bị làm mát bằng chất_lỏng đầu_tiên cho Xbox 360 ở CES ( Consumer_Electronics_Show ) vào hôm_nay ( 4/1 ) tại Las_Vegas , CoolIT đưa ra bảng so_sánh giữa thiết_bị làm mát của mình và bộ_phận làm mát có sẵn trong Xbox 360 của Microsoft .
-THANH_TRỰC

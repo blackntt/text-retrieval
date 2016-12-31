@@ -1,8 +1,0 @@
-﻿ Bước_tiến mới trong thăm_dò sao Hỏa
-Các dụng_cụ , MARSIS ... đã được triển_khai vào tháng 4-2004 nhưng việc phóng đã bị hoãn lại để các kỹ_sư tính_toán về những nguy_cơ của một dây buộc đang có nguy_cơ nếu rada buộc vào sợi dây dài 37m bị lộ ra .
-Vào tháng 2 năm nay , một cuộc kiểm_tra cẩn_thận trên phi_thuyền đã phát_hiện một ánh_sáng xanh và móc_nối đầu_tiên đã bị lộ ra . Thêm vào đó trên chuyến bay được điều_khiển bởi các kỹ_sư đã tìm ra 1 trong 13 đoạn dây của móc_nối này không được khóa vào đúng vị trị của nó , ESA nói trong một cuộc họp_báo hôm 9-5 .
-MARSIS là một trong những công_cụ đầu_tiên được mang theo trên tàu Mars_Express , nhiệm_vụ đầu_tiên là khám_phá hành_tinh khác . Nó được thiết_kế để gởi những sóng_radio có tần_số thấp hướng về phía hành_tinh và những sóng này có khả_năng xuyên qua những lớp đất sâu một_vài km .
-Năng_lượng phản_hồi lại sau đó được bắt lấy bởi quỹ_đạo và được ghi lại để mang về những bức ảnh về cấu_trúc mặt_đất phía dưới của sao Hỏa . Điều thú_vị nhất_là có_thể nhìn thấy mạch nước_ngầm bên dưới hành_tinh lạnh_giá với bề_mặt khô_cằn .
-Một việc gây xôn_xao của các cuộc thăm_dò từ khi bắt_đầu của thiên_niên_kỷ đã xác_định rõ là một_khi hành_tinh đỏ đã ngập nước nhưng nguồn nước quý_giá này đã bị mất đi một_cách kỳ_bí cách đây hàng triệu năm . Việc tìm ra nguồn nước còn sót lại sẽ là một bước quan_trọng để đưa người lên thám_hiểm sao Hỏa , với nhiệm_vụ thám_hiểm sự sống trên hành_tinh này .
-Mar_Express đến sao Hỏa vào 25-12-2003 . Không có MARSIS , tàu không_gian Mars_Express dụng_cụ quét bề_mặt dưới của sao Hỏa bằng sóng rada âm_thanh , con tàu đã gửi về những bức ảnh chính_thức . Nhiệm_vụ của nó sẽ kết_thúc vào ngày 30-11 năm nay .
-QUỐC_DŨNG ( Theo AFP )

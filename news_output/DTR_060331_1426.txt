@@ -1,9 +1,0 @@
-﻿ Smart phone đời_mới của O2
-Hãng điện_thoại Anh O2 đang chuẩn_bị mở_rộng dòng điện_thoại thông_minh XDA với phiên_bản IQ được thiết_kế thân đứng truyền_thống chứ không mang dáng_dấp của PDA trước_đây .
-Phát_ngôn_viên của O2 cho_biết , phiên_bản XDA_IQ sẽ xuất_xưởng trong tháng Tư tới . XDA_IQ giống với phiên_bản XDA Orion được O2 giới_thiệu hồi cuối năm_ngoái .
-Hiện_tại , O2 vẫn chưa_thể công_bố thông_số chi_tiết của smart phone mới này nhưng theo tờ The_Register , XDA_IQ sẽ chạy hệ_điều_hành Windows_Mobile 5.0 và được trang_bị tính_năng push e - mail .
-Phiên_bản này giống với mẫu “ Tornado ” của HTC , sử_dụng bộ_vi_xử_lý 200MHz TI_OMAP 850 , RAM 64MB , ROM 64 MB . XDA_IQ hỗ_trợ kết_nối 802.11b Wi-Fi và Bluetooth 1.2 .
-Kiểu_dáng giống với O2 Orion
-XDA_IQ được tích_hợp camera 1,3 megapixel , màn_hình rộng 2,2 inch , hiển_thị 65K màu . Máy hoạt_động trên bốn băng tần GSM và hỗ_trợ kết_nối GPRS và EDGE .
-Kích_thước 108 x 46 x 18mm , nặng 106g . Pin cho_phép người dùng đàm_thoại liên_tục 300 phút , thời_gian chờ 250 tiếng .
-N.Hương Theo The_Register

@@ -1,5 +1,0 @@
-﻿ Đưa trạng_thái Yahoo ! Messenger vào chữ_ký trong mail
-Yahoo ! Mail có_thể tự_động thêm chữ_ký ở cuối mỗi email mà bạn gửi đi . Bạn có_thể tận_dụng tính_năng này để đưa trạng_thái Yahoo ! Messenger của bạn vào để người quen hoặc người nhận mail có_thể biết được lúc đó bạn đang online hay offline và có_thể chat với bạn khi họ cần trao_đổi về mail mới nhận được .
-Trước_tiên , bạn hãy vào địa_chỉ http : / / messenger.yahoo.com/addpresence.php , nhập nick chat của bạn vào ô Your_Yahoo ! ID , ngay sau đó trang_web sẽ cung_cấp cho bạn một đoạn mã HTML , bạn chép ( copy ) lại đoạn mã bên đó .
-Đăng_nhập vào hộp_thư của bạn , vào Options , Signature , chuyển sang chế_độ soạn_thảo Color and Graphics , đánh_dấu chọn ô View HTML Source ở bên dưới rồi dán ( paste ) đoạn mã mà bạn đã chép ở trên vào phần chữ_ký của bạn rồi lưu lại ( save ) . Vậy_là từ nay , nếu bạn online thì sẽ có biểu_tượng “ I’ m Online ” , còn offline thì sẽ có biểu_tượng “ Not_Online ” .
-Lê_Gia_Trung ( Nha_Trang - Khánh_Hòa )

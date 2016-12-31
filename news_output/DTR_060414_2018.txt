@@ -1,9 +1,0 @@
-﻿ Sơn_Hà quản_trị theo mô_hình ERP Oracle E-Business Suite
-Công_ty TNHH Cơ_khí Sơn_Hà và Trung_tâm dịch_vụ ERP-FPT vừa ký dịch_vụ triển_khai phần_mềm quản_trị tổng_thể doanh_nghiệp ERP ( Enterprise_Resource_Planning ) Oracle E-Business Suite vào tin_học_hoá doanh_nghiệp .
-Với việc ký_kết này , Sơn_Hà đã trở_thành DN sản_xuất các sản_phẩm gia_dụng Inox đầu_tiên của VN ứng_dụng phần_mềm ERP vào tin_học_hoá quản_trị doanh_nghiệp , đặc_biệt là trong lĩnh_vực quản_lý sản_xuất .
-ERP ( Enterprise_Resource_Planning ) có nghĩa_là hệ_thống hoạch_định nguồn_lực doanh_nghiệp .
-Và giải_pháp Oracle E-Business Suite là một trong những giải_pháp ERP hàng_đầu thế_giới . Dự_kiến , Sơn_Hà sẽ ứng_dụng đầy_đủ các phân hệ cơ_bản của ERP như Tài_chính - Kế_toán , quản_lý mua_sắm , quản_lý bán hàng , quản_lý kho hàng , quản_lý sản_xuất và hệ_thống báo_cáo quản_trị . Với việc ứng_dụng này , Sơn_Hà sẽ chính_thức tin_học_hoá hầu_hết các tác_nghiệp của mình .
-Mặc_dù ERP không đem lại hiệu qủa trực_tiếp về mở_rộng thị_phần , tăng doanh_số bán . Nhưng bù lại , ERP sẽ cải_thiện được các quy_trình tác_nghiệp , giảm được thời_gian trễ của việc giao hàng , hàng tồn_kho , công_nợ … do Ban lãnh_đạo Sơn_Hà có_thể kiểm_soát được công_việc đó hàng ngày .
-Đồng_thời , với việc thực_hiện quy_trình tác_nghiệp theo hệ_thống ERP , cán_bộ công_nhân_viên của Sơn_Hà sẽ tăng khả_năng làm_việc nhóm , giảm nhiều thời_gian nhập dữ_liệu thừa , tăng năng xuất lao_động …
-Công_ty TNHH Sơn_Hà được thành_lập tháng 11/1998 . Sau gần 10 năm hoạt_động , Sơn_Hà đã trở_thành Công_ty hàng_đầu ở VN trong lĩnh_vực sản_xuất bồn chứa nước Inox và một_số sản_phẩm khác như : chậu rửa Inox , thép Inox công_nghiệp ( đây là mặt_hàng được sản_xuất lần đầu_tiên tại Việt_Nam bởi công_ty Sơn_Hà ) .
-Hiện_nay , sản_phẩm của Sơn_Hà không_những chiếm_lĩnh được thị_trường trong nước mà_còn có_mặt tại các thị_trường như Trung_Quốc , Đài_Loan , và một_số nước châu Á khác . M . H

@@ -1,8 +1,0 @@
-﻿ Viện hạt_nhân Đà_Lạt : Xác_định nguyên_nhân nước bẩn ra_sao ?
-Kỹ_sư nguyên_tử Nguyễn_Hữu_Quang , giám_đốc Trung_tâm ứng_dụng kỹ_thuật hạt_nhân trong công_nghiệp , thuộc VNCHNĐL , đơn_vị chủ_trì đề_tài , cho_biết :
-- Chúng_tôi tiến_hành theo hai phương_pháp : thứ nhất_là xác_định nguyên_nhân bên trong và bên ngoài có_thể gây đục nguồn nước sinh_hoạt . Bên trong đường_ống sẽ dùng mẫu nước phân_tích xem có đảm_bảo các chỉ_tiêu về độ trong , độ đục , độ p H , tính_chất nước , tổng_lượng cặn ... Mỗi loại có chế_độ bảo_quản , phân_tích riêng .
-Về nguyên_nhân bên ngoài , xác_định xem có khả_năng nước bẩn từ bên ngoài xâm_nhập vào đường_ống hay không ( ở những khu_vực nước yếu ) . Ở cách làm này , nhóm nghiên_cứu sẽ khoanh một_số đoạn ống và dùng chất cồn đánh_dấu khu_vực xung_quanh . Sau đó lấy mẫu nước định_kỳ tại khu_vực hạ_lưu , xem_xét khả_năng xâm_nhập của nước bẩn vào đường_ống ra_sao , ở nơi nào ... Đây là công_nghệ hiện_đại , tại Việt_Nam chỉ có ở VNCHNĐL .
-Thứ_hai là tính_toán quá_trình dòng_chảy trong đường_ống ( mô_hình thủy_động ) xem có hợp_lý chưa để xác_định nguyên_nhân vì_sao nước đục chỉ tập_trung ở một_số khu_vực . Dự_kiến cuối tháng 12 này bắt_đầu triển_khai và đến tháng 6-2006 kết_thúc .
-Thực_tế vừa_qua qua kiểm_tra Sawaco cũng phát_hiện bao cát , rác , đất_đá … trong đường_ống cấp_nước ...
-- Đó cũng là một trong những nguyên_nhân . Tuy_nhiên tôi cho rằng nếu chỉ là bao cát , đất_đá ... thì chỉ ảnh_hưởng ở một_số nơi , trong khi đó nước đục lại diễn ra trên diện rộng . Quá_trình nghiên_cứu sẽ làm rõ những nghi_vấn này .
-PHÚC_HUY thực_hiện

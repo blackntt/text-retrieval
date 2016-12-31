@@ -1,7 +1,0 @@
-﻿ Chip_Wi - Fi “ thăng_hoa ”
-Thị_trường sản_xuất chipset không dây đang tăng_trưởng với tốc_độ chóng_mặt nhờ sự kích_thích của máy_tính_xách_tay , bộ định_tuyến không dây và các cổng truy_cập nội_bộ . Khảo_sát của công_ty nghiên_cứu thị_trường In-Stat nhận thấy .
-Công_ty này dự_đoán , thị_trường chip Wi-Fi sẽ tăng_trưởng gấp ba lần trong vòng 4 năm tới . Đến năm 2009 , số chip được tiêu_thụ trên thế_giới sẽ đạt 430 triệu , tăng so với 140 triệu chiếc trong năm 2005 .
-Năm_ngoái , thị_trường bộ_vi_xử_lý dành cho các thiết_bị kết_nối Wi-Fi được “ tăng lực ” bằng các máy_tính_xách_tay , bộ định_tuyến không dây home / SOHO , cổng truy_cập nội_bộ và các cổng khách ngoài .
-“ Thị_trường chipset đã được các thiết_bị mạng truyền_thống kích_thích tăng_trưởng trong 5 năm qua , kể_cả công_nghệ Wi-Fi nhúng trong các máy_tính_xách_tay ” , Gemma_Tedesco , nhà_phân_tích của công_ty In-Stat , nhận_định . “ Tuy_nhiên , hiện_tại thị_trường đã bắt_đầu chuyển_dịch , các thiết_bị di_động , như game cầm tay , game console , điện_thoại_di_động và máy_in , là các nhân_tố giúp ngành chip tăng_trưởng mạnh_mẽ ” .
-Trong năm 2005 , tổng doanh_thu từ chipset đạt khoảng 1 tỷ USD . Theo khảo_sát , Broadcom , Atheros , và Intel là các công_ty chiếm phần_lớn thị_phần vi_xử_lý Wi-Fi trong năm_ngoái . In-Stat dự_đoán , trong năm 2007 , 2008 điện_thoại cho_phép kết_nối không dây Wi-Fi sẽ “ thăng_hoa ” mạnh_mẽ .
-S.Hương Theo Tech World

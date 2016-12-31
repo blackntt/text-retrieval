@@ -1,8 +1,0 @@
-﻿ Khởi_tranh vòng chung_kết Robocon VN 2006
-Tham_dự vòng chung_kết cuộc_thi năm nay có 32 đội đến từ các trường đại_học , cao_đẳng trên cả nước ( 14 đội từ miền bắc ; 12 đội miền nam và 6 đội miền trung ) . Các đội được chia làm 8 bảng , thi_đấu chọn ra mỗi bảng 2 đội để đi tiếp vòng 1/16 .
-Sau lễ khai_mạc , 12 trận đấu của hai bảng A và B đã diễn ra rất sôi_nổi , hào_hứng . Robot của các đội thi năm nay ngoài việc được trang_bị rất “ mạnh ” về phần_cứng còn có " bộ_não " phần_mềm hết_sức thông_minh . Nhiều robot được lập một_số chương_trình khác_nhau thích_hợp với từng trận đấu , từng đối_thủ .
-Kết_quả , bốn đội nhất và nhì hai bảng gồm MT_ DUT của ĐH Bách_khoa Đà_Nẵng , BKAZX - ĐH Bách_khoa Hà_Nội , BKKLJ - ĐH Bách_khoa Hà_Nội và BKPro - ĐH Bách_khoa TP.HCM đã lọt vào vòng 1/16 .
-Trong ba đêm tiếp_theo , các đội của các bảng đấu từ C đến H sẽ thi_đấu để chọn ra 12 đội thi_đấu vòng sau . Trận chung_kết sẽ diễn ra_vào đêm 4-6-2006 . Các trận thi_đấu được truyền_hình trực_tiếp trên sóng VTV2 và tiếp sóng trên các đài địa_phương .
-Nồng_nhiệt cùng Robocon ! - Ảnh : H . N_Ngoài việc theo_dõi trực_tiếp các trận đấu trên sóng , khán_giả truyền_hình còn có_thể tham_dự cuộc_thi bình_chọn đội vô_địch thông_qua hình_thức nhắn_tin . Thông_tin về vòng thi liên_tục được cập_nhật tại địa_chỉ : http : / / www.vtv.org.vn/robocon
-Trước đó , ngày 28-5 , các thí_sinh dự thi đã có đêm giao_lưu ủng_hộ hơn 1 tỷ đồng cho các nạn_nhân của cơn bão số 1 ( bão Chanchu ) .
-T.VY

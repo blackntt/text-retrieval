@@ -1,6 +1,0 @@
-﻿ Cơ_sở_dữ_liệu của MobiFone bị lộ
-Mạng an_toàn thông_tin VSEC đã phát đi cảnh_báo cho_biết website mobifone . com.vn của MobiFone đang có lỗ_hổng nghiêm_trọng .
-Lỗ_hổng này sẽ giúp các hacker kiểm_soát được hệ_thống cơ_sở_dữ_liệu , sử_dụng tài_khoản của khách_hàng để nhắn_tin tự_động tạo ra account để kiểm_soát thông_tin của số điện_thoại đó . Ngoài_ra , tin_tặc có_thể kiểm_soát những thông_tin quan_trọng của tất_cả các khách_hàng như số điện_thoại gọi đi , thời_gian đàm_thoại …
-Ông Lê_Ngọc_Minh , Giám_đốc VMS MobiFone , thừa_nhận , hệ_thống mạng của MobiFone đã có lỗ_hổng và hacker đã lợi_dụng lỗ_hổng này để đột_nhập vào hệ_thống mạng . Hiện_Mobi Fone đã phát_hiện và vá lại lỗ_hổng này .
-Ngay_lập_tức trên trang_web của MobiFone đã phát đi khuyến_nghị đổi mật_khẩu có nội_dung như sau : “ Để đảm_bảo an_toàn , bảo_mật thông_tin cho khách_hàng đang sử_dụng dịch_vụ trên trang_web của MobiFone . Công_ty chúng_tôi xin khuyến_nghị khách_hàng đã sử_dụng dịch_vụ trên 6 tháng hoặc có mật_khẩu truy_cập đơn_giản cần đổi mật_khẩu truy_cập vào trang_web www . mobifone.com.vn ” .
-Theo Bưu điện

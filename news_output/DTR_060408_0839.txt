@@ -1,6 +1,0 @@
-﻿ " Chê " smartphone vì sợ virus
-Nỗi lo_ngại về các chương_trình phá_hoại khiến nhiều công_ty không dám cấp điện_thoại thông_minh ( smartphone ) cho nhân_viên dù thực_tế , virus trong thiết_bị di_động còn rất hiếm .
-Tổ_chức doanh_nghiệp toàn_cầu EIU ( Economist_Intelligence_Unit ) , kết_hợp cùng hãng bảo_mật Mỹ_Symantec , gần đây đã thực_hiện một cuộc khảo_sát với sự tham_gia của 240 giám_đốc doanh_nghiệp trên toàn thế_giới . Trong số đó , có tới gần 2/3 các công_ty thừa_nhận lý_do chính khiến họ không chọn điện_thoại thông_minh là vì nguy_cơ bị lây_nhiễm virus trong mạng nội_bộ .
-Ngoài_ra , 47% số người tham_gia khẳng_định giá_cả đắt_đỏ và sự phức_tạp trong sử_dụng cũng là rào_cản lớn khiến thiết_bị cao_cấp này chưa được triển_khai rộng tại các doanh_nghiệp . Có đến 80% tin rằng mạng di_động cũng có nguy_cơ bị tấn_công cao tương_đương mạng cố_định , dù hầu_hết các phần_mềm nguy_hiểm hiện_nay đều được lập_trình để xâm_nhập vào máy_tính và máy_chủ kết_nối qua đường cố_định .
-Theo EIU , có_vẻ như sự lo_lắng của doanh_nghiệp xuất_phát từ những lời cảnh_báo của các hãng bảo_mật hơn là dựa trên số_liệu thực_tế . Chỉ 1/4 các công_ty tham_gia điều_tra của EIU có dấu_hiệu gặp rắc_rối khi nhân_viên sử_dụng điện_thoại thông_minh .
-Theo T . N . VnExpress/The Register

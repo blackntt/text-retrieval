@@ -1,6 +1,0 @@
-﻿ Các tuyến xe_buýt TP.HCM : An_Sương - An_Nhơn_Tây , Kỳ_Hòa - Lê_Hồng_Phong - BX miền Tây
-Lộ_trình : bến_xe An_Sương - quốc_lộ 22 - ngã tư An_Sương - quốc_lộ 22 - Bà Triệu - Quang_Trung - Lý_Nam_Đế - Trần_Khắc_Chân - Đỗ_Văn_Dậy - tỉnh_lộ 15 - ngã tư Tân_Qui ( Củ_Chi ) - tỉnh_lộ 15 - ngã ba An_Nhơn_Tây ( giao_lộ tỉnh_lộ 15 và hương_lộ 7 ) .
-Hồ_Kỳ_Hòa - Lê_Hồng_Phong - bến_xe miền Tây
-Thời_gian hoạt_động từ 5g30 - 19g với 102 chuyến/ngày , cự_ly 11km và thời_gian hành_trình là 40 phút . Giờ cao_điểm 15 phút/chuyến và giờ thấp_điểm 20 phút/chuyến . Giá vé 2.000 đồng/người đi một trạm hoặc suốt tuyến .
-Lộ_trình : trước công_viên Hồ_Kỳ_Hòa - Lê_Hồng_Phong - Nguyễn_Trãi - Nguyễn_Văn_Cừ - An_Dương_Vương - Trần_Phú - Nguyễn_Duy_Dương - An_Dương_Vương - Nguyễn_Tri_Phương - Hùng_Vương - Hồng_Bàng - Kinh_Dương_Vương - bến_xe miền Tây .
-N . A .

@@ -1,9 +1,0 @@
-﻿ Laptop có_thể bị khống_chế qua trình điều_khiển Wi-Fi
-Các chuyên_gia nghiên_cứu bảo_mật vừa khám_phá ra một thủ_thuật mới , cho_phép họ kiểm_soát toàn_bộ hệ_thống máy_tính_xách_tay bằng cách cài một mã lỗi vào trình điều_khiển ( driver ) thiết_bị kết_nối Internet không dây phạm_vi hẹp .
-Chi_tiết quá_trình tấn_công sẽ được chuyên_gia phân_tích David_Maynor của công_ty bảo_mật Internet ISS mô_tả tại Diễn_đàn Black_Hat 2006 , diễn ra trong tháng tới ở Las_Vegas , Mỹ .
-Khai_thác trình điều_khiển thiết_bị là một nhiệm_vụ không hề dễ_dàng , nhưng thời_gian gần đây nó đã trở_nên khả_thi hơn nhờ sự xuất_hiện của một_số công_cụ phần_mềm mới , hỗ_trợ cả những hacker không thực_sự am_hiểu về kỹ_thuật ( còn được gọi_là script kiddie - người không biết nhiều về công_nghệ nhưng vô_tình có được thông_tin về điểm yếu của thiết_bị qua Internet và giành quyền quản_lý hệ_thống ) .
-Chuyên_gia Maynor đã thử dùng công_cụ tấn_công 802.11 nguồn mở_mang tên LORCON nhằm phát_tán một lượng lớn các gói dữ_liệu không dây tới nhiều thẻ wireless khác_nhau . Hacker thường sử_dụng phương_pháp này để kiểm_tra xem chương_trình chỉ bị trục_trặc hay có_thể tạo cơ_hội cho họ xử_lý phần_mềm nguy_hiểm trên laptop của nạn_nhân .
-Nhờ LORCON , Maynor còn tìm thấy một lỗi driver cho_phép ông kiểm_soát toàn_bộ hệ_thống . Mayor cũng đang lặp lại thí_nghiệm này trên các công_nghệ mạng khác như Bluetooth , EvDO và HSDPA .
-“ Hacker chỉ cần ngồi tại một điểm kết_nối công_cộng và ung_dung đợi “ con mồi ” xuất_hiện trong tầm ngắm ” , Mayor cảnh_báo . “ Hệ_thống của người sử_dụng sẽ bị tấn_công ngay cả khi driver mới được bật lên và chưa hoàn_thành quá_trình kết_nối mạng ” .
-Theo Mayor , nguyên_nhân chính của tình_trạng này là các chuyên_gia soạn trình điều_khiển cho thiết_bị không dây hiện_nay không mảy_may nghĩ đến vấn_đề bảo_mật .
-Theo T . N . VnExpress/PC World

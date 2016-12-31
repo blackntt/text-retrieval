@@ -1,6 +1,0 @@
-﻿ Tuyến xe_buýt : Bình_Khánh - Cần_Thạnh , Bến_Thành - Hiệp_Phước
-Lộ_trình : Bến phà Bình_Khánh - đường Rừng_Sác - Duyên_Hải - Đào_Cử - bến_xe Cần_Giờ .
-Bến_Thành - Khu_công_nghiệp Hiệp_Phước
-Thời_gian hoạt_động từ 5g30 - 18g30 với 120 chuyến/ngày , cự_ly 18,1 km và thời_gian hành_trình 45 phút . Giờ cao_điểm 10 phút/chuyến và giờ thấp_điểm 15 phút/chuyến . Giá vé 2.000 đồng/người đi dưới 1/2 hành_trình và 3.000 đồng/người đi trên 1/2 hành_trình .
-Lộ_trình : đầu bến Lê_Lai - công_trường Quách_Thị_Trang - Trần_Hưng_Đạo - Nguyễn_Thái_Học - Hoàng_Diệu - Khánh_Hội - Nguyễn_Hữu_Thọ - Nguyễn_Văn_Tạo - Phan_Văn_Bảy - Khu_công_nghiệp Hiệp_Phước ( ngã ba đường Nguyễn_Văn_Tạo - Phan_Văn_Bảy .
-N . A .

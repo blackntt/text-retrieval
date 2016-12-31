@@ -1,5 +1,0 @@
-﻿ Hai sinh_viên chế_tạo máy_bay điều_khiển_từ_xa
-Máy_bay có_thể mang được camera quan_sát phục_vụ tuần_tra , kiểm_soát tình_trạng giao_thông , phát_hiện kẹt xe , cháy rừng ...
-Ngoài_ra , máy_bay có_thể chuyên_chở thuốc_men để cứu_trợ trong trường_hợp khẩn_cấp . PGS.TS Nguyễn_Thiện_Tống - trưởng bộ_môn kỹ_thuật hàng_không , khoa kỹ_thuật giao_thông , Trường ĐH Bách_khoa ( ĐH Quốc_gia TP.HCM ) - nói rằng điều đáng trân_trọng là hai sinh_viên này thiết_kế toàn_bộ chiếc máy_bay ngay từ đầu , không dựa trên mô_hình có sẵn .
-Bạn_Vũ_Ngọc_Ánh cho_biết kết_quả bay thử_nghiệm cho thấy máy_bay có_thể bay ở độ cao khoảng 100 - 150m với vận_tốc có_thể đạt 70-140km/giờ .
-QUỐC_THANH

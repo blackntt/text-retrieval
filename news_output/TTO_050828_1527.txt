@@ -1,7 +1,0 @@
-﻿ Robot siêu nhỏ dùng cho phẫu_thuật
-Hệ_thống robot y - sinh siêu nhỏ này được phát_triển bởi một nhóm các nhà_khoa_học tại Viện công_nghệ liên_bang Thụy_Sĩ tại Zurich ( Thụy_Sĩ ) . Đây là thiết_bị nhỏ nhất trong nhóm máy_móc cùng loại , và đã được thử_nghiệm thành_công trong phòng_thí_nghiệm .
-Robot xâm_nhập siêu nhỏ này được thiết_kế đặc_biệt phù_hợp để đi qua các mạch_máu của tim hoặc các dịch lỏng nằm sau mắt và trong tai để chẩn_đoán và điều_trị bệnh_tật , giúp bệnh_nhân ít đau hơn và thời_gian hồi_phục nhanh hơn .
-“ Một ứng_dụng nữa mà chúng_tôi đang tích_cực xem_xét là dùng thiết_bị này vào phẫu_thuật mắt , lúc đó thiết_bị sẽ được đưa vào bên trong mắt , tới võng_mạc để truyền thuốc vào các tĩnh_mạch võng_mạc có kích_thước nhỏ như sợi tóc của con_người ” , Brad_Nelson , giáo_sư chuyên về robot và các hệ_thống thông_minh , trưởng nhóm nghiên_cứu cho_biết .
-Không như hầu_hết các robot di_động thông_thường - những con hoặc là dùng pin hoặc là được kết_nối với một dây_cáp điện để điều_khiển hoạt_động của nó , hoạt_động của robot này nhờ vào từ_trường được phát ra từ một chiếc máy . Ví_dụ tần_số 2 kilohertz có_thể làm chuyển_động robot , kéo giãn nó đủ nhỏ để đưa vào mạch_máu . Tần_số 3 kilohertz có_thể điều_chỉnh một ống bơm đưa thuốc vào mạch_máu ...
-Phát_minh này sẽ được công_bố lần đầu_tiên tại Hội_nghị quốc_tế lần thứ 8 về hình_ảnh máy_tính và sự trợ_giúp của máy_tính trong y_học vào tháng 10 sắp tới .
-KIM_NHUNG ( Theo Discovery )

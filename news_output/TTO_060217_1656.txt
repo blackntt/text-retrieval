@@ -1,7 +1,0 @@
-﻿ Microsoft thí_điểm công_nghệ chống phần_mềm lậu
-Phần_mềm “ đánh_hơi ” này có khả_năng săn_tìm được những bản phần_mềm Microsoft bị sao_chép lậu đang được lan_truyền hoặc buôn_bán bất_hợp_pháp trên mạng .
-Nạn sao_chép phần_mềm lậu khiến Microsoft thiệt_hại mỗi năm 250 triệu USD . Với việc tung ra công_cụ săn_tìm này , Microsoft hy_vọng sẽ làm giảm tỷ_lệ phân_phối và sử_dụng phần_mềm lậu tại Anh xuống đáng_kể trong năm nay .
-Microsoft cho_biết rằng hiện có khoảng 16,7% số máy_tính tại Anh đang chạy các bản Windows XP sao_chép lậu , khi áp_dụng công_cụ này thì tỷ_lệ máy_tính sử_dụng Windows XP lậu sẽ giảm xuống còn 11,7% vào cuối năm nay .
-Song_song với việc áp_dụng công_cụ nói trên , Microsoft cũng đồng_thời tung ra một chiến_dịch chống phần_mềm lậu mang tên “ Giữ cho một nền IT trong_sạch ” .
-Alistair_Baker , giám_đốc điều_hành của Microsoft tại Anh hy_vọng chiến_dịch này sẽ tiêu_diệt được nhiều cửa_hàng chuyên phân_phối phần_mềm lậu tại Anh cũng_như phát_hiện được các đường_dây chuyên sao_chép và buôn_bán bất_hợp_pháp các sản_phẩm của Microsoft : ” Chúng_tôi sẽ cố_gắng triệt tận gốc nguồn phân_phối phần_mềm lậu . Tới 66% những máy_tính do các cửa_hàng loại nhỏ bán ra đã cài_đặt những sản_phẩm bất_hợp_pháp của Microsoft ” .
-HOÀNG_KIM_ANH ( Theo Silicon )

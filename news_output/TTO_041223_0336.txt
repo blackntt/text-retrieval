@@ -1,5 +1,0 @@
-﻿ Thử tìm một giải_pháp
-Kéo_theo đó là ngưng các chuyến tàu chở hàng , giảm các đoàn tàu khu_vực , các đoàn tàu địa_phương , như_vậy vé bán ra sẽ tăng . Việc tiếp_theo ngành đường_sắt phải làm là đối_với các khách_hàng đi tàu từ ngày 20-29 tết vé bán cho những khách này sẽ tăng thêm 5% so với mức giá được niêm_yết .
-Điều này có tác_dụng kéo dãn khách đi tàu sang đều các ngày . Đối_với khách đi trước ngày 20 tết thì vé bán ra giảm 2% so với mức giá được niêm_yết . Tổng_số tiền tăng giảm trên sẽ được cân_bằng và nhà_ga không phải sợ bị lỗ .
-Còn để đối_phó với nạn tuồn vé ra chợ_đen , chuyện lấy tickê vẫn phải thực_hiện nếu khách_hàng đến đông ; đồng_thời nhà_ga nên theo_dõi những kẻ bán vé chợ_đen để có biện_pháp tập_trung xử_lý thay_vì buộc tất_cả phải xuất_trình CMND .
-ĐỖ_VĂN_ẢNH

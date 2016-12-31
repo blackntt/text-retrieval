@@ -1,6 +1,0 @@
-﻿ ' ' Nhìn người , nói_chuyện ' ' qua mạng Internet
-Chương_trình hứa_hẹn sẽ là giải_pháp chuyên_dụng cho các hội_nghị qua hình thời_gian_thực ( realtime videoconferencing ) với giá cung_cấp là 200 USD/lần cài_đặt .
-Được biết , hệ_thống của Cisco hoạt_động trên cơ_chế phối_hợp hoạt_động giữa phần_mềm thoại qua giao_thức Internet và webcam ( được gắn vào PC hoặc máy_tính_xách_tay nối_mạng ) . Trong trường_hợp băng_thông cho_phép , hệ_thống tích_hợp VT Advantage 1.0 có_thể truyền_tải 30 khung hình ( frame ) / giây .
-" Chỉ với những thao_tác đơn_giản và không phải mất thêm một lần nhất nút , bạn đã có_thể nhìn thấy đối_tượng của mình trong khi trò_chuyện " , Marthin_De_Beer - Tổng_giám_đốc nhánh truyền_thông IP của Cisco , tuyên_bố .
-Cisco nhận_định , một_khi được sử_dụng vào mục_tiêu thương_mại , hệ_thống sẽ tăng đáng_kể năng_suất làm_việc ở các công_ty muốn tăng tối_đa tính tương_tác với đối_tượng khách_hàng .
-Theo Reuters

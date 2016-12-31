@@ -1,4 +1,0 @@
-﻿ Tri ̀ nh duyê ̣ t điê ̀ u khiê ̉ n bă ̀ ng gio ̣ ng no ́ i
-Tri ̀ nh duyê ̣ t mơ ́ i ti ́ ch hơ ̣ p công nghê ̣ ViaVoice cu ̉ a IBM , se ̃ đươ ̣ c Opera cung câ ́ p miê ̃ n phi ́ va ̀ o cuô ́ i năm nay . Ban đâ ̀ u chương tri ̀ nh na ̀ y se ̃ chi ̉ hô ̃ trơ ̣ ba ̉ n tiê ́ ng Anh da ̀ nh cho ma ́ y ti ́ nh ca ́ nhân cha ̣ y hê ̣ điê ̀ u ha ̀ nh Windows , nhưng sau đo ́ se ̃ hô ̃ trơ ̣ ca ̉ như ̃ ng ngôn ngư ̃ kha ́ c va ̀ nhắm vào điện_thoại_di_động , các thiết_bị hỗ_trợ cá_nhân kỹ_thuật_số .
-Đê ̉ công nghê ̣ nhâ ̣ n lê ̣ nh gio ̣ ng no ́ i la ̀ m viê ̣ c tô ́ t , mô ̣ t trang_web pha ̉ i đươ ̣ c xây_dựng trên chuẩn HTML và âm_thanh ( X+ V ) . Chuâ ̉ n na ̀ y ( do IBM pha ́ t triê ̉ n ) ca ̣ nh tranh vơ ́ i chuâ ̉ n SALT ( Speech_Application_Language_Tags ) do Microsoft pha ́ t triê ̉ n ) .
-T . M ( Theo PCW )

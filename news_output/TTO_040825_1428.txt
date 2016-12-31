@@ -1,6 +1,0 @@
-﻿ Ra_mắt cơ_sở_dữ_liệu luật mới nhất Việt_Nam
-Đây là hệ_thống tra_cứu và quản_lý văn_bản quy_phạm_pháp_luật đầu_tiên , được công_ty TNHN Nam_An giới_thiệu sáng 25-8 , có_thể chạy trên mạng_cục_bộ .
-16.000 văn_bản được lưu_giữ trên CD-ROM gồm : hiến_pháp ; bộ_luật , luật , nghị_quyết của Quốc_hội ; sắc_lệnh , sắc_luật , quyết_định của Chủ_tịch nước ; và văn_bản dưới luật của Chính_phủ , Thủ_tướng Chính_phủ , các bộ , cơ_quan ngang bộ thuộc Chính_phủ , và các văn_bản quốc_tế .
-Bà Chu_Thị_Lan_Hương , Giám_đốc công_ty TNHN Nam_An , cho_biết “ Song_song với hai sản_phẩm trên , Nam_An cũng đưa ra LawUpdate . Theo đó , khách_hàng sử_dụng sản_phẩm LawClient/Server sẽ được cập_nhật miễn_phí hàng tháng ” . Tất_cả dữ_liệu và giao_diện LawData đều sử_dụng bảng mã TCVN 6909 : 2001 .
-Đĩa có_giá bán 150.000 đồng , và đang được ứng_dụng tại Bộ Bưu chính Viễn_thông , Công_ty tài_chính Bưu_điện và Tổng_công_ty điện_lực VN .
-THUỲ_MINH

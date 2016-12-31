@@ -1,4 +1,0 @@
-﻿ Đà_Nẵng thí_điểm lập website cho một_số trường_học
-Thành_phố Đà_Nẵng là một trong những địa_phương đi đầu trong cả nước về ứng_dụng tin_học vào giáo_dục . Hiện_Sở_Giáo dục - Đào_tạo thành_phố đã sử_dụng phần_mềm Softech_Eden trong việc quản_lý trường_học , quản_lý định_mức lao_động của giáo_viên , trao_đổi thông_tin .
-Sở Giáo dục - Đào_tạo Đà_Nẵng vừa phối_hợp với Trung_tâm Công_nghệ_phần_mềm thành_phố Đà_Nẵng mở khóa tập_huấn " Triển_khai các chương_trình phần_mềm ứng_dụng công_nghệ_thông_tin và quản_lý giáo_dục - đào_tạo " cho 150 học_viên là hiệu_trưởng , hiệu_phó , cán_bộ giáo_vụ và giáo_viên giảng_dạy công_nghệ_thông_tin của các trường_học trên thành_phố .
-Theo TTXVN

@@ -1,6 +1,0 @@
-﻿ Kaspersky thử_nghiệm phần_mềm diệt virus cho ĐTDĐ
-Công_ty bảo_mật Kaspersky ( Nga ) vừa phát_hành một phiên_bản phần_mềm diệt virus cho điện_thoại thông_minh chạy hệ_điều_hành Symbian OS , giúp ngăn_chặn các chương_trình đáng ngờ lây_nhiễm sang điện_thoại và quét thiết_bị bằng phần_mềm nguy_hiểm .
-Theo Kaspersky , phiên_bản thử_nghiệm đầu_tiên của phần_mềm Anti-Virus Mobile 2.0 này được trang_bị tính_năng chống sự phát_tán các tin nhắn SMS , MMS đáng ngờ . Phần_mềm sử_dụng công_nghệ được gọi_là “ blacklist – danh_sách đen ” để so_sánh giữa các tin nhắn nhằm ngăn_chặn thư rác ( spam ) .
-Công_ty bảo_mật này cho_biết , phần_mềm này tương_thích với các điện_thoại chạy hệ_điều_hành Symbian 6.1 , 7.0 , 8.0 hoặc 8.1 OS , và Series 60 . Phiên_bản thử_nghiệm thứ 2 sẽ hố trợ Symbian_Series UIQ và Windows_Mobile versions 2003 and 5.0 của Microsoft .
-Người dùng quan_tâm có_thể tải bản beta tại địa_chỉ : www.kaspersky.com/beta .
-N . H_Theo_Tech World

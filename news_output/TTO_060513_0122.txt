@@ -1,8 +1,0 @@
-﻿ Robot " em bé " biết học như người
-Robot có tên gọi Babybot này có khả_năng tự_động thí_nghiệm với các vật_thể gần nó và học cách sử_dụng chúng như_thế nào_là tốt nhất . Điều này cung_cấp cho robot khả_năng phát_triển các kỹ_năng vận_động y_như ở một đứa trẻ nhỏ .
-Babybot là một robot bán_thân có một cánh_tay với đôi mắt là các camera và một bàn_tay có khả_năng cầm_nắm đồ_vật . Nó được chế_tạo với yêu_cầu thực_hiện thử_nghiệm với các vật_thể trên bàn trước mặt nó và có khả_năng đánh_giá các hình_thức tương_tác và học_hỏi từ các lần thử_nghiệm sai .
-Chẳng_hạn , nếu thất_bại trong việc cầm_nắm chắc_chắn đồ_vật , nó sẽ ghi_nhớ và thử một " chiến_lược " khác trong lần thử tiếp_theo . Một kỹ_năng mà Babybot tự học được là lăn một cái chai trên bàn . Nó cũng có_thể " chơi " với một chú vịt nhựa hay một quả bóng .
-" Não " của Babybot trên thực_tế là tập_hợp của 20 chiếc máy_tính vận_hành nhiều mạng thần_kinh . Đây là phần_mềm mô_phỏng hệ thần_kinh sinh_học và học_tập với cách_thức tương_tự con_người - bằng cách xác_lập và thay_đổi cường_độ của các dây_thần_kinh nhân_tạo . Bằng cách điều_chỉnh phần_mềm hệ thần_kinh và quan_sát cách robot học_tập xung_quanh , các chuyên_gia robot có_thể kiểm_tra các kiểu thần_kinh khoa_học khác_nhau .
-" Đây là ý_tưởng tuyệt_vời . Bạn có_thể nghiên_cứu phát_triển trí thông_minh hay trí thông_minh nhân_tạo từ ý_tưởng này " , Steve_Grand , một chuyên_gia robot nói .
-Các nhà_khoa_học đang chuẩn_bị chế_tạo phiên_bản kế_tiếp của Babybot , được đặt tên là Robocub , có hình_dáng như một em bé mới biết đi , dự_kiến hoàn_thành vào mùa xuân 2007 .
-KIM_NHUNG ( Theo Newscientist )

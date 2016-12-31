@@ -1,4 +1,0 @@
-﻿ Cước truy_nhập Internet trong nước chỉ còn 20 đ/phút
-Khách_hàng đăng_ký sử_dụng dịch_vụ VNN1268 sẽ không mất phí thuê_bao , có_thể tự cài_đặt dịch_vụ tại nhà ( miễn_phí ) và chỉ mất không quá 100.000 đ/lần nếu yêu_cầu bưu_điện tiến_hành cài_đặt . Các mức cước được quy_định trên không bao_gồm cước điện_thoại nội_hạt , nội_tỉnh để truy_cập Internet và không bao_gồm thuế_giá_trị_gia_tăng ( hiện là 10% ) .
-Ngoài_ra , khách_hàng sử_dụng dịch_vụ VNN1268 có_thể đăng_ký một email miễn_phí dưới dạng username@s.vnn.vn . Email có dung_lượng lên tới 7 Mb và được hỗ_trợ giao_thức POP3 ( có_thể check mail từ các trình_duyệt mail như Outlook_Express , Microsoft_Outlook , Eudora ... ) . Để có_thể đăng_ký địa_chỉ mail miễn_phí này , khách_hàng chỉ cần sử_dụng dịch_vụ VNN1268 ( hoặc VNN1269 ) và truy_cập website http : / / s.vnn.vn / .
-Theo VDC

@@ -1,7 +1,0 @@
-﻿ Máy_bay điều_khiển_từ_xa chụp không ảnh
-Loại máy_bay này có kích_thước nhỏ gọn với sải cánh 0,8 m , trọng_lượng cất_cánh tối_đa 0,65 kg , sử_dụng động_cơ_điện công_suất 120W , nguồn điện là pin Lithium-Polymer 11,1 V .
-Máy_bay có_thể bay cao 100 - 120m , thời_gian bay 10 - 15 phút . Tốc_độ bay của máy_bay động_cơ_điện nằm trong khoảng 20-40 km/giờ là phù_hợp cho việc chụp không ảnh .
-Máy_bay điều_khiển_từ_xa chụp không ảnh và một góc khu_đô_thị Phú_Mỹ_Hưng được ghi ảnh từ trên máy_bay - Ảnh : Q . T .
-Để chụp không ảnh , máy_bay được gắn một máy chụp ảnh loại thông_thường , có trọng_lượng 100 - 200g . Trên máy còn được gắn một động_cơ servo nhỏ để làm động_tác nhấn nút chụp ảnh của máy_ảnh .
-Người điều_khiển máy_bay ở mặt_đất có_thể cho chụp ảnh bất_cứ lúc_nào bằng cách bật / tắt động_cơ servo thông_qua các chức_năng của bộ điều_khiển_từ_xa .
-QUỐC_THANH

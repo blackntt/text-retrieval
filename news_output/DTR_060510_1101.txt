@@ -1,8 +1,0 @@
-﻿ Microsoft vá lỗi Exchange và phần_mềm flash
-Hôm_qua , hãng phần_mềm khổng_lồ phát_hành bản nâng_cấp tháng 5 theo định_kỳ . Trong đó có hai lỗi nghiêm_trọng trong máy_chủ e - mail Exchanger và ứng_dụng flash của hãng Adobe_Macromedia .
-Trong bản nâng_cấp này , Microsoft cũng sửa các lỗi “ trung_bình ” trong Windows . Tin_tặc có_thể thực_hiện tấn_công từ_chối dịch_vụ DDoS bằng cách gửi tin nhắn thông_qua hệ_thống để khai_thác lỗi này .
-Hai khiếm_khuyết nghiêm_trọng này tạo cơ_hội cho tin_tặc chạy mã nguy_hiểm từ xa trên máy_tính người dùng . Lỗi_Exchange tác_động đến chương_trình Exchange_Server 2000 ; Microsoft_Exchange 2000 Enterprise_Server ; và Microsoft_Exchange_Server 2003 cài bản SP1 hoặc SP2 .
-Công_ty bảo_mật Symantec đánh_giá lỗi Microsoft_Exchange là nguy_hiểm nhất “ Vì hầu_hết các máy_chủ Exchange đều được cấu_hình để nhận e - mail từ tất_cả người dùng ẩn_danh . Lỗi này có khả_năng tự biến thành một dạng sâu máy_tính nếu PC bị tấn_công không vá lỗi cẩn_thận ” , Oliver_Friedrichs , Giám_đốc phản_ứng nhanh của Symatec , nhận_định .
-Microsoft cũng phát_hành bản nâng_cấp để vá lỗi nghiêm_trọng trong trình Macromedia_Flash_Player 5 và 6 của Adobe . Tin_tặc có_thể khai_thác những lỗ_hổng này bằng cách tạo ra một file hình động flash nguy_hiểm . Nếu truy_cập vào website chứa file “ độc ” này thì máy_tính sẽ bị chiếm quyền kiểm_soát .
-Ứng_dụng Flash này gây tác_động đến các máy_tính chạy hệ_điều_hành Windows XP Home_Edition đã cài SP1 hoặc SP2 ; XP Professional ; Windows 98 cài SP1 ; Windows 98 SE ; Windows ME .
-S . H_Theo CNet

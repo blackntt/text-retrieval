@@ -1,5 +1,0 @@
-﻿ Trojan mới qua_mặt bàn_phím ảo
-Con trojan PWSteal-Bancos - Q được tạo nên nhằm mục_đích tấn_công vào các tổ_chức ngân_hàng tài_chính online , nhưng hiện trojan PWSteal-Bancos - Q mới chỉ xuất_hiện tại Brazil và có tốc_độ lây_nhiễm không nhanh . Nhưng PC-Tools vẫn cảnh_báo rằng sớm_muộn gì rồi PWSteal-Bancos - Q và các biến_thể của nó cũng sẽ xuất_hiện trên toàn_cầu .
-Khả_năng độc_đáo nhất của trojan PWSteal-Bancos - Q là ghi_nhận được các thao_tác nhấp chuột của người dùng và sau đó sẽ gửi toàn_bộ các thông_tin này về cho chủ_nhân của nó . Đây được xem là chiêu_thức cực_kỳ cao_tay để qua_mặt việc sử_dụng các bàn_phím ảo mà các tổ_chức tài_chính trực_tuyến đang tích_cực áp_dụng . Qua việc ghi_nhận các vị_trí nhấp chuột , những kẻ đã tung trojan có_thể đoán được khá chính_xác vị_trí các ký_tự và số mà người dùng đã thao_tác trên bàn_phím ảo .
-Sự xuất_hiện của kỹ_thuật siêu cấp này đã làm cho bức tranh bảo_mật toàn_cầu ngày_càng xám_xịt hơn .
-HOÀNG_HẢI ( Theo Symantec , Secunia )

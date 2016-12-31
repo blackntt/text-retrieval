@@ -1,5 +1,0 @@
-﻿ Lỗi bảo_mật từ FireFox bị khai_thác
-Hai đoạn mã khai_thác lỗi đã được phát_tán vào đầu tuần này , làm tăng nguy_cơ bảo_mật đối_với người dùng FireFox . Đoạn mã có_thể được dùng để điều_khiển máy_tính đang sử_dụng FireFox 1.5 trên nền Linux hay MacOS X . Nó được phát_tán như_là một phần của Metasploit_Framework , một công_cụ khai_thác lỗi .
-“ Mã khai_thác này được công_bố sau khi chúng_tôi phát_hành bản cập_nhật 1.5.0.1 và hầu_hết người dùng đã nâng_cấp bản vá lỗi ngay sau khi nó được tung ra ” , Mike_Schroepfer , phó_chủ_tịch kỹ_sư tại Mozilla cho_biết .
-Hãng bảo_mật Secunia cũng đã đánh_giá lỗi này ở mức_độ nguy_hiểm rất cao . Mozilla khuyến_cáo người dùng nên tải hoặc nâng_cấp phiên_bản 1.5.0.1 mới nhất đã vá lỗi . Người dùng quan_tâm có_thể tham_khảo các lỗi bảo_mật FireFox được công_bố trên website của Mozilla .
-TUYẾT_PHẤN ( Theo ZDNet )

@@ -1,7 +1,0 @@
-﻿ Các hãng di_động không_thể cưỡng lại Wi-Fi
-Doanh_số của điện_thoại_di_động hỗ_trợ cả mạng di_động và mạng không dây Wi-Fi sẽ tăng đột_biến trong vòng 4 năm tới . Nghiên_cứu của công_ty In-Stat nhận thấy , đến bây_giờ thì các hãng di_động không_thể thờ_ơ với mạng không dây đang rất “ được_lòng ” người dùng này .
-Mạng không dây Wi-Fi đã được sử_dụng rộng_rãi , cho_phép máy_tính và các thiết_bị cầm tay khác kết_nối Internet nhưng cho_đến tận bây_giờ , Wi-Fi vẫn chưa có_mặt trong các điện_thoại_di_động trên toàn_cầu .
-Các nhà_cung_cấp dịch_vụ trước_đây vẫn xem Wi-Fi như_là một hiểm_họa đối_với doanh_số của các dịch_vụ dữ_liệu di_động , như dự_báo thời_tiết , thông_tin về chứng_khoán . Tuy_nhiên , quan_niệm này đang nhanh_chóng thay_đổi , theo In-Stat , vì các nhà_cung_cấp dịch_vụ đã nhận thấy những triển_vọng của điện_thoại hoạt_động trên cả hai mạng .
-“ Nếu rơi vào trường_hợp bị rớt sóng di_động thì người tiêu_dùng có_thể chuyển_đổi sang mạng Wi-Fi để tiếp_tục giữ liên_lạc ” , Gemma_Tedesco , nhà_phân_tích của In-Stat giải_thích .
-Các nhà_phân_tích dự_đoán đến 2010 sẽ có 132 triệu điện_thoại Wi-Fi được tiêu_thụ trên thị_trường . Hiện_tại mới chỉ có hơn 20 model hỗ_trợ mạng không dây này cho_phép thực_hiện các dịch_vụ VoIP có_thể truyền dữ_liệu và thoại qua mạng Internet .
-S . H_Theo CNet , VNuNet

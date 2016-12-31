@@ -1,9 +1,0 @@
-﻿ Genius_Remote 600 , remote đa_dụng thông_minh
-Nhìn hình_dáng bên ngoài , Remote 600 có_vẻ “ thô_kệch ” , tuy_nhiên , đây là một thiết_bị có_thể đưa bạn từ ngạc_nhiên này đến ngạc_nhiên khác .
-Với_Remote 600 , bạn có_thể điều_khiển được rất nhiều thiết_bị khác_nhau , từ các băng đĩa CDs , VCRs , DVDs , đến các thiết_bị thu sóng vệ_tinh , TVs …
-Đây thực_chất là một chiếc máy_tính nhỏ với màn_hình cảm_ứng đèn trắng , một_số nút điều_khiển mặc_định . Thiết_bị này chứa rất nhiều tập lệnh IRs , dùng cho việc điều_khiển_từ_xa các thiết_bị .
-Ngoài chức_năng dò_tìm đúng bộ mã lệnh của thiết_bị điện_tử mà nó điều_khiển , thiết_bị này còn cho_phép nó tự học_hỏi các bộ mã lệnh mới từ các remote có sẵn . Chức_năng này cho_phép bạn lưu lại một bản_sao remote của chính thiết_bị điện_tử của mình đang dùng . Ngoài_ra , với chức_năng lập_trình Macro , thiết_bị còn cho_phép tự_động thực_hiện một_số thao_tác liên_hoàn .
-Qua thử_nghiệm , nhìn_chung đây là một thiết_bị khá phức_tạp trong cách điều_khiển và sử_dụng . Để có_thể tận_dụng hết chức_năng của thiết_bị này , đòi_hỏi bạn phải có một_số kiến_thức cơ_bản về lập_trình .
-Nếu chỉ sử_dụng theo chỉ_dẫn cơ_bản , bạn cũng chỉ có_thể sử_dụng một_số chức_năng rất đơn_giản của thiết_bị này mà thôi .
-Remote 600 được bán với giá 100 USD do Công_ty Silicom phân_phối .
-TRẦN_HUY

@@ -1,4 +1,0 @@
-﻿ Công_bố hai website về thời_tiết nguy_hiểm
-Hai trang tin điện_tử cập_nhật các hiện_tượng khí_tượng_thuỷ_văn nguy_hiểm là www . thoitietnguyhiem.net và www . thoitietnguyhiem.hymetdata.gov.vn vừa được Trung_tâm Tư_liệu Khí_tượng Thủy_văn ( Trung_tâm Khí_tượng Thuỷ_văn quốc_gia ) công_bố .
-Thông_tin trên hai website này dành cho hai đối_tượng sử_dụng khác_nhau là nhân_dân muốn xem thông_tin về thời_tiết và nhân_viên đơn_vị quản_lý cơ_sở_dữ_liệu khí_tượng_thuỷ_văn muốn cập_nhật các thông_số chuyên_ngành .
-Hiện đang trong thời_gian chạy thử_nghiệm , website thời_tiết nguy_hiểm chỉ cho_phép truy_cập trong giờ_hành_chính ( từ 7h00 - 16h30 hàng ngày , trừ thứ Bảy , Chủ_Nhật ) . H . H

@@ -1,9 +1,0 @@
-﻿ Cảnh_giác biến_thể virus Mydoom và Netsky mới
-Như những người đi trước , Netsky . C xuất_hiện trong một file đính kèm trong e - mail có nhiều tiêu_đề : từ Question , " " Fwd : lol , " , " Re : hey " , “ trust me " , " notice " , tới " warning " và " Delivery_Failed " . Virus này cũng thâu_tóm các địa_chỉ e - mail được lưu_trữ trong máy_tính bị lây_nhiễm để phát_tán các bản_sao của chính mình .
-Hãng_Network_Associates đã xếp Netsky . C vào danh_sách các loại sâu có tầm nguy_hiểm " trung_bình " , trong khi Symantec xếp loại sâu này đứng thứ_ba trong hệ_thống 5 mức báo_động .
-Qua phân_tích các đoạn mã nguồn của Netsky . C , các chuyên_gia thấy trong đó có một thông_điệp ngụ_ý rằng các nhóm hacker đang tấn_công lẫn nhau để giành sự chú ít , hay ít_nhất là cũng cố_gắng chiếm được vị_trí thống_lĩnh trong bảng xếp_hạng virus nguy_hiểm .
-Cùng này , các chuyên_gia cũng cảnh_báo rằng virus Mydoom . F đang lây_nhiễm mạnh trên mạng và tập_trung xoá các file dữ_liệu trên máy_tính của nạn_nhân . Sâu không_những tấn_công từ_chối dịch_vụ vào website của Microsoft , Hiệp_hội ngành thu_thanh quốc_gia , mà_còn mang theo chương_trình phá_hoại tấn_công người dùng .
-Biến_thể có tên Mydoom . F không phát_tán rộng như những phiên_bản trước đó nhưng nguy_hiểm ở khả_năng phá_hoại nói trên .
-Khi được kích_hoạt , sâu sẽ tự_động gửi mình tới những địa_chỉ e - mail tìm thấy trong hộp_thư , trong các file trên ổ_cứng của người dùng . Bên_cạnh đó , nó cũng xóa các văn_bản Word , file ảnh JPG , file Audio_Video_Interleaved , Excel và một_số loại file khác .
-Mới_đây , Microsoft tuyên_bố đã có trong tay những đầu_mối thông_tin về tác_giả của nhiều loại virus nguy_hiểm , trong đó có cả virus MyDoom . B , Sobig - F và MyDoom . Người khổng_lồ về phần_mềm đang phối_hợp với một_số cơ_quan chính_phủ trên toàn thế_giới để bắt_giữ tác_giả những virus nguy_hiểm này .
-T . M tổng_hợp từ Internet

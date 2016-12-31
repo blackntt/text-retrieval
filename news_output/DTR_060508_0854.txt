@@ -1,9 +1,0 @@
-﻿ IPv4 sẽ “ cạn_kiệt ” vào năm 2012
-Theo hãng tư_vấn Frost & Sullivan , trong vòng 6 năm tới , cộng_đồng Internet toàn_cầu sẽ chuyển sang sử_dụng giao_thức Internet phiên_bản 6 ( IPv6 ) vì đến thời_điểm này , tài_nguyên tên_miền IPv4 sẽ “ cạn_kiệt ” .
-Sự phổ_dụng của điện_thoại thông_minh , truyền_hình trực_tuyến ( IPTV ) và các thiết_bị kết_nối Internet đang làm giao_thức Internet hiện_tại nhanh_chóng hết tài_nguyên . Hơn_nữa , chuẩn IPv4 hạn_chế các dịch_vụ nội_dung đa_phương_tiện và liên_kết dữ_liệu , như địa_chỉ IP cho điện_thoại , P2P và các cuộc_gọi video . Theo Frost & amp ; Sullivan , việc chuyển_đổi sang giao_thức phiên_bản 6 là điều tất_yếu .
-Với chuẩn IPv6 di_động mới , các công_ty viễn_thông có_thể dễ_dàng triển_khai các dịch_vụ , từ phim_ảnh , nhạc chuông cho_đến TV .
-Theo ước_tính của công_ty nghiên_cứu thị_trường IDC , đến năm 2012 , sẽ có 17 tỷ thiết_bị kết_nối Internet . “ 2012 cũng là thời_điểm chuẩn IPv4 hết nguồn tài_nguyên địa_chỉ web . Đến khoảng năm 2015 và 2020 thì điều này chắc_chắn xảy_ra ” , Sam_Masud , nhà_phân_tích cao_cấp của Frost & amp ; Sullivan , đồng_tình .
-Mặc_dù một_số công_ty đã rậm_rịch chuyển sang chuẩn IPv6 nhưng lại gặp nhiều khó_khăn về việc chuyển_đổi ứng_dụng , quản_lý mạng , vận_hành và kể_cả việc đào_tạo nhân_viên .
-Theo Cục quản_lý và ngân_sách Mỹ , đến giữa năm 2008 , tất_cả các mạng sẽ phải có khả_năng nhận và g ửi các gói dữ_liệu IPv6 . Tuy_nhiên , Viện công_nghệ và chuẩn_mực quốc_gia ( NIST ) dự_đoán , chỉ 30% mạng hỗ_trợ chuẩn Internet mới này vào năm 2010 , và 6 năm nữa mới có 30% người dùng sử_dụng mạng này .
-Mặc_dù IPv4 sẽ không biến_mất ngay_lập_tức nhưng các nhà_cung_cấp Internet cần phải xây_dựng các chiến_lược nâng_cấp . Tất_cả các ứng_dụng giao_tiếp trên IP sẽ phải điều_chỉnh để tương_thích với IPv6 , ông Masud nhấn_mạnh .
-S.Hương Theo Tech Web

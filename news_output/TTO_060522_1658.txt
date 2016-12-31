@@ -1,5 +1,0 @@
-﻿ Lịch thi_đấu world Cup 2006 miễn_phí dành cho ĐTDĐ
-Phần_mềm được viết trên nền JM2E MIDP 2.0 và được chạy trên tất_cả các máy_điện thoai di_động có hỗ_trợ màn_hình màu JAVA_MIDP 2.0 . Các phiên_bản đã được hoàn_chỉnh cho các máy Samsung ( độ_phân_giải màn_hình 128 x 128 , 128 x 160 , 176 x 220 , 240 x 320 ) , Motorola ( 176 x 208 ) , Nokia ( 128 x 128 , 128 x 160 , 176 x 204 ) .
-Phần_mềm World_Cup 2006 này có các giao_diện đẹp , đặc_biệt là hoàn_toàn bằng tiếng Việt , tốc_độ truy_xuất cực nhanh , bao_gồm các chức_năng chính như : tra_cứu theo lịch bảng , theo ngày thi_đấu , theo đội thi_đấu , bảng xếp_hạng ...
-Ngòai_ra , chương_trình còn cung_cấp cho người sử_dụng những thông_tin về đội_tuyển , tất_cả các thành_phố tại Đức có sân thi_đấu tại worldcup , sơ_đồ hình cây tới trận chung_kết của các đội_tuyển . Để có_thể cài_đặt miễn_phí , người dùng ĐTDĐ có_thể đến các siêu_thị điện_thoại , hay vào trang_web www . fptmobile.com.vn để load về .
-NAM_HƯNG

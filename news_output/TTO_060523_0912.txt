@@ -1,7 +1,0 @@
-﻿ Lỗi bảo_mật nghiêm_trọng trong Word XP , Word 2003
-Microsoft cho_biết rằng các chuyên_gia bảo_mật của mình đang tập_trung ráo_riết để khắc_phục lỗi bảo_mật và bản vá chính_thức của lỗi này sẽ được tung ra_vào ngày 13-6 .
-Công_ty bảo_mật F-Secure đã phát_hiện ra con trojan đầu_tiên có khả_năng tấn_công vào lỗi bảo_mật “ Zero-day ” của Word là con Ginwui . F-Secure cho_biết rằng con Ginwui có khả_năng lợi_dụng lỗi zero - day để tạo ra một cổng hậu , tạo điều_kiện cho đủ loại mã độc khác tấn_công vào máy_tính đang chạy Word XP và Word 2003 có nối_mạng .
-Trung_tâm an_ninh mạng Internet SANS cũng đã khẳng_định về lỗi bảo_mật trên và cho_biết thêm rằng lỗ_hổng phần_mềm này sẽ tạo điều_kiện tối_ưu cho mã độc tấn_công vào Windows , đặc_biệt là vào các nội_dung nằm trong My_Documents , các file Startup và IE .
-Symantec đã xếp lỗi bảo_mật này vào dạng “ rất nguy_hiểm ” , tức chỉ sau hạng “ cực_kỳ nguy_hiểm ” . Symantec cho_biết kẻ tấn_công sẽ lợi_dụng lỗi này để tung mã độc vào máy_tính bằng cách gửi cho nạn_nhân một e - mail có đính kèm một file Word đã được cài sẵn mã độc . Khi người dùng ngây_thơ mở file Word “ đểu ” này ra xem là lập_tức mã độc đính kèm sẽ tạo ra ngay một cổng hậu nguy_hiểm , tạo điều_kiện cho hacker xâm_nhập vào máy_tính người dùng .
-Các công_ty bảo_mật đưa ra khuyến_cáo không nên mở ra xem những file Word từ những địa_chỉ e - mail lạ .
-THIÊN_TRANG ( TechWeb )

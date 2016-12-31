@@ -1,6 +1,0 @@
-﻿ Chế_tạo thành_công thiết_bị khống_chế tốc_độ đầu_máy
-Thiết_bị được chế_tạo theo nguyên_lý : thu tín_hiệu từ vệ_tinh GPS và tín_hiệu đầu trục để theo_dõi , kiểm_soát tốc_độ tức_thời của đầu_máy theo lý trình cho_phép của công_lệnh chạy_tàu do ngành đường_sắt ban_hành .
-Hệ_thống này sẽ cảnh_báo cho người lái tàu khi tốc_độ đoàn tàu đến sát tốc_độ lớn nhất cho_phép ( khoảng 95% - 98% tốc_độ cho_phép ) và khi vượt quá 98% tốc_độ cho_phép để người lái tàu chú_ý giảm_tốc . Nếu vận_tốc vẫn không giảm , hệ_thống sẽ tự_động xả gió để dừng đoàn tàu , đồng_thời ghi lại lỗi này của người lái tàu .
-Thiết_bị còn có khả_năng lưu số_liệu trong quá_trình 15.000km vận_dụng của đầu_máy để phục_vụ công_tác nghiên_cứu , điều_tra , kiểm_tra , đánh_giá chất_lượng trình_độ tay_nghề của người lái tàu .
-Sau 4 ngày thử_nghiệm , đánh_giá đợt đầu , cả hai thiết_bị chống vượt tốc_độ đầu_máy của hai đơn_vị kể trên đã đảm_bảo các yêu_cầu đặt ra .
-Theo TTXVN

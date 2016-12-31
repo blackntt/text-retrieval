@@ -1,8 +1,0 @@
-﻿ Microsoft phát_triển dịch_vụ lưu_trữ trực_tuyến
-Dịch_vụ Live_Drive mà Microsoft đang phát_triển nhằm cạnh_tranh với dự_án Gdrive của nhà_cung_cấp dịch_vụ tìm_kiếm khổng_lồ Google . Dịch_vụ cho_phép người dùng truy_cập các file trên máy_tính từ trên một trang_web trung_gian .
-Theo phát_ngôn_viên của Microsoft , dự_án có tên Live_Drive sẽ sử_dụng tính_năng chia_sẻ folder ( Sharing_Folders ) trong ứng_dụng Windows_Live_Messenger của hãng để tìm_kiếm và chia_sẻ các file trên máy_tính .
-Chris_Overd , một trong những người thử_nghiệm dịch_vụ này , và là một trong những chuyên_gia hàng_đầu của Microsoft , cho_biết Live_Drive sẽ là một dịch_vụ lưu_trữ trực_tuyến có tính phí , cho_phép người dùng truy_cập các file trên máy_tính từ trên một trang_web trung_gian .
-Ông này cho_biết vì dịch_vụ lưu_trữ này có_thể sẽ được tích_hợp trong tính_năng Mobility_Center của hệ_điều_hành Windows_Vista , do_đó , Live_Drive sẽ là một_cách để Microsoft liên_kết giữa các dịch_vụ trực_tuyến Windows_Live với Vista .
-“ Tích_hợp dịch_vụ này với Vista_Mobility_Center tạo ra rất nhiều ý_nghĩa , và Live_Drive sẽ giúp người dùng Vista tương_tác với Windows_Live ” , ông Overd nhận_định .
-Live_Drive tương_tự với dịch_vụ “ Gdrive ” được Google giới_thiệu cách đây 2 năm , lưu_trữ và truy_cập dữ_liệu trên Internet . Nhờ đó , người dùng có_thể sử_dụng tài_liệu dù ở trên thiết_bị nào .
-N.Hương Theo Tech World

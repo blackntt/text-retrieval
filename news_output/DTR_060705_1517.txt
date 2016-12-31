@@ -1,7 +1,0 @@
-﻿ Dịch_vụ nhắn_tin báo điểm thi
-Ngay từ bây_giờ , tất_cả các thuê_bao của Vinaphone , MobiFone , Viettel và S-Fone đều có_thể để đăng_ký nhận điểm thi bằng cách soạn tin nhắn : DT rồi gửi đến 8313 .
-Trung_tâm Kinh_doanh Dịch_vụ Giá_trị gia_tăng trên điện_thoại_di_động - FPT_SMS - đang triển_khai dịch_vụ tra_cứu điểm thi_tuyển sinh 2006 : “ Nhắn_tin ngay hôm_nay , báo ngay khi có điểm ” .
-Hiện_tại , tất_cả các thuê_bao của Vinaphone , MobiFone , Viettel và S-Fone đều sử_dụng được dịch_vụ này . Để đăng_ký nhận điểm thi , soạn tin nhắn : DT & lt ; mã trường & gt ; & lt ; khối thi & gt ; & lt ; số_báo_danh & gt ; rồi gửi đến 8313 . FPT_SMS sẽ gửi điểm thi của gần 400 trường Đại_học , Cao_đẳng trên toàn_quốc đến các thuê_bao có yêu_cầu nhận điểm .
-Để đăng_ký nhận điểm_chuẩn , soạn tin : DC & lt ; mã trường & gt ; & lt ; khối thi & gt ; & lt ; mã ngành & gt ; , rồi gửi đến số 8313 . Ngay khi có điểm_chuẩn , FPT_SMS sẽ gửi thông_báo điểm_chuẩn cho các thuê_bao đã đăng_ký .
-Một tiện_ích khác dành cho các thí_sinh , khi có điểm thi , không cần đến tận địa_điểm thông_báo kết_quả để so_sánh mà thí_sinh có_thể biết ngay vị_trí “ xếp_hạng ” của mình trong bảng điểm bằng cách soạn tin : VT & lt ; mã trường & gt ; & lt ; khối thi & gt ; & lt ; số_báo_danh & gt ; , và gửi đến 8313 .
-Thông_tin chi_tiết có_thể xem trên website : www.fptsms.com.vn hoặc gọi đến số hỗ_trợ miễn_phí 18001581 . B.Trung

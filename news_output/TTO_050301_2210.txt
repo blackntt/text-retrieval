@@ -1,7 +1,0 @@
-﻿ Phát_hiện được nhiều bệnh chỉ trong 30 phút
-Thông_thường những con chip dùng để chẩn_đoán bệnh được làm_bằng thủy_tinh do_đó chỉ khi nào máu được các thiết_bị khác tinh_lọc thì nó mới có khả_năng phát_hiện được bệnh .
-Nhưng con chip của công_ty Toray được làm ra từ nhựa thông nhân_tạo và có_thể phát_hiện được một số_lượng nhất_định các protein trong máu .
-Ông Masashi_Higasa , thuộc công_ty Toray cho_biết : " Đối_với một_số bệnh đặc_biệt là ung_thư thì việc chữa_trị càng hiệu_quả khi bệnh được phát_hiện sớm . Chúng_tôi muốn bệnh_nhân phát_hiện sớm các căn_bệnh nguy_hiểm " .
-Máu của bệnh_nhân sẽ được tinh_lọc khi nó chạy dọc theo một đường rãnh hóa_chất có trên bề_mặt con chip . Chỉ những protein trong máu cần_thiết và có_ích cho việc chẩn_đoán mới có_thể " về đến đích " . Toàn_bộ quá_trình chẩn_đoán bệnh chỉ diễn ra trong vòng 30 phút .
-Công_ty dự_định sẽ tung " con chip chẩn_đoán bệnh nhanh_nhất thế_giới " ra thị_trường Nhật trong vòng 2 năm tới . Tuy_nhiên theo các chuyên_gia y_tế thì bệnh_nhân không nên quá tin_tưởng vào xét_nghiệm " nhanh " này mà sau đó nên thử lại với những xét_nghiệm kỹ hơn trong bệnh_viện .
-KINH_LUÂN ( Theo AFP )

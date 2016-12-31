@@ -1,5 +1,0 @@
-﻿ Lập " trung_tâm kinh_tế ảo " cho SV thực_tập
-Trung_tâm kinh_tế ảo gồm hệ_thống với hai máy_chủ và 62 máy con cấu_hình mạnh kết_nối Internet , đèn_chiếu phục_vụ các hoạt_động học_thuật và thực_hành mô_hình kinh_tế ảo cho sinh_viên .
-Trung_tâm này hoạt_động với mô_hình quản_lý doanh_nghiệp ảo , ngân_hàng ảo , kinh_doanh chứng_khoán , tiền_tệ , kinh_doanh các mặt_hàng nông_sản thực_phẩm , hải_sản ... tạo môi_trường thực_hành hiện_đại , giúp sinh_viên áp_dụng kiến_thức đã học vào thực_tế .
-Dịp này , trung_tâm này cũng được dùng làm hệ_thống quản_lý thị_trường và tiếp_nhận lệnh mua_bán của sàn giao_dịch chứng_khoán ảo .
-MINH_GIẢNG

@@ -1,8 +1,0 @@
-﻿ Tối_ưu_hóa RAM để tăng_tốc hệ_thống
-Sau khi quá_trình cài_đặt hoàn_tất , RAM Idle_Pro sẽ tự khởi_động . Ngay tại giao_diện chính của chương_trình , bạn sẽ thấy được biểu_đồ dung_lượng RAM được sử_dụng ở thời_điểm hiện_tại .
-Nhấn vào mục Ram_Optimizer ở bên trái và di_chuyển chuột ở hai mục Target free RAM và Minimum free RAM tương_ứng với số_lượng RAM cần_thiết . Theo mặc_định thì RAM Idle_Pro sẽ tự_động chọn sẵn dung_lượng phù_hợp với dung_lượng bộ_nhớ RAM mà bạn đang sở_hữu .
-Sau đó nhấn nút Enable để hiệu_lực những thay_đổi . Ngay_lập_tức ở bên dưới vùng Taskbar , icon của chương_trình sẽ chuyển sang số_lượng RAM mà chương_trình giải_phóng được .
-Ngoài_ra chương_trình còn cung_cấp một_số tính_năng phụ rất đáng chú_ý như Windows_Tweak . Bạn nên chú_ý đến dòng Cache . Theo những gì chương_trình hướng_dẫn thì tính_năng Executive files này cho_phép tận dùng những phần thừa của bộ_nhớ RAM làm nhiệm_vụ bộ_nhớ ảo ( Virtual memory ) trong hệ_thống . Vì RAM có tốc_độ xỷ lý cực nhanh nên thực_hiện tác_vụ sẽ nhanh hơn rất nhiều . Tuy_nhiên tính_năng này chỉ có hiệu_lực khi dung_lượng bộ_nhớ_trong máy_tính của bạn có từ 256 MB trở_lên .
-RAM Idle_Pro còn bổ_sung cho bạn tính_năng quản_lý các chương_trình tự khởi_động trong hệ_điều_hành Windows là Startup_Manager . Các thao_tác không khác_gì tính_năng System_Configuration_Utility có sẵn trong Windows nhưng Startup_Manager thể_hiện các mục kèm theo icon của chương_trình giúp bạn biết chính_xác hơn về các thành_phần đang chạy .
-Chương_trình được cung_cấp tại website : http : / / www.tweaknow.com với dung_lượng khoảng 1 MB , tương_thích tốt với hệ_điều_hành Windows . Bản thương_mại giá 13.95 USD .
-GIANG_VŨ_VĂN

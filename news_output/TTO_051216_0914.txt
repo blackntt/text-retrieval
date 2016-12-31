@@ -1,5 +1,0 @@
-﻿ Xác_nhận tình_trạng nhà để nhập hộ_khẩu : Không quá 5 ngày
-Thời_gian giải_quyết hồ_sơ xác_nhận tình_trạng nhà của UBND phường xã , thị_trấn là năm ngày ( làm_việc ) , trường_hợp cần xác_minh thêm thì không quá 15 ngày làm_việc . Ngoài lệ_phí chứng_thực và thành_phần hồ_sơ mà công_dân phải nộp theo qui_định , cán_bộ nhân_viên được phân_công giải_quyết xác_nhận hồ_sơ không được tùy_tiện đòi công_dân phải nộp thêm bất_cứ chi_phí và thủ_tục nào khác .
-Về nội_dung xác_nhận tình_trạng nhà_ở , UBND_TP chỉ_đạo như sau : đối_với nhà_ở không có giấy_tờ hợp_lệ của người diện KT3 , nếu tình_trạng nhà_ở ổn_định thì cần ghi rõ nhà_ở thuộc sở_hữu nhà_nước ( đang thuê hay đã mua lại , đã sang_nhượng ) hay tư_nhân ( ai tạo_lập , xây_dựng có phép hay không , có thuộc qui_hoạch khu dân_cư ổn_định hay không ) .
-Đối_với tình_trạng nhà tranh_chấp , lấn_chiếm hoặc qui_hoạch cũng cần ghi cụ_thể tình_trạng tranh_chấp , lấn_chiếm đất của ai , qui_hoạch có thông_báo thời_hạn di_dời hay chưa .
-V . C . M .

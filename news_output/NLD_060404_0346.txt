@@ -1,6 +1,0 @@
-﻿ Battle_Castles – Cuộc_chiến bảo_vệ lâu_đài
-Mục_tiêu của game này là bảo_vệ tòa lâu_đài nằm trên một hòn đảo an_toàn trước 6 cấp_độ tấn_công của tàu_chiến địch .
-Mỗi cấp_độ bao_gồm 4 màn . Đây là một nhiệm_vụ cực_kỳ khó_khăn vì bạn chỉ có 2 khẩu đại_bác trong khi hạm_đội địch có trên 20 chiếc ! Để nhắm và bắn , bạn dùng phím chuột trái . Bí_quyết để tiêu_diệt được nhiều địch là nhắm vào ngay phía trước mũi tàu ( đặc_biệt khi tàu ở xa ) và nhắm vào mạn tàu thay_vì cánh buồm ( nếu tàu ở gần ) . Cuối mỗi màn , bạn sẽ có thời_gian để sửa_chữa và nâng_cấp tòa lâu_đài . Bạn sẽ phải giương cờ_trắng đầu_hàng nếu tất_cả các lá_cờ trên 4 tòa tháp bị tiêu_diệt , vì_vậy hãy nhắm bắn cho chính_xác !
-Dung_lượng : 6,39 MB .
-Download : www.doublegames.com/downloads/battle-castles.exe
-T . T

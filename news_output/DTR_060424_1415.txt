@@ -1,7 +1,0 @@
-﻿ Phát_hiện nhiều lỗi bảo_mật trên máy Mac
-Một nhà_nghiên_cứu bảo_mật độc_lập đã thông_báo môt đoạn mã có_thể khai_thác 7 lỗi nghiêm_trọng trên hệ_điều_hành Mac OS X . Apple cho_biết sẽ vá lỗi này trong bản nâng_cấp tiếp_theo .
-Tom_Ferris , một nhà_nghiên_cứu độc_lập đã tiết_lộ một phần_mềm có_thể sử_dụng để làm đổ_vỡ các ứng_dụng , hay thậm_chí chạy các đoạn mã trái_phép trên máy Mac bằng cách khai_thác các lỗ_hổng bảo_mật trong trình_duyệt Safari , và hệ_điều_hành Mac OS X .
-Được coi là an_toàn hơn hệ_điều_hành Windows của Microsoft , Mac OS_X đang trở thành_tâm điểm của những nhà_nghiên_cứu như Ferris . Trong tháng_giêng , rất nhiều chương_trình nguy_hiểm nhằm vào máy Macintosh , trong đó có chương_trình OSX/Leap , đã được tung lên mạng .
-Trung_tâm Internet của viện nghiên_cứu SANS , đã xếp các lỗi do Ferris phát_hiện vào hàng “ cực_kỳ nghiêm_trọng , ” và cảnh_báo rằng hiện vẫn chưa có chương_trình sửa lỗi cho phần_lớn các mối nguy_hiểm này .
-Ferris đã thu_hút được sự chú_ý của báo_giới năm nay , khi phát_hiện một lỗi trong IE 7 bản beta 2 chỉ sau khi phiên_bản này được công_bố một thời_gian ngắn .
-Đại_diện của Apple vẫn chưa đưa ra lời bình_luận cho vấn_đề này . Theo AI Việt_Nam / Infoworld

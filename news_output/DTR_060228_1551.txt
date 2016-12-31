@@ -1,8 +1,0 @@
-﻿ Virus đầu_tiên “ nhảy ” từ PC sang điện_thoại
-Hiệp_hội các nhà_nghiên_cứu phần_mềm diệt virus điện_thoại ( MARA ) vừa phát_hiện ra con virus đầu_tiên có_thể lây_lan từ máy_tính sang các thiết_bị di_động chạy hệ_điều_hành Windows_Mobile của Microsoft .
-Sau khi đã lây_nhiễm trên máy_tính Windows , con sâu " Crossover " này ẩn trong một danh_mục , sau đó tự_động kích_hoạt khi người dùng mobile kết_nối với máy_tính bằng ứng_dụng đồng_bộ hóa Microsoft_Active Sync .
-Theo các chuyên_gia an_ninh , hacker thiết_kế con sâu kỹ_thuật_số này chỉ để nhằm “ khoe_khoang ” tính_năng chứ không gây tác_hại gì .
-“ Đây là bằng_chứng chỉ nhằm mục_đích cảnh_cáo . Con virus này thu_hẹp khoảng_cách giữa máy_tính_để_bàn và thiết_bị cầm tay . Thế_giới luôn rộng_mở ! ” , những người tạo ra con sâu " Crossover " gửi kèm lời cảnh_báo này .
-Trong nhiều năm qua , các công_ty sản_xuất phần_mềm diệt virus đã cảnh_báo về những mối đe_dọa của virus điện_thoại_di_động . Tuần trước , McAfee cho_biết hãng đã phát_hiện hơn 200 con virus di_động và cảnh_báo rằng loại sâu này sẽ còn tăng nhanh hơn cả virus máy_tính .
-Hiện_tại , sâu tấn_công handheld chạy hệ_điều_hành Windows_Mobile vẫn còn rất hiếm .
-N.Hương Theo VNuNet

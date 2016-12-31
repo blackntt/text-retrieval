@@ -1,5 +1,0 @@
-﻿ Tìm_hiểu về Wireless LAN tại EIS
-Chương_trình sẽ cung_cấp cho người tham_dự kiến_thức về các thiết_bị chuyên_dùng trong công_nghệ mạng , khả_năng ứng_dụng công_nghệ_cao vào xu_hướng nghề_nghiệp trong tương_lai , hệ_thống Wireless LAN , các thành_phần , thiết_bị hệ_thống Wireless LAN và việc triển_khai , xây_dựng hệ_thống , các sản_phẩm Wireless LAN đang được sử_dụng phổ_biến trên thị_trường .
-Chương_trình được tổ_chức tại :
-Trung_Tâm_Đào_Tạo_Công_Nghệ_Thông_Tin EIS - Vietnam_Knowledge_Center , 123 Trương_Định , Quận 3 , TP.HCM ( Tầng trệt - Saigon_Software_Park )
-H . N .

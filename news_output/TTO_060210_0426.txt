@@ -1,5 +1,0 @@
-﻿ ĐH Bách_khoa TP.HCM : Khởi_công xây ký_túc_xá hiện_đại
-Khu ký_túc_xá hiện_đại này có các phòng chức_năng điều_hành , thư_viện , phòng máy_tính ( khoảng 150 máy ) phục_vụ SV , nhà_ăn tự_phục_vụ , các dịch_vụ photocopy , thư_quán , bưu_cục , máy ATM ... và hơn 2.398m ² sân vườn . Ký_túc_xá có một phòng điều_khiển hệ_thống thông_tin liên_lạc trung_tâm , 11 phòng sinh_hoạt chung có bố_trí truyền_hình_cáp ở mỗi tầng , 348 phòng ở cho SV ( tiếp_nhận 2.784 SV ) , mỗi phòng rộng 43m ² ( 8 SV/phòng ) .
-Dự_kiến mỗi phòng ở , mỗi SV sẽ được trang_bị một tủ quần_áo riêng , một kệ sách và bàn học riêng , chỗ để máy_vi_tính , một ổ_cắm mạng Internet tại bàn học , một máy điện_thoại ...
-Công_trình do Trường ĐH Bách_khoa TP.HCM làm_chủ đầu_tư với tổng_số tiền 107,9 tỉ đồng , thời_gian thi_công 23 tháng .
-TRẦN_HUỲNH

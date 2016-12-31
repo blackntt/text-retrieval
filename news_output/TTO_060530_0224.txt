@@ -1,4 +1,0 @@
-﻿ Sẽ tính tiền nước hợp_lý cho khách_hàng
-Nguyên_nhân việc đọc chỉ_số chậm là do nhập số_liệu vào danh bộ trễ nên phải chờ sắp_xếp theo đúng lộ_trình khác để đọc số .
-Về cách tính tiền , bà Tâm cho_biết chỉ ra một kỳ hóa_đơn chứ không tách riêng thành nhiều kỳ . Tuy_nhiên lượng nước định_mức khách_hàng được hưởng từ thời_điểm bắt_đầu sử_dụng nước đến thời_điểm thu tiền sẽ được cấp bù theo từng tháng tương_ứng ( trường_hợp khách_hàng khó_khăn sẽ được cho trả_chậm ) . Những hóa_đơn tiếp_theo , cách tính tiền sẽ trở_lại bình_thường .
-QUANG_KHẢI

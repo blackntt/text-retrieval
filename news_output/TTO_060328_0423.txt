@@ -1,9 +1,0 @@
-﻿ Mục 3 không phải NV2 !
-Mục số 2 trong hồ_sơ là mục để TS ghi trường đăng_ký dự thi . TS phải ghi đầy_đủ tên trường , mã trường , khối thi , mã ngành ... Những dữ_liệu ghi trong mục 2 này là căn_cứ để trường mà TS đăng_ký dự thi xét trúng_tuyển cho TS . Trong khi đó , mục số 3 mang tính_chất như mục 16 trong hồ_sơ đăng_ký dự thi năm 2005 .
-Đây là mục chỉ dành riêng cho TS muốn đăng_ký NV1 vào những trường ĐH , CĐ không tổ_chức thi hoặc hệ CĐ của các trường ĐH . Nói cách khác , nếu TS có nguyện_vọng học tại một trường ĐH , CĐ không tổ_chức thi hay hệ CĐ của các trường ĐH , nhưng vì các trường này không tổ_chức thi nên TS phải " mượn " một trường nào_đó có tổ_chức thi để đăng_ký dự thi .
-Ví_dụ , một TS muốn học ngành quản_trị du_lịch của Trường ĐHDL Văn_Lang . Tuy_nhiên , Trường ĐHDL Văn_Lang lại không tổ_chức thi . Do_đó , TS phải " mượn " một trường nào_đó để dự thi , chẳng_hạn như Trường ĐH Luật TP.HCM . Trong trường_hợp này , ở mục 2 TS sẽ ghi tên của Trường ĐH Luật TP.HCM .
-Còn ở mục 3 TS phải ghi đầy_đủ tên Trường ĐHDL Văn_Lang , mã trường là DVL , khối thi A , mã ngành 405 . Khi ghi như_thế , TS sẽ dự thi ở Trường ĐH Luật TP.HCM nhưng trường này sẽ không xét đến kết_quả thi của TS này mà chuyển cho Trường ĐHDL Văn_Lang ngay sau khi có kết_quả . Với hệ CĐ của các trường ĐH cũng tương_tự như_vậy .
-Ngược_lại , đối_với những TS chỉ có NV1 học tại chính_trường mà mình đăng_ký dự thi thì không ghi gì vào mục số 3 .
-Theo qui_chế tuyển_sinh , trên mỗi bộ hồ_sơ đăng_ký dự thi , TS chỉ có duy_nhất một nguyện_vọng . Nếu muốn xét tuyển NV2 , TS phải hội đủ một_số điều_kiện là không trúng_tuyển NV1 ; có tổng_số điểm bằng hoặc cao hơn điểm_sàn của trường có thông_báo xét tuyển .
-Hay nói cách khác , NV2 của TS chỉ có sau khi Bộ GD - ĐT công_bố điểm_sàn , các trường thông_báo điểm_chuẩn và danh_sách trúng_tuyển . Từ thời_điểm này đến lúc đó sẽ không có bất_kỳ NV2 nào .
-HÙNG_THUẬT

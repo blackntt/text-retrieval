@@ -1,6 +1,0 @@
-﻿ Tuyến xe_buýt : Cầu_Hang_Trong - chợ Gò_Vấp - chợ Hiệp_Thành
-Lộ_trình : bãi đậu xe số 1 Gò_Vấp - Phan_Văn_Trị - Nguyễn_Thái_Sơn nối dài - Dương_Quảng_Hàm - Lê_Đức_Thọ - Nguyễn_Văn_Lượng - Thống_Nhất - hẻm Thống_Nhất - Lê_Văn_Thọ - Lê_Đức_Thọ - Lê_Văn_Khương - Nguyễn Ảnh Thủ - chợ Hiệp_Thành ( quận 12 ) .
-Đầm_Sen - ngã ba Bà Quẹo - Công_viên phần_mềm Quang_Trung - chợ Hiệp_Thành
-Thời_gian hoạt_động từ 5g-19g15 với 170 chuyến/ngày , cự_ly 19,6 km và thời_gian hành_trình là 1g10 . Giờ cao_điểm 8 phút/chuyến và giờ thấp_điểm 15 phút/chuyến . Giá vé 2.000 đồng/người đi dưới ½ hành_trình và 3.000 đồng/người đi trên 1/2 hành_trình .
-Lộ_trình : bãi đậu xe_buýt đường Lạc_Long_Quân - Tống_Văn_Trân - Lạc_Long_Quân - Hòa_Bình - Đầm_Sen - Hòa_Bình - Lũy_Bán_Bích - Độc_Lập - Tân_Sơn_Nhì .
-N . A .

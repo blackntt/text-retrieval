@@ -1,6 +1,0 @@
-﻿ IBM vẫn dẫn_đầu trong Top 500 siêu máy_tính
-Hệ_thống Blue_Gene / L của IBM đã được cài_đặt trong Phòng_thí_nghiệm Lawrence_Livermore ( Mỹ ) vẫn là “ thủ_lĩnh ” trong Top 500 siêu máy_tính mạnh nhất trên toàn thế_giới . IBM đã chiếm trọn 4 vị_trí đầu_bảng trong danh_sách 10 supercomputer uy_lực nhất .
-Tốc_độ xử_lý tối_đa của Blue_Gene / L lên tới 280,6 teraflop ( 280,6 nghìn tỷ phép_tính mỗi giây ) . Hiện_tại , không một supercomputer nào có tốc_độ vượt 100 teraflop và với những tính_năng nổi_trội hơn hẳn , các nhà tổ_chức bình_chọn cho rằng hệ_thống của IBM sẽ vẫn đăng_quang vài lần nữa .
-Các hệ_thống của IBM chiếm 48,6% trong Top 500 siêu máy_tính , tiếp sau đó là Hewlett-Packard với 30,8% . Hệ_thống máy_chủ GSIC Center sử_dụng bộ_vi_xử_lý Opteron đang được đặt trong Viện công_nghệ Tokyo ( Nhật_Bản ) đã giúp Sun_Microsystems chen_chân vào top 10 hệ_thống hàng_đầu với vị_trí thứ 7 .
-Điểm đáng chú_ý là trong khi thứ_tự trong danh_sách các hệ_thống ở cuối bảng không thay_đổi là bao thì cuộc cạnh_tranh giữa những “ ông lớn ” lại rất căng thắng . 3 vị_trí đầu_bảng từ tháng 11/2005 đã được thay_thế hoàn_toàn : Earth_Simulator đặt ở Tokyo do NEC phát_triển có tốc_độ 35,86 teraflop đã 5 lần liên_tục đứng trong top 5 thì trong lần này đã bị đẩy xuống vị_trí thứ 10 .
-N . H_Theo PCMag

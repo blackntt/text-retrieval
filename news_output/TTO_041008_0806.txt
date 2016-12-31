@@ -1,9 +1,0 @@
-﻿ Google thử_nghiệm dịch_vụ không dây
-Dịch_vụ Google SMS cũng có_thể dùng để tính_toán , tìm mã vùng hoặc mã bưu_điện cũng_như nhận được các kết_quả truy_cứu thông_tin từ Google .
-Người sử_dụng điện_thoại_di_động hoặc các thiết_bị cầm tay tương_thích với dịch_vụ nhắn_tin ngắn dạng văn_bản đều có_thể gửi thông_tin đến dịch_vụ Google SMS và từ đây sẽ có những thông_tin tự_động phản_hồi lại cho người truy_tìm . Ví_dụ khi bạn nhập vào chữ “ pizza ” cùng_với mã vùng vào dịch_vụ tìm_kiếm thì Google SMS sẽ liệt_kê cho bạn hàng_loạt các tiệm bán pizza trong khu_vực đó cho bạn . Tương_tự như_vậy , Google SMS cũng cung_cấp danh_sách các số điện_thoại trong vùng khi người truy_tìm chỉ biết được mã vùng , thành_phố hay bang .
-Người dùng cũng có_thể sử_dụng Google SMS để tìm_kiếm thông_tin giống như trên máy_tính . Để thực_hiện điều này , người dùng nên gõ vào một chữ “ G” vào sau mỗi mệnh_đề tìm_kiếm và sẽ nhận được những mẩu tin tóm_tắt của kết_quả , giúp cho quá_trình xác_lập thông_tin được dễ_dàng hơn .
-Google SMS sử_dụng tin nhắn dạng văn_bản và không đòi đỏi phải có trình_duyệt cho các thiết_bị không dây chính vì_vậy nó không có chức_năng phản_hồi toàn_bộ danh_sách thông_tin cùng_với các đường kết_nối đến các trang_web như Google thông_thường mà ta vẫn sử_dụng trên máy_tính .
-Dịch_vụ Google SMS hoàn_toàn miễn_phí nhưng người dùng vẫn phải trả tiền nhắn_tin cho nhà_cung_cấp dịch_vụ .
-Hiện_tại , Google SMS chỉ sử_dụng được ở các nhà_cung_cấp dịch_vụ không dây tại Mỹ như AT& amp ; T_Wireless , Cingular , Nextel , T-Mobile , Verizon and Sprint PCS .
-Có_thể tham_khảo thông_tin về dịch_vụ đang thử_nghiệm này tại http : / / sms.google.com .
-HOÀNG_HẢI ( Theo ITWorld )

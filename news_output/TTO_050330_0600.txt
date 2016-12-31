@@ -1,8 +1,0 @@
-﻿ Tạo ổ_đĩa ảo với Extra_Drive_Creator
-Extra_Drive_Creator của WinTools Software_Engineering không thua_kém gì bộ Virtual_Drive có cùng chức_năng là tạo ổ_đĩa ảo trên máy_tính nhưng Extra_Drive_Creator có năm tính_năng chính được xem như_là 5 bộ công_cụ trong một là :
-- Crypted_Drive : Công_cụ này cho_phép bạn tạo một ổ_đĩa mà dữ_liệu của bạn khi được lưu_trữ trong đó sẽ được mã_hoá 256-bit với mật_khẩu sử_dụng thuật_toán “ AES256 ” nhằm chống lại việc truy_xuất dữ_liệu trái_phép .
-- Virtual CD : Công_cụ này dành cho việc tạo ổ_đĩa ảo giúp bạn giả_lập ổ CD-Rom trên PC của bạn nhằm lưu_trữ , và đọc các tập_tin ISO . Công_cụ này hữu_ích cho các gamer để lưu_trữ các CD Game và chơi trực_tiếp không cần CD trên PC .
-- File/Folder to Drive : Công_cụ tạo ổ_đĩa mở_rộng mà không cần tạo partition mới . Công_cụ này cơ_bản sử_dụng file / folder như ổ_đĩa mở_rộng .
-- RAM Drive : Cũng cùng chức_năng tạo thêm ổ_đĩa ảo nhưng nó dựa trên bộ_nhớ RAM để tạo ra ổ_đĩa mở_rộng . Tất_cả thông_tin trên ổ_đĩa mở_rộng này sẽ mất đi_sau khi reboot lại máy_tính . Công_cụ này hữu_ích cho các chương_trình đòi_hỏi quyền truy_xuất tốc_độ tối_đa với ổ_cứng , ổ_đĩa mở_rộng sẽ lưu_trữ lại thông_tin tạm_thời của các chương_trình này giúp cho việc xử_lý mau_chóng hơn .
-Tải về dùng thử Extra_Drive_Creator tại đây . Hoạt_động trên máy có cấu_hình thấp và hầu_hết các phiên_bản của hệ_điều_hành Windows NT/2000/XP/2003 . Một lưu_ý khác là khi sử_dụng Extra_Drive_Creator , bạn cần có quyền của người quản_trị ( Administrator ) để cài_đặt và thực_thi các bộ công_cụ .
-TRẦN_THANH_TRỰC

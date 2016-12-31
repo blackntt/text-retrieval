@@ -1,5 +1,0 @@
-﻿ Phần_mềm chăm_sóc Windows
-Advanced_Windows_Care gây ấn_tượng mạnh với người sử_dụng ngay từ lúc tiến_hành cài_đặt với giao_diện rất thanh_nhã .
-Tuy_nhiên , khi chạy chương_trình , bạn sẽ còn ngạc_nhiên hơn_nữa . Chỉ với một cú nhấp chuột và 20 giây chờ_đợi , bạn sẽ được Advanced_Windows_Care thông_báo những lỗi đang tồn_tại trong hệ_thống và những bộ_phận đang hoạt_động chưa hiệu_quả . Đồng_thời , chương_trình cũng sẽ gợi_ý những thông_số bạn nên định cho Windows để hệ_thống chạy nhanh hơn . Bạn chỉ cần chọn Repair rồi đến Optimize là xong . Sau khi tối_ưu_hóa xong , nếu có gì trục_trặc , bạn chọn Restoration là mọi chuyện sẽ trở_lại bình_thường .
-Dung_lượng 2,27 MB và miễn_phí , phần_mềm này do Iobit sản_xuất , tương_thích với Win 2000/XP . Giao_diện rất đẹp , dễ sử_dụng nhưng yêu_cầu cấu_hình khá cao ( Pentium 500 MHz , RAM 256 MB tối_thiểu ) . Download : www.iobit.com/WindowsCare.htm
-H . H

@@ -1,6 +1,0 @@
-﻿ Xét_nghiệm máu bằng " Môbai "
-LG_KP8 4000 là tên của sản_phẩm độc_nhất này và được thiết_kế như_là một tiện_ích dành cho những người bị bệnh tiểu_đường .
-Để có_thể kiểm_tra lượng đường trong máu của mình người sử_dụng sẽ nhỏ một_vài giọt máu lên 1 dải giấy thử . Sau đó đưa vào một khe hở nhỏ ( đặt ở gần bộ_phận chứa Pin của máy ) , bên trong khe có gắn một cảm_biến và nó sẽ phân_tích mẫu máu vừa được đưa vào . Sau khi phân_tích , ĐTDĐ sẽ hiển_thị các thông_số về lượng đường trong máu trên màn_hình điện_thoại để bạn_đọc các thông_tin .
-Các dữ_liệu sẽ được lưu lại hay Upload lên cơ_sở_dữ_liệu Online để xem_lại sau_này . Tuy có kích_thước khá lớn về bề rộng ( do phải thiết_kế cả Pin và cảm_biến ) nhưng bù lại máy lại rất nhẹ chỉ có 85g , màn_hình bên trong TFT 262 K màu , màn_hình bên ngoài STN 65 K màu , Camera CIF ( 352 288 Pixel ) gắn trong , chuông 64 âm_sắc .
-Sản_phẩm này được phát_triển bởi Công_ty trang_thiết_bị chắm sóc sức_khỏe Heathpia và nó có_giá khoảng 380 USD tại Hàn_Quốc . Có_thể nói với những người bị bệnh tiểu_đường thì việc kiểm_tra lượng đường trong máu là một việc_làm hết_sức thường_xuyên và cần_thiết do_đó LG_KP8 400 chắc_chắn sẽ được người tiêu_dùng hoan_nghênh .
-CHÁNH_TRUNG

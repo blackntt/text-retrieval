@@ -1,6 +1,0 @@
-﻿ Phát_hiện protein hệ_miễn_dịch làm cho HIV dễ lây_nhiễm
-Theo các nhà_nghiên_cứu tại Trường ĐH London , cyclophilin A được tìm thấy bên trong HIV - 1 khi virus này tấn_công các tế_bào người và khỉ được thí_nghiệm .
-Họ phát_hiện nó làm biến_đổi hình_dáng các phân_tử của virus này , khiến cho nó dễ bị TRIM5-alpha có trong hệ_miễn_dịch bẩm_sinh của khỉ tấn_công , ngăn không cho nó đi vào bên trong . Điều này_khác hẳn khi chúng nhiễm vào các tế_bào người : các nhà_nghiên_cứu phát_hiện cyclophilin A ở con_người cũng làm thay_đổi hình_dáng các phân_tử virus HIV , không_chỉ làm cho chúng dễ lây_nhiễm hơn mà_còn giúp virus này tái_tạo .
-Trưởng nhóm nghiên_cứu Greg_Towers nói hiện nhóm ông đang tiến một bước gần hơn trong việc hiểu về hệ_miễn_dịch bẩm_sinh và hoạt_động của virus HIV , và khám_phá các mối tương_tác cho_phép virus này đi qua chướng_ngại loài .
-“ Việc hiểu_biết thêm này sẽ giúp chúng_tôi phác_họa các liệu_pháp điều_trị HIV tốt hơn ” , Towers nói .
-T.VY ( Theo Xinhua , New_Scientist )

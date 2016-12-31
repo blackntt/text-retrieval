@@ -1,4 +1,0 @@
-﻿ Ôn thi đại_học bằng phương_pháp trắc_nghiệm
-Phần_mềm bao_gồm hệ_thống kiến_thức cơ_bản các môn_học toán , lý , hóa , sinh , tiếng Anh , văn lớp 10 , 11 , 12 . Mỗi phần_mềm có trên 500 câu trắc_nghiệm bao_quát tất_cả các dạng bài_tập của các môn_học tương_ứng ; đặc_biệt trong “ Phần_mềm ôn thi đại_học môn_sinh học ” còn có 303 bài_tập và 51 đề thi tự luận .
-Nhiều đề thi_tuyển sinh đại_học môn toán , lý , hóa , sinh , tiếng Anh , văn của các năm gần đây cũng được chuyển sang dạng trắc_nghiệm . Ngoài_ra , phần_mềm còn có các đề tự_tạo theo phương_pháp ngẫu_nhiên dựa trên số_lượng các câu trắc_nghiệm có sẵn hoặc mới bổ_sung của từng môn tương_ứng .
-H . P .

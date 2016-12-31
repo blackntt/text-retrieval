@@ -1,5 +1,0 @@
-﻿ Chọn công_nghệ MPLS - VPN cho hạ_tầng mạng đô_thị
-( NLĐ ) - Việc xây_dựng một hạ_tầng mạng đô_thị ( mạng MAN ) là bước_đi nền_tảng cho chính_phủ_điện_tử tại TPHCM . Theo kết_quả nghiên_cứu của nhóm đề_tài “ Đánh_giá hiểm_họa và xây_dựng giải_pháp bảo_vệ hạ_tầng mạng MAN_TPHCM” thì việc chọn công_nghệ MPLS là phù_hợp nhất hiện_nay .
-Công_nghệ MPLS có_thể tin_cậy để giải_quyết những vấn_đề mà hệ_thống mạng hiện_nay gặp phải như tốc_độ , khả_năng mở_rộng , quản_lý chất_lượng dịch_vụ , quản_lý lưu_lượng .
-Đề_tài do tiến_sĩ Trịnh_Ngọc_Minh , ĐH Quốc_gia TPHCM , làm chủ_nhiệm , được xếp loại xuất_sắc . Sở Bưu chính Viễn_thông , đơn_vị đặt_hàng , cho_biết : Sẽ triển_khai kết_quả nghiên_cứu khi xây_dựng mạng MAN_TP .
-M.Dung

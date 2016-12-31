@@ -1,5 +1,0 @@
-﻿ Mozilla giới_thiệu FireFox 2.0 Alpha 1
-Phiên_bản Bon_Echo_Alpha 1 này được tung ra nhằm mục_đích thu_hút thông_tin phản_hồi để Mozilla có_thể sửa_chữa nhằm hoàn_thiện cho bản FireFox 2.0 . Một chức_năng mà Mozilla đã cải_tiến khá nhiều là chức_năng bảo_lưu liên_kết ( bookmark ) , mang tên Places , sử_dụng lớp lưu_trữ dữ_liệu mới với SQLlite . Ngoài_ra , việc cải_tiến thêm ở phần duyệt theo thẻ , hỗ_trợ SVG sử_dụng svg : textPath , mở_rộng , bổ_sung phần định_dạng tìm_kiếm và cập_nhật hàng tá lỗi bảo_mật ở các phiên_bản trước .
-Hiện_tại , Mozilla vẫn không khuyến_cáo người dùng sử_dụng rộng_rãi thường_xuyên phiên_bản FireFox 2.0 Alpha 1 này . Chủ_yếu vẫn là thử_nghiệm và thu_nhận kết_quả phản_hồi từ người dùng . “ FireFox 2.0 Alpha 1 là cột mốc đầu_tiên cho chặng đường phát_triển FireFox 2.0 ” , Mike_Schroepfer , phó_chủ_tịch của Mozilla cho_biết .
-Hoạt_động trên nhiều hệ_điều_hành như Windows , Linux và cả Mac OS X , FireFox 2.0 Alpha 1 Bon_Echo có_thể tải về dùng thử tại đây .
-THANH_TRỰC

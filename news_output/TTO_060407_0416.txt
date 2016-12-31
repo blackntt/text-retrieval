@@ -1,9 +1,0 @@
-﻿ Tạo mạng LAN qua Internet với Hamachi
-Mỗi máy_tính kết_nối vào mạng Hamachi lần đầu sẽ được gán cho một ID ; một máy_chủ sẽ có nhiệm_vụ “ dẫn đường ” cho các máy_khách kết_nối được với nhau , tạo thành một mạng LAN ảo qua Internet . Sau khi đã kết_nối , các máy_khách không cần thêm sự hỗ_trợ nào khác từ máy_chủ Hamachi nữa .
-Mỗi mạng trong Hamachi chính là một mạng LAN ảo , với tên và mật_khẩu khác_nhau . Sau khi gia_nhập vào mạng bạn có_thể kết_nối , chia_sẻ dữ_liệu với các máy_tính khác cùng ở trong mạng .
-Sau khi tải chương_trình về từ www . hamachi.cc/download ( đã có bản Việt hóa ) và cài_đặt , người dùng có_thể kết_nối vào mạng Hamachi với một nick name tùy chọn và được cung_cấp một ID . Chọn_Launch_Hamachi để khởi_động chương_trình . Bấm vào nút Power_On ở phía dưới bên trái cửa_sổ .
-Nếu là lần đầu_tiên sử_dụng Hamachi , chương_trình sẽ xuất_hiện một bảng đề_nghị bạn tài_khoản mới , sau đó bạn sẽ được cấp 1 IP trên mạng LAN . Để tạo một mạng LAN riêng , trên thanh điều_khiển bạn hãy chọn nút Create_New_Network ở giữa . Đặt tên cho mạng tại phần Network_Name và tạo mật_khẩu cho mạng tại Network .
-Người khác muốn vào mạng LAN mà bạn đã tạo thì sẽ chọn Join_Network , đánh tên và pass của bạn vào . Cứ như_vậy ai muốn vào mạng thì cứ đánh đúng tên và pass là được .
-Sau khi vào mạng thành_công , những người trong cùng mạng có_thể chia_sẻ dữ_liệu cho nhau một_cách dễ_dàng , gửi thông_điệp như trong mạng nội_bộ .
-Nhờ sự đơn_giản , tiện_lợi cùng khả_năng kết_nối tốt và độ an_toàn cao lại tốn rất ít bộ_nhớ , Hamachi đã nhanh_chóng thu_hút đông_đảo người dùng trong việc chia_sẻ dữ_liệu qua mạng , nhất_là để tạo ra các “ phòng game ” ảo trên Internet . Hiện_nay , Hamachi đã rất phổ_biến ở VN với vô_số room dành riêng cho các game Halflife , Starcraft , Warcraft .
-NGUYỄN_HOÀNG_MINH

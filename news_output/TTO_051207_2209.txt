@@ -1,7 +1,0 @@
-﻿ LG_G2 62 : Xe đua trong bàn_tay
-Máy nặng 119 g , hoạt_động trên 3 băng tần GSM 900/1.800/1.900 MHz . Tăng thêm vẻ đẹp cho kiểu_dáng là màn_hình OLED ngoài sống_động , hiển_thị 65.536 màu , độ_phân_giải 96 x 96 pixel .
-Camera 1,3 Megapixel có_thể chụp ảnh ở độ_phân_giải tối_đa 1.280x960 pixel và quay video . Máy cũng có đèn flash trợ sáng cho những cảnh chụp đêm . Bạn có_thể gửi hình_ảnh cho người quen qua tin nhắn MMS ngay sau khi chụp bằng thao_tác đơn_giản .
-Việc truyền_tải dữ_liệu với máy_tính được thực_hiện dễ_dàng qua giao_tiếp USB hoặc Bluetooth . Máy được hỗ_trợ WAP 2.0 nên_người sử_dụng có_thể truy_cập internet để xem tin_tức , gửi nhận email , tin nhắn MMS ...
-So với hệ_thống GPRS trước_đây , việc ứng_dụng EDGE sẽ gia_tăng tốc_độ của mạng và hiệu_quả hoạt_động sẽ tăng lên rất nhiều lần , từ tốc_độ hiện_thời là 40 Kb/giây lên đến 200 Kb/giây ( có tốc_độ tối_đa khoảng 384 Kb/giây và trung_bình khoảng 250 Kb/giây ) .
-Ngoài các chương_trình quản_lý thông_tin cá_nhân khá toàn_diện , G262 cũng có nhiều ứng_dụng khác , như chương_trình chuyển_đổi tiền_tệ , máy_tính , sổ ghi_nhớ , lịch làm_việc . Máy được hỗ_trợ Java nên_người dùng có_thể tải thêm nhạc chuông , trò_chơi , hình_ảnh nền từ mạng . Sản_phẩm mới ra_mắt thị_trường VN , giá 5.290.000 VND tại Mai_Nguyên_Mobile_Phone .
-HỒNG_NHUNG

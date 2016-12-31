@@ -1,6 +1,0 @@
-﻿ “ Đĩa_cứng đặc ” Flash chuẩn_bị thách_thức đĩa_cứng quay
-Vào cuối năm 2005 , dòng thẻ nhớ Nand_Flash dung_lượng đạt đến 8GB đã được trang_bị cho các đĩa lưu_trữ di_động USB hoặc các camera kỹ_thuật_số , nhưng quả_thực về dung_lượng lưu_trữ thì thẻ nhớ Flash hiện vẫn chưa là gì so với các loại đĩa_cứng siêu dung_lượng hoặc các chuẩn đĩa DVD đời_mới .
-Tuy_nhiên có rất nhiều tính_năng mà đĩa_cứng đặc Flash luôn tỏ ra ưu_thế vượt_trội trong mọi thiết_bị di_động mà đĩa_cứng quay dù dung_lượng lưu_trữ có cao đến đâu cũng không_thể sánh bằng . Đó là các tính_năng như : cực_kỳ nhỏ gọn , tiêu_thụ cực ít điện_năng , khả_năng chống sốc tuyệt_vời , cực nhanh và bền … Những tính_năng này vô_cùng phù_hợp với các loại máy_xách_tay vốn_dĩ không cần quá nhiều dung_lượng lưu_trữ như máy_để_bàn .
-Các chuyên_gia tính_toán rằng một máy_xách_tay sử_dụng đĩa_cứng đặc Flash sẽ có thời_lượng pin hoạt_động dai hơn máy sử_dụng đĩa_cứng quay ít_nhất là 30 phút khi cả 2 máy cùng được sạc đầy .
-Chuyên_gia phân_tích Joe_Unsworth của Gartner dự_đoán rằng đến năm 2007 , loại thẻ nhớ Flash 16GB sẽ hạ giá xuống chỉ còn 90 USD so với vài trăm USD ở thời_điểm hiện_nay và sớm_muộn gì rồi loại đĩa_cứng đặc Nand_Flash cũng sẽ lấn sang sân của đĩa_cứng ở máy_xách_tay và rồi cũng sẽ đến máy_để_bàn , và đó là tương_lai không quá xa .
-THỤY_KHANH

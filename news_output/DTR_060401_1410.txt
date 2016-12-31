@@ -1,7 +1,0 @@
-﻿ Trung_Quốc , Nhật_Bản , Hàn_Quốc hợp_tác phát_triển 4G
-Ngày 30/3 , Bộ công_nghiệp thông_tin ( MII ) Trung_Quốc vừa cho_biết rằng ba nước trên đã thống_nhất sẽ đẩy_mạnh hợp_tác giữa các quốc_gia trong một_vài lĩnh_vực công_nghệ chủ_chốt , trong đó có phát_triển chuẩn công_nghệ di_động thế_hệ thứ_tư – 4G .
-Ba bộ_trưởng đại_diện 3 nước đã thống_nhất sẽ thúc_đẩy hợp_tác giữa các quốc_gia trong 6 lĩnh_vực , bao_gồm công_nghệ di_động tiên_tiến và phần_mềm nguồn mở . Tuy_nhiên , MII lại không cho_biết chi_tiết của bản thỏa_thuận .
-Thảo_luận về phát_triển công_nghệ 4G có_thể hơi sớm với Trung_Quốc , đặc_biệt là khi MII vẫn chưa cấp phép cho các dịch_vụ 3G . Thêm nữa , việc kiểm_thử chuẩn 3G của riêng Trung_Quốc là TD-SCDMA ( Time_Division_Synchronous_Code_Division_Multiple_Access ) , vẫn chưa được hoàn_thành .
-Nhưng thế_giới đã bắt_đầu nghiên_cứu các công_nghệ di_động tiên_tiến hơn và Trung_Quốc muốn tham_gia vào hoạt_động này .
-Tập_đoàn cung_cấp dịch_vụ viễn_thông Nhật_Bản NTT DoCoMo là một trong số các công_ty đi đầu trong việc phát_triển công_nghệ 4G . Năm_ngoái , tập_đoàn đã thử_nghiệm thành_công công_nghệ 4G cho_phép truyền dữ_liệu với tốc_độ lên đến 2.5 Gbps ( bit / giây ) tới một chiếc xe đang chuyển_động . Tốc_độ này nhanh hơn rất nhiều so với các mạng 3G hiện_tại ( mạng 3G hiện_tại của DoCoMo dựa trên công_nghệ WCDMA có tốc_độ tối_đa là 384K bps ) .
-Theo dự_đoán , sớm nhất_là tới năm 2010 công_nghệ 4G mới được thương_mại_hóa . Theo AI Vietnam

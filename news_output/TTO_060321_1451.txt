@@ -1,5 +1,0 @@
-﻿ Lỗi bảo_mật mới gây hại cho Internet_Explorer 6
-Michal_Zalewski đã thông_báo rộng_rãi lỗi trình_duyệt này cho các công_ty bảo_mật và tiết_lộ rằng đây là một dạng lỗi gây tràn bộ_nhớ đệm có_thể gây hại nặng_nề cho Internet_Explorer 6 nói_riêng và Windows nói_chung .
-Công_ty bảo_mật Secunia cũng đã thừa_nhận rằng lỗi bảo_mật này có_thể tạo điều_kiện cho hacker lợi_dụng để phá_hoại máy_tính của người dùng , nó ảnh_hưởng đến các bản Windows XP Service_Pack 2 . Secunia cũng an_ủi người dùng rằng mức_độ nguy_hại của lỗi này cũng không đến mức_độ nghiêm_trọng .
-Microsoft hiện đang tích_cực điều_tra về lỗi bảo_mật nói trên và cho_biết rằng chưa có ai bị thiệt_hại gì do lỗi bảo_mật này gây ra . Microsoft hứa sẽ cập_nhật bản vá của lỗi này trong thông_báo bảo_mật đưa ra_vào cuối tháng 3 này .
-HOÀNG_HẢI ( Theo CNET )

@@ -1,6 +1,0 @@
-﻿ Robot có_thể bơi như rắn
-Đây là robot mềm_dẻo đầu_tiên thuộc loại này trên thế_giới , có khả_năng bơi bằng cách uốn_éo thân mình , dài 14cm , rộng 1,2 cm và dày 0,2 cm , trông giống như một dải phim . Nó được làm_bằng 7 đốt cơ nhân_tạo , thứ có_thể uốn cong khi được cung_cấp điện .
-Với những cái phao nhỏ được gắn vào thân , robot này có_thể bơi về phía trước với tốc_độ khỏang 4mm/giây gần mặt_nước và cũng có_thể quay đầu và di_chuyển thụt_lùi .
-Tòan_thân robot được làm_bằng một lọai kem polymer chứa_đựng các ion . Nó chuyển_động khi luồng điện làm luân_chuyển các phân_tử nước trong kem này .
-Toshiharu_Mukai thuộc trung_tâm trên cho_biết ông đang nghiên_cứu một bản_sao robot nhỏ_xíu để dùng trong y_học . Ông nói : ” Chúng_tôi muốn phát_triển một lọai robot có khả_năng bơi trong mạch_máu ” .
-Q . HƯƠNG - Kyodo

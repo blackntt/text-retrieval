@@ -1,5 +1,0 @@
-﻿ Robot nhanh_nhất
-Hitachi cho_biết robot Emiew cao 1,3 m là robot có chuyển_động nhanh_nhất từ trước tới nay với tốc_độ 6 km / g . Hai robot mẫu có tên Pal và Chum , sử_dụng bánh_xe , tự giới_thiệu cho các nhà_báo tại một cuộc họp_báo ở Nhật . Giải_thích tại_sao robot Emiew dùng bánh_xe thay_vì chân , Toshihiko_Horiuchi của hãng Hitachi , nói : ” Chúng_tôi chế_tạo lọai robot sao cho nó có_thể sinh_họat và sống chung với con_người . Chúng_tôi muốn robot có_ích cho con_người … Nếu robot di_chuyển chậm hơn , người sử_dụng sẽ thất_vọng . ”
-Với các bộ cảm_biến trên đầu , ngực và gần các bánh_xe , Pal và Chum đã chứng_minh chúng có_thể phản_ứng lại các mệnh_lệnh như_thế_nào . Hai robot này có vốn từ vụng khỏang 100 từ , có_thể được “ đào_tạo ” để sử_dụng trong việc văn_phòng và cơ_xưởng .
-Trong khi đó , robot Qrio của hãng Sony biết hát , nhảy_múa trong đội_hình và , cho tới năm_ngóai , là robot hai chân nhanh_nhất thế_giới . Nhưng kỷ_lục của Qrio đã bị Asimo phá . Asimo có_thể di_chuyển 3 km / g , nhanh gấp bốn lần Qrio .
-Q . HƯƠNG ( Theo BBC )

@@ -1,9 +1,0 @@
-﻿ ISO 9000 là gì ?
-Bộ tiêu_chuẩn ISO 9000 do Tổ_chức Tiêu_chuẩn_hóa quốc_tế ( ISO ) ban_hành lần đầu năm 1987 , soát_xét lần 1 năm 1994 , lần hai với phiên_bản hiện_hành công_bố ngày 14/12/2000 . Đây là bộ tiêu_chuẩn về quản_lý chất_lượng , quy_tụ kinh_nghiệm quốc_tế và được nhiều quốc_gia áp_dụng .
-Phiên_bản 2000 kế_thừa và nâng cao toàn_bộ các yêu_cầu về bảo_đảm chất_lượng nêu trong phiên_bản 1994 đồng_thời có nhiều cải_tiến về cấu_trúc định_hướng theo quá_trình , nội_dung và sắp_xếp hợp_lý hơn , nhấn_mạnh đến quá_trình cải_tiến liên_tục . ISO 9000 : 2000 gồm 4 tiêu_chuẩn chính như sau :
-- ISO 9000 : 2000 thay_thế ISO 8402 , tương_ứng với tiêu_chuẩn Việt_Nam ( TCVN ) ISO 9000 : 2000 , mô_tả cơ_sở và từ_vựng .
-- ISO 9001 : 2000 , thay_thế ISO 9001 , ISO 9002 , ISO 9003 của phiên_bản 1994 , ứng với TCVN_ISO 9001 : 2000 mô_tả các yêu_cầu của hệ_thống quản_lý chất_lượng .
-- ISO 9004 : 2000 , thay_thế ISO 9004 - 1 , tương_ứng với TCVN_ISO 9004 : 2000 , cung_cấp hướng_dẫn cải_tiến hệ_thống quản_lý chất_lượng .
-- ISO 19011 : 2000 , thay_thế ISO 10011 - 1 : 1990 , ISO 10011 - 2 : 1991 , ISO 10011 - 3 : 1991 . Tiêu_chuẩn của bộ ISO 14000 về môi_trường là ISO 14010 : 1996 , ISO 14011 : 1996 hướng_dẫn để đánh_giá hệ_thống quản_lý chất_lượng và môi_trường .
-Những tiêu_chuẩn không bị thay_thế của bộ ISO 9000 phiên_bản 1994 vẫn được áp_dụng để hướng_dẫn bổ_sung cho bộ ISO 9000 phiên_bản 2000 . áp_dụng ISO 9000 giúp doanh_nghiệp , tổ_chức tiếp_cận công_nghệ quản_lý tiên_tiến , hoàn_thiện hệ_thống quản_lý ; nâng cao chất_lượng sản_phẩm và dịch_vụ ; giảm_thiểu sản_phẩm , dịch_vụ không phù_hợp ; tạo_lập niềm_tin nơi khách_hàng ; tăng_cường tính cạnh_tranh và khả_năng thâm_nhập thị_trường mới .
-Đơn_vị có chứng_nhận ISO 9000 chính là khẳng_định sự cam_kết về chất_lượng , tăng uy_tín trên thương_trường và thị_trường xuất_khẩu . Theo Hà_Nội mới

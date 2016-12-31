@@ -1,4 +1,0 @@
-﻿ Mở cổng thông_tin ĐHDL Văn_Hiến
-( NLĐ ) - Ngày 9-1 , ĐH_DL Văn_Hiến triển_khai cổng giao_dịch thông_tin ĐH ( uPortal ) . Cổng u Portal có_thể quản_lý hoạt_động đến từng cá_nhân sinh_viên , cán_bộ , giảng_viên của trường theo mã_số ; dự_kiến ngày 12-1 sẽ đưa lên mạng Internet tại địa_chỉ www . daihocvanhien.edu.vn .
-Theo tiến_sĩ Trương_Bá_Hà , cố_vấn kỹ_thuật Công_ty Phát_triển u Portal , việc mở cổng giao_dịch thông_tin này sẽ tạo cơ_hội cho sinh_viên có_thể trao_đổi trực_tuyến với giảng_viên , theo_dõi được tiến_độ học_tập của bản_thân ; việc quản_lý kế_hoạch và quá_trình đào_tạo của nhà_trường cũng được thuận_lợi hơn . Được biết , các trường như CĐ Mẫu_giáo Trung_ương 3 , CĐ_GTVT 3 và ĐH Công_nghiệp 4 cũng đang xúc_tiến triển_khai mô_hình u Portal này .
-M.Dung

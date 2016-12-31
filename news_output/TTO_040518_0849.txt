@@ -1,4 +1,0 @@
-﻿ Trang_web của ĐH Huế bị sập mạng hơn nửa tháng
-Có ba nguyên_nhân dẫn đến việc sập mạng mà tiến_sĩ Nguyễn_Mậu_Hân đưa ra là do hệ_thống điện không ổn_định ảnh_hưởng đến các thiết_bị hub và switch dùng để kết_nối mạng , do server của mạng đã từng bị sét đánh hai lần ( năm 2000 và 2002 ) dẫn đến hư_hỏng , và nguyên_nhân quan_trọng nữa_là do bị hacker phá_hoại .
-Việc bị sập mạng hơn nửa tháng qua khiến hoạt_động giao_dịch giữa ĐH Huế và các trường thành_viên trở_nên khó_khăn , các thông_tin mùa tuyển_sinh 2004 ở ĐH Huế cũng không đến được rộng_rãi với thí_sinh .
-THẾ_NAM

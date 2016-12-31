@@ -1,5 +1,0 @@
-﻿ Trung_Quốc chế_tạo thành_công robot mổ nano
-Nano là một đơn_vị đo chiều dài bằng 1 phần tỷ mét . Kỹ_thuật mổ nano là một công_nghệ rất cao trong đó robot sử_dụng một con dao_mổ nano và thao_tác , lắp_ráp , chạm_khắc trên một diện_tích nhỏ được tính bằng đơn_vị nano .
-Các nhà_nghiên_cứu tại Viện nghiên_cứu tự_động Thẫm_Dương , trực_thuộc Viện khoa_học hàn_lâm Trung_Quốc đã thực_hiện thành_công một ca phẫu_thuật sử_dụng một kính_hiển_vi đặc_biệt và một màn_hình máy_tính cho thấy những cử_động của cánh_tay robot nano ( cánh_tay này nhỏ hơn đầu kim vài triệu lần ) . Cánh_tay của robot có_thể thao_tác trên các nguyên_tử cực nhỏ như_thể chúng_ta điều_khiển các quân cờ .
-Các chuyên_gia cho rằng robot này sẽ mở_đường cho việc chế_tạo ra những robot trong tương_lai có_thể đi vào và sửa_chữa tế_bào .
-Đ . K . L ( Theo Crienglish )

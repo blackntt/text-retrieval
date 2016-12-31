@@ -1,4 +1,0 @@
-﻿ Gia_Lai : trợ cước_vận chuyển , giá mua hàng nông_sản
-Các xã có cự_ly vận_chuyển từ 20km trở xuống cước_vận chuyển là : 35.000đồng/tấn , các xã có cự_ly vận_chuyển từ 21km đến 40km cước_vận chuyển là : 55.000đồng/tấn , các xã có cự_ly vận_chuyển từ 41 km trở_lên cước_vận chuyển là : 75.000đồng/tấn . Ngân_sách tỉnh cũng sẽ hỗ_trợ cước_vận chuyển từ trung_tâm huyện , thị_xã về đến_nơi tiêu_thụ ( TP Qui_Nhơn hoặc thị_xã Tuy_Hòa ) .
-Về giá mua bắp hạt , mì lát tối_thiểu tại các xã vùng 3 và các làng đặc_biệt khó_khăn để được trợ cước_vận chuyển tiêu_thụ đối_với mì lát khô là 1.450đ/kg , bắp hạt khô là 2.000đ/kg , bắp hạt tươi là 1.400đ/kg .
-HIẾU_NHÂN

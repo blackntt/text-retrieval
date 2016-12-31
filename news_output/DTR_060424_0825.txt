@@ -1,5 +1,0 @@
-﻿ Google thử_nghiệm trang kết_quả tìm_kiếm nâng cao
-Hãng tìm_kiếm khổng_lồ Mỹ đang thử_nghiệm một định_dạng trang mới cho các kết_quả tìm_kiếm web của mình , cho_phép người dùng mở_rộng đáng_kể các chi_tiết được cung_cấp bên dưới các liên_kết tới trang_web .
-Định_dạng mới cho người dùng tùy chọn xem nhiều văn_bản hơn so với một hay hai dòng như Google thường cung_cấp dưới mỗi liên_kết website trả về sau một truy_vấn . Một_vài kết_quả còn bao_gồm cả hình_ảnh từ trang_web , giống kiểu Google thực_hiện các dịch_vụ tìm_kiếm khác , chẳng_hạn như Google_News .
-Các kết_quả mở_rộng có chứa một hộp tìm_kiếm cho_phép người dùng chạy một truy_vấn cụ_thể trên trang_web đó . Ngoài_ra , nó còn đưa ra các liên_kết tới các trang khác có chủ_đề liên_quan tới danh_sách kết_quả .
-Trang kết_quả thử_nghiệm này phù_hợp với mô_tả về công_nghệ bộ_máy tìm_kiếm mới có tên Orion mà Google mới mua lại từ một sinh_viên của đại_học New_South_Wales , Úc . Theo báo_cáo , Orion giúp tăng lượng thông_tin trên mỗi trang kết_quả , giúp họ đưa ra quyết_định chính_xác liệu có muốn duyệt qua danh_sách các site được liệt_kê hay không . Theo AI VietNam/InfoWorld

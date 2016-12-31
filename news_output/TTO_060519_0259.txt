@@ -1,7 +1,0 @@
-﻿ Trang_điểm khuôn_mặt góc_cạnh
-- Nền : rửa mặt thật sạch , lót một lớp kem dưỡng , sau đó đánh nền để tạo độ láng mịn . Đánh sáng tối , tạo khối bằng các mảng sáng tối ở sống_mũi và hai bên xương quai_hàm để khuôn_mặt không vuông quá , nhìn nhẹ_nhàng . Cuối_cùng phủ một lớp phấn mỏng , tạo độ lì và thanh_khiết cho làn da mặt .
-- Chân_mày : tỉa theo dáng tự_nhiên , có_thể dùng đầu mascara chải nhẹ theo dáng có sẵn .
-- Mắt : đánh_phấn màu lên toàn bầu mắt , dùng màu đậm hơn đánh nhạt dần về phía đuôi mắt , có_thể kẻ viền mắt để tăng thêm vẻ sắc_sảo .
-- Má_hồng : dùng cọ đánh xéo cho khuôn_mặt dài ra và thon hơn , nên phủ má_hồng theo hình tam_giác_vuông . Chú_ý nền và má_hồng phải đánh thật kỹ .
-- Môi : nên chọn màu son môi hòa_hợp với màu mắt , son môi nên tô nhẹ_nhàng như màu cam , hồng_đào ... Kẻ viền môi không quá đậm , thêm một_chút son bóng để môi tăng độ căng mịn , quyến_rũ .
-KHÁNH_NHƯ thực_hiện

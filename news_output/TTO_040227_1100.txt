@@ -1,5 +1,0 @@
-﻿ Sẽ có phần_mềm mới Windows XP Reloaded
-Cùng_với Windows XP Reloaded , Microsoft cũng đang lên kế_hoạch nâng_cấp 2 phiên_bản khác của Windows , Media_Center và Tablet PC . Những sản_phẩm mới sẽ bao_gồm nhiều cải_tiến về bảo_mật và được bổ_sung một_số tính_năng mới .
-Windows XP Reloaded dự_kiến được ra_mắt vào cuối năm 2004 . Tuy_nhiên , một_số chuyên_gia phân_tích cho rằng Windows XP Reloaded sẽ làm chậm kế_hoạch của Longhorn , và như_thế sẽ gây khó_khăn cho Microsoft trong cuộc cạnh_tranh với Linux .
-Người khổng_lồ về phần_mềm cũng đang lên kế_hoạch đưa ra một bản Service_Pack cho Windows XP nhằm khắc_phục các lỗi bảo_mật trong phần_mềm , dự_kiến được phát_hành giữa năm 2004 .
-T . M ( Theo ITnews )

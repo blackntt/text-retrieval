@@ -1,7 +1,0 @@
-﻿ Sâu phát_tán ảnh khỏa_thân trong mùa World_Cup
-Giới tin_tặc vừa phát_triển một loại sâu e - mail chứa ảnh khỏa_thân , lợi_dụng cơn_sốt trong mùa giải World_Cup để lừa những fan hâm_mộ môn thể_thao vua mở file đính kèm nguy_hiểm .
-Sâu_Sixem - A lây_lan bằng cách ngụy_trang trong rất nhiều e - mail có các tiêu_đề , như “ ' Naked_World_Cup game set ” ( World_Cup khỏa_thân ) , “ Soccer fans killed five teens ” ( Cổ_động_viên của World_Cup giết_hại 5 thiếu_niên ) , “ Crazy soccer fans ” ( Cổ_động_viên điên_cuồng ) , để lừa người dùng click vào file đính kèm nguy_hiểm đó .
-Nếu được kích_hoạt , sâu Sixem - A sẽ làm tê_liệt phần_mềm an_ninh trên máy_tính đã bị nhiễm và sau đó tự phát_tán qua các địa_chỉ e - mail trong danh_sách của người dùng .
-“ Tin_tặc tìm cách lợi_dụng tâm_lý ham_mê giải đấu lớn nhất hành_tinh này để hoành_hành ” , Graham_Cluley , nhà cố_vấn công_nghệ của Sophos , nhận_định . “ Và chúng cũng nhắm tới những người dùng “ mê ” cảnh “ nuy ” bên lề World_Cup ” .
-Đây không phải là lần đầu_tiên hacker “ ăn_theo ” World_Cup . Trong giải đấu ở Pháp năm 1998 , tin_tặc cũng lừa nạn_nhân đánh_cược đội_tuyển chiến_thắng , nếu chọn không đúng đội đăng_quang vào cuối mùa giải thì virus sẽ tấn_công , xóa toàn_bộ dữ_liệu trong ổ_cứng của máy .
-N . H_Theo VNuNet

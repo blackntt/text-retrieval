@@ -1,9 +1,0 @@
-﻿ MegaVNN giảm cước và ra_mắt gói cước mới
-Theo đó , cước thuê_bao tháng của MegaVNN Pro là 500.000 đồng/tháng , cước sử_dụng là 40 đồng/Mb . Tổng cước thuê_bao và cước sử_dụng không vượt quá 1.818.182 đồng/tháng . Cước trọn_gói là 1.363.636 đồng/tháng . Cước thuê một địa_chỉ IP tĩnh kèm theo là 454.545 đồng/tháng .
-Cùng_với việc ra_mắt gói cước mới , VDC cũng quyết_định giảm_giá các gói cước hiện_tại từ 1 - 12,5% , áp_dụng từ 1-6-2006 .
-Cụ_thể , cước sử_dụng theo lưu_lượng của gói cước MegaVNN Easy và MegaVNN Family là 45 đồng cho 3.000 Mb đầu_tiên và 41 đồng cho các Mb tiếp_theo . Tổng cước thuê_bao và cước sử_dụng không vượt quá 350.000 đồng/tháng đối_với gói MegaVNN Easy và không quá 550.000 đồng/tháng đối_với gói MegaVNN Family .
-Cước trọn_gói từ 250.000 - 450.000 đồng/tháng tùy theo tốc_độ kênh .
-Đối_với gói cước MegaVNN - Extra và MegaVNN - Maxi , cước sử_dụng theo lưu_lượng là 55 đồng/6.000 Mb đầu_tiên và 41 đồng cho các Mb tiếp_theo . Tổng cước thuê_bao và cước sử_dụng không vượt quá 700.000 đồng/tháng đối_với gói MegaVNN - Extra và không quá 900.000 đồng/tháng đối_với gói MegaVNN - Maxi .
-Cước trọn_gói từ 550.000 - 700.000 đồng/tháng tùy theo tốc_độ kênh .
-Ngoài_ra , VDC cũng điều_chỉnh tốc_độ tối_đa của các gói cước gồm MegaVNN Easy ( từ 384Kbps/128Kbp lên 512Kbps/256Kbps ) , MegaVNN Family ( từ 512Kbps/256Kbps lên 768Kbps/384Kbps ) .
-KHIẾT_HƯNG

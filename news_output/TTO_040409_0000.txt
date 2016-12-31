@@ -1,5 +1,0 @@
-﻿ Tiết_lộ mã nguồn hệ_thống bầu_cử qua mạng
-Jim_Adler , nhà_sáng_lập đồng_thời là giám_đốc điều_hành của VoteHere , cho_biết quyết_định này của công_ty nhằm xây_dựng hệ_thống tốt hơn đồng_thời giải_tỏa những lo_ngại rằng hệ_thống này không an_toàn , dễ bị hacker tấn_công và không công_bằng trong bầu_cử .
-Adler cho_biết công_nghệ của VoteHere ( VoteHere Technology inside ) cung_cấp khả_năng chứng_thực máy bỏ_phiếu điện_tử làm_việc – từ việc kiểm_tra phiếu và phát_hiện liệu hacker , nhân_viên nội_bộ đang can_thiệp gì , thậm_chí phát_hiện lỗi .
-Mã nguồn hệ_thống bầu_cử trực_tuyến có_thể xem tại địa_chỉ : votehere.com/downloads.html .
-T . M ( S-Times )

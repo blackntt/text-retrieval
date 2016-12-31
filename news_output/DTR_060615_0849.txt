@@ -1,7 +1,0 @@
-﻿ Xuất_hiện mã nguồn tấn_công sản_phẩm Microsoft
-Chỉ một ngày_sau khi Microsoft ban_hành bản tin bảo_mật tháng 6/2006 , giới hacker đã tung lên mạng mã nguồn lợi_dụng sự yếu_kém về bảo_mật này .
-Hầu_hết các miếng vá mà Microsoft ban_hành đều là những lỗ_hổng đã được biết đến rộng_rãi . Tuy_nhiên , có ít_nhất 2 lỗ_hổng mới được công_bố lần đầu_vào ngày 13/6 - ngày ban_hành bản tin bảo_mật .
-Các hãng bảo_mật đã thông_báo tìm thấy mã nguồn khai_thác những lỗ_hổng mới nhất trong các sản_phẩm Microsoft vào ngày hôm_qua 14/6 . Mã khai_thác dành cho các lỗ_hổng chưa được biết tới có nghĩa_là hacker có_thể sử_dụng mã để tấn_công vào những hệ_thống chưa kịp cài_đặt miếng vá .
-" Việc mã nguồn khai_thác một_số lỗ_hổng được tung lên mạng Internet đã được Microsoft tìm_hiểu . Ngoại_trừ bản tin bảo_mật số MS06-027 ( lỗ_hổng cho_phép tấn_công vào Word ) , Microsoft hiện vẫn chưa nhận_biết bất_cứ cuộc tấn_công nào bằng mã nguồn này , và mã nguồn cũng không tác_động tới những người dùng đã cài_đặt tất_cả những bản nâng_cấp bảo_mật tháng 6/2006 .
-Một_số mã khai_thác được tung lên mạng dành cho những lỗ_hổng " nghiêm_trọng " trong Windows_Media_Player , và tính_năng " truy_cập routing và từ xa " . Trung_tâm cảnh_báo virus máy_tính SANS cho_biết đã phát_hiện được hai mã nguồn khai_thác tính_năng " truy_cập routing và từ xa " .
-VH Theo CNet

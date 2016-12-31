@@ -1,7 +1,0 @@
-﻿ Tạo hiệu_ứng ảnh chụp chỉ vài giây
-Không giống như chương_trình AutoImage họat_động khá nặng_nề và chiếm nhiều tài_nguyên hệ_thống đã được giới_thiệu trước_đây , ForceVision họat_động rất nhẹ_nhàng . Những hiệu_ứng khi được kích_họat đều thể_hiện ngay sau khi bấm .
-Về phần giao_diện thì được thiết_kế rất đơn_giản . Được chia làm hai cửa_sổ chính . Khung bên phải tựa như trình_duyệt Windows_Explorer . Khi duyệt đến đâu , nếu bắt_gặp hình_ảnh thì sẽ xuất_hiện danh_sách các file dữ_liệu . Đồng_thời khung bên trái sẽ trình_diễn dữ_liệu ảnh đó .
-Về tính_năng thì ForceVision cho_phép chúng_ta có_thể chuyển_đổi qua_lại giữa 36 định_dạng ảnh từ thông_dụng : BMP , JPEG , TIFF ... cho_đến “ mới nghe lần đầu ” như : RLE , VDA , VST , J2C , J2K ...
-Ngoài_ra việc cung_cấp hơn 30 bộ lọc tạo hiệu_ứng cho ảnh cũng rất đáng để nói đến . Chúng hoạt_động tỏ ra rất hiệu_quả và rất nhanh . Muốn áp_dụng hiệu_ứng nào thì bạn nhấn vào biểu_tượng FX và chọn theo nhu_cầu sử_dụng .
-Chương_trình được cung_cấp miễn_phí tại website : http : / / www.forcevision.net với dung_lượng khỏang 1,06 MB , tương_thích tốt với hệ_điều_hành Windows .
-GIANG_VŨ_VĂN

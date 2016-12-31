@@ -1,8 +1,0 @@
-﻿ Lỗi bảo_mật nguy_hiểm trong trình nghe nhạc Winamp
-Lỗi bảo_mật được khám_phá ra trong cách_thức mà trình winamp lưu_giữ tên các tập_tin mà bao_gồm luôn cả tên máy_tính . Lỗi bảo_mật này ảnh_hưởng đến toàn_bộ phiên_bản 5.12 trở_về trước và có_thể làm tổn_hại đến cả hệ_thống của người dùng .
-Theo như hãng bảo_mật Secunia , lỗi bảo_mật có_thể được khai_thác và làm tràn bộ đệm với một playlist chứa_đựng một tập_tin bắt_đầu với một cái tên máy_tính rất dài . Một cuộc tấn_công thành_công có_thể thực_thi các đoạn mã bất_kỳ hoạt_động trên máy_tính người dùng .
-Lỗi này được khám_phá bởi ATmaCA , sử_dụng một playlist tự_tạo để làm tràn bộ đệm winamp . Tập_tin PLS ( định_dạng playlist trong winamp ) có_thể đơn_giản được tải từ xa thông_qua một IFRAME trên một website . Do_đó , khi người dùng truy_cập vào các website nghe nhạc trực_tuyến hoặc Radio_Online rất có_thể sẽ bị ảnh_hưởng bởi lỗi bảo_mật này .
-Đây không phải là lần đầu lỗi bảo_mật nguy_hiểm được tìm thấy trong trình media player này , tháng 7 trước , một lỗi bảo_mật trong thẻ ID3v2 cũng đã bị khai_thác .
-NullSoft khuyến_cáo người dùng đang sử_dụng winamp nên cập_nhật phiên_bản mới 5.13 ( Lite , Pro ) đã vá lỗi bảo_mật .
-Thông_tin về lỗi bảo_mật này cũng có_thể tham_khảo tại đây .
-THANH_TRỰC

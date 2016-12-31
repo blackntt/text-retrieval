@@ -1,4 +1,0 @@
-﻿ Dùng tin nhắn giúp cai thuốc_lá
-Đây là chương_trình phối_hợp giữa cơ_quan bảo_hiểm_y_tế với Hãng ĐTDĐ Orange .
-Nay nó được mở_rộng thử_nghiệm sang 1.200 người để bên tổ_chức có_thể có đánh_giá khoa_học bước_đầu . Những người tham_gia chương_trình phải trên 25 tuổi , đăng_ký tự_nguyện cai thuốc_lá trong chương_trình kéo_dài 12 tuần_lễ này để thường_xuyên nhận tin nhắn trên máy di_động của mình ( số tin sẽ giảm dần về số_lượng cho_đến ngày cuối chương_trình chỉ còn một tin / ngày ) . Những tin nhắn được truyền đi sẽ đến đúng từng đối_tượng nên sẽ có_thể là tin khích_lệ tinh_thần , là lời khuyên_nhủ hoặc là thông_điệp gây sốc kiểu như " thuốc_lá làm đen răng , làm tăng cao_răng và làm lung_lay răng " . Một người đã cai thuốc được bảy tháng theo chương_trình này cho_biết loại_hình này có tác_dụng hỗ_trợ tốt khi người nghiện thật_sự muốn chấm_dứt với thuốc_lá .
-TÚ_ANH ( Theo AFP )

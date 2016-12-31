@@ -1,6 +1,0 @@
-﻿ ThinkFree : Văn_phòng ở khắp_nơi
-Các ứng_dụng văn_phòng chạy qua web đang mọc lên như nấm và ngày_càng hoàn_thiện . Tiêu_biểu hiện_nay là ThinkFree , với hàng_loạt tính_năng vừa được cập_nhật .
-Dung_lượng lưu_trữ miễn_phí cho mỗi người dùng đã được tăng từ 30MB lên 1GB , khiến ThinkFree thực_sự trở_thành một văn_phòng đáng tin_cậy thường_trực trên web , cho_phép người dùng lưu_trữ rất nhiều tài_liệu và có_thể lấy ra để xử_lý bất_kỳ lúc_nào .
-Các tính_năng mới đặc_trưng kiểu Web 2.0 là khả_năng cộng_tác giữa các người dùng ; khả_năng duyệt tài_liệu theo tag ; chức_năng Mashup cho_phép liên_kết hoạt_động với các dịch_vụ web khác như Flickr ( chèn ảnh vào văn_bản ) , bản_đồ số của Google và Yahoo ! , Del.icio.us ( chia_sẻ địa_chỉ web ) .
-Các công_cụ xử_lý_văn_bản , bảng tính và trình_diễn của ThinkFree đều tương_thích với các ứng_dụng tương_đương của Microsoft_Office .
-Theo T . A_Lao động

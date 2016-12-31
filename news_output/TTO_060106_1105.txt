@@ -1,6 +1,0 @@
-﻿ Khóa học an_ninh mạng miễn_phí
-Nội_dung khóa học xoay quanh 3 chủ_đề chính là những vấn_đề an_toàn thông_tin đặt ra cho 1 quốc_gia , bao_gồm các bản_chất đáng lưu_ý của Internet , chiến_tranh thông_tin - một tương_lai rất gần , các vấn_đề về InfoSec cần lưu_ý khi xây_dựng và bảo_vệ hạ_tầng CNTT cho quốc_gia . Lộ_trình nghiên_cứu an_toàn thông_tin như ứng_dụng TCP/IP trong InfoSec , mã_hoá và giao_tiếp an_toàn trên internet , giới_thiệu và thực_hành kỹ_năng phân_tích ngữ_nghĩa dòng packet . Chủ_đề cuối_cùng là khám_phá thế_giới các hacker với tìm_kiếm trên không_gian ảo và một_số kỹ_thuật tấn_công trên mạng internet
-Đây sẽ là hoạt_động định_kỳ của mỗi năm của VSEC nhằm mục_đích cung_cấp các kiến_thức về an_ninh mạng cho các đối_tượng trên . Thông_tin chi_tiết về khóa học xem tại www . security.com.vn/niipa2.htm .
-Mục_tiêu sau_cùng của quá_trình đào_tạo an_toàn thông_tin là kiến_thức và kỹ_năng thực_tế cho học_viên . Được biết VSEC đã tham_khảo bộ chuẩn NSTISS của Mỹ về đào_tạo an_toàn thông_tin để xây_dựng chương_trình đào_tạo VSEC-Training
-Dịp này , VSEC cũng dành học_bổng VSEC – BASIC cho quản_trị mạng các cơ_quan báo đài tại TP.HCM .
-HỒNG_NHUNG

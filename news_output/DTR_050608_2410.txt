@@ -1,9 +1,0 @@
-﻿ Thử máu bằng điện_thoại_di_động
-Các nhà_nghiên_cứu Thụy_Điển đang phát_triển một " phòng_thí_nghiệm di_động " cho_phép các thuê_bao tiến_hành phân_tích nhanh_chóng và chính_xác mẫu máu .
-Một chip siêu nhỏ có_thể phân_tích các mẫu máu và sau đó xác_định các trường_hợp viêm_nhiễm , sự cần_thiết dùng kháng_sinh và nguy_cơ bệnh tim .
-Được gắn với mobile , chip này sẽ đo số_lượng những chất chỉ_định sinh_học như CRP , Troponin I hoặc T , BNP trong các mẫu máu . Một chiếc bơm siêu nhỏ được mở_rộng từ cấu_trúc parafin và được tiếp năng_lượng từ pin của mobile sẽ đẩy mẫu máu qua cổng vào , bộ lọc và bộ_phận phân_tích trên chip .
-Một camera sau đó sẽ đọc những kết_quả kiểm_tra khi chip phát ra ánh đèn . Quá_trình này dựa trên sự phát_quang sinh_học tương_tự như phản_ứng_hóa_học làm cho các con đom_đóm phát sáng . Sau một_vài phút , kết_quả này có_thể được gửi tới bác sỹ thông_qua hệ_thống mạng điện_thoại_di_động hay Internet . Thiết_bị duy_nhất mà phòng_thí_nghiệm siêu nhỏ này cần là một chiếc " alô " với một camera số .
-Có khoảng 5-10 triệu cuộc kiểm_tra thành_phần CRP trong máu được tiến_hành ở_riêng Thụy_Điển . Các nhà_nghiên_cứu ở đây dự_định sẽ tăng_cường chức_năng của chip này để tiến_hành nhiều cuộc phân_tích máu song_song . Việc phân_tích mẫu máu bằng chip điện_tử tiết_kiệm thời_gian và hiệu_quả hơn các cuộc kiểm_tra máu thông_thường , theo các nhà_nghiên_cứu .
-" Chip gắn vào mobile này có khả_năng phản_ứng với bất_kỳ một loại sinh chất nào trong cơ_thể , ngay cả các kháng_thể . " Người_quản_lý dự_án Jonas nhận_định , " Trong tương_lai , chúng_tôi hi_vọng có_thể tăng số_lượng các cuộc kiểm_tra mà một con chip có_thể tiến_hành . "
-Cuộc thử_nghiệm được tiến_hành với sự hợp_tác của các nhà_nghiên_cứu từ đại_học Uppasala , Murdalens và đại_học Hospital .
-" Chip được chế_tạo dựa trên nhiều công_nghệ khác_nhau mà chúng_ta đã có , nhưng đã được kết_hợp lại . " ông Lars_Baltzer , trưởng dự_án thuộc đại_học Uppsala giải_thích . Theo Vnmedia

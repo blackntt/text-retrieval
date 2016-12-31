@@ -1,4 +1,0 @@
-﻿ Oracle_Database 10g đánh_bại SQL Server 2000
-Sau một loạt các đánh_giá toàn_diện , Công_ty Progressive_Strategies chuyên phân_tích công_nghệ và thông_tin thị_trường đang cạnh_tranh với nhau , khẳng_định doanh_nghiệp sử_dụng Oracle_Database 10g thay cho Microsoft SQL Server 2000 có_thể đạt được những kết_quả sau :
-- Giảm 30% thời_gian cần_thiết để thực_thi các tác_vụ hành_chính đơn_thuần - Giảm 20% tính phức_tạp khi tiến_hành một_số bước cần_thiết để thực_hiện cùng một hệ_thống các tác_vụ quản_lý cơ_sở_dữ_liệu tiêu_chuẩn - Các khoản tiết_kiệm thường_niên tương_đối lên tới 32.600 đôla mỗi Quản_trị viên cơ_sở_dữ_liệu ( do tăng năng_suất làm_việc của quản_trị viên )
-T . M

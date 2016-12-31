@@ -1,7 +1,0 @@
-﻿ BEA công_bố bộ công_cụ phát_triển ứng_dụng mới
-Loạt phiên_bản phần_mềm này được xem là một trong những loạt ứng_dụng dành cho máy_chủ để cùng chia_sẻ các ứng_dụng web nổi_tiếng nhất của BEA . Bộ phần_mềm tích_hợp các công_cụ phát_triển , trợ_giúp , chia_sẻ và các ứng_dụng cơ_sở đặc_thù của BEA .
-Tổng_giám_đốc của BEA , ông Bobby_Napiltonia cho_biết : " Bộ công_cụ ISV hướng đến các phần_mềm ứng_dụng độc_lập dành cho các thiết_bị_ngoại_vi chuyên chạy trên máy_chủ của BEA , nó giúp cho các ứng_dụng chạy nhanh hơn với giá rẻ hơn . ISV nhắm đến các giải_pháp truyền_dẫn nhanh mà không quá phụ_thuộc vào hệ_thống kỹ_thuật phần_cứng " .
-Gói phần_mềm này bao_gồm : các phần_mềm dành cho nhóm làm_việc trên mạng , các công_cụ phát_triển dành cho hệ_thống Java , các thao_tác ứng_dụng dành cho các hệ_thống máy sử_dụng mạng Java ảo , mạng Weblogic , một bộ công_cụ tạo vị_trí cho các cổng giao_diện ứng_dụng , cổng Weblogic , các ứng_dụng điều_hành dùng để kết_hợp các ứng_dụng khác của BEA chạy trên các phần_cứng khác_nhau .
-BEA hiện đang cạnh_tranh với Oracle , IBM và các nhà_phát_triển ứng_dụng khác trong thị_trường dành cho máy_chủ sử_dụng Java , trong khí đó Microsoft vẫn tiếp_tục thúc_đẩy dự_án . Net_Framework dành cho các loại máy_chủ khác .
-Các nhà_phát_triển phần_mềm khác như Hewlett-Packard , Veritas_Software , EMC cũng đã công_bố các dự_án ban_đầu sử_dụng bộ công_cụ phần_mềm của BEA .
-HOÀNG_HẢI ( Theo CNet )

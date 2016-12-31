@@ -1,7 +1,0 @@
-﻿ Hạ giá_thành phần_mềm chống vi_phạm bản_quyền
-Mặc_dù rất muốn tôn_trọng bản_quyền nhưng là một sinh_viên tôi không có đủ khả_năng tài_chính để mua về cài_đặt những phần_mềm rất cần_thiết như hệ_điều_hành Windows , bộ “ văn_phòng tứ bảo ” Office ... mà tổng giá_thành của nó khi được mua bản_quyền nhiều khi còn đắt hơn chiếc máy_tính .
-Tôi nghĩ khả_năng tài_chính là nguyên_nhân hàng_đầu và quan_trọng nhất để những sinh_viên như tôi chọn sử_dụng phần_mềm bị bẻ_khóa , những phần_mềm mà chỉ cần 8.000 đồng cũng đủ để mua về cài_đặt và sử_dụng .
-Tôi cũng đã từng được đọc nhiều bài báo trong đó kêu_gọi hãy sử_dụng phần_mềm mã nguồn mở ví_dụ như hệ_điều_hành Vietkey_Linux . Nhưng sau khi cài_đặt và dùng thử tôi xin nói_thẳng sử_dụng Vietkey_Linux vừa khó cài_đặt , khó sử_dụng lại ít ứng_dụng và không tương_thích được với các phần_cứng tôi đang sử_dụng , nói_chung không đủ chất_lượng để đáp_ứng nhu_cầu sử_dụng .
-Nói_chung Vietkey_Linux nên dành cho những chuyên_gia vi_tính sử_dụng vì mỗi khi gặp sự_cố thì biết cách giải_quyết . Một giải_pháp khả_thi trong chuyện giảm tình_trạng vi_phạm bản_quyền theo tôi nghĩ là chính_phủ nên đàm_phán với Microsoft để hạ giá_thành sản_phẩm của Windows xuống thật thấp , phù_hợp với nhu_cầu sử_dụng của người Việt_Nam .
-Còn chuyện sử_dụng phần_mềm mã nguồn mở tôi không tin_tưởng cho lắm bởi_vì mở nhưng không phải là miễn_phí hoàn_toàn và chất_lượng của nó không phù_hợp với những người sử_dụng trình_độ thấp như tôi .
-HUỲNH_DUY

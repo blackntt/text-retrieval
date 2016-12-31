@@ -1,6 +1,0 @@
-﻿ Google chưa có ý_định lập trình_duyệt web
-Hôm_qua , giám_đốc điều_hành của gã tìm_kiếm khổng_lồ cho_biết hãng này vẫn chưa có động_thái rập rịch xây_dựng một trình_duyệt web riêng mình để cạnh_tranh với đối_thủ Microsoft .
-Ông Eric_Schmidt đã dập tắt mọi suy_đoán rằng Google đang dự_định cạnh_tranh với trình_duyệt phổ_biến nhất hiện_nay Internet_Explorer của Microsoft . “ Mọi người đã có sự lựa_chọn cho trình_duyệt nên chúng_tôi không muốn xây_dựng thêm một browser nữa chỉ để cho vui ” , Schmidt nói .
-Tuy_nhiên , ông Schmidt nhấn_mạnh , Google sẽ phát_triển trình_duyệt nếu hãng tìm ra tiện_ích có lợi đáp_ứng nhu_cầu của thị_trường . “ Chúng_tôi chỉ làm việc_gì nếu có lợi cho người dùng cuối_cùng ” .
-Google khuyến_khích người dùng nên sử_dụng thêm một_số trình_duyệt thay_thế IE , đặc_biệt là browser mã nguồn mở Firefox .
-S . H_Theo_Reuters

@@ -1,7 +1,0 @@
-﻿ Cứng hoá các chức_năng bảo_mật
-Trong một nỗ_lực nhằm giúp các nhà_sản_xuất máy_tính có được những sản_phẩm với hiệu_suất cao nhất với VXL Conroe , Intel sẽ đóng_gói luôn công_nghệ bảo_mật vào VXL này .
-Có tên là Averill , công_nghệ này sẽ được phân_phát chỉ dành riêng cho những nhà_sản_xuất máy_tính , như Dell , HP . Gói công_nghệ này sẽ bao_gồm luôn những công_nghệ như công_nghệ Mô_phỏng ( Virtualization_Tech ) cho_phép nâng cao hiệu_suất sử_dụng tài_nguyên cứng của máy , công_nghệ quản_lý linh_hoạt ( Active_Management ) hỗ_trợ rất đắc_lực cho việc quản_lý mạng doanh_nghiệp , được tích_hợp trực_tiếp vào trong CPU thành_phẩm .
-Khi những công_nghệ này hoạt_động chung với nhau , nó cho_phép sức_mạnh của hệ_thống được nâng cao lên rất nhiều so với việc mua từng linh_kiện để lắp một chiếc máy_tính với VXL Conroe đơn_lẻ . Các doanh_nghiệp nếu mua “ máy bộ ” , ngoài việc tiết_kiệm điện_năng còn thụ_hưởng được các công_cụ bảo_mật và chức_năng quản_lý tốt hơn .
-Conroe là thành_viên của gia_đình VXL nhân đôi 65-nm của Intel . Công_ty đã từng giới_thiệu chung với VXL Merom và Woodcrest tai IDC vào tháng 3 vừa_qua .
-Việc cứng hoá các công_nghệ hỗ_trợ là chính_sách mới của Intel để có_thể dành lại thị_phần về VXL , nhất_là uy_tín đối_với hệ_thống doanh_nghiệp . Nếu những công_nghệ cứng hoá thể_hiện được hiệu_năng của nó , thì từ nay , giữa máy_tính lắp_ráp và máy bộ , hiểu theo cách của người Việt_Nam , sẽ bắt_đầu khó khoảng_cách rõ_rệt .
-TRẦN_HUY ( Yahoo ! News )

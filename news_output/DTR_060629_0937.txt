@@ -1,7 +1,0 @@
-﻿ Windows_Vista “ hắt_hủi ” WinFS
-Hãng phần_mềm vừa cho_biết mặc_dù đã từng khẳng_định công_nghệ quản_lý file , ảnh , e-mail và âm_nhạc sẽ là một tính_năng chủ_đạo trong Windows_Vista nhưng “ không may ” WinFS sẽ không được tích_hợp trong hệ_điều_hành sắp ra_mắt .
-Microsoft đã lập kế_hoạch phát_hành hệ_thống file WinFS không lâu sau khi Windows_Vista dự_kiến bán ra_vào tháng 1/2007 . Trong weblog , Quentin_Clark , Giám_đốc quản_lý chương_trình của Microsoft , giải_thích WinFS sẽ không được phát_hành riêng_biệt mà thay vào đó , công_nghệ sẽ được tích_hợp trong cơ_sở_dữ_liệu SQL Server , ActiveX Data_Objects và những sản_phẩm khác của Microsoft .
-WinFS được các nhà_đầu_tư coi là đặc_trưng chủ_yếu thúc_đẩy các nâng_cấp Vista khi Microsoft tách riêng các công_nghệ năm 2004 để hoàn_thiện Vista năm 2006 .
-Joe_Wilcox , một nhà_phân_tích tại trung_tâm nghiên_cứu của Jupiter phát_biểu : “ Đây là tính_năng chính của Windows_Vista . Nó là một phần của hệ_điều_hành và nó mở ra cơ_hội cho các nhà_phát_triển . Mở_rộng nó tới các thứ khác sẽ dẫn đến việc nó không giống như cũ ” .
-WinFS được thiết_kế để thay_đổi cách các loại số_liệu bao_gồm các file ảnh , e-mail và âm_nhạc , được phân_loại để đơn_giản_hóa việc tìm_kiếm các file có liên_quan lưu_trữ trong các chương_trình khác_nhau . Một_vài trong số các cách phân_loại đó cũng có_thể sử_dụng các chương_trình tìm_kiếm trên máy_tính từ Microsoft và Google .
-Thành_Nam_Theo LATimes

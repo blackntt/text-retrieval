@@ -1,6 +1,0 @@
-﻿ “ Bóc_lịch ” 8 năm vì ăn_cắp dữ_liệu
-Một người đàn_ông ở bang Florida , Mỹ đã bị tuyên_án 8 năm tù_giam vì tội ăn_cắp hơn 4.789 thông_tin dữ_liệu máy_tính , làm tổn_hại 50 triệu USD của công_ty quản_lý dữ_liệu Acxiom chuyên thu_thập thông_tin cho các công_ty lớn trên thế_giới .
-Tin_tặc Scott_Levine , 46 tuổi này sở_hữu công_ty Snipermail ở Florida , chuyên phát_tán thư rác quảng_cáo . Levine đã hợp_tác cùng_với một_số hacker khác ăn_trộm số_liệu của Acxiom , bao_gồm tên_tuổi , số điện_thoại , địa_chỉ nhà_ở và địa_chỉ e - mail của khách_hàng .
-Theo cơ_quan điều_tra , kẻ phá_hoại này sử_dụng phần_mềm giải_mã để phá mật_khẩu và chiếm quyền truy_cập hợp_pháp trong cơ_sở_dữ_liệu của công_ty Acxiom .
-Các công_tố_viên tin rằng không có một dữ_liệu bị “ đột_kích ” nào được sử_dụng trong các vụ gian_lận thẻ_tín_dụng hay thẻ ID , nhưng một_số thông_tin được bán lại cho các nhà môi_giới để sử_dụng trong chiến_lược quảng_cáo .
-Acxiom cung_cấp các dịch_vụ quản_lý dữ_liệu cho các tập_đoàn lớn để thực_hiện chiến_dịch marketing và nhiều mục_đích khác . N . H ( theo The_Age )

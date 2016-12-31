@@ -1,3 +1,0 @@
-﻿ TP.HCM : thêm một tổng_công_ty hoạt_động theo mô_hình mẹ_con
-Tổng_công_ty Cơ_khí giao_thông vận_tải Sài_Gòn có công_ty_mẹ là doanh_nghiệp nhà_nước được hình_thành trên cơ_sở tổ_chức lại Công_ty Cơ_khí ôtô Sài_Gòn . Các công_ty_con gồm bảy đơn_vị mà công_ty_mẹ giữ 100% vốn_điều_lệ ( như Công_ty Xe_khách Sài_Gòn , các bến_xe miền Đông , miền Tây , Chợ_Lớn … ) và năm công_ty_cổ_phần mà công_ty_mẹ giữ cổ_phần chi_phối ( gồm cảng Bến_Nghé , Vận_tải_biển Sài_Gòn , Vận_tải sông Sài_Gòn … ) . Ngoài_ra , công_ty_mẹ còn có vốn đầu_tư vào tám công_ty_cổ_phần khác và sáu công_ty liên_doanh .
-NG . T .

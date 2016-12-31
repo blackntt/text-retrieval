@@ -1,7 +1,0 @@
-﻿ Hibiscus - robot hỗ_trợ cứu nạn thông_minh
-Hibiscus - robot cứu nạn mới được giới_thiệu tại Viện công_nghệ Chiba ở Narashino , Nhật_Bản_Viện công_nghệ Chiba ( Nhật_Bản ) vừa chế_tạo một robot hỗ_trợ cứu nạn mới có_thể di_chuyển nhẹ_nhàng qua các đống đổ_nát để tìm_kiếm các nạn_nhân do thảm_họa tự_nhiên .
-Robot này có tên Hibiscus , được chế_tạo nhằm giúp_đỡ tìm_kiếm nạn_nhân , đánh_giá hậu_quả của thiên_tai như động_đất và bão lụt .
-Hibiscus gồm sáu bánh xích chuyển_động độc_lập và một cặp tay nâng nhằm giúp cho nó lăn qua những khối bê_tông vỡ và gạch đá vỡ , kèm theo là một camera hồng_ngoại dành cho việc phát_hiện nạn_nhân thông_qua nhiệt_độ cơ_thể dưới lớp đổ_nát . Bất_cứ thông_tin nào nhận được về nạn_nhân cũng sẽ được phản_hồi về bộ_điều_khiển thông_qua mạng truyền không dây Wifi ( 802.11g ) .
-Tốc_độ di_chuyển lớn nhất của Hibiscus là 1,1 m / 1 giây . Một cảm_biến cực nhạy gắn trên robot có_thể giúp nó vẽ sơ_đồ tòa nhà bị đổ sập .
-Các đội cứu_hộ có_thể trang_bị Hibiscus - được trang_bị cảm_biến hồng_ngoại với tầm hoạt_động có bán_kính 10 m - để phát_hiện nạn_nhân thảm_họa . Hibiscus trợ_giúp họ tìm_kiếm nạn_nhân , dự_báo và sau đó các robot khác có_thể hoạt_động cứu_hộ . Hibiscus có kích_thước 370x650x180 mm , giá bán 26.800 USD .
-Theo Tuổi_Trẻ

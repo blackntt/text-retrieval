@@ -1,6 +1,0 @@
-﻿ Microsoft ngừng hỗ_trợ Windows 98 , ME
-Đến ngày 11/7 , hãng phầm mềm khổng_lồ Mỹ sẽ ngừng hỗ_trợ Windows 98 , Windows 98 SE và Windows_Millennium_Edition ( ME ) . Microsoft ngừng cập_nhật bản vá bảo_mật của các hệ_điều_hành này .
-Tuy_nhiên , hỗ_trợ hướng_dẫn trực_tuyến để người dùng tự thực_hiện vẫn sẽ có_mặt trên trang hỗ_trợ của Microsoft ít_nhất là tới ngày 11/7/2007 .
-Microsoft xem các hệ_điều_hành này đã “ lỗi_thời ” và do_vậy chúng có nhiều nguy_cơ bảo_mật , đó là lý_do vì_sao họ quyết_định ngừng hỗ_trợ chúng . Hãng khuyến_cáo các khách_hàng hiện vẫn đang sử_dụng các hệ_điều_hành này nâng_cấp lên các phiên_bản Windows mới hơn , chẳng_hạn như Windows XP , càng sớm càng tốt .
-Windows 98 và ME thường ít được cài_đặt trong doanh_nghiệp mà phổ_biến trong máy_tính gia_đình . Theo khảo_sát tháng 12/2005 của hãng nghiên_cứu Jupiter tiến_hành trên gần 2.300 khách_hàng thì 16% trong số đó sử_dụng Windows 98 hoặc 98 SE tại nhà , và 6% sử_dụng Windows ME .
-Đây cũng là một trong những động_thái mà Microsoft chuẩn_bị cho sự ra_đời chính_thức của Windows_Vista . Dự_đoán rất nhiều máy_tính trong hệ doanh_nghiệp hiện đang sử_dụng Windows 98 sẽ đồng_loạt nâng_cấp lên Windows_Vista vì tính an_toàn và thân_thiện của nó . Theo AI VietNam/InfoWorld

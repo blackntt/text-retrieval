@@ -1,6 +1,0 @@
-﻿ Màn_hình OLED trong_suốt đầu_tiên trên thế_giới
-Các chuyên_gia nghiên_cứu tại Đại_học kỹ_thuật Braunschweig ( Đức ) vừa tuyên_bố rằng bộ phim " Sát_nhân giấu mặt " ( Minority_Report ) với sự tham_gia diễn_xuất của Tom_Cruise có_thể được xem trên những tấm kính không màu , trong_suốt .
-Những nhà_khoa_học này đã sử_dụng bóng_bán_dẫn màng mỏng ( thin film transistor - TFT ) để tạo nên một lớp oxit kẽm và thiếc dày 100 nanometer . Transistor được làm từ silicon tương_tự trong màn_hình tinh_thể_lỏng LCD nhưng có độ hấp_thụ ánh_sáng hữu_hình cao hơn ( trên 90% ) . Các điểm_ảnh TFT và OLED được xếp cạnh nhau và OLED pixel có_thể nằm chồng lên mạch TFT mà không gây ảnh_hưởng gì .
-Thomas_Riedl , Giám_đốc nhóm nghiên_cứu laser hữu_cơ và vô_cơ tại trường Braunschweig , cho_biết độ sáng của các điểm OLED dao_động từ 0 - 700 nit tùy theo sự thay_đổi điện_áp của TFT . Trong khi đó , màn_hình máy_tính phổ_biến hiện_nay đạt độ sáng xấp_xỉ 300 nit .
-Riedl hy_vọng những màn_hình OLED trong_suốt đầu_tiên sẽ xuất_hiện trong vòng 2 năm nữa và được trang_bị cho các ứng_dụng như màn_hình hiển_thị thông_tin cho bác sỹ phẫu_thuật hay kính chắn gió xe_hơi , hỗ_trợ tài_xế đọc hướng_dẫn khi điều_khiển phương_tiện ...
-Theo T . N . VnExpress/PCWorld

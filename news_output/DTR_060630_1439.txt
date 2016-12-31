@@ -1,8 +1,0 @@
-﻿ Lỗi IE “ mở_đường ” cho hacker đọc e - mail
-Hôm_qua , các chuyên_gia an_ninh vừa khuyến_cáo về một_số vấn_đề về bảo_mật trong trình_duyệt Internet_Explorer của Microsoft , cho_phép tin_tặc chiếm quyền kiểm_soát hệ_thống hoặc đọc thông_tin cá_nhân của người dùng trên các website khác .
-Theo các chuyên_gia này , một trong những lỗi này cũng ảnh_hưởng đến trình_duyệt mã mở Firefox .
-Một nhà_nghiên_cứu cảnh_báo trên trang Full_Disclosure rằng , trong 2 khiếm_khuyết của IE , có một lỗi nghiêm_trọng tiếp_tay cho kẻ phá_hoại lừa người dùng thực_thi mã lệnh trên các hệ_thống . Lỗi này liên_quan đến khả_năng xử_lý các file chia_sẻ nên tin_tặc có_thể chạy các ứng_dụng HTA nguy_hiểm .
-Tuy_nhiên , để khai_thác được hệ_thống , hacker phải lừa người dùng click đôi chuột trên một vị_trí nào_đó trên website . Một_số hãng bảo_mật , như Secunia , đánh_giá lỗi này ở mức nghiêm_trọng “ trung_bình ” , trong khi một_số hãng khác , như Viện công_nghệ SANS lại cho rằng đây là lỗ_hổng “ nghiêm_trọng ” .
-Lỗi thứ_hai liên_quan đến cách_thức IE xử_lý việc tái định_hướng ( redirection ) , cho_phép tin_tặc truy_cập thông_tin người dùng từ các website khác thông_qua document Element.outerHTML . “ Hacker lợi_dụng lỗi này để khôi_phục dữ_liệu trên những website mà người dùng đã truy_cập ” , đại_diện của Trung_tâm SANS Internet_Storm_Center ( SANS_ISC ) nhấn_mạnh .
-Cũng trong tuần này , Microsoft đã vá lại một lỗ_hổng đã được phát_hiện từ cách đây 2 tuần , làm gián_đoạn kết_nối Internet dial - up .
-N . H_Theo_Tech World

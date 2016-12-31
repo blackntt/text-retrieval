@@ -1,5 +1,0 @@
-﻿ Hạn_chế lưu_thông 1 năm trên đường Bến_Hàm_Tử
-Các loại phương_tiện khác vẫn lưu_thông bình_thường nhưng phải hạn_chế tốc_độ khi lưu_thông qua công_trường . Riêng các loại xe bị hạn_chế lưu_thông có_thể lưu_thông tạm_thời theo lộ_trình sau :
-Hướng lưu_thông từ Q . 1 về Q . 5 : Bến_Chương_Dương - Nguyễn_Cảnh_Chân - Trần_Hưng_Đạo - Trần_Bình_Trọng ( Huỳnh_Mẫn_Đạt ) - Bến_Hàm_Tử .
-Hướng lưu_thông từ Q . 5 về Q . 1 : Bến_Hàm_Tử - Nguyễn_Biểu ( Trần_Bình_Trọng ) - Trần_Hưng_Đạo - Bến_Hàm_Tử - Trần_Đình_Xu ( Nguyễn_Cảnh_Chân ) - Bến_Chương_Dương .
-N . ẨN

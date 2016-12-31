@@ -1,8 +1,0 @@
-﻿ IBM ra_mắt chip mã_hóa dữ_liệu mới
-Trong nỗ_lực nâng cao_độ an_toàn cho máy_tính_xách_tay , điện_thoại_di_động và các thiết_bị khác . Hôm_nay , IBM vừa_mới khai_trương một công_nghệ mới giúp mã_hóa bộ_vi_xử_lý của thiết_bị .
-Công_nghệ có tên gọi_là Secure_Blue , giúp mã_hóa và giải_mã dữ_liệu đang chạy trên hệ_điều_hành .
-“ Rò_rỉ dữ_liệu là một vấn_đề rất được quan_tâm ” , Charles_Palmer , Giám_đốc bảo_mật của IBM , nói . “ Nếu có một kiến_trúc có_thể mã_hóa thông_tin , người dùng sẽ có_thể bảo_vệ dữ_liệu của mình ” .
-Secure_Blue cần thêm một_số mạch ( circuit ) trong bộ_vi_xử_lý , chiếm một không_gian rất nhỏ trên tấm silicon của chip . Cơ_chế mã_hóa và giải_mã thường_xuyên hoạt_động , không cần sự kích_hoạt của bộ_vi_xử_lý , theo IBM .
-Công_nghệ an_ninh này có_thể được sử_dụng cho nhiều mục_đích . Nó có_thể bảo_vệ dữ_liệu khi máy_tính hoặc thiết_bị của người dùng bị mất hoặc bị tấn_công ( hack ) . Hoặc một_số người có_thể sử_dụng nó để bảo_vệ bản_quyền , hay còn gọi_là quản_lý quyền kỹ_thuật_số .
-Ý_tưởng bảo_mật trên phần_cứng không phải là mới . Hàng triệu laptop đã được cài chip Trusted_Platform_Module ( TPM ) , bảo_vệ dữ_liệu bằng cách mã_hóa mật_khẩu , chứng_nhận số . Ý_tưởng về TPM cũng đã được phát_triển cho máy_chủ và điện_thoại_di_động .
-N.Hương Theo CNet

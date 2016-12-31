@@ -1,5 +1,0 @@
-﻿ Thu phí cấp phép tên_miền và địa_chỉ Internet
-Mức thu phí cấp tên_miền theo quy_định mới là 450.000 đồng/lần . Đối_với trường_hợp muốn thay_đổi tên_miền , mức phí phải nộp sẽ là 250.000 đồng/lần .
-Phí duy_trì tên_miền theo quy_định mới sẽ là 480.000 đồng/năm đối_với tên_miền cấp 3 và 24 triệu đồng / năm đối_với tên_miền cấp 2 .
-Phí cấp và quản_lý địa_chỉ Internet được thu theo mức sử_dụng vùng địa_chỉ IPv4 ( lớp C ) và IPv6 ( khối 48 ) với mức thu thấp nhất đối_với phí cấp là 1 triệu đồng , cao nhất_là 29,5 triệu đồng . Đối_với phí duy_trì hàng năm , mức thấp nhất_là 8 triệu đồng và cao nhất_là 285 triệu đồng . Ngoài_ra , khi thay_đổi mức sử_dụng địa_chỉ Internet cũng phải nộp mức thu từ 1 đến 7,5 triệu đồng / lần .
-Theo Vnexpress

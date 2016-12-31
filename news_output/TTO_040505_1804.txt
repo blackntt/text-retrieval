@@ -1,5 +1,0 @@
-﻿ Sắp xuất_hiện định_dạng MP3 mới
-Định_dạng MP3 mới , có tên là " Super MP3 " , sẽ sử_dụng 4 kênh âm_thanh thay_vì 2 kênh hiện_nay và hỗ_trợ tính_năng âm_thanh số " siêu " nổi 5.1 . Theo nhận_định của các chuyên_gia , những người say_mê âm_nhạc hẳn sẽ rất hài_lòng với chất_lượng âm_thanh tuyệt_hảo của Super MP3 .
-Ngoài_ra , định_dạng Super MP3 mới còn được tổ_chức Fraunhofer_Institute , " cha_đẻ " của MP3 , bổ_sung tính_năng quản_lý bản_quyền số ( LWDRM ) và không_thể chia_sẻ qua mạng ngang_hàng . Nếu tác_giả đầu_tiên của một file MP3 nào_đó công_bố chúng lên mạng chia_sẻ , file nhạc sẽ hiển_thị chữ_ký số của tác_giả đó , cho_phép xác_định nguồn_gốc của file nhạc .
-Tính_năng truy_tìm nguồn_gốc và không_thể chia_sẻ trên là một trong những cố_gắng của Fraunhofer_Institute nhằm vào thị_trường bản_quyền âm_nhạc đầy " bát_nháo " hiện_nay .
-Theo VDC-Slashdot

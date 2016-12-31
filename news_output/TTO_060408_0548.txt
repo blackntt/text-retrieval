@@ -1,5 +1,0 @@
-﻿ TP.HCM : đưa vào vận_hành trạm xử_lý nước_thải
-Trạm gồm hai dây_chuyền xử_lý nước song_song , chủ_yếu xử_lý nước_thải ô_nhiễm của kênh Đen bằng công_nghệ hồ sục khí . Nước_thải sau khi xử_lý xong đạt tiêu_chuẩn loại B .
-Đây là một phần của dự_án cải_thiện vệ_sinh và nâng_cấp đô_thị lưu_vực kênh Tân_Hóa - Lò_Gốm tại TP.HCM do Chính_phủ Bỉ tài_trợ . Ở công_suất tối_đa , trạm có_thể xử_lý nước_thải cho khoảng 200.000 người , tương_đương dân_số một quận thuộc TP .
-Theo các chuyên_gia dự_án , nếu trạm xử_lý hiệu_quả và tiết_kiệm năng_lượng , mô_hình này sẽ được tiếp_tục triển_khai với qui_mô rộng hơn để xử_lý nước_thải của các con kênh trên địa_bàn
-THU_THẢO

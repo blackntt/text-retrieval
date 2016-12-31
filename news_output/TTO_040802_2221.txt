@@ -1,5 +1,0 @@
-﻿ Tháng 9-2004 : sẽ có cảnh_sát đặc_nhiệm chống tội_phạm mạng
-Đơn_vị đặc_trách về tội_phạm công_nghệ_cao được thành_lập nhằm kiểm_soát , ngăn_chặn sự bùng_nổ số_lượng và hoạt_động của hacker và các tổ_chức tội_phạm dùng máy_tính để lừa_đảo , kinh_doanh tình_dục trẻ_em , lưu_trữ và phát_tán các ấn_phẩm khiêu_dâm trên mạng ...
-Theo ông Bình , lực_lượng mới sẽ hoạt_động bên_cạnh lực_lượng an_ninh trên mạng nhưng tập_trung vào các vụ_việc , các đối_tượng có dấu_hiệu hình_sự như pháp_luật đã quy_định . Cùng ngày , ông Nguyễn_Tử_Quảng , giám_đốc Trung_tâm An_ninh mạng ( BKIS ) cho_biết đề_án thành_lập Trung_tâm An_ninh mạng và Cứu_hộ các sự_cố máy_tính quốc_gia ( VietCERT - Vietnam_Computer_Emergency_Response_Team ) vừa được các bộ liên_quan thông_qua .
-Dự_kiến VietCERT sẽ ra_mắt vào cuối năm nay ( do BKIS hiện_nay thực_hiện ) , nhằm giúp người dùng nhanh_chóng nắm_bắt thông_tin về vấn_đề an_ninh mạng , virus ... đồng_thời , sớm đưa ra các biện_pháp khống_chế , nâng cao khả_năng an_toàn cho hệ_thống máy_tính và cơ_sở_hạ_tầng quốc_gia .
-THÙY_MINH

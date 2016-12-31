@@ -1,5 +1,0 @@
-﻿ Bóng_đá Anh trên ĐTDĐ
-Nội_dung của ứng_dụng gồm có : xem kết_quả trực_tuyến , lịch thi_đấu cho cả mùa giải 2004-2005 , bảng xếp_hạng , thông_tin về các CLB , bảng thống_kê . Ứng_dụng chạy được trên hầu_hết ĐTDĐ có hỗ_trợ Java .
-Hiện_tại DASIS cung_cấp cho khán_giả hâm_mộ VN phiên_bản sử_dụng miễn_phí cho_đến hết ngày 31-8-2004 . Bạn_đọc có_thể tải tại trang_web Báo_Tuổi_Trẻ ( www.tuoitre.com.vn ) , hoặc tải trực_tiếp bằng điện_thoại tại wapsite ( www.tuoitre.com.vn/wap ) .
-Người dùng muốn sử_dụng phiên_bản đầy_đủ có thêm tính_năng xem tỉ_lệ cá_cược các trận đấu trong toàn_bộ mùa giải 2004-2005 liên_hệ Công_ty Dasis , 188 Hoàng_Diệu , Đà_Nẵng , ĐT : 0511-866577 . Giá bán sản_phẩm dự_kiến là 50.000 đồng/máy .
-ĐÔNG_HẢI

@@ -1,4 +1,0 @@
-﻿ Huế : điện_thoại_di_động bị tê_liệt hơn 1 giờ
-Mỗi lần nối cuộc_gọi đều nhận một tiếng “ ù ” rồi tắt lịm , trên các máy di_động đều báo tín_hiệu sóng yếu . Trong khi đó , các máy cố_định cũng trong tình_trạng chập_chờn , chỉ gọi được vào một_vài máy cố_định mà không_thể gọi được vào máy di_động trong lẫn ngoài tỉnh . Tương_tự , các máy kết_nối vào Internet cũng liên_tục bị rớt mạng hoặc chạy rất chậm . Đến 19g15 các máy điện_thoại mới bắt_đầu liên_lạc được , tuy_nhiên vẫn trong tình_trạng chập_chờn , lúc được lúc không .
-Trả_lời về sự_cố này , ông Nguyễn_Nhật_Quang , giám_đốc Công_ty Viễn_thông Thừa_Thiên - Huế , cho_hay do thiết_bị truyền_dẫn trên đường truyền cáp_quang nối từ Huế với trung_tâm tại Đà_Nẵng bị sự_cố nên đã dẫn đến tình_trạng trên .
-M . TỰ

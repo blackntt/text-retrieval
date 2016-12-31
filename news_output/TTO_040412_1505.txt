@@ -1,6 +1,0 @@
-﻿ Phát_tán chương_trình tạo khóa kích_hoạt Windows
-Chương_trình sinh khóa thường được Microsoft sử_dụng để cung_cấp các khóa đặc_biệt ( vừa có chữ vừa có số ) để kích_hoạt phần_mềm khi cài lên máy_tính . Thông_tin về vụ rò_rỉ mã này được đưa lên website tình_nguyện hỗ_trợ Windows_Neowin . net tuần qua , nhưng ngay sau đó đã bị bỏ xuống .
-Theo một người đứng đầu của Neowin có biệt_danh trên mạng là Creamhackered : “ Với vũ_khí này , chưa đầy một giây bạn có_thể tạo một khóa sử_dụng sản_phẩm Windows , và có_thể tạo bao_nhiêu tùy_thích ” .
-Thông_thường các khóa kích_hoạt được tạo như một_cách để ngăn_chặn việc vi_phạm bản_quyền . Sau khi cài_đặt sản_phẩm , người sử_dụng phải nhập mã kích_hoạt vào , sau đó , đoạn mã này sẽ được gửi đến Microsoft để xác_nhận . Cách này nhằm ngăn_chặn khách_hàng cài cùng một sản_phẩm trên nhiều máy_tính .
-Đây không phải là lần đầu_tiên mã kích_hoạt sản_phẩm của Microsoft bị đưa lên mạng . Trong những năm gần đây , công_ty phần_mềm này đã chứng_kiến nhiều tai_nạn như_vậy .
-T . M ( Theo PCM )

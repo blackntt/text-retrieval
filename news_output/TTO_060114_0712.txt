@@ -1,5 +1,0 @@
-﻿ Chế_tạo xuồng gom rác trên sông , biển
-Thiết_bị vớt rác có hình_dáng của một chiếc xuồng , có_thể vận_hành ở hầu_hết các địa_hình ao_hồ , sông_rạch . Còn ở biển xuồng chỉ có_thể hoạt_động vùng_ven bờ .
-Tùy vào kích_thước của thiết_bị ( 1,5 - 3 tấn ) , năng_suất vớt rác có_thể lên đến 16.000-24.000 m 2 / giờ , rác nổi hoặc rác lơ_lửng trên sông_nước được thu_gom khá dễ_dàng .
-Hiện thiết_bị đã được Cục Sở hữu trí_tuệ cấp bằng độc_quyền sáng_chế . Một_số công_ty môi_trường đô_thị ở TP.HCM , Hà_Nội , Huế , Nha_Trang đã mua thiết_bị này để vớt rác trên sông .
-THU_THẢO

@@ -1,4 +1,0 @@
-﻿ Phần_mềm cho_biết thông_tin phần_cứng
-Halfdone_Unknown_Devices ( HUD ) giúp bạn dễ_dàng tìm được thông_tin về phần_cứng trong Device_Manager mà ta không biết phần_cứng đó là gì . HUD sẽ kiểm_tra thông_tin về thiết_bị đó và thông_báo cho bạn biết rõ , chứ không cần_thiết phải mở thùng ra ngó vào PCI card xem số series .
-HUD hỗ_trợ cho hầu_hết các hệ_điều_hành Windows như : Win95 , 98 , 98SE , Me , 2K , XP và 2003 nhưng không hỗ_trợ cho NT . Nhấn chuột vào đây để tải về HUD version : 1.2 - Phần_mềm hoàn_toàn miễn_phí .
-ĐÔNG_HẢI - V . S . C

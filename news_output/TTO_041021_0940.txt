@@ -1,4 +1,0 @@
-﻿ Mô_hình tử_cung nhân_tạo
-Arun_Holden tại đại_học Leeds đang mô_phỏng sự co_bóp của tử_cung trên máy_tính , sử_dụng kiến_thức về cách từng tế_bào cơ hoạt_động , cách chúng phối_hợp với nhau và cách chúng liên_lạc với các tế_bào bên_cạnh bằng điện tế_bào . Holden , người đã phát_triển tim nhân_tạo và bây_giờ muốn áp_dụng kỹ_thuật này vào các cơ tử_cung , nói : " Nó sẽ giúp chúng_tôi trong các vấn_đề trẻ sinh non " .
-Các bác_sĩ có_thể đo điện hoạt_động trên bề_mặt bụng , bằng cách dùng thạch_cao đắp lên vùng bụng có gắn điện_cực , rồi dùng mô_hình máy_tính để xác_định các hoạt_động của tế_bào trong dạ_con . Máy_tính cũng có_thể dự_đoán tác_dụng của những loại thuốc mới . Khi đã hiểu_biết cặn_kẽ về sinh_lý và giải_phẫu , chúng_ta có_thể sử_dụng chương_trình để xem trước tử_cung .
-QUỐC_DŨNG ( Theo Nature )

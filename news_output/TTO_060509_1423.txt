@@ -1,7 +1,0 @@
-﻿ Ban_hành mức cước mới cho điện_thoại quốc_tế của VNPT
-Cước dịch_vụ điện_thoại quốc_tế mạng NGN 64Kbpss sử_dụng thẻ trả trước so với mức cước của dịch_vụ điện_thoại cố_định gọi đi quốc_tế tối_đa không cao hơn và tối_thiểu không thấp hơn 10% .
-Cước dịch_vụ điện_thoại IP quốc_tế ( VOIP ) đối_với loại_hình trả sau tối_đa không quá 0,51 USD/phút , tối_thiểu không quá 0,40 USD/phút và đối_với loại_hình thẻ trả trước tối_đa không quá 0,42 USD/phút , tối_thiểu không quá 0,33 USD/phút .
-Mức cước của dịch_vụ điện_thoại quốc_tế NGN 8Kbps sử_dụng thẻ trả trước áp_dụng như mức cước của loại_hình VOIP quốc_tế trả trước .
-Bộ Bưu chính - viễn_thông cũng qui_định mức giảm cước đối_với các dịch_vụ trên trong các ngày lễ , chủ_nhật và từ 23g ngày hôm trước đến 7g ngày hôm_sau các ngày từ thứ_hai đến thứ_bảy không vượt quá 30% mức cước qui_định của các dịch_vụ .
-Cùng_với quyết_định trên , Bộ Bưu chính - viễn_thông đã cho_phép VNPT tự quyết_định cước truy_nhập Internet qua mạng điện_thoại công_cộng không được quá mức trần là 180 đồng/phút .
-KHIẾT_HƯNG

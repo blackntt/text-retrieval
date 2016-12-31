@@ -1,7 +1,0 @@
-﻿ Tăng_tốc kết_nối ADSL bằng DSL Speed
-Dù đã dùng Internet băng_thông_rộng nhưng nhiều lúc mạng vẫn chạy rất ì_ạch khiến bạn phát bực . Bạn có_thể giải_quyết vấn_đề này nếu có phần_mềm DSL Speed .
-Phần_mềm này hiện đã có phiên_bản 3.5 . Người dùng quan_tâm có_thể download bản dùng thử tại địa_chỉ : http : / / www.dsl-speed.org/download.htm .
-DSL Speed sẽ giúp hiệu_chỉnh chỉ_số MTU kết_nối với ISP và tối_ưu chỉ_số kết_nối ADSL của bạn ở mức cao nhất , nó cũng giúp tăng_tốc duyệt web . DSL Speed tương_thích với hầu_hết các phiên_bản Windows và yêu_cầu máy_tính của bạn phải có PPPoE như : Enternet 300 , Enternet 500 RasPPPoE , WinPoET , …
-Chú_ý :
-- Với những máy_tính đang chạy chương_trình Windows 95/98SE thì_phải tải bản sửa lỗi Vtcp.386fixfor95/98SE trước khi cài_đặt DSL Speed .
-- Đối_với những bản DSL Speed có đăng_ký thì bạn cần nhận trực_tiếp số đăng_ký ( không được copy / paste ) thì mới có hiệu_lực . Hoa_Đào

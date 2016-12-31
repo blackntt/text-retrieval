@@ -1,9 +1,0 @@
-﻿ HVA bị rao bán dữ_liệu với giá 1.700 USD
-Với quyền truy_cập này , cùng ngày , nickname có tên là DarkHawk tại diễn_đàn HVA nhanh_chóng nâng_cấp quyền của mình lên thành Administrator của diễn_đàn . Mặc_dù có khá nhiều Moderator ( Mod - người đồng quản_trị ) online như mrro , LM , prof và đều nhìn thấy nhưng dường_như HVA chưa tìm ra cách chống_đỡ hacker này .
-Với 1 vài thao_tác thay_đổi mã nguồn của 1 số file cấu_hình , hacker nhanh_chóng chiếm_giữ quyền điều_khiển máy_chủ diễn_đàn HVA và mang dữ_liệu cũng_như mã nguồn website về .
-DarkHawk nhanh_chóng nâng_cấp quyền của mình lên thành Administrator của diễn_đàn HVA ( nickname màu đỏ ) Ngày 2-5 , trên ddth . com xuất_hiện mẩu quảng_cáo rao bán toàn_bộ bài viết của forum HVA cùng 70.000 e-mail thành_viên với mật_khẩu đã được mã_hóa và box kín của Ban quản_trị ... với giá 1.700 USD .
-Việc rao bán dữ_liệu có_lẽ nhằm mục_đích “ hạ_bệ ” và làm bẽ_mặt nhau nhiều hơn là kiếm tiền . Đó là lý_do hacker rao bán data này .
-Theo thông_tin tìm_hiểu từ các diễn_đàn trên mạng , hiện_nay có rất nhiều thành_viên của VNISS có dữ_liệu của HVA . Và một_số này đang tìm cách giải_mã dữ_liệu mật_khẩu để tìm_kiếm … 1 cơ_hội hack mới liên_quan .
-Đến chiều 3-5 , diễn_đàn HVA vẫn chưa hoạt_động lại , trên trang_chủ chỉ có duy_nhất dòng thông_báo " Diễn_đàn HVA tạm ngưng hoạt_động . Thông_báo chi_tiết về việc HVA hoạt_động trở_lại sẽ được công_bố trong thời_gian ngắn nhất " .
-Việc các diễn_đàn hacker tấn_công nhau qua_lại gây ảnh_hưởng rất lớn đến hoạt_động của nhiều website và mạng của Việt_Nam , đồng_thời làm mất một sân_chơi của rất đông_đảo thành_viên trực_tuyến .
-H.NHUNG

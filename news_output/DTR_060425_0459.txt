@@ -1,8 +1,0 @@
-﻿ Nước_tiểu giúp dự_đoán phản_ứng thuốc
-Các nhà_nghiên_cứu ĐH Imperial tại London ( Anh ) đang phát_triển phương_pháp dự_đoán phản_ứng thuốc của bệnh_nhân thông_qua nước_tiểu , bước_tiến đầu_tiên tới công_nghiệp sản_xuất thuốc theo đặc_điểm từng người .
-Phương_pháp kết_hợp phân_tích hóa_học tiên_tiến với mô_hình toán_học để dự_đoán phản_ứng thuốc của bệnh_nhân , chủ_yếu dựa trên phân_tích các sản_phẩm trao_đổi chất của cơ_thể .
-Các nhà_khoa_học tin rằng xét_nghiệm mẫu sản_phẩm trao_đổi chất sẽ giúp chẩn_đoán bệnh , đoán trước những bệnh một người mắc phải trong tương_lai và phản_ứng của họ với việc điều_trị .
-Để thử_nghiệm , các nhà_khoa_học tiến_hành thí_nghiệm trên chuột . Họ đưa paracetamol vào cơ_thể chuột , đo xem thuốc có ảnh_hưởng đến chúng như_thế_nào và được bài_tiết ra khỏi cơ_thể ra_sao . N ước tiểu chuột trước và sau khi tiêm thuốc được so_sánh qua mô_hình trên máy_tính .
-Trưởng nhóm nghiên_cứu , GS . Jeremy_Nicholson cho_biết phương_pháp giúp xác_định sự khác_biệt trong hấp_thụ và xử_lý thuốc ở cơ_thể từng cá_nhân . Sự khác_biệt này phụ_thuộc các yếu_tố như số_lượng và loại vi_khuẩn có trong ruột .
-Theo GS . Nicholson , phương_pháp mới có ý_nghĩa tiềm_năng quan_trọng đối_với công_nghiệp dược và chăm_sóc sức_khỏe cộng_đồng trong tương_lai song vẫn đang ở thời_kỳ mới_mẻ và cần được thử_nghiệm trên người để đánh_giá tính khả_thi khi đem vào ứng_dụng .
-Huyền_Trang_Theo BBC

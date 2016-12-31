@@ -1,5 +1,0 @@
-﻿ Lỗi bảo_mật nguy_hiểm trong Windows_Media_Player
-Vào ngày 14-2 , công_ty bảo_mật Eeye_Digital_Security đã công_bố về một lỗi bảo_mật nguy_hiểm nằm trong Windows_Media_Player có_thể tạo điều_kiện cho kẻ tấn_công chiếm_đoạt máy_tính của người dùng .
-Lỗi này xuất_hiện trong cơ_cấu điều_hành bộ_nhớ đệm của Windows_Media_Player , nó có_thể tương_tác thuận cho những file hình_ảnh BMP có chứa mã độc tấn_công thẳng vào máy_tính và xuất_hiện trong hầu_như toàn_bộ các phiên_bản Windows_Media_Player từ 7.1 đến 10 và ảnh_hưởng đến mọi Windows đang hoạt_động hiện_nay như Windows XP , Windows 2003 , Windows NT và Windows 2000 SP4 .
-Eeye cho_biết rằng chỉ có những phiên_bản Windows bán ra tại thị_trường châu Âu không có sẵn trình Windows_Media_Player là an_toàn trước lỗi bảo_mật này . Microsoft thông_tin bản vá của một lỗi bảo_mật tương_tự đã được phát_hành trước_đây nhưng các chuyên_gia của e Eye cho_biết rằng bản vá bảo_mật mã_số KB913446 dành cho Windows XP cũng không giải_quyết triệt_để được lỗi bảo_mật này .
-Theo Tuổi_Trẻ

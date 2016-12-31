@@ -1,9 +1,0 @@
-﻿ Nắm PDF trong lòng bàn_tay
-Nhiều người nghĩ đơn_giản , pdf được tạo ra bằng cách chuyển định_dạng ( convert ) từ văn_bản soạn_thảo trên Word . Một_số khác thì chấp_nhận cài bộ phần_mềm cồng_kềnh là Adobe_Acrobat . Tại_sao bạn không tạo cho mình một sự khác_biệt ?
-Với_Nitro PDF , bạn sẽ thấy mọi thứ trở_nên dễ_dàng . Chương_trình này có cách sử_dụng gần giống như Adobe_Acrobat , nhưng gọn_nhẹ hơn nhiều . Sau khi cài_đặt , nó chiếm khoảng 35 MB . Điều này cho_phép chương_trình có_thể được nạp hoàn_toàn vào trong bộ_nhớ . Chính vì_thế , tốc_độ vận_hành rất nhanh .
-Chương_trình hoàn_toàn tương_thích với bộ phần_mềm Office của Microsoft , cho_phép convert trực_tiếp các dạng văn_bản Office qua PDF , với cách sử_dụng y_như Adobe_Acrobat .
-Ngoài_ra , Nitro PDF cũng là một chương_trình soạn_thảo PDF chuyên_nghiệp , với đầy_đủ mọi công_cụ như canh chỉnh_trang , làm bookmark , tạo form cho pdf ... , kể_cả khả_năng bảo_mật và mã_hóa tài_liệu , đương_nhiên không_thể thiếu tính_năng chữ_ký điện_tử nhằm đảm_bảo tính chính_xác khi mã_hóa .
-Với_Nitro Pdf , bạn có_thể yên_tâm từ_bỏ Adobe_Acrobat một_cách “ không thương_tiếc ” . Không thiếu bất_cứ chức_năng nào , từ thấp đến cao_cấp mà tài_nguyên thì chỉ tốn còn có 1/10 .
-Bạn có_thể gởi email về mục “ Nhịp cầu Nhịp sống số ” ( online@tuoitre.com.vn ) để yêu_cầu hướng_dẫn sử_dụng chương_trình bằng tiếng Việt , hoặc có_thể tham_khảo cách sử_dụng chương_trình bằng tiếng Anh ngay trên phần giúp_đỡ của chương_trình .
-Có_thể vào đây để tải bản dùng thử : http : / / downloads-zdnet.com.com/Nitro-PDF-Professional/3000-10743 _ 2-10537722.html ? tag = zddl.nlppd & amp ; tag = nl.e530
-TRẦN_HUY

@@ -1,9 +1,0 @@
-﻿ Hệ_thống địa_chỉ Internet sẽ không tồn_tại lâu
-Là người tạo ra hệ_thống tên_miền DNS , được hàng triệu người sử_dụng hàng tỷ lần mỗi ngày , tiến sỹ Paul_Mockapetris lại tỏ ra không mấy tin_tưởng vào khả_năng " trường_thọ " cho " đứa con " của ông .
-Ban_đầu , Mockapetris dự_kiến DNS sẽ hỗ_trợ cho khoảng 50 triệu địa_chỉ Internet . Nhưng con_số này đã mở_rộng tới mức không_thể thống_kê chính_xác được . Một khảo_sát trong tháng 1/2006 cho thấy Internet hiện có ít_nhất 394 triệu tên_miền .
-Thành_công vượt mức mong_đợi này cũng không đủ để thuyết_phục Mockapetris rằng cơ_chế đặt tên trên Internet sẽ có một tương_lai ổn_định : " Nếu muốn có sản_phẩm sống mãi với thời_gian , bạn nên theo_đuổi lĩnh_vực âm_nhạc hoặc nghệ_thuật " .
-Theo Mockapetris , về phương_diện nào_đó , DNS đang bắt_đầu đóng vai_trò " giấu mặt " với người sử_dụng Internet . Nhiều chương_trình e - mail phổ_biến chỉ hiện tên_riêng , nick hoặc địa_chỉ vắn_tắt , do_đó người nhận hiếm khi đọc được địa_chỉ đầy_đủ chứa cả domain quản_lý tài_khoản e - mail này .
-Tương_tự , nhiều người không cần gõ đầy_đủ tên_miền mà truy_cập vào những công_cụ tìm_kiếm như Google , gõ từ_khóa và bấm vào đường kết_nối để định_hướng tới một site nào_đó . " Công_nghệ DNS vẫn đang hoạt_động nhưng ngày_càng ít người tiếp_cận nó một_cách trực_tiếp " , Mockapetris nhận_xét .
-Một_số kế_hoạch thay_đổi cơ_chế vận_hành tên_miền Internet đang được tiến_hành như kết_hợp số điện_thoại trên toàn thế_giới với địa_chỉ e - mail trong cùng một hệ_thống có tên ENum , hay còn gọi_là giao_thức E.164 , để giúp mọi người liên_hệ với nhau dễ_dàng hơn .
-Mockapetris hiện là chủ_tịch Nominum ( Mỹ ) - công_ty chịu trách_nhiệm hợp_nhất cơ_sở_dữ_liệu khổng_lồ của các hãng điện_thoại và cáp với dịch_vụ mạng .
-Theo P . T . VnExpress/BBC

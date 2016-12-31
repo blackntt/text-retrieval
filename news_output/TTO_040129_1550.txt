@@ -1,5 +1,0 @@
-﻿ Intel nâng_cấp chip 32 bit lên 64 bit
-“ Đây là một phát_biểu quan_trọng của Intel . Điều này cho thấy Intel có khả_năng sẽ sử_dụng một kỹ_thuật tương_thích mà AMD đang dùng hiện_nay ” , Nathan_Brookwood , một nhà_phân_tích công_nghệ , phát_biểu .
-Ngoài việc tuyên_bố đang quan_tâm theo_dõi thị_trường , các nhà_lãnh_đạo của Intel từ_chối đề_cập tới vấn_đề chip 64 bit cho PC và máy_chủ giá rẻ .
-Tuy_nhiên , các nhà_phân_tích đoán rằng rất có_thể các kỹ_sư của Intel đang phát_triển một công_nghệ mới tương_thích như_vậy , nhưng hãng giữ bí_mật về dự_án này để tránh sự trì_trệ của Itanium - dòng chip 64 bit dành cho các máy_chủ có_giá lên tới 50.000 USD .
-T . M ( Theo Reuters )

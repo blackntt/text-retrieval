@@ -1,9 +1,0 @@
-﻿ Google ra_mắt chương_trình bảng tính trực_tuyến
-Dịch_vụ Google_Spreadsheets sử_dụng các định_dạng file tương_tự như phần_mềm Excel phổ_biến của Microsoft và cho_phép nhiều người tham_gia xây_dựng , chỉnh_sửa một tài_liệu chung cùng lúc .
-Chương_trình này đang được thử_nghiệm giới_hạn qua trang Google_Labs .
-Bước_đầu , nó cho_phép đọc và soạn các tập_tin Excel nhưng thiếu nhiều tính_năng chuyên_sâu .
-Tuy_nhiên , Google_Spreadsheets được trang_bị một_số phần_mềm khác như dịch_vụ tin nhắn nhanh Google_Talk nhằm hỗ_trợ làm_việc theo nhóm .
-Động_thái mới của Google một lần nữa lại " trêu_ngươi " tập_đoàn phần_mềm Mỹ . Chỉ cách đây vài tuần , hãng dịch_vụ tìm_kiếm đã phát_hành chương_trình Google_Calendar hoạt_động trên web nhằm đánh_bật tính_năng nhật_ký công_việc trong Microsoft_Outlook .
-Google đã đánh_tiếng về kế_hoạch giới_thiệu chương_trình bảng tính_từ tháng 10 năm_ngoái khi đạt được thỏa_thuận quan_trọng với tập_đoàn Sun_Microsystems .
-Nhiều chuyên_gia dự_đoán bước_đi tiếp_theo của họ sẽ là trình xử_lý_văn_bản sau khi thâu_tóm Writely đầu năm nay . Microsoft cũng bắt_đầu học_tập chiến_lược của Google trong việc sử_dụng Internet để cung_cấp các tính_năng phần_mềm , thay_vì đóng_gói sản_phẩm và phân_phối tại các đại_lý bán_lẻ .
-Theo VNExpress

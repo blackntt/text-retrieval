@@ -1,4 +1,0 @@
-﻿ Website về thị_trường_chứng_khoán
-Trang_web có các phần sau : tin_tức , cơ_sở_dữ_liệu công_ty trên thị_trường_chứng_khoán , các văn_bản pháp_quy , kiến_thức chuyên_môn .
-Theo đó , các thông_tin được cập_nhật gồm biểu_đồ chỉ_số VnIndex , thông_tin giao_dịch , thông_tin thị_trường , hoạt_động hợp_tác quốc_tế , thông_tin từ các công_ty , các chính_sách mới và hoạt_động của Ủy_ban Chứng_khoán Nhà_nước . Cơ_sở_dữ_liệu các công_ty tham_gia thị_trường_chứng_khoán như các tổ_chức niêm_yết , công_ty chứng_khoán , công_ty quản_lý quỹ , ngân_hàng lưu ký , ngân_hàng chỉ_định thanh_toán , ...
-QUỐC_DŨNG

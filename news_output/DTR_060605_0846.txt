@@ -1,7 +1,0 @@
-﻿ Hacker đánh sập website của cảnh_sát Thụy_Điển
-Một website của cơ_quan cảnh_sát nước này bị một băng_nhóm tin_tặc tấn_công từ_chối dịch_vụ DoS như_là một hành_động trả_thù vì tổ_chức này đã truy_quét website chia_sẻ nổi_tiếng The_Pirate_Bay từ hồi đầu tuần trước .
-Website của cảnh_sát Thụy_Điển đã phải đóng_cửa vào cuối ngày 1/6 , nhóm hacker đã làm quá_tải mạng của cơ_quan này bằng cách kích_thích lưu_lượng truy_cập khiến website bị trì_trệ , Lars_Lindahl , phát_ngôn_viên của cảnh_sát , cho_biết . Ông này không loại_trừ khả_năng tin_tặc tấn_công để trả_đũa vụ truy_quét website chia_sẻ trên của cảnh_sát thực_hiện từ ngày 31/5 . “ Rất có_thể là nguyên_nhân từ The_Pirate_Bay , nhưng đó mới chỉ là suy_đoán ” .
-Trong cuộc truy_quét website chia_sẻ , cảnh_sát đã đột_nhập vào 10 địa_điểm ở miền Trung_Thụy_Điển và bắt được 3 người đàn_ông liên_quan đến The_Pirate_Bay bị tình_nghi đã vi_phạm bản_quyền . Theo ông Ulf_Goranzon , phát_ngôn_viên của cảnh_sát tockholm , 3 người này sau đó đã được thả nhưng có_thể sẽ vẫn phải chịu phạt tài_chính .
-Ngày 2/6 , trên site The_Pirate_Bay xuất_hiện một thông_điệp “ sẽ hoạt_động và phục_hồi đầy_đủ chức_năng trong một , hai ngày tới ” .
-Cảnh_sát Thụy_Điển đang tiến_hành điều_tra về nhóm tin_tặc này .
-N . H_Theo CNN

@@ -1,5 +1,0 @@
-﻿ Hình_thành hệ_thống ứng_cứu khẩn_cấp máy_tính VN
-VNCERT cũng có nhiệm_vụ điều_phối các hoạt_động ứng_cứu mạng Internet quốc_gia để phòng_chống sự_cố mạng và tham_gia chống tội_phạm , chống khủng_bố trên mạng Internet trong phạm_vi quốc_gia và trong khuôn_khổ hợp_tác quốc_tế ; điều_phối và hướng_dẫn các tổ_chức , doanh_nghiệp cung_cấp dịch_vụ Internet trong việc xử_lý sự_cố , thực_hiện nghĩa_vụ xử_lý thông_tin cơ_sở và lưu_trữ số_liệu gốc để cung_cấp thông_tin cho mục_đích đảm_bảo an_toàn mạng Internet quốc_gia .
-Ngoài_ra , VNCERT sẽ thực_hiện nhiệm_vụ thu_thập thông_tin về an_toàn mạng Internet , theo_dõi phát_hiện những nguy_cơ và các sự_cố an_toàn mạng máy_tính để cảnh_báo sớm cho các cơ_quan hữu_quan và cộng_đồng .
-VNCERT được quyền yêu_cầu các tổ_chức , cá_nhân hoạt_động trên mạng Internet quốc_gia cung_cấp các thông_tin và các số_liệu thống_kê liên_quan tới vấn_đề an_toàn mạng .
-KHIẾT_HƯNG

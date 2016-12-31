@@ -1,6 +1,0 @@
-﻿ Mời bạn tham_dự cuộc thi_viết game ĐTDĐ
-Đây là cuộc thi_viết game cho ĐTDĐ đầu_tiên được tổ_chức tại Việt_Nam dưới sự tài_trợ của Công_ty Điện_tử Samsung VINA và sự hỗ_trợ kỹ_thuật của Cộng_đồng Java_Việt_Nam . Cuộc_thi sẽ kéo_dài từ nay cho_đến đầu tháng 10-2004 , với tổng giải_thưởng trên 100 triệu đồng .
-Với tiêu_chí “ Ý_tưởng lớn cho điện_thoại nhỏ ” , cuộc_thi được dành cho tất_cả người Việt_Nam ở trong và ngoài nước ; khuyến_khích thí_sinh tham_dự theo nhóm và có_thể gửi nhiều sản_phẩm dự thi . Đây cũng là cuộc_thi mà người tiêu_dùng sẽ là đồng giám_khảo với ban tổ_chức thông_qua bình_chọn trên các trang_web và wap chính_thức .
-Tính hấp_dẫn , sáng_tạo , ổn_định và thể_hiện bản_sắc Việt_Nam là những tiêu_chuẩn hàng_đầu dùng để đánh_giá game . Tuy_nhiên , BTC cũng cho_phép các sản_phẩm dự thi được phát_triển dựa trên các mã nguồn mở .
-Thông_tin chi_tiết cuộc_thi , công_cụ lập_trình cho game di_động , phần_mềm giả_lập ĐTDĐ , mã nguồn mở … đều được đăng_tải trong chuyên_mục Mobile_Games 2004 trên Tuổi_Trẻ_Online .
-ĐÔNG_HẢI

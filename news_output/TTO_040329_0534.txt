@@ -1,5 +1,0 @@
-﻿ Bàn làm_việc ảo
-Với_My_Corkboard_Screensaver 1.00.99 ( MCS ) , bạn sẽ có được một bàn làm_việc ảo tương_tự như_thế ngay trên màn_hình máy_tính của mình . Bạn có_thể “ bài_binh_bố_trận ” toàn_bộ những văn_phòng_phẩm ảo phổ_dụng như giấy viết , đồng_hồ và lịch treo tường , memo báo nhắc … Sau đây là phần gợi_ý cách khai_thác những tính_năng trọng_yếu :
-Sau khi kích_hoạt chương_trình , bạn hãy nhấp đúp chuột vào từng loại văn_phòng_phẩm ảo để hiệu_chỉnh . Nhấp chuột phải rồi chọn mục New để bổ_sung cho bàn làm_việc của mình một_số vật_dụng mới như những ghi_chú dán được ( Sticky note ) , bản kiểm_định những công_việc cần làm ngay ( To do list ) , đồng_hồ ( Clock ) , lịch ( Calendar ) , bảng tên ( Name_Plate ) , tranh nền ( Picture ) , các vật trang_trí ( Decoration ) , những vật_dụng lạ_mắt ( Gizmo ) và những thứ linh_tinh khác ( Accessory ) . Nếu muốn quay về màn_hình desktop , bạn chỉ cần nhấn nút Delete là xong .
-Với dung_lượng 2,30 MB , tương_thích trên các hệ_điều_hành Windows như 9x/Me/NT/2000/XP , phiên_bản miễn_phí ( freeware ) của MCS được cung_cấp tại địa_chỉ http : / / www.mycorkboard.com/corkb100.exe .
-LÊ_NGUYỄN_BẢO_NGUYÊN

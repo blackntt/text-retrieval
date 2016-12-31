@@ -1,5 +1,0 @@
-﻿ 5 lần xếp_hàng cho một lần khám bệnh
-Lần thứ_hai là để chờ được bác_sĩ khám bệnh và cho toa thuốc . Lần thứ_ba là để nhập máy_vi_tính và nhận lại toa thuốc đã được báo_giá , trong đó bao_gồm tiền_công khám , tiền thuốc và tiền các loại xét_nghiệm , chụp X-quang ( nếu có ) . Lần thứ_tư là để thanh_toán viện_phí và lần thứ_năm là để được nhận thuốc .
-Trong đó lần xếp_hàng thứ nhất_là lâu nhất , có người phải ra về vì lý_do hết số . Sở_dĩ người_bệnh phải chờ_đợi lâu vì số người đến khám và chữa bệnh quá đông ( một phòng_khám phải nhận tới 30 - 40 bệnh_nhân trong một buổi ) . Mặt_khác , việc áp_dụng qui_trình năm lần xếp_hàng như hiện_nay cũng là nguyên_nhân khiến người_bệnh phải chờ_đợi lâu .
-Qua thực_tế , chúng_tôi đề_nghị ngành y_tế trang_bị cho các bệnh_viện máy xếp_hàng tự_động như một_số nơi đã làm . Đề_nghị cho người khám chữa bệnh bằng thẻ bảo_hiểm_y_tế được đăng_ký khám chữa bệnh ban_đầu ở các cơ_sở y_tế không thuộc khu_vực nhà_nước nhằm giảm_thiểu số người khám chữa bệnh tại các bệnh_viện công .
-BÙI_HIỂN

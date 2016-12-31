@@ -1,4 +1,0 @@
-﻿ Thêm một loại thẻ_thanh_toán quốc_tế
-Khác với thẻ_tín_dụng là chủ thẻ sử_dụng tiền_của ngân_hàng sau đó thanh_toán lại , với thẻ VISA electron , chủ thẻ sử_dụng tiền_của mình đã gửi vào tài_khoản . Thẻ VISA electron sử_dụng được ở 150 nước với 13 triệu điểm chấp_nhận thẻ ( riêng tại VN có khoảng 1.000 điểm ) hoặc rút_tiền mặt tại hơn 800.000 máy ATM trên toàn thế_giới với mức phí thấp hơn thẻ_tín_dụng .
-Chủ thẻ nộp tiền vào tài_khoản bằng VND , khi thanh_toán ở nước_ngoài ngân_hàng sẽ qui_đổi từ VND sang ngoại_tệ .
-T.TU .

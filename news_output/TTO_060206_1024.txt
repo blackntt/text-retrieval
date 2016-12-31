@@ -1,4 +1,0 @@
-﻿ Lỗi bảo_mật nguy_hiểm trong Adobe CS2
-Lỗi bảo_mật ảnh_hưởng đến 3 sản_phẩm thuộc loại quan_trọng nhất của Adobe là Adobe_Creative_Suite 2 , Adobe_Photoshop CS2 và Adobe_Illustrator CS2 . Lỗi này xuất_hiện khi các ứng_dụng trên chạy ở chế_độ chia_sẻ hoặc cài_đặt cho nhiều người sử_dụng đồng_thời .
-Adobe cho_biết rằng nếu biết cách khai_thác thì lỗi bảo_mật nói trên sẽ tạo điều_kiện cho kẻ tấn_công thay_đổi các file chương_trình bằng các file mã độc có khả_năng ăn_cắp hoặc phá_hủy các dữ_liệu nhạy_cảm trong máy_tính , thậm_chí đoạt quyền điều_khiển hệ_thống . Adobe khuyến_cáo toàn_bộ người dùng sử_dụng các dòng sản_phẩm CS2 trên Windows hoặc Mac OS nên vào đây để cập_nhật sửa lỗi ngay_lập_tức .
-HOÀNG_KIM_ANH ( Theo CNET )

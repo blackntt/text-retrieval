@@ -1,9 +1,0 @@
-﻿ Chân_dung nhà_vô_địch : Nhóm_My Vietnam
-Cuộc_thi NTĐV năm nay không có giải nhất . Giải nhì thuộc về sản_phẩm “ Giải_pháp cung_cấp thông_tin trực_tuyến tích_hợp cổng thông_tin mvn FORUM và mvn CMS” của nhóm MyVietnam đến từ TP Hồ_Chí_Minh . Đại_diện của nhóm này là hai chàng_trai Nguyễn_Ngọc_Minh và Nguyễn_Hữu_Mai , cả hai đều còn rất trẻ .
-Mai và Minh ở cùng tập_thể với nhau từ bé . Suốt những năm_học phổ_thông , cả hai tỏ ra xuất_sắc nhất trong môn Toán_học . Kế đó là các môn Lý , Hoá . Minh cho_biết , nhiều đêm hai người vẫn ngồi nhà chat với nhau tới 2-3 giờ sáng , khi là chuyện phiếm , khi để trao_đổi công_việc .
-Bắt_đầu_từ lớp 11 , khi được học Tin_học , cả hai đặc_biệt ham_thích Internet . Đây quả_thực là thế_giới mở , kho_tàng kiến_thức khổng_lồ của nhân_loại .
-Tháng 10/2004 , hai người quyết_định thành_lập Cty_Hữu_Ngọc , tên giao_dịch quốc_tế là MyVietnam . Cty có 15 người , trong đó có 10 lập_trình_viên , chỉ phát_triển duy_nhất hai sản_phẩm mvn Forum và mvn CMS .
-Đến đầu năm 2005 , hai sản_phẩm này được tích_hợp làm một , và được MyVietnam tự_tin đem đi dự thi NTĐV . Trước đó , bản thương_mại của sản_phẩm này đã được bán đi khắp_nơi trên thế_giới .
-Sản_phẩm “ Giải_pháp cung_cấp thông_tin trực_tuyến tích_hợp cổng thông_tin mvn Forum và mvn CMS” là sản_phẩm tích_hợp nhiều cổng thông_tin chạy trên nền portal do Cty_Hữu_Ngọc cung_cấp .
-Phần_mềm được xây_dựng trên nền_tảng công_nghệ Java , sử_dụng các Opensource_Log 4J , MySQL , Struts ... dễ_dàng cài_đặt , chỉnh_sửa và nâng_cấp . Phần_mềm hỗ_trợ đa ngôn_ngữ và nhiều cơ_sở_dữ_liệu , dễ_dàng tích_hợp với các web server hỗ_trợ khác_nhau : Tomcat , Jboss , Jrun ...
-Đêm trao giải , dù Minh và Mai nói không hồi_hộp nhưng chúng_tôi lén trông thấy những ánh mắt đầy chờ_đợi của họ ... Và khi Phó_Thủ tướng Phạm_Gia_Khiêm đọc : “ Giải nhì thuộc về nhóm Việt_Nam của tôi ” thì cả hai đều vỡ oà sung_sướng , hân_hoan tột_độ ... Nhóm PV

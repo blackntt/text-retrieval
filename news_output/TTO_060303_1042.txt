@@ -1,7 +1,0 @@
-﻿ Apple giới_thiệu bản vá 17 lỗi bảo_mật
-Chiến_dịch vá lỗi bảo_mật này mang tên “ Security_Update 2006-001 ” này xuất_hiện chỉ một tuần sau khi các công_ty bảo_mật lên_tiếng cảnh_báo về 2 lỗi bảo_mật nghiêm_trọng xuất_hiện trong Mac OS_X và trình_duyệt Safari .
-Lỗi bảo_mật xuất_hiện trong Safari tạo điều_kiện cho kẻ tấn_công âm_thầm đột_nhập vào máy Mac bằng cách lừa người dùng chui vào các trang_web có gài mã độc . Còn lỗi bảo_mật có trong Mac OS_X chính là lỗi xuất_hiện trong cơ_chế nén file ZIP . Lỗi này tạo điều_kiện cho một file ZIP chứa đầy mã độc có_thể tự_động giải nén khi được tung vào máy_tính .
-Các công_ty bảo_mật đánh_giá rằng tốc_độ sửa lỗi của Apple trong đợt vá lỗi này quả_thật hết_sức ấn_tượng và có_thể lấy để làm_gương cho Microsoft , công_ty nổi_tiếng trễ_nải từ vài tuần cho_đến vài tháng trong việc vá lỗi bảo_mật .
-Đợt vá lỗi này cũng bao_gồm bản vá dành cho một lỗi bảo_mật xuất_hiện trong trình nhắn_tin trực_tuyến i Chat . Lỗi này tạo điều_kiện cho con virus OSX/Leap . a xâm_nhập vào hệ_điều_hành thông_qua i Chat . OSX/Leap . a là con virus hiếm_hoi đầu_tiên có khả_năng tấn_công vào môi_trường Mac OS X .
-Những người đang sử_dụng Mac OS_X nên lập_tức vào đây để tải ngay các bản vá cần_thiết về sử_dụng .
-HOÀNG_HẢI ( Theo Tech Web_News )

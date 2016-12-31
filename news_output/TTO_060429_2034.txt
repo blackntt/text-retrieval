@@ -1,6 +1,0 @@
-﻿ Mozilla - DDoS và phiên_bản FireFox 1.5.0.3
-Theo đánh_giá của hãng Secunia thì lỗi này không nghiêm_trọng tuy_nhiên Mozilla vẫn mong_muốn “ đứa con cưng ” của mình phải vượt hơn Internet_Explorer và củng_cố niềm_tin cho người dùng sau khi hàng_loạt lỗi bảo_mật trong FireFox được công_bố minh_chứng rằng trình_duyệt này cũng không hẳn đã an_toàn .
-“ Lỗi bảo_mật nằm trong việc gọi hàm Javascript “ contentWindow.focus ( ) ” . Một website chứa mã độc_hại có_thể được dùng để làm ảnh_hưởng đến bộ_nhớ và là nguyên_nhân dẫn đến tràn bộ đệm bởi phương_thức gọi hàm “ contentWindow.focus ( ) ” trong một nội_dung hay tập_tin được lập ra có mục_đích ” theo Secunia cho_biết .
-Mã khai_thác lỗi này đã được công_bố rộng_rãi , thôi_thúc các nhà_phát_triển FireFox nhanh_chóng cập_nhật trình_duyệt này , ngay cả khi lỗi được cho là “ rất nhỏ ” . “ Phiên_bản 1.5.0.3 sẽ là tiền_đề thúc_đẩy 1.5.0.4 ra_đời và tuần_tự kế_tiếp các phiên_bản khác kế_tiếp ” theo các nhà_phát_triển FireFox cho_biết .
-Lỗi bảo_mật có_thể khai_thác tấn_công từ_chối dịch_vụ này ảnh_hưởng đến phiên_bản mới nhất 1.5.0.2 của FireFox . Người dùng nên thường_xuyên cập_nhật tại đây hay dùng chức_năng tự_động cập_nhật có trong FireFox để nâng_cấp lên các phiên_bản mới nhất . Ngoài_ra , có_thể tham_khảo đoạn mã lỗi bảo_mật FireFox tại đây .
-TUYẾT_PHẤN

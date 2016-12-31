@@ -1,6 +1,0 @@
-﻿ Same sống_động
-Đó là cảnh hai diễn_viên Thư_Kỳ và Triệu_Vi thực_hiện trong phim So close ? Không , đây là một phát_minh mới của nhà_khoa_học Canada_Vincent_Tao .
-Vincent , kỹ_sư tại Đại_học York ở Toronto , đặt tên cho công_cụ lập bản_đồ và theo_dõi của mình là SAME ( see anywhere , map anywhere ) . SAME có_thể tạo ra những hình_ảnh địa_lý sắc nét đến mức có_thể đọc được cả nhãn_hiệu một chiếc xe_hơi đậu trên đường_phố .
-Vincent cho_biết SAME hoạt_động bằng cách nhập các ảnh chụp Trái_đất từ vệ_tinh rồi kết_hợp chúng với các bộ cảm_biến từ xa được sử_dụng để giám_sát giao_thông và thời_tiết . Sau đó , thông_tin được định_dạng lại trên một website có hướng_dẫn mục tìm_kiếm để người dùng có_thể xem những hình_ảnh cận_cảnh của mặt_đất với thời_gian trễ rất ít hoặc hầu_như bằng_không .
-“ Đây là công_nghệ truyền phát tức_thời trong thời_gian_thực ” - Vincent giải_thích . “ Nó giống như bản_đồ trực_tuyến MapQuest hoặc hệ_thống dẫn đường trên xe_hơi nhưng là 3D ” . Theo ông , công_nghệ mới này có rất nhiều ứng_dụng trong lĩnh_vực quốc_phòng , cấp_cứu và cả giám_sát môi_trường . Vincent khẳng_định SAME sẽ trở_nên phổ_biến chỉ trong năm tới .
-MINH_PHI ( Theo CNET )

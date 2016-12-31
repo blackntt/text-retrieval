@@ -1,8 +1,0 @@
-﻿ Kiểm_tra hệ_thống với tiện_ích CPU - Z 1.35
-CPU - Z 1.35 là một tiện_ích miễn_phí cho_phép xem thông_tin về một_số thiết_bị phần_cứng như chip ( CPU ) , Main , Ram … trên máy đang sử_dụng , đặc_biệt thông_tin rất chi_tiết về chip .
-Giao_diện chương_trình được thiết_kế đơn_giản , mỗi mục chia làm các Tag thuận_tiện cho việc tra_cứu thông_tin . Bạn có_thể tra_cứu thông_tin một_cách rất rõ_ràng và rành_mạch .
-Với CPU chương_trình đặc_biệt phân_tích rất rõ từ dòng Vi_xử_lý , tốc_độ , socket , model , tên chip , tên code , công_nghệ sản_xuất … Đặc_biệt chương_trình còn có đồng_hồ đo số Vol ( hiệu_điện_thế ) cấp cho CPU , tốc_độ xử_lý , bus thực của hệ_thống tại thời_điểm hiện_tại .
-Ngoài_ra chương_trình còn cung_cấp cho bạn Hãng , Model và ngày sản_xuất thiết_bị phần_cứng đó , giúp bạn có_thể kiểm_tra được thiết_bị trên máy_tính của mình có phải là hàng chính hãng hay không .
-Chương_trình hoàn_toàn miễn_phí , nhỏ gọn ( chỉ với 0,98 Mb ) và chạy ngay mà không cần cài_đặt , tương_thích với hệ_điều_hành Windows : 98/ME/2000/XP/2003 .
-Các bạn có_thể tải bản cài_đặt của chương_trình tại địa_chỉ :
-http : / / www.cpuid.com/download/cpu-z-135.zip Quốc_Trung

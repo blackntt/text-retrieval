@@ -1,3 +1,0 @@
-﻿ NASA phát_triển phần_mềm " đọc được suy_nghĩ "
-Trong thử_nghiệm ban_đầu , chương_trình có_thể nhận_biết sáu chữ và 10 số chính_xác đến 92% khi chúng được suy_nghĩ thầm_lặng . Các chữ đó là stop ( ngưng ) , go ( đi ) , left ( trái ) , right ( phải ) , alpha và omega . Bằng cách ghi mã kỹ_thuật_số cho từng mẫu_tự và sử_dụng các thuật_toán , nhóm nghiên_cứu có_thể lướt trang_web mà không cần đụng vào bàn_phím . Trong bước thử_nghiệm sắp tới , nhóm nghiên_cứu sẽ thử ra_lệnh ( không phát thành tiếng ) cho một robot giống như các robot đang thám_hiểm sao Hỏa .
-N . T . ĐA ( Theo AFP , ABC , Chinadaily )

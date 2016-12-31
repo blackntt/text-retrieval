@@ -1,4 +1,0 @@
-﻿ Quản_lý hệ_thống cấp_nước qua mạng
-( NLĐ ) - Tổng_Công ty Cấp_nước Sài_Gòn ( SAWACO ) vừa triển_khai chương_trình quản_lý mạng_lưới cấp_nước bằng hệ_thống thông_tin địa_lý trên mạng máy_tính ( SAWAGIS ) ở Chi_nhánh Cấp_nước Nhà_Bè .
-Đây là chương_trình do Trung_tâm Công_nghệ Thông_tin địa_lý ( DITAGIS ) thực_hiện , giúp SAWACO cập_nhật đầy_đủ các dữ_liệu liên_quan đến hệ_thống cấp_nước trên địa_bàn TP . Theo đó , chỉ cần nhấp “ chuột ” , hệ_thống mạng máy_tính sẽ cung_cấp các thông_tin liên_quan đến các công_trình cấp_nước như hệ_thống đường_ống , số hộ dân gắn đồng_hồ nước ... SAWACO cho_biết trong thời_gian tới sẽ triển_khai chương_trình SAWAGIS ở tất_cả các chi_nhánh cấp_nước .
-Tr.Thanh

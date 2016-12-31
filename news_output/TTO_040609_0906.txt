@@ -1,4 +1,0 @@
-﻿ Nhập lậu 200 triệu USD kim_cương mỗi năm
-Hiện thuế nhập_khẩu kim_cương là 1% , cộng với 10% thuế_giá_trị_gia_tăng ( VAT ) trên hàng nhập , nhưng khi bán trong nước lại phải nộp thêm 10% trên lãi_gộp ( tức nộp thuế theo phương_pháp trực_tiếp nên không được khấu_trừ VAT đầu_vào ) khiến giá kim_cương nhập chính_thức bị đẩy lên rất cao .
-Theo các doanh_nghiệp kinh_doanh nữ_trang , ước_tính mỗi năm VN nhập_khẩu khoảng 200 triệu USD kim_cương nhưng tất_cả đều nhập lậu , nếu tính thuế nhập_khẩu là 1% Nhà_nước đã bị thất_thu 2 triệu USD thuế nhập_khẩu .
-T.TU .

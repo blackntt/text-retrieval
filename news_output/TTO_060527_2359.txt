@@ -1,5 +1,0 @@
-﻿ Cuộc_thi “ Sôi_động cùng Eurowindow V-League 2006 ” : Thép_Miền_Nam . CSG có thắng trên sân Vinh ?
-Trong đó , V là mã cuộc_thi , X là kết_quả trận đấu , X= 1 đội chủ nhà thắng , X= 2 hòa , X= 3 đội khách thắng , Y là số người dự_đoán đúng kết_quả trận đấu . Thời_gian kết_thúc tham_gia dự_đoán là phút 80 của trận đấu . VD : Bạn chọn TMN.CSG thắng và có 38.045 người dự_đoán đúng thì soạn tin nhắn : V 3 38045 gửi đến 19001733 .
-Cách 2 : Gọi điện đến số 19001733 và làm theo hướng_dẫn để tham_gia .
-Giải_thưởng : 1 giải nhất 3 triệu đồng , 1 giải nhì 2 triệu đồng , 2 giải ba 1 triệu đồng / giải .
-BTC

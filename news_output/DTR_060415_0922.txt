@@ -1,7 +1,0 @@
-﻿ ICANN cân_nhắc phê_chuẩn tên_miền . tel
-Để giúp người dùng Internet quản_lý thông_tin cá_nhân dễ_dàng , như số điện_thoại , địa_chỉ e - mail , tin nhắn IM , tổ_chức quản_lý tên_miền quốc_tế đang cân_nhắc đến việc phát_hành domain “ . tel ” trong năm nay do công_ty Telnic ( Anh ) đề_xuất .
-Người dùng có_thể sử_dụng website “ . tel ” để cung_cấp thông_tin liên_lạc mới nhất và thậm_chí còn cho_phép bạn_bè gọi điện hoặc nhắn_tin trực_tiếp từ site đó . Các doanh_nghiệp có_thể sử_dụng site có tên_miền này để xác_định vị_trí của người tiêu_dùng và tự_động hướng cuộc_gọi của khách_hàng tới trung_tâm điều_hành gần đó .
-ICANN cũng cho_biết tên_miền “ . tel ” sẽ là một nơi để các dịch_vụ tìm người trên Internet cập_nhật thông_tin liên_lạc mới nhất của các cá_nhân . Và các ứng_dụng thoại , thiết_bị được cài_đặt trên website cũng cung_cấp thông_tin liên_lạc cá_nhân .
-ICANN dự_định sẽ xem_xét đề_xuất này trong ngày 18/4 tới và sẽ đưa ra quyết_định chính_thức trong tháng tới .
-Trong vài năm gần đây , ICANN đã phê_chuẩn tên_miền “ . eu ” cho Liên_Minh châu Âu EU , tên_miền “ . job ” cho các website về nhân_sự , “ . travel ” cho ngành du_lịch , “ . mobi ” cho các dịch_vụ di_động , và “ . cat ” cho site về ngôn_ngữ Catalan , nâng số tên_miền trên toàn_cầu lên đến 264 .
-N.Hương Theo AP

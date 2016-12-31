@@ -1,9 +1,0 @@
-﻿ Trung_Quốc chế_tạo robot gia_đình
-Hong_Bingrong , giáo_sư phụ_trách chương_trình nói rằng nhóm của ông đang phát_triển một robot giống người được thiết_kế dành riêng cho gia_đình
-Robot di_chuyển bằng bánh_xe cao 0,5 m này có_thể nói , hút bụi và bảo_vệ ngôi nhà của chủ . Nó có_thể lau sạch một căn phòng diện_tích 30m 2 chỉ trong 20 phút bằng cách sử_dụng máy_hút_bụi được gắn trên cơ_thể .
-Với tần_số siêu_âm và các cảm_biến khác gắn khắp cơ_thể , robot này có_thể thận_trọng tránh_né các chướng_ngại_vật và sẽ không va vào người hay các đồ_đạc trong phòng .
-Robot này cũng có_thể phân_biệt người này với người khác bằng cách sử_dụng hệ_thống nhận_dạng giọng nói và hình_ảnh . Nó sẽ thân_thiện khi gặp một người quen và sẽ la lên báo_động khi phát_hiện bất_cứ người nào mà nó không nhận_dạng được .
-Robot này cũng có_thể báo cho chủ_nhân của mình nếu xảy_ra các trường_hợp khẩn_cấp trong nhà . “ Về cơ_bản , trí thông_minh của nó cũng_như một đứa trẻ 7-8 tuổi ” , Hong nói . Nó được lập_trình để biết vị_trí sạc pin cho chính mình khi pin của nó xuống thấp .
-Giá của robot này khoảng từ 1.200-3.600 USD tùy_thuộc vào các chức_năng khác_nhau .
-Nhóm của Hong đã từng chế_tạo các cầu_thủ robot được đánh_giá là khá thành_công và đã giành nhiều giải_thưởng cao tại Robot_World_Cup .
-KIM_NHUNG ( Theo Xinhua )

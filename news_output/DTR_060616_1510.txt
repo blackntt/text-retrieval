@@ -1,8 +1,0 @@
-﻿ Virus không muốn “ nấp ” trong e - mail nữa
-Hôm_qua , hãng bảo_mật Sophos ( Anh ) cho_biết , trong 6 tháng đầu năm nay , tỷ_lệ e - mail chứa phần_mềm ma đã giảm đáng_kể , chỉ có 1/91 e-mail có virus hay các loại phần_mềm độc_hại ẩn_chứa , ít hơn rất nhiều so với tỷ_lệ 1/35 của năm 2005 .
-Graham_Cluley , cố_vấn công_nghệ cao_cấp của Sophos , cho_biết : “ E-mail bây_giờ an_toàn hơn rất nhiều . Nhưng , những kẻ phá_hoại sẽ dùng các thủ_thuật khác để qua_mặt các phần_mềm dò virus . Chúng đang viết các loại phần_mềm độc_hại khác để lừa người dùng ” .
-Theo Sophos , những kẻ viết phần_mềm ma ( malware ) đang tập_trung phát_triển các chương_trình Trojan , một loại phần_mềm nguy_hiểm chứa những các mã dò bàn_phím ( keylogger ) . Keylogger gửi tên đăng_nhập và mật_khẩu của người dùng cho tin_tặc để chúng chiếm quyền kiểm_soát máy_tính , ăn_trộm số thẻ_tín_dụng và các thông_tin cá_nhân khác .
-Trojan , không giống như virus , không_thể tự nhân_bản . Trong nửa đầu năm nay , Sophos đã ghi_nhận 81% phần_mềm xấu phát_tán trên Internet với mục_đích tài_chính .
-Ông Cluley cho_biết , tội_phạm mạng đã rất tinh_vi . Khi chúng phát_tán e - mail ẩn_chứa virus hoặc Trojan thì các công_ty diệt virus như Sophos nhận được báo_cáo và nhanh_chóng cập nhập bản diệt virus . Vì_vậy , những kẻ viết phần_mềm ma chỉ gửi rất ít e - mail xấu và hướng tới những đối_tượng tiềm_năng .
-Mặc_dù vậy , theo Cluley , các mã malware cũ vẫn phát_tán dễ_dàng trên Internet vì máy_tính người dùng không cài phần_mềm diệt virus để đối_phó với những kẻ chuyên đi phá_hoại .
-Nguyên_Hương_Theo_Tech World

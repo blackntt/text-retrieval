@@ -1,5 +1,0 @@
-﻿ Microsoft và FPT thỏa_thuận hợp_tác
-Theo thỏa_thuận , Microsoft và FPT sẽ hợp_tác trong 6 vấn_đề gồm : mảng dự_án chuyển_đổi và tái phát_triển ứng_dụng từ Lotus_Notes sang công_nghệ Microsoft trong khu_vực Đông_Nam Á ; các giải_pháp cho chính_phủ và các bộ , ngành tại Việt_Nam ; mô_hình tối_ưu triển_khai cơ_sở_hạ_tầng trên nền công_nghệ Microsoft trong khu_vực .
-Mảng dự_án phát_triển phần_mềm ứng_dụng cho công_nghệ_thông_tin di_động và thiết_bị nhúng ; hỗ_trợ triển_khai chương_trình giảng_dạy cho Trường ĐH tư_thục FPT và các hoạt_động đào_tạo , thi chứng_chỉ Microsoft tại Việt_Nam ; triển_khai các giải_pháp của Microsoft cho mảng doanh_nghiệp tại Việt_Nam và trong khu_vực .
-Sự hợp_tác nói trên giữa Microsoft và FPT đánh_dấu bước quan_trọng trong hợp_tác toàn_diện giữa hai bên nhằm phát_triển ứng_dụng công_nghệ_thông_tin tại khu_vực châu Á - Thái_Bình_Dương .
-KHIẾT_HƯNG

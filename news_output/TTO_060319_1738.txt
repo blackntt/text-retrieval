@@ -1,8 +1,0 @@
-﻿ Chạy_Windows XP trên máy MAC
-13.854 USD chính là tổng_số tiền thưởng dành cho nỗ_lực xoay sở chạy Windows XP trên máy Mac . Danh_sách các cá_nhân và tiền thưởng đang ngày_một dài thêm .
-Anh Colin_Nederkoom , một người môi_giới vận_tải tại Houston , muốn nâng cao hiệu_quả công_việc của mình nên đã tổ_chức giải_thưởng trên . Anh muốn nâng cao hiệu_suất và tính nhất_thống trong công_việc của mình , thay_vì phải dùng chiếc máy laptop Apple cho một_số công_việc và Máy_tính chạy Windows cho một_số công_việc khác .
-Giải_thưởng đã nhanh_chóng đến tai hai hacker là Jesus_Lopez , 33 tuổi và Eric_Wasserman , 41 tuổi . Lopez đã biết trước và bắt_đầu tiến_hành nghiên_cứu để phát_triển một phần_mềm trên hệ phần_cứng của máy Mac chip Intel , cho_phép chạy các ứng_dụng của Windows , ngay cả hệ_điều_hành Windows trên nền máy Mac . Wasserman đã đăng_ký sau đó và tiến_hành hỗ_trợ Lopez trong công_việc .
-Sau 2 ngày , bộ phần_mềm mã nguồn mở được thử_nghiệm thành_công . Khi được hỏi về lý_do khi viết bộ phần_mềm này , Lopez cho_biết , đơn_giản ông chỉ cảm_thấy rằng , cộng_đồng khoa_học và công_nghệ sẽ được lợi_ích rất nhiều từ việc_làm của mình .
-Nếu bạn là người dùng máy Mac trên nền chip Intel , có_thể vào website http : / / onmac.net / để biết thêm chi_tiết và download chương_trình về thử_nghiệm .
-Việc thử_nghiệm thành_công Windows XP trên máy Mac là một sự_kiện ấn_tượng dành cho Apple . Điều này nâng cao hiệu_quả và mở_rộng môi_trường làm_việc cho những khách_hàng của máy Mac . Thế_nhưng lạ một điều là Apple lại có_vẻ như_không ủng_hộ sự_việc này .
-QUANG_HUÂN

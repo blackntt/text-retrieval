@@ -1,9 +1,0 @@
-﻿ Cẩm_nang tuyển_sinh trực_tuyến của Tuổi_Trẻ_Online
-Bằng cách chọn các thông_số về nhóm ngành , hệ đào_tạo , khối thi , thành_phố ... thí_sinh sẽ nhận được kết_quả về tất_cả các ngành học phù_hợp với tiêu_chí đưa ra tại toàn_bộ các trường ĐH , CĐ ở VN .
-Thí_sinh có_thể click chọn vào các ngành học này để tham_khảo thông_tin chi_tiết về mã ngành , yêu_cầu tuyển_sinh , chỉ_tiêu tuyển_sinh , mục_tiêu đào_tạo của ngành , định_hướng nghề_nghiệp sau khi ra trường ...
-Chẳng_hạn : một thí_sinh có nguyện_vọng thi vào ngành công_nghệ_sinh_học nhưng không biết những khoa nào , trường ĐH nào có đào_tạo ngành này , điểm_chuẩn năm trước của ngành này ra_sao , ngành này thi khối gì , ngành này học những gì , học ngành này ra làm_gì ... sẽ có_thể sử_dụng phần_mềm này để tìm_kiếm và lựa_chọn nơi học thích_hợp nhất cho mình .
-Đặc_biệt , phần_mềm có chức_năng cho_phép người dùng so_sánh các ngành với nhau . Cụ_thể , thí_sinh có_thể chọn một_số ngành học tại một_số trường mà mình quan_tâm rồi bấm nút " so_sánh " . Chương_trình sẽ lập bảng so_sánh chi_tiết các ngành đó để thí_sinh có_thể tham_khảo cho việc chọn_lựa của mình .
-Có_thể nói , phần_mềm " chọn trường " của Tuổi_Trẻ_Online thật_sự là một cuốn " cẩm_nang tuyển_sinh online " do có cơ_sở_dữ_liệu phong_phú hơn rất nhiều so với nội_dung của cẩm_nang tuyển_sinh do Bộ GD - ĐT phát_hành .
-Sắp tới , Tuổi_Trẻ_Online sẽ tiếp_tục cập_nhật vào phần_mềm này danh_sách các trường trung_học_chuyên_nghiệp và các thông_tin mô_tả chi_tiết liên_quan đến đội_ngũ giảng_viên , mức sinh_hoạt_phí ... của mỗi trường .
-Bạn_đọc quan_tâm có_thể truy_cập phần_mềm này tại địa_chỉ : www.tuoitre.com.vn/tuyensinh .
-HOÀNG_HỒNG

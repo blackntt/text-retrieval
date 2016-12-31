@@ -1,7 +1,0 @@
-﻿ Triển_khai công_nghệ bảo_mật trên hệ_thống Cisco
-Chương_trình sẽ giới_thiệu các loại tường lửa , cấu_hình và cách_thức hoạt_động của Cisco PIX Firewall , giới_thiệu về dòng sản_phẩm VPN Concentrator 3000 và giới_thiệu tính_năng bảo_mật trên các dòng sản_phẩm tương_đương .
-Thêm vào đó , người tham_dự còn được hướng_dẫn các phương_thức để bảo_mật hệ_thống mạng Cisco .
-Trọng_tâm chương_trình này nhằm cung_cấp cho các bạn trẻ yêu_thích CNTT tầm nhìn cao hơn về các thiết_bị chuyên_dùng trong công_nghệ mạng , chuyên_ngành mạng và nâng cao trình_độ cũng_như khả_năng ứng_dụng công_nghệ_cao vào xu_hướng nghề_nghiệp trong tương_lai .
-Bên_cạnh đó các bạn trẻ còn có cơ_hội được gặp_gỡ , giao_lưu với các chuyên_gia về thiết_kế , thực_thi hệ_thống mạng ngoài thực_tế , những kỹ_sư về mạng sẽ cung_cấp cho học_viên những thông_tin thú_vị về “ người thật việc thật ” trong quá_trình thực_thi hệ_thống , những khó_khăn cũng_như những cơ_hội nghề_nghiệp trong ngành .
-Đăng_ký và nhận thư mời tham_dự tại Trung_Tâm_Đào_Tạo_Công_Nghệ_Thông_Tin EIS - Vietnam_Knowledge_Center , 123 Trương_Định , Quận 3 , TP.HCM ĐT : 9.322.115 - 9.321.042
-H . N .

@@ -1,8 +1,0 @@
-﻿ Đà_Nẵng công_bố điểm thi tốt_nghiệp trên mạng
-Bắt_đầu_từ ngày 13/6 , tất_cả các thông_tin về điểm thi tốt_nghiệp PTTH và tốt_nghiệp bổ_túc PTTH của Đà_Nẵng đã chính_thức được công_bố trên website http : / / www.danangpt.vnn.vn/tn2006 / .
-Bạn có_thể tra_cứu thông_tin theo 3 phương_thức sau :
-Phương_thức 1 : Tra_cứu thông_tin thí_sinh dựa vào hội_đồng thi và số_báo_danh . Nhập cả 2 thông_tin hội_đồng thi và số_báo_danh - Bấm nút “ Xem ” để nhận kết_quả của thí_sinh có thông_tin trên . Lưu_ý : Chỉ xem được thông_tin của một thí_sinh .
-Phương_thức 2 : Xem kết_quả của 1 phòng thi . Nhập cả hai thông_tin hội_đồng thi và số phòng thi - Bấm nút “ Xem ” để nhận kết_quả chung của 1 phòng thi . Lưu_ý : chỉ xem được thông_tin một phòng thi .
-Phương_thức 3 : Tra_cứu tổng_hợp . Nhập ít_nhất một thông_tin để xem kết_quả . Trong trường_hợp có quá nhiều kết_quả chứa thông_tin mà bạn nhập thì chương_trình tìm không hiển_thị kết_quả và bạn nên nhập thêm các thông_tin khác để nhận được kết_quả tối_ưu hơn .
-Số_báo_danh là số mà hội_đồng cung_cấp cho từng thí_sinh thuộc hội_đồng đó và cần phải nhập chính_xác . Họ tên thí_sinh là tên của bạn . Khi nhập có_thể nhập đầy_đủ hoặc một phần họ tên thí_sinh , ví_dụ bạn có tên thí_sinh là Nguyễn_Văn A , bạn có_thể nhập đầy_đủ họ tên hoặc nhập một phần họ - Nguyễn hoặc tên A - hoặc Nguyễn_Văn - hoặc Văn A .
-Đối_với mục “ Trường_học ” , cần chọn trường_học của thí_sinh trong hộp hiển_thị danh_sách các trường . Bạn nên chọn kèm theo với số_báo_danh hoặc họ tên . Với mục “ Ngày_tháng năm sinh ” , cần chọn ngày_tháng năm sinh trong các hộp thông_tin về ngày , tháng , năm . Với mục “ Hội_đồng thi ” có nghĩa_là địa_điểm dự thi . Theo Q . Đàn_Tuổi_Trẻ

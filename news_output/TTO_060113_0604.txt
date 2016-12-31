@@ -1,6 +1,0 @@
-﻿ Tuyến xe_buýt : Chợ_Lớn - Dương_Bá_Trạc ; Linh_Trung - Suối_Tiên
-Lộ_trình : bến_xe Chợ_Lớn - Chu_Văn_An - Tháp_Mười - Phú_Hữu - Hùng_Vương - Nguyễn_Tri_Phương - cầu Chánh_Hưng - Phạm_Hùng - Nguyễn_Văn_Linh - đường số 9 A - cầu Kênh_Xáng - Âu_Dương_Lân - Phạm_Thế_Hiển - Dương_Bá_Trạc .
-Sài_Gòn - Khu_chế_xuất Linh_Trung - khu du_lịch Suối_Tiên ( mã_số tuyến : 19 )
-Thời_gian hoạt_động từ 5g-20g với 222 chuyến xe / ngày , cự_ly 23,9 km và thời_gian hành_trình là 1 giờ 10 . Giờ cao_điểm 7 phút/chuyến , giờ thấp_điểm 20 phút/chuyến . Giá vé 2.000 đồng/hành khách đi dưới 1/2 hành_trình và 3.000 đồng/hành khách đi trên 1/2 hành_trình .
-Lộ_trình : công_viên Quách_Thị_Trang - Hàm_Nghi - Tôn_Đức_Thắng - Hai_Bà_Trưng - Lê_Duẩn - Đinh_Tiên_Hoàng - Nguyễn_Thị_Minh_Khai - Xô_Viết_Nghệ_Tĩnh - quốc_lộ 13 - quốc_lộ 1 A - Khu_chế_xuất Linh_Trung - quốc_lộ 1A - quốc_lộ 52 - khu du_lịch Suối_Tiên .
-N . A .

@@ -1,6 +1,0 @@
-﻿ Trình_diễn dữ_liệu PDF không cần Adobe_Reader
-Tuy_nhiên để có_thể đọc được những văn_bản như_thế đòi_hỏi máy_tính phải được cài_đặt trình Adobe_Reader của Adobe . Điều đáng nói ở đây không phải là Adobe_Reader hiển_thị không tốt hay thiếu công_cụ hỗ_trợ mà chính là lợi_ích cho người tiêu_dùng .
-Mặc_dù được cung_cấp miễn_phí nhưng với dung_lượng lên đến 19 MB cộng với việc chiếm quá nhiều nguồn tài_nguyên hệ_thống khi hoạt_động sẽ khiến bạn phải suy_nghĩ . Tuy_nhiên bạn cũng không nên quá lo_lắng vì hiện_nay có rất nhiều chương_trình thay_thế và Foxit PDF Reader rất đáng để bạn quan_tâm .
-Kế_thừa những ưu_điểm và khắc_phục nhược_điểm trên của Adobe_Reader , Foxit PDF Reader mang đến nhiều lợi_ích cho người sử_dụng . Đầu_tiên là chương_trình được cung_cấp miễn_phí và với dung_lượng rất vừa_phải 995 KB lại không chiếm tài_nguyên khi hoạt_động . Kế đến bạn cũng không cần phải cài_đặt chương_trình vào máy_tính nên thuận_tiện cho việc di_chuyển và sử_dụng . Về khả_năng trình_diễn nội_dung thì không có sự khác_biệt gì giữa Adobe_Reader và Foxit PDF Reader . Giao_diện được thiết_kế đơn_giản và rất dễ dùng .
-Bạn có_thể tải miễn_phí chương_trình này tại địa_chỉ : http : / / www.foxitsoftware.com/pdf/rd _ intro.php với dung_lượng 995 KB , tương_thích tốt với các hệ_điều_hành Windows .
-GIANG_VŨ_VĂN

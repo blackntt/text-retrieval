@@ -1,4 +1,0 @@
-﻿ Tự_động_hóa thu phí giao_thông
-Với hệ_thống kiểm_soát hiện_đại , các trạm thu phí sẽ giải_phóng nhanh các phương_tiện giao_thông qua trạm , tránh bị ùn_tắc ; các trạm chống được tiêu_cực như dùng vé cũ quay_vòng xe , sử_dụng mệnh_giá vé phí thấp so với thực_tế xe . Do sử_dụng công_nghệ trên , trạm thu phí giao_thông An_Sương - An_Lạc và xa_lộ Hà_Nội đã tránh được thất_thu phí .
-Theo kế_hoạch , đến tháng 4-2005 trạm thu phí xa_lộ Hà_Nội tiếp_tục đưa công_nghệ thu phí tự_động vào thử_nghiệm trên hai làn xe .
-N . ẨN

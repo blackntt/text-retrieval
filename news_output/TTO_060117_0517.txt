@@ -1,6 +1,0 @@
-﻿ Tuyến xe_buýt : BX miền Đông - Hóc_Môn , Bến_xe Q . 8 - Bình_Trị_Đông
-Lộ_trình : bến_xe miền Đông - Đinh_Bộ_Lĩnh - Bạch_Đằng - Lê_Quang_Định - Nguyễn_Văn_Nghi - Quang_Trung - tỉnh_lộ 15 - quốc_lộ 1A - quốc_lộ 22 - Nguyễn_Anh_Thủ ( hương_lộ 80 cũ ) - Tô_Ký - Lý_Thường_Kiệt - quốc_lộ 22 - hương_lộ 60B - bến_xe 19-5 .
-Bến_xe quận 8 - Bình_Trị_Đông
-Thời_gian hoạt_động từ 5g-19g với 144 chuyến xe / ngày , cự_ly 13,7 km và thời_gian hành_trình là 50 phút . Giờ cao_điểm 10 phút/chuyến , giờ thấp_điểm 15 phút/chuyến . Giá vé 2.000 đồng/hành khách đi dưới 1/2 hành_trình và 3.000 đồng/hành khách đi trên 1/2 hành_trình .
-Lộ_trình : bến_xe quận 8 - liên tỉnh 5 - Tùng_Thiện_Vương - Vạn_Kiếp - Hải_Thượng_Lãn_Ông - Lê_Quang_Sung - Phạm_Đình_Hổ - Hậu_Giang - Kinh_Dương_Vương - Tên_Lửa - đường số 1 - đường số 31 - đường số 22 - đường số 19 - Tên_Lửa - đường số 7 - đường vào khu dân_cư Tân_Tạo ( Bình_Chánh ) - tỉnh_lộ 10 Mã_Lò - hương_lộ 2 - bến Bình_Trị_Đông .
-N . A .

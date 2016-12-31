@@ -1,5 +1,0 @@
-﻿ Tiếng_Việt cho máy PDA dùng Windows_Moblie 2005
-Sản_phẩm này có_thể xem là thuần Việt với 100% công_sức của người Việt , không như bản WM2003 chỉ đơn_giản là biên_dịch lại từ tiếng Nga . Kỹ_thuật của WM5 có rất nhiều điểm khác WM2003 và khá phức_tạp trong các vấn_đề bảo_mật ...
-Giao_diện MF VietLip - WM5 khá đẹp , từ_ngữ dịch chuẩn_xác và dễ hiểu , chạy được trên nhiều dòng máy khác_nhau . Có_thể chọn tiếng Việt hoặc tiếng Anh tùy nhu_cầu sử_dụng . Người dùng có_thể tải về cài_đặt sau đó đăng_ký KEY để sử_dụng miễn_phí tại http : / / www.mobifuns.net .
-Cách cài_đặt khá đơn_giản , tương_tự như cài_đặt các ứng_dụng cho WM5 . Sau khi tải phần_mềm về máy , bạn chỉ cần dùng file Explorer trỏ đến thư_mục chứa file , mở file cài_đặt và làm theo các hướng_dẫn cho_đến khi install xong . Trước khi chạy , người dùng gửi thông_tin số đăng_ký của máy và chờ cung_cấp KEY miễn_phí , khi có KEY bạn có_thể chuyển sang giao_diện tiếng Việt .
-H . N .

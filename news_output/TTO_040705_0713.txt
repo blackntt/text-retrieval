@@ -1,7 +1,0 @@
-﻿ Thí_sinh đặc_biệt
-Thí_sinh đặc_biệt này là Phan_Thái_Trung , hiện đang học cao_học về công_nghệ_thông_tin tại Pháp .
-Các công_cụ mà Trung đã thực_hiện là bản mô_phỏng điện_thoại Samsung X600 cho JaUmi 2.0 , vì JaUmi 2.0 chỉ hỗ_trợ Samsung X100 và bộ game API 2.0 cho MIDP 1.0 . Trung cho_biết với hai công_cụ mới được bổ_sung nêu trên , thí_sinh sẽ không phải viết lại các lớp hoạt_hình , các hàm quay ... mất nhiều thời_gian . “ Hãy dành thời_gian nhiều hơn cho ý_tưởng mới ” là thông_điệp mà Trung muốn chia_sẻ với các bạn .
-Trao_đổi với Tuổi_Trẻ , Thái_Trung tiết_lộ hiện đang cố_gắng hoàn_tất hai sản_phẩm là Dũng_sĩ tre vàng ( thể_loại dàn trận ) và Người cảnh_sát vui_tính ( thể_loại hành_động ) để nộp trước ngày 10-7 .
-Bạn_đọc có_thể tải về hai công_cụ mới : Samsung X600 cho JaUmi 2.0 và Game API 2.0 cho MIDP 1.0 .
-Cách cài_đặt : Bạn chỉ cần giải nén vào thư_mục / SAMSUNG_ WTK20/wtklib/devices là được .
-TIỀN_GIANG

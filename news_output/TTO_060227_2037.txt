@@ -1,5 +1,0 @@
-﻿ Microsoft và Linux sẽ thống_trị thị_trường ĐTDĐ vào năm 2010
-Báo_cáo chỉ rõ ra rằng , đến năm 2010 , thị_trường của Symbian sẽ giảm xuống còn khoảng 22% , trong khi Windows sẽ tiến lên mức 28% và Linux sẽ đạt mức 26% thị_phần .
-Những thay_đổi chủ_yếu là do sự phát_triển của hệ_thống di_động 3G sẽ cho_phép thực_thi các ứng_dụng cao_cấp hơn trên điện_thoại_di_động . Trong tương_lai , loài_người không_chỉ bằng_lòng với chức_năng nhắn_tin và alo trên ĐTDĐ mà_còn là một cầu_nối đến mọi kênh thông_tin , giải_trí , mọi nhu_cầu cuộc_sống đều có_thể đạt được thông_qua ĐTDĐ . Đó chính là đất sống của Windows và Linux .
-Thế_nhưng , trong tuần_lễ 3GMS tại Barcelona vừa_qua , Symbian công_bố họ xuất_xưởng 33 triiệu thiết_bị Symbian trong năm 2005 . Microsoft chỉ có 5 triệu trong cùng thời_gian . Symbian không hề đứng yên , và hệ_điều_hành của họ vẫn đang tiến_bộ từng ngày .
-THÙY_TRÂN ( Theo ZDNets )

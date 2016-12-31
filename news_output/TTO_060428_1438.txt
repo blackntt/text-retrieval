@@ -1,6 +1,0 @@
-﻿ Cấm phân_biệt đối_xử trong kết_nối mạng viễn_thông
-Theo quy_định , khi tổ_chức triển_khai thực_hiện kết_nối giữa các mạng VT công_cộng , các doanh_nghiệp có trách_nhiệm đảm_bảo dung_lượng kết_nối theo kế_hoạch đã thỏa_thuận trong hợp_đồng và đảm_bảo không phân_biệt đối_xử giữa kết_nối nội_bộ của doanh_nghiệp và kết_nối liên mạng với doanh_nghiệp khác .
-Các doanh_nghiệp VT có trách_nhiệm qui_hoạch và xây_dựng mạng VT có dự_phòng đảm_bảo đáp_ứng đủ dung_lượng kết_nối các mạng VT công_cộng .
-Trong trường_hợp cần bổ_sung dung_lượng kết_nối đột_xuất để chống nghẽn , nếu tổng_đài kết_nối còn khả_năng , doanh_nghiệp cung_cấp kết_nối có trách_nhiệm mở_rộng ngay dung_lượng kết_nối trong thời_gian tối_đa 10 ngày làm_việc kể từ khi nhận được văn_bản yêu_cầu .
-Trong trường_hợp doanh_nghiệp cung_cấp kết_nối không cung_cấp kịp_thời dung_lượng kết_nối theo tháng trong hợp_đồng , doanh_nghiệp yêu_cầu kết_nối có quyền phạt do vi_phạm hợp_đồng đối_với doanh_nghiệp cung_cấp kết_nối .
-KHIẾT_HƯNG
