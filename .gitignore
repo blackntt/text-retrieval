@@ -2,5 +2,7 @@
 bin/*
 tokenizer.log
 tokenizer.log.1
+tokenizer.log.1.lck
 tokenizer.log.lck
-project/*
+.project
+.classpath
