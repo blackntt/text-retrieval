@@ -27,6 +27,16 @@ import javax.swing.JScrollPane;
 import javax.swing.event.ListSelectionListener;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.JTextPane;
+import javax.swing.JPanel;
+import java.awt.FlowLayout;
+import java.awt.GridLayout;
+import javax.swing.BoxLayout;
+import java.awt.GridBagLayout;
+import java.awt.GridBagConstraints;
+import java.awt.Insets;
+import java.awt.Rectangle;
+
+import javax.swing.JSplitPane;
 
 public class windows1 {
 
@@ -62,19 +72,43 @@ public class windows1 {
 	private void initialize() {
 		frmTextRetrieval = new JFrame();
 		frmTextRetrieval.setTitle("Text Retrieval");
-		frmTextRetrieval.setBounds(100, 100, 503, 347);
+		frmTextRetrieval.setBounds(100, 100, 885, 559);
 		frmTextRetrieval.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
-		JLabel lblNewLabel = new JLabel("Status:");
-		lblNewLabel.setBounds(177, 49, 46, 14);
-		frmTextRetrieval.getContentPane().add(lblNewLabel);
-		
-		JLabel lblNewLabel_Status = new JLabel(".....");
-		lblNewLabel_Status.setBounds(222, 49, 231, 14);
-		frmTextRetrieval.getContentPane().add(lblNewLabel_Status);
+		JPanel panel = new JPanel();
+		panel.setBounds(10, 11, 849, 39);
+		frmTextRetrieval.getContentPane().add(panel);
+		panel.setLayout(new GridLayout(1, 0, 0, 0));
 		
 		JButton btnNewButton_1 = new JButton("Count Freq for Docs");
-		btnNewButton_1.setBounds(10, 11, 161, 23);
+		panel.add(btnNewButton_1);
+		
+		JButton btnCountFreqAll = new JButton("Count Freq All Docs");
+		panel.add(btnCountFreqAll);
+		
+		JLabel lblNewLabel_Status = new JLabel(".....");
+		lblNewLabel_Status.setBounds(127, 62, 231, 14);
+		
+		JButton btnNewButton = new JButton("Create vector");
+		panel.add(btnNewButton);
+		btnNewButton.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent arg0) {
+				try {
+					TextProcessor.createVector();
+				} catch (InterruptedException e) {
+					e.printStackTrace();
+				}
+				lblNewLabel_Status.setText("Create vector>>>>>>>>>>>>>Done");
+			}
+		});
+		btnCountFreqAll.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent arg0) {
+				
+				TextProcessor.countFreqInAllDocs(0.02);
+				
+				lblNewLabel_Status.setText("countFreqInAllDocs..................Done");
+			}
+		});
 		btnNewButton_1.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				
@@ -91,48 +125,58 @@ public class windows1 {
 			}
 		});
 		frmTextRetrieval.getContentPane().setLayout(null);
-		frmTextRetrieval.getContentPane().add(btnNewButton_1);
 		
-		JButton btnCountFreqAll = new JButton("Count Freq All Docs");
-		btnCountFreqAll.addActionListener(new ActionListener() {
-			public void actionPerformed(ActionEvent arg0) {
-				
-				TextProcessor.countFreqInAllDocs(/*"news_output_key_value", "words_count.txt",*/0.02);
-				
-				lblNewLabel_Status.setText("countFreqInAllDocs..................Done");
-			}
-		});
-		btnCountFreqAll.setBounds(177, 11, 133, 23);
-		frmTextRetrieval.getContentPane().add(btnCountFreqAll);
+		JPanel panel_1 = new JPanel();
+		panel_1.setBounds(10, 53, 849, 100);
+		frmTextRetrieval.getContentPane().add(panel_1);
+		panel_1.setLayout(null);
 		
-		JButton btnNewButton = new JButton("Create vector");
-		btnNewButton.addActionListener(new ActionListener() {
-			public void actionPerformed(ActionEvent arg0) {
-				try {
-					TextProcessor.createVector();
-				} catch (InterruptedException e) {
-					e.printStackTrace();
-				}
-				lblNewLabel_Status.setText("Create vector>>>>>>>>>>>>>Done");
-			}
-		});
-		btnNewButton.setBounds(320, 11, 133, 23);
-		frmTextRetrieval.getContentPane().add(btnNewButton);
-		
-		textField.setBounds(10, 79, 161, 31);
-		frmTextRetrieval.getContentPane().add(textField);
+		JButton btnNewButton_2 = new JButton("Search");
+		btnNewButton_2.setBounds(10, 11, 107, 40);
+		panel_1.add(btnNewButton_2);
+		textField.setBounds(127, 11, 409, 40);
+		panel_1.add(textField);
+		textField.setToolTipText("Query");
 		textField.setColumns(10);
 		
-		JScrollPane scrollPane = new JScrollPane();
-		scrollPane.setBounds(10, 121, 200, 187);
-		frmTextRetrieval.getContentPane().add(scrollPane);
-						
-		JList list = new JList();
-
-		scrollPane.setViewportView(list);
-		list.setSelectionMode(ListSelectionModel.SINGLE_INTERVAL_SELECTION);
+		JLabel lblNewLabel = new JLabel("Status v1.0:");
+		lblNewLabel.setBounds(20, 62, 85, 14);
+		panel_1.add(lblNewLabel);
 		
-		JButton btnNewButton_2 = new JButton("process query");
+
+		panel_1.add(lblNewLabel_Status);
+		
+		JPanel panel_2 = new JPanel();
+		panel_2.setBounds(10, 164, 849, 345);
+		frmTextRetrieval.getContentPane().add(panel_2);
+				panel_2.setLayout(new BoxLayout(panel_2, BoxLayout.X_AXIS));
+				
+				JSplitPane splitPane = new JSplitPane();
+				panel_2.add(splitPane);
+				
+				JScrollPane scrollPane = new JScrollPane();
+				splitPane.setLeftComponent(scrollPane);
+				
+				JList list = new JList();
+				
+						scrollPane.setViewportView(list);
+						list.setSelectionMode(ListSelectionModel.SINGLE_INTERVAL_SELECTION);
+						
+						JScrollPane scrollPane_1 = new JScrollPane();
+						splitPane.setRightComponent(scrollPane_1);
+						
+						JTextPane textPane = new JTextPane();
+						scrollPane_1.setViewportView(textPane);
+				
+				list.addListSelectionListener(new ListSelectionListener() {
+					public void valueChanged(ListSelectionEvent arg0) {
+						int idx = list.getSelectedIndex();
+						if (idx != -1){
+				    	   textPane.setText(TextProcessor.getDocumentContent(list.getSelectedValue().toString()));
+				    	  }
+				          
+					}
+				});
 		btnNewButton_2.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
 				
@@ -154,28 +198,9 @@ public class windows1 {
 					list.setModel(listmodel);
 								
 				} catch (InterruptedException e) {
-					// TODO Auto-generated catch block
+	
 					e.printStackTrace();
 				}
-			}
-		});
-		btnNewButton_2.setBounds(10, 45, 161, 23);
-		frmTextRetrieval.getContentPane().add(btnNewButton_2);
-		
-		JScrollPane scrollPane_1 = new JScrollPane();
-		scrollPane_1.setBounds(222, 74, 265, 234);
-		frmTextRetrieval.getContentPane().add(scrollPane_1);
-		
-		JTextPane textPane = new JTextPane();
-		scrollPane_1.setViewportView(textPane);
-		
-		list.addListSelectionListener(new ListSelectionListener() {
-			public void valueChanged(ListSelectionEvent arg0) {
-				int idx = list.getSelectedIndex();
-				if (idx != -1){
-		    	   textPane.setText(TextProcessor.getDocumentContent(list.getSelectedValue().toString()));
-		    	  }
-		          
 			}
 		});
 		

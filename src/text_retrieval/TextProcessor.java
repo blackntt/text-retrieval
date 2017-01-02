@@ -134,72 +134,7 @@ public class TextProcessor {
 			
 			List<File> curFiles = subFiles.get(k);
 			threads[k]=new FirstStepThread(curFiles, tokenizers.get(k));
-			/*Thread thr = new Thread(new Runnable() {
-				
-				@Override
-				public void run() {					
-					// the output file have the same name with the automatic file 
-					
-					for (File aFile : curFiles) {
-						String output = outputDirPath + File.separator + aFile.getName();
-						System.out.print(aFile.getName()+"\n");
-						MUTF8FileUtility utf8util= new MUTF8FileUtility();
-						String[] paragraphs=utf8util.getLines(aFile.getAbsolutePath());				
-						List<Integer> counts = new ArrayList<Integer>();
-						List<String> words = new ArrayList<String>();
-						if(paragraphs!=null&& paragraphs.length>0){
-						for (String p : paragraphs) {
-							if(p!=null&&p.length()!=0){
-							//try{
-							String[] sentences = tokenizers[k].tokenize(p.trim());
-							//}catch(Exception e){System.out.println(p+"----------------------------");}
-							for (String s : sentences) {
-								String[] temp_words = (AccentsRemover.removeAccent(s.trim())).split(" ");
-								for(String temp_w: temp_words){
-									if((int)temp_w.charAt(0)==65279 && temp_w.length()==1)
-										temp_w = "";
-									temp_w = removeStopWord(temp_w);
-									if(temp_w.length()!=0&&temp_w!=null && !temp_w.equals("")&&!temp_w.isEmpty()){
-										int flag = 0;
-										for(int i=0;i<words.size();i++){
-											if(words.get(i).toUpperCase().equals(temp_w.toUpperCase())){
-												flag = 1;
-												counts.set(i, counts.get(i)+1);
-												break;
-											}
-										}
-										if(flag == 0){
-											words.add(temp_w);
-											counts.add(1);
-										}
-									}	
-								}
-							}
-							}
-							
-						}
-						//write <word, count> to files
-						
-						utf8util.createWriter(output);
-						for(int i=0;i<words.size();i++){
-							utf8util.write(words.get(i)+" "+counts.get(i));
-							utf8util.write("\n");
-						}
-						utf8util.closeWriter();
-						}
-						
-						
-						
-					}
-					
-				}
-			});
-			threads[k]=thr;
-			threads[k].start();*/
-			//threads[k].join();
 			threads[k].start();
-			//threads[k].join();
-			//JOptionPane.showMessageDialog(null, threads[k].getId(), "InfoBox: ", JOptionPane.INFORMATION_MESSAGE);
 		}
 		for (int i = 0; i < threads.length; i++) {
 			threads[i].join();
@@ -363,19 +298,10 @@ public class TextProcessor {
 		TextFileFilter fileFilter = new TextFileFilter(TokenizerOptions.TEXT_FILE_EXTENSION);
 		File[] inputFiles = FileIterator.listFiles(inputDirFile, fileFilter);
 		
-		/*for (File aFile : inputFiles) {
-			String[] lines = UTF8FileUtility.getLines(aFile.getAbsolutePath());
-			for(String l:lines){
-				String[] word_count = l.trim().split(" ");
-				if(word_count[0].toUpperCase().equals(term.toUpperCase())){
-					count++;
-					break;
-				}
-			}
-		}*/
+	
 		/////////////////
 		int[] rs = new int[THREAD_COUNT];
-		int file_count =(int)Math.ceil((double)inputFiles.length/THREAD_COUNT);//inputFiles.length/THREAD_COUNT;
+		int file_count =(int)Math.ceil((double)inputFiles.length/THREAD_COUNT);
 
 		List<List<File>> subFiles = new ArrayList<List<File>>(); 
 		
@@ -484,7 +410,7 @@ public class TextProcessor {
 		File[] inputFiles = FileIterator.listFiles(inputDirFile, fileFilter);
 
 		
-		int file_count = (int)Math.ceil((double)inputFiles.length/THREAD_COUNT);//inputFiles.length/THREAD_COUNT;
+		int file_count = (int)Math.ceil((double)inputFiles.length/THREAD_COUNT);
 		List<List<File>> subFiles = new ArrayList<List<File>>(); 
 		
 		int j =0;
