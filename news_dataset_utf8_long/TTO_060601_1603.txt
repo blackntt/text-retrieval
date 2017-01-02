@@ -1,8 +1,0 @@
-﻿Game online: mỗi ngày chơi không quá 5 tiếng
-
-Theo thông tư này, doanh nghiệp cung cấp trò chơi sẽ phải có biện pháp kỹ thuật khống chế mỗi tài khoản chỉ được chơi không quá 5 tiếng/ngày. 
-Cụ thể, trong 180 phút đầu tiên, người chơi được tính 100% điểm thưởng, từ phút thứ 181 đến phút thứ 300 được tính 50% điểm thưởng. Từ phút thứ 300 trở đi sẽ không được tính điểm thưởng. 
-Thông tư cũng quy định doanh nghiệp cung cấp trò chơi không được khởi tạo các tài sản có giá trị trong trò chơi với mục đích đầu cơ, mua bán thu lợi và không được sửa đổi thông tin về tài sản, giá trị của người chơi, đồng thời phải áp dụng các giải pháp bảo đảm quyền lợi của người chơi và giải quyết tranh chấp giữa những người chơi. 
-Ngoài ra, người chơi sẽ phải cung cấp cho doanh nghiệp các thông tin cá nhân như tên, địa chỉ, số chứng minh thư để doanh nghiệp cung cấp cho các cơ quan quản lý khi được yêu cầu.
-
-K.HƯNG

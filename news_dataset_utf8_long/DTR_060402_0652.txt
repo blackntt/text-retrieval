@@ -1,9 +1,0 @@
-﻿ĐTDĐ mở cổng hậu vào mạng của doanh nghiệp
-
-Các chuyên gia bảo mật vừa khuyến cáo hacker đang tăng cường sử dụng điện thoại di động như tác nhân lây truyền virus và Trojan vào mạng của các công ty. 
- Công ty F-Secure cho biết họ đang phát triển một thiết bị cho phép phát hiện các điện thoại di động bị nhiễm virus trước khi chúng có có cơ hội phát tán virus trong công ty nhờ các công nghệ không dây chẳng hạn như Bluetooth. 
-Ông Mikko Hypponen, Giám đốc phụ trách nghiên cứu của F-Secure, nói: “ Một công ty lớn sẽ không muốn ai đó vào trụ sở của họ với một chiếc điện thoại bị nhiễm virus bởi chúng có thể phát tán virus vào toàn bộ điện thoại trong công ty”. 
-Ý tưởng phát triển thiết bị bảo vệ này có được từ một cuộc thử nghiệm phát hiện thâm nhập tiến hành tại hội chợ CeBIT tại Hanover, Đức. Cuộc thử nghiệm nhằm mục đích phát hiện xem có bao nhiêu người mở kết nối Bluetooth khi họ tham gia vào hội chợ. 
-Trong cuộc thử nghiệm này người ta sử dụng một thiết bị thu nhận trên nền Linux có kích thước cỡ một modem ADSL, và có ba ăng ten thu nhận kết nối Bluetooth trong khoảng cách 100 mét. Kết quả là F-Secure đã ghi nhận được 12.500 thiết bị khác nhau mở kết nối Bluetooth. 
-Ông Hypponen nói: “ Chúng tôi đang phát triển thêm công nghệ này và hộp ghi nhận có hình dáng giống với nhiều chiếc điện thoại di động tại cùng một thời điểm. Có thể xem thiết bị này như một chiếc điện thoại sử dụng hệ điều hành Symbian hoặc Windows có khả năng truy cập và thậm chí là quét các file được truyền tới để phát hiện virus”. 
-Tuy nhiên ông Hypponen cũng nói thêm vấn đề là ở chỗ phải xác định được ai là người có điện thoại bị nhiễm virus, vì để tìm ra được người này chỉ bằng tên trong danh sách Bluetooth là rất khó. “Nhưng ít nhất thì bạn cũng biết được đã có người mang chiếc điện thoại nhiễm virus tới công ty”, Hypponen kết luận. Theo AI Vietnam

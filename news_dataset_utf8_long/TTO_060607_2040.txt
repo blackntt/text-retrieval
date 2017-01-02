@@ -1,7 +1,0 @@
-﻿Intel giới thiệu thiết bị điều hợp máy tính dùng cho dịch vụ VoIP
-
-Kết hợp khả năng ứng dụng của máy tính, tính phổ biến của điện thoại và giá trị của các dịch vụ VoIP, sản phẩm này tạo ra những cơ hội hạ thấp chi phí điện thoại, nâng cao hiệu suất làm việc, tăng cường khả năng cộng tác và cải thiện chất lượng thoại. 
-Với bộ điều hợp Intel 600SM PCI Phone Adapter, người sử dụng không còn bị bó buộc vào hệ thống máy tính khi sử dụng các dịch vụ VoIP, cũng không cần phải mua các thiết bị phần cứng hay phần mềm bổ sung hay cũng không cần các kiến thức kỹ thuật để lắp đặt và vận hành VoIP, các hệ thống máy tính trở thành một điểm cuối dễ dàng kết nối mạnh cho các cuộc gọi từ máy tính hay từ các tổng đài PSTN sử dụng một nền tảng điện thoại analog chuẩn. 
-Bộ điều hợp Intel 600SM PCI Phone Adapter phù hợp với các nhà cung cấp dịch vụ VoIP hàng đầu thế giới như engin, Packet8, Skype và yak.
-
-H.N.

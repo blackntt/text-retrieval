@@ -1,9 +1,0 @@
-﻿Wi-Fi đang trở thành "điểm nóng"
-
-Công ty phân tích thị trường Pyramid Research dự đoán, đến năm 2007 sẽ có khoảng 700 triệu người sử dụng Wi-Fi. 
-“Các mạng Wi-Fi tiếp tục tăng trưởng một cách nhanh chóng về số lượng nhưng người sử dụng vẫn còn băn khoăn về sự khó khăn trong kết nối và khả năng bảo mật của mạng đó” ông Jim Johnson, phó chủ tịch của Intel kiêm tổng giám đốc phụ trách nhóm kết nối mạng không dây, phát biểu. "Chính vì thế, chúng tôi đã cố gắng cung cấp những chương trình tiện ích nhất nhằm giúp khách hàng dễ chấp nhận công nghệ đang ngày càng phổ biến này hơn". 
-Cùng với hệ thống kết nối mạng Intel PRO/Wireless 2915ABG mới, Intel cũng đưa ra phần mềm Intel PROSet/Wireless phiên bản 9.0. Phần mềm mới được cập nhật này bao gồm một công cụ mới mang tên giải pháp kết nối không dây thông minh (Smart Wireless Solution) được cấu thành bởi một công cụ xác lập cấu hình, khả năng giải quyết trục trặc của hệ thống tiên tiến và tự động cài đặt các tính năng bảo mật. 
-Công nghệ mới này sẽ dò tìm và thông báo tất cả các mạng đang sẵn sàng kết nối và đưa ra phương thức quản lý kết nối để người sử dụng có thể dễ dàng kết nối tới các mạng không dây khác nhau tại gia đình, tại văn phòng hay ở trên các đường phố. 
-Nhằm tiếp tục thể hiện những lợi ích của điện toán không dây và chào mừng sự ra đời của hệ thống kết nối Intel PRO/Wireless 2915ABG, Intel đã thiết lập một số điểm nóng sử dụng chuẩn 802.11a/b/g tại Athens trong mùa hè này để các khách du lịch đến từ khắp nơi trên thế giới sử dụng tại đây. Mọi người đều có thể gửi những bức ảnh, kiểm tra thư điện tử, gọi điện thoại qua Internet tới khắp nơi trên thế giới và luôn ở trong trạng thái kết nối Internet.
-
-K.CH

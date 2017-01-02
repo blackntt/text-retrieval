@@ -1,5 +1,0 @@
-﻿TP.HCM: thêm một tổng công ty hoạt động theo mô hình mẹ con
-
-Tổng công ty Cơ khí giao thông vận tải Sài Gòn có công ty mẹ là doanh nghiệp nhà nước được hình thành trên cơ sở tổ chức lại Công ty Cơ khí ôtô Sài Gòn. Các công ty con gồm bảy đơn vị mà công ty mẹ giữ 100% vốn điều lệ (như Công ty Xe khách Sài Gòn, các bến xe miền Đông, miền Tây, Chợ Lớn…) và năm công ty cổ phần mà công ty mẹ giữ cổ phần chi phối (gồm cảng Bến Nghé, Vận tải biển Sài Gòn, Vận tải sông Sài Gòn…). Ngoài ra, công ty mẹ còn có vốn đầu tư vào tám công ty cổ phần khác và sáu công ty liên doanh.
-
-NG.T.

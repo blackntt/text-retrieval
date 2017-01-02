@@ -1,9 +1,0 @@
-﻿HP thu hồi gần 16.000 pin máy tính xách tay
-
-Hôm qua, hãng sản xuất máy tính Hewlett-Packard (Mỹ) đã tiến hành việc thu hồi những bộ pin dùng trong máy tính xách tay của hãng trên khắp thế giới vì lo sợ xảy ra cháy nổ.
-
- Quyết định thu hồi 15.700 bộ pin này sau khi hãng này nhận được 20 báo cáo về việc pin nóng quá mức cho phép, trong đó có một trường hợp bị thương nhẹ. 
-Pin bị thu hồi là loại pin xạch lại được Li-Ion được sản xuất ở Trung Quốc từ đầu tháng 1/2005 và được sử dụng trong rất nhiều máy tính mang nhãn hiệu HP và Compaq với mã vạch là L3. Sau đó, máy tính được bán sang Mỹ với giá từ 1.000 – 3.000 USD (pin bán riêng rẽ là 100 – 3000 USD). 
-Những máy tính dùng loại pin này có số serie: dv1xxx, ze2xxx trong dòng HP Pavilion, nx48xx trong dòng HP Compaq, và V2xxx, M2xxx trong dòng Compaq Presario. 
-Hãng máy tính HP khuyên những người dùng sử dụng pin có mã vạch L3 nên ngừng sử dụng và liên lạc ngay với HP để đổi nếu pin có hiện tượng nóng quá. 
-N.Hương Theo Reuters

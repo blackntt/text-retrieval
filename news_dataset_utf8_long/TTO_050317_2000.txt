@@ -1,7 +1,0 @@
-﻿Tạo bản sao đĩa DVD chỉ với một nút nhấn
-
-Khi bắt đầu công việc thì bạn phải vào phần Option để tinh chỉnh một chút. Hãy cho đĩa DVD và ổ đọc. Ngay lập tức chương trình sẽ nhận dạng ra và hiển thị trong dòng Source. Kế đến cho đĩa DVD trắng vào đầu ghi. Nếu máy tính không có đầu ghi đĩa thì bạn có thể chọn một phân vùng ổ cứng nào đó trong mục Destination. Nhưng lưu ý rằng phân vùng đó phải còn trống tối thiểu là 4,7 GB thì 1Click DVD Copy mới có thể làm việc được. Sau cùng nhấn nút Save để lưu lại những thay đổi trên. 
-Ngay tại màn hình chính bạn chỉ việc nhấn nút Start để chương trình tiến hành quá trình tạo bảo sao hay copy trực tiếp. Khi hoàn tất 1Click DVD Copy sẽ thông báo cho bạn biết. 
-Chương trình được cung cấp tại website: http://www.1clickdvdcopy.com với dung lượng khoảng 5 MB, tương thích tốt với hệ điều hành Windows. Bản thương mại giá 30USD.
-
-GIANG VŨ VĂN

@@ -1,8 +1,0 @@
-﻿Phát tán chương trình tạo khóa kích hoạt Windows
-
-Chương trình sinh khóa thường được Microsoft sử dụng để cung cấp các khóa đặc biệt (vừa có chữ vừa có số) để kích hoạt phần mềm khi cài lên máy tính. Thông tin về vụ rò rỉ mã này được đưa lên website tình nguyện hỗ trợ Windows Neowin.net tuần qua, nhưng ngay sau đó đã bị bỏ xuống. 
-Theo một người đứng đầu của Neowin có biệt danh trên mạng là Creamhackered: “Với vũ khí này, chưa đầy một giây bạn có thể tạo một khóa sử dụng sản phẩm Windows, và có thể tạo bao nhiêu tùy thích”. 
-Thông thường các khóa kích hoạt được tạo như một cách để ngăn chặn việc vi phạm bản quyền. Sau khi cài đặt sản phẩm, người sử dụng phải nhập mã kích hoạt vào, sau đó, đoạn mã này sẽ được gửi đến Microsoft để xác nhận. Cách này nhằm ngăn chặn khách hàng cài cùng một sản phẩm trên nhiều máy tính. 
-Đây không phải là lần đầu tiên mã kích hoạt sản phẩm của Microsoft bị đưa lên mạng. Trong những năm gần đây, công ty phần mềm này đã chứng kiến nhiều tai nạn như vậy.
-
-T.M (Theo PCM)

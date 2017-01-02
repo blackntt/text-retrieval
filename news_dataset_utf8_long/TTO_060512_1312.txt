@@ -1,9 +1,0 @@
-﻿Máy tính xách tay hỗ trợ GeForce Go 7900 SLI kép đầu tiên
-
-Hỗ trợ công nghệ SLI của nVidia, kích hoạt sử dụng đến hai bộ xử lý đồ họa (GPU) trên cùng một máy laptop dựa trên giải pháp nForce 4 SLI, cho khả năng đồ họa lên một tầng cao mới với độ phân giải 1680 x 1050 cực nét XHD (extreme high-definition). 
-Alienware Aurora mALX có màn hình 19-inch hỗ trợ hai bộ xử lý đồ họa hàng “TOP” hiện nay là nVidia GeForce Go 7900 GTX còn Alienware Aurora m7900 thì không thua kém với GeForce Go 7900 GS. 
-“Với bộ xử lý đồ họa nVidia và công nghệ SLI, Alienware gần như đã kết hợp được khả năng xử lý của máy để bàn và tính di động vào trong các hệ thống máy tính xách tay mới nhất của chúng tôi”, Mark Vena, phó chủ tịch Marketing của Alienware cho biết. “Aurora m7900 và Aurora mALX cung cấp cho khách hàng hệ thống di động với những tùy chọn mạnh mẽ đáng kinh ngạc. Không còn phân biệt ở tại gia đình, văn phòng hay trên đường”. 
-Công nghệ SLI của nVidia là một giải pháp “tinh xảo” về phần cứng và phần mềm, có thể kích hoạt để sử dụng hai bộ xử lý đồ họa GeForce trong máy tính xách tay hỗ trợ SLI dựa trên giải pháp nForce 4 SLI. Công nghệ này tích hợp cổng truyền thông thông minh trong bộ xử lý đồ họa và một giao diện số tốc độ cao trên bo mạch đồ họa cho phép dòng dữ liệu luân chuyển dễ dàng hơn. Một bộ phần mềm đầy đủ của nVidia cung cấp động lực cân bằng tải, kết cấu và biên dịch cao cấp, cho ra những hình ảnh với chất lượng xuất sắc nhất. 
-Alienware Aurora m7900 17” và Aurora mALX 19” có giá bán trên website là 1999 USD và 4499 USD với cấu hình mặc định. Người dùng tại Việt Nam có thể đặt mua mặt hàng này dễ dàng tại GoGo .
-
-TUYẾT PHẤN

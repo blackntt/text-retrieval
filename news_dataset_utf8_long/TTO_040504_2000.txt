@@ -1,8 +1,0 @@
-﻿Microsoft tiêu thụ được 210 triệu bản Windows XP
-
-Trong khi Microsoft đang có chuẩn bị thêm một số tính năng mới vào Windows trước khi tiến hành một đợt nâng cấp lớn thì con số cho thấy số người dùng mua bản Windows XP vẫn đang tăng rất nhanh. 
-Trong liên tiếp 9 tháng gần đây, trung bình có khoảng 10 triệu bản Windows XP được tiêu thụ trong mỗi tháng. Nhiều chuyên gia đánh giá đây là điều hành tốt nhất cho PC. Tuy nhiên, Microsoft cho rằng con số người dùng Windows XP thực tế còn cao hơn nhiều, vì trong số 210 triệu bản XP trên chưa tính đến những thỏa thuận Windows XP với số lượng cho doanh nghiệp. 
-Hiện nay Microsoft đang chuẩn bị đang cấp Windows XP gọi là Service Pack 2 nhằm tăng cường khả năng bảo mật và tính ổn định cho hệ điều hành. Chương trình này sẽ được cung cấp miễn phí cho người dùng. 
-Cùng ngày, Microsoft ra mắt phần mềm chống sao chép mới có mã hiệu là Janus, hỗ trợ cho việc phân phối các nội dung giải trí đa phương tiện thông qua mạng Internet. Chương trình này cho phép chuyển nội dung từ máy tính để bàn sang các thiết bị di dộng, cho phép người dùng thưởng thức các file nội dung giải trí đa phương tiện trên nhiều thiết bị phần cứng khác nhau như các máy nghe nhạc di động, ĐTDĐ và PDA.
-
-T.M (Theo Reuters)

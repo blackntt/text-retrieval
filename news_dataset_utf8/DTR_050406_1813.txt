@@ -1,7 +1,0 @@
-﻿Mạng di động trên không
-
-Tổng công ty Hàng không Việt Nam (Việt Nam Airline) được quyền cung cấp các dịch vụ viễn thông trên những máy bay của hãng. Đó là dịch vụ viễn thông di động vệ tinh Inmarsat sử dụng trên máy bay. 
- Phạm vi cung cấp và đối tượng phục vụ của dịch vụ này chủ yếu là hành khách trong và ngoài nước của Việt Nam Airline. 
-Bộ Bưu chính Viễn thông đã duyệt phương án tính cước cho dịch vụ gọi điện thoại trên máy bay với phút gọi đầu tiên là 7,9 USD (120.000 đồng). Những phút gọi kế tiếp sẽ được tính theo block 6 giây. 
-Mức cước di động này đang bị xem là quá cao so với mặt bằng thu nhập chung. Tuy nhiên, đây là dịch vụ cao cấp chỉ dành cho những khách hàng tầm cỡ. Các trạm điện thoại này sẽ được đặt trong khoang hành khách hạng sang. 
-Trong giai đoạn đầu, Việt Nam Airline sẽ thử nghiệm dịch vụ điện thoại trên một số máy bay Boeing 777. Trước đó, hãng Boeing đã đề nghị hợp tác với Việt Nam để khai thác dịch vụ truy cập Internet trên máy bay. Theo TTNN, So Hoa

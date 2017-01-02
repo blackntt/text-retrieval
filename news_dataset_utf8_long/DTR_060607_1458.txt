@@ -1,9 +1,0 @@
-﻿Yankee: Windows đáng tin cậy hơn Linux
-
-Theo khảo sát hàng năm về độ tin cậy của máy chủ của hãng nghiên cứu thị trường Mỹ Yankee, chỉ có các hệ điều hành chạy trên Unix, như HP-UX và Sun Solaris 10 mới đánh bật được Windows về thời gian vận hành hiệu quả, còn Linux thì vẫn thua xa "đối thủ" Windows về khoản này. 
- Yankee khẳng định, Windows 2003 Server là hệ điều hành máy chủ hoạt động tốt hơn Linux. Bộ Windows này có khả năng vận hành tốt hơn 20% so với phiên bản Red Hat Enterprise Linux. 
-Nhà phân tích của Yankee Laura DiDio nhận định, thực tế, các phiên bản hệ điều hành server lớn đều có tính tin cậy cao và những bản này đã được cải tiến trong 3 – 5 năm qua. 
-Trung bình mỗi bản Windows, Linux và Unix dành cho máy chủ đều bị lỗi 3 – 5 lần/năm trong 2005, làm thời gian vận hành của máy chủ bị chậm trễ đến 10 – 19,5 tiếng mỗi năm. 
-Tuy nhiên, theo ghi nhận của Yankee, bản Red Hat Enterprise Linux và các phiên bản khác của Linux của phần mềm mã nguồn mở bị ngắt quãng nhiều hơn và lâu hơn so với các đối thủ Windows hay Unix. Yankee cho rằng lý do vì khan hiếm tài liệu Linux và mã nguồn mở. 
-Hãng này nhấn mạnh khảo sát tiền hành không được sự tài trợ hay hỗ trợ của bất cứ hãng sản xuất hệ điều hành dành cho máy chủ nào. 
-N.Hương Theo Inquirer, InformationWeek

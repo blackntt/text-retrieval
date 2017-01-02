@@ -1,9 +1,0 @@
-﻿Opera 7.60 tăng tốc lướt web nhanh gấp 6 lần
-
-Công ty cho biết, bản Opera 7.60 sẽ được tung ra vào dịp cuối năm 2004. Oprera 7.60 sẽ tạo điều kiện cho người dùng duyệt web với tốc độ nhanh hơn gấp 6 lần hiện tại thông qua kết nối không dây hoặc quay số. Công nghệ của Slipstream hoạt động theo nguyên tắc nén và nắn dòng dữ liệu web hay email hợp lý để gia tăng tốc độ truy cập qua mạng. 
-Thị phần chính của Opera 7.60 không phải dành cho người sử dụng điện thoại di động mà chính là cho người lướt web bằng máy tính thông thường. Công ty SlipStream cho biết là đã ứng dụng công nghệ tăng tốc web của mình cho cả thảy 900 đối tác là các nhà cung cấp dịch vụ internet trên toàn cầu. 
-Valdivia cho biết rằng mối quan tâm đến trình duyệt Opera đã gia tăng đều đặn trong những năm qua, Opera kỳ vọng số lượt người dùng tải Opera về dùng thử sẽ vượt qua con số 2 triệu lượt trong năm 2004. Từ trước đến nay đã có tổng cộng 14 triệu lượt người tải Opera về dùng trên máy tính của mình. 
-Tuy nhiên Opera vẫn còn cần phải cực kỳ nỗ lực mới có thể đạt được mức độ quan tâm của công chúng đến trình duyệt của mình như Firefox đã thực hiện thành công. Phiên bản mới nhất của Firefox đã được 5 triệu lượt người dùng tải về dùng chỉ trong 1 tháng. Theo một nghiên cứu mới nhất cho biết: Chỉ có 0,6% số người chọn Opera là trình duyệt chính trên máy tính của mình, thua xa Mozilla (6%) và không thể nào so sánh được với Internet Explorer của Microsoft (92,9%). 
-Có thể tải bản miễn phí của Opera về dùng thử từ trang web của công ty này, nhưng nếu muốn có một bản Opera với đầy đủ tính năng thì người dùng phải trả 40 USD.
-
-HOÀNG HẢI (Theo ZDNet)

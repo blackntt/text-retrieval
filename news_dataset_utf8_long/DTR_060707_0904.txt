@@ -1,7 +1,0 @@
-﻿Ericsson mở rộng mạng GSM của Viettel
-
-Ericsson vừa ký hợp đồng mở rộng mạng GSM với Viettel để mở rộng vùng phủ sóng của mạng này tới các khu vực nông thôn Việt Nam và tăng cường công suất mạng tại các thành phố lớn như Hà Nội, TPHCM và Đà Nẵng. 
- Theo đó Ericsson sẽ cung cấp cho Viettel các nút mạng lõi mới, các trạm phát và các thiết bị truyền dẫn viba. Hợp đồng còn bao gồm việc quản l‎y dự án, các dịch vụ tích hợp, triển khai dự án, nâng cấp và mở rộng tính năng của lớp dịch vụ phục vụ việc tính cước và thư thoại. 
-Việc mở rộng mạng lần này sẽ mở rộng vùng phủ sóng, nâng cao công suất mạng và chất lượng hoạt động mạng của Viettel và hỗ trợ Viettel củng cố vị thế của mình trên thị trường liên lạc di động ở Việt Nam . 
-Jan Signell, Chủ tịch Ericsson tại khu vực Đông Nam Á nói: “Chúng tôi rất tự hào được chọn cho việc mở rộng mạng lưới lần này và chúng tôi cam kết sẽ hộ trợ Viettel trong việc phát triển thị phần của mạng này.” 
-“Bản hợp đồng này cũng sẽ thúc đẩy mối quan hệ hợp tác giữa Ericsson và Viettel và tăng cường vị thế của Ericsson là nhà cung cấp hệ thống liên lạc di động hàng đầu tại Việt Nam ,” Ông Signel nói. B.Trung

@@ -1,8 +1,0 @@
-﻿Samsung sẽ trình làng điện thoại WiMax đầu tiên
-
-Tại Triển lãm CommunicAsia vừa diễn ra ở Singapore, hãng điện tử Hàn Quốc tuyên bố đầu năm tới sẽ tung ra thị trường mẫu điện thoại di động hoạt động trên hai băng tần, kết hợp mạng di động WiMax và GSM. 
- “Đây sẽ là model điện thoại sử dụng mạng băng thông di động trên diện rộng đầu tiên”, Hwan Woo Chung, Phó giám đốc bộ phận Mobile WiMax của Samsung, cho biết. 
-WiMax là công nghệ không dây cho phép truyền dữ liệu tốc độ cao trong phạm vi rộng hơn so với mạng Wi-Fi. Phiên bản WiMax cố định và di động đều đang được phát triển, trong đó, mạng không dây cố định được xem như là sự thay thế cho các kết nối băng thông rộng có dây, như cáp và DSL. 
-Công nghệ WiMax di động của Samsung có tốc độ tải lên tới 10,2 Mb/giây trong điều kiện di chuyển với vận tốc 120 km/giờ. Hãng này còn tuyên bố, đến quý III/2007, tốc độ download sẽ được nâng lên nữa, tối đa gần 40 Mb/giây. 
-Tại Triển lãm CommunicAsia, Samsung đã trình diễn mạng một máy tính xách tay được trang bị card PCMCIA WiMax cùng một số thiết bị hỗ trợ cá nhân PDA được tích hợp WiMax có thể lướt web, tải video và chia sẻ file với người khác. Hiện tại, Samsung đang phối hợp với một số hãng điều hành dịch vụ ở một số nước để thử nghiệm mạng WiMax di động. Trong khi đó, ở Hàn Quốc, một hãng viễn thông sẽ thương mại hóa các dịch vụ sử dụng công nghệ này vào cuối tháng 6 này. 
-N.H Theo MacWorld

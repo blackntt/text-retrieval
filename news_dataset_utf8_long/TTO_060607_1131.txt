@@ -1,9 +1,0 @@
-﻿Đĩa cứng flash 64GB SATA 2,5 inch đầu tiên
-
-PQI đã sử dụng loại chip nhớ flash NAND của Samsung để chế tạo loại đĩa cứng này và nó được chính thức bán ra vào đầu tháng 8 tới đây tại châu Âu, Nhật Bản, Trung Quốc và Mỹ. 
-Các giới chức của PQI cho biết loại đĩa flash 64 GB SATA này sẽ đạt tốc độ truyền dữ liệu ở mức 25 MB/giây và hoạt động tốt trong môi trường nhiệt độ từ 0 cho đến 70 độ C. Đĩa cứng này hoạt động cực êm và tiêu thụ rất ít năng lượng so với kiểu đĩa cứng quay bình thường. 
-Các chuyên gia dự báo rằng dù sớm hay muộn thì các kiểu đĩa cứng đặc flash cũng sẽ thay thế hoàn toàn cho kiểu đĩa cứng quay truyền thống vì những ưu điểm không thể cưỡng lại được của nó. 
-Ngay từ hồi tháng 3-2006, Samsung cũng đã tung ra thị trường máy tính xách tay đầu tiên được trang bị đĩa cứng flash với dung lượng 32 GB, và đến nay đĩa cứng đặc flash đã chính thức có mặt trong các loại máy để bàn. Công ty Web-Feet Research đã đưa ra dự đoán rằng thị trường đĩa cứng đặc flash sẽ đạt tổng doanh số là 540 triệu USD trong năm 2006 và sẽ đạt đến 4,5 tỷ USD vào năm 2010. 
-Hiện PQI vẫn chưa công bố giá bán chính thức của loại đĩa flash 64GB SATA trên.
-
-THIÊN TRANG (DigiTimes)

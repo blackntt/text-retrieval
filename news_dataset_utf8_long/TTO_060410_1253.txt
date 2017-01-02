@@ -1,8 +1,0 @@
-﻿Tạo đĩa VCD như thế nào?
-
-Để tạo ra một đĩa VCD để có thể chiếu trên tất cả mọi loại đầu chiếu phim VCD, DVD thì bạn nên dùng chương trình ghi đĩa Nero phiên bản 6 hoặc 7, đang rất phổ biến hiện nay. Bạn có thể tìm mua phần mềm Nero hiện đang được bán rộng rãi tại mọi cửa hàng phần mềm. 
-Sau khi cài đặt xong Nero, bạn click vào biểu tượng “Nero StarSmart” để kích hoạt chương trình. Click vào biểu tượng “Favorite” hoặc “Photo and Video” để chọn biểu tượng “Make Video CD”. Nhấn vào nút “Add” -&gt; Tìm đến những file video lưu trong ổ cứng để “Add” vào Nero. Mỗi khi Add xong 1 file là Nero sẽ thông báo cho biết dung lượng chiếm dụng của file vừa Add vào bằng một vạch màu xanh. Bạn cứ Add các file video cho đến khi nào tổng dung lượng đạt đến khoảng 650 MB là vừa đủ. Nero hỗ trợ rất nhiều định dạng file video phổ biến như: MP4, M2V, DAT, MPEG, MPG, AVI, WMF, TIF, TGA, PNG… 
-Sau khi chọn xong, nhấn “Finished” -&gt; nhấn Next để hiện ra màn hình trình chiếu bao gồm khung hình đầu tiên của tất cả các file video mà bạn đã Add vào -&gt; Nhấn Next, đặt tên cho đĩa, lựa chọn tốc độ ghi và số bản copy -&gt; cho đĩa trắng vào khay và nhấn nút “Burn”. Quá trình ghi đĩa sẽ không diễn ra ngay lập tức mà Nero sẽ phải tốn thời gian để mã hóa lại các định dạng video cho phù hợp với định dạng .DAT của VCD. Còn nếu các file video của bạn đã ở dạng .DAT sẵn do bạn chép ra từ các đĩa VCD thì Nero sẽ thực hiện quá trình ghi ngay lập tức mà không cần tốn thời gian chuyển định dạng. 
-Khi quá trình ghi đã hoàn tất là bạn đã có ngay một đĩa VCD chính hiệu để chơi được trên mọi loại đầu chiếu.
-
-HOÀNG HẢI

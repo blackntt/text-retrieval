@@ -1,7 +1,0 @@
-﻿Thang máy khi mất điện có an toàn?
-
-- Kỹ sư TRẦN ĐÌNH LƯƠNG (phó giám đốc Công ty TNHH kỹ nghệ Toàn Tâm, chuyên về điện kỹ nghệ và ngành thang máy) : 
-Hiện nay, thang máy tại các cao ốc đều được lắp đặt hệ thống cứu hộ tự động khi bị mất điện đột ngột. Hệ thống này gồm: các mạch vi xử lý, bộ chuyển đổi điện, bình sạc ăcqui và tụ điện. Các bộ phận này được kết nối với tủ điều khiển chính của thang máy. Khi có điện, thang máy hoạt động, ăcqui sẽ được sạc điện. Nếu điện tắt đột ngột trong khi thang máy vẫn đang hoạt động, dòng điện một chiều của ăcqui sẽ nhanh chóng chuyển thành điện xoay chiều và đưa thang máy về tầng gần nhất rồi mở cửa cho khách ra khỏi thang máy. Ngoài thiết bị cứu hộ tự động, trong thang máy còn có một bộ phận thắng cơ. Trong trường hợp xảy ra đứt cáp thang máy, thiết bị khống chế vượt tốc sẽ hoạt động và tác động đến thắng cơ nêm chặt phòng thang vào ray hướng dẫn, giữ chặt không cho thang rơi để chờ người đến ứng cứu. Như vậy là nếu có đứt cáp đi nữa thì thang máy vẫn không bị rơi. 
-Hiện tượng thang máy bị rơi khi chở công nhân nói trên là do phần thắng cơ lắp đặt ở thang máy và thiết bị khống chế vượt tốc không đảm bảo.
-
-PV

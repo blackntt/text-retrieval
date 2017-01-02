@@ -1,6 +1,0 @@
-﻿Fujitsu ra mắt máy xách tay siêu mỏng mới
-
-Hôm 18/4, hãng điện tử Nhật Bản Fujitsu ra mắt máy tính siêu mỏng Q2110 mới cùng một số cải tiến trong dòng máy xách tay series S và E trong Ngày hội truyền thông của hãng. 
- Fujitsu cho biết Lifebook Q2110 dày khoảng 19 mm (tương đương với Toshiba Portege R200) và nặng gần 1kg. Đáng tiếc là máy không đủ chỗ cho card Ethernet, VGA, hay thậm chí là 1 cổng modem. 
-Q2110 được trang bị màn hình 12,1 inch và một bàn phím rút gọn. Khung máy làm bằng hợp kim magiê, và các khớp nối bằng titan để đảm bảo máy xách tay nhỏ gọn mà chắc chắn. Q2110 không tích hợp sẵn ổ quang, nhưng cũng giống Lenovo Thinkpad X60, người dùng có thể lựa chọn sử dụng trạm nối có gắn ổ quang. 
-Cấu hình của Q2110 không mạnh, vì nó dùng bộ xử lý lõi đơn ULV Intel. Q2110 dùng pin 3 cell, chạy được 1,5 giờ, nhưng hãng cũng đang cân nhắc việc dùng pin 6 cell để tăng thời gian này lên 7 giờ. Theo AI VietNam/eWeek

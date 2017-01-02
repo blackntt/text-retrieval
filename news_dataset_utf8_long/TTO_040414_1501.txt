@@ -1,8 +1,0 @@
-﻿Đính kèm nhanh các tập tin cho e-mail với FILE PC 1.0 (FPC)
-
-Bạn có thể attach cùng lúc rất nhiều file và FPC sẽ tự động nén chúng lại trước khi được gởi đi. 
-Ngay sau khi được cài đặt và kích hoạt, hộp thoại FilePC Identification sẽ xuất hiện. Bạn hãy nhập vào tên và công ty của mình để người nhận thư dễ dàng phân biệt rồi nhấn nút OK để tiếp tục. Hãy nhấp chuột phải vào biểu tượng nhỏ có hình mũi tên hướng lên màu xanh xuất hiện trên System Tray để thực hiện các thao tác có liên quan như sau. 
-1. Sign In…: Đăng nhập tài khoản người dùng để chuẩn bị gởi file đính kèm cho bức e-mail. 2. Send a File…: Gởi 1 file đính kèm cho bức e-mail. 3. Send a File…: Tính năng đặc biệt cho phép gởi nhiều file đính kèm, gởi file và soạn e-mail, gởi screenshot của màn hình hiện hành, v.v… 4. Review Sent Files…: Xem lại những file đính kèm đã được gởi đi. 5. Shutdown FilePC…: Thoát khỏi chương trình. 
-Với dung lượng siêu gọn (chỉ 231 KB), tương thích trên các hệ điều hành Windows như 9x/Me/NT/2000/XP/2003 Server, phiên bản miễn phí (freeware) của FPC được cung cấp tại địa chỉ http://www.filepc.com/filepc/downloads/FilePCInstall.exe .
-
-Th.S LÊ NGUYỄN BẢO NGUYÊN

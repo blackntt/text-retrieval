@@ -1,6 +1,0 @@
-﻿Phần mềm cho biết thông tin phần cứng
-
-Halfdone Unknown Devices (HUD) giúp bạn dễ dàng tìm được thông tin về phần cứng trong Device Manager mà ta không biết phần cứng đó là gì. HUD sẽ kiểm tra thông tin về thiết bị đó và thông báo cho bạn biết rõ, chứ không cần thiết phải mở thùng ra ngó vào PCI card xem số series. 
-HUD hỗ trợ cho hầu hết các hệ điều hành Windows như: Win95, 98, 98SE, Me, 2K, XP và 2003 nhưng không hỗ trợ cho NT. Nhấn chuột vào đây để tải về HUD version: 1.2 - Phần mềm hoàn toàn miễn phí.
-
-ĐÔNG HẢI - V.S.C

@@ -1,6 +1,0 @@
-﻿Phức tạp sao in đề thi thử trắc nghiệm
-
-Lý do: theo các chuyên viên, qui trình sao in đề trắc nghiệm do bộ đưa ra khá chi li, phức tạp. Hội đồng sao in phải làm bảy bộ đề: tiếng Anh ba năm, bảy năm; tiếng Pháp ba năm, bảy năm; tiếng Nga, tiếng Trung, tiếng Anh phân ban và mỗi bộ đề gồm bốn mã đề khác nhau. Mỗi phòng thi có 25 thí sinh với bốn mã đề phải được người sao in xếp theo thứ tự để cho vào một túi. 
-Như vậy TP.HCM có hơn 2.000 phòng thi của 108 hội đồng thi phải có 2.000 túi đề. Trong khi đó, ở những kỳ thi trước đây mỗi hội đồng thi chỉ cần 2-3 túi đề.
-
-K.LIÊN

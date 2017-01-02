@@ -1,8 +1,0 @@
-﻿Dịch vụ nhắn tin báo điểm thi
-
-Ngay từ bây giờ, tất cả các thuê bao của Vinaphone, MobiFone, Viettel và S-Fone đều có thể để đăng ký nhận điểm thi bằng cách soạn tin nhắn: DT rồi gửi đến 8313. 
- Trung tâm Kinh doanh Dịch vụ Giá trị gia tăng trên điện thoại di động - FPT SMS - đang triển khai dịch vụ tra cứu điểm thi tuyển sinh 2006: “Nhắn tin ngay hôm nay, báo ngay khi có điểm”. 
-Hiện tại, tất cả các thuê bao của Vinaphone, MobiFone, Viettel và S-Fone đều sử dụng được dịch vụ này. Để đăng ký nhận điểm thi, soạn tin nhắn: DT &lt;mã trường&gt; &lt;khối thi&gt; &lt;số báo danh&gt; rồi gửi đến 8313. FPT SMS sẽ gửi điểm thi của gần 400 trường Đại học, Cao đẳng trên toàn quốc đến các thuê bao có yêu cầu nhận điểm. 
-Để đăng ký nhận điểm chuẩn, soạn tin: DC &lt;mã trường&gt; &lt;khối thi&gt; &lt;mã ngành&gt;, rồi gửi đến số 8313. Ngay khi có điểm chuẩn, FPT SMS sẽ gửi thông báo điểm chuẩn cho các thuê bao đã đăng ký. 
-Một tiện ích khác dành cho các thí sinh, khi có điểm thi, không cần đến tận địa điểm thông báo kết quả để so sánh mà thí sinh có thể biết ngay vị trí “xếp hạng” của mình trong bảng điểm bằng cách soạn tin: VT &lt;mã trường&gt; &lt;khối thi&gt; &lt;số báo danh&gt;, và gửi đến 8313. 
-Thông tin chi tiết có thể xem trên website: www.fptsms.com.vn hoặc gọi đến số hỗ trợ miễn phí 18001581. B.Trung

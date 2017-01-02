@@ -1,7 +1,0 @@
-﻿Năm 2004: Doanh thu phần mềm toàn cầu tiếp tục tăng
-
-Đây là một tin vui cho giới phát triển phần mềm toàn cầu và đánh bạt nỗi âu lo khi phải chứng kiến tỷ lệ tăng trưởng âm (-0,5%) lần đầu tiên trong lịch sử công nghệ phần mềm vào năm 2002. Tuy nhiên năm 2004 vẫn chưa phải là năm đột phá để bắt đầu một thời kỳ tăng trưởng mới đạt đến 2 con số. 
-Thị trường phần mềm ngày càng phức tạp và mức độ bán ra khá chậm. Phức tạp nhất là các phần mềm doanh nghiệp vừa mới được các công ty "tậu về" trong thời gian gần đây. Sự hỗn tạp của thị trường phần mềm doanh nghiệp hiện nay đã làm cho các công ty hết sức bối rối trong việc lựa chọn và cài đặt. Tính về mức độ trung bình thì số công ty sắm mới phần mềm hiện nay đã giảm thiểu so với giai đoạn trước. 
-Hiện đang có sự gia tăng của hình thức kinh doanh "Cung cấp phần mềm như là một dịch vụ". Trước đây công ty Siebel là người tiên phong trong lĩnh vực này nhưng hiện nay Siebel đang bị công ty RightNow và Salesforce.com cạnh tranh quyết liệt bằng cách tiếp thị hàng hóa cũng như các dịch vụ của mình trên web với một giá rất hạ.
-
-HOÀNG HẢI (Theo Newsfactor)

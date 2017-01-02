@@ -1,9 +1,0 @@
-﻿Chatter nữ nhận 163 tin nhắn quấy rối mỗi ngày
-
-Nghiên cứu của trường Đại học Maryland (Mỹ) nhận thấy, một người truy cập vào phòng chat trên Internet nếu dùng nick nữ giới sẽ có nguy cơ nhận tin nhắn đe dọa và quấy rối tình dục gấp 25 lần so với những ai “thủ vai” nam giới hoặc các biệt danh khó hiểu. 
- Theo nghiên cứu này, trung bình mỗi ngày các nick chat nữ tính nhận được 163 tin nhắn quấy rối, trong khi đó, những người dùng sử dụng nick nam giới và biệt danh khó hiểu chỉ nhận được tương ứng khoảng 4 – 25 tin như thế mỗi ngày. 
-“Một số tin nhắn gửi đến cho nick của nữ giới là vô hại, song cũng có những bức thư có nội dung đe dọa hoặc xâm phạm tình dục”, Robert Meyer, một sinh viên năm thứ 2 khoa công nghệ của trường Maryland cho biết. 
-Sinh viên Meyer và phó giáo sư Michel Cukier đã tạo ra một mạng máy tính “bot”, từ đó đăng nhập nhiều nick khác nhau cả nam và nữ. 
-Nghiên cứu cho hay, mỗi ngày người dùng nhận được nhiều tin nhắn hơn so với bot: với nick là nữ, người nhận được 163, bot nhận được 100, với nick là nam giới thì người nhận được 27 tin còn bots nhận 4. 
-“Các phụ huynh nên cảnh giác các con em mình về những nguy cơ này và khuyên chúng nên tạo nick không thể hiện giới tính hoặc những tên gọi khó hiểu”, ông Cukier nói. “Bọn trẻ cần phải học cách diễn tả cảm xúc để không làm tiết lộ giới tính của chúng”. 
-N.Hương Theo InformationWeek

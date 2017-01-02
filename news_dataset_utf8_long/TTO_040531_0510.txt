@@ -1,5 +1,0 @@
-﻿Ứng dụng CNTT quản lý nguyên liệu nhập khẩu
-
-Theo đó, doanh nghiệp có thể chủ động chuẩn bị số liệu trước khi khai báo với HQ và được quyền khai báo bằng nhiều phương thức khác nhau (thủ công, website, đĩa mềm chứa thông tin…), hạn chế được những sai sót về đơn vị tính... Về phía HQ có thể giảm hơn 60% nhân lực trong việc thu thập dữ liệu trong các khâu đăng ký định mức, tờ khai, đồng thời có cơ sở dữ liệu phục vụ khâu kiểm tra sau thông quan. Được biết mô hình này được thí điểm tại Chi cục HQ TP. Biên Hòa, Đồng Nai.
-
-H.ĐĂNG

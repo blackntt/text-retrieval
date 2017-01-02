@@ -1,7 +1,0 @@
-﻿Ấn Độ cung cấp máy tính cầm tay cho người nghèo
-
-Simputer là sản phẩm “cây nhà lá vườn” đầu tiên của Ấn Độ trong lĩnh vực sản xuất máy vi tính, do các nhà khoa học và kỹ sư tại Viện Khoa học Ấn Độ ở Bangalore thực hiện. Với thiết bị này, họ mong muốn sẽ đưa được cuộc cách mạng internet tới người nghèo ở vùng nông thôn. 
-Mang thương hiệu the Amida Simputer, thiết bị có 3 phiên bản. Mẫu máy đơn giản nhất có một màn hình đen trắng, chíp xử lý 206Mhz và bộ nhớ 64 MB, chạy trên hệ điều hành Linux. Máy có micro và loa gắn trong cùng cây bút stylus cho phép viết thẳng lên màn hình, pin sử dụng được 6 giờ. Simputer, hỗ trợ các ngôn ngữ Hindi và Kannada, giúp người dùng duyệt web, gửi email hoặc quản lý thu chi. 
-Hiện nay, cứ 1.000 người Ấn Độ mới có một người có máy tính, đơn giản là vì giá máy quá cao. Ý tưởng về một loại máy tính giúp người nghèo hội nhập kỷ nguyên Internet được nhóm phát triển bắt đầu từ năm 2001. Tuy nhiên, dự án gặp nhiều trở ngại bởi thiếu đầu tư và không thu hút được sự quan tâm từ các nhà sản xuất máy tính. Cuối cùng, hãng quốc doanh Bharat Electronics đã đồng ý chế tạo thiết bị cầm tay này. Họ hy vọng sẽ bán được 50.000 chiếc trong năm đầu tiên.
-
-HỒNG YẾN (Theo BBC)

@@ -1,7 +1,0 @@
-﻿Game Online không làm nghẽn Internet
-
-Đó là khẳng định của các nhà cung cấp hạ tầng Internet hàng đầu tại VN hiện nay như VDC, FPT, Viettel… trong buổi hội thảo chuyên đề “Dịch vụ trò chơi trực tuyến” được tổ chức ngày 20–12 tại Sở BC-VT TPHCM. 
-Các nhà cung cấp hạ tầng Internet khẳng định vì các game online (GO) tại VN hiện nay có máy chủ đặt trong nước, mà liên kết trong nước của tất cả dịch vụ Internet tốc độ cao VN hiện nay đều được sử dụng trên một băng thông rất rộng, đồng thời dung lượng của từng người chơi là nhỏ nên không thể gây tắc nghẽn Internet. 
-Vấn đề đường truyền của chúng ta chỉ nằm ở phía các cổng quốc tế, có giá thuê quá cao nên các doanh nghiệp phải giới hạn cổng thuê bao quốc tế để giảm chi phí. Vì vậy các DN cho rằng dưới góc độ kỹ thuật thì không cần phải hạn chế số GO được cấp phép. Trước cuộc hội thảo này, các nhà quản lý nhà nước từng lo lắng, Internet có thể bị “sập” trước sự phát triển của GO.
-
-Theo SGGP

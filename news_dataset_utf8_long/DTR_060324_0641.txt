@@ -1,9 +1,0 @@
-﻿Trojan mới được trang bị công nghệ rootkit
-
-Công ty bảo mật Sana Security (Mỹ) vừa cảnh báo về một phần mềm nguy hiểm có khả năng ăn cắp tên tài khoản, mật khẩu... của người dùng Internet. Do sử dụng "tấm áo choàng" rootkit, Trojan này gần như không thể bị phát hiện.
-
- Dù vậy, trước khi tập hợp dữ liệu, phiên bản Rootkit.hearse phải tìm cách thâm nhập vào hệ thống của nạn nhân, như lừa họ mở file chứa mã nguy hiểm. Nó hoạt động âm thầm nhưng mỗi khi người sử dụng vào một trang có yêu cầu nhập thông tin xác thực, nó lập lưu lại và gửi tới một máy chủ đặt ở Nga (server này bắt đầu hoạt động từ 16/3). 
-Rootkit.hearse gồm hai thành phần: một ứng dụng Trojan có thể liên lạc với máy chủ từ xa và một Rootkit giúp mã độc hại trở nên "vô hình" trước công cụ diệt virus. Công ty Sana cho biết phần mềm này được tải kèm với sâu Win32.Alcra. 
-Tính đến ngày 21/3, máy chủ tại Nga đã nhận được 35.000 thông tin tài khoản của nạn nhân thuộc 7.000 website khác nhau, trong đó có cả các trang web ngân hàng, đấu giá... Sana đã liên hệ với nhà cung cấp dịch vụ Internet ở nước này về vấn đề trên, nhưng có vẻ như site vẫn đang hoạt động. 
-Rootkit.hearse áp dụng những thủ thuật tương tự như phần mềm XCP trong những đĩa CD tai tiếng gần đây của Sony BMG Music Entertainment . 
-Theo T.N. VnExpress/PCWorld

@@ -1,7 +1,0 @@
-﻿Lập "trung tâm kinh tế ảo" cho SV thực tập
-
-Trung tâm kinh tế ảo gồm hệ thống với hai máy chủ và 62 máy con cấu hình mạnh kết nối Internet, đèn chiếu phục vụ các hoạt động học thuật và thực hành mô hình kinh tế ảo cho sinh viên. 
-Trung tâm này hoạt động với mô hình quản lý doanh nghiệp ảo, ngân hàng ảo, kinh doanh chứng khoán, tiền tệ, kinh doanh các mặt hàng nông sản thực phẩm, hải sản... tạo môi trường thực hành hiện đại, giúp sinh viên áp dụng kiến thức đã học vào thực tế. 
-Dịp này, trung tâm này cũng được dùng làm hệ thống quản lý thị trường và tiếp nhận lệnh mua bán của sàn giao dịch chứng khoán ảo.
-
-MINH GIẢNG

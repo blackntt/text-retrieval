@@ -1,6 +1,0 @@
-﻿Xem TV khắp nơi bằng máy xách tay!
-
-Dave Orton, giám đốc điều hành của ATI khẳng định rằng vị thế của ATI hiện nay đã đủ sức bành trướng loại card TV độc đáo này đến hầu hết các công ty sản xuất máy xách tay có tầm cỡ trên thế giới. Bộ thu TV độ nét cao này đã được thử nghiệm hoàn tất từ hồi tháng 2-2006, đây là loại chip WTV100-M (Imageon) đuợc tích hợp với các dạng kênh đôi RF với các modul tương thích DVB-T/DVB-H OFDM, bao gồm chuẩn UHF của châu Âu và L-Band của Mỹ. 
-ATI cho biết rằng các bộ vi xử lý đồ họa TV Imageon có khả năng xử lý tín hiệu video và audio hết sức hoàn hảo cho công nghệ TV DVB-H vốn cũng rất phổ biến hiện nay, nhất là ở châu Âu và Mỹ. Loại chip WTV100-M trước đây được sản xuất chủ yếu cho ĐTDĐ và các thiết bị xách tay, loại chip này đã được sự ủng hộ mạnh mẽ của nhà khổng lồ Nokia, vốn dĩ nhiệt tình ủng hộ chuẩn DVB-T và DVB-H. Đây cũng chính là nguyên nhân chủ yếu để ATI mạnh dạn tung ra đại trà các dòng card TV WTV100-M, tạo điều kiện cho người dùng máy tính xách tay xem TV mọi lúc mọi nơi.
-
-THỤY KHANH (Theo The Inquirer)

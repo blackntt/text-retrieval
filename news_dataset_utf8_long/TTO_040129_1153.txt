@@ -1,8 +1,0 @@
-﻿Xuất hiện biến thể virus Mydoom
-
-Mydoom-B tương tự như “anh chị” của nó xuất hiện hôm 26/1, nhưng cài chương trình đặt ngày tấn công từ chối dịch vụ phân tán vào website của Microsoft và chặn người dùng máy tính bị nhiễm virus vào những site cung cấp phần mềm an ninh. 
-Sâu mang theo file đính kèm có kích thước lớn hơn với thông điệp như: "sync-1.01; andy; I'm just doing my job, nothing personal, sorry." 
-Các chuyên gia an ninh đặt virus "Mydoom-B" ở mức nguy hiểm thứ hai trong hệ thống báo động virus 4 mức của công ty. Công ty phần mềm Kaspersky cho biết hiện nay đã có một số trường hợp bị nhiễm loại sâu này. 
-Kể từ thời điểm phát sinh vào đầu tuần, MyDoom (còn có tên khác là Novarg, Mimail.R hay Shimgapi) đã thâm nhập vào hàng triệu máy tính trên toàn cầu, gây thiệt hại tính lên tới hàng tỷ USD. MyDoom đã lan tràn ở 142 quốc gia trên thế giới, chiếm 1/12 tổng lượng e-mail lưu chuyển trên Internet. Tốc độ lây lan này đã vượt qua kỷ lục của virus Sobig-F, từng xuất hiện vào cuối năm ngoái, và đạt mức lây lan kỷ lục với 1/17 e-mail được MessageLabs tìm kiếm qua mạng Internet.
-
-T.M (theo PCW)

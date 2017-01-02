@@ -1,8 +1,0 @@
-﻿VDC hợp tác cung cấp mạng riêng ảo với Nhật Bản
-
-Hôm nay, công ty VDC và Tập đoàn KDDI Nhật Bản đã tiến hành ký kết thoả thuận hợp tác cung cấp dịch vụ IPVPN (dịch vụ mạng riêng ảo trên Internet). Theo dự kiến hai bên sẽ cung cấp dịch vụ từ tháng 8/2006. 
- Mạng riêng ảo VPN (Virtual Private Network) có thể được phát triển trên nhiều môi trường khác nhau: công nghệ chuyển mạch gói X.25, công nghệ chuyển mạch khung Frame Relay, ATM, hay Internet. 
-Giai đoạn đầu hai bên sẽ mở 2 kênh E1 (tương đương với tốc độ 2x2Mbps) tới Nhật Bản và Singapore bằng 2 tuyến cáp biển khác nhau, đề phòng trường hợp sự cố xảy ra vẫn đảm bảo lưu thông liên lạc và truyền dữ liệu. 
-Với thoả thuận cung cấp dịch vụ vừa được ký kết, VDC và KDDI đã cùng nhau mở rộng phạm vi cung cấp dịch vụ, đặc biết hướng tới thị trường Nhật Bản với mục tiêu cung cấp dịch vụ IPVPN có chất lượng toàn trình (end-to-end service management). Hai bên hợp tác cung cấp dịch vụ theo hình thức một cửa. 
-Dịch vụ mạng riêng ảo IPVPN được cung cấp trên nền công nghệ MPLS cho phép người sử dụng có được những tính năng ưu việt so với sử dụng mạng Internet thông thường. Dịch vụ cho phép liên lạc truyền thông một cách dễ dàng trên toàn cầu, tiết kiệm chi phí và cho phép khả năng tăng quy mô cao. Đặc biệt với công nghệ MPLS, mạng VPN sẽ được bảo mật an toàn khi chia sẻ vào các mạng đường trục lớn. 
-Hiện nay, các doanh nghiệp nước ngoài, đặc biệt các doanh nghiệp của Nhật Bản đầu tư tại Việt Nam ngày càng tăng, do đó việc cung cấp dịch vụ IPVPN với KDDI có ý nghĩa lớn đối với VDC và còn nâng cao vị thế kinh tế của Việt Nam trong thời gian tới khi mở cửa và các nhà cạnh tranh trong nước chuyển hướng sang kinh doanh data. Bảo Trung

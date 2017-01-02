@@ -1,9 +1,0 @@
-﻿Robot thông minh nhất thế giới
-
-Robot này trông giống như một đứa trẻ cao 1,5m, nặng 67kg, mặc bộ đồ du hành màu xanh và xám, là robot đầu tiên giống con người hoạt động nhờ sử dụng mạng lưới điều hành vô tuyến. 
-Nó có thể học hỏi để có thêm nhiều kiến thức, điều này hoàn toàn khác với những robot trước đây, máy móc được nối với máy tính bên ngoài thông qua mạng lưới công nghệ tin không dây tốc độ cao. 
-Robot có thể nhận ra chủ nhân, phát hiện và phân tích những tín hiệu, âm thanh và cả những hoạt động của con người. Ví dụ hỏi nó tên vì, nó sẽ đáp " xin lỗi, tôi vẫn chưa có tên, làm ơn đặt tên cho tôi". Khi bắt tay tạm biệt, nó sẽ nói "Hẹn gặp nhau vào lần tới, khi đó tôi sẽ thông minh hơn"... 
-Ngoài ra, Robot này có khả năng trao đổi thông tin với máy chủ và phản ứng một cách nhanh chóng tạo nên cuộc trao đổi sống động thật sự. "Đây là robot giống người đầu tiên hoạt động nhờ vào mạng lưới điều hành vô tuyến. Chúng tôi chế tạo ra nó dựa vào trình độ khoa học kỹ thuật đang phát triển mạnh ở Hàn Quốc ", You Bum-Jae thuộc viện khoa học kỹ thuật Hàn Quốc cho biết. 
-Tuy nhiên, robot này có tốc độ đi chậm hơn ASIMO của Nhật, tốc độ tối đa của nó là 0.9km/giờ trong khi AISIMO có thể chạy với vận tốc 3km/giờ. Trong tương lai, robot này có thể trở thành trợ lý́ trong gia đình và các văn phòng.
-
-Đ.TÂM (Theo AFP)

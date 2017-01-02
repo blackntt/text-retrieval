@@ -1,9 +1,0 @@
-﻿Phát hiện được nhiều bệnh chỉ trong 30 phút
-
-Thông thường những con chip dùng để chẩn đoán bệnh được làm bằng thủy tinh do đó chỉ khi nào máu được các thiết bị khác tinh lọc thì nó mới có khả năng phát hiện được bệnh. 
-Nhưng con chip của công ty Toray được làm ra từ nhựa thông nhân tạo và có thể phát hiện được một số lượng nhất định các protein trong máu. 
-Ông Masashi Higasa, thuộc công ty Toray cho biết:" Đối với một số bệnh đặc biệt là ung thư thì việc chữa trị càng hiệu quả khi bệnh được phát hiện sớm. Chúng tôi muốn bệnh nhân phát hiện sớm các căn bệnh nguy hiểm". 
-Máu của bệnh nhân sẽ được tinh lọc khi nó chạy dọc theo một đường rãnh hóa chất có trên bề mặt con chip. Chỉ những protein trong máu cần thiết và có ích cho việc chẩn đoán mới có thể "về đến đích". Toàn bộ quá trình chẩn đoán bệnh chỉ diễn ra trong vòng 30 phút. 
-Công ty dự định sẽ tung "con chip chẩn đoán bệnh nhanh nhất thế giới" ra thị trường Nhật trong vòng 2 năm tới. Tuy nhiên theo các chuyên gia y tế thì bệnh nhân không nên quá tin tưởng vào xét nghiệm "nhanh" này mà sau đó nên thử lại với những xét nghiệm kỹ hơn trong bệnh viện.
-
-KINH LUÂN (Theo AFP)

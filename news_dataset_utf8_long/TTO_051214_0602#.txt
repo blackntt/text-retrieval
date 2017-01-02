@@ -1,6 +1,0 @@
-﻿Sinh viên tư vấn hướng nghiệp cho sinh viên
-
-Đây là chương trình hỗ trợ định hướng nghề nghiệp và cung cấp những thông tin, kiến thức cần thiết cho các HS được khoa kinh tế thực hiện tại tám trường THPT thuộc khu vực Đông Nam bộ (hiện đã được năm trường với 2.300 HS được tư vấn). 
-Theo chủ tịch Hội SV khoa kinh tế Trần Minh Đức, mô hình tư vấn hướng nghiệp này được khoa kinh tế áp dụng lần đầu trong cả nước; nhằm cung cấp nội dung, đặc điểm của các ngành được đào tạo và các tư vấn viên SV vốn gần trang lứa với tuổi học trò nên có thể tiếp cận tâm lý, nguyện vọng và trao đổi những thắc mắc của HS.
-
-TRUNG CƯỜNG - MY LĂNG

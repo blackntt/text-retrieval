@@ -1,8 +1,0 @@
-﻿Intel thảo luận với Trung Quốc về kinh doanh WLAN
-
-Phát biểu với phóng viên tại Đài Bắc hôm 5/4, Intel CEO Craig Barrett nói: "Chúng tôi không thay đổi vị trí cơ bản của mình. Chúng tôi sẽ tiếp tục bán công nghệ di động Centrino cho đến 1/6. Hi vọng chúng tôi sẽ đạt được những thỏa thuận về vấn đề này." 
-"Vấn đề" ở đây chính là sự cương quyết của chính phủ Trung Quốc khi yêu cầu các công ty bán các trang thiết bị WLAN tại Trung Quốc phải theo chuẩn WAPI(Wired Authentication and Privacy Infrastructure). 
-WAPI được công bố vào tháng 5 trong nỗ lực khắc phục những thiếu sót liên quan đến vấn đề bảo mật trong chuẩn WLAN cũ. WAPI có hiệu lực từ 1/12/2003. Tuy nhiên chính phủ Mỹ đã đề nghị Trung Quốc dời tới tháng 6/04 mới thực thi. 
-Nhà sản xuất chip Wi-Fi Broadcom đồng tình với Intel về vấn đề này nhưng Atheros, Linksys và Texas Instruments nói rằng họ sẽ tuân theo WAPI của Trung Quốc. Thị trường Wi-FI hiện đáng giá đến 3 tỉ USD và riêng ở Trung Quốc con số này sẽ đặt đến 520 triệu USD vào năm 2005. Các nhà phân tích dự đoán Trung Quốc sẽ là thị trường chiến lược và Intel chắc sẽ phải nhượng bộ.
-
-ANH TUẤN (The Register)

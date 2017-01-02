@@ -1,8 +1,0 @@
-﻿Từ điển cho ĐTDĐ đầu tiên chạy trên hệ điều hành Symbian
-
-Một số tính năng ưu việt của chương trình này là dữ liệu được nén với dung lượng lớn; thời gian tìm nghĩa của từ là 0,25 giây; nhập và hiển thị tiếng Việt trên phông Unicode; và có thể dễ dàng phát triển tính năng thêm từ như: thêm từ điển Pháp, Hoa hoặc Đức. 
-Về nguyên tắc, những điện thoại có cài đặt hệ điều hành Symbian đều sử dụng được phần mềm này. Hiện tại, chương trình đã được chạy thử nghiệm trên điện thoại Nokia 6600, 3650 và NGAGE. 
-"Đây là một sản phẩm hoàn toàn miễn phí và hy vọng cộng đồng mã nguồn mở sẽ cùng tham gia phát triển, cải tiến sản phẩm để có thể mang lại nhiều lợi ích hơn cho người sử dụng. Đơn cử trong tương lai, cộng đồng sẽ cải tiến để phần mềm có thể chạy được trên điện thoại Sony Ericsson P800, P900, Siemens SX1...", Tiến sĩ Trần Viết Huân, trưởng phòng nghiên cứu và phát triển TMA cho biết. 
-Phần mềm do Công ty Phần mềm TMA xây dựng và bạn có thể tải miễn phí tại đây .
-
-VI THẢO

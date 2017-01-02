@@ -1,8 +1,0 @@
-﻿Phần mềm quản lý và tính tiền truy cập Internet công cộng nhận giải thưởng
-
-Trước đó phần mềm này đã đạt nhiều giải thưởng khoa học của khu vực và thành phố Cần Thơ. 
-Ý tưởng đến với kỹ sư trẻ Tăng Hoàng Sang khi chứng kiến những phiền toái trong việc thanh toán cước truy cập internet theo kiểu thủ công tại các phòng cho thuê máy công cộng. Chức năng quan trọng của phần mềm trên là khi cài đặt vào máy trạm, khách truy cập xong máy nào thì máy chủ sẽ hiển thị số tiền khách phải trả. Phần mềm còn có chức năng khóa máy tính tự động để tránh thất thoát doanh thu khi bị khách truy cập “lậu”. 
-Sau khi đưa phần mềm ra chạy thử nghiệm ở các tụ điểm internet công cộng đã được đông đảo các đại lý hoan nghênh. Do là phần mềm cài tiếng Việt nên đã chiếm nhiều ưu thế so với các phần mềm hỗ trợ quản lý bằng tiếng Anh hiện hữu. Ngoài ra phần mềm còn có khả năng quản lý và lưu trữ các thông tin về người dùng internet công cộng. Đặc biệt, phần mềm đã được kỹ sư trẻ Tăng Hoàng Sang cải tiến bổ sung thêm chức năng “bức tường lửa” nhằm ngăn chặn các trang web có nội dung xấu. Các đại lý chỉ cần nhập các địa chỉ web đen vào phần mềm này là khách hàng không thể vào xem được. 
-Hiện nay phần mềm này đã được Trung tâm tin học Bưu điện (ITC) cung cấp cho hơn 200 khách hàng là các đại lý internet công cộng ở các địa phương như Cần Thơ, An Giang, Kiên Giang, TP Hồ Chí Minh và Hà Nội. Giá thành hiện nay khoảng 495.000đồng /bản đang được Trung tâm tin học Bưu điện (ITC) khuyến khích các đại lý Internet công cộng áp dụng nhân rộng.
-
-Theo TTXVN

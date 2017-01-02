@@ -1,6 +1,0 @@
-﻿Tìm đường trên web
-
-Trang www.diadiem.com sẽ cho bạn câu trả lời nhanh nhất về vị trí của một địa chỉ nào đó tại Hà Nội hay TPHCM. Không những thế trang web này còn chỉ ra lộ trình ngắn nhất để đến nơi bạn cần, hoặc giúp tìm kiếm địa chỉ một công ty qua tên gọi, tra cứu địa chỉ từ số điện thoại… rất tiện lợi. 
- Đây là một website hoàn toàn bằng tiếng Việt, do nhóm Mái Ấm Vina xây dựng và đã đoạt giải thưởng “Trí tuệ Việt Nam 2005 khu vực Đồng bằng Sông Cửu Long” với những chức năng chính như: Tìm kiếm một địa điểm khi biết địa chỉ và tên đường; Tìm kiếm đường đi giữa hai địa điểm bất kỳ; Lưu trữ các kết quả đã tìm để tăng tốc độ tìm kiếm; In kết quả tìm kiếm ra giấy; Thông tin hướng dẫn lộ trình di chuyển dễ hiểu, rõ ràng; Xác định vị trí, xem thông tin nhà hàng, khách sạn… 
-Trang web hiện có 3 cách tìm kiếm: Sử dụng chức năng bản đồ (bấm chọn mục bản đồ); Sử dụng chức năng Công ty (bấm chọn mục công ty); Sử dụng chức năng điện thoại (bấm chọn mục điện thoại). 
-Hiện tại website chỉ hỗ trợ tìm kiếm trên địa bàn Hà Nội và TP Hồ Chí Minh. Hoa Đào

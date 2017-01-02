@@ -1,9 +1,0 @@
-﻿Microsoft Excel bị “rách” lần thứ 3
-
-Chỉ trong một tuần đã có 3 lỗi xuất hiện trong chương trình bảng tính của Microsoft. Người dùng Excel lại có thêm lý do nữa để lo lắng về tính an toàn trong ứng dụng văn phòng nổi tiếng này. 
- Theo cảnh báo đăng trên trang Securitytracker.com, hacker tấn công người dùng bằng cách chạy một phần mềm không hợp pháp trên máy tính nạn nhân và lừa người dùng mở file Excel nguy hiểm. 
-Những kẻ gian lợi dụng công nghệ Flash của Adobe System, được dùng để tạo đồ họa và ảnh động trong bản Excel. “Khi người dùng mục tiêu mở file bảng tính thì mã Flash nguy hiểm sẽ tự động thực thi mà không cần người dùng tương tác”, bản cảnh báo cho biết. 
-Juha-Matti Laurio, nhà nghiên cứu an ninh độc lập ở Helsinki , nhận xét lỗi tấn công lần này rất đáng lo ngại vì mã khai thác có thể được thực thi mà không cần người dùng can thiệp nhiều. “Thực tế, nhúng mã nguy hiểm vào bảng tính không phải chiêu tấn công phổ biến nhưng, vấn đề là đáng lo ngại nhất là nếu mở file độc thì ngay lập tính sẽ dính virus”, ông này nói. 
-Nhóm an ninh của Microsoft thực sự rất bận rộn trong mấy tuần qua. Thứ 3 tuần trước, hãng phần mềm đã vá một lỗi nghiêm trọng trong phần mềm Word; và trong tuần này, Microsoft lại bị “dội” thêm 3 lỗ hổng Excel. 
-Hiện tại, Microsoft chưa có ý kiến phản hồi về cảnh báo trên website Securitytracker.com. 
-N.H Theo PCWorld

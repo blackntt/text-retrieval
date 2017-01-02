@@ -1,9 +1,0 @@
-﻿Google khai trương chương trình bảng tính miễn phí
-
-Hôm nay, hãng tìm kiếm khổng lồ Mỹ sẽ tung ra chương trình bảng tính (spreadsheet), giúp người dùng và doanh nghiệp sử dụng miễn phí để thay thế ứng dụng Excel vốn Microsoft tiến được bộn tiền trong nhiều năm qua. 
- Bước đầu, bảng tính trực tuyến của Google sẽ chỉ được phân phối cho một số người dùng giới hạn vì hãng còn đang muốn phát triển thêm một số tính năng nữa, Jonathan Rochelle, giám đốc sản phẩm của ứng dụng mới thuộc Google cho biết. 
-Theo công ty có trụ sở ở California , bảng tính online này không phức tạp như Excel. Ví dụ, bảng tính này không tạo ra các biểu đồ hay cung cấp menu điều khiển, thay vào đó, người dùng chỉ cần click chuột phải. 
-Mục đích của chương trình là nhằm giúp các gia đình, bạn bè hoặc đồng nghiệp có thể truy cập dễ dàng cùng một bảng tính trên nhiều máy tính khác nhau vào các thời điểm khác nhau, cho phép một nhóm người dùng có quyền bổ sung hoặc chỉnh sửa dữ liệu mà không cần phải gửi e-mail đính kèm. “Chúng ta đang hướng tới một xã hội chia sẻ”, ông Rochelle nói. 
-Đây là ứng dụng mới nhất của Google khai thác tối đa nền tảng Internet chứ không dựa trên ổ cứng của máy tính. Tháng 3 vừa rồi, Google đã mua lại ứng dụng xử lý văn bản Writely. Tất cả những ứng dụng miễn phí này đều đe dọa Microsoft. Khi Google thâm nhập vào lãnh địa của họ thì Microsoft cũng đã tính đến chuyện tấn công bằng cách đầu tư mạnh mẽ vào lĩnh vực tìm kiếm trên Internet. 
-Tuy nhiên, Microsoft chưa gây “hề hấn” gì cho Google. Một số nhà phân tích tin rằng viễn cảnh cạnh tranh sẽ cam go hơn vào đầu năm tới khi Microsoft chính thức phát hành phiên bản hệ điều hành Vista đang rất được trông đợi. 
-Hương Nguyên Theo AP

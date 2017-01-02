@@ -1,9 +1,0 @@
-﻿Virus không muốn “nấp” trong e-mail nữa
-
-Hôm qua, hãng bảo mật Sophos (Anh) cho biết, trong 6 tháng đầu năm nay, tỷ lệ e-mail chứa phần mềm ma đã giảm đáng kể, chỉ có 1/91 e-mail có virus hay các loại phần mềm độc hại ẩn chứa, ít hơn rất nhiều so với tỷ lệ 1/35 của năm 2005. 
- Graham Cluley, cố vấn công nghệ cao cấp của Sophos, cho biết: “E-mail bây giờ an toàn hơn rất nhiều. Nhưng, những kẻ phá hoại sẽ dùng các thủ thuật khác để qua mặt các phần mềm dò virus. Chúng đang viết các loại phần mềm độc hại khác để lừa người dùng”. 
-Theo Sophos, những kẻ viết phần mềm ma (malware) đang tập trung phát triển các chương trình Trojan, một loại phần mềm nguy hiểm chứa những các mã dò bàn phím (keylogger). Keylogger gửi tên đăng nhập và mật khẩu của người dùng cho tin tặc để chúng chiếm quyền kiểm soát máy tính, ăn trộm số thẻ tín dụng và các thông tin cá nhân khác. 
-Trojan, không giống như virus, không thể tự nhân bản. Trong nửa đầu năm nay, Sophos đã ghi nhận 81% phần mềm xấu phát tán trên Internet với mục đích tài chính. 
-Ông Cluley cho biết, tội phạm mạng đã rất tinh vi. Khi chúng phát tán e-mail ẩn chứa virus hoặc Trojan thì các công ty diệt virus như Sophos nhận được báo cáo và nhanh chóng cập nhập bản diệt virus. Vì vậy, những kẻ viết phần mềm ma chỉ gửi rất ít e-mail xấu và hướng tới những đối tượng tiềm năng. 
-Mặc dù vậy, theo Cluley, các mã malware cũ vẫn phát tán dễ dàng trên Internet vì máy tính người dùng không cài phần mềm diệt virus để đối phó với những kẻ chuyên đi phá hoại. 
-Nguyên Hương Theo TechWorld

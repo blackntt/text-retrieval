@@ -1,8 +1,0 @@
-﻿Công nghệ nhận dạng bằng tai
-
-Công nghệ này có thể được sử dụng để nhận dạng một người nào đó từ các hình ảnh trên truyền hình hoặc kết hợp với điện thoại di động để nhận dạng người sử dụng, Mark Nixon, một chuyên gia về nhận dạng tại Trường ĐH Southampton cho biết. Phương pháp này cho chỉ số so sánh nhiều hơn so với các phân tích khuôn mặt. 
-"Tai bao gồm những đặc điểm riêng", ông nói. Không như khuôn mặt, chúng không dễ thay đổi hình dạng cũng như tuổi tác hay giọng nói, nằm cố định ở vùng giữa của đầu và không thể đoán được từ phía sau. “Tóc là một vấn đề, nhưng điều đó có thể được giải quyết bằng cách sử dụng các hình ảnh hồng ngoại”, Nixon nói. 
-Trong một nghiên cứu quy mô nhỏ ban đầu trên 63 người, tất cả đều có cơ sở dữ liệu để nhận dạng khuôn mặt, Nixon và đồng nghiệp nhận thấy phương pháp của họ cho kết quả chính xác đến 99,2%. Theo Nixon, tuy đây chỉ là bước đầu nhưng về lý thuyết, phương pháp này có thể tiếp tục được cải tiến để cho hiệu quả cao hơn. 
-Trước đây cũng đã từng có phương pháp nhận dạng bằng tai, nhưng các phương pháp này lại sử dụng cách gần giống như nhận dạng khuôn mặt, bao gồm việc rút ra những đặc điểm chủ yếu, ví dụ vị trí của mắt và mũi, hoặc vị trí của các đường rãnh trong trường hợp nhận dạng bằng tai…
-
-TƯỜNG VY (Theo Newscientist)

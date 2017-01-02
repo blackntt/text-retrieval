@@ -1,8 +1,0 @@
-﻿Thay thế Calculator bằng Moffsoft FreeCalc
-
-Giao diện sử dụng của Moffsoft FreeCalc hoàn toàn hơn hẳn so với Calculator: chữ số và các dấu cộng trừ nhân chia to và rất rõ ràng, hỗ trợ thêm hai phím 00 và 000 để thể hiện những chữ số có nhiều số 0; thêm vào hai phím chức năng là M- và CT. 
-Nhưng đột phá độc đáo nhất của Moffsoft FreeCalc chính là khả năng lưu lại toàn bộ các tính toán trước đó để người dùng có thể sử dụng lại trong các lần tính toán tiếp theo. Phía bên tay phải của Moffsoft FreeCalc có một ô trống, trong đó sẽ lưu lại toàn bộ mọi phép tính dưới dạng văn bản tính toán hết sức trực quan. Bạn có thể sao chép toàn bộ những con số trong bảng lưu này để sử dụng cho các lần tính toán tiếp theo; lưu lại dưới dạng văn bản TXT hoặc in ra để xem... Bạn cũng có thể copy toàn bộ kết quả trong bảng này rồi dán vào Word hay Excel để sử dụng. 
-Để trang trí cho Moffsoft FreeCalc, bạn có thể vào Options -&gt; Chọn Color Scheme để chọn một trong sáu màu nền cho Moffsoft FreeCalc. 
-Bạn đọc có thể tải miễn phí chương trình này tại địa chỉ: http://www.moffsoft.com .
-
-THIÊN TRANG

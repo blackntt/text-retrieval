@@ -1,7 +1,0 @@
-﻿TP.HCM tạo đột phá trong ứng dụng khoa học tính toán
-
-Đây là phác thảo của GS.TS Nguyễn Thiện Nhân - phó chủ tịch thường trực UBND TP.HCM - tại cuộc bàn thảo xoay quanh vấn đề “xây dựng và phát triển KHCN tính toán của TP.HCM giai đoạn 2006-2010”, hôm qua 4-1. 
-GS.TS Phạm Tuấn - đến từ Đại học James Cook, Úc - đã mang đến cuộc bàn thảo những kết quả nghiên cứu rất mới trong lĩnh vực sinh - tin học, một hướng nghiên cứu triển vọng, còn mới tinh trên thế giới như nhận dạng giọng nói để nhận dạng sự giống nhau của gen, của protein..., hay việc dùng những hình ảnh chụp các đơn vị tế bào cực nhỏ ở người để so sánh, nhận biết những tế bào mang bệnh tật và tế bào khỏe mạnh... 
-PGS.TS Trần Linh Thước - trưởng khoa sinh học Trường ĐH Khoa học tự nhiên, ĐH QG TP.HCM - dự báo rằng sinh - tin học là ngành khoa học mới, có tiềm lực phát triển rất mạnh trong thời gian tới.
-
-Q.THANH

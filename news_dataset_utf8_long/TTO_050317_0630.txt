@@ -1,8 +1,0 @@
-﻿Trình diễn dữ liệu PDF không cần Adobe Reader
-
-Tuy nhiên để có thể đọc được những văn bản như thế đòi hỏi máy tính phải được cài đặt trình Adobe Reader của Adobe. Điều đáng nói ở đây không phải là Adobe Reader hiển thị không tốt hay thiếu công cụ hỗ trợ mà chính là lợi ích cho người tiêu dùng. 
-Mặc dù được cung cấp miễn phí nhưng với dung lượng lên đến 19 MB cộng với việc chiếm quá nhiều nguồn tài nguyên hệ thống khi hoạt động sẽ khiến bạn phải suy nghĩ. Tuy nhiên bạn cũng không nên quá lo lắng vì hiện nay có rất nhiều chương trình thay thế và Foxit PDF Reader rất đáng để bạn quan tâm. 
-Kế thừa những ưu điểm và khắc phục nhược điểm trên của Adobe Reader, Foxit PDF Reader mang đến nhiều lợi ích cho người sử dụng. Đầu tiên là chương trình được cung cấp miễn phí và với dung lượng rất vừa phải 995 KB lại không chiếm tài nguyên khi hoạt động. Kế đến bạn cũng không cần phải cài đặt chương trình vào máy tính nên thuận tiện cho việc di chuyển và sử dụng. Về khả năng trình diễn nội dung thì không có sự khác biệt gì giữa Adobe Reader và Foxit PDF Reader. Giao diện được thiết kế đơn giản và rất dễ dùng. 
-Bạn có thể tải miễn phí chương trình này tại địa chỉ: http://www.foxitsoftware.com/pdf/rd_intro.php với dung lượng 995 KB, tương thích tốt với các hệ điều hành Windows.
-
-GIANG VŨ VĂN

@@ -1,8 +1,0 @@
-﻿Năm 2007 thế giới sẽ có 3 tỷ thuê bao di động
-
-Chủ tịch của tập đoàn Ericsson, ông Carl-Henrik Svanberg đã đề cao nhu cầu ngày càng tăng đối với liên lạc băng rộng ở mọi nơi và sự phát triển mạnh mẽ không ngừng của số lượng thuê bao di động tại các thị trường mới. Theo ông, sang năm, thế giới sẽ có 3 tỷ thuê bao di dộng. 
- 
-Ông Svanberg cho biết: " Liên lạc băng rộng đã trở thành một nhu cầu cơ bản trong xã hội thông tin ngày nay và đã trở thành lĩnh vực phát triển nhanh nhất trong toàn bộ ngành công nghiệp viễn thông. Sự tăng trưởng số lượng thuê bao diễn ra cả trong mạng di động và cả trong lĩnh vực băng rộng cố định”. 
-Người sử dụng cần phải được kết nối với các dịch vụ liên lạc và thông tin như TV, nghe nhạc ở bất cứ nơi nào. Thêm vào đó, các nhà khai thác nhận thấy liên lạc băng rộng sẽ là chìa khóa tạo ra nguồn doanh thu mới từ những dịch vụ đó. 
-Cũng theo ông Svanberg, việc tăng trưởng dung lượng dữ liệu trong mạng băng rộng – cho cả truy cập di động và cố định sẽ tạo ra nhu cầu cực lớn về dung lượng mạng lưới để có thể đáp ứng được sự tăng trưởng đó. 
-Sự tăng trưởng của dịch vụ liên lạc băng rộng cũng còn đòi hỏi mạng lưới lõi phải được xây dựng và hiện đại hóa thành mạng trên giao thức IP (all-IP). Sư phát triển mạng lưới đó cũng rất cần thiết để đáp ứng việc các nhà khai thác ngày càng tập trung vào qui mô và giá thành mạng, cũng như việc phát triển tích hợp mạng. Bảo Trung

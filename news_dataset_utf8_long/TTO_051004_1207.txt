@@ -1,7 +1,0 @@
-﻿Camera siêu nhỏ "tuần tra" đường ruột
-
-Mục đích của các nhà nghiên cứu khi chế tạo robot này chính là camera được bọc trong một viên thuốc có khả năng di chuyển và dừng lại theo yêu cầu, cung cấp cho các bác sĩ những hình ảnh rõ ràng hơn về những hình ảnh mà nó ghi nhận được, giúp các bác sĩ tập trung vào những vùng đặc biệt gây lo ngại. 
-Các dạng camera bọc trong các viên nang hiện nay có khả năng ghi lại những hình ảnh bên trong ruột nhưng không thể kiểm soát được từ bên ngoài, vì vậy chúng chỉ trôi đi trong ruột cùng với các thứ khác. “Nó cho hình ảnh trải dài chứ không tập trung vào một chỗ, và nếu bạn phát hiện điều gì đó, nó cũng không thể quay lại và cho phép bạn xem xét kỹ hơn được”, Arianna Menciassi, người phát minh ra robot này tại Pisa, Ý cho biết. 
-Thiết bị được điều khiển bằng vô tuyến này có 6 chân, mỗi chân có một cái móc ở dưới. Điều này giúp nó trườn đi trên các màng nhầy trong ruột, đồng thời cũng rất nhỏ để không gây hại cho các mô mềm. Nó có thể dừng lại tại bất kỳ vị trí nào bằng cách bung ra một chiếc kẹp với hai càng dài 5mm, mỗi cái đều có móc bám. Chiếc kẹp này sẽ túm lấy thành ruột, giúp thiết bị không bị đẩy văng đi do dòng máu lưu chuyển trong cơ thể. Điều đặc biệt là nó chỉ gây một chút khó chịu chứ không làm bệnh nhân đau đớn.
-
-T.VY (Theo Newscientist )

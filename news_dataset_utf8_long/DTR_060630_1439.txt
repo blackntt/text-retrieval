@@ -1,9 +1,0 @@
-﻿Lỗi IE “mở đường” cho hacker đọc e-mail
-
-Hôm qua, các chuyên gia an ninh vừa khuyến cáo về một số vấn đề về bảo mật trong trình duyệt Internet Explorer của Microsoft, cho phép tin tặc chiếm quyền kiểm soát hệ thống hoặc đọc thông tin cá nhân của người dùng trên các website khác. 
- Theo các chuyên gia này, một trong những lỗi này cũng ảnh hưởng đến trình duyệt mã mở Firefox. 
-Một nhà nghiên cứu cảnh báo trên trang Full Disclosure rằng, trong 2 khiếm khuyết của IE, có một lỗi nghiêm trọng tiếp tay cho kẻ phá hoại lừa người dùng thực thi mã lệnh trên các hệ thống. Lỗi này liên quan đến khả năng xử lý các file chia sẻ nên tin tặc có thể chạy các ứng dụng HTA nguy hiểm. 
-Tuy nhiên, để khai thác được hệ thống, hacker phải lừa người dùng click đôi chuột trên một vị trí nào đó trên website. Một số hãng bảo mật, như Secunia, đánh giá lỗi này ở mức nghiêm trọng “trung bình”, trong khi một số hãng khác, như Viện công nghệ SANS lại cho rằng đây là lỗ hổng “nghiêm trọng”. 
-Lỗi thứ hai liên quan đến cách thức IE xử lý việc tái định hướng (redirection), cho phép tin tặc truy cập thông tin người dùng từ các website khác thông qua documentElement.outerHTML. “Hacker lợi dụng lỗi này để khôi phục dữ liệu trên những website mà người dùng đã truy cập”, đại diện của Trung tâm SANS Internet Storm Center (SANS ISC) nhấn mạnh. 
-Cũng trong tuần này, Microsoft đã vá lại một lỗ hổng đã được phát hiện từ cách đây 2 tuần, làm gián đoạn kết nối Internet dial-up. 
-N.H Theo TechWorld

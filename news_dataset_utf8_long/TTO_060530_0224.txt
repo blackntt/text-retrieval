@@ -1,6 +1,0 @@
-﻿Sẽ tính tiền nước hợp lý cho khách hàng
-
-Nguyên nhân việc đọc chỉ số chậm là do nhập số liệu vào danh bộ trễ nên phải chờ sắp xếp theo đúng lộ trình khác để đọc số. 
-Về cách tính tiền, bà Tâm cho biết chỉ ra một kỳ hóa đơn chứ không tách riêng thành nhiều kỳ. Tuy nhiên lượng nước định mức khách hàng được hưởng từ thời điểm bắt đầu sử dụng nước đến thời điểm thu tiền sẽ được cấp bù theo từng tháng tương ứng (trường hợp khách hàng khó khăn sẽ được cho trả chậm). Những hóa đơn tiếp theo, cách tính tiền sẽ trở lại bình thường.
-
-QUANG KHẢI

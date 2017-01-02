@@ -1,8 +1,0 @@
-﻿Office 2007 không hỗ trợ lưu tài liệu PDF
-
-Microsoft đã quyết định gỡ bỏ tính năng lưu file dưới dạng PDF trong gói ứng dụng văn phòng thế hệ mới của họ nhằm tránh những rắc rối về pháp lý với hãng phần mềm Adobe. 
- Chức năng "Save as PDF" là đặc điểm được rất nhiều khách hàng mong đợi bởi nó cho phép họ không cần tải thêm một phần mềm riêng biệt về máy. Ngoài ra, tập đoàn của Bill Gates cũng chủ động loại XPS (XML Paper Specification), định dạng đối đầu với PDF của họ, trong chương trình Office 2007 . Thay vào đó, họ sẽ cung cấp một phiên bản Windows Vista cài sẵn tính năng XPS với tên mã Metro. 
-PDF là chuẩn định dạng mở và đã được OpenOffice hỗ trợ, nhưng Adobe lo ngại rằng việc tích hợp trong phần mềm Office 2007 sẽ tác động lớn đến công việc kinh doanh của họ. Microsoft cho biết xung đột giữa hai công ty đã bắt đầu từ tháng hai khi họ từ chối trả tiền cho Adobe để trang bị PDF trong Office. 
-Phát ngôn viên Jodi Warner của Adobe không tiết lộ họ sẽ trình đơn phàn nàn tới Ủy ban châu Âu hay thực hiện một vụ kiện chính thức. 
-Tuy vậy, chuyên gian phân tích Joe Wilcox của công ty nghiên cứu Jupiter Research (Mỹ) tỏ ra nghi ngờ thông tin Adobe sẽ thu phí PDF bởi như thế PDF sẽ không còn là chuẩn mở nữa. 
-Theo P.T. VnExpress/PCWorld

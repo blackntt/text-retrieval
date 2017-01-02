@@ -1,9 +1,0 @@
-﻿Thêm một Trojan “ẩn” trong Microsoft Word
-
-Hãng bảo mật Anh Sophos vừa khuyến cáo về một loại Trojan mới có tên Kukudro-A phát tán với số lượng lớn bằng một file Word đính kèm trong e-mail nhằm chiếm quyền truy cập máy tính để ăn cắp thông tin cá nhân. 
- Khi nạn nhân mở tài liệu Word hứa hẹn cung cấp thông tin về các laptop của HP, Apple và Sony được gửi trong e-mail, Trojan Kukudro-A lại tự động cài đặt thêm một loại Trojan mới là Kuku-A trên ổ cứng của máy tính người dùng. Từ đó, tin tặc có thể truy cập vào PC mà người dùng không hề hay biết. 
-Spam phát tán với rất nhiều dòng chủ đề, như “Đáng để xem – worth to see”, “Giá cả - prices” và “Xin chào – Hello”. Theo Sophos, file zip độc (như “prices.zip”, “apple_prices.zip” hay “sony_prices.zip”) được đính kèm trong những e-mail có chủ đề trên. 
-Hãng bảo mật đã ghi nhận được một trường hợp bị phát tán malware này vào ngày 27/6. Hãng này cho rằng tác giả đứng sau malware này chính là người tạo ra sâu Sality chuyên ăn trộm thông tin từ máy tính người dùng bằng chương trình dò bàn phím keylogger. 
-“Mọi người cần phải tự hỏi tại sao mình lại được gửi e-mail này nếu mở file đính kèm sẽ là một sai lầm lớn đấy”, Graham Cluley, cố vấn công nghệ của Sophos, cảnh báo. “Trojan lần này phát tán mạnh mẽ nhằm đột nhập vào máy tính Windows của người dùng ngây thơ”. 
-Theo ông, Trojan sẽ tìm cách download thêm mã trên Internet để có thể giúp tin tặc chiếm quyền truy cập PC nhằm ăn cắp, gián điệp, đánh sập hệ thống. 
-N.Hương Theo VNuNet

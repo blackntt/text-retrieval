@@ -1,9 +1,0 @@
-﻿Lưu trữ di động: mối nguy hiểm tiềm ẩn
-
-Công nghệ di động giúp người dùng dễ dàng download một tệp tin vào ĐTDĐ và truy cập các file này trên “dế” bằng kết nối Wi-Fi ở nơi công cộng…Tuy nhiên, mối nguy hiểm về tính bảo mật của dữ liệu khi bị mất máy hay khi dùng Wi-Fi mới là điều đáng lo ngại. 
- Bị mất điện thoại lưu trữ toàn bộ thông tin mật của công ty cũng đồng nghĩa với việc trao chìa khóa kho tài liệu của công ty cho kẻ trộm vì ĐTDĐ rất dễ bị giải mã. 
-Theo một bài báo đăng trên tạp chí New York Times, chỉ riêng 6 tháng cuối năm 2005, 85.000 điện thoại di động và 21.000 máy tính xách tay bị bỏ quên trên taxi ở thành phố Chicago . Do vậy, tổng số các thiết bị điện tử bị mất trên cả thế giới sẽ còn lớn hơn rất nhiều. Tuy nhiên, vấn đề nghiêm trọng không phải là ở thiết bị đó mà là toàn bộ dữ liệu lưu trữ trong đó có thể sẽ bị tin tặc lấy cắp bằng kết nối Wi-Fi và bằng cách giải mã điện thoại. 
-Ngày càng nhiều thiết bị cầm tay chạy hệ điều hành Windows Mobile và các hệ điều hành liên quan đến PC nên virus máy tính sẽ tìm cách xâm nhập vào thị trường handheld, “tiếp tay” cho tin tặc khai tác tài nguyên trên thiết bị. 
-Các công ty đã khuyến cáo các nhân viên cần phải cẩn trọng khi sử dụng. Và, người dùng đã bị “mê hoặc” bởi những trào lưu sở hữu công nghệ tân tiến nhất vì tưởng rằng như vậy là an toàn. Rất nhiều công ty đã nghiêm cấm việc lưu trữ các dữ liệu công việc quan trọng vào thiết bị di động. Trong khi đó, một số công ty tự đặt hàng các mẫu điện thoại cho nhân viên. Những mẫu điện thoại này được trang bị một thiết bị khóa an ninh, nếu không được kích hoạt, bộ nhớ trong máy sẽ bị xóa sạch. 
-Vấn đề đáng quan tâm hơn nữa chính là nhận thức. Để nhân viên hiểu được rằng cần phải cẩn thận hơn với dữ liệu quan trọng là một bài toán khó đối với các chuyên gia an ninh. 
-Mọi người cần phải tự bảo vệ chính thiết bị của mình và không nên truy cập Wi-Fi ở những nơi không quen thuộc. S.Hương (theo MobileMag )

@@ -1,3 +1,0 @@
-﻿RoBOTanks –Chiến đấu trong mê cung
-
-Dung lượng: 2,26 MB. Download: http://www.absolutist.com/robotanks/robotanks.exe Nhiệm vụ của bạn trong game này rất đơn giản: Lái chiếc xe tăng robot trong những mê cung để tìm diệt xe tăng, ụ pháo và trung tâm chỉ huy địch; đồng thời đặc biệt chú ý bảo vệ trung tâm chỉ huy của mình vì nếu “đầu não” bị tiêu diệt, bạn sẽ không thể tạo ra xe mới trong trường hợp bị trúng đạn. Xe tăng của bạn được trang bị tên lửa (phím Space để phóng) và súng máy (phím Alt để bắn). Có 4 cấp độ vũ khí và 4 cấp độ áo giáp bảo vệ cho xe tăng trong game. Trong khi lái, cần chú ý tránh những cái bẫy và bể axít. Điểm đặc biệt nhất của RoBOTanks là có Level Editor (công cụ biên tập cấp độ), cho phép bạn tùy biến giao diện game theo ý thích.

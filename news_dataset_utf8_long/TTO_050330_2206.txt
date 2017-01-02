@@ -1,9 +1,0 @@
-﻿Chế tạo robot phẫu thuật trên chiến trường
-
-Người ta cho biết kết quả của cuộc nghiên cứu này sẽ là một bước tiến rất lớn trong việc cứu sống con người. Sắp tới Lầu Năm Góc sẽ được xem một đoạn băng của nhà sản xuất cho thấy khả năng của robot này có thể phẫu thuật một binh lính ngay giữa đạn bom rồi sau đó chuyển người lính đến nơi an toàn. 
-Kỹ thuật chế tạo robot này sẽ dựa trên và cải tiến kỹ thuật phẫu thuật Da Vinci. Đây là một kiểu phẩu thuật dân sự dùng robot có 3 tay (2 tay cầm dụng cụ phẫu thuật và 1 tay cầm máy quay phim được đưa vào cơ thể bệnh nhân thông qua 3 vết rạch dài 1 cm) nối với bác sĩ phẫu thuật, bác sĩ không trực tiếp đụng vào người bệnh nhân mà thao tác cách bệnh nhân vài mét và quan sát diễn tiến ca mổ thông qua một màn ảnh 3 chiều, robot sẽ thực hiện đúng tất cả hững thao tác của bác sĩ giải phẫu. Hiện nay kỹ thuật này thường được dùng để phẫu thuật cắt bỏ khối u tuyến tiền liệt hoặc phẫu thuật van tim. 
-Tuy nhiên để chế tạo được loại robot phẫu thuật ngay tại chiến trường, các nhà khoa học phải vượt qua được 2 thử thách chính đó là: 
-- Trong kỹ thuật phẫu thuật Da Vinci thì y tá sẽ là người thay dụng cụ mổ cho robot trong khi nếu ra ngoài chiến trường thì công việc này sẽ được thực hiện tự động. 
-- Khi ra chiến trường sẽ không còn dây nối giữa robot và bác sĩ phẫu thuật do đó robot phải là một thiết bị không dây đồng thời nó còn phải né được quân thù.
-
-KINH LUÂN (Theo BBC NEWS)

@@ -1,7 +1,0 @@
-﻿ThinkFree: Văn phòng ở khắp nơi
-
-Các ứng dụng văn phòng chạy qua web đang mọc lên như nấm và ngày càng hoàn thiện. Tiêu biểu hiện nay là ThinkFree, với hàng loạt tính năng vừa được cập nhật. 
- Dung lượng lưu trữ miễn phí cho mỗi người dùng đã được tăng từ 30MB lên 1GB, khiến ThinkFree thực sự trở thành một văn phòng đáng tin cậy thường trực trên web, cho phép người dùng lưu trữ rất nhiều tài liệu và có thể lấy ra để xử lý bất kỳ lúc nào. 
-Các tính năng mới đặc trưng kiểu Web 2.0 là khả năng cộng tác giữa các người dùng; khả năng duyệt tài liệu theo tag; chức năng Mashup cho phép liên kết hoạt động với các dịch vụ web khác như Flickr (chèn ảnh vào văn bản), bản đồ số của Google và Yahoo!, Del.icio.us (chia sẻ địa chỉ web). 
-Các công cụ xử lý văn bản, bảng tính và trình diễn của ThinkFree đều tương thích với các ứng dụng tương đương của Microsoft Office. 
-Theo T.A Lao động

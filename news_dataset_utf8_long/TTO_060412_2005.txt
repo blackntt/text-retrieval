@@ -1,7 +1,0 @@
-﻿TP.HCM: Học sinh lớp 9 kiểm tra học kỳ 2 theo đề trắc nghiệm
-
-Kết cấu đề kiểm tra sẽ bao gồm phần tự luận và phần trắc nghiệm. Trong đó, các môn: Văn, Sử, Địa, Hóa, Sinh: tỉ lệ điểm trắc nghiệm/điểm tự luận là 3/7; môn Tiếng Anh là 7/3 (đặc biệt có kiểm tra phần nghe: làm bài trắc nghiệm, học sinh sẽ được nghe một đoạn thoại khoảng 2 - 3 phút, lặp lại 3 lần); Toán: 2/8; Vật lý: 5/5. 
-Thời gian kiểm tra từ 3-5 đến 6-5. Thời lượng làm bài môn Toán, Văn: 90 phút; tiếng Anh: 60 phút; các môn còn lại: 45 phút. 
-Riêng đối với khối 6,7,8: Phòng GD-ĐT quận, huyện chủ động quyết định lịch kiểm tra, ra đề; thời gian làm bài và kết cấu đề không thay đổi so với năm học trước.
-
-H.HG.

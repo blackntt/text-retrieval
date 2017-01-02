@@ -1,5 +1,0 @@
-﻿NASA phát triển phần mềm "đọc được suy nghĩ"
-
-Trong thử nghiệm ban đầu, chương trình có thể nhận biết sáu chữ và 10 số chính xác đến 92% khi chúng được suy nghĩ thầm lặng. Các chữ đó là stop (ngưng), go (đi), left (trái), right (phải), alpha và omega. Bằng cách ghi mã kỹ thuật số cho từng mẫu tự và sử dụng các thuật toán, nhóm nghiên cứu có thể lướt trang web mà không cần đụng vào bàn phím. Trong bước thử nghiệm sắp tới, nhóm nghiên cứu sẽ thử ra lệnh (không phát thành tiếng) cho một robot giống như các robot đang thám hiểm sao Hỏa.
-
-N.T.ĐA (Theo AFP, ABC, Chinadaily)

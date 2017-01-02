@@ -1,9 +1,0 @@
-﻿Dịch vụ bảo mật của PayPal bị tấn công
-
-Các chuyên gia bảo mật vừa phát hiện ra một lỗi của mã kịch bản chuyển trang của dịch vụ thanh toán trực tuyến PayPal cho phép tin tặc tấn công lừa đảo phishing bằng cách giả mạo trang đăng nhập PayPal có cả chứng nhận bảo mật. 
- 
-Các chuyên gia của Netcraft, công ty dịch vụ Internet tại Anh cho biết kẻ giả mạo đang khai thác lỗi này để lấy thông tin cá nhân người dùng, bao gồm đăng nhập PayPal, số thẻ an sinh xã hội và thông tin chi tiết thẻ tín dụng. Trang PayPal, thuộc sở hữu của eBay, cho phép người dùng thực hiện thanh toán trực tuyến với nhau trên thẻ tín dụng của họ, đăng nhập tin cậy vào dịch vụ, là mục tiêu của các kẻ giả mạo. 
-Tấn công hoạt động bằng cách lừa thành viên PayPal vào trang chứa mã nguy hiểm từ trang an toàn của PayPal. Bất kỳ ai muốn kiểm tra chứng nhận an toàn của trang này đều nhận được một chứng nhận 256 bit thuộc site PayPal. 
-Địa chỉ URL bị lỗi trên site PayPal cho phép kẻ giả mạo thêm mã nguồn của mình vào trang trả về. Trong trường hợp này, sẽ có thông báo có thể tài khoản người dùng đang bị lợi dụng, và họ được “định hướng lại tới Trung tâm giải pháp”. Trang họ được định hướng tới sẽ yêu cầu thông tin tài khoản PayPal của khách hàng, nhưng trang này không thuộc site PayPal. Thay vào đó, trang này ăn cắp chi tiết đăng nhập và gửi chúng tới máy chủ của kẻ giả mạo, sao đó yêu cầu người dùng các thông tin cá nhân khác. Máy chủ thu thập thông tin này đặt tại Hàn Quốc. 
-Công nghệ dùng mã chuyển trang làm thủ đoạn lừa đảo phishing khó phát hiện hơn. Nếu liên kết nguy hiểm nằm trong e-mail, thì sẽ có dấu vết cho thấy thư đó giả mạo. Mặc dù ban đầu công nghệ mã chuyển trang có mục đích tốt là để chuyển dữ liệu giữa các trang site, nhưng nó cũng tiềm ẩn nguy hiểm. 
-PayPal vẫn chưa có bình luận gì về lỗi này. Theo AI VietNam/InfoWorld

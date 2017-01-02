@@ -1,8 +1,0 @@
-﻿Google tìm kiếm "xuyên" Desktop
-
-Hãng tìm kiếm khổng lồ Mỹ vừa bổ sung thêm một vài tính năng trong chương trình tìm kiếm trên Desktop, gồm khả năng search đồng thời trên nhiều máy tính và gửi thông tin trực tiếp đến máy của bạn bè 
- Phiên bản nâng cấp Google Desktop 3 có thể tùy biến thanh Sidebar và tìm kiếm đồng thời trên nhiều máy tính. Ngoài ra, công cụ còn có thể khóa chức năng truy tìm bằng mật khẩu để ngăn không cho người khác tìm các file quan trọng trên máy tính. 
-Với phiên bản beta mới này, người dùng có thể kéo module Sidebar đến bất cứ đâu trên màn hình theo ý thích. Người sử dụng cũng có thể gửi các đường link, các thông tin khác cho bạn bè bằng e-mail, thông qua kênh giao tiếp Gmail Chat vừa được khai trương hoặc gửi trực tiếp đến thanh Sidebar bằng chương trình Google Talk. 
-Người dùng máy tính bây giờ có thể sử dụng Google Desktop để search đồng thời các thông tin lưu trên nhiều máy tính, thậm chí những PC này không kết nối Internet. “Khi một người tìm kiếm thông tin trên một máy tính thì PC thứ hai cũng tự động truy tìm theo yêu cầu”. 
-Google sẽ xóa tất cả bản sao các file từ máy chủ trogn vòng 30 ngày và mã hóa dữ liệu. 
-Tìm kiếm trên Desktop là lĩnh vực rất “đắt khách” nên các công ty tìm kiếm đều nỗ lực xây dựng các tính năng mới nhằm “qua mặt” đối thủ. S.Hương (theo New York Times )

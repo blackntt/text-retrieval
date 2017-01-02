@@ -1,6 +1,0 @@
-﻿Liếc mắt điều khiển máy vi tính
-
-Một cậu học sinh trung học ở thành phố Nam Kinh (Trung Quốc) vừa phát minh ra một loại máy tính có thể giúp những người sử dụng nhàn hạ hơn vì có thể điều khiển máy chỉ bằng cách liếc mắt.
-Cậu học sinh tên Zhou Chen cho biết cậu đặt tên cho sản phẩm của mình là "con chuột bằng mắt" vì người dùng có thể điều khiển máy bằng mắt chứ không cần nhắp chuột. Ví dụ như muốn đến một địa chỉ trang web nào đó đã có sẵn trên màn hình, người sử dụng chỉ cần nhìn vào màn hình và di chuyển ánh mắt của mình. Loại máy tính này được cho là một bước tiến, tạo tiền đề để chế tạo robot thông minh.
-
-Theo Thanh Niên

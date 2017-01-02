@@ -1,5 +1,0 @@
-﻿Đại học Quốc gia TPHCM trở thành Học viện mạng cấp khu vực của Cisco
-
-(NLĐ) - Ngày 8-9, Khu Công nghiệp phần mềm Đại học Quốc gia TPHCM chính thức trở thành Học viện mạng cấp khu vực của Cisco tại VN chuyên phụ trách giáo trình Cisco Certified Network Associate (CCNA).CCNA là một giáo trình gồm 4 thành phần riêng biệt. Giáo trình này nhấn mạnh tới việc sử dụng các kỹ thuật xử lý sự cố và quyết định xử lý sự cố đối với những vấn đề liên quan tới hệ thống mạng. Các học viên sẽ học cách giải quyết sự cố cấp độ 1, nâng cao hiệu suất hoạt động và tính bảo mật của hệ thống mạng. Các khóa đào tạo còn bao gồm việc sử dụng các công cụ và thiết bị phần mềm mạng...
-
-T.Dũng

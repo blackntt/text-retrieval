@@ -1,7 +1,0 @@
-﻿Thử nghiệm dịch vụ truy nhập Internet trên máy bay
-
-(NLĐO)- Bộ Bưu chính viễn thông (BCVT) vừa đồng ý cho hãng Connexion by Boeing được phép cung cấp thử nghiệm dịch vụ truy nhập Internet trên máy bay. 
-Các hãng hàng không gồm Asiana Airlines, China Airlines, Lufthansa German Airlines, Singapore Airlines Limited, Etihad Airway và Korean Air là các hãng đã uỷ quyền cho Connexion by Boeing nộp đơn cho Bộ BCVT được phép sử dụng hệ thống Connexion by Boeing để thử nghiệm cung cấp dịch vụ truy nhập Internet trên máy bay khi bay qua lãnh thổ VN từ 30-5-2006 đến 30-5-2007. 
-Các hệ thống của Connexion by Boeing được phép sử dụng dải tần số 914.00 – 14.25) GHz đối với chiều lên và dải tần số (12.20 – 12.24) GHz đối với chiều xuống và phải đảm bảo việc sử dụng này không gây can nhiễu đến các hệ thống thông tin khác. Hệ thống của Connexion by Boeing phải có thống số kỹ thuật tuân thủ theo các quy định kỹ thuật của VN và các tiêu chuẩn bảo vệ theo khuyến nghị của ITU. Connexion by Boeing có trách nhiệm báo cáo thử nghiệm cung cấp dịch vụ Internet trên máy bay theo yêu cầu của Bộ BCVT.
-
-T.Dũng

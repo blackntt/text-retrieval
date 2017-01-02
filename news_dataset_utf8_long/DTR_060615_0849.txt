@@ -1,8 +1,0 @@
-﻿Xuất hiện mã nguồn tấn công sản phẩm Microsoft
-
-Chỉ một ngày sau khi Microsoft ban hành bản tin bảo mật tháng 6/2006, giới hacker đã tung lên mạng mã nguồn lợi dụng sự yếu kém về bảo mật này. 
- Hầu hết các miếng vá mà Microsoft ban hành đều là những lỗ hổng đã được biết đến rộng rãi. Tuy nhiên, có ít nhất 2 lỗ hổng mới được công bố lần đầu vào ngày 13/6 - ngày ban hành bản tin bảo mật. 
-Các hãng bảo mật đã thông báo tìm thấy mã nguồn khai thác những lỗ hổng mới nhất trong các sản phẩm Microsoft vào ngày hôm qua 14/6. Mã khai thác dành cho các lỗ hổng chưa được biết tới có nghĩa là hacker có thể sử dụng mã để tấn công vào những hệ thống chưa kịp cài đặt miếng vá. 
-"Việc mã nguồn khai thác một số lỗ hổng được tung lên mạng Internet đã được Microsoft tìm hiểu. Ngoại trừ bản tin bảo mật số MS06-027 (lỗ hổng cho phép tấn công vào Word), Microsoft hiện vẫn chưa nhận biết bất cứ cuộc tấn công nào bằng mã nguồn này, và mã nguồn cũng không tác động tới những người dùng đã cài đặt tất cả những bản nâng cấp bảo mật tháng 6/2006. 
-Một số mã khai thác được tung lên mạng dành cho những lỗ hổng "nghiêm trọng" trong Windows Media Player, và tính năng "truy cập routing và từ xa". Trung tâm cảnh báo virus máy tính SANS cho biết đã phát hiện được hai mã nguồn khai thác tính năng "truy cập routing và từ xa". 
-VH Theo CNet

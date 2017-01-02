@@ -1,9 +1,0 @@
-﻿"Miếng dán kỹ thuật số" giúp kiểm tra sức khỏe
-
-Thiết bị này, được phát triển bởi các nhà khoa học Anh, có thể giúp kiểm tra thân nhiệt, huyết áp, lượng đường, sau đó gửi các kết quả đo được đến một máy tính và nó sẽ đưa ra các cảnh báo về các vấn đề đáng lo ngại cho sức khỏe. 
-"Miếng dán kỹ thuật số" này bao gồm một con chip silicon được gọi là Sensium, có thể đưa các cảm biến đến vùng có những dấu hiệu xấu. Một cảm biến có thể bắt được xung điện của tim nếu nó cho thấy có vấn đề. Các cảm biến khác sẽ kiểm tra các dấu hiệu như nhiệt độ, huyết áp, lượng đường. Tất cả các thông tin sau đó được lập trình bởi con chip Sensium, hoạt động nhờ vào một bộ pin nhỏ có kích thước như pin của đồng hồ đeo tay. 
-Các dữ liệu sau đó được gửi từ thiết bị này đến một cơ sở dữ liệu máy tính - thông qua điện thoại di động hay qua máy trợ lý cá nhân dùng kỹ thuật số - được lập trình để phát hiện các kết quả nằm ngoài vùng xác định. 
-Những người chế tạo nói rằng các bệnh nhân tự họ có thể báo động tình trạng bệnh của mình nếu kết quả cho thấy là đáng lo ngại. Thiết bị này cũng có thể được dùng cho những người muốn trông chừng từ xa một người họ hàng cao tuổi. “Bạn có thể dùng một cảm biến di động để kiểm tra tình hình sức khỏe của một người họ hàng lớn tuổi của mình. Chúng tôi sẽ chế tạo thiết bị này sao cho thật nhỏ gọn và cần rất ít năng lượng”, các nhà chế tạo cho biết. 
-Thiết bị y tế từ xa này có thể giúp kiểm tra sức khỏe tim, được sử dụng đặc biệt cho những người có nguy cơ mắc bệnh tim và chứng loạn nhịp tim cao. Nó cũng có thể được sử dụng ở nhiều lĩnh vực y tế khác nhau vốn phức tạp và nhạy cảm. June Davison, một y tá chăm sóc bệnh nhân tim tại Quỹ từ thiện tim của Anh nói: “Hệ thống y tế từ xa giúp tăng cường chăm sóc bệnh nhân để họ có thể được chẩn đoán và điều trị tại địa phương, tránh phải di chuyển một khoảng cách xa”.
-
-KIM NHUNG (Theo BBC)

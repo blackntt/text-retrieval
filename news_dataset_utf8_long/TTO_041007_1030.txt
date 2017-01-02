@@ -1,8 +1,0 @@
-﻿IBM chuẩn bị tung ra phần mềm ứng dụng doanh nghiệp mới
-
-WebSphere Application Server 6 là một phần mềm chuyên biệt dành cho máy chủ chạy trên nền Java, chuyên xử lý cho các ứng dụng doanh nghiệp. Phần mềm này sẽ chính thức được phân phối vào cuối năm nay. Các máy chủ hiệu Big Blue nổi tiếng của IBM cũng được thêm vào các tính năng tái thiết kế của phần mềm này giúp cho việc điều hành các máy chủ trở nên hiệu quả hơn, đơn giản hơn ngay cả trong trường hợp các ứng dụng đang hoạt động. 
-Đối thủ chính của IBM trong trong thị trường máy chủ ứng dụng dựa trên nền Java là công ty BEA Systems, BEA cũng đang cố gắng lấy lại cân bằng sau 6 tháng hoạt động chậm chạp và đang hướng đến nhiều dự án mới. Oracle cũng đã có mức tăng trưởng khá trong thị trường máy chủ ứng dụng này. Thị trường cạnh tranh ngày càng sôi động hơn với sự góp mặt của Sun Microsystems, ông khổng lồ này đang nỗ lực giành giật khách hàng cùng với các nhà phát triển có khả năng chuyển đổi sang hệ thống mã nguồn mở như Jboss. 
-Có rất nhiều nét mới được thể hiện trong WebSphere 6 Application Server như thời gian khởi động nhanh hơn, giao diện hấp dẫn hơn, có “nhiều đất” hơn cho các nhà phát triển phần mềm độc lập. Bản WebSphere 6.0 giới thiệu một công cụ mới giúp cho các máy chủ này đang hoạt động có thể phục hồi lẫn cho nhau. 
-Hiện IBM chưa tiết lộ về giá cả của WebSphere 6. Giá hiện tại của WebSphere Network Deployment (phiên bản cũ) là 15.000 USD cho mỗi máy. Phiên cũ bản giản lược dành cho doanh nghiệp vừa và nhỏ có giá 2.000 USD cho mỗi máy nhưng chỉ giới hạn cho máy chủ có 2 bộ vi xử lý.
-
-HOÀNG HẢI (Theo CNET)

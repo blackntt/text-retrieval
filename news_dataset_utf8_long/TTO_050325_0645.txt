@@ -1,7 +1,0 @@
-﻿Thế kỷ 21 - sao còn đọc tốc độ tàu hỏa bằng miệng?
-
-Trong khi phần kết nối tốc độ chỉ để sử dụng cho hộp đen khi sự việc tồi tệ đã xảy ra rồi. Tại sao chúng ta không thiết kế một hệ thống cảnh báo tốc độ cho đường sắt? 
-Về phần nhận biết địa điểm tàu, chúng ta có thể sử dụng bộ định vụ qua vệ tinh (satellite locator) và cũng nên có thêm những cảm biến hoặc những bản đường đặc biệt mà camera của máy vi tính có thể đọc được địa điểm tàu đang đi qua chính xác hơn. Ngoài ra, máy vi tính sử dụng trong trường hợp này phải là loại máy tương tự như trên máy bay, không bao giờ được phép treo, vì nếu máy vi tính treo thì tàu hỏa gặp họa. 
-Là một chuyện gia có kinh nghiệm về phần cứng tại Mỹ, theo dõi những công nghệ tại VN đang có, tôi tin chắc rằng VN có khả năng chế tạo hệ thống kiểm soát tốc độ này vì nếu chúng ta mua của nước ngoài thì rất đắt. Nếu ngành đường sắt cần hỗ trợ, tôi sẵn sàng tư vấn miễn phí về vấn đề này.
-
-Locson@

@@ -1,6 +1,0 @@
-﻿Nokia công bố mã nguồn trình duyệt cho ĐTDĐ
-
-Nokia vừa công bố mã nguồn của trình duyệt web cho điện thoại di động (ĐTDĐ) của hãng trong nỗ lực khuyến khích ngành công nghiệp tiêu chuẩn hóa một trình duyệt web.
-Bất kỳ nhà sản xuất nào cũng có thể sử dụng và hiệu chỉnh mã nguồn nói trên để phục vụ cho nhu cầu của họ. Nokia đã thiết kế trình duyệt web nói trên cho dòng ĐTDĐ S60 vào năm ngoài, sử dụng cùng loại mã nguồn mở được Apple Computer dùng cho trình duyệt Safari và thêm vào những tính năng cải tiến để nó phù hợp cho việc duyệt web trên điện thoại.
-
-Theo PC World

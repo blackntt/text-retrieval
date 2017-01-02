@@ -1,8 +1,0 @@
-﻿Phisher trang MSN “lĩnh” 21 tháng tù
-
-Trong nỗ lực truy quét nạn gian lận trực tuyến (phishing), hãng phần mềm Microsoft đã đệ 125 đơn kiện lên tòa án để truy tố những kẻ lừa đảo phisher từng đột kích hơn 2.000 website cho tới thời điểm này. Theo đó, kẻ gian tấn công trang MSN phải nhận án 21 tháng tù. 
- Ngày 19/5, phisher lừa đảo trên website MSN của Microsoft là Jayson Harris, 23 tuổi, sống ở Davenport, Iowa (Mỹ) đã bị tuyên án 21 tù. 
-Cuối tháng 12 năm ngoái, Harris đã tìm cách gian lận khách hàng của MSN bằng chiêu lừa đảo dành riêng cho website này. Harris thú nhận đã gửi e-mail cho khách hàng của MSN nhằm lừa người dùng cả tin truy cập vào một trang MSN giả mạo để ăn cắp số thẻ tín dụng và các thông tin cá nhân khác. 
-Harris cho biết chiêu lừa đảo đó đã “phỉnh” được khoảng 50 – 250 nạn nhân “vào tròng”. Tòa yêu cầu Harris phải bồi thường số tiền xấp xỉ 57.000 USD. 
-“Động thái này đánh dấu bước đột phá trong sáng kiến ngăn chặn nạn phishing toàn cầu của Microsoft”, ông Aaron Kornblum, luật sư an ninh Internet của Microsoft, nói. “Chúng tôi hy vọng bản này sẽ mang ý nghĩa răn đe những tin tặc đang có ý định lừa đảo trực tuyến”. 
-N.H Theo InformationWeek

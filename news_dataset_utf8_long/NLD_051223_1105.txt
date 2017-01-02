@@ -1,9 +1,0 @@
-﻿Thêm một chương trình Trojan mạo danh Ông già Noel
-
-Giả dạng một bưu thiếp điện tử được gửi đi từ ông già Noel, chương trình Trojan mới kích động người dùng mở file đính kèm với lời hứa hẹn: "món quà bất ngờ thú vị". 
-Theo phòng thí nghiệm PandaLabs của hãng phần mềm Panda, Trojan "MerryX.A" ẩn thân bên trong một email có file đính kèm là "animation". Một khi người dùng kích hoạt file này, cùng với hình ảnh ông già Noel phát quà trên màn hình, một malware (phần mềm phá hoại) trá hình sau tên file "SQLServer.exe" sẽ ngấm ngầm cài đặt lên các máy tính chạy hệ điều hành Windows. 
-Malware này sẽ hoạt động như một tên do thám, góp nhặt và truyền tất cả thông tin về chiếc máy tính bị nhiễm đến một máy chủ từ xa, sau đó tùy theo ý muốn của hacker, chúng sẽ download một số loại file nhất định về máy. Trong số này nhiều khả năng là các malware khác. 
-Trước đó, hồi đầu tuần, các chuyên gia bảo mật cũng đã nhận dạng được một loại sâu lây lan qua đường IM có tên IM.GiftCom.All, tấn công tất cả người dùng Yahoo, MSN lẫn AOL Messenger. 
-Một khi xâm nhập được vào máy tính người dùng, con sâu này sẽ tìm kiếm danh sách tất cả contact có trong IM rồi tự gửi tin nhắn tới những địa chỉ này, thúc giục họ ghé thăm website có đường link đi kèm. Nếu người nhận click vào đường link, website này sẽ tải một malware khác về máy tính. Cứ thế, IM.GiftCom.All lây lan từ máy này sang máy khác với tốc độ chóng mặt. Theo thông lệ, những dịp cuối năm thế này luôn tạo cơ hội thuận lợi cho hacker và tác giả của malware phô diễn tài nghệ của chúng, bởi người dùng Internet ít đề cao tinh thần cảnh giác trước những tin nhắn mang tiêu đề chúc mừng Giáng sinh hoặc năm mới. Bằng thời điểm này năm ngoái, sâu Zafi cũng đã phát tán rất mạnh qua đường email có nhan đề "Merry Christmas".
-
-VNN

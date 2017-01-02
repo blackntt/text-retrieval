@@ -1,9 +1,0 @@
-﻿Virus đầu tiên “nhảy” từ PC sang điện thoại
-
-Hiệp hội các nhà nghiên cứu phần mềm diệt virus điện thoại (MARA) vừa phát hiện ra con virus đầu tiên có thể lây lan từ máy tính sang các thiết bị di động chạy hệ điều hành Windows Mobile của Microsoft. 
- Sau khi đã lây nhiễm trên máy tính Windows, con sâu "Crossover" này ẩn trong một danh mục, sau đó tự động kích hoạt khi người dùng mobile kết nối với máy tính bằng ứng dụng đồng bộ hóa Microsoft ActiveSync. 
-Theo các chuyên gia an ninh, hacker thiết kế con sâu kỹ thuật số này chỉ để nhằm “khoe khoang” tính năng chứ không gây tác hại gì. 
-“Đây là bằng chứng chỉ nhằm mục đích cảnh cáo. Con virus này thu hẹp khoảng cách giữa máy tính để bàn và thiết bị cầm tay. Thế giới luôn rộng mở!”, những người tạo ra con sâu "Crossover" gửi kèm lời cảnh báo này. 
-Trong nhiều năm qua, các công ty sản xuất phần mềm diệt virus đã cảnh báo về những mối đe dọa của virus điện thoại di động. Tuần trước, McAfee cho biết hãng đã phát hiện hơn 200 con virus di động và cảnh báo rằng loại sâu này sẽ còn tăng nhanh hơn cả virus máy tính. 
-Hiện tại, sâu tấn công handheld chạy hệ điều hành Windows Mobile vẫn còn rất hiếm. 
-N.Hương Theo VNuNet

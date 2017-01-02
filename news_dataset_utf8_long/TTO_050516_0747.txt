@@ -1,7 +1,0 @@
-﻿Công nghệ lừa đảo mới qua mặt các bộ lọc
-
-Netcraft, công ty chuyên nghiên cứu về web của Anh cho biết: chiêu thức mới mà bọn chuyên lừa tiền trên mạng (phishing) hiện đang áp dụng là thay thế các nội dung bằng văn bản trên các e-mail hoặc trang web lừa đảo bằng các hình ảnh mà khi nhìn vào thì mọi người vẫn đọc được một nội dung tương tự. Nói cách khác, bọn lừa đảo đã dùng kỹ thuật “chụp hình” toàn bộ văn bản lừa đảo hoặc các câu chữ nhạy cảm thường được các bộ lọc “chú ý” và dùng các hình ảnh này để thay thế cho các cụm từ nhạy cảm đó. 
-Cách thức thay thế văn bản bằng hình ảnh này tỏ ra hết sức hiệu quả vì các bộ lọc thư lừa đảo tự động chỉ có thể rà soát các nội dung bằng văn bản được đưa lên trang web chứ không thể quét được các nội dung mà hình ảnh thể hiện. Các bộ lọc thường chú ý nhất đến các từ ngữ như: PayPal, thẻ tín dụng, tên người dùng, mật khẩu … nhưng nếu thay thế các từ ngữ này bằng hình chụp của chính nó là các bộ lọc đành… bó tay. 
-Các chuyên gia của Netcraft đang lớn tiếng cảnh báo về kỹ thuật phishing mới mẻ này có thể làm vô hiệu hóa hầu hết các phương pháp lọc thư lừa đảo hiện nay và dự đoán các nạn nhân của phishing công nghệ mới chắc chắn sẽ gia tăng mạnh nếu các công ty bảo mật không đưa ra được các công nghệ có khả năng ngăn chặn kịp thời.
-
-THIÊN TRANG (Theo TechWeb News)

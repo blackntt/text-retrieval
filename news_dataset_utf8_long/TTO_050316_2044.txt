@@ -1,7 +1,0 @@
-﻿Robot nhanh nhất
-
-Hitachi cho biết robot Emiew cao 1,3 m là robot có chuyển động nhanh nhất từ trước tới nay với tốc độ 6 km/g. Hai robot mẫu có tên Pal và Chum, sử dụng bánh xe, tự giới thiệu cho các nhà báo tại một cuộc họp báo ở Nhật. Giải thích tại sao robot Emiew dùng bánh xe thay vì chân, Toshihiko Horiuchi của hãng Hitachi, nói: ”Chúng tôi chế tạo lọai robot sao cho nó có thể sinh họat và sống chung với con người. Chúng tôi muốn robot có ích cho con người… Nếu robot di chuyển chậm hơn, người sử dụng sẽ thất vọng.” 
-Với các bộ cảm biến trên đầu, ngực và gần các bánh xe, Pal và Chum đã chứng minh chúng có thể phản ứng lại các mệnh lệnh như thế nào. Hai robot này có vốn từ vụng khỏang 100 từ, có thể được “đào tạo” để sử dụng trong việc văn phòng và cơ xưởng. 
-Trong khi đó, robot Qrio của hãng Sony biết hát, nhảy múa trong đội hình và, cho tới năm ngóai, là robot hai chân nhanh nhất thế giới. Nhưng kỷ lục của Qrio đã bị Asimo phá. Asimo có thể di chuyển 3 km/g, nhanh gấp bốn lần Qrio.
-
-Q.HƯƠNG (Theo BBC)

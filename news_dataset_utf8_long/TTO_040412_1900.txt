@@ -1,8 +1,0 @@
-﻿Tự làm lấy trò chơi ghép hình
-
-Điểm hay nhất của chương trình này là nó cho phép bạn chọn hình ảnh bất kỳ trên đĩa cứng để tạo ra những mảnh ghép, chứ không phải chỉ là hình ảnh tạo trước của chương trình. Do vậy, lượng tranh ghép hình của bạn sẽ rất phong phú. Sau khi tạo xong bạn có thể xuất sang dạng EXE để chạy bất cứ khi nào cần. 
-- Thao tác sử dụng rất đơn giản, bạn chọn hình ảnh trong mục Picture. Bạn có thể tạo hình nền trong mục Background. Sau khi lựa chọn xong, nhấn Make puzzle để tạo tập tin dạng EXE. Sau khi tạo xong chương trình sẽ hiện ra hộp thoại để xác nhận bạn muốn chạy thử không. Nhấn Yes để chạy. 
-- Cách điều khiển: Nhắp giữ chuột phải để kéo các mảnh nhỏ của tranh đến vị trí mong muốn. Nhấn chuột phải để quay hình. Nhấn phím V để xuất hiện hình mẫu chuẩn. Phím J dùng để đưa từng hình vào đúng vị trí (bạn đừng lạm dụng phím này nhé !). Phím A dùng để lần lượt đưa hình (khác với phím J chỉ đưa một hình cho một lần nhắp chuột.). 
-Ngoài ra, bạn có thể sử dụng các nút công cụ để điều khiển thêm một số tính năng khác.
-
-Theo LBVMVT

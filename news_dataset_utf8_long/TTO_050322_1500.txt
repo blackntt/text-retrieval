@@ -1,8 +1,0 @@
-﻿So sánh hai tập tin văn bản với Visual Comparer
-
-Visual Comparer giúp bạn xác định những khác biệt trong nội dung giữa hai tập tin văn bản. Chương trình có công dụng khá hay, sẽ giúp ích được khá nhiều cho các bạn thường xử lý các tập tin văn bản, so sánh nội dung hai tập tin mới và cũ tìm ra điểm khác biệt bằng cách điểm màu phần khác biệt. Visual Comparer sẽ đánh dấu từng phần nội dung giữa hai tập tin với các màu khác nhau giúp bạn dễ dàng phân biệt đâu là điểm giống, đâu là điểm khác nhau với độ chính xác 100%. 
-Không chỉ giúp tiết kiệm thời gian, Visual Comparer còn có khả năng hỗ trợ nhiều định dạng tập tin khác nhau đa phần là cho lập trình như: C/C++ ( .h, .hpp, .c, .cpp, .cxx, .rc, .tli, .tlh, .inl), Delphi 7 ( .pas), Visual Basic ( .vb, .bas), C# ( .cs), VBScript ( .vbs), Jscript ( .js), Perl ( .pl, .pm, .cgi), Text ( .txt), HTML ( .html, .asp, .htm, .php, .asa, .shtml, .stm, .xml..). Bạn cần chú ý khi so sánh hai tập tin phải cùng định dạng với nhau thì kết quả sẽ chính xác hơn. 
-Tải phiên bản dùng thử về tại đây . Khi mở Visual Comparer, bạn sẽ thấy hộp thoại yêu cầu chọn định dạng tập tin. Chọn tập tin cần so sánh nội dung, rồi chọn tiếp tập tin thứ hai, Visual Comparer sẽ tự động phân tích và cho ra kết quả bằng cách đánh dấu màu sắc các phần khác nhau, giống nhau của nội dung giữa hai tập tin. 
-Visual Comparer với cách sử dụng dễ dàng, đơn giản có thể rất có ích cho các lập trình viên hay các thầy cô giáo …
-
-TRẦN THANH TRỰC

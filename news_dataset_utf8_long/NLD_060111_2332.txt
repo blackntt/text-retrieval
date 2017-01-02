@@ -1,7 +1,0 @@
-﻿Starship Eleven
-
-Trong game này, bạn được giao nhiệm vụ lái một chiếc phi thuyền bị lạc trong không gian trở về căn cứ.
-Có 2 loại phi thuyền cho bạn chọn là Leisure Shuttle (tăng tốc và bắn tên lửa theo 3 hướng, dành cho người mới tập chơi) và Space Racer (xoay được 3600, tăng tốc về phía trước và phía sau, bắn tên lửa theo mọi hướng, dành cho “cao thủ”). 
-Bạn hãy dùng các phím mũi tên để lái và phím Space Bar để bắn tên lửa vào các chướng ngại vật trên đường bay. Lưu ý là phi thuyền không có hệ thống thắng. Vì thế, cố gắng “cầm” lái cho vững nếu không bạn sẽ đâm vào đá đấy! Đây là một game rất thú vị dành cho những người thích sự thử thách. Bạn có thể tải game này tại www.miniclip.com. Dung lượng khoảng 687 KB.
-
-THANH TÙNG

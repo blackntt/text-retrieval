@@ -1,9 +1,0 @@
-﻿Điểm yếu trong phần mềm Apache và OpenSSL
-
-Lỗi Apache là một trong nhiều vấn đề đã được thông báo của phiên bản 2.0.48, và cho phép một tin tặc mở kết nối thời gian ngắn trên một socket ít được sử dụng. Phần mềm này sẽ chặn tất cả những cuộc kết nối khác cho đến khi một cuộc kết nối khác được tiến hành trên cùng một socket đó. 
-Hiện nay, Apache Software Foundation đã công bố bản cập nhật cho phần mềm máy chủ HTTP để bít lỗi trên và một số lỗi khác. Người dùng có thể tải bản 2.0.49 tại đây . 
-Các chuyên gia bảo mật cũng cảnh báo về 3 lỗi mới trong phần mềm OpenSSL được sử dụng để cung cấp các thông tin bảo mật và mã hoá cho các ứng dụng mã nguồn mở. Những khiếm khuyết này tạo điều kiện cho tin tặc khiến các dịch vụ HTTPS (secure HTTP) mất tác dụng trên máy chủ web, và làm treo ứng dụng sử dụng OpenSSL. 
-Lỗ hổng tác động tới các hệ thống Linux cài phần mềm OpenSSL, đồng thời khiến nhiều bộ định tuyến và thiết bị mạng liên quan tới phần mềm này hoạt động không ổn định. Cisco cho biết thiết bị tường lửa PIX và một số bộ định tuyến của hãng này cũng bị ảnh hưởng. 
-Một loạt phiên bản OpenSSL bị ảnh hưởng là từ 0.9.6c đến 0.9.6k, và 0.9.7a đến 0.9.7c. Nhóm OpenSLL Project vừa cho ban hành 3 miếng vá bảo mật để bịt lỗ hổng cho OpenSSL. Thông tin chi tiết người dùng có thể tham khảo tại địa chỉ: http://www.openssl.org/source/ .
-
-T.M (Theo eWeek)

@@ -1,7 +1,0 @@
-﻿360 trường học Singapore ngừng truy cập Internet vì virus Agobot
-
-Bộ Giáo dục Singapore cho biết, hôm 10-5, trojan Agobot đã lây nhiễm vào ít nhất 30 đơn vị đào tạo.“Do đó, để ngăn chặn worm này lây lan ra các hệ thống của trường khác trên cả nước và của Bộ Giáo dục, tất cả các hệ thống máy tính tại những trường quốc gia đều phải tạm thời không truy cập Internet để diệt virus cho đến khi công cụ chống virus được nâng cấp trên từng máy tính”. Tuy nhiên, các mạng intranet vẫn hoạt động bình thường để sinh viên và giáo viên vẫn có thể sử dụng, Bộ Giáo dục Singapore thông báo. 
-Khi lây nhiễm vào PC, Agobot cố gắng sử dụng hệ thống đó để bom thư, lấy trộm khóa sản phẩm Windows, diệt các virus đã lây nhiễm trước như Blaster, Welchia, và Sobig.F, đồng thời đánh cắp thông tin đăng nhập vào kênh chat IRC, cũng như tên sử dụng và mật khẩu của mạng FTP, đồng thời cho phép tin tặc truy cập các hệ thống nhạy cảm. Nó còn vô hiệu hóa một số ứng dụng diệt virus, firewall và chặn truy cập vào nhiều trang web của các nhà cung cấp dịch vụ bảo mật. 
-Ngày 7-5, cảnh sát Đức đã bắt giữ tác giả trojan Agobot ở gần thị trấn Rotenburg và tiến hành bắt giữ tiếp 5 tòng phạm đã trao đổi thông tin lập trình loại virus này.
-
-T.M (Theo AFP)

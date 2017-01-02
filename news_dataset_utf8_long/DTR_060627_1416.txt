@@ -1,9 +1,0 @@
-﻿IBM tích hợp tin nhắn nhanh vào Microsoft Office
-
-IBM tuyên bố sẽ cài phần mềm tin nhắn nhanh (IM) dành cho doanh nghiệp Lotus Sametime 7.5 trong ứng dụng Microsoft Outlook, Office, SharePoint, thiết bị RIM Blackberry, Nokia và các sản phẩm di động chạy trên hệ điều hành Windows Mobile. 
- Khách hàng của Microsoft có thể dễ dàng truy cập chương trình IM Sametime 7.5 mà không cần phải bỏ tiền nâng cấp. Trong phần mềm xử lý văn bản, bảng tính và ứng dụng thuyết trình, người sử dụng có cơ hội trực tiếp gửi tin nhắn, tạo cuộc gọi, chia sẻ ứng dụng hoặc thiết lập hội thảo qua web. 
-Những người sở hữu tài khoản Outlook sẽ theo dõi thông tin hiển thị trực tuyến, thiết lập lịch trình và tiếp cận mọi tính năng của Lotus Sametime ngay trong Inbox. Qua thiết bị di động, khách hàng có thể biết được những ai trong nhóm được kết nối và họ đang ở vị trí nào và trao đổi thông điệp nhanh qua IM hoặc voice chat. 
-Ngoài ra, mọi người có thể khai thác tối đa các khả năng của chương trình hỗ trợ tương thích (plug-in) và công nghệ Web 2.0. Chẳng hạn, Lotus Sametime "mashup" (kết hợp đa ứng dụng trên cùng một nền tảng) có thể xác định vị trí và status của thành viên nhóm trong danh sách liên lạc (contact list), sau đó hiện thị trên một bản đồ trực tuyến. 
-Sametime 7.5 là nền tảng tin nhắn nhanh dành cho doanh nghiệp duy nhất có thể nhận dạng vị trí của người sử dụng. Ngoài ra, hệ thống còn cho phép đàm thoại VoIP giữa nhiều người với nhau. Chương trình này của IBM hoạt động trên nhiều nền tảng như Windows, Mac đến Linux. 
-Lotus Sametime 7.5 sẽ chính thức xuất hiện trong quý III/2006. Khả năng hỗ trợ RIM Blackberry, Nokia và các thiết bị Windows Mobile chỉ được cung cấp từ quý IV, còn quá trình tích hợp với các ứng dụng Microsoft SharePoint, Outlook và Office sẽ diễn ra từ đầu 2007. 
-Theo T.N VnExpress

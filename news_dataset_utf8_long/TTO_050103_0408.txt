@@ -1,7 +1,0 @@
-﻿Tự động tạo liên kết web
-
-Chương trình sẽ giúp bạn tạo ra một trang HTML/HTM chứa các siêu liên kết (hyperlink) đến những tập tin và thư mục con nằm trong thư mục mà bạn chỉ định. 
-Bạn được quyền giới hạn các dạng tập tin, lên danh sách các thư mục con cần bỏ qua, lựa chọn kiểu trang xuất theo các mẫu cho sẵn. Liên kết có thể có hoặc không có đuôi tập tin, kích cỡ, ngày/tháng tạo lập; tạo liên kết theo dạng đường dẫn tương đối (relative path); tự động biến đổi những khoảng trắng trong mã liên kết thành %20 và nhiều hiệu chỉnh đặc biệt khác. 
-Ngoài ra, chương trình còn hỗ trợ việc thiết lập frame cho trang web thành phẩm. Phiên bản dirhtml 4.6 có dung lượng khoảng 487 KB, tải tại http://home.pacbell.net/nitzsche/dirhtml.html .
-
-NGUYỄN NGÔ TRUNG HIẾU

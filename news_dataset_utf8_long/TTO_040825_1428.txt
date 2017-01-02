@@ -1,8 +1,0 @@
-﻿Ra mắt cơ sở dữ liệu luật mới nhất Việt Nam
-
-Đây là hệ thống tra cứu và quản lý văn bản quy phạm pháp luật đầu tiên, được công ty TNHN Nam An giới thiệu sáng 25-8, có thể chạy trên mạng cục bộ. 
-16.000 văn bản được lưu giữ trên CD-ROM gồm: hiến pháp; bộ luật, luật, nghị quyết của Quốc hội; sắc lệnh, sắc luật, quyết định của Chủ tịch nước; và văn bản dưới luật của Chính phủ, Thủ tướng Chính phủ, các bộ, cơ quan ngang bộ thuộc Chính phủ, và các văn bản quốc tế. 
-Bà Chu Thị Lan Hương, Giám đốc công ty TNHN Nam An, cho biết “Song song với hai sản phẩm trên, Nam An cũng đưa ra LawUpdate. Theo đó, khách hàng sử dụng sản phẩm LawClient/Server sẽ được cập nhật miễn phí hàng tháng”. Tất cả dữ liệu và giao diện LawData đều sử dụng bảng mã TCVN 6909:2001. 
-Đĩa có giá bán 150.000 đồng, và đang được ứng dụng tại Bộ Bưu chính Viễn thông, Công ty tài chính Bưu điện và Tổng công ty điện lực VN.
-
-THUỲ MINH

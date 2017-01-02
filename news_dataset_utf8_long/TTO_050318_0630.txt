@@ -1,9 +1,0 @@
-﻿Tạo hiệu ứng ảnh chụp chỉ vài giây
-
-Không giống như chương trình AutoImage họat động khá nặng nề và chiếm nhiều tài nguyên hệ thống đã được giới thiệu trước đây, ForceVision họat động rất nhẹ nhàng. Những hiệu ứng khi được kích họat đều thể hiện ngay sau khi bấm. 
-Về phần giao diện thì được thiết kế rất đơn giản. Được chia làm hai cửa sổ chính. Khung bên phải tựa như trình duyệt Windows Explorer. Khi duyệt đến đâu, nếu bắt gặp hình ảnh thì sẽ xuất hiện danh sách các file dữ liệu. Đồng thời khung bên trái sẽ trình diễn dữ liệu ảnh đó. 
-Về tính năng thì ForceVision cho phép chúng ta có thể chuyển đổi qua lại giữa 36 định dạng ảnh từ thông dụng: BMP, JPEG, TIFF... cho đến “mới nghe lần đầu” như: RLE, VDA, VST, J2C, J2K... 
-Ngoài ra việc cung cấp hơn 30 bộ lọc tạo hiệu ứng cho ảnh cũng rất đáng để nói đến. Chúng hoạt động tỏ ra rất hiệu quả và rất nhanh. Muốn áp dụng hiệu ứng nào thì bạn nhấn vào biểu tượng FX và chọn theo nhu cầu sử dụng. 
-Chương trình được cung cấp miễn phí tại website: http://www.forcevision.net với dung lượng khỏang 1,06 MB, tương thích tốt với hệ điều hành Windows.
-
-GIANG VŨ VĂN

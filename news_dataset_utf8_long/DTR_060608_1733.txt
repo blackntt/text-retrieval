@@ -1,7 +1,0 @@
-﻿VIB Bank ứng dụng công nghệ Symbols
-
-Sau 12 tháng thực hiện, chiều 7/6, tại Hà Nội, Ngân hàng Quốc tế (VIB Bank) đã công bố triển khai thành công hệ thống ngân hàng đa năng Symbols do hãng System Access (Singapore) cung cấp. 
- Theo đánh giá của các chuyên gia đầu ngành ngân hàng, việc thay thế giải pháp ngân hàng đa năng Symbols cho hệ thống VIB Online là một bước tiến mạnh mẽ về công nghệ của Ngân hàng Quốc tế trong việc ứng dụng công nghệ vào các hoạt động và là nền tảng cho việc phát triển hàng loạt các dịch vụ trực tuyến trong tương lai gần. 
-Bên cạnh khả năng lưu trữ tập trung cơ sở dữ liệu cho toàn hệ thống, về tốc độ xử lý các hoạt động nghiệp vụ và độ chính xác, an toàn vượt trội so với hệ thống cũ, hệ thống Symbols còn cho phép cơ chế sao lưu dữ liệu online, đảm bảo việc khôi phục dữ liệu tại bất kì thời điểm nào trong ngày. 
-Giải pháp ngân hàng đa năng Symbols sẽ nâng cao hiệu quả hoạt động của VIB bằng việc tự động hóa các khâu trung gian, giảm nhiều hoạt động thủ công, giảm thiểu tối đã các thủ tục hành chính, cho phép kiểm soát hoạt động và phòng ngừa rủi ro tốt hơn thông qua hệ thống báo cáo tập trung. 
-Ông Trịnh Văn Tuấn, Chủ tịch Hội đồng quản trị VIB Bank cho biết: “Trọng tâm của VIB là mở rộng hệ thống quản lý khách hàng và đa dạng hóa các sản phẩm dịch vụ mới trên nền tảng công nghệ hiện đại. Giải pháp System Access cung cấp nhiều chức năng linh hoạt, đáp ứng được yêu cầu hiện tại và sẽ hỗ trợ cho sự phát triển lâu dài của Ngân hàng”. Hiền Thảo

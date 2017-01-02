@@ -1,9 +1,0 @@
-﻿Robot "bay" bảo vệ môi trường
-
-Khí cầu này, hay còn được gọi là máy bay không người lái (UAV), sẽ được đưa vào bầu trời vào ngày mai 29-9, mang theo các thiết bị kỹ thuật dùng để đánh giá chất lượng nước và không khí. Thành phần đất trồng cũng sẽ được đánh giá bằng cách sử dụng một camera hồng ngoại gắn trên khí cầu. 
-“Thiết bị tiên tiến này sẽ cho phép chúng tôi lấy mẫu thử của các chất như phân tử bụi nguyên chất, carbon dioxide và nitrous oxide trong không khí”, Ernesto Landi, chủ tịch hội sinh học quốc gia Ý cho biết. “Nó cũng có thể được sử dụng trong các trường hợp khẩn cấp, ví dụ như phân tích các đám mây độc sau khi xảy ra các sự cố công nghiệp”. 
-Khí cầu này được điều khiển bởi một máy tính trung tâm và có thể truyền dữ liệu về trạm kiểm soát ở mặt đất ngay lập tức. Nó không gây tiếng ồn cũng như không gây ô nhiễm môi trường do sử dụng hai động cơ điện. Hai động cơ này cũng cho phép nó bay lơ lửng trong không trung tại một điểm ở bất kỳ độ cao nào. 
-Một trong các điểm đặc biệt quan trọng nhất của khí cầu này là có khả năng lên xuống các độ cao khác nhau mà không làm nhiễu loạn không khí, nhờ đó không làm ảnh hưởng đến độ chính xác của các phân tích. 
-Khí cầu dài 12 m này là khí cầu robot đầu tiên của Ý không dùng vào mục đích quân sự. Theo các nhà chế tạo, phạm vi ứng dụng của nó khá rộng: kiểm soát các khu rừng và các công viên tự nhiên, đánh giá mức độ ô nhiễm không khí, nghiên cứu các khu vực bị ảnh hưởng bởi các thảm họa thiên nhiên và do con người gây ra.
-
-T.VY (Theo ANSA.it)

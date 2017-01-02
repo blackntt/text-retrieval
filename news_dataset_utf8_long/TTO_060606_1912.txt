@@ -1,8 +1,0 @@
-﻿Góp ý cuộc thi Robocon
-
-Thực ra để cho các robot có thể dò đường, di chuyển với tốc độ nhanh, ổn định và chuyển đổi linh hoạt theo các lập trình định sẵn là cả một công việc khó khăn. Tuy nhiên, tôi có cảm giác điều đó không được đánh giá cao khi các màn cản phá vào cuộc, làm sao tất cả những sáng tạo đó có thể phát huy khi trên sân vướng đầy các vật cản mà tôi gọi là "rác". Rác trên sân nhiều quá, các đội chơi không ngần ngại tung đủ thứ ra, như một đội nọ tung cả "cây sào" bắc ngang qua cả phần sân của đội bạn, rồi tung các khối xây dựng ra sân chỉ nhằm mục đích cản đường. 
-Tôi cảm thấy rất tiếc khi những đội có lối chơi đẹp, kỹ thuật như BKTech của ĐHBK TP.HCM, hay BKZF với robot chạy rất mềm đều bị loại khi gặp các con robot cản phá trên. Chiến thuật tiếp cận bằng dò đường xem ra không hiệu quả bằng việc ghi điểm bằng các robot có tầm với dài, đặt ngay lên tháp trung tâm. 
-Nên suy cho cùng, nếu chơi theo lối thực dụng, chăm chăm vào cản phá cộng với vài con robot đơn giản ghi được vài điểm thì chiến thắng sẽ chắc chắn hơn. Và như vậy mục đích cuối cùng là phát huy tài năng sáng tạo và kỹ thuật sẽ biến thành phát huy sự khôn lỏi. Một lần nữa lại tiếc cho những tài năng thật sự lại không có đất để phát huy. 
-Tôi nghĩ có thể giảm thiểu tình trạng trên nếu ban tổ chức đặt ra các quy định chặt chẽ hơn, như độ dài, độ cao tổng cộng của một robot; không được sử dụng quạt. Tôi mong mỏi cuộc thi sẽ thực sự trở thành nơi thi thố tài năng của những sinh viên thật sự tâm huyết với chế tạo robot - những sinh viên thông minh.
-
-TRƯƠNG HOÀNG THIỆN

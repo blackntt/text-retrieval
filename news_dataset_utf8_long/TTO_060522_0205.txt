@@ -1,8 +1,0 @@
-﻿Vừa chơi vừa luyện… gõ bàn phím
-
-Chương trình sẽ tuần tự đào tạo bạn qua bốn bước để trở thành một “master” siêu đẳng với đôi tay và bàn phím. Trong bước đầu tiên chương trình tích hợp một số trò chơi nhỏ giúp bạn quen dần với thao tác sử dụng bàn phím. Có tổng cộng 12 bài tập, với thời lượng mỗi bài từ 15-25 phút. 
-Chức năng và cũng là bước thứ hai chuyên nghiệp hơn. Chương trình sẽ phân tích thói quen sử dụng bàn phím thông qua công việc hằng ngày của bạn, từ đó sẽ xây dựng một chương trình đào tạo thích hợp cho bạn. Tuy nhiên, đây là một chức năng có tính phí, chỉ có trong phiên bản chính thức và rất dễ bị các chương trình chống virus hiểu lầm là keylogger. 
-Bước thứ ba và bước thứ tư xây dựng những chương trình nhỏ giúp bạn nâng cao tốc độ gõ bàn phím và các thao tác thích nghi nhanh chóng với nhiều loại bàn phím khác nhau. 
-Bạn có thể tải bản dùng thử miễn phí tại http://downloads-zdnet.com.com/TypingMaster-Pro/3000-2051_2-10527724.html?tag= zddl.nlppd&amp;tag=nl.e530.
-
-TRẦN HUY

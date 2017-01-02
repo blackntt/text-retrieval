@@ -1,9 +1,0 @@
-﻿Hibiscus - robot hỗ trợ cứu nạn thông minh
-
-Hibiscus - robot cứu nạn mới được giới thiệu tại Viện công nghệ Chiba ở Narashino, Nhật Bản Viện công nghệ Chiba (Nhật Bản) vừa chế tạo một robot hỗ trợ cứu nạn mới có thể di chuyển nhẹ nhàng qua các đống đổ nát để tìm kiếm các nạn nhân do thảm họa tự nhiên.
-Robot này có tên Hibiscus, được chế tạo nhằm giúp đỡ tìm kiếm nạn nhân, đánh giá hậu quả của thiên tai như động đất và bão lụt. 
-Hibiscus gồm sáu bánh xích chuyển động độc lập và một cặp tay nâng nhằm giúp cho nó lăn qua những khối bê tông vỡ và gạch đá vỡ, kèm theo là một camera hồng ngoại dành cho việc phát hiện nạn nhân thông qua nhiệt độ cơ thể dưới lớp đổ nát. Bất cứ thông tin nào nhận được về nạn nhân cũng sẽ được phản hồi về bộ điều khiển thông qua mạng truyền không dây Wifi (802.11g). 
-Tốc độ di chuyển lớn nhất của Hibiscus là 1,1 m/1 giây. Một cảm biến cực nhạy gắn trên robot có thể giúp nó vẽ sơ đồ tòa nhà bị đổ sập. 
-Các đội cứu hộ có thể trang bị Hibiscus - được trang bị cảm biến hồng ngoại với tầm hoạt động có bán kính 10 m - để phát hiện nạn nhân thảm họa. Hibiscus trợ giúp họ tìm kiếm nạn nhân, dự báo và sau đó các robot khác có thể hoạt động cứu hộ. Hibiscus có kích thước 370x650x180 mm, giá bán 26.800 USD.
-
-Theo Tuổi Trẻ

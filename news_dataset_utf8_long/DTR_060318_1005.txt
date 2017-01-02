@@ -1,9 +1,0 @@
-﻿Windows XP có thể hoạt động trên Intel Mac
-
-Một cuộc thi cài hệ điều hành của Microsoft vào trong máy Mac đã được khởi xướng ngay khi Apple công bố sản phẩm đầu tiên hoạt động trên chip của Intel. Hai người chiến thắng đã giành phần thưởng gần 14.000 USD.
-
- Colin Nederkoorn, người phát động cuộc thi, cho biết số vốn ban đầu của ban tổ chức chỉ là 100 USD nhưng sau đó đã tăng lên 13.854 USD nhờ các nhà tài trợ như Digital Express, Delicious Monster và Uneasy Silence... 
-Tuần trước, phần thắng đã thuộc về hai người ở California (Mỹ), bí danh Narf và Blanka. Giải pháp của họ đã được đăng trên website của cuộc thi, nhưng hiện bị quá tải. Nederkoorn giải thích ngắn gọn về phương pháp cài Windows trên Mac: "Trước tiên, bạn tạo một CD Windows XP tùy biến và ghi thêm một số file phụ trong đĩa này. Sau đó, bạn chia ổ cứng máy Mac thành 2 phần: một cho Windows và một cho OS X". 
-Dù cả Mac và máy tính Windows đều sử dụng chip Intel, việc tải hệ điều hành của Microsoft vào hệ thống Mac diễn ra khá phức tạp, một phần do chúng có cơ chế khởi động khác nhau. Người ta hy vọng phiên bản Windows thế hệ mới sẽ khắc phục được vấn đề này, nhưng tuần trước, một quan chức của Apple khẳng định Vista không tương thích Mac. 
-Wil Shipley, Giám đốc công ty phần mềm Delicious Monster cho Mac, nói: "Dù Apple không đề cập đến sự kiện này, thị phần của Intel Mac hẳn sẽ tăng đáng kể khi chúng giờ đã có thể chạy các ứng dụng Windows một cách hợp pháp, đặc biệt là game. Là người soạn phần mềm cho Mac, cứ mỗi 0,01% thị phần mà Apple giành được cũng đem lại cho tôi hàng nghìn USD mỗi năm". Delicious Monster đóng góp 1.000 USD trong quỹ giải thưởng. 
-Theo T.N. VnExpress/Cnet, PCWorld

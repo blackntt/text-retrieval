@@ -1,9 +1,0 @@
-﻿Lỗi bảo mật mới lại xuất hiện trong IE và Firefox
-
-Symantec cùng nhiều công ty bảo mật khác vừa cảnh báo về một lỗi bảo mật xuất hiện đồng loạt trong hầu hết các trình duyệt web chạy trên môi trường Windows, Linux và Mac. 
-Đây là một lỗi bảo mật có khả năng xuất hiện đồng loạt trên nhiều trình duyệt chạy trên nhiều hệ điều hành. 
-Lỗi này liên quan đến cách thức các trình duyệt điều khiển các mã lệnh JavaScript, tạo điều kiện cho các trang web độc ăn cắp thông tin của người dùng khi vào ghé thăm các trang web đó, nhất là các trang web giả danh các website thẻ tín dụng, ngân hàng… 
-Symantec cho biết lỗi này tồn tại trong tất cả các phiên bản của Internet Explorer và Firefox, chủ yếu có tác dụng khi người dùng tác động đến chức năng dòng lệnh “OnKeyDown” của JavaScript, giúp mã độc có thể bắt được các ký tự mà người dùng gõ vào bàn phím. 
-Với cơ chế hoạt động như trên cũng được xem là “tạm đủ” cho các hacker xâm nhập vào mọi tài khoản người dùng. Nhưng một điều may mắn là các công ty bảo mật đều đồng quan điểm cho rằng lỗi bảo mật này cũng chỉ nguy hiểm ở mức trung bình và “phần thưởng” chỉ dành cho những hacker đủ “kiên nhẫn” tấn công. Bản vá lỗi bảo mật này sẽ được tung ra trong các lần nâng cấp tới đây của các trình duyệt.
-
-Theo Tuổi Trẻ

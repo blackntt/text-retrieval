@@ -1,9 +1,0 @@
-﻿Thử nghiệm thành công vaccine cúm gia cầm mới
-
-Theo các nhà nghiên cứu, vaccine mới này, do liên doanh Vical tại San Diego, California phát triển, cũng có hiệu quả trong chống lại nhiều dòng virus cúm gia cầm và cúm người khác. 
-Trong nghiên cứu của mình, các nhà khoa học đã sử dụng hai loại vaccine dựa trên ADN của Vical. Một loại được đưa trực tiếp vào ba loại protein virus: nucleoprotein (NP), matrix protein (M2) và hemagglutinin (H5). Loại thứ hai được đưa vào NP và M2. 
-NP và M2 là hai loại protein thông thường không biến thể nhanh và do đó chậm tránh được các phản ứng miễn dịch do vaccine. Còn H5 là loại protein có thể biến đổi nhanh trên bề mặt virus cúm, có vai trò quyết định đối với khả năng gây nhiễm cho các tế bào và dễ dàng biến thể. 
-Nghiên cứu tiến hành trên 16 con chuột và 6 con chồn sương, được cho thử với hai loại vaccine trên. Kết quả, loại vaccine thứ nhất bảo vệ hoàn toàn chuột trước virus gây chết người H5N1. Loại vaccine thứ hai cũng cho thấy hiệu quả bảo vệ đáng kể trước nhiều dòng khác nhau của virus cúm người cũng như virus cúm gia cầm H5N1. 14/16 con chuột thí nghiệm vẫn an toàn sau thử nghiệm, chỉ bị giảm cân nhẹ. 
-Richard Webby, trưởng nhóm nghiên cứu cho biết kết quả này hứa hẹn sẽ có một loại vaccine ngừa nhiều loại virus cúm người và cúm gia cầm cho con người. Nó có thể bảo vệ con người chống lại virus H5N1 - virus đã giết chết hơn 100 người trên thế giới. Các nhà khoa học lo ngại H5N1có thể biến thể lây lan dễ dàng từ người sang người và gây ra một đại dịch toàn cầu.
-
-T.VY (Theo Xinhua)

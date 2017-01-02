@@ -1,9 +1,0 @@
-﻿Ổ cứng đầu tiên truyền dữ liệu 100 MB/giây
-
-Hãng sản xuất ổ cứng lưu trữ Seagate (Mỹ) chuẩn bị ra mắt dòng ổ cứng Cheetah 3,5 inch có dung lượng 300 GB, với vòng quay lên tới 15.000 vòng/phút. Đây là ổ cứng đầu tiên có tốc độ truyền dữ liệu lên tới 100 MB/giây. 
- 
-Seagate cho biết đây là ổ đĩa 3,5 inch đầu tiên của hãng sử dụng công nghệ ghi trực giao (perpendicular). Theo hãng sản xuất ổ cứng máy tính, ổ cứng Cheetah 300 GB này lưu trữ gấp đôi dung lượng ổ đĩa Cheetah cùng loại trước đây và tốc độ truyền dữ liệu cũng nhanh hơn 30%. 
-Seagate nhận định, đây là ổ cứng đầu tiên có tốc độ truyền dữ liệu đạt 100 MB/giây. 
-Công nghệ ghi trực giao ghi dữ liệu theo phương thẳng đứng, cho phép lưu trữ dữ liệu nhiều gấp 30% so với ổ đĩa thông thường. Kỹ thuật ghi trực giao sẽ thay thế phương pháp lưu trữ theo chiều dọc vẫn được dùng trong lĩnh vực ổ cứng từ trước đến nay. Cách lưu trữ theo chiều dọc đặt các bit dữ liệu song song với bề mặt của đĩa còn phương pháp lưu trữ trực giao đặt các bit này theo chiều thẳng đứng và do đó cho phép nén nhiều dữ liệu hơn trên đĩa. 
-Seagate đã sử dụng công nghệ ghi trực giao trên ổ đĩa 2,5 inch và bây giờ mở rộng sang dòng 3,5 inch. Sản phẩm sẽ có mặt trên thị trường trong tháng 6. 
-S.Hương Theo TechWorld

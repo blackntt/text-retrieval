@@ -1,9 +1,0 @@
-﻿Keylogger gia tăng ở mức báo động
-
-Websense cho biết có khoảng 17% số các công ty có khoảng 100 nhân viên trở lên đã thừa nhận bị nhiễm keylogger trong các mạng máy tính của mình so với với chỉ khoảng 11% cách đây 1 năm. 
-Ủy ban thương mại Hoa Kỳ cũng công nhận rằn các spyware chuyên tung keylogger đã gia tăng và hoạt động hiệu quả đến mức đáng báo động. Khi đã xâm nhập thành công vào mạng thì hầu như không còn gì là bí mật với chúng. 
-Một trong những lý là do một số lượng cực lớn các phần mềm gián điệp và công cụ tạo spyware đã được bán ra công khai trên mạng, mà bất kỳ một người dùng “tay mơ” nào cũng có thể mua và sử dụng dễ dàng. 
-Camissar cho biết tháng 4-2005 chỉ có khoảng 77 ứng dụng spyware được phát hiện, nhưng chỉ đúng một năm sau tổng số spyware tung keylogger thuộc dạng hiện đại đã lên đến con số 197. Số lượng các website chuyên bán spyware cách đây 1 năm chỉ là 260 nhưng nay đã tăng trưởng đến con số 2.157 website, tức tăng gần gấp 10 lần. 
-Báo cáo của Websense cũng phát hiện ra rằng đa số các công ty đều không có các biện pháp giáo dục nhân viên của mình các phương pháp nhận biết đâu là các trang web thực, đâu là các trang web độc hoặc “phishing”, chuyên tung mã độc hoặc ăn cắp thông tin tài chính…
-
-HOÀNG KIM ANH (InformationWeek)

@@ -1,7 +1,0 @@
-﻿CityPhone áp dụng phương thức tính cước 6 giây + 1
-
-CityPhone di động trả trước là 909 đồng/ngày/máy. Cước thông tin nội hạt là 36 đồng/block 6 giây đầu tiên và 6 đồng/block 1 giây tiếp theo. Đối với các cuộc gọi từ 23g hôm trước đến 7g hôm sau các ngày trong tuần từ thứ hai đến thứ bảy, ngày chủ nhật và ngày lễ, cước thông tin gọi nội hạt là 25 đồng/block 6 giây đầu và 4,17 đồng/block 1 giây tiếp theo (trước đây là 36 đồng/block 6 giây). 
-Cước nhắn tin SMS nội mạng là 182 đồng/bản tin (trước là 200 đồng/bản tin) và nhắn sang các mạng di động khác là 273 đồng/bản tin (trước là 300đ/bản tin). 
-Các mức cước trên chưa bao gồm VAT.
-
-HÀ MY

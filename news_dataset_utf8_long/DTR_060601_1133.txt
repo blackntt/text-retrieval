@@ -1,8 +1,0 @@
-﻿Google chưa có ý định lập trình duyệt web
-
-Hôm qua, giám đốc điều hành của gã tìm kiếm khổng lồ cho biết hãng này vẫn chưa có động thái rập rịch xây dựng một trình duyệt web riêng mình để cạnh tranh với đối thủ Microsoft.
-
- Ông Eric Schmidt đã dập tắt mọi suy đoán rằng Google đang dự định cạnh tranh với trình duyệt phổ biến nhất hiện nay Internet Explorer của Microsoft. “Mọi người đã có sự lựa chọn cho trình duyệt nên chúng tôi không muốn xây dựng thêm một browser nữa chỉ để cho vui”, Schmidt nói. 
-Tuy nhiên, ông Schmidt nhấn mạnh, Google sẽ phát triển trình duyệt nếu hãng tìm ra tiện ích có lợi đáp ứng nhu cầu của thị trường. “Chúng tôi chỉ làm việc gì nếu có lợi cho người dùng cuối cùng”. 
-Google khuyến khích người dùng nên sử dụng thêm một số trình duyệt thay thế IE, đặc biệt là browser mã nguồn mở Firefox. 
-S.H Theo Reuters

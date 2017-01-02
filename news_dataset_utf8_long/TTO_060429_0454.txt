@@ -1,6 +1,0 @@
-﻿Cấm phân biệt đối xử trong kết nối mạng viễn thông
-
-Theo qui định, khi tổ chức triển khai thực hiện kết nối giữa các mạng VT công cộng, các doanh nghiệp có trách nhiệm đảm bảo dung lượng kết nối theo kế hoạch đã thỏa thuận trong hợp đồng và đảm bảo không phân biệt đối xử giữa kết nối nội bộ của doanh nghiệp và kết nối liên mạng với doanh nghiệp khác. 
-Các doanh nghiệp VT có trách nhiệm qui hoạch và xây dựng mạng VT có dự phòng đảm bảo đáp ứng đủ dung lượng kết nối các mạng VT công cộng. Qui định còn ấn định thời hạn và mức phạt trong trường hợp không thực thi đúng hợp đồng giữa các doanh nghiệp.
-
-K.HƯNG

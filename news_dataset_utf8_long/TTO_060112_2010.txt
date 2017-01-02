@@ -1,7 +1,0 @@
-﻿CD tổng hợp vá lỗi bảo mật cho Windows
-
-Microsoft sẽ cung cấp tất cả bản vá lỗi bảo mật nguy hiểm cao hoặc bản cập nhật cho Windows trong từng tháng vào trong tập tin ảnh của CD (ISO). “Việc này sẽ không tác động nhiều đến người dùng cuối vì nó sẽ không tự động dò tìm được phiên bản hiện tại của người dùng đang sử dụng”, Craig Gehre từ Microsoft Security Response Center giải thích thêm. “Nhưng thay vào đó, nó sẽ thật sự hữu ích cho người dùng thường tải và quản lý nhiều bản cập nhật. Ví dụ như lỗi bảo mật MS06-002 có đến 125 gói bảo riêng biệt cho tất cả ngôn ngữ và phiên bản”. 
-Người dùng phải sử dụng phần mềm từ hãng thứ 3 để ghi tập tin ảnh (ISO-9660) lên CD. Thông tin về CD tổng hợp lỗi bảo mật và cập nhật có thể xem tại đây . 
-Microsoft cũng phát hành tập tin ảnh CD đầu tiên cho tháng 1-2006 này, tổng hợp 2 lỗi bảo mật là KB912919 (MS06-001) và KB908519 (MS06-002). Với dung lượng 98.7MB, người dùng có thể tải về hoàn toàn miễn phí tại đây .
-
-THANH TRỰC

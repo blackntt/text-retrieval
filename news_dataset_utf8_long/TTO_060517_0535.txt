@@ -1,9 +1,0 @@
-﻿Màn hình LCD và plasma khác nhau như thế nào?
-
-Kỹ sư CHU VĂN ĐỨC TUẤN (phụ trách sản phẩm của Sony Việt Nam): 
--Về cơ bản, LCD và plasma cùng là những công nghệ giúp màn hình phẳng, mỏng. Cụ thể, màn hình tinh thể lỏng LCD sử dụng một ánh sáng nền phát quang để gửi ánh sáng qua các phân tử tinh thể. 
-Ưu điểm của công nghệ LCD là tái hiện màu sắc tốt, độ sắc nét hoàn hảo với độ phân giải tự nhiên, màn hình nhẹ và rất mỏng, tuổi thọ cao, không hề bị hiệu ứng cháy màn hình. Tuy nhiên màn hình LCD lại có nhược điểm là độ phân giải không thay đổi, độ tương phản kém, khó tạo độ đen sẫm, góc quan sát của màn hình cũng có thể bị hẹp nếu dùng các model cũ. 
-Trong khi đó, màn hình sử dụng công nghệ plasma về cơ bản là một mạng phosphor đỏ, lục và lam được gắn giữa hai lớp thủy tinh mỏng. Màn hình plasma có đặc tính trình diễn phẳng và kích thước màn hình lớn, hình ảnh rất đẹp. 
-Tuy nhiên mặt trái của loại màn hình này là chúng tiêu tốn rất nhiều năng lượng, tuổi thọ thấp (chỉ khoảng 15.000 giờ hoạt động trong khi màn hình LCD có đến 60.000 giờ). Ngoài ra, màn hình plasma đòi hỏi phải được lắp đặt một cách chuyên nghiệp do đặc điểm dễ nứt vỡ.
-
-PV

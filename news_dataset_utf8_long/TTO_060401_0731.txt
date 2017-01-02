@@ -1,8 +1,0 @@
-﻿“Hệ thống tra cứu từ điển di động trực tuyến”
-
-Ở nội dung phần mềm sáng tạo, vượt qua sáu phần mềm khối THPT, phần mềm “IM-Dictionnary for Web, Wap, Mobi” (Hệ thống tra cứu từ điển di động trực tuyến) của Phan Hoàng Huy - HS Trường THPT chuyên Lê Quý Đôn - đã đoạt giải nhất (học bổng học lập trình viên quốc tế 690 USD của Trung tâm Công nghệ phần mềm Đà Nẵng - Softech). 
-Hai giải nhất phần mềm sáng tạo khác được trao cho Đặng Ngọc Trung (HS Trường bán công năng khiếu Nhà thiếu nhi - cấp tiểu học) với phần mềm “Em yêu lịch sử” và Trần Lê Bách (HS Trường THCS Nguyễn Khuyến) với phần mềm “Read it now” (học bổng 690 USD của Softech). 
-Giải nhất phần thi chung của khối THPT (học bổng 340 USD của Softech): Tạ Tố Như (HS Trường Lê Quý Đôn). 
-Hội thi tin học trẻ không chuyên 2006 có 306 HS các trường ở TP Đà Nẵng tham gia. Báo Tuổi Trẻ đã trao thưởng cho sáu giải nhất (quà tặng và 1 triệu đồng/giải).
-
-V.HÙNG

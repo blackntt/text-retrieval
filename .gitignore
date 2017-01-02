@@ -1,8 +1,11 @@
 .settings/*
 bin/*
-tokenizer.log
-tokenizer.log.1
-tokenizer.log.1.lck
-tokenizer.log.lck
+tokenizer.*
 .project
 .classpath
+news_dataset_utf8/*
+news_dataset_utf8_long/*
+news_output_key_value/*
+news_output_vector/*
+results/*
+words_count.txt

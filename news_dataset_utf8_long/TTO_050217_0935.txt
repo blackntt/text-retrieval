@@ -1,6 +1,0 @@
-﻿Viện Pasrteur TP.HCM: Triển khai chương trình giám sát bệnh cúm
-
-Các điểm giám sát gồm BV Nhi trung ương, Viện Y học lâm sàng các bệnh nhiệt đới, BV Đa khoa Khánh Hòa, BV Đa khoa Đắc Lắc. Riêng tại TP.HCM có hai đơn vị là BV Nhi Đồng 1 và BV Bệnh nhiệt đới. Chương trình này nhằm phác thảo bức tranh về cúm ở VN: bao nhiêu ca cúm/năm và các chủng virus lưu hành. 
-Ở VN, cho đến nay dịch cúm gia cầm do chủng virus A/H5N1 đã xảy ra ba đợt ở người: đợt 1 từ 26-12-2003 đến 10-3-2004, có 23 trường hợp mắc - trong đó có 16 ca tử vong; đợt 2 từ 19-7 đến 26-8-2004, có bốn trường hợp mắc và tất cả đều tử vong; đợt 3 từ 16-12-2004 đến nay, tính riêng khu vực phía Nam có 11 ca dương tính (trong đó có một ca người Campuchia), tất cả đều tử vong.
-
-KIM SƠN

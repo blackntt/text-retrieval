@@ -1,8 +1,0 @@
-﻿Tạo đĩa Flash ảo trên ổ cứng
-
-Để tạo nên một đĩa cứng ảo, bạn nhấn vào nút “Create”, sau đó vào “Save Path” để đặt tên file chứa đĩa ảo của bạn -&gt; Vào “Size” để qui định dung lượng cho đĩa ảo của bạn bằng MB. Ổ đĩa ảo sẽ là file có đuôi .EDK và mọi dữ liệu nằm trong đĩa ảo thực chất được chứa trong file EDK này. 
-VFD có khả năng bảo mật cao, nó yêu cầu bạn nhập mật khẩu để truy cập vào đĩa ảo ở ô “Password” và còn yêu cầu bạn nhập vào câu hỏi và câu trả lời bảo mật ở ô “Question” và “Answer”. Đặt tiêu đề cho đĩa ảo ở ô “Title” và cuối cùng nhấn OK để VFD khởi tạo ổ đĩa bằng cách tạo ra file EDK và format luôn đĩa ảo vừa tạo xong. Khi tạo xong, Windows sẽ nhận diện ngay ra nó và gán cho nó một ký tự ổ đĩa hệt như một thẻ nhớ Flash USB vừa được cắm vào máy tính với tính chất như một đĩa cứng độc lập. 
-Bạn có thể tạo bao nhiêu đĩa ảo cũng được, cứ việc nhấn vào “Create” để tạo ra một đĩa ảo mới. Khi cần sử dụng đĩa ảo nào thì chỉ việc click chuột vào tên file đã đặt, sau đó nhấn vào nút “Mount” để truy xuất vào đĩa đó hoặc nhấn vào nút “Unmount” để giấu nó đi. 
-Công ty DVDXimager đang bán ra bản Virtual Flash Drive v2.0 với giá 15 USD. Người dùng có thể vào địa chỉ http://www.dvdximager.com/vdisk.exe để tải về bản dùng thử.
-
-THIÊN TRANG

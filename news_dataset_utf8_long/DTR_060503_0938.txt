@@ -1,8 +1,0 @@
-﻿ĐTDĐ Nokia sẽ nối mạng tại các hotspot
-
-Hôm qua, hãng điện thoại Nokia và công ty iPass tuyên bố đang phát triển một phần mềm “khách” cho phép các điện thoại thông minh của hãng hoạt động ở hai chế độ. Người dùng sẽ được kết nối Internet không dây Wi-Fi tại các điểm truy cập (hotspot) ở khắp nơi trên thế giới. 
- Hiện tại, phần mềm của iPass cho phép người dùng kết nối tại khoảng 50.000 hotspot trên khắp thế giới bằng một tài khoản duy nhất. Phiên bản mới này của công ty được thiết kế dành cho điện thoại thông minh hướng tới người dùng là doanh nghiệp. 
-Nhờ đó, người dùng điện thoại hỗ trợ Wi-Fi của Nokia sẽ được kết nối Internet an toàn để truy cập các ứng dụng, tài liệu kinh doanh quan trọng để tối ưu hóa hiệu suất công việc ngay cả khi đi trên đường, ở nhà hay tại văn phòng. 
-Theo Nokia, hãng cũng sẽ thử nghiệm dịch vụ iPass Corporate Access vào cuối quý II này. “Thông qua dịch vụ iPass, chúng tôi mong muốn sẽ giúp người dùng di động được truy cập tài liệu quan trọng của công ty một cách an toàn trên Internet”, b à Susan Macke, Phó giám đốc marketing sản phẩm của Nokia, nhấn mạnh. 
-Phần mềm ban đầu sẽ chỉ hỗ trợ các điện thoại dành cho doanh nghiệp của Nokia chạy hệ điều hành Symbian Series 80 và S60: Nokia 9500, Nokia 9300i Nokia E - series sắp được xuất xưởng. Ngoài ra, phần mềm “khách” này còn tương thích với các hệ điều hành Microsoft Windows, Windows Mobile và Mac OS của Apple. 
-S.Hương Theo Teleclick

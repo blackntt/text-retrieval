@@ -1,9 +1,0 @@
-﻿Chat bằng tên nữ dễ bị 'quấy rầy' nhiều gấp 25 lần
-
-Một nghiên cứu gần đây cho thấy việc sử dụng tên gọi (nickname) thuộc phái nữ thường có xu hướng phải nhận những thông điệp đe dọa hoặc gợi ý chuyện quan hệ tình dục nhiều hơn. 
-Nhóm nghiên cứu tại trường James Clark, thuộc Đại học Maryland (Mỹ), đã dùng một số nick tự động đăng nhập vào các chatroom với tên gọi nghe có vẻ thuộc phái nữ, phái nam và trung tính. 
-Những nick chat nữ đã nhận được trung bình 100 tin nhắn "có tính chất nguy hiểm" mỗi ngày, trong khi những nick thuộc phái nam chỉ là 4 và 25 thông điệp đối với những tên gọi mập mờ, không rõ thuộc giới nào. 
-Theo Michel Cukier, Giáo sư tại Đại học Maryland, kết quả khảo sát đã chứng tỏ việc đưa thông tin cá nhân lên Internet "nguy hiểm như thế nào, dù mới chỉ là tiết lộ tên của mình". 
-"Viết chương trình hay mã lệnh có thể phân biệt tên gọi nam và nữ là rất khó. Do vậy, thông điệp đe dọa không thể được gửi đi tự động, mà phải có những con người thực đang tìm kiếm nickname thuộc phái yếu", Cukier nhận xét. Parry Aftab, một chuyên gia về an toàn Internet, cho biết: "Tôi không hề ngạc nhiên trước kết quả nghiên cứu này. Tốt hơn là bạn không nên tiết lộ quá nhiều thông tin, đặc biệt là giới tính trên mạng. Chẳng có lý do gì mà phải nói cho người khác biết bạn là phụ nữ cả".
-
-Theo VNExpress

@@ -1,8 +1,0 @@
-﻿G. Fraser, tác giả CMSNET lên tiếng
-
-“Thông báo chính thức của Stephen R. G. Fraser về việc mã nguồn bị đánh cắp: tôi khẳng định, CMS.NET đã bị sử dụng mà không được phép và bị thương mại hóa một cách bất hợp pháp. 
-ĐÂY LÀ THÔNG BÁO VỀ BẢN QUYỀN 
-Copyright © 2002 by Stephen Fraser. Không được phép xuất bản lại hoặc chuyển đổi sang bất cứ dạng nào, bằng bất cứ phương pháp nào, điện tử hay cơ học, bao gồm cả photocopy, ghi âm, hay bất cứ hệ thông lưu trữ và truy cập thông tin nào, mà không có sự đồng ý trước của cả người sở hữu bản quyền và nhà xuất bản. 
-Và cả tôi, cũng như nhà xuất bản của tôi, đều đã không cung cấp quyền này dưới dạng văn bản giấy. Theo tôi hiểu, những người này phải gỡ bỏ khỏi phần mềm của họ tất cả mã nguồn lấy từ quyển sách của tôi, trừ khi cả tôi và nhà xuất bản cùng cho phép dưới dạng văn bản giấy. Và nếu họ thực hiện việc gỡ bỏ mã, tôi chắc chắn là phần mềm đó sẽ không thể chạy được nữa. Giá như các tác giả iCMS có hỏi ý kiến của tôi trước khi bắt đầu, tôi sẽ cho phép họ sử dụng ngay lập tức, như trước đây tôi đã nhiều lần cho phép người khác làm như vậy. Tôi chỉ yêu cầu những người xin phép phải công nhận những gì tôi đã làm, và phải đóng góp đáng kể vào việc phát triển từ phiên bản gốc.
-
-Stephen R. G. Fraser

@@ -1,9 +1,0 @@
-﻿Danh thiếp thời @
-
-Nghi lễ trao đổi danh thiếp sắp trở thành chuyện "ngày xưa ơi", bởi Nhật Bản đang phát triển một phương pháp cho phép truyền dữ liệu chỉ qua một cái ...bắt tay.
-Nhờ một thiết bị cỡ như hộp diêm, nặng chừng 50 gram mang trong người, thông tin của bạn (họ tên, chức danh, địa chỉ, số điện thoại liên lạc, email) sẽ được gửi trực tiếp tới điện thoại di động hoặc PDA của người kia, và ngược lại, chỉ cần giữa hai bên có sự tiếp xúc với nhau. 
-Với tên gọi "RedTacton", công nghệ này đang được phát triển trong phòng thí nghiệm tích hợp Vi hệ thống của NTT. Sử dụng bộ cảm biến điện từ quang học, "hộp diêm" nói trên sẽ tìm kiếm điện từ trường tương đồng phát ra từ cơ thể người khác. Khi hai bên có sự tiếp xúc với nhau (thông qua một cái bắt tay chẳng hạn), dữ liệu sẽ theo cơ thể truyền đi, tất nhiên là với một dòng diện cường độ cực nhỏ, đến điểm cuối là một thiết bị kiểu như ĐTDĐ hoặc PDA. 
-Thông tin truyền đến đều có kèm theo ngày tháng nhận được, cũng hệt như email vậy, nên người dùng sẽ dễ dàng nhớ ra danh thiếp này là của người nào. Công việc lập sổ địa chỉ cũng sẽ trở nên tiện lợi hơn. 
-NTT hy vọng sẽ có thể đưa công nghệ này ra thị trường trong vòng 2 hoặc 3 năm nữa, với diện ứng dụng rất rộng. Lấy thí dụ, nó có thể được nhúng bên trong các lọ thuốc và sẽ gửi tin nhắn tới ĐTDĐ, cảnh báo "Đừng uống" nếu bạn lấy nhầm thuốc. Có rất nhiều loại biệt dược không được dùng chung với nhau song người tiêu dùng không nắm được. Một "hộp diêm" kiểu này có thể sẽ là nhà tư vấn y tế lý tưởng. Ngoài ra, RedTacton cũng có thể giúp ích cho những người đãng trí. Bạn có thể mở khóa cửa chỉ bằng một động tác chạm vào nắm đấm, quá tuyệt cho những ai luôn đánh mất chìa.
-
-VNN

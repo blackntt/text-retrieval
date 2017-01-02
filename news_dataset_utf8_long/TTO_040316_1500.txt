@@ -1,9 +1,0 @@
-﻿Quảng cáo kiểu mới trên Internet
-
-Video quảng cáo trên Internet là kết quả hợp tác của Unicast - một liên hiệp các nhà phát triển quảng cáo trên mạng - và nhà sản xuất phần mềm khổng lồ Microsoft. 
-Đoạn phim sẽ xuất hiện choán hết màn hình theo một định dạng quảng cáo trên mạng có dung lượng 2MB, kéo dài trong 30 giây với hình ảnh video chất lượng cao, dù tốc độ đường truyền cao hay thấp. Định dạng này dựa trên Windows Media 9 Series của Microsoft và công nghệ pre-cached (lưu trữ trước) của Unicast. Đoạn quảng cáo được tải về dưới chế độ nền trong khi người dùng truy cập vào một trang web và họ có thể tắt nó đi nếu muốn. 
-Các đoạn phim quảng cáo thử nghiệm được phát trên những site hàng đầu trong 6 tuần qua, trong đó có About.com, CBS Sportsline, Gamespot, iVillage và Lycos. Kết quả cho thấy, người lướt web ít cảm thấy bực mình với phim hơn các kiểu quảng cáo khác trên mạng. Trong một cuộc khảo sát được thực hiện trên 3.500 người dùng Internet, chỉ có 28% tuyên bố khó chịu với loại hình quảng cáo mới. 
-Allie Savarino, quan chức của hãng Unicast nhận xét: "Kiểu quảng cáo bằng hình ảnh video có đặc điểm của truyền hình tác động tích cực hơn tới người tiêu dùng và họ cũng dễ chấp nhận chúng hơn là những dạng quảng cáo khác". 
-Tuần trước, Unicast thông báo, một số nhà xuất bản web hàng đầu, trong đó có Forbes.com và weather.com, đã đăng ký sử dụng loại hình quảng cáo mứi này".
-
-HỒNG YẾN (Theo BBC)

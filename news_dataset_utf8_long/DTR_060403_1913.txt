@@ -1,6 +1,0 @@
-﻿Microsoft giới thiệu công cụ ERP di động mới
-
-Microsoft vừa trình diễn hệ thống quản trị nguồn tài nguyên doanh nghiệp (ERP) di động mới, được thiết kế để nâng cao năng suất hoạt động mà vẫn dễ dàng cài đặt với các công ty có ít nhân viên CNTT. 
- Trong hội nghị khách hàng thường niên tại Dallas , Microsoft đưa ra trình diễn các công cụ Mobile Sales Assistant (MSA) – trợ giúp bán hàng di động và Mobile Business Assistant (MBA) – trợ giúp nghiệp vụ di động mới. Chúng hỗ trợ chiến dịch Dynamics của Microsoft nhằm đưa ra các ứng dụng theo vai trò và nhiệm vụ của nhân viên, để tăng sức mạnh của từng cá nhân nhân viên, Bjarne Schon – giám đốc giải pháp nghiệp vụ di động của Microsoft cho biết. 
-Ông Schon nhận xét, nhà lãnh đạo CNTT trong doanh nghiệp cỡ vừa thường miễn cưỡng khi triển khai các hệ thống di động cho nhân viên vì việc thiết lập các công cụ này rất phức tạp, và thường xuyên cần sự quản trị của nhiều bên đối tác gồm các nhà phát triển ứng dụng di động, viễn thông, và các hãng khác. 
-“Phần lớn mọi người bỏ qua nó, dù họ thấy có thể nhìn thấy lợi nhuận khi đầu tư. Nhưng ở đây, chúng tôi đã xây dựng một thư viện nền mà các đối tác có thể tùy biến cho phù hợp với lĩnh vực của mình. Việc xây dựng giải pháp này trước kia khiến họ mất rất nhiều thời gian và công sức vì phải tự thực hiện từ đầu”, ông Schon nói. Theo AI VietNam/VnuNet

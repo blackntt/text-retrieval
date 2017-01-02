@@ -1,9 +1,0 @@
-﻿Incombank mở dịch vụ Internet Banking
-
-Ngân hàng Công thương Việt Nam (Incombank) vừa đưa ra thị trường sản phẩm ngân hàng điện tử Internet Banking. Đây là kênh giao dịch điện tử thuộc hệ thống INCAS (Incombank Advanced System) sử dụng môi trường Internet để cung cấp dịch vụ cho khách hàng. 
- Incombank Internet Banking có nhữngchức năng như vấn tin tài khoản, sao kê, nhật ký giao dịch, chuyển khoản (cho phép người sử dụng chuyển khoản từ tài khoản này sang tài khoản khác của cùng người sử dụng hoặc chuyển khoản cho người khác trong hệ thống INCAS). 
-Dịch vụ cũng cho phép thực hiện thanh toán dịch vụ tiện ích như hóa đơn điện, nước, điện thoại… hoặc cho phép khách hàng trả nợ tiền vay vào tài khoản ngân hàng…. 
-Theo Incombank, hiện tại Internet Banking mới thực hiện cung cấp chức năng vấn tin tài khoản Incombank và vấn tin lịch sử giao dịch, các chức năng khác sẽ được Incombank triển khai trong thời gian tới. 
-Chỉ tính riêng tại Sở giao dịch II - Incombank đến nay đã có trên 60 khách hàng đăng ký sử dụng dịch vụ này. Để có thể sử dụng tất cả các dịch vụ Internet Banking một cách hiệu quả nhất, khách hàng nên đăng ký sử dụng dịch vụ Incombank Internet Banking với ít nhất hai tài khoản đã mở tại các chi nhánh Incombank. 
-Khách hàng chỉ cần điền vào mẫu đăng ký in sẵn và chuyển lại cho chi nhánh Incombank. Khách hàng sẽ được truy cập sau khi có mật khẩu và mã sử dụng do ngân hàng cấp. 
-Hiện tại Incombank đã triển khai thành công giai đoạn 2 dự án hiện đại hóa ngân hàng cho các chi nhánh Incombank trên địa bàn TPHCM. Đây là một trong 7 tiểu dự án do Ngân hàng Thế giới tài trợ với 12 module nghiệp vụ và 3 module kỹ thuật, được đánh giá là một trong những dự án hiệu quả nhất tại Việt Nam. Theo SGGP

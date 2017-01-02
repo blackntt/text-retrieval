@@ -1,8 +1,0 @@
-﻿Trung Quốc, Nhật Bản, Hàn Quốc hợp tác phát triển 4G
-
-Ngày 30/3, Bộ công nghiệp thông tin (MII) Trung Quốc vừa cho biết rằng ba nước trên đã thống nhất sẽ đẩy mạnh hợp tác giữa các quốc gia trong một vài lĩnh vực công nghệ chủ chốt, trong đó có phát triển chuẩn công nghệ di động thế hệ thứ tư – 4G. 
- Ba bộ trưởng đại diện 3 nước đã thống nhất sẽ thúc đẩy hợp tác giữa các quốc gia trong 6 lĩnh vực, bao gồm công nghệ di động tiên tiến và phần mềm nguồn mở. Tuy nhiên, MII lại không cho biết chi tiết của bản thỏa thuận. 
-Thảo luận về phát triển công nghệ 4G có thể hơi sớm với Trung Quốc, đặc biệt là khi MII vẫn chưa cấp phép cho các dịch vụ 3G. Thêm nữa, việc kiểm thử chuẩn 3G của riêng Trung Quốc là TD-SCDMA (Time Division Synchronous Code Division Multiple Access), vẫn chưa được hoàn thành. 
-Nhưng thế giới đã bắt đầu nghiên cứu các công nghệ di động tiên tiến hơn và Trung Quốc muốn tham gia vào hoạt động này. 
-Tập đoàn cung cấp dịch vụ viễn thông Nhật Bản NTT DoCoMo là một trong số các công ty đi đầu trong việc phát triển công nghệ 4G. Năm ngoái, tập đoàn đã thử nghiệm thành công công nghệ 4G cho phép truyền dữ liệu với tốc độ lên đến 2.5 Gbps(bit/ giây) tới một chiếc xe đang chuyển động. Tốc độ này nhanh hơn rất nhiều so với các mạng 3G hiện tại (mạng 3G hiện tại của DoCoMo dựa trên công nghệ WCDMA có tốc độ tối đa là 384K bps). 
-Theo dự đoán, sớm nhất là tới năm 2010 công nghệ 4G mới được thương mại hóa. Theo AI Vietnam

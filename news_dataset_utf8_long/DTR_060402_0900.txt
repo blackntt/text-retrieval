@@ -1,9 +1,0 @@
-﻿Panda đã loại bỏ được rootkit
-
-Hãng bảo mật Tây Ban Nha Panda vừa giới thiệu công nghệ mới chống lại sự lan tràn của các tấn công có mục đích và tội phạm máy tính sử dụng rootkit. Theo Panda thì đây là công nghệ chống rootkit đầu tiên trên thế giới. 
- Panda Titanium 2006 Antivirus + Antispyware và Panda Platinum 2006 Internet Security đã được tích hợp công nghệ chống rootkit, và các phần mềm này có khả năng quét và phát hiện các tiến trình ẩn trong bộ nhớ, một kỹ thuật thường được rootkit sử dụng để ẩn các đoạn mã nguy hiểm. 
-Panda cho rằng rootkit là do tội phạm máy tính thuê các hacker tạo ra, sau đó được chúng thử nghiệm với tất cả các phần mềm chống virus để đảm bảo rằng không có gì bị phát hiện. 
-“Mô hình trong đó các hacker và những kẻ viết phần mềm nguy hiểm tìm kiếm lợi nhuận hơn là sự nổi danh, đang trở thành một xu hướng thịnh hành.”, hãng bảo mật này nói. “Bằng cách sử dụng rootkit, hacker có khả năng thực thi các đoạn mã ẩn mà người sử dụng không thể nhận biết hoặc ngăn chặn, và các phần mềm diệt virus thông thường cũng không thể can thiệp được”. 
-Theo Panda, kết quả là người dùng không thể nhận biết được các hoạt động nguy hiểm trên máy tính của mình, chẳng hạn như gửi thư rác hoặc khởi chạy các cuộc tấn công từ chối dịch vụ. 
-Tất cả các khách hàng của Panda Titanium và Platinum 2006 có thể cập nhật miễn phí phần mềm trong đó có tích hợp công nghệ anti-rookit. 
-“Rootkit đã trở thành một vấn đề nghiêm trọng những tháng gần đây. Mặc dù khái niệm này không còn mới, nhưng các chương trình mà chúng che đậy thì rất khó bị phát hiện”, giám đốc PandaLabs nói. “Với bản cập nhật này, các tiến trình được rootkit che giấu trong bộ nhớ sẽ bị phát hiện và phân tích bởi các bộ máy chống phần mềm nguy hiểm. Nếu các tiến trình này được xác định là nguy hiểm thì chúng sẽ bị cô lập và người sử dụng sẽ được bảo vệ”. Theo AI VietNam

@@ -1,9 +1,0 @@
-﻿Robot siêu nhỏ dùng cho phẫu thuật
-
-Hệ thống robot y-sinh siêu nhỏ này được phát triển bởi một nhóm các nhà khoa học tại Viện công nghệ liên bang Thụy Sĩ tại Zurich (Thụy Sĩ). Đây là thiết bị nhỏ nhất trong nhóm máy móc cùng loại, và đã được thử nghiệm thành công trong phòng thí nghiệm. 
-Robot xâm nhập siêu nhỏ này được thiết kế đặc biệt phù hợp để đi qua các mạch máu của tim hoặc các dịch lỏng nằm sau mắt và trong tai để chẩn đoán và điều trị bệnh tật, giúp bệnh nhân ít đau hơn và thời gian hồi phục nhanh hơn. 
-“Một ứng dụng nữa mà chúng tôi đang tích cực xem xét là dùng thiết bị này vào phẫu thuật mắt, lúc đó thiết bị sẽ được đưa vào bên trong mắt, tới võng mạc để truyền thuốc vào các tĩnh mạch võng mạc có kích thước nhỏ như sợi tóc của con người”, Brad Nelson, giáo sư chuyên về robot và các hệ thống thông minh, trưởng nhóm nghiên cứu cho biết. 
-Không như hầu hết các robot di động thông thường - những con hoặc là dùng pin hoặc là được kết nối với một dây cáp điện để điều khiển hoạt động của nó, hoạt động của robot này nhờ vào từ trường được phát ra từ một chiếc máy. Ví dụ tần số 2 kilohertz có thể làm chuyển động robot, kéo giãn nó đủ nhỏ để đưa vào mạch máu. Tần số 3 kilohertz có thể điều chỉnh một ống bơm đưa thuốc vào mạch máu... 
-Phát minh này sẽ được công bố lần đầu tiên tại Hội nghị quốc tế lần thứ 8 về hình ảnh máy tính và sự trợ giúp của máy tính trong y học vào tháng 10 sắp tới.
-
-KIM NHUNG (Theo Discovery )

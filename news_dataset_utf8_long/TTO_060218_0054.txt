@@ -1,6 +1,0 @@
-﻿Được sử dụng mẫu phiếu đăng ký dự thi từ Internet
-
-Với mẫu phiếu download và in ra từ mạng Internet, TS vẫn phải khai và có dấu xác nhận đầy đủ theo qui định. Việc này mới chỉ tạo thuận lợi cho TS được một phần nhỏ, trong trường hợp TS cần khai lại phiếu nhiều lần. Còn TS vẫn phải mua bộ hồ sơ ĐKDT in sẵn có đầy đủ phong bì vì trên đó có nhiều thông tin cần thiết khác. 
-Trên hồ sơ ĐKDT do các sở GD -ĐT trong cả nước in ấn và phát hành năm nay vẫn có dấu ký hiệu qui ước của từng sở. Tuy nhiên, bộ chủ trương TS sẽ không bị hạn chế, bắt buộc nộp hồ sơ ở đâu thì phải sử dụng mẫu hồ sơ do địa phương đó phát hành.
-
-T.HÀ

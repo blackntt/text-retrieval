@@ -1,7 +1,0 @@
-﻿Tạo web hình ảnh màu dạng ASCII
-
-AsciiMagic là phần mềm miễn phí, giúp bạn chuyển đổi các file hình ảnh có sẵn trên máy tính thành hình ảnh ASCII màu dưới dạng web. Bạn tải file nén về bung nén và sử dụng ngay, không cần cài đặt. Cách sử dụng: 
-- Chọn file hình ảnh cần chuyển đổi (BMP/ JPG/ GIF) bằng cách bấm vào nút bên cạnh mục Input Picture. Bạn nên chọn những hình có kích cỡ nhỏ, khoảng dưới 100x100 pixel. - Chọn nơi lưu file HTML bằng cách bấm vào nút bên cạnh mục Output File. Lưu ý là khi đặt tên tập tin, bạn nhớ nhập thêm phần đuôi của nó là .HTML hoặc .HTM. Ví dụ: hinh1.htm - Bấm nút Process để bắt đầu quá trình chuyển đổi. - Thay đổi màu nền: Tìm đến thẻ &lt;body bgcolor=”#000000"&gt;. Thay chuỗi giá trị màu Hex #000000 bằng chuỗi màu bạn thích. - Thay đổi ký tự hiển thị: AsciiMagic dùng ký tự @ để dựng hình, nếu muốn dùng ký tự khác bạn vào menu Edit/ Replace... (hoặc Ctrl+H). Trên hộp thoại vừa hiện ra, bạn gõ chữ @ vào khung Find what, gõ chữ muốn thay thế vào khung Replace with. Chọn All ở mục Direction và bấm Replace All là xong. 
-Loại: Miễn phí. Dung lượng: 14,5 KB. Địa chỉ tải: http://jituonline.freeservers.com/asciimagic11.zip
-
-NGUYỄN NGÔ TRUNG HIẾU

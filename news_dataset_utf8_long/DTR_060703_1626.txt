@@ -1,8 +1,0 @@
-﻿Malware bỏ qua email, “làm ăn” trên website
-
-Tác giả của những phần mềm nguy hiểm (malware) không còn mặn mà với chiêu phát tán virus qua các file đính kèm trong email nữa, thay vào đó là tấn công bằng các website đặc biệt. 
- Người dùng bị lừa download malware vào hệ thống và tin tặc sẽ chiếm quyền kiểm soát máy tính. 
-Công ty bảo mật BlackSpider Technologies cho biết họ đã ghi nhận sự giảm sút số virus được đính kèm trong email kể từ đầu năm nay. Tháng 6 chứng kiến một con số thấp kỷ lục, chỉ có 0,68% email chứa malware, giảm so với 0,73% của tháng 5. 
-Cũng theo công ty này, tổng số thư rác spam cũng đang có xu hướng giảm. Số thư rác bất hợp pháp chiếm 87,7% trong lưu lượng email của tháng 5 đã giảm còn 78,1% trong tháng 6. 
-BlackSpider Technologies khuyến cáo chính sách mới này của tin tặc buộc lòng các hãng an ninh cũng như người dùng phải thay đổi cơ chế bảo mật. Hiện nay, các doanh nghiệp thường lọc email để loại bỏ virus và Trojan, song, theo xu hướng này, các hãng bảo mật phải mở rộng công nghệ lọc web để ngăn chặn hiệu quả malware, BlackSpider gợi ý. 
-N.H Theo VNuNet

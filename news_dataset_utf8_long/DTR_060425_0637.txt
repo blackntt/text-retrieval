@@ -1,9 +1,0 @@
-﻿Intel sẽ ra mắt chip mới dành cho doanh nghiệp
-
-Trong nỗ lực kiểm soát thị phần của mình, hôm qua, Intel đã tuyên bố sẽ tung ra một gói công nghệ chip mới vPro giúp giảm chi phí vận hành, tăng tính bảo mật cho PC vào cuối năm nay nhằm tạo sự khác biệt với chip của đối thủ nặng ký AMD. 
- Công nghệ vPro này dành cho các máy tính doanh nghiệp chạy bộ vi xử lý của Intel. Intel cho biết sẽ ra mắt gói sản phẩm gồm chipset mới và phần mềm mới dựa trên nền tảng Conroe dành riêng cho các doanh nghiệp, giúp giảm thời gian khởi động, tăng khả năng bảo mật chống virus và giảm mức tiêu hao điện năng, trong khi đó vẫn duy trì tốc độ vận hành. 
-Chip Conroe là một phiên bản dành cho các loại máy tính để bàn của ba loại bộ vi xử lý lõi kép 64-bit của Intel. 
-Trong mấy năm nay, chi phí về điện năng và nhân công để quản lý máy tính đã “ngốn” một phần lớn trong ngân sách công nghệ thông tin (IT), Paul Otellini, CEO của Intel cho biết trong buổi họp báo ở San Francisco, Mỹ, nhận định. “Chi tiêu cho IT đang trở thành vấn đề đáng lo ngại”, ông nói thêm. “Gần 90% ngân sách IT được phân bổ để hỗ trợ giá cả chứ không tập trung sang các dự án mới”. Và trong khi máy tính xách tay đã phát triển mạnh mẽ nhằm tận dụng các công nghệ mới để tiết kiệm điện năng và sử dụng các kết nối không dây, các PC cũ của doanh nghiệp lại không thay đổi là bao, Paul Otellini nhận xét. 
-Nền vPro là giải pháp tương tự như giải pháp kết hợp các tính năng phần cứng và phần mềm của Centrino – dòng chip dành cho các loại máy tính xách tay của Intel, và cũng giống với công nghệ nâng cấp hệ thống giải trí gia đình Viiv. 
-Công nghệ mới này của Intel sẽ giúp các nhà quản trị mạng khởi động hệ thống từ xa mà không dây hỏng hóc. Intel cho biết một số công ty sản xuất phần cứng sẽ phát triển dựa trên hệ thống vPro, như Dell, Lenovo, và HP. 
-N.Hương Theo VNuNet, InformationWeek

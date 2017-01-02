@@ -1,7 +1,0 @@
-﻿Microsoft ngừng hỗ trợ Windows 98, ME
-
-Đến ngày 11/7, hãng phầm mềm khổng lồ Mỹ sẽ ngừng hỗ trợ Windows 98, Windows 98 SE và Windows Millennium Edition (ME). Microsoft ngừng cập nhật bản vá bảo mật của các hệ điều hành này. 
- Tuy nhiên, hỗ trợ hướng dẫn trực tuyến để người dùng tự thực hiện vẫn sẽ có mặt trên trang hỗ trợ của Microsoft ít nhất là tới ngày 11/7/2007. 
-Microsoft xem các hệ điều hành này đã “lỗi thời” và do vậy chúng có nhiều nguy cơ bảo mật, đó là lý do vì sao họ quyết định ngừng hỗ trợ chúng. Hãng khuyến cáo các khách hàng hiện vẫn đang sử dụng các hệ điều hành này nâng cấp lên các phiên bản Windows mới hơn, chẳng hạn như Windows XP, càng sớm càng tốt. 
-Windows 98 và ME thường ít được cài đặt trong doanh nghiệp mà phổ biến trong máy tính gia đình. Theo khảo sát tháng 12/2005 của hãng nghiên cứu Jupiter tiến hành trên gần 2.300 khách hàng thì 16% trong số đó sử dụng Windows 98 hoặc 98 SE tại nhà, và 6% sử dụng Windows ME. 
-Đây cũng là một trong những động thái mà Microsoft chuẩn bị cho sự ra đời chính thức của Windows Vista. Dự đoán rất nhiều máy tính trong hệ doanh nghiệp hiện đang sử dụng Windows 98 sẽ đồng loạt nâng cấp lên Windows Vista vì tính an toàn và thân thiện của nó. Theo AI VietNam/InfoWorld

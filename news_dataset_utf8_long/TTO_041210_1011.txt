@@ -1,7 +1,0 @@
-﻿Lại “thả” cat.6 và cat.14
-
-Quyết định này được thực hiện kể từ ngày 10/12/2004, thay vì phải quản lý bằng hạn ngạch (quota) như hiện nay. 
-Nguyên nhân của việc “thả” quota cho hai cat. nói trên là do lượng quota còn lại quá nhiều. Đến hết ngày 7-12, quota của cat.6 còn gần 2 triệu chiếc (tỉ lệ thực hiện khoảng 77,44%), của cat.14 khoảng 89%. Lượng hạn ngạch còn lại của hai cat. này chắc chắn sẽ bị “khê’, không thể nào dùng hết trong năm nay. 
-Được biết, kim ngạch xuất khẩu sang EU hiện đạt khoảng 640,66 triệu USD,tăng hơn năm ngoái gần 100 triệu USD nhưng không đạt chỉ tiêu đặt ra trong năm nay.
-
-T.V.N.

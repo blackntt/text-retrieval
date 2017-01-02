@@ -1,7 +1,0 @@
-﻿Xem khung cảnh biển sâu do robot gửi tới Internet
-
-Đại học quốc tế Bremen (IUB) của Đức cho ra mắt mẫu robot đầu tiên hôm thứ hai với tên gọi Deep Sea Crawler có khả năng truyền các thông số kỹ thuật và hình ảnh video từ độ sâu 6.000 mét dưới mực nước biển tới Internet nhờ một web cam nối với cáp quang. Cho tới nay, những thiết bị tương tự đòi hỏi phải có các tàu nghiên cứu đắt tiền để điều khiển chúng. 
-Giáo sư hải dương học Laurenz Thomsen của Đại học quốc tế Bremen cho biết, Tổ hợp nghiên cứu quốc tế về thềm lục địa (IRCCM) đã quy tụ nhiều chuyên gia thế giới để phát triển robot quan sát đáy biển sâu này. IRCCM đang thực hiện hàng loạt dự án toàn cầu như hệ thống cảnh báo sớm động đất và sóng thần. Họ hy vọng robot Deep Sea Crawler sẽ cung cấp sự hiểu biết sâu sắc hơn về những thay đổi của hệ sinh thái. Ngoài ra, robot cũng có thể phục vụ tốt cho việc tìm kiếm các mỏ dầu ngoài khơi. 
-Sau giai đoạn thử nghiệm bắt đầu vào cuối năm 2004, robot Deep Sea Crawler sẽ được triển khai cạnh một trạm nghiên cứu ngầm tự động dọc bờ biển phía tây bắc nước Mỹ. Một dự án tương tự về nghiên cứu động đất cũng đang được lên kế hoạch triển khai tại phía đông Địa Trung Hải.
-
-HỒNG YẾN (Theo AFP)

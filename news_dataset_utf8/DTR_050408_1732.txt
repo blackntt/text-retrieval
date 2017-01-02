@@ -1,6 +1,0 @@
-﻿Microsoft ra mắt phần mềm phòng chống lạm dụng trẻ em
-
-Microsoft và các cơ quan luật pháp Canada vừa hợp tác cho ra mắt một chương trình phần mềm chuyên truy tìm những kẻ dụ dỗ lạm dụng trẻ em trên mạng. 
- Công cụ mới cho phép các cơ quan pháp luật nhanh chóng lần ra dấu vết của những kẻ chuyên dụ dỗ lạm dụng tình dục trẻ em trên mạng. Nền tảng cơ bản của phần mềm chính là khả năng liên kết giữa hoạt động mua bán thẻ tín dụng, thông điệp chat và hồ sơ tội phạm. 
-Phần mềm mới có tên là Child Exploitation Tracking System (CETS), thực chất là một hệ thống quản lý thông tin sử dụng ngôn ngữ XML cùng với các công nghệ khác của Microsoft như SharePoint Portal Server, cơ sở dữ liệu của SQL Server. 
-CETS cho phép các cơ quan pháp luật trên thế giới chia sẻ thông tin với nhau, để từ đó có thể nhanh chóng lần ra dấu vết tội phạm. Công nghệ độc đáo này sẽ ngăn được sự bành trướng của cộng đồng những kẻ chuyên lạm dụng tình dục trẻ em trên toàn cầu. Theo VnMedia

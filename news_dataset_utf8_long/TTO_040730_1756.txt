@@ -1,6 +1,0 @@
-﻿Yếu tố quyết định hàng đầu: Thông tin kịp thời
-
-Hiện, mỗi ngày đài phát thông báo thời tiết bằng tiếng Việt (trên tần số 8294 kHz) vào lúc 7g30,19g 30. Khi có bão khẩn cấp đài sẽ tăng thời lượng phát vào 0g30, 4g30, 7g30, 10g30, 12 g30, 16g30, 19g30 và 22g30. Riêng thông báo thời tiết biển, thông báo hàng hải bằng Anh ngữ phát theo giờ ấn định quốc tế. 
-Khi tàu gặp sự cố, hoặc tai nạn, gọi đúng hai tần số trực là hệ thống an toàn và cấp cứu hàng hải toàn cầu (ở tần số thoại kênh 16 VHF) và hệ phục vụ tàu cá đánh bắt xa bờ trong nước thì lập tức các đài TTDH trong nước đều nhận được và xử lý ngay. Ngoài ra, các đài sẽ phát truyền tiếp khẩn cấp cảnh báo, cấp cứu đến tất cả các phương tiện đang hoạt động ở vùng lân cận biết, đến cứu giúp.
-
-TRẦN NGỌC

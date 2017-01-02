@@ -1,8 +1,0 @@
-﻿Tải Windows Vista làm chậm đường truyền Internet
-
-Hãng phần mềm khổng lồ đã hạn chế số người download phiên bản thử nghiệm hệ điều hành thế hệ mới của họ vì sợ quá nhiều người tải sẽ làm chậm đường truyền Internet. 
- Microsoft đã khuyến cáo trong phần Giải đáp thắc mắc Q&amp;A trong website chính thức của Vista rằng nếu hãng mở rộng quyền download bản beta 2 thì sẽ ảnh hưởng đến một số dịch vụ trực tuyến khác. 
-“Nói thẳng rằng nếu chúng tôi mở rộng thêm băng tần thì có thể sẽ làm sập đường truyền Internet. Người dùng sẽ gặp khó khăn nếu muốn xem World Cup trên mạng hay bất cứ hoạt động online nào”, đại diện của Microsoft nói. 
-Microsoft cho biết họ đã dự đoán được số người muốn tải bản beta Vista nhưng họ chỉ dám cho phép số lượng download trong ngưỡng nhất định mà Internet có thể kiểm soát được. 
-Người dùng có thể tải Vista bằng hai cách: bản 32 bit có dung lượng 3,5 GB, và bản 64 bit dung lượng 4,4 GB. 
-N.H Theo VNuNet

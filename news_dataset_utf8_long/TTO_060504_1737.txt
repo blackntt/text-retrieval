@@ -1,7 +1,0 @@
-﻿Hình thành hệ thống ứng cứu khẩn cấp máy tính VN
-
-VNCERT cũng có nhiệm vụ điều phối các hoạt động ứng cứu mạng Internet quốc gia để phòng chống sự cố mạng và tham gia chống tội phạm, chống khủng bố trên mạng Internet trong phạm vi quốc gia và trong khuôn khổ hợp tác quốc tế; điều phối và hướng dẫn các tổ chức, doanh nghiệp cung cấp dịch vụ Internet trong việc xử lý sự cố, thực hiện nghĩa vụ xử lý thông tin cơ sở và lưu trữ số liệu gốc để cung cấp thông tin cho mục đích đảm bảo an toàn mạng Internet quốc gia. 
-Ngoài ra, VNCERT sẽ thực hiện nhiệm vụ thu thập thông tin về an toàn mạng Internet, theo dõi phát hiện những nguy cơ và các sự cố an toàn mạng máy tính để cảnh báo sớm cho các cơ quan hữu quan và cộng đồng. 
-VNCERT được quyền yêu cầu các tổ chức, cá nhân hoạt động trên mạng Internet quốc gia cung cấp các thông tin và các số liệu thống kê liên quan tới vấn đề an toàn mạng.
-
-KHIẾT HƯNG

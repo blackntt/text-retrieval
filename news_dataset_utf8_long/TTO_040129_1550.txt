@@ -1,7 +1,0 @@
-﻿Intel nâng cấp chip 32 bit lên 64 bit
-
-“Đây là một phát biểu quan trọng của Intel. Điều này cho thấy Intel có khả năng sẽ sử dụng một kỹ thuật tương thích mà AMD đang dùng hiện nay”, Nathan Brookwood, một nhà phân tích công nghệ, phát biểu. 
-Ngoài việc tuyên bố đang quan tâm theo dõi thị trường, các nhà lãnh đạo của Intel từ chối đề cập tới vấn đề chip 64 bit cho PC và máy chủ giá rẻ. 
-Tuy nhiên, các nhà phân tích đoán rằng rất có thể các kỹ sư của Intel đang phát triển một công nghệ mới tương thích như vậy, nhưng hãng giữ bí mật về dự án này để tránh sự trì trệ của Itanium - dòng chip 64 bit dành cho các máy chủ có giá lên tới 50.000 USD.
-
-T.M (Theo Reuters)

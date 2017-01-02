@@ -1,9 +1,0 @@
-﻿Trình duyệt “dẫn” đến web sex
-
-Một trình duyệt web miễn phí tự xưng là công cụ bảo vệ an ninh nhưng thực tế lại là một “động cơ” ngấm ngầm hướng người dùng tới các website khiêu dâm, công ty bảo mật Panda khuyến cáo hôm 23/6. 
- Browsezilla khiến người dùng tưởng là trình duyệt mã nguồn mở Mozilla. Website giới thiệu về trình duyệt hứa hẹn nó sẽ giúp xóa mọi dấu vết khi lướt vào những trang chứa ảnh gợi cảm. Trình duyệt này không dùng “history” hay lưu dữ liệu vào bộ nhớ đệm, và nó cho phép người lướt web lưu lại bookmark trên máy chủ từ xa. 
-Tuy nhiên, Browsezilla lại bí mật cài đặt một phần mềm quảng cáo adware để tăng số lần truy cập vào các web sex mà người dùng đang “dừng chân”. J.J. Schoch, Giám đốc marketing của Panda, nhận định: “Adware mở hàng loạt trang khiêu dâm để tăng số lượng hit cho những trang đó mặc dù người dùng không nhìn thấy chúng”. 
-Panda cảnh báo về loại trình duyệt này vì hãng nhận thấy Browsezilla đang được sử dụng rất rộng rãi, đặc biệt là ở Italy . 
-Ông Schoch cho biết đây là browser đầu tiên dùng chiêu tăng số lần click. “Mặc dù trình duyệt này không hủy hoại máy tính nhưng chúng lại làm ảnh hưởng đến danh dự của người dùng”, ông này giải thích. 
-Panda khuyến cáo người dùng cần phải cẩn thận với loại trình duyệt này và tránh xa mục “Những đường link dành cho người lớn”. 
-N.H Theo PCWorld

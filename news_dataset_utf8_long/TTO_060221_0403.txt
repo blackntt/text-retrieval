@@ -1,6 +1,0 @@
-﻿Loài kiến “hướng dẫn” nhau như thế nào?
-
-Theo đó, để hướng dẫn, dạy cho nhau cách thức tìm mồi, loài kiến đã áp dụng kỹ thuật chạy nối đuôi nhau - tức con kiến này hướng dẫn những con khác bò từ ổ của chúng đến nơi có thức ăn. Những con kiến đầu đàn sẽ bò chậm lại nếu những con sau bị bỏ quá xa và chúng sẽ tăng tốc dần lên nếu khoảng cách giữa chúng quá ngắn. 
-Thông tin đường đi được lan truyền khắp cả đàn kiến khi những con theo sau trở thành “thủ lĩnh” đi đầu và quá trình hướng dẫn, chỉ dạy lại bắt đầu một lần nữa đối với cả đàn kiến. Giáo sư Nigel Franks nói: “Việc hướng dẫn, chỉ dạy lẫn nhau trong loài kiến không đơn thuần là sự bắt chước. Kiến tuy là loài động vật có bộ não nhỏ hơn của người hàng triệu lần nhưng lại rất giỏi trong “công tác” dạy và học”.
-
-NGUYỄN SINH ( Nature )

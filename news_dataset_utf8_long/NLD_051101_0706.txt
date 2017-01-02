@@ -1,6 +1,0 @@
-﻿Sub Commander
-
-Trong game này, bạn được giao nhiệm vụ lái tàu ngầm đến tăng viện cho quân đồng minh ở khu vực phía Đông quần đảo Solomon.
-Cách điều khiển con tàu khá đơn giản. Bạn rê chuột qua phải để tăng tốc, qua trái để giảm tốc và click chuột trái để leo qua núi. Trên đường đi, bạn phải cố gắng vượt qua tất cả chướng ngại, bao gồm núi ngầm, băng trôi, mìn, ngư lôi, tàu chiến của đối phương v.v... đồng thời lấy được càng nhiều phần thưởng (bonus) càng tốt. Game đòi hỏi bạn phải có sự kiên nhẫn và khéo léo vì chỉ cần lạc “tay lái” một chút là tàu chìm. Sub Commander có dung lượng 1,05 MB, chạy trực tiếp, không cần cài đặt. Tải bản miễn phí tại www.miniclip.com/download .
-
-T.T

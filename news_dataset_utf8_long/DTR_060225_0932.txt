@@ -1,7 +1,0 @@
-﻿“Bóc lịch” 8 năm vì ăn cắp dữ liệu
-
-Một người đàn ông ở bang Florida, Mỹ đã bị tuyên án 8 năm tù giam vì tội ăn cắp hơn 4.789 thông tin dữ liệu máy tính, làm tổn hại 50 triệu USD của công ty quản lý dữ liệu Acxiom chuyên thu thập thông tin cho các công ty lớn trên thế giới. 
- Tin tặc Scott Levine, 46 tuổi này sở hữu công ty Snipermail ở Florida, chuyên phát tán thư rác quảng cáo. Levine đã hợp tác cùng với một số hacker khác ăn trộm số liệu của Acxiom, bao gồm tên tuổi, số điện thoại, địa chỉ nhà ở và địa chỉ e-mail của khách hàng. 
-Theo cơ quan điều tra, kẻ phá hoại này sử dụng phần mềm giải mã để phá mật khẩu và chiếm quyền truy cập hợp pháp trong cơ sở dữ liệu của công ty Acxiom. 
-Các công tố viên tin rằng không có một dữ liệu bị “đột kích” nào được sử dụng trong các vụ gian lận thẻ tín dụng hay thẻ ID, nhưng một số thông tin được bán lại cho các nhà môi giới để sử dụng trong chiến lược quảng cáo. 
-Acxiom cung cấp các dịch vụ quản lý dữ liệu cho các tập đoàn lớn để thực hiện chiến dịch marketing và nhiều mục đích khác. N.H (theo The Age )

@@ -1,8 +1,0 @@
-﻿Thu hồi giải nhất và cúp vàng TTVN 2003 của nhóm iCMS
-
-Theo thẩm tra của BTC, sản phẩm “Hệ thống khai thác và quản trị thông tin - iCMS” của nhóm thí sinh Nguyễn Công Kha, Nguyễn Anh Tuấn, Đặng Quang Huy và Nguyễn Thanh Tùng, đã vi phạm bản quyền của tác giả Stephen R.G. Fraser và Nhà xuất bản Apress vì đã không xin phép và cũng không dẫn chứng/ghi chú tác giả trong bản thuyết trình sản phẩm khi sử dụng mã nguồn CMS.NET. 
-iCMS cũng đã không cung cấp đầy đủ thông tin về tài liệu tham khảo và mã nguồn mở đã sử dụng trong hồ sơ dự thi TTVN2003. 
-Trước đó, BTC TTVN đã tiến hành lấy ý kiến của Hội đồng Giám khảo TTVN 2003 về phương án xử lý dưới góc độ Ban giám khảo; xin ý kiến thẩm định của các chuyên gia kỹ thuật độc lập và liên hệ xin ý kiến chính thức của ông Stephen R. G. Fraser - tác giả cuốn sách mà nhóm iCMS đã tham khảo sử dụng; lấy ý kiến của các thành viên Diendantinhoc.com do ông Dương Vi Khoa tổng hợp cũng như đề đơn đề nghị làm rõ những nội dung liên quan đến cuộc thi TTVN của ông Bùi Tường Vũ, Cty TNHH Điểm tin TP HCM…đồng thời xem xét đơn xin trao trả lại giải thưởng của nhóm iCMS. 
-Tuy nhiên, trong kết luận của Ban tổ chức cũng ghi nhận nhóm iCMS đã có nhiều nỗ lực trong việc tạo ra một sản phẩm có tính ứng dụng thực tiễn. Về phía giám khảo, hai đại diện là ông Bạch Hưng Khang và ông Nguyễn Thành Nam, tuyên bố họ xin chịu một phần trách nhiệm, và đề xuất rằng từ cuộc thi TTVN 2005 cần xây dựng lại Điều lệ cuộc thi chặt chẽ hơn cho phù hợp với thực tế, linh hoạt hơn trong cơ cấu giải thưởng. Việc chấm giải theo "so bó đũa chọn cột cờ" dễ dẫn đến tình trạng chất lượng sản phẩm không tương xứng với giải thưởng mang tên "Trí tuệ Việt Nam".
-
-T.MINH

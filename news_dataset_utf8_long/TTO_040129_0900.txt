@@ -1,8 +1,0 @@
-﻿Thị trường máy chủ phát đạt trong năm 2003
-
-Riêng quý IV vừa qua, sản phẩm máy chủ bán ra trên toàn thế giới tăng 25%, đạt 1,59 triệu chiếc so với con số 1,28 triệu của cùng kỳ năm trước. Hãng HP vẫn duy trì vị trí dẫn đầu với 462.000 máy, Dell đứng thứ hai với 319.000 chiếc, theo sau là IBM 274.000 chiếc và Sun Microsystems 84.000 chiếc. Bốn công ty này chiếm khoảng 71% thị phần máy chủ toàn cầu. 
-Hầu hết những loại máy bán chạy là hàng bình dân. Trong số 1,59 triệu máy chủ được bán ra có 1,45 triệu (91%) chạy chip 32-bit của Intel hoặc AMD. 
-Ngược lại với lĩnh vực máy chủ, mặc dù vào mùa mua sắm số lượng máy tính cầm tay bán ra tăng 3,2% nhưng cả năm lại giảm 18%, chỉ đạt khoảng 2 triệu chiếc. Hầu hết những sản phẩm bán được là thiết bị thông minh. 
-Hãng PalmOne hiện vẫn đứng đầu thị trường với 38% thị phần trong năm 2003. HP giành vị trí thứ hai với 22%, theo sau là Sony với 14%, Dell 5,9% thị phần.
-
-T.M (Theo ITnews)

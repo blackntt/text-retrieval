@@ -1,9 +1,0 @@
-﻿Máy bay điều khiển từ xa chụp không ảnh
-
-Loại máy bay này có kích thước nhỏ gọn với sải cánh 0,8m, trọng lượng cất cánh tối đa 0,65kg, sử dụng động cơ điện công suất 120W, nguồn điện là pin Lithium-Polymer 11,1V. 
-Máy bay có thể bay cao 100 - 120m, thời gian bay 10 -15 phút. Tốc độ bay của máy bay động cơ điện nằm trong khoảng 20-40 km/giờ là phù hợp cho việc chụp không ảnh. 
-Máy bay điều khiển từ xa chụp không ảnh và một góc khu đô thị Phú Mỹ Hưng được ghi ảnh từ trên máy bay - Ảnh: Q.T. 
-Để chụp không ảnh, máy bay được gắn một máy chụp ảnh loại thông thường, có trọng lượng 100 - 200g. Trên máy còn được gắn một động cơ servo nhỏ để làm động tác nhấn nút chụp ảnh của máy ảnh. 
-Người điều khiển máy bay ở mặt đất có thể cho chụp ảnh bất cứ lúc nào bằng cách bật/tắt động cơ servo thông qua các chức năng của bộ điều khiển từ xa.
-
-QUỐC THANH

@@ -1,7 +1,0 @@
-﻿10 điểm luận án thạc sĩ tin học
-
-TS Dương Anh Đức - trưởng khoa Công nghệ thông tin - cho biết đây là trường hợp đầu tiên sau 12 khóa đào tạo. 
-Đề tài mang tên “Nghiên cứu một số vấn đề bảo vệ thông tin về ứng dụng”. Tác giả đã xây dựng một số qui trình bảo vệ thông tin tương đối hiệu quả, an toàn như bộ thư viện SmartCryptoLib cung cấp cho người sử dụng khả năng xây dựng dễ dàng các chức năng bảo vệ thông tin trong các hệ thống phần mềm khác nhau: ứng dụng mã hóa và chữ ký điện tử trên PDA, tương thích với nhiều hệ điều hành khác nhau nhằm bảo vệ thư điện tử; ứng dụng điều khiển từ xa tăng cường độ bảo mật của thông tin trong liên lạc trên mạng không dây; ứng dụng những thông tin bí mật vào tập tin âm thanh... 
-Được biết, Trần Minh Triết đã có gần 20 công trình nghiên cứu, báo cáo trong nước và quốc tế (Mỹ, Singapore, Thái Lan...).
-
-ĐẶNG TƯƠI

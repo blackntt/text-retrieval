@@ -1,9 +1,0 @@
-﻿Xem lịch World Cup trên điện thoại
-
-Phần mềm được viết trên nền JM2E MIDP 2.0 được công ty FPT giới thiệu tại Triển lãm quốc tế về Phần mềm và giải trí điện tử 2006 (ISGAF) từ 26 đến 29/5. Phần mềm cho phép người dùng gửi tin nhắn SMS để xem lịch thi đấu World Cup. 
- Phần mềm được chạy trên tất cả các máy điện thoai di động có hỗ trợ màn hình màu JAVA MIDP 2.0. Các phiên bản đã được hoàn chỉnh cho các máy Samsung (độ phân giải màn hình 128 x 128, 128 x 160, 176 x 220, 240 x 320), Motorola (128x160, 176 x 208), Nokia (128 x 128, 128 x 160, 176 x 204). 
-Bên cạnh đó, các dòng điện thoại không thuộc các độ phân giải trên mà có hỗ trợ JAVA MIDP2.0 đều có thể cài đặt nhưng không hiển thị hết màn hình. 
-Phần mềm World Cup 2006 này có các giao diện đẹp, đặc biệt là hoàn toàn bằng tiếng Việt, tốc độ truy xuất cực nhanh, bao gồm các chức năng chính sau: Tra cứu theo lịch bảng (VD: bảng A có trận nào, đội nào, thi đấu ngày nào,…). 
-Điểm đặc biệt của chương trình này là bạn có thể cập nhật tỉ số bằng thao tác hoặc có thể kết nối GPRS vào server wap của FPT để cập nhật tỉ số. Tổng dung lượng file cập nhật khoảng 1KB do đó không tốn chi phí GPRS là bao. Tra cứu theo lịch ngày thi, tra cứu theo lịch đội thi đấu và bảng xếp hạng: xếp hạng vòng bảng của các đội, gồm các thông tin về số trận thắng, số trận thua, số trận hòa và điểm của các đội trong từng bảng. 
-Ngoài ra, chương trình còn cung cấp cho người sử dụng những thông tin như: Thông tin đội tuyển, như xếp hạng FIFA, huấn luyện viên, đội hình tham dự…; thông tin tất cả các thành phố tại Đức có sân thi đấu tại worldcup; và sơ đồ hình cây tới trận chung kết của các đội tuyển. 
-Người dùng quan tâm có thể cài đặt miễn phí phần mềm tại các siêu thị điện thoại, hay vào trang web www.fbtmobile.com.vn hoặc truy cập thông qua GPRS http://wap.fbtmobile.com.vn. M.Hùng

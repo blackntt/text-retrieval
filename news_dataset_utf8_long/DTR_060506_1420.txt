@@ -1,9 +1,0 @@
-﻿Máy ATM nối mạng IP rất dễ bị tấn công
-
-Một xu hướng đang phát triển tại các ngân hàng là tách hệ thống máy rút tiền tự động (ATM) ra khỏi kiểm soát của các mạng và đưa các hệ thống này về mạng TCP/IP của ngân hàng quản lý. Động thái này đang tạo ra các lỗ hổng trong môi trường giao dịch ATM. 
- Theo một báo cáo của công ty bảo mật Redspin (Mỹ), hầu hết các cơ sở dữ liệu ATM đều không được bảo mật và có thể bị tấn công một cách dễ dàng hơn khi chúng đi qua hệ thống mạng IP so với các đường truyền chuyên dụng. Nguy cơ lớn nhất là nạn ăn cắp thẻ rút tiền. 
-Máy ATM nối mạng dựa trên công nghệ IP chỉ bảo vệ dữ liệu về mã chứng thực cá nhân (PIN), còn tất cả các phần khác của hệ thống ATM như số thẻ, ngày hết hạn, số dư tài khoản và số lượng tiền rút ra... luôn không được bảo mật. 
-John Abraham, giám đốc của Redspin, nói nếu không nhanh chóng bảo vệ hệ thống này thì tin tặc sẽ khai thác, thực hiện các chiêu tấn công vào hệ thống ATM, đặc biệt khi máy được đặt ở bên ngoài ngân hàng. 
-Theo ông Abraham, nhiều ngân hàng vẫn không quan tâm tới các nguy cơ này và áp dụng một biện pháp nào để giảm thiểu nguy cơ bị tấn công, như cài đặt tường lửa, cài đặt phần mềm chống virus hay đặt hệ thống ATM trong một phần hệ thống mạng riêng. 
-Mike Lee, nhân viên CEO của hiệp hội công nghiệp ATM tại Brooking (Mỹ), cho rằng chuyển sang công nghệ như hệ thống vận hành Windows XP và hệ thống mạng IP như một vài năm qua đang thay đổi cục diện các vấn đề lỗ hổng so với hệ thống riêng truyền thống. 
-Theo ông, việc sử dụng các công nghệ riêng cho hệ thống ATM có khả năng chống phần mềm nguy hiểm malware, các công cụ hack, tấn công từ chối dịch vụ và các tấn công khác nhằm vào các lỗ hổng của hệ điều hành và mạng. Ông Lee cho rằng, hầu hết các máy ATM hiện nay chạy các giao thức mạng và hệ điều hành cơ bản là giống như các máy tính thông thường. Theo AI VietNam/ComputerWorld

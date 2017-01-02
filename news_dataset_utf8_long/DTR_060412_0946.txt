@@ -1,8 +1,0 @@
-﻿Windows "dính" 3 lỗ hổng nghiêm trọng
-
-Hôm qua, hãng phần mềm khổng lồ Mỹ khuyến cáo về 3 khiếm khuyết nghiêm trọng xuất hiện trong hệ điều hành Windows, cho phép tin tặc chiếm quyền kiểm soát máy tính, virus tự nhân bản mà không cần sự tác động của người dùng. 
- Microsoft nhận định đây là các khiếm khuyết có cấp độ “nghiêm trọng”. Một trong ba lỗi này xuất hiện trong một số phiên bản của trình duyệt Internet Explorer của Microsoft nên hacker lợi dụng trình duyệt web để chiếm toàn quyền hệ thống máy tính của người dùng. Hai lỗ hổng nguy hiểm khác “nằm” trong hệ điều hành Windows. 
-Một lỗi được xác định là rất “quan trọng”, giúp kẻ phá hoại đột nhập vào hệ thống và ăn cắp thông tin nhạy cảm của người dùng nhưng lại không nhân bản sang các máy tính khác, Microsoft cho biết. 
-Microsoft đã mất hơn 3 năm để nâng cấp hệ thống an ninh của hệ điều hành nhưng ngày càng nhiều phần mềm nguy hiểm tấn công các điểm yếu trong Windows và các ứng dụng khác của Microsoft. 
-Microsoft phát hành bản vá các lỗi này trong bản nâng cấp của tháng 4. Cập nhật bản sửa lỗi tại đây . 
-S.H Theo Reuters

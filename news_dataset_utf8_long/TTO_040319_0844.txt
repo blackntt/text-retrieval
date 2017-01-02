@@ -1,6 +1,0 @@
-﻿Website đánh cắp nickname và mật khẩu Yahoo lại xuất hiện
-
-Tổng cộng có 240.812 tài khoản Yahoo và trên 500 thẻ tín dụng được trưng bày trên website. Người viết đã thử sử dụng các nickname Yahoo và số tài khoản có trên website trên. Điều ghi nhận đầu tiên là tất cả những thông tin này đều có thật, chỉ có vài nickname phát hiện mình bị đánh cắp mật khẩu nên thay đổi. Còn thẻ tín dụng có thể sử dụng để mua một số địa chỉ email có hỗ trợ POP3... 
-Trao đổi với các chuyên gia bảo mật, anh Lê Đình Long - phụ trách kỹ thuật Công ty VISC - cho biết đối với các bạn hay chat trên Yahoo nên từ chối các thông báo có tên như bechar hay funfoto. Đây là một loại virus giả danh mới có chức năng trộm password và sức lây lan của nó rất khủng khiếp. Một số hacker mũ đen (cũng có thể là một người bạn mới quen trên mạng) còn sử dụng phần mềm i_bpk_lite.exe để trộm mật khẩu khi đang chat với bạn.
-
-ĐÔNG HẢI

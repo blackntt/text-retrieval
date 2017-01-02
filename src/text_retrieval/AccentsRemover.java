@@ -14,7 +14,7 @@ public class AccentsRemover {
             'Ỉ', 'ỉ', 'Ị', 'ị', 'Ọ', 'ọ', 'Ỏ', 'ỏ', 'Ố', 'ố', 'Ồ', 'ồ', 'Ổ',
             'ổ', 'Ỗ', 'ỗ', 'Ộ', 'ộ', 'Ớ', 'ớ', 'Ờ', 'ờ', 'Ở', 'ở', 'Ỡ', 'ỡ',
             'Ợ', 'ợ', 'Ụ', 'ụ', 'Ủ', 'ủ', 'Ứ', 'ứ', 'Ừ', 'ừ', 'Ử', 'ử', 'Ữ',
-            'ữ', 'Ự', 'ự', 'ỹ' };
+            'ữ', 'Ự', 'ự', 'ỹ','ỷ' };
 
     // Mang cac ky tu thay the khong dau
     private static char[] DESTINATION_CHARACTERS = { 'A', 'A', 'A', 'A', 'E',
@@ -27,7 +27,7 @@ public class AccentsRemover {
             'e', 'I', 'i', 'I', 'i', 'O', 'o', 'O', 'o', 'O', 'o', 'O', 'o',
             'O', 'o', 'O', 'o', 'O', 'o', 'O', 'o', 'O', 'o', 'O', 'o', 'O',
             'o', 'O', 'o', 'U', 'u', 'U', 'u', 'U', 'u', 'U', 'u', 'U', 'u',
-            'U', 'u', 'U', 'u', 'y'};
+            'U', 'u', 'U', 'u', 'y','y'};
 
     /**
      * Bo dau 1 ky tu

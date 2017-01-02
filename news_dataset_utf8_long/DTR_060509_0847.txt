@@ -1,9 +1,0 @@
-﻿Bộ BCVT điều chỉnh cước Internet của VNPT
-
-Bộ BCVT vừa có quyết định số 14/2006/QĐ-BBCVT về việc điều chỉnh cước dịch vụ truy nhập Internet qua mạng điện thoại công cộng (PSTN) của Tập đoàn Bưu chính Viễn thông Việt Nam. 
- Theo đó, Mức cước truy nhập Internet qua mạng điện thoại công cộng cao nhất (cước trần) là: 180đ/phút. Tập đoàn Bưu chính Viễn thông Việt Nam căn cứ vào mức cước trần truy nhập Internet qua mạng điện thoại công cộng quyết định mức cước truy nhập Internet qua mạng điện thoại công cộng của Tập đoàn. 
-Tuy nhiên, giá cước do Tập đoàn quy định phải dựa trên cơ sở giá thành, đảm bảo hiệu quả đầu tư, hiệu quả kinh doanh và tuân thủ các quy định về quản lý giá cước của Nhà nước. 
-Nếu thuê bao sử dụng dịch vụ điện thoại quốc tế mạng NGN 64 Kbps dùng thẻ trả trước, mức cước tối đa không cao hơn so với mức cước liên lạc điện thoại quốc tế mạng PSTN tương ứng và mức cước tối thiểu không thấp hơn 10% so với mức cước liên lạc điện thoại quốc tế mạng PSTN tương ứng. 
-Cước dịch vụ điện thoại IP quốc tế (VOIP) trả sau có mức cước tối đa là 0,51 USD/phút; cước tối thiểu là 0,40 USD/phút. Dịch vụ điện thoại IP quốc tế sử dụng thẻ trả tiền trước có mức cước tối đa là 0,42 USD/phút và tối thiểu là 0,33 USD/phút. 
-Lần này, Bộ Bưu chính Viễn thông cho phép doanh nghiệp tự lựa chọn phương thức tính cước, tuy nhiên, đơn vị tính cước đầu tiên và các đơn vị tính cước tiếp theo phải đáp ứng điều kiện: đơn vị tính cước đầu tiên không thấp hơn Block 6 giây và đơn vị tiếp theo không thấp hơn Block 1 giây. 
-Trước khi ban hành giá cước, Tập đoàn phải đăng ký với Bộ Bưu chính, Viễn thông. Bảo Trung

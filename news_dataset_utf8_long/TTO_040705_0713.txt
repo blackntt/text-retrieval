@@ -1,9 +1,0 @@
-﻿Thí sinh đặc biệt
-
-Thí sinh đặc biệt này là Phan Thái Trung, hiện đang học cao học về công nghệ thông tin tại Pháp. 
-Các công cụ mà Trung đã thực hiện là bản mô phỏng điện thoại Samsung X600 cho JaUmi 2.0, vì JaUmi 2.0 chỉ hỗ trợ Samsung X100 và bộ game API 2.0 cho MIDP 1.0. Trung cho biết với hai công cụ mới được bổ sung nêu trên, thí sinh sẽ không phải viết lại các lớp hoạt hình, các hàm quay... mất nhiều thời gian. “Hãy dành thời gian nhiều hơn cho ý tưởng mới” là thông điệp mà Trung muốn chia sẻ với các bạn. 
-Trao đổi với Tuổi Trẻ , Thái Trung tiết lộ hiện đang cố gắng hoàn tất hai sản phẩm là Dũng sĩ tre vàng (thể loại dàn trận) và Người cảnh sát vui tính (thể loại hành động) để nộp trước ngày 10-7. 
-Bạn đọc có thể tải về hai công cụ mới: Samsung X600 cho JaUmi 2.0 và Game API 2.0 cho MIDP 1.0 . 
-Cách cài đặt: Bạn chỉ cần giải nén vào thư mục /SAMSUNG_WTK20/wtklib/devices là được.
-
-TIỀN GIANG

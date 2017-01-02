@@ -1,7 +1,0 @@
-﻿Mozilla nâng cấp lần cuối cho dòng Firefox 1.5
-
-Công ty bảo mật Secunia đưa ra khuyến cáo cấp thời rằng những người hâm mộ Firefox nên tải về dùng ngay lập tức bản Firefox 1.5.0.4 vì 5 lỗi bảo mật nói trên đều thuộc dạng “rất nghiêm trọng”, tạo điều kiện cho kẻ tấn công xâm nhập hệ thống để tung mã độc. Một số lỗi bảo mật khác cũng cho phép kẻ tấn công tung vào máy tính các mã lệnh JavaScript độc hại. 
-Trong dịp nâng cấp cho Firefox lần này, Mozilla cũng đồng thời tung ra bản vá 8 lỗi bảo mật cho trình quản lý e-mail Thunderbird tức phiên bản Thunderbird đời mới nhất 1.5.0.4. 
-Đại diện của Mozilla cho biết đây là lần nâng cấp vá lỗi cuối cùng của dòng trình duyệt Firefox 1.x. Người hâm mộ Firefox và Thunderbird nên ngay lập tức vào đây để tải ngay các phiên bản 1.5.0.4 mới nhất.
-
-HOÀNG HẢI (TechWeb)

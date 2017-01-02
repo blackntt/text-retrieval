@@ -1,8 +1,0 @@
-﻿Windows - Cách chuyển hiển thị đơn vị sang tiếng Việt
-
-Bạn đã quen với cách sử dụng hệ điều hành Windows và cách hiển thị đơn vị, ngày tháng theo tiếng Anh.
-Tuy nhiên, nhiều khi với cách hiển thị này có thể gây rắc rối nhầm lẫn không đáng có với những người sử dụng máy của bạn mà không biết tiếng Anh. Bạn có thể đổi lại cách hiển thị đơn vị, thời gian sang tiếng Việt bằng cách: 
-- Bạn chọn mục Regional and Language Options trong Control Panel. 
-- Trong Tab Regional Options bạn chọn Vietnamese trong mục Standards and formats. - Bạn chuyển sang Tab Advance và lựa chọn Vietnamese trong mục Language for non-Unicode programs để Windows XP có thể hỗ trợ Unicode cho tiếng Việt.
-
-Long Hà

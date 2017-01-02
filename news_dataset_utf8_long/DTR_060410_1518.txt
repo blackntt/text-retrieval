@@ -1,9 +1,0 @@
-﻿IBM ra mắt chip mã hóa dữ liệu mới
-
-Trong nỗ lực nâng cao độ an toàn cho máy tính xách tay, điện thoại di động và các thiết bị khác. Hôm nay, IBM vừa mới khai trương một công nghệ mới giúp mã hóa bộ vi xử lý của thiết bị. 
- Công nghệ có tên gọi là Secure Blue, giúp mã hóa và giải mã dữ liệu đang chạy trên hệ điều hành. 
-“Rò rỉ dữ liệu là một vấn đề rất được quan tâm”, Charles Palmer, Giám đốc bảo mật của IBM, nói. “Nếu có một kiến trúc có thể mã hóa thông tin, người dùng sẽ có thể bảo vệ dữ liệu của mình”. 
-Secure Blue cần thêm một số mạch (circuit) trong bộ vi xử lý, chiếm một không gian rất nhỏ trên tấm silicon của chip. Cơ chế mã hóa và giải mã thường xuyên hoạt động, không cần sự kích hoạt của bộ vi xử lý, theo IBM. 
-Công nghệ an ninh này có thể được sử dụng cho nhiều mục đích. Nó có thể bảo vệ dữ liệu khi máy tính hoặc thiết bị của người dùng bị mất hoặc bị tấn công (hack). Hoặc một số người có thể sử dụng nó để bảo vệ bản quyền, hay còn gọi là quản lý quyền kỹ thuật số. 
-Ý tưởng bảo mật trên phần cứng không phải là mới. Hàng triệu laptop đã được cài chip Trusted Platform Module (TPM), bảo vệ dữ liệu bằng cách mã hóa mật khẩu, chứng nhận số. Ý tưởng về TPM cũng đã được phát triển cho máy chủ và điện thoại di động. 
-N.Hương Theo CNet

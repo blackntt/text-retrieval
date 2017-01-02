@@ -1,8 +1,0 @@
-﻿Red Hat cung cấp Linux cho máy tính để bàn
-
-Red Hat Desktop sẽ gồm có một hệ điều hành Linux, trình duyệt web Mozilla, chương trình e-mail Evolution và bộ công cụ văn phòng OpenOffice 1.1. Phần mềm nguồn mở trọn gói này sẽ được cung cấp miễn phí. 
-Matthew Szulik – Giám đốc điều hành Red Hat phát biểu rằng “hiện nay nhiều doanh nghiệp có nhu cầu mua máy tính mới và sẽ lựa chọn giữa Windows và Linux. Với tính bảo mật cao, hoàn toàn miễn phí, Red Hat Desktop sẽ là giải pháp tốt nhất cho mọi tổ chức và cá nhân”. 
-Ông Szulik cho biết thị trường châu Âu sẽ là cơ hội lớn cho Red Hat bán dịch vụ của họ cho các hệ thống Linux, sau khi một số công ty châu Âu không ký thỏa thuận sử dụng phần mền mới nhất hiện nay của Microsoft. “Đây là một thị trường cực kỳ tiềm tăng”, Szulik nói. 
-Tuy nhiên, nhắm vào các doanh nghiệp châu Âu, Red Hat sẽ phải cạnh tranh trực tiếp với Novell – một đại gia khổng lồ về Linux vừa mua lại nhà phân phối Linux của Đức vào tháng 1 vừa qua. Do đó con đường chinh phục của Red Hat có thể cũng chẳng dễ dàng gì.
-
-T.M (Theo Itnews)

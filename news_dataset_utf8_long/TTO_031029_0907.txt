@@ -1,7 +1,0 @@
-﻿Ra mắt bản Linux 2.6
-
-Ngoài quy mô hoạt động rộng, trong số những cải tiến ở bản thử nghiệm của Linux 2.6 còn có tính năng lập lịch trình CPU (scheduler), công cụ quản lý bộ nhớ được tăng cường và mã hệ thống file. Phiên bản mới (được gọi là Test9) còn có một lớp ổ (driver layer) để nhờ đó những thiết bị I/O (đầu vào-đầu ra) như đĩa có thể hoạt động tốt và dễ quản lý hơn. 
-OSDL kêu gọi tất cả khách hàng sử dụng Linux, các công ty phát triển phần mềm và cung cấp giải pháp tập trung vào Test9, để “kiểm nghiệm, xác thực và nâng cấp”, nhằm chuẩn bị cho sự ra đời của phiên bản hoàn thiện - dự kiến là cuối năm nay hoặc đầu 2004. Timothy Witham, Giám đốc OSDL, nói: “Chúng tôi cho rằng 2.6 sẽ góp phần mở rộng thị trường sản phẩm mã mở, để Linux có thể thực sự thay thế những nền hoạt động truyền thống”. 
-Tháng 7, OSDL phát hành bản thử nghiệm đầu tiên của lõi 2.6, trong đó có các API (giao diện lập trình ứng dụng) ổn định, Posix và giao diện phân luồng (thread interface). Kể từ đó, nhóm nghiên cứu tiếp tục tìm hiểu và kiểm tra thử nghiệm cả ở Mỹ và Nhật. OSDL tin rằng phiên bản 2.6 của lõi hệ điều hành mã mở sẽ tăng thêm sức hút đối với doanh nghiệp lớn, bởi một loạt tính năng bổ sung sẽ cho phép nó vận hành tốt hơn các ứng dụng quan trọng và những môi trường điều hành cao cấp. Phiên bản mới hiện có thể tải về từ http://www.kernel.org hoặc ftp.kernel.org.
-
-Theo VNE - InfoWorld

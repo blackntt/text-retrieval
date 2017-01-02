@@ -1,9 +1,0 @@
-﻿Microsoft vá lỗi Exchange và phần mềm flash
-
-Hôm qua, hãng phần mềm khổng lồ phát hành bản nâng cấp tháng 5 theo định kỳ. Trong đó có hai lỗi nghiêm trọng trong máy chủ e-mail Exchanger và ứng dụng flash của hãng Adobe Macromedia . 
- Trong bản nâng cấp này, Microsoft cũng sửa các lỗi “trung bình” trong Windows. Tin tặc có thể thực hiện tấn công từ chối dịch vụ DDoS bằng cách gửi tin nhắn thông qua hệ thống để khai thác lỗi này. 
-Hai khiếm khuyết nghiêm trọng này tạo cơ hội cho tin tặc chạy mã nguy hiểm từ xa trên máy tính người dùng. Lỗi Exchange tác động đến chương trình Exchange Server 2000; Microsoft Exchange 2000 Enterprise Server; và Microsoft Exchange Server 2003 cài bản SP1 hoặc SP2. 
-Công ty bảo mật Symantec đánh giá lỗi Microsoft Exchange là nguy hiểm nhất “Vì hầu hết các máy chủ Exchange đều được cấu hình để nhận e-mail từ tất cả người dùng ẩn danh. Lỗi này có khả năng tự biến thành một dạng sâu máy tính nếu PC bị tấn công không vá lỗi cẩn thận”, Oliver Friedrichs, Giám đốc phản ứng nhanh của Symatec, nhận định. 
-Microsoft cũng phát hành bản nâng cấp để vá lỗi nghiêm trọng trong trình Macromedia Flash Player 5 và 6 của Adobe. Tin tặc có thể khai thác những lỗ hổng này bằng cách tạo ra một file hình động flash nguy hiểm. Nếu truy cập vào website chứa file “độc” này thì máy tính sẽ bị chiếm quyền kiểm soát. 
-Ứng dụng Flash này gây tác động đến các máy tính chạy hệ điều hành Windows XP Home Edition đã cài SP1 hoặc SP2; XP Professional; Windows 98 cài SP1; Windows 98 SE; Windows ME. 
-S.H Theo CNet

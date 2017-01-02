@@ -1,6 +1,0 @@
-﻿Website về thị trường chứng khoán
-
-Trang web có các phần sau: tin tức, cơ sở dữ liệu công ty trên thị trường chứng khoán, các văn bản pháp quy, kiến thức chuyên môn. 
-Theo đó, các thông tin được cập nhật gồm biểu đồ chỉ số VnIndex, thông tin giao dịch, thông tin thị trường, hoạt động hợp tác quốc tế, thông tin từ các công ty, các chính sách mới và hoạt động của Ủy ban Chứng khoán Nhà nước. Cơ sở dữ liệu các công ty tham gia thị trường chứng khoán như các tổ chức niêm yết, công ty chứng khoán, công ty quản lý quỹ, ngân hàng lưu ký, ngân hàng chỉ định thanh toán,...
-
-QUỐC DŨNG

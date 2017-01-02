@@ -1,8 +1,0 @@
-﻿Google cải tiến tìm kiếm nhờ thuật toán Orion
-
-Trong nỗ lực nhằm cải thiện mức độ chính xác của kết quả search, Google đã mua lại thuật toán tìm kiếm mới của sinh viên người Israel, học tại ĐH New South Wales, Úc. 
- Giải thuật có tên Orion của cậu sinh viên Allon, 26 tuổi, cho phép giảm bớt thời gian tìm kiếm bằng cách tập trung vào sự liên quan trong các tìm kiếm văn bản. 
-Ý tưởng của thuật toán này là nếu người dùng có thể nhanh chóng tìm thấy thông tin phù hợp thì họ có thể tiết kiệm thời gian cần thiết để duyệt qua các trang web không phù hợp với các tìm kiếm của mình. 
-Do khả năng hoạt động với các công cụ tìm kiếm hiện tại nên Orion có thể mở rộng chức năng và làm cho các công cụ này trở nên linh hoạt hơn mà không phải thay đổi những gì đã có. 
-Thay vì tìm kiếm các trang web chứa các từ khóa được sử dụng trong tìm kiếm của người dùng và cung cấp các liên kết dựa trên những từ khóa này, thuật toán mới có thể cung cấp một đoạn văn bản kèm theo kết quả trả về. Về mặt lý thuyết, phương pháp này sẽ tránh cho người dùng phải xem tất cả các trang web mà nhìn qua có vẻ phù hợp với tiêu chí tìm kiếm 
-Một ưu điểm tiềm tàng khác của thuật toán này là nó có khả năng cung cấp một danh sách các chủ đề liên quan tới tìm kiếm của người dùng, do đó có thể giảm thời gian tìm kiếm bằng cách giảm sự cần thiết phải tra cứu trên một tập hợp từ khóa đa dạng. Theo AI VietNam/Toptechnews

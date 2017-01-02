@@ -1,9 +1,0 @@
-﻿Lỗi nguy hiểm trong phần mềm Symantec Antivirus
-
-Các phiên bản diệt virus dành cho doanh nghiệp của công ty bảo mật hàng đầu thế giới bị “dính” một lỗi nghiêm trọng, tạo cơ hội cho tin tặc phát tán sâu nguy hiểm vào hàng triệu máy tính trên thế giới. 
- Hôm qua, các chuyên gia Internet của công ty bảo mật eEye Digital Security phát hiện ra khiếm khuyết này. Theo họ, lỗ hổng cho phép tin tặc tạo ra một loại sâu có thể chiếm quyền kiểm soát máy tính, chỉnh sửa, xóa bỏ, phá hủy các chương trình và file quan trọng mà không cần người dùng click vào một đường link nào cả. 
-Các chuyên gia bảo mật đánh giá lỗi này ở mức độ “nghiêm trọng”. Phát ngôn viên của eEye Mike Puterbaugh cho biết các phiên bản bị lỗi là Client Security 3.1 và AntiVirus Corporate 10.1 
-Symantec đang điều tra về lỗ hổng nhưng chưa đưa ra ý kiến gì về vấn đề này. Cũng trong ngày hôm qua, Symantec cho biết, lỗi này không ảnh hưởng đế các phiên bản dành cho người dùng cá nhân Norton. 
-Các chuyên gia bảo mật khuyến cáo với người dùng về vấn nạn tội phạm mạng đang tìm mọi cách tấn công các hệ thống vì mục đích tài chính chứ không muốn nổi danh như trước. 
-Thực tế, số virus nguy hiểm đã chững lại kể từ khi sâu Blaster hoành hành năm 2003, tấn công phần mềm của Microsoft và phá hủy hàng trăm nghìn máy tính trên khắp thế giới. 
-N.Hương Theo CNet

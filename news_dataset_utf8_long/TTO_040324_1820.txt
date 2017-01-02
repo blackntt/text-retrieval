@@ -1,6 +1,0 @@
-﻿Trình duyệt điều khiển bằng giọng nói
-
-Trình duyệt mới tích hợp công nghệ ViaVoice của IBM, sẽ được Opera cung cấp miễn phí vào cuối năm nay. Ban đầu chương trình này sẽ chỉ hỗ trợ bản tiếng Anh dành cho máy tính cá nhân chạy hệ điều hành Windows, nhưng sau đó sẽ hỗ trợ cả những ngôn ngữ khác và nhắm vào điện thoại di động, các thiết bị hỗ trợ cá nhân kỹ thuật số. 
-Để công nghệ nhận lệnh giọng nói làm việc tốt, một trang web phải được xây dựng trên chuẩn HTML và âm thanh (X+V). Chuẩn này (do IBM phát triển) cạnh tranh với chuẩn SALT (Speech Application Language Tags) do Microsoft phát triển).
-
-T.M (Theo PCW)

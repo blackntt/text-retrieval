@@ -1,8 +1,0 @@
-﻿Lỗi trong Microsoft Word đã bị hacker khai thác
-
-Tin tặc đã cố thử khống chế hệ thống máy tính thuộc chính phủ Nhật thông qua một lỗ hổng mới trong trình xử lý văn bản của Microsoft. Đồng thời, hãng bảo mật Mỹ Symantec đã nâng mức cảnh báo lên cấp độ 2, tức lỗi này có nguy cơ gây ra một đợt khai thác lớn. 
- Chương trình nguy hiểm ẩn sau một tệp Word đính kèm trong e-mail. Trong trường hợp ở Nhật, tài liệu chứa những thông tin liên quan đến một điều khoản với Trung Quốc. Khi file đó được mở, một phần mềm mở cổng hậu (backdoor) sẽ lập tức thâm nhập vào hệ thống. 
-"Backdoor này chỉ ping (thông báo) về sự tồn tại của một địa chỉ IP ở châu Á. Tuy nhiên, các hacker khác có thể bắt đầu khai thác lỗi trên diện rộng với những mục đích khó lường", Vincent Weafer, Giám đốc bộ phân Symantec Security Response, nói. 
-Đáng ngại hơn, phần mềm nguy hiểm trên có thể vượt qua tầm kiểm soát của các bộ lọc spam. Chương trình diệt virus của Symantec đã không hề phát hiện ra file Word nào bị nhiễm mã độc. 
-Đại diện của Microsoft khẳng định họ đang gấp rút xây dựng bản cập nhật cho ứng dụng Word nhằm khắc phục vấn đề trên. Bản vá sẽ được phát hành vào ngày 13/6, nhưng nếu cần có thể được ra mắt sớm hơn. 
-Theo T.N. VnExpress/CNet

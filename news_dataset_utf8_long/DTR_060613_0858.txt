@@ -1,7 +1,0 @@
-﻿Thu gọn Huế vào lòng bàn tay
-
-Mai Phước Nguyên, sinh năm 1984, chắc chắn sẽ là thí sinh đầu tiên của đất thần kinh tham dự cuộc thi NTĐV 2006. Nguyên đã hoàn tất và đang tiếp tục hoàn thiện thêm phần mềm “Hệ thống hướng dẫn du lịch cho PDA” để tham dự cuộc thi. 
- Với chiếc điện thoại PDA hoặc pocket PC sử dụng hệ điều hành Windows Mobile có cài phần mềm này, du khách tới Huế sẽ hiểu Huế thậm chí hơn cả người bản địa. Phần mềm cài ra có dung lượng khoảng 600Kb, sẽ là một cuốn cẩm nang bách khoa về Huế, bao gồm những thông tin cần thiết cho du lịch như nhà hàng, khách sạn, các điểm vui chơi, các di tích... 
-Nhưng điểm hay và đáng kể nhất lại nằm ở chỗ khác. Phần mềm này có khả năng chỉ đường rất hay. Giả sử ai đó cần đi từ A-B ở Huế, sử dụng phần mềm này sẽ tìm được phương án đường đi ngắn nhất. Giả thiết trong khi đi, đường tắc, phần mềm sẽ tiếp tục tính toán ra những cung đường khác. 
-Phần mềm chạy trên máy PDA. 
-Hiện tại, phần mềm này đã hoàn thành và đã được CH điện thoại 27 Đội Cung (TP. Huế) cài vào một số máy PDA cho khách hàng. Nguyên hy vọng, trong tương lai sẽ tiếp tục tích hợp các thành phố du lịch khác vào sản phẩm để sản phẩm sẽ trở thành không thể thiếu cho bất kỳ ai sử dụng PDA khi đi du lịch ở Hà Nội, TPHCM hoặc những thành phố tương tự. B.Trung

@@ -1,6 +1,0 @@
-﻿Virus “tống tiền”
-
-Được phát hiện trong tuần vừa qua, sau khi lây nhiễm vào máy, virus này sẽ đi thu gom, nén và mã hóa các tập tin tài liệu (.doc, .jpg, .gif) chúng nhìn thấy. Sau đó, những tập tin gốc sẽ bị xóa và virus sẽ “tự kết liễu”. Có 44 định dạng tập tin sẽ bị nhận diện bởi virus. 
-Dấu vết để lại chỉ là một tập tin văn bản yêu cầu và hướng dẫn người dùng gửi khoảng 300 USD vào một trong gần 100 tài khoản của website chuyển tiền điện tử E-Gold, nếu như họ muốn lấy lại quyền truy xuất những tập tin này. Không còn virus, không có mật mã, không biết tình hình sẽ được giải quyết ra sao. Phương pháp lây nhiễm hiện cũng chưa xác định được. May mắn là tốc độ lây nhiễm của loại Trojan này rất thấp.
-
-TRẦN HUY

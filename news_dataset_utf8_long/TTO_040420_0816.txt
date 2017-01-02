@@ -1,7 +1,0 @@
-﻿Chế tạo robot quay phim đầu tiên tại VN
-
-Đây là robot dạng chuyên dụng, đáp ứng yêu cầu kỹ thuật theo công nghệ “phim trường ảo” (diễn viên diễn xuất được ghi hình trên nền phông thuần sắc; phần cảnh thật không có diễn viên diễn xuất được ghi hình ở một nơi khác). 
-Theo PGS-TS Lê Hoài Quốc - chủ nhiệm bộ môn kỹ thuật điều khiển tự động khoa cơ khí ĐH Bách khoa TP.HCM - robot này có khả năng tự động điều khiển quá trình quay phim theo một chương trình máy tính được lập trình trước. 
-Bước đầu robot này đang được cơ quan thường trú Đài truyền hình VN tại TP.HCM đưa vào thử nghiệm như một cần cẩu quay phim (boom) thông thường, sau đó sẽ xúc tiến các thử nghiệm tiếp theo trong trường quay.
-
-QUỐC THANH

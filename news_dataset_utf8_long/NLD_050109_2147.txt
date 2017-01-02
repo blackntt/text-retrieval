@@ -1,6 +1,0 @@
-﻿Mở cổng thông tin ĐHDL Văn Hiến
-
-(NLĐ)- Ngày 9-1, ĐH DL Văn Hiến triển khai cổng giao dịch thông tin ĐH (uPortal). Cổng uPortal có thể quản lý hoạt động đến từng cá nhân sinh viên, cán bộ, giảng viên của trường theo mã số; dự kiến ngày 12-1 sẽ đưa lên mạng Internet tại địa chỉ www.daihocvanhien.edu.vn.
-Theo tiến sĩ Trương Bá Hà, cố vấn kỹ thuật Công ty Phát triển uPortal, việc mở cổng giao dịch thông tin này sẽ tạo cơ hội cho sinh viên có thể trao đổi trực tuyến với giảng viên, theo dõi được tiến độ học tập của bản thân; việc quản lý kế hoạch và quá trình đào tạo của nhà trường cũng được thuận lợi hơn. Được biết, các trường như CĐ Mẫu giáo Trung ương 3, CĐ GTVT 3 và ĐH Công nghiệp 4 cũng đang xúc tiến triển khai mô hình uPortal này.
-
-M.Dung

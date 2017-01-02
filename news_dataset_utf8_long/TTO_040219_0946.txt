@@ -1,8 +1,0 @@
-﻿''Nhìn người, nói chuyện'' qua mạng Internet
-
-Chương trình hứa hẹn sẽ là giải pháp chuyên dụng cho các hội nghị qua hình thời gian thực (realtime videoconferencing) với giá cung cấp là 200 USD/lần cài đặt. 
-Được biết, hệ thống của Cisco hoạt động trên cơ chế phối hợp hoạt động giữa phần mềm thoại qua giao thức Internet và webcam (được gắn vào PC hoặc máy tính xách tay nối mạng). Trong trường hợp băng thông cho phép, hệ thống tích hợp VT Advantage 1.0 có thể truyền tải 30 khung hình (frame)/giây. 
-"Chỉ với những thao tác đơn giản và không phải mất thêm một lần nhất nút, bạn đã có thể nhìn thấy đối tượng của mình trong khi trò chuyện", Marthin De Beer- Tổng giám đốc nhánh truyền thông IP của Cisco, tuyên bố. 
-Cisco nhận định, một khi được sử dụng vào mục tiêu thương mại, hệ thống sẽ tăng đáng kể năng suất làm việc ở các công ty muốn tăng tối đa tính tương tác với đối tượng khách hàng.
-
-Theo Reuters

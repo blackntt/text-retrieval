@@ -1,9 +1,0 @@
-﻿Intel trình diễn công nghệ Santa Rosa và “siêu di động”
-
-Hãng sản xuất chip lớn nhất thế giới vừa giới thiệu về công nghệ máy tính xách tay Centrino và máy tính “siêu di động – Ultra Mobile” tại Diễn đàn các nhà phát triển Intel IDF diễn ra ở San Francisco (Mỹ). 
- Công nghệ di động Centrino thế hệ tiếp theo có tên mã là Santa Rosa, sẽ kết hợp với bộ vi xử lý di động, chipset và chip không dây, Sean Maloney, Phó giám đốc điều hành bộ phận di động của Intel, cho biết. 
-Santa Rosa sẽ được tung ra thị trường vào đầu năm 2007, ông Maloney cho biết. Laptop sử dụng công nghệ Centrino thế hệ tiếp theo này tương thích với bộ vi xử lý Merom, sẽ được ra mắt trong năm nay. Santa Rosa được trang bị bộ chipset Crestline giúp tăng khả năng vận hành đồ họa. 
-Chip không dây mới Kedron được sử dụng trong Santa Rosa sẽ hỗ trợ chuẩn 802.11n. Tuy nhiên, mạng Wi-Fi chỉ là một phần trong tầm nhìn không dây của Intel vì hãng đang tiếp tục phát triển công nghệ WiMax, truyền tín hiệu, dữ liệu với tốc độ nhanh hơn trên phạm vi rộng lớn. 
-Một trong những thiết bị được trông đợi nhất tại IDF là máy tính “siêu di động”. Theo Intel, “siêu di động” của hãng giống với một máy tính bảng tablet PC với đầy đủ các tính năng của PC, cho phép người dùng lướt web, giải trí audio, video, chơi game, xem TV khi đang đi trên đường. "Siêu di động" sẽ có mặt trên thị trường trong năm nay. 
-Cũng tại IDF, Phó chủ tịch của Intel Don McDonald đã giới thiệu thêm một vài tính năng của hệ thống giải trí gia đình Viiv PC, trong đó có bộ nhớ flash, giúp máy tính Viiv PC tăng tốc độ khởi động các ứng dụng giải trí. 
-N.H. Theo ZDNet

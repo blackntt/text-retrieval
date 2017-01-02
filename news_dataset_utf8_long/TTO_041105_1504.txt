@@ -1,8 +1,0 @@
-﻿Abobe để mắt đến Linux
-
-Trước đây Adobe đã đứng bên ngoài trong cuộc đua đưa Linux thâm nhập vào các máy để bàn, nhà phần mềm khổng lồ này chỉ chăm chút cho các sản phẩm chạy trên Microsoft Windows. Nhưng hiện nay công ty này đã đóng vai trò tích cực hơn trong liên minh Linux hiện ngày càng lớn mạnh. Adobe đang xúc tiến các dự án phát triển nhắm đến mã nguồn mở của mình và cũng nhằm gia tăng sức mạnh cho cộng đồng mã nguồn mở. 
-Adobe hiện đang xúc tiến tìm kiếm nhân sự là một giám đốc phát triển thị trường Linux có khả năng "nhận định và đánh giá chính xác các chiến lược của Adobe dành cho Linux cũng như lượng giá được thị trường máy để bàn ứng dụng mã nguồn mở" và "định dạng các dự án của Adobe dựa trên môi trường Linux dành cho máy để bàn". 
-Hiện Adobe cũng đã gia nhập vào Liên minh phát triển mã nguồn mở (OSDL), đây là một liên hiệp công nghệ do chính cha đẻ của Linux là Linus Torvalds lãnh đạo. 
-Một trong những mối quan tâm đơn giản của người dùng hiện nay là bản cập nhật của chương trình Acrobat Reader dành cho Linux để người dùng có thể xem các tài liệu dạng PDF.
-
-HOÀNG HẢI (Theo CNET)

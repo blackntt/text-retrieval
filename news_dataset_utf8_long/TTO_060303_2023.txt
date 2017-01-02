@@ -1,9 +1,0 @@
-﻿Tiêu chuẩn của nhân viên quản trị mạng?
-
-Để trở thành một nhân viên quản trị mạng, bạn cần phải học qua về mạng, ví dụ như: mạng nội bộ (LAN) và diện rộng (WAN), hiểu các layer và các protocols, hệ điều hành, ngoài ra bạn cũng cần nắm sơ qua về ngôn ngữ lập trình hệ thống. 
-Bởi vì với công việc về quản trị mạng, nhiệm vụ của bạn sẽ phải thiết lập các thông số mạng, thiết lập hệ thống mạng, duy trì hiệu suất vận hành mạng bằng cách theo dõi, phân tích và tinh chỉnh quá trình vận hành, tìm và sửa các trục trặc mạng, thông báo về các hỏng hóc với nhà cung cấp thiết bị mạng, giữ an ninh mạng và bảo mật thông tin… 
-Và với tính chất công việc này, bạn có thể trau dồi thêm các kỹ năng như khả năng giải quyết vấn đề nhanh chóng, làm việc có kế hoạch, biết cách lập chiến lược, đam mê kỹ thuật. 
-Mức lương cơ bản cho một sinh viên mới ra trường đảm nhận ở vị trí này thường từ 2 đến 2,5 triệu VND. Và cơ hội để nâng cao mức lương này khi bạn đã thực sự chuyên sâu ở công việc quản trị mạng sẽ khá cao. 
-Chúc bạn thành công!
-
-H.H thực hiện

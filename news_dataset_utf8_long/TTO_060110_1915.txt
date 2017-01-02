@@ -1,9 +1,0 @@
-﻿Xuất hiện thêm 2 lỗi bảo mật từ lỗ hổng WMF
-
-Lỗi đầu tiên là có thể lợi dụng lỗ hổng WMF này để tung ra các cuộc tấn công từ chối dịch vụ. Lỗi thứ hai là nó đã ảnh hưởng đến một file hạt nhân của Windows là explorer.exe và sẽ gây nên hiện tượng sập hệ thống Windows khi người dùng ngây thơ lỡ bật ra xem các file ảnh WMF đã được chế tạo chuyên dùng để tấn công vào lỗi bảo mật này. Trình Explorer ảnh hưởng đến toàn bộ giao diện Windows bao gồm cả Start Menu, Taskbar, Desktop và File manager. 
-Microsoft đã công nhận sự tồn tại của lỗi này sau khi nhận được thông báo. Họ đã nhận diện được lỗi này trước khi nhận được thông báo của nCicle và hứa sẽ đưa ra bản vá lỗi phát sinh này trong thời gian sớm nhất. 
-Microsoft cũng phản đối quan điểm cho rằng dạng lỗi này sẽ làm sập hệ thống Windows mà chỉ cho rằng nó chỉ ảnh hưởng đến các ứng dụng dùng để xem dạng file ảnh WMF, như Windows Picture hoặc Fax Viewer chẳng hạn. 
-Mike Murray, giám đốc công ty bảo mật nCircle tại San Francisco nhận định:”Hoàn toàn không có gì ngạc nhiên khi phát sinh thêm một vài lỗi bảo mật từ lỗ hổng WMF. Cũng chẳng lạ lùng gì khi chỉ 1 hoặc 2 tuần nữa sẽ xuất hiện thêm một chương trình khác chuyên khai thác lỗi bảo mật mới phát sinh này”. 
-Hiện chưa có báo cáo chính thức nào về thiệt hại do lỗi bảo mật này gây ra.
-
-HOÀNG HẢI (Theo CNET)

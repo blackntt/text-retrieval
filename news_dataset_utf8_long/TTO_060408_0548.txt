@@ -1,7 +1,0 @@
-﻿TP.HCM: đưa vào vận hành trạm xử lý nước thải
-
-Trạm gồm hai dây chuyền xử lý nước song song, chủ yếu xử lý nước thải ô nhiễm của kênh Đen bằng công nghệ hồ sục khí. Nước thải sau khi xử lý xong đạt tiêu chuẩn loại B. 
-Đây là một phần của dự án cải thiện vệ sinh và nâng cấp đô thị lưu vực kênh Tân Hóa - Lò Gốm tại TP.HCM do Chính phủ Bỉ tài trợ. Ở công suất tối đa, trạm có thể xử lý nước thải cho khoảng 200.000 người, tương đương dân số một quận thuộc TP. 
-Theo các chuyên gia dự án, nếu trạm xử lý hiệu quả và tiết kiệm năng lượng, mô hình này sẽ được tiếp tục triển khai với qui mô rộng hơn để xử lý nước thải của các con kênh trên địa bàn
-
-THU THẢO

@@ -1,7 +1,0 @@
-﻿Hệ thống phần mềm tự động hóa thiết kế kết cấu công trình xây dựng
-
-Công ty Tin học Xây dựng CIC Hà Nội là một đơn vị chuyên nghiên cứu và ứng dụng công nghệ thông tin phục vụ ngành xây dựng. Sản phẩm tham gia cuộc thi Nhân tài Đất Việt 2005 của công ty nhằm mục đích hỗ trợ công tác xây dựng cho các công trình.
-
- Hệ thống phần mềm tự động hóa thiết kế kết cấu công trình xây dựng xem xét tổng thể các công trình xây dựng như nhà chung cư; trung tâm thương mại; trụ sở làm việc; các công trình công nghiệp (nhà máy, xưởng chế tạo, các công trình thể thao như nhà thi đấu, trung tâm thể thao), các công trình nhà biệt thự; nhà chia lô; nhà liền kề của các hộ gia đình.... 
-Ngoài ra, phần mềm này cũng chú trọng đến các thành phần cấu tạo của công trình xây dựng như khung chịu lực bằng thép hay bê tông cốt thép, sàn chịu lực, các dạng móng khác nhau của công trình xây dựng. 
-Những cá nhân hoặc đơn vị có nhu cầu dùng thử sản phẩm có thể liên hệ trực tiếp với Công ty Tin học Xây dựng CIC (tại 37 Lê Đại Hành, Hà Nội, ĐT 04.9741436) để có thể được hướng dẫn và sử dụng thử phần mềm miễn phí. Bạn đọc có thể tham khảo thêm thông tin về phần mềm tại địa chỉ website: www.cic.com.vn Bảo Trung

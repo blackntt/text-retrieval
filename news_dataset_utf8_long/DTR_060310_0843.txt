@@ -1,8 +1,0 @@
-﻿Máy tính xách tay với pin nhiên liệu 14 giờ
-
-Công ty UltraCell (California, Mỹ) vừa ra mắt một mẫu pin có trọng lượng 0,9 kg tại diễn đàn các nhà phát triển Intel (IDF), hỗ trợ laptop hoạt động liên tục trong gần 15 giờ.
-
- William Hill, Phó giám đốc thị trường của UltraCell, khẳng định những mẫu máy tính này sẽ có mặt trong năm 2007 với giá chưa đến 500 USD. 
-Sản phẩm của UltraCell, sử dụng chất methanol, có giá khoảng 4 USD/bình. Những bình methanol này có thể được tái sản xuất. Pin nhiên liệu chuyển đổi oxy và hydro thành nước và điện năng. Tuy nhiên, sự phức tạp cùng chi phí sản xuất cao đã khiến chúng chưa thể xuất hiện trên thị trường. Hiện nay, nhiều nhà nghiên cứu đang tìm cách ứng dụng công nghệ trong ôtô, điện thoại di động và nhiều thiết bị điện tử khác. 
-Trong khi đó, Intel tỏ ra thận trọng khi nói về tương lai của pin nhiên liệu. Hãng sản xuất chip không mấy tin tưởng rằng máy tính xách tay sử dụng công nghệ này sẽ phát triển sớm. Họ vạch ra nhiều thách thức như những cản trở về phân phối, điều tiết, giấy phép chấp thuận cho sử dụng trên máy bay... và khẳng định pin nhiên liệu sẽ phải mất ít nhất 10 năm nữa mới có thể thịnh vượng. 
-Theo T.N. VnExpress/CNet

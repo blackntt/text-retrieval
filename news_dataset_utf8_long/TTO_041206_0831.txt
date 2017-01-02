@@ -1,8 +1,0 @@
-﻿Khai tử makelovenotspam
-
-Một liên minh hacker do các tay chuyên gửi spam thành lập đã tấn công dữ dội vào trang web makelovenotspam.com ngay từ lúc nó mới chào đời được vài giờ đồng hồ và sau đó đã giành quyền kiểm soát toàn bộ trang web này để ngăn chặn người dùng tải về chương trình chống spam dưới dạng trình bảo vệ màn hình. 
-Có lẽ hiện nay trang web đã đuợc các hacker “trao trả” lại cho Lycos, nhưng khi người dùng truy cập vào trang web này thì chỉ còn thấy được một thông điệp ngắn gọn là "Stay Tuned" (đang điều chỉnh) cùng với một biểu tượng của chữ ”Make love not spam”. Hiện nay Lycos đã xóa toàn bộ các quảng cáo cũng như tất cả những gì liên quan đến chương trình screensaver chống spam này trên trang web chính thức của mình (lycos.com). 
-Nhưng không phải người dùng Internet nào cũng có thể truy cập được vào trang makelovenotspam.com để có thể thấy đuợc dòng chữ “Stay Tuned”, một số các nhà cung cấp dịch vụ Internet như công ty Netcraft Ltd (đại công ty chuyên cung cấp dịch vụ net cũng như quản lý đường trục) … đã khoá hẳn địa chỉ này trên các máy chủ của mình. 
-Khi khách hàng của công ty này truy cập vào makelovenotspam.com thì chỉ nhận được một một thông điệp báo lỗi bình thường. Nguyên nhân của việc “ngăn sông cấm chợ” này là do chương trình makelovenotspam khi hoạt động sẽ gây nghẽn mạng nghiêm trọng còn hơn cả … spam nữa.
-
-HOÀNG HẢI (Theo PCworld)

@@ -1,6 +1,0 @@
-﻿Tổng kiểm tra hoạt động dịch vụ việc làm
-
-Đối tượng kiểm tra là các doanh nghiệp thành lập theo Luật doanh nghiệp có hoạt động DVVL, văn phòng giới thiệu việc làm các trường, trung tâm đào tạo, cơ sở dạy nghề, các doanh nghiệp. 
-Theo đánh giá của Sở LĐ-TB&amp;XH, TP hiện có 1.498 doanh nghiệp đăng ký hoạt động DVVL theo Luật doanh nghiệp trong tổng số trên 1.600 đơn vị, cơ sở DVVL; nhưng thực tế chỉ có trên 500 doanh nghiệp hoạt động thường xuyên và 100 đơn vị hoạt động hiệu quả. Vi phạm phổ biến nhất xảy ra ở mảng dịch vụ này là các cơ sở thu phí người lao động không thống nhất, nhiều doanh nghiệp thu cao gây khó khăn trong quá trình hoàn phí cho người lao động.
-
-N.BAY

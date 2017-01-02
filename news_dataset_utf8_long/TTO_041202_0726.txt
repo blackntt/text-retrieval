@@ -1,9 +1,0 @@
-﻿Microsoft tung ra bản sửa lỗi bảo mật mới nhất dành cho IE
-
-Bản vá lỗi này sẽ khắc phục được các lỗ hổng khi IE thực thi các tác vụ liên quan đến "frame" và "iframe" HTML. Lỗi này đã được phát hiện vào đầu tháng 11-2004 và đã được một phiên bản của sâu MyDoom cũng như các phiên bản khác nhau của sâu Bofra tận dụng để tấn công vào Windows. 
-Vào ngay đầu tháng 11, các chuyên gia bảo mật của Secunia và CERT (nhóm phản ứng khẩn cấp về an ninh máy tính) và đã cảnh báo về các đoạn mã của lỗ hổng bảo mật này đã được “lưu hành” rộng rãi trên Internet. Kẻ tấn công có thể lợi dụng lỗi này để đoạt hoàn toàn quyền kiểm soát máy tính. 
-Stephen Toulouse, giám đốc chuơng trình bảo mật của Microsoft, cho biết: "Chúng tôi đã kịch liệt phê phán sự “vạch trần vô trách nhiệm” đối với lỗ hổng bảo mật này của một số công ty bảo mật. Việc tung ra bản sửa lỗi mới nhất này ngoài lịch trình sửa lỗi được cập nhật hàng tháng sẽ giải quyết được vấn đề bảo mật nói trên”. Cũng theo Stephen Toulouse thì phạm vi của các cuộc tấn công lợi dụng lỗ hổng bảo mật này cũng không đáng kể. 
-Tuy nhiên Microsoft cũng đã xếp hạng bản cập nhật của mình vào hàng “khẩn cấp” và kêu gọi người dùng phải cài đặt ngay lập tức bản vá lỗi này. Cũng theo Microsoft thì người dùng Windows XP Service Pack 2 (SP2) hoàn toàn không bị ảnh hưởng gì. 
-Các hệ thống máy để bàn sử dụng XP, Windows 2000, Windows 98 và ngay cả Windows NT Server 4.0 cũng đều bị ảnh hưởng bởi lỗi bảo mật này. Người dùng có thể tham khảo mọi chi tiết về lỗi bảo mật nói trên tại http://www.microsoft.com/technet/security/bulletin/MS04-040.mspx .
-
-HOÀNG HẢI (Theo PCWorld)

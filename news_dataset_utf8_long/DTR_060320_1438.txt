@@ -1,6 +1,0 @@
-﻿Đưa dịch vụ Wimax cố định vào thử nghiệm
-
-Bốn doanh nghiệp chính thức được Bộ BCVT cấp phép thử nghiệm dịch vụ WiMax cố định là VNPT, FPT, Viettel và VTC sẽ được cấp dải tần số 3,3 GHz - 3,4 GHz. Dịch vụ này tuân theo tiêu chuẩn Version D vừa được Hiệp hội Viễn thông Quốc tế ITU phê duyệt, thông qua vào năm 2004. 
- Nguồn tin từ Bộ BCVT cho biết, Bộ chưa cấp phép cho các doanh nghiệp thử nghiệm dịch vụ WiMax di động vì ở thời điểm này vẫn chưa có thiết bị cho dịch vụ này. Sau một năm thử nghiệm, Bộ sẽ chính thức cấp phép cho doanh nghiệp cung cấp WiMax cố định. 
-Mặc dù vậy, sau thời gian thử nghiệm sẽ chỉ có 3 doanh nghiệp được chính thức cấp phép, sau khi đã có kết quả thử nghiệm. 
-Các điểm truy cập WiMax cho phép tín hiệu hoạt động tốt trong khoảng cách khoảng 45 km. Do đó, phiên bản đầu tiên này chỉ thay thế các mạng máy tính dùng dây trong gia đình. Công nghệ "mobile WiMax" (WiMax di động) sẽ ra đời trong năm 2007. Bảo Trung

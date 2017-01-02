@@ -1,7 +1,0 @@
-﻿Cuộc thi “Sôi động cùng Eurowindow V-League 2006”: Thép Miền Nam.CSG có thắng trên sân Vinh?
-
-Trong đó, V là mã cuộc thi, X là kết quả trận đấu, X=1 đội chủ nhà thắng, X=2 hòa, X=3 đội khách thắng, Y là số người dự đoán đúng kết quả trận đấu. Thời gian kết thúc tham gia dự đoán là phút 80 của trận đấu. VD: Bạn chọn TMN.CSG thắng và có 38.045 người dự đoán đúng thì soạn tin nhắn: V 3 38045 gửi đến 19001733. 
-Cách 2: Gọi điện đến số 19001733 và làm theo hướng dẫn để tham gia. 
-Giải thưởng: 1 giải nhất 3 triệu đồng, 1 giải nhì 2 triệu đồng, 2 giải ba 1 triệu đồng/giải.
-
-BTC

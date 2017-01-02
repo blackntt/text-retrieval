@@ -1,8 +1,0 @@
-﻿Microsoft ra mắt bản thử nghiệm Vista rộng rãi
-
-Sau nhiều tháng chạy thử nghiệm giới hạn, hôm qua, hãng phần mềm khổng lồ tung ra một phiên bản beta của Windows Vista cho phép người dùng thoải mái download để kiểm tra chất lượng của hệ điều hành thế hệ mới sắp được phát hành. 
- Microsoft cho biết, phiên bản “Customer Preview Program” (CCP) nhằm giúp đông đảo người dùng tiếp cận với các bản thử nghiệm của Vista trước khi chính thức tung ra thị trường vào tháng 1/2007. Hãng này dự định sẽ kết thúc giai đoạn thử nghiệm và phát triển Vista vào cuối năm nay. 
-Tháng trước, bản Beta 2 đã được phân phối tới một nhóm hạn chế những người thử nghiệm. 
-Trong phiên bản thử nghiệm rộng rãi này, Microsoft khuyến cáo rằng bản beta này không dành cho những người dùng không am hiểu lắm về công nghệ. Thực tế, CPP thích hợp với các nhà phát triển công nghệ, những nhân viên làm về vi tính cũng như mọi người yêu thích công nghệ. Microsoft cũng khuyến khích những người muốn tải CPP nên chạy một công cụ tư vấn mới được hãng cung cấp gần đây để nhận biết liệu máy của mình có tương thích với Vista hay không. 
-Người dùng quan tâm có thể cài đặt Vista thử nghiệm tại đây . 
-Hương Nguyên Theo CNet

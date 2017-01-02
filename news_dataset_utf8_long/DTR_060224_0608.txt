@@ -1,9 +1,0 @@
-﻿Lướt net di động
-
-Thay vì loay hoay với dịch vụ GPRS, những người sử dụng laptop có thể chuyển qua lướt net với dịch vụ E-Net của EVN Telecom. Khách hàng cũng có thể sử dụng card PCMCIA hoặc cáp dữ liệu để truy cập Internet. 
- Các thuê bao đang sử dụng Internet không dây tại Việt Nam sẽ có thêm lựa chọn mới là dịch vụ E-Net của EVN Telecom (Công ty Viễn Thông Điện Lực). Dịch vụ này cho phép người dùng truy cập Internet không dây với mạng băng thông rộng. Bạn sẽ lướt net như dịch vụ không dây Wi-Fi nhưng E-net phủ sóng rộng hơn. 
-Khách hàng muốn sử dụng dịch vụ này phải đăng ký thuê bao điện thoại E-phone với EVN Telecom. Đồng thời phải trang bị dây cáp chuyên dụng để kết nối với điện thoại di động với các loại máy tính. Bạn có thể kết nối theo cổng COM hoặc cổng USB tùy loại. Sau này, EVN Telecom sẽ cung cấp card chuyên dụng PCMCIA cho các loại máy tính xách tay. 
-Dịch vụ E-net sử dụng công nghệ mạng không dây CDMA 200 1x với tần số 450 MHz. Nó có khả năng cung cấp tốc độ truyền dữ liệu vào khoảng 153,6 Kb/giây. Như thế đã hạnh phúc hơn so với kết nối qua hệ thống GSM/GPRS hoặc Dial-up. 
-Có sóng - có net 
-EVN Telecom hiện chỉ cung cấp dịch vụ E-Net theo kiểu nội vùng. Khách hàng đăng ký E-Net không dây tại vùng nào chỉ được lướt net tại vùng đó. Ví dụ: Bạn đăng ký E-Phone và sử dụng E-Net tại TPHCM thì chỉ được sử dụng tại TPHCM. 
-Tuy nhiên, EVN Telecom cho biết, cuối năm nay, họ sẽ tung ra dịch vụ E-Mobile với tầm phủ sóng toàn quốc. Những người sử dụng dịch vụ E-Net sẽ kết nối Internet không dây tại những khu vực nào có E-Mobile. Tốc độ truy cập của E-Net sẽ tăng lên nhiều do sử dụng công nghệ CDMA 200 1X EV-DO. Tiêu chuẩn kết nối di động này có tốc độ tối đa lên đến 2,4 MB/giây. Các thành phố lớn như Hà Nội, Đà Nẵng, TPHCM... đã sẵn sàng cung cấp dịch vụ mới E-Net. Theo Thể thao ngày nay

@@ -139,10 +139,10 @@ public final class TokenizerProvider {
 	 * @return a provider object
 	 */
 	public static TokenizerProvider getInstance(String propertiesFilename) {
-		if (!instanceFlag) {
-			instanceFlag = true;
+		//if (!instanceFlag) {
+			//instanceFlag = true;
 			provider = new TokenizerProvider(propertiesFilename);
-		}
+		//}
 		return provider;
 	}
 

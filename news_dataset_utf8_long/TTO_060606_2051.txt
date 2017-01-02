@@ -1,7 +1,0 @@
-﻿Cho phép các hãng hàng không thử nghiệm dịch vụ Internet
-
-Tuy nhiên, máy bay của các hãng hàng không này phải là những máy bay đã được Cục Hàng không dân dụng VN cho phép hoạt động trên lãnh thổ VN. 
-Các hệ thống của CbB được phép sử dụng dải tần số 14.00 - 14.25 GHz đối với chiều từ Trái đất đến vũ trụ và dải tần số 12.20 - 12.45 GHz đối với chiều từ vũ trụ xuống Trái đất, đồng thời đảm bảo không gây can nhiễu đến các hệ thống thông tin khác. 
-Các hãng hàng không nói trên sẽ không được sử dụng hệ thống của CbB khi đỗ tại hoặc khi cất cánh, hạ cánh xuống các sân bay của VN.
-
-KHIẾT HƯNG

@@ -1,7 +1,0 @@
-﻿BK Eagle dự chung kết cuộc thi lập trình quốc tế
-
-Để đến được cuộc thi chung kết này, tổ chức tại San Antonio thuộc bang Texas, BK Eagle đã phải vượt qua vòng loại tại các bảng thi của 6 châu lục gồm 6.000 đội tuyển đến từ 1.700 trường đại học, đại diện cho 84 nước. 
-Lần đầu tiên tham dự nhưng BK Eagle đã giành vị trí thứ tư trong bảng tổng sắp và đứng đầu tại ACM/ICPC Teheran - một trong 198 điểm thi. 
-Theo Ban Tổ chức Olympic Tin học Sinh viên Việt Nam, Ban lãnh đạo kỳ thi ACM/ICPC toàn cầu và khu vực châu Á - Thái Bình Dương đã chấp thuận để Việt Nam trở thành điểm thi ACM/ICPC thứ 12 của khu vực, tổ chức vào tháng 11-2006, tại Đại học Quốc gia Hà Nội.
-
-Theo TTXVN

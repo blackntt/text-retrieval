@@ -1,7 +1,0 @@
-﻿Robot đa năng
-
-Đại học Nam California (Mỹ) đã thiết kế một loại robot có thể bò như rắn, uốn cong thành bánh xe, đi bộ như những đôi chân bình thường và chạy như xe tăng.
-Mang tên SuperBot, con robot này được chế tạo để thích ứng với mọi địa hình khác nhau và đủ linh hoạt để hoạt động trong các môi trường không thể dự đoán được. 
-"Hôm nay bạn muốn đào bới, ngày mai bạn muốn vận chuyển đồ vật, ngày hôm sau nữa bạn muốn khám phá các hố sâu ở cực nam mặt trăng, SuperBot của chúng tôi có thể làm được tất cả những việc này", Phó giáo sư Wei-Min Shen - tham gia cuộc nghiên cứu trên - tự hào cho biết. Các nhà khoa học hy vọng trong tương lai, SuperBot sẽ kiếm một chỗ trên tàu con thoi để lên thám hiểm mặt trăng và sao Hỏa.
-
-Theo Thanh Niên

@@ -1,8 +1,0 @@
-﻿Windows Vista Beta 2 đã sẵn sàng
-
-Microsoft đã công bố bản thử nghiệm Beta 2 của Windows Vista với 3 ngôn ngữ đầu tiên là Anh, Đức và Nhật, bao gồm đầy đủ các phiên bản 32 và 64 bit. Dung lượng tải về quả thật là lớn, chẳng hạn phiên bản tiếng Anh 32 bit có dung lượng đến những 3,13 GB. 
-Nếu người dùng không đủ kiên nhẫn để tải về thì có thể đặt mua với Microsoft các bản thử nghiệm đã đánh sẵn trên đĩa DVD với giá là 6 USD/đĩa, chưa tính giá cước bưu điện. 
-Để cài đặt thành công được bản thử nghiệm này cũng khá nhiêu khê. Sau khi tải về hoàn tất bằng các bản Windows đã được Microsoft chứng thực bản quyền hợp pháp, người dùng cần phải ghi toàn bộ nội dung của bản tải về lên đĩa DVD sau đó tiến hành cài đặt. Mã khoá cài đặt sẽ được Microsoft gửi cho người tải sau khi xác thực bản quyền của bản Windows dùng để tải Windows Vista về. Để hỗ trợ cho mọi người tải về, Microsoft đã sử dụng các công nghệ lưu trữ và hỗ trợ tải file hiệu quả của Akamai Technologies, đối tác thân thiết của Microsoft. 
-Những ai quan tâm và muốn sử dụng thử Windows Vista Beta 2 có thể vào đây để tải về và cài đặt theo các hướng dẫn chi tiết của Microsoft.
-
-HOÀNG HẢI (TechWeb)

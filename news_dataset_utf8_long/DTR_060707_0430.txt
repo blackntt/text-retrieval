@@ -1,8 +1,0 @@
-﻿Mỗi ngày một lỗ hổng trình duyệt
-
-Một hacker nổi tiếng đã phát hiện khá nhiều vấn đề trong các browser và dự định sẽ tiết lộ dần trong 31 ngày tới. Ông tuyên bố tháng này sẽ là "tháng của lỗi bảo mật trình duyệt" 
- Tính đến hôm nay, HD Moore, tác giả của Metasploit Framework - công cụ kiểm tra xem một hệ thống có thực sự an toàn trước các cuộc thâm nhập, đã công bố tất cả ba sự cố của Microsoft Internet Explorer, một trong Mozilla Firefox và một lỗi của Apple Safari. 
-"Web cá nhân của tôi sẽ là nơi nghiên cứu và trao đổi về những vấn đề bảo mật xuất hiện trong browser trên Internet. Tôi sẽ chứng minh mối nguy hiểm nhưng cố gắng không hướng dẫn trực tiếp để tránh nguy cơ “vẽ đường” cho hacker xử lý mã từ xa", Moore khẳng định. 
-Moore cho biết ông đã thông báo 2 rắc rối của Internet Explorer với Microsoft trong tháng 3 nhưng công ty này cho rằng chúng chẳng có gì nghiêm trọng cả. 
-HD Moore không đánh giá cụ thể mức độ nghiêm trọng của các lỗ hổng mà ông đăng trên blog mấy ngày qua, nhưng hãng bảo mật Đan Mạch Secunia đã xếp một lỗi mà Moore đặt tên là Internet.HHCtrl Image Property ở mức "rất nguy hiểm". 
-Theo T.N. VnExpress/CNet

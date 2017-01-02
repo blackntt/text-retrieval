@@ -1,8 +1,0 @@
-﻿“Trợ thủ” vẽ biểu đồ
-
-Để bắt đầu, bạn nhấp vào nút Open Diagram, sau đó chọn một trong tám dạng biểu đồ phổ biến nhất mà WizFlow Flowcharter đã cung cấp sẵn. Để chỉnh sửa một hình dạng ô nào đó, bạn chỉ việc nhấp vào ô để hiện lên các điểm điều chỉnh, sau đó dùng chuột để di chuyển hoặc chỉnh sửa theo đủ mọi hướng cần thiết. 
-Bạn cũng có thể chèn vào các ô biểu đồ bao nhiêu hình ảnh, ký hiệu, biểu tượng… tùy thích. Bạn chỉ cần click vào để chọn ô cần chèn vào đoạn văn bản, sau đó nhấn vào biểu tượng chữ T để đưa con trỏ văn bản vào ô cần chèn là xong. WizFlow hỗ trợ không tốt cho font chữ Unicode tiếng Việt nhưng nếu gõ vào bằng kiểu font VNI hay ABC thì không có gì trục trặc. 
-WizFlow tương thích với MS Word. Bạn dùng tổ hợp phím Ctrl+A để đánh dấu toàn bộ biểu đồ vừa tạo xong -&gt; Ctrl+C để copy toàn bộ biểu đồ vào clipboard -&gt; sau đó dán thẳng vào cửa sổ văn bản của MS Word là toàn bộ biểu đồ của bạn sẽ được bê nguyên xi sang Word, hệt như một biểu đồ được tạo ra ngay trong Word. 
-Công ty Pacestar Software đang bán ra bản WizFlow Flowcharter Professional 5.04 với giá 84,95 USD, còn bản WizFlow Flowcharter Standard có giá 44,95 USD. Người dùng có thể vào địa chỉ http://www.pacestar.com/wizflow/trial.htm để tải về bản dùng thử.
-
-HOÀNG HẢI

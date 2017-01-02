@@ -1,8 +1,0 @@
-﻿Chế tạo thành công thiết bị khống chế tốc độ đầu máy
-
-Thiết bị được chế tạo theo nguyên lý: thu tín hiệu từ vệ tinh GPS và tín hiệu đầu trục để theo dõi, kiểm soát tốc độ tức thời của đầu máy theo lý trình cho phép của công lệnh chạy tàu do ngành đường sắt ban hành. 
-Hệ thống này sẽ cảnh báo cho người lái tàu khi tốc độ đoàn tàu đến sát tốc độ lớn nhất cho phép (khoảng 95%-98% tốc độ cho phép) và khi vượt quá 98% tốc độ cho phép để người lái tàu chú ý giảm tốc. Nếu vận tốc vẫn không giảm, hệ thống sẽ tự động xả gió để dừng đoàn tàu, đồng thời ghi lại lỗi này của người lái tàu. 
-Thiết bị còn có khả năng lưu số liệu trong quá trình 15.000km vận dụng của đầu máy để phục vụ công tác nghiên cứu, điều tra, kiểm tra, đánh giá chất lượng trình độ tay nghề của người lái tàu. 
-Sau 4 ngày thử nghiệm, đánh giá đợt đầu, cả hai thiết bị chống vượt tốc độ đầu máy của hai đơn vị kể trên đã đảm bảo các yêu cầu đặt ra.
-
-Theo TTXVN
